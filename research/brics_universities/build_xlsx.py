@@ -233,7 +233,7 @@ def main(out, paths):
         summary.append([
             COUNTRY_RU.get(country, country), len(rs),
             *(sum(r["wave"] == w for r in rs) for w in ("1A", "1B", "2", "3")),
-            sum(bool(r.get("email_general") or r.get("email_international")) for r in rs),
+            sum(bool(outreach_email(r)) for r in rs),
             sum(bool(r.get("head_name")) for r in rs),
         ])
     summary.append([])
