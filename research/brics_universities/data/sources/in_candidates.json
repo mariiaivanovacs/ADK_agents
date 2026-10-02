@@ -1,0 +1,1402 @@
+[
+{
+"name_en": "Indian Institute of Space Science and Technology",
+"depth": "FULL",
+"nirf2025": "NIRF2025 Engineering: 61",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Indian Institute of Technology Kanpur",
+"depth": "FULL",
+"nirf2025": "NIRF2025 Engineering: 4",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Indian Institute of Technology Bombay",
+"depth": "FULL",
+"nirf2025": "NIRF2025 Engineering: 3",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Indian Institute of Technology Madras",
+"depth": "FULL",
+"nirf2025": "NIRF2025 Engineering: 1",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Indian Institute of Technology Kharagpur",
+"depth": "FULL",
+"nirf2025": "NIRF2025 Engineering: 5",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Indian Institute of Technology Delhi",
+"depth": "FULL",
+"nirf2025": "NIRF2025 Engineering: 2",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Indian Institute of Technology Hyderabad",
+"depth": "FULL",
+"nirf2025": "NIRF2025 Engineering: 7",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Indian Institute of Science",
+"depth": "FULL",
+"nirf2025": "NIRF2025 University: 1",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "COEP Technological University",
+"depth": "FULL",
+"nirf2025": "NIRF2025 Engineering: 90",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "PES University",
+"depth": "FULL",
+"nirf2025": "",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Somaiya Vidyavihar University",
+"depth": "FULL",
+"nirf2025": "",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Nitte Meenakshi Institute of Technology",
+"depth": "FULL",
+"nirf2025": "",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "SRM Institute of Science and Technology",
+"depth": "FULL",
+"nirf2025": "NIRF2025 University: 11",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Sathyabama Institute of Science and Technology",
+"depth": "FULL",
+"nirf2025": "NIRF2025 University: 53",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Jeppiaar Institute of Technology",
+"depth": "FULL",
+"nirf2025": "",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "G H Raisoni College of Engineering",
+"depth": "FULL",
+"nirf2025": "",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Sri Shakthi Institute of Engineering and Technology",
+"depth": "FULL",
+"nirf2025": "",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "JSS Science and Technology University",
+"depth": "FULL",
+"nirf2025": "",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Vemana Institute of Technology",
+"depth": "FULL",
+"nirf2025": "",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Birla Institute of Technology and Science Pilani",
+"depth": "FULL",
+"nirf2025": "NIRF2025 University: 7",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "R V College of Engineering",
+"depth": "FULL",
+"nirf2025": "",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Anna University",
+"depth": "FULL",
+"nirf2025": "NIRF2025 University: 20",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Maulana Azad National Institute of Technology Bhopal",
+"depth": "FULL",
+"nirf2025": "NIRF2025 Engineering: 81",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "University of Petroleum and Energy Studies",
+"depth": "FULL",
+"nirf2025": "",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "National Institute of Technology Rourkela",
+"depth": "FULL",
+"nirf2025": "NIRF2025 Engineering: 13",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Lovely Professional University",
+"depth": "FULL",
+"nirf2025": "NIRF2025 University: 31",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Manipal Academy of Higher Education",
+"depth": "FULL",
+"nirf2025": "NIRF2025 University: 3",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Thapar Institute of Engineering and Technology",
+"depth": "FULL",
+"nirf2025": "NIRF2025 University: 26",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Noorul Islam Centre for Higher Education",
+"depth": "FULL",
+"nirf2025": "",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Karunya Institute of Technology and Sciences",
+"depth": "FULL",
+"nirf2025": "",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Amity University",
+"depth": "FULL",
+"nirf2025": "NIRF2025 University: 22",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Vellore Institute of Technology",
+"depth": "FULL",
+"nirf2025": "NIRF2025 University: 14",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Pondicherry University",
+"depth": "FULL",
+"nirf2025": "",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Kalasalingam Academy of Research and Education",
+"depth": "FULL",
+"nirf2025": "NIRF2025 University: 28",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Indian Agricultural Research Institute",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 16",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Punjab Agricultural University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 64",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Tamil Nadu Agricultural University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 73",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "University of Agricultural Sciences Bangalore",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 95",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Indian Maritime University",
+"depth": "LIGHT",
+"nirf2025": "",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Cochin University of Science and Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 32",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Andhra University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 23",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Gujarat University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 74",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Indian Institute of Remote Sensing",
+"depth": "LIGHT",
+"nirf2025": "",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Physical Research Laboratory",
+"depth": "LIGHT",
+"nirf2025": "",
+"city_hint": "",
+"state": ""
+},
+{
+"name_en": "Jawaharlal Nehru University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 2",
+"city_hint": "New Delhi",
+"state": "Delhi"
+},
+{
+"name_en": "Jamia Millia Islamia",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 4",
+"city_hint": "New Delhi",
+"state": "Delhi"
+},
+{
+"name_en": "University of Delhi",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 5",
+"city_hint": "Delhi",
+"state": "Delhi"
+},
+{
+"name_en": "Indian Institute of Technology Roorkee",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 6",
+"city_hint": "Roorkee",
+"state": "Uttarakhand"
+},
+{
+"name_en": "Banaras Hindu University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 6",
+"city_hint": "Varanasi",
+"state": "Uttar Pradesh"
+},
+{
+"name_en": "Indian Institute of Technology Guwahati",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 8",
+"city_hint": "Guwahati",
+"state": "Assam"
+},
+{
+"name_en": "Amrita Vishwa Vidyapeetham",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 8",
+"city_hint": "Coimbatore",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "National Institute of Technology Tiruchirappalli",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 9",
+"city_hint": "Tiruchirappalli",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "Jadavpur University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 9",
+"city_hint": "Kolkata",
+"state": "West Bengal"
+},
+{
+"name_en": "Aligarh Muslim University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 10",
+"city_hint": "Aligarh",
+"state": "Uttar Pradesh"
+},
+{
+"name_en": "Indian Institute of Technology Indore",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 12",
+"city_hint": "Indore",
+"state": "Madhya Pradesh"
+},
+{
+"name_en": "Homi Bhabha National Institute",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 12",
+"city_hint": "Mumbai",
+"state": "Maharashtra"
+},
+{
+"name_en": "Saveetha Institute of Medical and Technical Sciences",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 13",
+"city_hint": "Chennai",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "Indian Institute of Technology (Indian School of Mines)",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 15",
+"city_hint": "Dhanbad",
+"state": "Jharkhand"
+},
+{
+"name_en": "Siksha `O` Anusandhan",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 15",
+"city_hint": "Bhubaneswar",
+"state": "Odisha"
+},
+{
+"name_en": "National Institute of Technology Karnataka, Surathkal",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 17",
+"city_hint": "Surathkal",
+"state": "Karnataka"
+},
+{
+"name_en": "Kalinga Institute of Industrial Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 17",
+"city_hint": "Bhubaneswar",
+"state": "Odisha"
+},
+{
+"name_en": "University of Hyderabad",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 18",
+"city_hint": "Hyderabad",
+"state": "Telangana"
+},
+{
+"name_en": "Indian Institute of Technology Patna",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 19",
+"city_hint": "Patna",
+"state": "Bihar"
+},
+{
+"name_en": "Chandigarh University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 19",
+"city_hint": "Mohali",
+"state": "Punjab"
+},
+{
+"name_en": "National Institute of Technology Calicut",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 21",
+"city_hint": "Kozhikode",
+"state": "Kerala"
+},
+{
+"name_en": "JSS Academy of Higher Education and Research",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 21",
+"city_hint": "Mysuru",
+"state": "Karnataka"
+},
+{
+"name_en": "Symbiosis International",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 24",
+"city_hint": "Pune",
+"state": "Maharashtra"
+},
+{
+"name_en": "Indian Institute of Technology Gandhinagar",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 25",
+"city_hint": "Gandhinagar",
+"state": "Gujarat"
+},
+{
+"name_en": "Kerala University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 25",
+"city_hint": "Thiruvananthapuram",
+"state": "Kerala"
+},
+{
+"name_en": "Indian Institute of Technology Mandi",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 26",
+"city_hint": "Mandi",
+"state": "Himachal Pradesh"
+},
+{
+"name_en": "Koneru Lakshmaiah Education Foundation University (K L College of Engineering)",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 26",
+"city_hint": "Vaddeswaram",
+"state": "Andhra Pradesh"
+},
+{
+"name_en": "Indian Institute of Technology Jodhpur",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 27",
+"city_hint": "Jodhpur",
+"state": "Rajasthan"
+},
+{
+"name_en": "National Institute of Technology Warangal",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 28",
+"city_hint": "Warangal",
+"state": "Telangana"
+},
+{
+"name_en": "Shanmugha Arts Science Technology & Research Academy",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 29",
+"city_hint": "Thanjavur",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "Delhi Technological University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 30",
+"city_hint": "New Delhi",
+"state": "Delhi"
+},
+{
+"name_en": "Osmania University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 30",
+"city_hint": "Hyderabad",
+"state": "Telangana"
+},
+{
+"name_en": "Indian Institute of Technology Ropar",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 32",
+"city_hint": "Rupnagar",
+"state": "Punjab"
+},
+{
+"name_en": "Gauhati University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 33",
+"city_hint": "Guwahati",
+"state": "Assam"
+},
+{
+"name_en": "University of Kashmir",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 34",
+"city_hint": "Srinagar",
+"state": "Jammu and Kashmir"
+},
+{
+"name_en": "Panjab University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 35",
+"city_hint": "Chandigarh",
+"state": "Chandigarh"
+},
+{
+"name_en": "Bharathidasan University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 36",
+"city_hint": "Tiruchirappalli",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "Babasheb Bhimrao Ambedkar University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 37",
+"city_hint": "Lucknow",
+"state": "Uttar Pradesh"
+},
+{
+"name_en": "International Institute of Information Technology Hyderabad",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 38",
+"city_hint": "Hyderabad",
+"state": "Telangana"
+},
+{
+"name_en": "University of Madras",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 38",
+"city_hint": "Chennai",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "Indian Institute of Technology Bhubaneswar",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 39",
+"city_hint": "Bhubaneswar",
+"state": "Odisha"
+},
+{
+"name_en": "Calcutta University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 39",
+"city_hint": "Kolkata",
+"state": "West Bengal"
+},
+{
+"name_en": "Institute of Chemical Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 40",
+"city_hint": "Mumbai",
+"state": "Maharashtra"
+},
+{
+"name_en": "Dr. D. Y. Patil Vidyapeeth",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 41",
+"city_hint": "Pune",
+"state": "Maharashtra"
+},
+{
+"name_en": "Malaviya National Institute of Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 42",
+"city_hint": "Jaipur",
+"state": "Rajasthan"
+},
+{
+"name_en": "UPES",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 43",
+"city_hint": "Dehradun",
+"state": "Uttarakhand"
+},
+{
+"name_en": "Mahatma Gandhi University, Kottayam",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 43",
+"city_hint": "Kottayam",
+"state": "Kerala"
+},
+{
+"name_en": "Visvesvaraya National Institute of Technology, Nagpur",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 44",
+"city_hint": "Nagpur",
+"state": "Maharashtra"
+},
+{
+"name_en": "Alagappa University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 44",
+"city_hint": "Karaikudi",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "Bharathiar University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 46",
+"city_hint": "Coimbatore",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "Sri Sivasubramaniya Nadar College of Engineering",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 47",
+"city_hint": "Kalavakkam",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "Jamia Hamdard",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 47",
+"city_hint": "New Delhi",
+"state": "Delhi"
+},
+{
+"name_en": "Graphic Era University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 48",
+"city_hint": "Dehradun",
+"state": "Uttarakhand"
+},
+{
+"name_en": "National Institute of Technology Durgapur",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 49",
+"city_hint": "Durgapur",
+"state": "West Bengal"
+},
+{
+"name_en": "Datta Meghe Institute of Higher Education and Research",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 49",
+"city_hint": "Wardha",
+"state": "Maharashtra"
+},
+{
+"name_en": "National Institute of Technology Silchar",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 50",
+"city_hint": "Silchar",
+"state": "Assam"
+},
+{
+"name_en": "King George`s Medical University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 50",
+"city_hint": "Lucknow",
+"state": "Uttar Pradesh"
+},
+{
+"name_en": "Birla Institute of Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 51",
+"city_hint": "Ranchi",
+"state": "Jharkhand"
+},
+{
+"name_en": "University of Jammu",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 51",
+"city_hint": "Jammu",
+"state": "Jammu and Kashmir"
+},
+{
+"name_en": "SVKM`s Narsee Monjee Institute of Management Studies",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 52",
+"city_hint": "Mumbai",
+"state": "Maharashtra"
+},
+{
+"name_en": "National Institute of Technology Patna",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 53",
+"city_hint": "Patna",
+"state": "Bihar"
+},
+{
+"name_en": "Indian Institute of Engineering Science and Technology, Shibpur",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 54",
+"city_hint": "Howrah",
+"state": "West Bengal"
+},
+{
+"name_en": "Mumbai University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 54",
+"city_hint": "Mumbai",
+"state": "Maharashtra"
+},
+{
+"name_en": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 55",
+"city_hint": "Jalandhar",
+"state": "Punjab"
+},
+{
+"name_en": "Indian Institute of Technology Jammu",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 56",
+"city_hint": "Jammu",
+"state": "Jammu and Kashmir"
+},
+{
+"name_en": "Savitribai Phule Pune University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 56",
+"city_hint": "Pune",
+"state": "Maharashtra"
+},
+{
+"name_en": "Indian Institute of Technology, Tirupati",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 57",
+"city_hint": "Tirupati",
+"state": "Andhra Pradesh"
+},
+{
+"name_en": "Shiv Nadar University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 57",
+"city_hint": "Gautam Buddha Nagar",
+"state": "Uttar Pradesh"
+},
+{
+"name_en": "Manipal University Jaipur",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 58",
+"city_hint": "Jaipur",
+"state": "Rajasthan"
+},
+{
+"name_en": "Manipal Institute of Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 59",
+"city_hint": "Manipal",
+"state": "Karnataka"
+},
+{
+"name_en": "Bharati Vidyapeeth",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 59",
+"city_hint": "Pune",
+"state": "Maharashtra"
+},
+{
+"name_en": "Madan Mohan Malaviya University of Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 60",
+"city_hint": "Gorakhpur",
+"state": "Uttar Pradesh"
+},
+{
+"name_en": "Sri Ramachandra Institute of Higher Education and Research",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 60",
+"city_hint": "Chennai",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "Chettinad Academy of Research and Education",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 61",
+"city_hint": "Kelambakkam, Chengalpattu District",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "Motilal Nehru National Institute of Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 62",
+"city_hint": "Prayagraj",
+"state": "Uttar Pradesh"
+},
+{
+"name_en": "Jain university,Bangalore",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 62",
+"city_hint": "Bengaluru",
+"state": "Karnataka"
+},
+{
+"name_en": "Indraprastha Institute of Information Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 63",
+"city_hint": "New Delhi",
+"state": "Delhi"
+},
+{
+"name_en": "Christ University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 63",
+"city_hint": "Bengaluru",
+"state": "Karnataka"
+},
+{
+"name_en": "Indian Institute of Technology Palakkad",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 64",
+"city_hint": "Palakkad",
+"state": "Kerala"
+},
+{
+"name_en": "National Institute of Technology Delhi",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 65",
+"city_hint": "Delhi",
+"state": "Delhi"
+},
+{
+"name_en": "Bangalore University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 65",
+"city_hint": "Bengaluru",
+"state": "Karnataka"
+},
+{
+"name_en": "Sardar Vallabhbhai National Institute of Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 66",
+"city_hint": "SURAT",
+"state": "Gujarat"
+},
+{
+"name_en": "Banasthali Vidyapith",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 66",
+"city_hint": "Banasthali",
+"state": "Rajasthan"
+},
+{
+"name_en": "Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 67",
+"city_hint": "Puducherry",
+"state": "Pondicherry"
+},
+{
+"name_en": "PSG College of Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 67",
+"city_hint": "Coimbatore",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "International Institute of Information Technology Bangalore",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 69",
+"city_hint": "Bengaluru",
+"state": "Karnataka"
+},
+{
+"name_en": "Shoolini University of Biotechnology and Management Sciences",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 69",
+"city_hint": "Solan",
+"state": "Himachal Pradesh"
+},
+{
+"name_en": "Netaji Subhas University of Technology (NSUT)",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 70",
+"city_hint": "Delhi",
+"state": "Delhi"
+},
+{
+"name_en": "Vignan's Foundation for Science, Technology and Research",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 70",
+"city_hint": "Guntur",
+"state": "Andhra Pradesh"
+},
+{
+"name_en": "Mysore University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 71",
+"city_hint": "Mysuru",
+"state": "Karnataka"
+},
+{
+"name_en": "Indian Institute of Technology Bhilai",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 72",
+"city_hint": "Durg",
+"state": "Chhattisgarh"
+},
+{
+"name_en": "Tata Institute of Social Sciences",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 72",
+"city_hint": "Mumbai",
+"state": "Maharashtra"
+},
+{
+"name_en": "National Institute of Technology Srinagar",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 73",
+"city_hint": "Srinagar",
+"state": "Jammu and Kashmir"
+},
+{
+"name_en": "M. S. Ramaiah Institute of Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 75",
+"city_hint": "Bengaluru",
+"state": "Karnataka"
+},
+{
+"name_en": "Sher-e-Kashmir University of Agricultural Science and Technology of Kashmir",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 75",
+"city_hint": "Srinagar",
+"state": "Jammu and Kashmir"
+},
+{
+"name_en": "Bharath Institute of Higher Education & Research",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 76",
+"city_hint": "Chennai",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "Indian Institute of Technology Dharwad",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 77",
+"city_hint": "Dharwad",
+"state": "Karnataka"
+},
+{
+"name_en": "Central University of Punjab",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 77",
+"city_hint": "Bathinda",
+"state": "Punjab"
+},
+{
+"name_en": "Rajiv Gandhi Institute of Petroleum Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 78",
+"city_hint": "Amethi",
+"state": "Uttar Pradesh"
+},
+{
+"name_en": "Chitkara  University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 78",
+"city_hint": "Rajpura",
+"state": "Punjab"
+},
+{
+"name_en": "Sant Longowal Institute of Engineering & Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 79",
+"city_hint": "Longowal",
+"state": "Punjab"
+},
+{
+"name_en": "Tezpur University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 79",
+"city_hint": "Tezpur",
+"state": "Assam"
+},
+{
+"name_en": "NITTE",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 80",
+"city_hint": "Mangaluru",
+"state": "Karnataka"
+},
+{
+"name_en": "Jawaharlal Nehru Technological University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 81",
+"city_hint": "Hyderabad",
+"state": "Telangana"
+},
+{
+"name_en": "National Institute of Technology, Jamshedpur",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 82",
+"city_hint": "Jamshedpur",
+"state": "Jharkhand"
+},
+{
+"name_en": "Mizoram University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 82",
+"city_hint": "Aizawl",
+"state": "Mizoram"
+},
+{
+"name_en": "National Institute of Technology Meghalaya",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 83",
+"city_hint": "Shillong",
+"state": "Meghalaya"
+},
+{
+"name_en": "Central University of Tamil Nadu",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 83",
+"city_hint": "Tiruvarur",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "Acharya Nagarjuna University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 84",
+"city_hint": "Guntur",
+"state": "Andhra Pradesh"
+},
+{
+"name_en": "National Institute of Technology Kurukshetra",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 85",
+"city_hint": "Kurukshetra",
+"state": "Haryana"
+},
+{
+"name_en": "Maharishi Markandeshwar",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 85",
+"city_hint": "Ambala",
+"state": "Haryana"
+},
+{
+"name_en": "National Institute of Technology, Raipur",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 86",
+"city_hint": "Raipur",
+"state": "Chhattisgarh"
+},
+{
+"name_en": "Madurai Kamaraj University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 85",
+"city_hint": "Madurai",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 87",
+"city_hint": "Chennai",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "Sharda University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 87",
+"city_hint": "Greater Noida",
+"state": "Uttar Pradesh"
+},
+{
+"name_en": "AU College of Engineering (A)",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 88",
+"city_hint": "Visakhapatnam",
+"state": "Andhra Pradesh"
+},
+{
+"name_en": "Gandhi Institute of Technology And Management (GITAM)",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 88",
+"city_hint": "Visakhapatnam",
+"state": "Andhra Pradesh"
+},
+{
+"name_en": "Central University of Rajasthan",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 89",
+"city_hint": "Kishangarh",
+"state": "Rajasthan"
+},
+{
+"name_en": "SR University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 91",
+"city_hint": "Warangal",
+"state": "Telangana"
+},
+{
+"name_en": "Defence Institute of Advanced Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 92",
+"city_hint": "Pune",
+"state": "Maharashtra"
+},
+{
+"name_en": "Guru Gobind Singh Indraprastha University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 93",
+"city_hint": "New Delhi",
+"state": "Delhi"
+},
+{
+"name_en": "Periyar University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 94",
+"city_hint": "Salem",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "C.V. Raman Global University, Odisha",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 95",
+"city_hint": "Bhubaneswar",
+"state": "Odisha"
+},
+{
+"name_en": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 96",
+"city_hint": "Gwalior",
+"state": "Madhya Pradesh"
+},
+{
+"name_en": "Manav Rachna International Institute of Research & Studies",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 96",
+"city_hint": "Faridabad",
+"state": "Haryana"
+},
+{
+"name_en": "National Institute of Technology Hamirpur",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 97",
+"city_hint": "Hamirpur",
+"state": "Himachal Pradesh"
+},
+{
+"name_en": "Assam University-Silchar",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 97",
+"city_hint": "Silchar",
+"state": "Assam"
+},
+{
+"name_en": "Pandit Deendayal Energy University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 98",
+"city_hint": "Gandhinagar",
+"state": "Gujarat"
+},
+{
+"name_en": "University of Lucknow",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 98",
+"city_hint": " Lucknow",
+"state": "Uttar Pradesh"
+},
+{
+"name_en": "National Institute of Technology Puducherry",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 99",
+"city_hint": "Karaikal",
+"state": "Pondicherry"
+},
+{
+"name_en": "Avinashilingam Institute for Home Science & Higher Education for Women",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 University: 99",
+"city_hint": "Coimbatore",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "Sri Krishna College of Engineering and Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 100",
+"city_hint": "Coimbatore",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "Anurag University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Hyderabad",
+"state": "Telangana"
+},
+{
+"name_en": "Bansilal Ramnath Agarwal Charitable Trust`s Vishwakarama Institute of Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Pune",
+"state": "Maharashtra"
+},
+{
+"name_en": "Chandigarh Engineering College-CGC, Landran, Mohali",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Mohali",
+"state": "Punjab"
+},
+{
+"name_en": "Chennai Institute of Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Chennai",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "Coimbatore Institute of Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Coimbatore",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "College of Engineering Trivandrum",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Thiruvananthapuram",
+"state": "Kerala"
+},
+{
+"name_en": "Dr. Vishwanath Karad MIT World Peace University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Pune",
+"state": "Maharashtra"
+},
+{
+"name_en": "Easwari Engineering College",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Chennai",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "Galgotias University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Gautam Budh Nagar",
+"state": "Uttar Pradesh"
+},
+{
+"name_en": "Hindustan Institute of Technology  and Science (HITS)",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Chennai",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "Indian Institute of Information Technology Allahabad",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Prayagraj",
+"state": "Uttar Pradesh"
+},
+{
+"name_en": "Indian Institute of Technology Goa",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Ponda",
+"state": "Goa"
+},
+{
+"name_en": "Jaypee Institute of Information Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Noida",
+"state": "Uttar Pradesh"
+},
+{
+"name_en": "Kongu Engineering College",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Perundurai",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "KPR Institute of Engineering and Technology",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Coimbatore",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "Mahindra University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Hyderabad",
+"state": "Telangana"
+},
+{
+"name_en": "Maulana Azad National Urdu University",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Hyderabad",
+"state": "Telangana"
+},
+{
+"name_en": "National Institute of Food Technology, Enterprenurship & Management",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Sonipat",
+"state": "Haryana"
+},
+{
+"name_en": "National Institute of Food Technology, Entrepreneurship and Management - Thanjavur (NIFTEM - Thanjavur)",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Thanjavur",
+"state": "Tamil Nadu"
+},
+{
+"name_en": "National Institute of Technology Agartala",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Agratala",
+"state": "Tripura"
+},
+{
+"name_en": "National Institute of Technology Arunachal Pradesh",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Itanagar",
+"state": "Arunachal Pradesh"
+},
+{
+"name_en": "National Institute of Technology Goa",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Cuncolim",
+"state": "Goa"
+},
+{
+"name_en": "National Institute of Technology Mizoram",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 101-150",
+"city_hint": "Aizawl",
+"state": "Mizoram"
+},
+{
+"name_en": "Indian Institute of Technology (BHU) Varanasi",
+"depth": "LIGHT",
+"nirf2025": "NIRF2025 Engineering: 10",
+"city_hint": "Varanasi",
+"state": "Uttar Pradesh"
+}
+]

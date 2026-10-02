@@ -1,0 +1,1122 @@
+[
+{
+"name_native": "澳门科技大学",
+"name_en": "Macau University of Science and Technology",
+"bcur2026": "",
+"province": "",
+"depth": "FULL"
+},
+{
+"name_native": "香港理工大学",
+"name_en": "The Hong Kong Polytechnic University",
+"bcur2026": "",
+"province": "",
+"depth": "FULL"
+},
+{
+"name_native": "香港科技大学",
+"name_en": "The Hong Kong University of Science and Technology",
+"bcur2026": "",
+"province": "",
+"depth": "FULL"
+},
+{
+"name_native": "香港中文大学",
+"name_en": "The Chinese University of Hong Kong",
+"bcur2026": "",
+"province": "",
+"depth": "FULL"
+},
+{
+"name_native": "香港大学",
+"name_en": "The University of Hong Kong",
+"bcur2026": "",
+"province": "",
+"depth": "FULL"
+},
+{
+"name_native": "香港城市大学",
+"name_en": "City University of Hong Kong",
+"bcur2026": "",
+"province": "",
+"depth": "FULL"
+},
+{
+"name_native": "沈阳航空航天大学",
+"name_en": "Shenyang Aerospace University",
+"bcur2026": "179",
+"province": "辽宁",
+"depth": "FULL"
+},
+{
+"name_native": "南昌航空大学",
+"name_en": "Nanchang Hangkong University",
+"bcur2026": "181",
+"province": "江西",
+"depth": "FULL"
+},
+{
+"name_native": "中国民航大学",
+"name_en": "Civil Aviation University of China",
+"bcur2026": "226",
+"province": "天津",
+"depth": "FULL"
+},
+{
+"name_native": "长春理工大学",
+"name_en": "Changchun University of Science and Technology",
+"bcur2026": "138",
+"province": "吉林",
+"depth": "FULL"
+},
+{
+"name_native": "西安工业大学",
+"name_en": "Xi'an Technological University",
+"bcur2026": "206",
+"province": "陕西",
+"depth": "FULL"
+},
+{
+"name_native": "沈阳理工大学",
+"name_en": "Shenyang Ligong University",
+"bcur2026": "254",
+"province": "辽宁",
+"depth": "FULL"
+},
+{
+"name_native": "桂林电子科技大学",
+"name_en": "Guilin University of Electronic Technology",
+"bcur2026": "183",
+"province": "广西",
+"depth": "FULL"
+},
+{
+"name_native": "杭州电子科技大学",
+"name_en": "Hangzhou Dianzi University",
+"bcur2026": "99",
+"province": "浙江",
+"depth": "FULL"
+},
+{
+"name_native": "南京信息工程大学",
+"name_en": "Nanjing University of Information Science & Technology",
+"bcur2026": "98",
+"province": "江苏",
+"depth": "FULL"
+},
+{
+"name_native": "重庆邮电大学",
+"name_en": "Chongqing University of Posts and Telecommunications",
+"bcur2026": "147",
+"province": "重庆",
+"depth": "FULL"
+},
+{
+"name_native": "西安邮电大学",
+"name_en": "Xi'an University of Posts and Telecommunications",
+"bcur2026": "196",
+"province": "陕西",
+"depth": "FULL"
+},
+{
+"name_native": "天津大学",
+"name_en": "Tianjin University",
+"bcur2026": "20",
+"province": "天津",
+"depth": "FULL"
+},
+{
+"name_native": "厦门大学",
+"name_en": "Xiamen University",
+"bcur2026": "25",
+"province": "福建",
+"depth": "FULL"
+},
+{
+"name_native": "上海大学",
+"name_en": "Shanghai University",
+"bcur2026": "60",
+"province": "上海",
+"depth": "FULL"
+},
+{
+"name_native": "东北大学",
+"name_en": "Northeastern University",
+"bcur2026": "38",
+"province": "辽宁",
+"depth": "FULL"
+},
+{
+"name_native": "华南理工大学",
+"name_en": "South China University of Technology",
+"bcur2026": "32",
+"province": "广东",
+"depth": "FULL"
+},
+{
+"name_native": "海南大学",
+"name_en": "Hainan University",
+"bcur2026": "87",
+"province": "海南",
+"depth": "FULL"
+},
+{
+"name_native": "南开大学",
+"name_en": "Nankai University",
+"bcur2026": "21",
+"province": "天津",
+"depth": "FULL"
+},
+{
+"name_native": "兰州大学",
+"name_en": "Lanzhou University",
+"bcur2026": "40",
+"province": "甘肃",
+"depth": "FULL"
+},
+{
+"name_native": "北京交通大学",
+"name_en": "Beijing Jiaotong University",
+"bcur2026": "41",
+"province": "北京",
+"depth": "FULL"
+},
+{
+"name_native": "西南交通大学",
+"name_en": "Southwest Jiaotong University",
+"bcur2026": "49",
+"province": "四川",
+"depth": "FULL"
+},
+{
+"name_native": "武汉理工大学",
+"name_en": "Wuhan University of Technology",
+"bcur2026": "54",
+"province": "湖北",
+"depth": "FULL"
+},
+{
+"name_native": "中国矿业大学",
+"name_en": "China University of Mining and Technology",
+"bcur2026": "67",
+"province": "江苏",
+"depth": "FULL"
+},
+{
+"name_native": "大连海事大学",
+"name_en": "Dalian Maritime University",
+"bcur2026": "113",
+"province": "辽宁",
+"depth": "LIGHT"
+},
+{
+"name_native": "上海海事大学",
+"name_en": "Shanghai Maritime University",
+"bcur2026": "171",
+"province": "上海",
+"depth": "LIGHT"
+},
+{
+"name_native": "上海海洋大学",
+"name_en": "Shanghai Ocean University",
+"bcur2026": "142",
+"province": "上海",
+"depth": "LIGHT"
+},
+{
+"name_native": "广东海洋大学",
+"name_en": "Guangdong Ocean University",
+"bcur2026": "298",
+"province": "广东",
+"depth": "LIGHT"
+},
+{
+"name_native": "西北农林科技大学",
+"name_en": "Northwest A&F University",
+"bcur2026": "69",
+"province": "陕西",
+"depth": "LIGHT"
+},
+{
+"name_native": "华中农业大学",
+"name_en": "Huazhong Agricultural University",
+"bcur2026": "45",
+"province": "湖北",
+"depth": "LIGHT"
+},
+{
+"name_native": "南京农业大学",
+"name_en": "Nanjing Agricultural University",
+"bcur2026": "55",
+"province": "江苏",
+"depth": "LIGHT"
+},
+{
+"name_native": "北京林业大学",
+"name_en": "Beijing Forestry University",
+"bcur2026": "83",
+"province": "北京",
+"depth": "LIGHT"
+},
+{
+"name_native": "新疆大学",
+"name_en": "Xinjiang University",
+"bcur2026": "131",
+"province": "新疆",
+"depth": "LIGHT"
+},
+{
+"name_native": "内蒙古大学",
+"name_en": "Inner Mongolia University",
+"bcur2026": "114",
+"province": "内蒙古",
+"depth": "LIGHT"
+},
+{
+"name_native": "云南大学",
+"name_en": "Yunnan University",
+"bcur2026": "71",
+"province": "云南",
+"depth": "LIGHT"
+},
+{
+"name_native": "中国人民大学",
+"name_en": "Renmin University of China",
+"bcur2026": "17",
+"province": "北京",
+"depth": "LIGHT"
+},
+{
+"name_native": "华东师范大学",
+"name_en": "East China Normal University",
+"bcur2026": "29",
+"province": "上海",
+"depth": "LIGHT"
+},
+{
+"name_native": "湖南大学",
+"name_en": "Hunan University",
+"bcur2026": "31",
+"province": "湖南",
+"depth": "LIGHT"
+},
+{
+"name_native": "北京科技大学",
+"name_en": "University of Science and Technology Beijing",
+"bcur2026": "35",
+"province": "北京",
+"depth": "LIGHT"
+},
+{
+"name_native": "华东理工大学",
+"name_en": "East China University of Science and Technology",
+"bcur2026": "42",
+"province": "上海",
+"depth": "LIGHT"
+},
+{
+"name_native": "郑州大学",
+"name_en": "Zhengzhou University",
+"bcur2026": "44",
+"province": "河南",
+"depth": "LIGHT"
+},
+{
+"name_native": "苏州大学",
+"name_en": "Soochow University",
+"bcur2026": "46",
+"province": "江苏",
+"depth": "LIGHT"
+},
+{
+"name_native": "东北师范大学",
+"name_en": "Northeast Normal University",
+"bcur2026": "48",
+"province": "吉林",
+"depth": "LIGHT"
+},
+{
+"name_native": "江南大学",
+"name_en": "Jiangnan University",
+"bcur2026": "52",
+"province": "江苏",
+"depth": "LIGHT"
+},
+{
+"name_native": "华中师范大学",
+"name_en": "Central China Normal University",
+"bcur2026": "53",
+"province": "湖北",
+"depth": "LIGHT"
+},
+{
+"name_native": "北京化工大学",
+"name_en": "Beijing University of Chemical Technology",
+"bcur2026": "57",
+"province": "北京",
+"depth": "LIGHT"
+},
+{
+"name_native": "南京师范大学",
+"name_en": "Nanjing Normal University",
+"bcur2026": "58",
+"province": "江苏",
+"depth": "LIGHT"
+},
+{
+"name_native": "暨南大学",
+"name_en": "Jinan University",
+"bcur2026": "59",
+"province": "广东",
+"depth": "LIGHT"
+},
+{
+"name_native": "西南大学",
+"name_en": "Southwest University",
+"bcur2026": "61",
+"province": "重庆",
+"depth": "LIGHT"
+},
+{
+"name_native": "中国石油大学（北京）",
+"name_en": "China University of Petroleum, Beijing",
+"bcur2026": "62",
+"province": "北京",
+"depth": "LIGHT"
+},
+{
+"name_native": "陕西师范大学",
+"name_en": "Shaanxi Normal University",
+"bcur2026": "63",
+"province": "陕西",
+"depth": "LIGHT"
+},
+{
+"name_native": "北京工业大学",
+"name_en": "Beijing University of Technology",
+"bcur2026": "65",
+"province": "北京",
+"depth": "LIGHT"
+},
+{
+"name_native": "浙江工业大学",
+"name_en": "Zhejiang University of Technology",
+"bcur2026": "68",
+"province": "浙江",
+"depth": "LIGHT"
+},
+{
+"name_native": "西北大学",
+"name_en": "Northwest University",
+"bcur2026": "70",
+"province": "陕西",
+"depth": "LIGHT"
+},
+{
+"name_native": "东华大学",
+"name_en": "Donghua University",
+"bcur2026": "72",
+"province": "上海",
+"depth": "LIGHT"
+},
+{
+"name_native": "中国石油大学（华东）",
+"name_en": "China University of Petroleum (East China)",
+"bcur2026": "73",
+"province": "山东",
+"depth": "LIGHT"
+},
+{
+"name_native": "南昌大学",
+"name_en": "Nanchang University",
+"bcur2026": "74",
+"province": "江西",
+"depth": "LIGHT"
+},
+{
+"name_native": "中国地质大学（北京）",
+"name_en": "China University of Geosciences Beijing",
+"bcur2026": "75",
+"province": "北京",
+"depth": "LIGHT"
+},
+{
+"name_native": "中国矿业大学（北京）",
+"name_en": "China University of Mining and Technology-Beijing",
+"bcur2026": "76",
+"province": "北京",
+"depth": "LIGHT"
+},
+{
+"name_native": "福州大学",
+"name_en": "Fuzhou University",
+"bcur2026": "77",
+"province": "福建",
+"depth": "LIGHT"
+},
+{
+"name_native": "宁波大学",
+"name_en": "Ningbo University",
+"bcur2026": "78",
+"province": "浙江",
+"depth": "LIGHT"
+},
+{
+"name_native": "华南师范大学",
+"name_en": "South China Normal University",
+"bcur2026": "79",
+"province": "广东",
+"depth": "LIGHT"
+},
+{
+"name_native": "合肥工业大学",
+"name_en": "Hefei University of Technology",
+"bcur2026": "80",
+"province": "安徽",
+"depth": "LIGHT"
+},
+{
+"name_native": "江苏大学",
+"name_en": "Jiangsu University",
+"bcur2026": "81",
+"province": "江苏",
+"depth": "LIGHT"
+},
+{
+"name_native": "南京邮电大学",
+"name_en": "Nanjing University of Posts and Telecommunications",
+"bcur2026": "82",
+"province": "江苏",
+"depth": "LIGHT"
+},
+{
+"name_native": "华北电力大学",
+"name_en": "North China Electric Power University",
+"bcur2026": "84",
+"province": "北京",
+"depth": "LIGHT"
+},
+{
+"name_native": "贵州大学",
+"name_en": "Guizhou University",
+"bcur2026": "85",
+"province": "贵州",
+"depth": "LIGHT"
+},
+{
+"name_native": "南京工业大学",
+"name_en": "Nanjing Tech University",
+"bcur2026": "88",
+"province": "江苏",
+"depth": "LIGHT"
+},
+{
+"name_native": "长安大学",
+"name_en": "Chang'an University",
+"bcur2026": "89",
+"province": "陕西",
+"depth": "LIGHT"
+},
+{
+"name_native": "福建师范大学",
+"name_en": "Fujian Normal University",
+"bcur2026": "90",
+"province": "福建",
+"depth": "LIGHT"
+},
+{
+"name_native": "浙江师范大学",
+"name_en": "Zhejiang Normal University",
+"bcur2026": "91",
+"province": "浙江",
+"depth": "LIGHT"
+},
+{
+"name_native": "湖南师范大学",
+"name_en": "Hunan Normal University",
+"bcur2026": "92",
+"province": "湖南",
+"depth": "LIGHT"
+},
+{
+"name_native": "南京林业大学",
+"name_en": "Nanjing Forestry University",
+"bcur2026": "93",
+"province": "江苏",
+"depth": "LIGHT"
+},
+{
+"name_native": "扬州大学",
+"name_en": "Yangzhou University",
+"bcur2026": "93",
+"province": "江苏",
+"depth": "LIGHT"
+},
+{
+"name_native": "河南大学",
+"name_en": "Henan University",
+"bcur2026": "95",
+"province": "河南",
+"depth": "LIGHT"
+},
+{
+"name_native": "广东工业大学",
+"name_en": "Guangdong University of Technology",
+"bcur2026": "96",
+"province": "广东",
+"depth": "LIGHT"
+},
+{
+"name_native": "太原理工大学",
+"name_en": "Taiyuan University of Technology",
+"bcur2026": "97",
+"province": "山西",
+"depth": "LIGHT"
+},
+{
+"name_native": "首都师范大学",
+"name_en": "Capital Normal University",
+"bcur2026": "100",
+"province": "北京",
+"depth": "LIGHT"
+},
+{
+"name_native": "安徽大学",
+"name_en": "Anhui University",
+"bcur2026": "101",
+"province": "安徽",
+"depth": "LIGHT"
+},
+{
+"name_native": "山西大学",
+"name_en": "Shanxi University",
+"bcur2026": "102",
+"province": "山西",
+"depth": "LIGHT"
+},
+{
+"name_native": "华南农业大学",
+"name_en": "South China Agricultural University",
+"bcur2026": "103",
+"province": "广东",
+"depth": "LIGHT"
+},
+{
+"name_native": "山东师范大学",
+"name_en": "Shandong Normal University",
+"bcur2026": "104",
+"province": "山东",
+"depth": "LIGHT"
+},
+{
+"name_native": "广州大学",
+"name_en": "Guangzhou University",
+"bcur2026": "105",
+"province": "广东",
+"depth": "LIGHT"
+},
+{
+"name_native": "上海理工大学",
+"name_en": "University of Shanghai for Science and Technology",
+"bcur2026": "106",
+"province": "上海",
+"depth": "LIGHT"
+},
+{
+"name_native": "河北工业大学",
+"name_en": "Hebei University of Technology",
+"bcur2026": "107",
+"province": "河北",
+"depth": "LIGHT"
+},
+{
+"name_native": "青岛大学",
+"name_en": "Qingdao University",
+"bcur2026": "108",
+"province": "山东",
+"depth": "LIGHT"
+},
+{
+"name_native": "燕山大学",
+"name_en": "Yanshan University",
+"bcur2026": "109",
+"province": "河北",
+"depth": "LIGHT"
+},
+{
+"name_native": "昆明理工大学",
+"name_en": "Kunming University of Science and Technology",
+"bcur2026": "110",
+"province": "云南",
+"depth": "LIGHT"
+},
+{
+"name_native": "西安理工大学",
+"name_en": "Xi'an University of Technology",
+"bcur2026": "111",
+"province": "陕西",
+"depth": "LIGHT"
+},
+{
+"name_native": "浙江理工大学",
+"name_en": "Zhejiang Sci-Tech University",
+"bcur2026": "112",
+"province": "浙江",
+"depth": "LIGHT"
+},
+{
+"name_native": "东北林业大学",
+"name_en": "Northeast Forestry University",
+"bcur2026": "115",
+"province": "黑龙江",
+"depth": "LIGHT"
+},
+{
+"name_native": "杭州师范大学",
+"name_en": "Hangzhou Normal University",
+"bcur2026": "116",
+"province": "浙江",
+"depth": "LIGHT"
+},
+{
+"name_native": "湘潭大学",
+"name_en": "Xiangtan University",
+"bcur2026": "117",
+"province": "湖南",
+"depth": "LIGHT"
+},
+{
+"name_native": "西安建筑科技大学",
+"name_en": "Xi'an University of Architecture and Technology",
+"bcur2026": "118",
+"province": "陕西",
+"depth": "LIGHT"
+},
+{
+"name_native": "西南石油大学",
+"name_en": "Southwest Petroleum University",
+"bcur2026": "119",
+"province": "四川",
+"depth": "LIGHT"
+},
+{
+"name_native": "东北农业大学",
+"name_en": "Northeast Agricultural University",
+"bcur2026": "120",
+"province": "黑龙江",
+"depth": "LIGHT"
+},
+{
+"name_native": "湖北大学",
+"name_en": "Hubei University",
+"bcur2026": "121",
+"province": "湖北",
+"depth": "LIGHT"
+},
+{
+"name_native": "福建农林大学",
+"name_en": "Fujian Agriculture and Forestry University",
+"bcur2026": "122",
+"province": "福建",
+"depth": "LIGHT"
+},
+{
+"name_native": "上海师范大学",
+"name_en": "Shanghai Normal University",
+"bcur2026": "123",
+"province": "上海",
+"depth": "LIGHT"
+},
+{
+"name_native": "武汉科技大学",
+"name_en": "Wuhan University of Science and Technology",
+"bcur2026": "123",
+"province": "湖北",
+"depth": "LIGHT"
+},
+{
+"name_native": "辽宁大学",
+"name_en": "Liaoning University",
+"bcur2026": "125",
+"province": "辽宁",
+"depth": "LIGHT"
+},
+{
+"name_native": "江西师范大学",
+"name_en": "Jiangxi Normal University",
+"bcur2026": "126",
+"province": "江西",
+"depth": "LIGHT"
+},
+{
+"name_native": "成都理工大学",
+"name_en": "Chengdu University of Technology",
+"bcur2026": "127",
+"province": "四川",
+"depth": "LIGHT"
+},
+{
+"name_native": "山东农业大学",
+"name_en": "Shandong Agricultural University",
+"bcur2026": "128",
+"province": "山东",
+"depth": "LIGHT"
+},
+{
+"name_native": "温州大学",
+"name_en": "Wenzhou University",
+"bcur2026": "129",
+"province": "浙江",
+"depth": "LIGHT"
+},
+{
+"name_native": "河北大学",
+"name_en": "Hebei University",
+"bcur2026": "130",
+"province": "河北",
+"depth": "LIGHT"
+},
+{
+"name_native": "陕西科技大学",
+"name_en": "Shaanxi University of Science & Technology",
+"bcur2026": "132",
+"province": "陕西",
+"depth": "LIGHT"
+},
+{
+"name_native": "天津工业大学",
+"name_en": "Tiangong University",
+"bcur2026": "133",
+"province": "天津",
+"depth": "LIGHT"
+},
+{
+"name_native": "四川农业大学",
+"name_en": "Sichuan Agricultural University",
+"bcur2026": "134",
+"province": "四川",
+"depth": "LIGHT"
+},
+{
+"name_native": "长沙理工大学",
+"name_en": "Changsha University of Science & Technology",
+"bcur2026": "135",
+"province": "湖南",
+"depth": "LIGHT"
+},
+{
+"name_native": "石河子大学",
+"name_en": "Shihezi University",
+"bcur2026": "135",
+"province": "新疆",
+"depth": "LIGHT"
+},
+{
+"name_native": "宁夏大学",
+"name_en": "Ningxia University",
+"bcur2026": "137",
+"province": "宁夏",
+"depth": "LIGHT"
+},
+{
+"name_native": "华侨大学",
+"name_en": "Huaqiao University",
+"bcur2026": "139",
+"province": "福建",
+"depth": "LIGHT"
+},
+{
+"name_native": "山东科技大学",
+"name_en": "Shandong University of Science and Technology",
+"bcur2026": "140",
+"province": "山东",
+"depth": "LIGHT"
+},
+{
+"name_native": "江苏科技大学",
+"name_en": "Jiangsu University of Science and Technology",
+"bcur2026": "141",
+"province": "江苏",
+"depth": "LIGHT"
+},
+{
+"name_native": "安徽农业大学",
+"name_en": "Anhui Agricultural University",
+"bcur2026": "143",
+"province": "安徽",
+"depth": "LIGHT"
+},
+{
+"name_native": "安徽师范大学",
+"name_en": "Anhui Normal University",
+"bcur2026": "145",
+"province": "安徽",
+"depth": "LIGHT"
+},
+{
+"name_native": "河南农业大学",
+"name_en": "Henan Agricultural University",
+"bcur2026": "145",
+"province": "河南",
+"depth": "LIGHT"
+},
+{
+"name_native": "南通大学",
+"name_en": "Nantong University",
+"bcur2026": "147",
+"province": "江苏",
+"depth": "LIGHT"
+},
+{
+"name_native": "广西师范大学",
+"name_en": "Guangxi Normal University",
+"bcur2026": "149",
+"province": "广西",
+"depth": "LIGHT"
+},
+{
+"name_native": "浙江农林大学",
+"name_en": "Zhejiang A&F University",
+"bcur2026": "149",
+"province": "浙江",
+"depth": "LIGHT"
+},
+{
+"name_native": "齐鲁工业大学",
+"name_en": "Qilu University of Technology",
+"bcur2026": "151",
+"province": "山东",
+"depth": "LIGHT"
+},
+{
+"name_native": "中国计量大学",
+"name_en": "China Jiliang University",
+"bcur2026": "151",
+"province": "浙江",
+"depth": "LIGHT"
+},
+{
+"name_native": "沈阳农业大学",
+"name_en": "Shenyang Agricultural University",
+"bcur2026": "153",
+"province": "辽宁",
+"depth": "LIGHT"
+},
+{
+"name_native": "西北师范大学",
+"name_en": "Northwest Normal University",
+"bcur2026": "154",
+"province": "甘肃",
+"depth": "LIGHT"
+},
+{
+"name_native": "黑龙江大学",
+"name_en": "Heilongjiang University",
+"bcur2026": "155",
+"province": "黑龙江",
+"depth": "LIGHT"
+},
+{
+"name_native": "集美大学",
+"name_en": "Jimei University",
+"bcur2026": "156",
+"province": "福建",
+"depth": "LIGHT"
+},
+{
+"name_native": "延边大学",
+"name_en": "Yanbian University",
+"bcur2026": "157",
+"province": "吉林",
+"depth": "LIGHT"
+},
+{
+"name_native": "天津科技大学",
+"name_en": "Tianjin University of Science and Technology",
+"bcur2026": "158",
+"province": "天津",
+"depth": "LIGHT"
+},
+{
+"name_native": "武汉纺织大学",
+"name_en": "Wuhan Textile University",
+"bcur2026": "159",
+"province": "湖北",
+"depth": "LIGHT"
+},
+{
+"name_native": "天津师范大学",
+"name_en": "Tianjin Normal University",
+"bcur2026": "160",
+"province": "天津",
+"depth": "LIGHT"
+},
+{
+"name_native": "吉林农业大学",
+"name_en": "Jilin Agricultural University",
+"bcur2026": "161",
+"province": "吉林",
+"depth": "LIGHT"
+},
+{
+"name_native": "湖北工业大学",
+"name_en": "Hubei University of Technology",
+"bcur2026": "162",
+"province": "湖北",
+"depth": "LIGHT"
+},
+{
+"name_native": "辽宁师范大学",
+"name_en": "Liaoning Normal University",
+"bcur2026": "162",
+"province": "辽宁",
+"depth": "LIGHT"
+},
+{
+"name_native": "曲阜师范大学",
+"name_en": "Qufu Normal University",
+"bcur2026": "164",
+"province": "山东",
+"depth": "LIGHT"
+},
+{
+"name_native": "常州大学",
+"name_en": "Changzhou University",
+"bcur2026": "165",
+"province": "江苏",
+"depth": "LIGHT"
+},
+{
+"name_native": "湖南农业大学",
+"name_en": "Hunan Agricultural University",
+"bcur2026": "166",
+"province": "湖南",
+"depth": "LIGHT"
+},
+{
+"name_native": "青岛科技大学",
+"name_en": "Qingdao University of Science & Technology",
+"bcur2026": "167",
+"province": "山东",
+"depth": "LIGHT"
+},
+{
+"name_native": "河南师范大学",
+"name_en": "Henan Normal University",
+"bcur2026": "168",
+"province": "河南",
+"depth": "LIGHT"
+},
+{
+"name_native": "武汉工程大学",
+"name_en": "Wuhan Institute of Technology",
+"bcur2026": "169",
+"province": "湖北",
+"depth": "LIGHT"
+},
+{
+"name_native": "天津理工大学",
+"name_en": "Tianjin University of Technology",
+"bcur2026": "170",
+"province": "天津",
+"depth": "LIGHT"
+},
+{
+"name_native": "江苏师范大学",
+"name_en": "Jiangsu Normal University",
+"bcur2026": "172",
+"province": "江苏",
+"depth": "LIGHT"
+},
+{
+"name_native": "汕头大学",
+"name_en": "Shantou University",
+"bcur2026": "173",
+"province": "广东",
+"depth": "LIGHT"
+},
+{
+"name_native": "三峡大学",
+"name_en": "China Three Gorges University",
+"bcur2026": "174",
+"province": "湖北",
+"depth": "LIGHT"
+},
+{
+"name_native": "济南大学",
+"name_en": "University of Jinan",
+"bcur2026": "175",
+"province": "山东",
+"depth": "LIGHT"
+},
+{
+"name_native": "河南科技大学",
+"name_en": "Henan University of Science and Technology",
+"bcur2026": "176",
+"province": "河南",
+"depth": "LIGHT"
+},
+{
+"name_native": "河北师范大学",
+"name_en": "Hebei Normal University",
+"bcur2026": "177",
+"province": "河北",
+"depth": "LIGHT"
+},
+{
+"name_native": "北京建筑大学",
+"name_en": "Beijing University of Civil Engineering and Architecture",
+"bcur2026": "178",
+"province": "北京",
+"depth": "LIGHT"
+},
+{
+"name_native": "安徽理工大学",
+"name_en": "Anhui University of Science & Technology",
+"bcur2026": "180",
+"province": "安徽",
+"depth": "LIGHT"
+},
+{
+"name_native": "北京信息科技大学",
+"name_en": "Beijing Information Science & Technology University",
+"bcur2026": "182",
+"province": "北京",
+"depth": "LIGHT"
+},
+{
+"name_native": "长江大学",
+"name_en": "Yangtze University",
+"bcur2026": "184",
+"province": "湖北",
+"depth": "LIGHT"
+},
+{
+"name_native": "国际关系学院",
+"name_en": "University of International Relations",
+"bcur2026": "185",
+"province": "北京",
+"depth": "LIGHT"
+},
+{
+"name_native": "西安科技大学",
+"name_en": "Xi'an University of Science and Technology",
+"bcur2026": "186",
+"province": "陕西",
+"depth": "LIGHT"
+},
+{
+"name_native": "青岛理工大学",
+"name_en": "Qingdao University of Technology",
+"bcur2026": "187",
+"province": "山东",
+"depth": "LIGHT"
+},
+{
+"name_native": "上海电力大学",
+"name_en": "Shanghai University of Electric Power",
+"bcur2026": "188",
+"province": "上海",
+"depth": "LIGHT"
+}
+]
