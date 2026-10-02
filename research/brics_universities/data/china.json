@@ -24,7 +24,7 @@
   "space_units": "School of Astronautics; School of Aeronautics; Lilac (Zidingxiang) student micro-nano satellite team",
   "agency_partnerships": "Shijian-26 co-developed with CAST's DFH Satellite Co. and CAS Changchun Institute of Optics (CIOMP); Longjiang-1/2 flew with Chang'e-4 relay mission (CNSA lunar programme); ASRTU-1 built for the Association of Sino-Russian Technical Universities (ASRTU); IAF member since 2025; APRU member",
   "restricted_list": "US Entity List (added May 2020); Seven Sons of National Defence",
-  "sources": "https://www.hit.edu.cn/11542/list.htm; https://en.hit.edu.cn/; https://studyathit.hit.edu.cn/InternationalEducationManagementDepartment/list.htm; https://www.sohu.com/a/1053434214_121118997; https://www.news.cn/tech/20260727/e8b86b5e9d5b4eadbe157185e1fb281e/c.html; https://news.hit.edu.cn/2024/0203/c1510a235239/page.htm; https://news.hit.edu.cn/2024/0412/c1510a235567/page.htm; http://news.hit.edu.cn/2025/0529/c1510a238045/page.htm; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://www.eol.cn/shuju/paiming/202609/t20260930_2779218.shtml; https://www.163.com/dy/article/KVMPBEEK05218435.html; https://kaoyan.koolearn.com/20260417/1941118.html; https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; https://en.wikipedia.org/wiki/Seven_Sons_of_National_Defence; https://www.iafastro.org/membership/all-members/harbin-institute-of-technology.html; nanosats.eu export (local nanosats.csv)",
+  "sources": "https://www.hit.edu.cn/11542/list.htm; https://en.hit.edu.cn/; https://studyathit.hit.edu.cn/InternationalEducationManagementDepartment/list.htm; https://www.sohu.com/a/1053434214_121118997; https://www.news.cn/tech/20260727/e8b86b5e9d5b4eadbe157185e1fb281e/c.html; https://news.hit.edu.cn/2024/0203/c1510a235239/page.htm; https://news.hit.edu.cn/2024/0412/c1510a235567/page.htm; http://news.hit.edu.cn/2025/0529/c1510a238045/page.htm; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://www.eol.cn/shuju/paiming/202609/t20260930_2779218.shtml; https://www.163.com/dy/article/KVMPBEEK05218435.html; https://kaoyan.koolearn.com/20260417/1941118.html; https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; https://en.wikipedia.org/wiki/Seven_Sons_of_National_Defence; https://www.iafastro.org/membership/all-members/harbin-institute-of-technology.html; nanosats.eu export (local nanosats.csv); http://international.hit.edu.cn/16710/list.htm",
   "confidence": "high",
   "notes": "Strongest university satellite builder in China (46 launched per university, Jul 2026). Phone is International Education Management Dept. Sun Xue became Executive Deputy Party Secretary Feb 2026. Satellite count is the university's own cumulative figure (includes co-developed national satellites); full list not published in sources opened. Entity-listed: US export-control exposure for partners.",
   "ownership": "Государственный (Минпроминформатизации КНР, MIIT)",
@@ -32,8 +32,16 @@
    "Крупнейший вузовский разработчик спутников в Китае: 46 запущенных КА по данным вуза (июль 2026), включая совместные национальные аппараты; полный перечень не опубликован",
    "Телефон: отдел управления международным образованием",
    "Сун Сюэ (Sun Xue) с февраля 2026 — исполнительный заместитель секретаря парткома",
-   "В Entity List США: риски экспортного контроля для партнёров"
-  ]
+   "В Entity List США: риски экспортного контроля для партнёров",
+   "Адресат: Должность «начальник» (部长) на странице не указана, департаментом руководит исполнительный замначальника У Цзянь (jian.wu@hit.edu.cn). В HIT есть отдельный Офис по международным организациям и делам БРИКС (国际组织和金砖事务办公室), руководитель — Сюй Лу (徐璐, xulu@hit.edu.cn): http://international.hit.edu.cn/gjzzhjzswbgs/list.htm. Рекомендуем поставить её в копию."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Департамент международного сотрудничества (国际合作部) — общий адрес департамента",
+  "addressee_name": "Wu Jian (吴健)",
+  "addressee_title": "Исполнительный заместитель начальника (常务副部长) Департамента международного сотрудничества, руководит департаментом",
+  "salutation": "Dear Director Wu,",
+  "addressee_source": "http://international.hit.edu.cn/16710/list.htm",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -60,7 +68,7 @@
   "space_units": "School of Astronautics; School of Aeronautic Science and Engineering; School of Space and Environment; Regional Centre for Space Science and Technology Education in Asia and the Pacific (China) (RCSSTEAP, UN-affiliated, hosted by Beihang)",
   "agency_partnerships": "APSCO (leads APSCO Student Small Satellite project; SSS-1 with participation of Pakistan, Peru etc.); hosts UN-affiliated RCSSTEAP; payload work for Zhangheng-1 (CSES); IAF member since 2011",
   "restricted_list": "US Entity List; Seven Sons of National Defence",
-  "sources": "https://www.buaa.edu.cn/xygk/xxld.htm; https://www.sohu.com/a/1082601837_121019331; https://global.buaa.edu.cn/en/; https://is.buaa.edu.cn/en/cu.htm; http://news.buaa.edu.cn/info/1002/54875.htm; https://beijing.eol.cn/bjgd/202011/t20201109_2034486.shtml; https://news.qq.com/rain/a/20251211A062C200; https://www.timeshighereducation.com/world-university-rankings/beihang-university; https://www.163.com/dy/article/KVMPBEEK05218435.html; https://kaoyan.koolearn.com/20260417/1941118.html; https://en.wikipedia.org/wiki/Beihang_University; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; https://en.wikipedia.org/wiki/Seven_Sons_of_National_Defence; https://www.iafastro.org/membership/all-members/beihang-university.html; nanosats.eu export (local nanosats.csv)",
+  "sources": "https://www.buaa.edu.cn/xygk/xxld.htm; https://www.sohu.com/a/1082601837_121019331; https://global.buaa.edu.cn/en/; https://is.buaa.edu.cn/en/cu.htm; http://news.buaa.edu.cn/info/1002/54875.htm; https://beijing.eol.cn/bjgd/202011/t20201109_2034486.shtml; https://news.qq.com/rain/a/20251211A062C200; https://www.timeshighereducation.com/world-university-rankings/beihang-university; https://www.163.com/dy/article/KVMPBEEK05218435.html; https://kaoyan.koolearn.com/20260417/1941118.html; https://en.wikipedia.org/wiki/Beihang_University; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; https://en.wikipedia.org/wiki/Seven_Sons_of_National_Defence; https://www.iafastro.org/membership/all-members/beihang-university.html; nanosats.eu export (local nanosats.csv); https://global.buaa.edu.cn/gywm/zzjg.htm",
   "confidence": "medium",
   "notes": "On 30 Sep 2026 President Wang Yunpeng was appointed Party Secretary (replacing Zhao Changlu); official leaders page lists him as both Party Secretary and President - a new President may be named soon, re-check before outreach. Phone is International School (undergraduate). Beihang's BUAA-Picosat, BUSAT-1 cancelled, SR-SAT not launched (nanosats.eu). Best APSCO/RCSSTEAP entry point.",
   "ownership": "Государственный (Минпроминформатизации КНР, MIIT)",
@@ -68,8 +76,16 @@
    "30.09.2026 президент Ван Юньпэн назначен секретарём парткома (вместо Чжао Чанлу); на сайте он указан в обеих должностях — вероятно скорое назначение нового президента, перепроверить перед рассылкой",
    "Телефон: International School (бакалавриат)",
    "По nanosats.eu: BUAA-Picosat, BUSAT-1 отменён, SR-SAT не запущен",
-   "Лучшая точка входа через APSCO / RCSSTEAP"
-  ]
+   "Лучшая точка входа через APSCO / RCSSTEAP",
+   "Адресат: На странице international@buaa.edu.cn указан как личный рабочий адрес начальника Бай Линь, так что письмо дойдёт адресату напрямую. К департаменту прикреплены Азиатско-Тихоокеанский региональный центр ООН по космическому образованию (Китай) и учебный центр APSCO, что тематически близко к проекту CubeSat."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Департамент международного сотрудничества (国际合作部) / Офис по делам Гонконга, Макао и Тайваня",
+  "addressee_name": "Bai Lin (白琳)",
+  "addressee_title": "Начальник Департамента международного сотрудничества (部长)",
+  "salutation": "Dear Director Bai,",
+  "addressee_source": "https://global.buaa.edu.cn/gywm/zzjg.htm",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -96,15 +112,23 @@
   "space_units": "School of Astronautics; School of Aeronautics; micro-satellite team (Aoxiang series)",
   "agency_partnerships": "Macau Science-1 with Macau University of Science and Technology and CAST DFH Satellite Co.; QB50 (Aoxiang-1); IAF member since 2019",
   "restricted_list": "US Entity List; Seven Sons of National Defence",
-  "sources": "https://www.acabridge.cn/yxxw/gxrs/202605/t20260509_2733421.shtml; https://en.nwpu.edu.cn/EnglishNew/index/contactus.htm; https://www.nwpu.edu.cn/info/1208/65628.htm; https://www.chinanews.com.cn/gn/2026/09-21/10700712.shtml; https://cn.cgwic.com/News/2020/20201106.html; https://www.timeshighereducation.com/world-university-rankings/northwestern-polytechnical-university; https://www.163.com/dy/article/KVMPBEEK05218435.html; https://kaoyan.koolearn.com/20260417/1941118.html; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; https://en.wikipedia.org/wiki/Seven_Sons_of_National_Defence; https://www.iafastro.org/membership/all-members/northwestern-polytechnical-university.html; nanosats.eu export (local nanosats.csv)",
+  "sources": "https://www.acabridge.cn/yxxw/gxrs/202605/t20260509_2733421.shtml; https://en.nwpu.edu.cn/EnglishNew/index/contactus.htm; https://www.nwpu.edu.cn/info/1208/65628.htm; https://www.chinanews.com.cn/gn/2026/09-21/10700712.shtml; https://cn.cgwic.com/News/2020/20201106.html; https://www.timeshighereducation.com/world-university-rankings/northwestern-polytechnical-university; https://www.163.com/dy/article/KVMPBEEK05218435.html; https://kaoyan.koolearn.com/20260417/1941118.html; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; https://en.wikipedia.org/wiki/Seven_Sons_of_National_Defence; https://www.iafastro.org/membership/all-members/northwestern-polytechnical-university.html; nanosats.eu export (local nanosats.csv); https://guoji.nwpu.edu.cn/jggk/lxwm.htm",
   "confidence": "high",
   "notes": "New Party Secretary Zhang Yunming (ex-MIIT Vice Minister) since May 2026. Phone/email are Office of International Cooperation (Ms Cheng Yin); alt fao@nwpu.edu.cn (+86-29-88492267). Launch count 7 per Sep 2026 news (5 own micro-sats by 2023 + Qinling 01/02).",
   "ownership": "Государственный (Минпроминформатизации КНР, MIIT)",
   "notes_ru": [
    "Новый секретарь парткома Чжан Юньмин (экс-замминистра MIIT) с мая 2026",
    "Телефон и e-mail: отдел международного сотрудничества (г-жа Чэн Инь); альтернативно fao@nwpu.edu.cn, +86-29-88492267",
-   "7 КА по новостям сентября 2026: 5 собственных микроспутников до 2023 + Qinling-01/02"
-  ]
+   "7 КА по новостям сентября 2026: 5 собственных микроспутников до 2023 + Qinling-01/02",
+   "Адресат: wgzj@nwpu.edu.cn (wgzj = «иностранные специалисты») — адрес сектора иностранных специалистов, контактное лицо г-жа Чэн Инь (Cheng Yin, тел. 88492812): https://en.nwpu.edu.cn/EnglishNew/index/contactus.htm. Сейчас официальный адрес отдела — nwpuge@nwpu.edu.cn. Сайт защищён от ботов, страница прочитана через WebFetch (пересказ). Замначальника отдела — Ли Цзывэй (李自伟) и Чэнь Цзюнь (陈俊)."
+  ],
+  "outreach_email_new": "nwpuge@nwpu.edu.cn",
+  "mailbox_owner": "wgzj@ — Сектор иностранных специалистов (专家科) Отдела международного сотрудничества; nwpuge@ — общий адрес Отдела международного сотрудничества (国际合作处)",
+  "addressee_name": "Kong Jie (孔杰)",
+  "addressee_title": "Член постоянного комитета парткома, проректор; начальник Отдела международного сотрудничества (国际合作处处长)",
+  "salutation": "Dear Vice President Kong,",
+  "addressee_source": "https://guoji.nwpu.edu.cn/jggk/lxwm.htm",
+  "addressee_confidence": "medium"
  },
  {
   "country": "China",
@@ -131,15 +155,23 @@
   "space_units": "College of Astronautics; College of Aerospace Engineering (incl. Intelligent Equipment Dynamics Center)",
   "agency_partnerships": "Zhizhou flew on Tianzhou-10 cargo mission (China Manned Space programme); IAF member since 2019",
   "restricted_list": "US Entity List; Seven Sons of National Defence",
-  "sources": "https://www.nuaa.edu.cn/481/list.htm; https://news.sciencenet.cn/htmlnews/2026/6/566759.shtm; https://www.nuaa.edu.cn/; https://cie.nuaa.edu.cn/; https://www.chinanews.com.cn/edu/2011/11-16/3465495.shtml; https://www.yzwb.net/news/jy/202605/t20260512_352086.html; https://www.iafastro.org/membership/all-members/nanjing-university-of-aeronautics-and-astronautics.html; https://www.timeshighereducation.com/world-university-rankings/nanjing-university-aeronautics-and-astronautics; https://www.163.com/dy/article/KVMPBEEK05218435.html; https://kaoyan.koolearn.com/20260417/1941118.html; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; https://en.wikipedia.org/wiki/Seven_Sons_of_National_Defence; nanosats.eu export (local nanosats.csv)",
+  "sources": "https://www.nuaa.edu.cn/481/list.htm; https://news.sciencenet.cn/htmlnews/2026/6/566759.shtm; https://www.nuaa.edu.cn/; https://cie.nuaa.edu.cn/; https://www.chinanews.com.cn/edu/2011/11-16/3465495.shtml; https://www.yzwb.net/news/jy/202605/t20260512_352086.html; https://www.iafastro.org/membership/all-members/nanjing-university-of-aeronautics-and-astronautics.html; https://www.timeshighereducation.com/world-university-rankings/nanjing-university-aeronautics-and-astronautics; https://www.163.com/dy/article/KVMPBEEK05218435.html; https://kaoyan.koolearn.com/20260417/1941118.html; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; https://en.wikipedia.org/wiki/Seven_Sons_of_National_Defence; nanosats.eu export (local nanosats.csv); http://ico.nuaa.edu.cn/10476/list.htm",
   "confidence": "medium",
   "notes": "New Party Secretary He Yaqiong since Jun 2026. International office site (iao.nuaa.edu.cn) blocked/unreachable during research - no verified email; phone is College of International Education. Admissions mailbox on third-party portal nuaa.admissions.cn not used.",
   "ownership": "Государственный (Минпроминформатизации КНР, MIIT)",
   "notes_ru": [
    "Новый секретарь парткома Хэ Яцюн с июня 2026",
    "Сайт международного отдела (iao.nuaa.edu.cn) был недоступен — e-mail не подтверждён",
-   "Телефон: Колледж международного образования"
-  ]
+   "Телефон: Колледж международного образования",
+   "Адресат: Официального e-mail отдела на сайте ico.nuaa.edu.cn не нашли, там есть только телефоны (общий: 025-84890911, начальник: 025-84891458, факс 025-84498069). Вопросы международных связей ведёт замначальника Чжан Гоцюань (张国权), а вопросы общего сектора — его руководитель Цзу Юйянь (祖语嫣). E-mail нужно уточнить по телефону."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Отдел международного сотрудничества (国际合作处)",
+  "addressee_name": "Lai Jizhou (赖际舟)",
+  "addressee_title": "Начальник Отдела международного сотрудничества (处长)",
+  "salutation": "Dear Director Lai,",
+  "addressee_source": "http://ico.nuaa.edu.cn/10476/list.htm",
+  "addressee_confidence": "medium"
  },
  {
   "country": "China",
@@ -175,8 +207,16 @@
    "Вместо секретаря парткома — политкомиссар; имя не подтверждено",
    "Коммутатор: +86-731-84576114",
    "Лэй Юнцзюнь сменил Ли Сяна на посту президента (июнь 2026)",
-   "10 КА = сумма аппаратов серии Tiantuo и QB50"
-  ]
+   "10 КА = сумма аппаратов серии Tiantuo и QB50",
+   "Адресат: Военный вуз (НОАК), состав руководства отдела иностранных дел не публикуется. Адрес fao@nudt.edu.cn подтверждён в контактах англоязычного сайта (тел. +86-731-87000275). Имя руководителя установить нельзя. Учтите, что университет включён в санкционные списки США (Entity List)."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Отдел иностранных дел (Foreign Affairs Office, 外事办公室) — общий контактный адрес англоязычного сайта",
+  "addressee_name": "",
+  "addressee_title": "",
+  "salutation": "Dear Director of the Foreign Affairs Office,",
+  "addressee_source": "https://english.nudt.edu.cn",
+  "addressee_confidence": "low"
  },
  {
   "country": "China",
@@ -203,15 +243,23 @@
   "space_units": "School of Aerospace Engineering; Space Technology Center (宇航技术研究中心); GRID (Tiange) gamma-ray payload project",
   "agency_partnerships": "Tsinghua-1 jointly built with CASIC and University of Surrey/SSTL (Tsinghua-Surrey microsatellite centre); IAF member since 2018",
   "restricted_list": "",
-  "sources": "https://www.tsinghua.edu.cn/xxgk/xrld.htm; https://www.tsinghua.edu.cn/en/Contact.htm; https://www.tsinghua.edu.cn/info/1662/59361.htm; https://www.tsinghua.edu.cn/info/1987/77218.htm; https://www.tsinghua.edu.cn/info/1182/51218.htm; https://news.qq.com/rain/a/20251211A062C200; https://www.eol.cn/shuju/paiming/202609/t20260930_2779218.shtml; https://www.163.com/dy/article/KVMPBEEK05218435.html; https://kaoyan.koolearn.com/20260417/1941118.html; https://www.iafastro.org/membership/all-members/tsinghua-university.html; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; nanosats.eu export (local nanosats.csv)",
+  "sources": "https://www.tsinghua.edu.cn/xxgk/xrld.htm; https://www.tsinghua.edu.cn/en/Contact.htm; https://www.tsinghua.edu.cn/info/1662/59361.htm; https://www.tsinghua.edu.cn/info/1987/77218.htm; https://www.tsinghua.edu.cn/info/1182/51218.htm; https://news.qq.com/rain/a/20251211A062C200; https://www.eol.cn/shuju/paiming/202609/t20260930_2779218.shtml; https://www.163.com/dy/article/KVMPBEEK05218435.html; https://kaoyan.koolearn.com/20260417/1941118.html; https://www.iafastro.org/membership/all-members/tsinghua-university.html; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; nanosats.eu export (local nanosats.csv); https://www.tsinghua.edu.cn/gjhz/gywm/lxwm.htm",
   "confidence": "medium",
   "notes": "Satellite count = 7 by Sep 2015 (per Tsinghua news) + Tsinghua Science Satellite 2020 = at least 8; later launches may exist. Not on BIS Entity List per Caltech list (not exhaustive). international email is the official-visits liaison address; ISSC: iso@tsinghua.edu.cn, +86-10-62784857.",
   "ownership": "Государственный (Минобразования КНР)",
   "notes_ru": [
    "КА: 7 к сентябрю 2015 (новости вуза) + Tsinghua Science Satellite (2020) = не менее 8; возможны более поздние запуски",
    "Не найден в Entity List США (список Caltech, неполный)",
-   "Международный e-mail — адрес для официальных визитов; служба иностранных студентов: iso@tsinghua.edu.cn, +86-10-62784857"
-  ]
+   "Международный e-mail — адрес для официальных визитов; служба иностранных студентов: iso@tsinghua.edu.cn, +86-10-62784857",
+   "Адресат: liaison@ читает Офис по обменам (тел. 62781943/62783293), а общий адрес отдела и руководства — guojichu@tsinghua.edu.cn, его стоит поставить в копию. Пиньинь имени 茜 в именах обычно читается как Qian, на сайте латиницей не указан."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Офис по обменам (交流工作办公室) Отдела международного сотрудничества и обменов (国际合作与交流处) — координация визитов иностранных делегаций",
+  "addressee_name": "Xiao Qian (肖茜)",
+  "addressee_title": "Начальник Отдела международного сотрудничества и обменов (处长)",
+  "salutation": "Dear Director Xiao,",
+  "addressee_source": "https://www.tsinghua.edu.cn/gjhz/gywm/lxwm.htm",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -238,15 +286,23 @@
   "space_units": "School of Aeronautics and Astronautics; Micro-Satellite Research Center (School of Information and Electronic Engineering); spacecraft intelligent technology team",
   "agency_partnerships": "WJ-1B built for Oman (Oman's first satellite), assembly/test support from CAST 5th Academy",
   "restricted_list": "",
-  "sources": "https://www.zju.edu.cn/xrld/list.htm; https://www.zju.edu.cn/2025/0328/c76679a3032574/page.htm; https://www.zju.edu.cn/english/_t874/20083/list.htm; https://www.zju.edu.cn/english/19998/list.htm; https://www.chinanews.com.cn/gn/2020/08-11/9262348.shtml; https://m.thepaper.cn/newsDetail_forward_29320397; https://www.eol.cn/shuju/paiming/202609/t20260930_2779218.shtml; https://www.163.com/dy/article/KVMPBEEK05218435.html; https://kaoyan.koolearn.com/20260417/1941118.html; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; nanosats.eu export (local nanosats.csv)",
+  "sources": "https://www.zju.edu.cn/xrld/list.htm; https://www.zju.edu.cn/2025/0328/c76679a3032574/page.htm; https://www.zju.edu.cn/english/_t874/20083/list.htm; https://www.zju.edu.cn/english/19998/list.htm; https://www.chinanews.com.cn/gn/2020/08-11/9262348.shtml; https://m.thepaper.cn/newsDetail_forward_29320397; https://www.eol.cn/shuju/paiming/202609/t20260930_2779218.shtml; https://www.163.com/dy/article/KVMPBEEK05218435.html; https://kaoyan.koolearn.com/20260417/1941118.html; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; nanosats.eu export (local nanosats.csv); http://www.ir.zju.edu.cn/69632/list.htm",
   "confidence": "medium",
   "notes": "Phone/email are Office of Global Engagement (Level 3, Alumni Building, Zijingang Campus). Satellite count 8 = enumerated launches; ZJU likely has more (e.g. 2020-21 batch plans) - verify. Wang Chunhui's WJ team has an international-cooperation track record (Oman) - good BRICS+ fit.",
   "ownership": "Государственный (Минобразования КНР)",
   "notes_ru": [
    "Телефон/e-mail: Office of Global Engagement (кампус Цзыцзиньган)",
    "8 КА — по перечисленным запускам; вероятно больше, требуется проверка",
-   "Команда Ван Чуньхуэя имеет опыт международных проектов (Оман) — хороший кандидат для БРИКС+"
-  ]
+   "Команда Ван Чуньхуэя имеет опыт международных проектов (Оман) — хороший кандидат для БРИКС+",
+   "Адресат: Личный адрес начальника — jyleung@zju.edu.cn. В Офисе по сотрудничеству (合作交流办公室) Африку и Латинскую Америку курирует Сунь Мо (孙墨, mosun@zju.edu.cn), Россию — Ху Линьюань (胡临远, jo.huly@zju.edu.cn), Азию — Чжан Чуюнь (张楚韵, zhangchuyun@zju.edu.cn). Их стоит поставить в копию."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Отдел международного сотрудничества и обменов (Office of Global Engagement, 国际合作与交流处) — общий адрес",
+  "addressee_name": "Liang Junying (梁君英)",
+  "addressee_title": "Начальник Отдела международного сотрудничества и обменов, по совместительству руководитель Офиса по делам Гонконга, Макао и Тайваня (处长、主任)",
+  "salutation": "Dear Director Liang,",
+  "addressee_source": "http://www.ir.zju.edu.cn/69632/list.htm",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -273,7 +329,7 @@
   "space_units": "School of Aerospace Science and Technology (空天科学与技术学院)",
   "agency_partnerships": "CAMSAT (CAS-7B amateur satellite); participation in crewed spaceflight, BeiDou and Mars exploration programmes (per university profile)",
   "restricted_list": "US Entity List; Seven Sons of National Defence",
-  "sources": "https://www.bit.edu.cn/gbxxgk/xxld_sjb/index.htm; https://www.bit.edu.cn/gbxxgk/xxld_sjb/25b42cea6c414fdb9b2d05c0d04169fc.htm; https://www.bit.edu.cn/lxwm87/index.htm; https://www.bit.edu.cn/gbxxgk/xxjj_sjb/index.htm; https://english.bit.edu.cn/; https://www.timeshighereducation.com/world-university-rankings/beijing-institute-technology; https://www.163.com/dy/article/KVMPBEEK05218435.html; https://kaoyan.koolearn.com/20260417/1941118.html; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; https://en.wikipedia.org/wiki/Seven_Sons_of_National_Defence; nanosats.eu export (local nanosats.csv)",
+  "sources": "https://www.bit.edu.cn/gbxxgk/xxld_sjb/index.htm; https://www.bit.edu.cn/gbxxgk/xxld_sjb/25b42cea6c414fdb9b2d05c0d04169fc.htm; https://www.bit.edu.cn/lxwm87/index.htm; https://www.bit.edu.cn/gbxxgk/xxjj_sjb/index.htm; https://english.bit.edu.cn/; https://www.timeshighereducation.com/world-university-rankings/beijing-institute-technology; https://www.163.com/dy/article/KVMPBEEK05218435.html; https://kaoyan.koolearn.com/20260417/1941118.html; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; https://en.wikipedia.org/wiki/Seven_Sons_of_National_Defence; nanosats.eu export (local nanosats.csv); https://international.bit.edu.cn/gywm/ksry/jlhzs/index.htm",
   "confidence": "medium",
   "notes": "Party Secretary Zhang Jun's term ended Jul 2026 (official history list); no successor shown on official leaders page as of research date - leave blank until announced. Phone is International Exchange & Cooperation Office (国际交流合作处); President's/Party office +86-10-68914247. No email found on official pages. CAS-7B is listed under CAMSAT in nanosats.eu; BIT role inferred from its names (Bei Ligong 1 / BIT Progress-OSCAR) - satellite count low confidence.",
   "ownership": "Государственный (Минпроминформатизации КНР, MIIT)",
@@ -281,8 +337,16 @@
    "Срок секретаря парткома Чжан Цзюня истёк в июле 2026; преемник на сайте не указан",
    "Телефон: отдел международного сотрудничества; приёмная президента/парткома +86-10-68914247",
    "E-mail на официальных страницах не найден",
-   "CAS-7B в nanosats.eu числится за CAMSAT; участие BIT выведено из названий КА — низкая достоверность"
-  ]
+   "CAS-7B в nanosats.eu числится за CAMSAT; участие BIT выведено из названий КА — низкая достоверность",
+   "Адресат: Общего e-mail отдела на сайте нет, найдены только личные адреса сотрудников. Начальник отдела — Чэнь Дуаньдуань (陈端端, 处长), см. https://international.bit.edu.cn/gywm/ksry/cld/index.htm. Её e-mail не опубликован. Можно адресовать письмо ей («Dear Director Chen,») и отправить через zongxin@. Данные поисковика о начальнике «Тан Шуйюань» устарели."
+  ],
+  "outreach_email_new": "zongxin@bit.edu.cn",
+  "mailbox_owner": "Сектор обменов и сотрудничества (交流合作室) Отдела международных обменов и сотрудничества (国际交流合作处) — личный адрес руководителя сектора",
+  "addressee_name": "Zong Xin (宗欣)",
+  "addressee_title": "Руководитель Сектора обменов и сотрудничества Отдела международных обменов и сотрудничества (主任)",
+  "salutation": "Dear Director Zong,",
+  "addressee_source": "https://international.bit.edu.cn/gywm/ksry/jlhzs/index.htm",
+  "addressee_confidence": "medium"
  },
  {
   "country": "China",
@@ -309,15 +373,23 @@
   "space_units": "",
   "agency_partnerships": "QB50 (NJUST-1)",
   "restricted_list": "US Entity List; Seven Sons of National Defence",
-  "sources": "https://en.wikipedia.org/wiki/Nanjing_University_of_Science_and_Technology; https://zh.wikipedia.org/zh-cn/南京理工大学; https://zh.wikipedia.org/zh-cn/付梦印; https://www.timeshighereducation.com/world-university-rankings/nanjing-university-science-and-technology; https://www.163.com/dy/article/KVMPBEEK05218435.html; https://kaoyan.koolearn.com/20260417/1941118.html; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; https://en.wikipedia.org/wiki/Seven_Sons_of_National_Defence; nanosats.eu export (local nanosats.csv)",
+  "sources": "https://en.wikipedia.org/wiki/Nanjing_University_of_Science_and_Technology; https://zh.wikipedia.org/zh-cn/南京理工大学; https://zh.wikipedia.org/zh-cn/付梦印; https://www.timeshighereducation.com/world-university-rankings/nanjing-university-science-and-technology; https://www.163.com/dy/article/KVMPBEEK05218435.html; https://kaoyan.koolearn.com/20260417/1941118.html; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; https://en.wikipedia.org/wiki/Seven_Sons_of_National_Defence; nanosats.eu export (local nanosats.csv); https://gjc.njust.edu.cn/",
   "confidence": "low",
   "notes": "Official site (njust.edu.cn) behind anti-bot JS challenge - could not open leaders/contact pages. Leaders taken from Chinese Wikipedia (President since 2015; Party Secretary as of Dec 2024) - NOT verified for 2025-26, re-check. TW-1B (2015, alias 'NJUST-2') is credited to Shanghai Engineering Centre for Microsatellites in nanosats.eu, so not counted.",
   "ownership": "Государственный (Минпроминформатизации КНР, MIIT)",
   "notes_ru": [
    "Сайт njust.edu.cn закрыт антибот-защитой — страницы руководства и контактов не открылись",
    "Руководство взято из китайской Википедии, не подтверждено на 2025–2026 — перепроверить",
-   "TW-1B (2015) в nanosats.eu приписан Шанхайскому центру микроспутников — не учтён"
-  ]
+   "TW-1B (2015) в nanosats.eu приписан Шанхайскому центру микроспутников — не учтён",
+   "Адресат: Сайты njust.edu.cn (включая gjc.njust.edu.cn и english.njust.edu.cn) закрыты анти-бот защитой (JS-челлендж), страницы прочитать не удалось. Ни e-mail отдела, ни имя начальника подтвердить нельзя, нужно проверить вручную в браузере."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Отдел международных обменов и сотрудничества (国际交流合作处) / Офис по делам Гонконга, Макао и Тайваня",
+  "addressee_name": "",
+  "addressee_title": "",
+  "salutation": "Dear Director of the Office of International Exchange and Cooperation,",
+  "addressee_source": "https://gjc.njust.edu.cn/",
+  "addressee_confidence": "low"
  },
  {
   "country": "China",
@@ -344,7 +416,7 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "US Entity List (added May 2020); Seven Sons of National Defence",
-  "sources": "https://www.hrbeu.edu.cn/xxgk/xrld1.htm; https://www.hrbeu.edu.cn/; https://studyheu.hrbeu.edu.cn/en/Contact_Us.htm; https://en.wikipedia.org/wiki/Harbin_Engineering_University; https://www.timeshighereducation.com/world-university-rankings/harbin-engineering-university; https://www.163.com/dy/article/KVMPBEEK05218435.html; https://kaoyan.koolearn.com/20260417/1941118.html; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; https://en.wikipedia.org/wiki/Seven_Sons_of_National_Defence; nanosats.eu export (local nanosats.csv)",
+  "sources": "https://www.hrbeu.edu.cn/xxgk/xrld1.htm; https://www.hrbeu.edu.cn/; https://studyheu.hrbeu.edu.cn/en/Contact_Us.htm; https://en.wikipedia.org/wiki/Harbin_Engineering_University; https://www.timeshighereducation.com/world-university-rankings/harbin-engineering-university; https://www.163.com/dy/article/KVMPBEEK05218435.html; https://kaoyan.koolearn.com/20260417/1941118.html; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; https://en.wikipedia.org/wiki/Seven_Sons_of_National_Defence; nanosats.eu export (local nanosats.csv); https://fao.hrbeu.edu.cn/4775/list.htm",
   "confidence": "medium",
   "notes": "Official leaders page last updated Jun 2026. Phone is main switchboard; International Office (students section) +86-451-82568266. No university-built satellite found in nanosats.eu or official profile (search not exhaustive). Marine/naval focus - satellite relevance mainly maritime AIS/ocean remote sensing.",
   "ownership": "Государственный (Минпроминформатизации КНР, MIIT)",
@@ -352,8 +424,16 @@
    "Страница руководства обновлена в июне 2026",
    "Телефон — коммутатор; международный отдел (студенты) +86-451-82568266",
    "Собственных КА не найдено",
-   "Морская специализация — интерес к АИС и океанографическому ДЗЗ"
-  ]
+   "Морская специализация — интерес к АИС и океанографическому ДЗЗ",
+   "Адресат: На странице состава отдела heufao@hrbeu.edu.cn указан как контакт Инь Хуа (尹华), руководителя Офиса по иностранным студентам (набор и обучение иностранных студентов), так что ящик, вероятно, читает этот офис. Рекомендуем поставить в копию начальника douzheng@hrbeu.edu.cn. Замначальника отдела Дин Синь (丁昕, dingxin-2019@hrbeu.edu.cn) курирует русскоязычные страны, а Лю Сыцзя (刘思嘉, liusijia@hrbeu.edu.cn) — нерусскоязычные."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Отдел международных обменов и сотрудничества (国际交流与合作处) — на сайте адрес указан у Офиса по иностранным студентам (留学生办公室, руководитель Инь Хуа)",
+  "addressee_name": "Dou Zheng (窦峥)",
+  "addressee_title": "Начальник Отдела международных обменов и сотрудничества (处长)",
+  "salutation": "Dear Director Dou,",
+  "addressee_source": "https://fao.hrbeu.edu.cn/4775/list.htm",
+  "addressee_confidence": "medium"
  },
  {
   "country": "China",
@@ -380,15 +460,23 @@
   "space_units": "School of Aeronautics and Astronautics; Intelligent Satellite Technology Center (SSTC, led by IAA academician Wu Shufan); SJTU–Shanghai Institute of Satellite Engineering joint graduate training base",
   "agency_partnerships": "APSCO (Student Small Satellite project SSS-2A); CNSA Chang'e-6 international payload (ICUBE-Q with Pakistan IST/SUPARCO side); Shanghai Institute of Satellite Engineering (CASC/SAST) joint training base",
   "restricted_list": "",
-  "sources": "https://dzb.sjtu.edu.cn/Data/List/xzjs; https://news.qq.com/rain/a/20260914A0DOCS00; https://en.sjtu.edu.cn/; https://global.sjtu.edu.cn/; https://news.sjtu.edu.cn/jdyw/20211015/159913.html; https://news.sjtu.edu.cn/mtjj/20240506/197030.html; https://www.aero.sjtu.edu.cn/kxyj/yjfx/237; https://m.163.com/dy/article/KVMPBEEK05218435.html; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://www.shanghairanking.cn/rankings/bcur/2026; https://kaoyan.koolearn.com/20260417/1941118.html; https://www.nanosats.eu (local export nanosats.csv); https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government",
+  "sources": "https://dzb.sjtu.edu.cn/Data/List/xzjs; https://news.qq.com/rain/a/20260914A0DOCS00; https://en.sjtu.edu.cn/; https://global.sjtu.edu.cn/; https://news.sjtu.edu.cn/jdyw/20211015/159913.html; https://news.sjtu.edu.cn/mtjj/20240506/197030.html; https://www.aero.sjtu.edu.cn/kxyj/yjfx/237; https://m.163.com/dy/article/KVMPBEEK05218435.html; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://www.shanghairanking.cn/rankings/bcur/2026; https://kaoyan.koolearn.com/20260417/1941118.html; https://www.nanosats.eu (local export nanosats.csv); https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; https://global.sjtu.edu.cn/about/organization",
   "confidence": "high",
   "notes": "SSTC page also credits the team with STU-2 (3 CubeSats, 2015) and participation in SDS-1, but these were led under SECM/other entities before/outside SJTU, so not counted. No general/president email published on homepage; use International Office globalsjtu@sjtu.edu.cn (Donghui Garden Bldg 3, Minhang campus). APSCO links make SJTU a natural entry point for a multilateral university constellation.",
   "ownership": "Государственный (Минобразования КНР)",
   "notes_ru": [
    "Команда также участвовала в STU-2 (3 кубсата, 2015) и SDS-1, но они велись другими организациями — не учтены",
    "Общий e-mail не опубликован; использовать международный отдел globalsjtu@sjtu.edu.cn",
-   "Связи с APSCO — естественная точка входа в многосторонний проект"
-  ]
+   "Связи с APSCO — естественная точка входа в многосторонний проект",
+   "Адресат: globalsjtu@sjtu.edu.cn указан как общий ящик отдела на global.sjtu.edu.cn/about/contact; личный адрес начальника: htyin@sjtu.edu.cn."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处) / Офис по делам Гонконга, Макао и Тайваня",
+  "addressee_name": "Yin Haitao (尹海涛)",
+  "addressee_title": "Начальник отдела международного сотрудничества и обменов, директор Офиса по делам Гонконга, Макао и Тайваня",
+  "salutation": "Dear Director Yin,",
+  "addressee_source": "https://global.sjtu.edu.cn/about/organization",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -422,8 +510,17 @@
   "notes_ru": [
    "Смена руководства: секретарь парткома Лю Чэнгун (ноябрь 2025), президент Тан Хунъу (июль 2026); собственная страница вуза устарела",
    "Входит в Unverified List (UVL) Минторга США — не Entity List",
-   "Международный e-mail — служба иностранных студентов; тел. международного отдела +86-20-84112728 (не подтверждён)"
-  ]
+   "Международный e-mail — служба иностранных студентов; тел. международного отдела +86-20-84112728 (не подтверждён)",
+   "Адресат: president@mail.sysu.edu.cn — это публичный ящик ректора, а не международного отдела. Международное сотрудничество курирует зам. секретаря парткома Чжан Ци (张琪, zhangqi01@mail.sysu.edu.cn). Сайт отдела международного сотрудничества (eao.sysu.edu.cn) закрыт WAF (403), имя начальника отдела проверить не удалось.",
+   "Адресат исправлен: с июля 2026 президент — Тан Хунъу (Гао Сун перешёл в PKU)"
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Публичный ящик ректора (校长公共服务邮箱)",
+  "addressee_name": "Tang Hongwu (唐洪武)",
+  "addressee_title": "Ректор (校长), заместитель секретаря парткома",
+  "salutation": "Dear President Tang,",
+  "addressee_source": "https://www.sysu.edu.cn/xxg/xrld/xz.htm",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -459,8 +556,16 @@
    "Секретарь парткома Чжу Кунцзюнь с сентября 2025",
    "Телефон: International Exchange Office",
    "E-mail intoffice@whu.edu.cn виден в поиске, но страница не открылась (403) — поле оставлено пустым",
-   "Dongfang Huiyan Gaofen-01 (2024) не учтён как аппарат вуза"
-  ]
+   "Dongfang Huiyan Gaofen-01 (2024) не учтён как аппарат вуза",
+   "Адресат: Адрес fao@whu.edu.cn взят с en.whu.edu.cn/Contact_Us/Office_of_International_Affairs.htm (Section of General Affairs). Страница руководства обновлена 2026-09-09; Дэн Хэсян руководит всей работой и курирует общий отдел."
+  ],
+  "outreach_email_new": "fao@whu.edu.cn",
+  "mailbox_owner": "Управление международных связей (国际交流部), общий отдел (Section of General Affairs / 综合办公室)",
+  "addressee_name": "Deng Hexiang (邓鹤翔)",
+  "addressee_title": "Начальник управления международных связей (部长)",
+  "salutation": "Dear Director Deng,",
+  "addressee_source": "https://oir.whu.edu.cn/bmtuwj/bmld.htm",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -494,8 +599,16 @@
   "notes_ru": [
    "Президент Гао Сян с октября 2025",
    "Международный отдел: dutfao@dlut.edu.cn, +86-411-84706354, факс +86-411-84707983",
-   "Телефон в таблице — общий номер вуза"
-  ]
+   "Телефон в таблице — общий номер вуза",
+   "Адресат: dutfao@dlut.edu.cn указан в подвале сайта отдела dutdice.dlut.edu.cn. Личный адрес начальника: wangjue@dlut.edu.cn."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处) / Офис по делам Гонконга, Макао и Тайваня",
+  "addressee_name": "Wang Jue (王珏)",
+  "addressee_title": "Начальник отдела международного сотрудничества и обменов (处长), директор Офиса по делам Гонконга, Макао и Тайваня",
+  "salutation": "Dear Director Wang,",
+  "addressee_source": "https://dutdice.dlut.edu.cn/lxwm/lxwm.htm",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -522,7 +635,7 @@
   "space_units": "School of Aerospace Science and Technology (空间科学与技术学院, est. 2013); National Key Laboratory of Antennas and Microwave Technology; National Key Lab of Integrated Services Networks; National Key Lab of Radar Signal Processing; Shaanxi Satellite Navigation Engineering Technology Research Center; Qian Xuesen Space Science talent base (with CAST Qian Xuesen Space Technology Lab)",
   "agency_partnerships": "CAST Qian Xuesen Space Technology Laboratory (joint talent base); China Star Electric Aerospace / Future Aerospace (Xidian-1); CASIC Defense Technology Research & Test Center (strategic cooperation, microelectronics school)",
   "restricted_list": "",
-  "sources": "https://www.xidian.edu.cn/xxgk/xrld.htm; http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202505/t20250516_1190844.html; http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202406/t20240605_1134041.html; https://www.xidian.edu.cn/; https://oice.xidian.edu.cn/hzhb1/kzxy/mlxyszkzxy/lxwm.htm; https://kepu.gmw.cn/2022-02/28/content_35549771.htm; https://sast.xidian.edu.cn/; https://www.xidian.edu.cn/bxzy1/kyzy/gjzdsys.htm; https://m.163.com/dy/article/KVMPBEEK05218435.html; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://www.shanghairanking.cn/rankings/bcur/2026; https://kaoyan.koolearn.com/20260417/1941118.html; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government",
+  "sources": "https://www.xidian.edu.cn/xxgk/xrld.htm; http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202505/t20250516_1190844.html; http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202406/t20240605_1134041.html; https://www.xidian.edu.cn/; https://oice.xidian.edu.cn/hzhb1/kzxy/mlxyszkzxy/lxwm.htm; https://kepu.gmw.cn/2022-02/28/content_35549771.htm; https://sast.xidian.edu.cn/; https://www.xidian.edu.cn/bxzy1/kyzy/gjzdsys.htm; https://m.163.com/dy/article/KVMPBEEK05218435.html; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://www.shanghairanking.cn/rankings/bcur/2026; https://kaoyan.koolearn.com/20260417/1941118.html; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; https://oice.xidian.edu.cn/gywm/bmgk/zzjg.htm",
   "confidence": "medium",
   "notes": "Defence-electronics heritage (founded as a military communications school); not found on the BIS Entity List per Caltech screening page, but screen before any US-origin tech transfer. email_general is the President's mailbox (校长信箱); Party Secretary mailbox sjxx@xidian.edu.cn. Intl office alt. email liuxue@xidian.edu.cn, tel +86-29-81891022. Xidian-1 was a joint/commercial satellite with a Xidian payload; Gmw source page returned 503 on direct fetch (facts from search summary).",
   "ownership": "Государственный (Минобразования КНР)",
@@ -530,8 +643,16 @@
    "Исторически военный вуз связи; в Entity List не найден, но проверять при передаче технологий США",
    "Общий e-mail — ящик президента (校长信箱); ящик секретаря парткома sjxx@xidian.edu.cn",
    "Альтернативный международный e-mail liuxue@xidian.edu.cn, +86-29-81891022",
-   "Xidian-1 — совместный коммерческий КА с полезной нагрузкой вуза"
-  ]
+   "Xidian-1 — совместный коммерческий КА с полезной нагрузкой вуза",
+   "Адресат: fao@xidian.edu.cn указан в подвале oice.xidian.edu.cn. Личный адрес: ylshen@mail.xidian.edu.cn."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Департамент международного сотрудничества и обменов (国际合作与交流部)",
+  "addressee_name": "Shen Yulong (沈玉龙)",
+  "addressee_title": "Начальник департамента международного сотрудничества и обменов, директор Офиса по делам Гонконга, Макао и Тайваня, декан Института международного образования",
+  "salutation": "Dear Director Shen,",
+  "addressee_source": "https://oice.xidian.edu.cn/gywm/bmgk/zzjg.htm",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -558,7 +679,7 @@
   "space_units": "School of Earth and Space Sciences; CAS Key Laboratory of Quantum Information; Hefei National Laboratory (quantum); Department of Modern Physics / Deep space & astrophysics groups",
   "agency_partnerships": "Chinese Academy of Sciences (USTC is a CAS university; Micius was a CAS Strategic Priority project); Innovation Academy for Microsatellites of CAS; Shanghai Institute of Technical Physics (CAS); Jinan Institute of Quantum Technology; Stellenbosch University (South Africa, BRICS quantum link)",
   "restricted_list": "",
-  "sources": "https://www.ustc.edu.cn/xxgk/xrld.htm; https://news.ustc.edu.cn/info/1055/89173.htm; https://www.ustc.edu.cn/; https://oic.ustc.edu.cn/en/contact-us/; https://quantum.ustc.edu.cn/web/node/7; https://quantum.ustc.edu.cn/web/node/1202; https://news.ustc.edu.cn/info/1056/88638.htm; https://m.163.com/dy/article/KVMPBEEK05218435.html; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://www.shanghairanking.cn/rankings/bcur/2026; https://kaoyan.koolearn.com/20260417/1941118.html; https://www.nanosats.eu (local export nanosats.csv); https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government",
+  "sources": "https://www.ustc.edu.cn/xxgk/xrld.htm; https://news.ustc.edu.cn/info/1055/89173.htm; https://www.ustc.edu.cn/; https://oic.ustc.edu.cn/en/contact-us/; https://quantum.ustc.edu.cn/web/node/7; https://quantum.ustc.edu.cn/web/node/1202; https://news.ustc.edu.cn/info/1056/88638.htm; https://m.163.com/dy/article/KVMPBEEK05218435.html; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://www.shanghairanking.cn/rankings/bcur/2026; https://kaoyan.koolearn.com/20260417/1941118.html; https://www.nanosats.eu (local export nanosats.csv); https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; https://oic.ustc.edu.cn/%e5%85%b3%e4%ba%8e%e6%88%91%e4%bb%ac/%e4%ba%ba%e5%91%98%e4%bf%a1%e6%81%af/",
   "confidence": "high",
   "notes": "Hefei National Laboratory for Physical Sciences at Microscale (USTC-hosted) is on the US BIS Entity List per Caltech screening page; USTC itself not listed there. President Chang Jin since Oct 2024; Executive VP Pan Jianwei leads quantum satellite work. Phone is the OIC information line; fax +86-551-63632579. South Africa quantum link is a ready BRICS hook.",
   "ownership": "Государственный (Китайская академия наук)",
@@ -566,8 +687,16 @@
    "В Entity List США входит лаборатория при USTC (Hefei National Laboratory), сам вуз — нет",
    "Президент Чан Цзинь с октября 2024; Пань Цзяньвэй руководит квантовыми спутниками",
    "Телефон: информационная линия OIC; факс +86-551-63632579",
-   "Готовый «мост» с БРИКС: квантовая связь с ЮАР"
-  ]
+   "Готовый «мост» с БРИКС: квантовая связь с ЮАР",
+   "Адресат: oic@ustc.edu.cn указан на oic.ustc.edu.cn; в шапке сайта как «通联邮箱» указан также fanjiangqi@ustc.edu.cn. Личный адрес начальника: qukun@ustc.edu.cn."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Департамент международного сотрудничества и обменов (国际合作与交流部) / Офис по делам Гонконга, Макао и Тайваня",
+  "addressee_name": "Qu Kun (瞿昆)",
+  "addressee_title": "Начальник департамента международного сотрудничества и обменов (部长), директор Офиса по делам Гонконга, Макао и Тайваня",
+  "salutation": "Dear Director Qu,",
+  "addressee_source": "https://oic.ustc.edu.cn/%e5%85%b3%e4%ba%8e%e6%88%91%e4%bb%ac/%e4%ba%ba%e5%91%98%e4%bf%a1%e6%81%af/",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -602,8 +731,16 @@
    "Сайты вуза блокировали запросы — контакты не подтверждены; по поиску: межд. отдел +86-10-62281949, admissions@bupt.edu.cn",
    "В Entity List США",
    "Нет в рейтинге THE 2027",
-   "BUPT-Galaxy создан в основном GalaxySpace; BUPT-1…4 — совместно с Tianyi (Spacety)"
-  ]
+   "BUPT-Galaxy создан в основном GalaxySpace; BUPT-1…4 — совместно с Tianyi (Spacety)",
+   "Адресат: Все сайты BUPT (www, io.bupt.edu.cn, english) отдают 412 (антибот-защита), страницы открыть не удалось. По результатам поиска начальником может быть Чэнь Янь (陈岩), но это не подтверждено открытой страницей. Официальный адрес отдела для партнёрств не найден (найдены только адреса приёма иностранных студентов)."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处)",
+  "addressee_name": "",
+  "addressee_title": "Начальник отдела международного сотрудничества и обменов",
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "addressee_source": "",
+  "addressee_confidence": "low"
  },
  {
   "country": "China",
@@ -630,15 +767,23 @@
   "space_units": "School of Earth and Space Sciences (Institute of Space Physics and Applied Technology; Institute of Remote Sensing and GIS); payload development (energetic particle detectors, neutral atom imagers, boom-less magnetometers)",
   "agency_partnerships": "Space particle/magnetic-field payload (with Shandong University) flown on MinoSpace Taijing-2 04 (2024); co-developer partner in BUPT-led Tiansuan constellation / BUPT-1",
   "restricted_list": "",
-  "sources": "https://www.news.cn/politics/20260523/28ec306ae108409f88924b9d2f2b1520/c.html; https://www.pku.edu.cn/leaders.html; https://www.edu.cn/rd/gao_xiao_cheng_guo/gao_xiao_zi_xun/202502/t20250214_2654695.shtml; https://www.oir.pku.edu.cn/home/Contact_Us/Contact_Us.htm; https://sess.pku.edu.cn/; https://m.21jingji.com/article/20240125/herald/7065ba1cf44676f1b03aa78a29324ce1.html; https://www.csgpc.org/detail/20039.html; https://m.163.com/dy/article/KVMPBEEK05218435.html; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://www.shanghairanking.cn/rankings/bcur/2026; https://kaoyan.koolearn.com/20260417/1941118.html; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government",
+  "sources": "https://www.news.cn/politics/20260523/28ec306ae108409f88924b9d2f2b1520/c.html; https://www.pku.edu.cn/leaders.html; https://www.edu.cn/rd/gao_xiao_cheng_guo/gao_xiao_zi_xun/202502/t20250214_2654695.shtml; https://www.oir.pku.edu.cn/home/Contact_Us/Contact_Us.htm; https://sess.pku.edu.cn/; https://m.21jingji.com/article/20240125/herald/7065ba1cf44676f1b03aa78a29324ce1.html; https://www.csgpc.org/detail/20039.html; https://m.163.com/dy/article/KVMPBEEK05218435.html; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://www.shanghairanking.cn/rankings/bcur/2026; https://kaoyan.koolearn.com/20260417/1941118.html; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; http://www.oir.pku.edu.cn/gywm.htm",
   "confidence": "medium",
   "notes": "President Gao Song since 23 May 2026 (replaced Gong Qihuang); Party Secretary He Guangcai since Feb 2025. No PKU-led satellite found; strength is space-science payloads. Contact = Office of International Relations (Nan Ge), fax +86-10-62751240; pkuoir@pku.edu.cn also appears in search results.",
   "ownership": "Государственный (Минобразования КНР)",
   "notes_ru": [
    "Президент Гао Сун с 23.05.2026; секретарь парткома Хэ Гуанцай с февраля 2025",
    "Собственных КА нет; сильные стороны — научные полезные нагрузки",
-   "Контакт: Office of International Relations (Нань Гэ), факс +86-10-62751240; также pkuoir@pku.edu.cn"
-  ]
+   "Контакт: Office of International Relations (Нань Гэ), факс +86-10-62751240; также pkuoir@pku.edu.cn",
+   "Адресат: outreach@pku.edu.cn подтверждён на www.oir.pku.edu.cn/home/Contact_Us/Contact_Us.htm как адрес Office of International Relations. Страница прочитана через WebFetch (curl блокирован); личный адрес: liyun@pku.edu.cn."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Управление международного сотрудничества (国际合作部, Office of International Relations)",
+  "addressee_name": "Li Yun (李昀)",
+  "addressee_title": "Начальник управления международного сотрудничества (部长)",
+  "salutation": "Dear Director Li,",
+  "addressee_source": "http://www.oir.pku.edu.cn/gywm.htm",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -673,8 +818,16 @@
    "Платформы КА построены партнёрами (Tianyi, GalaxySpace/Peng Cheng Lab); вуз разработал полезные нагрузки",
    "Один факультет в Unverified List (UVL) США — не Entity List",
    "Общий e-mail — канцелярия парткома и администрации",
-   "Секретарь парткома Цзян Хун с июня 2023"
-  ]
+   "Секретарь парткома Цзян Хун с июня 2023",
+   "Адресат: global@sustech.edu.cn — «公共邮箱» департамента. Должность начальника (部长) на сайте не указана; Чэнь Хао значится как «部门负责人» (руководитель подразделения)."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Департамент международного сотрудничества (国际合作部) / Офис по делам Гонконга, Макао и Тайваня",
+  "addressee_name": "Chen Hao (陈浩)",
+  "addressee_title": "Исполнительный заместитель начальника департамента международного сотрудничества (常务副部长), руководитель подразделения",
+  "salutation": "Dear Executive Deputy Director Chen,",
+  "addressee_source": "https://global.sustech.edu.cn/about/contact_us",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -709,8 +862,16 @@
    "В Entity List США (с 2012)",
    "Chengdian-1 (март 2026) носит имя вуза, но построен компанией Huantian — не учтён",
    "Страницы международного отдела не открылись; по поиску: international@uestc.edu.cn, +86-28-83201114",
-   "Общий e-mail — приёмная комиссия бакалавриата"
-  ]
+   "Общий e-mail — приёмная комиссия бакалавриата",
+   "Адресат: zhaoban@uestc.edu.cn — ящик приёмной комиссии (招生办), для партнёрского письма не подходит. international@uestc.edu.cn взят из выдачи поиска по en.uestc.edu.cn/index/Contact_Us.htm, но саму страницу открыть не удалось (JS-защита) — проверить. Сайт отдела oice.uestc.edu.cn закрыт антиботом; имя начальника не подтверждено (в поиске встречаются разные имена: 高世全, 邸爱英)."
+  ],
+  "outreach_email_new": "international@uestc.edu.cn",
+  "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处)",
+  "addressee_name": "",
+  "addressee_title": "Начальник отдела международного сотрудничества и обменов",
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "addressee_source": "",
+  "addressee_confidence": "low"
  },
  {
   "country": "China",
@@ -737,15 +898,23 @@
   "space_units": "School of Information Science and Engineering (Jin Yaqiu group, space-borne remote sensing/laser comms); Department of Nuclear Science and Technology (Fudan-1 solar UV spectrometer); Lancang-Mekong Youth Astronomical Science Research Centre (2025)",
   "agency_partnerships": "Fudan-1 co-developed with Shanghai Academy of Spaceflight Technology (CASC 8th Academy) / Shanghai Aerospace Space Technology Co.; Fudan-1 data shared with the six Lancang-Mekong (LMC) countries; Jiguang constellation with HiStarlink (laser communications) and Shanghai Dianji University",
   "restricted_list": "",
-  "sources": "https://www.fudan.edu.cn/448/list.htm; https://www.fudan.edu.cn/en/Contact_931/list.htm; https://www.fudan.edu.cn/en/; https://news.fudan.edu.cn/2024/1111/c1268a143032/page.htm; https://news.fudan.edu.cn/2024/0531/c31a140992/page.htm; https://www.shanghai.gov.cn/nw4411/20240925/60f84ae0382643be932a9a2315a083bd.html; https://news.fudan.edu.cn/2025/0319/c31a144542/page.htm; https://www.compassedu.hk/qs_2027_1205;https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking;https://www.shanghairanking.cn/rankings/bcur/2026",
+  "sources": "https://www.fudan.edu.cn/448/list.htm; https://www.fudan.edu.cn/en/Contact_931/list.htm; https://www.fudan.edu.cn/en/; https://news.fudan.edu.cn/2024/1111/c1268a143032/page.htm; https://news.fudan.edu.cn/2024/0531/c31a140992/page.htm; https://www.shanghai.gov.cn/nw4411/20240925/60f84ae0382643be932a9a2315a083bd.html; https://news.fudan.edu.cn/2025/0319/c31a144542/page.htm; https://www.compassedu.hk/qs_2027_1205;https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking;https://www.shanghairanking.cn/rankings/bcur/2026; https://ogp.fudan.edu.cn/16079/list.htm",
   "confidence": "high",
   "notes": "Three satellites in 2024, own ground station, and a Lancang-Mekong outreach precedent: a strong partner for international constellation collaboration. Fudan-1 and Fuyao were co-developed with industry (SAST). No general university email is published; use ogp@fudan.edu.cn (Office of Global Partnerships, contact Ms LI Zheng).",
   "ownership": "Государственный (Минобразования КНР)",
   "notes_ru": [
    "3 КА в 2024, собственная наземная станция, опыт международного проекта Ланьцан–Меконг — сильный партнёр",
    "Fudan-1 и Fuyao созданы совместно с промышленностью (SAST)",
-   "Общий e-mail не опубликован; использовать ogp@fudan.edu.cn (Office of Global Partnerships, г-жа Ли Чжэн)"
-  ]
+   "Общий e-mail не опубликован; использовать ogp@fudan.edu.cn (Office of Global Partnerships, г-жа Ли Чжэн)",
+   "Адресат: ogp@fudan.edu.cn указан на странице контактов как ящик «综合业务» (общая работа отдела). Личный e-mail начальника: lalu@fudan.edu.cn — можно поставить в копию."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Отдел международного сотрудничества и обменов (Office of Global Partnerships, 国际合作与交流处) — общий ящик «综合业务» (общие вопросы)",
+  "addressee_name": "Lu Li'an (卢丽安)",
+  "addressee_title": "Начальник отдела международного сотрудничества и обменов (处长)",
+  "salutation": "Dear Director Lu,",
+  "addressee_source": "https://ogp.fudan.edu.cn/16079/list.htm",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -772,7 +941,7 @@
   "space_units": "Space Manufacturing Research Institute (established March 2026); Aerospace Manufacturing and Information Engineering Research Institute (2020)",
   "agency_partnerships": "Lead university of the University Alliance of the Silk Road (UASR); XJTU ultra-light alloy materials used on CAST micro-nano satellites launched 2016-12-22",
   "restricted_list": "",
-  "sources": "https://www.xjtu.edu.cn/jdgk/xxld.htm; https://en.xjtu.edu.cn/2021-03/26/c_606770.htm; http://news.xjtu.edu.cn/info/1219/150306.htm; https://uasr.xjtu.edu.cn/info/1012/1199.htm; https://www.compassedu.hk/qs_2027_1205;https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking;https://www.shanghairanking.cn/rankings/bcur/2026",
+  "sources": "https://www.xjtu.edu.cn/jdgk/xxld.htm; https://en.xjtu.edu.cn/2021-03/26/c_606770.htm; http://news.xjtu.edu.cn/info/1219/150306.htm; https://uasr.xjtu.edu.cn/info/1012/1199.htm; https://www.compassedu.hk/qs_2027_1205;https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking;https://www.shanghairanking.cn/rankings/bcur/2026; https://www.xjtu.edu.cn/gjjl/gjhzyjlc.htm",
   "confidence": "medium",
   "notes": "No XJTU-built or XJTU-led satellite found. Space work centres on materials and space manufacturing. Party Secretary Wu Guosheng was appointed April 2026. The listed international email is a named staff address (chenping@). The UASR network is a natural route to BRICS/Silk Road outreach.",
   "ownership": "Государственный (Минобразования КНР)",
@@ -780,8 +949,16 @@
    "Собственных КА нет; космическая тематика — материалы и космическое производство",
    "Секретарь парткома У Гошэн с апреля 2026",
    "Международный e-mail — личный адрес сотрудника",
-   "Сеть UASR (Университетский альянс Шёлкового пути) — путь к партнёрам БРИКС"
-  ]
+   "Сеть UASR (Университетский альянс Шёлкового пути) — путь к партнёрам БРИКС",
+   "Адресат: chenping@xjtu.edu.cn — контактный адрес отдела на англ. сайте (https://en.xjtu.edu.cn/2021-03/26/c_606770.htm); это ящик сотрудника Chen Ping, но его должность/китайское имя на официальных страницах не найдены. Поэтому адресат — начальник отдела. Официальный ящик канцелярии отдела: gjc@xjtu.edu.cn (Чжан Шаньшань, 处务办公室); личный e-mail начальника liuwenfeng@xjtu.edu.cn — рекомендуется в копию."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处) и Офис по делам Гонконга, Макао и Тайваня",
+  "addressee_name": "Liu Wenfeng (刘文凤)",
+  "addressee_title": "Начальник отдела международного сотрудничества и обменов (处长)",
+  "salutation": "Dear Director Liu,",
+  "addressee_source": "https://www.xjtu.edu.cn/gjjl/gjhzyjlc.htm",
+  "addressee_confidence": "medium"
  },
  {
   "country": "China",
@@ -808,14 +985,22 @@
   "space_units": "Institute of Digital Aerospace Technology (数字空天技术研究所, est. 2023); TianQin research centre / precision gravitational measurement",
   "agency_partnerships": "TianQin-1 with CAST subsidiary DFH Satellite Co. and Sun Yat-sen University; CNSA acceptance of TianQin-1",
   "restricted_list": "",
-  "sources": "https://www.hust.edu.cn/xxgk/xrld.htm; https://www.hust.edu.cn/; https://english.hust.edu.cn/INTERNATIONAL_HUST/Contact_us.htm; https://m.thepaper.cn/newsDetail_forward_7513985; https://tianqin.sysu.edu.cn/programs/tianqin-1; https://news.sciencenet.cn/htmlnews/2023/5/501653.shtm; https://www.compassedu.hk/qs_2027_1205;https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking;https://www.shanghairanking.cn/rankings/bcur/2026",
+  "sources": "https://www.hust.edu.cn/xxgk/xrld.htm; https://www.hust.edu.cn/; https://english.hust.edu.cn/INTERNATIONAL_HUST/Contact_us.htm; https://m.thepaper.cn/newsDetail_forward_7513985; https://tianqin.sysu.edu.cn/programs/tianqin-1; https://news.sciencenet.cn/htmlnews/2023/5/501653.shtm; https://www.compassedu.hk/qs_2027_1205;https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking;https://www.shanghairanking.cn/rankings/bcur/2026; http://oia.hust.edu.cn/gywm/bmld.htm",
   "confidence": "medium",
   "notes": "Satellite involvement is a co-developed payload (inertial sensor) on TianQin-1. SYSU leads the TianQin programme. No single general international email; the OIA lists staff emails by region.",
   "ownership": "Государственный (Минобразования КНР)",
   "notes_ru": [
    "Участие в КА — полезная нагрузка (инерциальный датчик) на TianQin-1; программу TianQin ведёт SYSU",
-   "Единого международного e-mail нет; адреса сотрудников по регионам"
-  ]
+   "Единого международного e-mail нет; адреса сотрудников по регионам",
+   "Адресат: Начальник управления — Chen Jie (陈洁, 处长). Россия и ЮАР относятся к офису Европы и Африки (курирует зам. начальника Jiang Jing, 江静). Общий ящик управления: international@hust.edu.cn — разумно поставить в копию."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Личный ящик заместителя начальника Управления международных связей (国际交流处), курирующей офис по связям с Америкой, Океанией и Азией и офис стратегии и планирования",
+  "addressee_name": "Peng Yumeng (彭雨蒙)",
+  "addressee_title": "Заместитель начальника Управления международных связей (副处长)",
+  "salutation": "Dear Deputy Director Peng,",
+  "addressee_source": "http://oia.hust.edu.cn/gywm/bmld.htm",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -842,7 +1027,7 @@
   "space_units": "Tiandu-Shenzhen University Deep Space Exploration Joint Laboratory (天都-深圳大学深空探测联合实验室, 2023)",
   "agency_partnerships": "Joint lab with Tiandu Laboratory (deep-space exploration); recipient of Chang'e-5 lunar samples (CNSA)",
   "restricted_list": "",
-  "sources": "https://www.szu.edu.cn/xxgk/xrld.htm; https://en.szu.edu.cn/Contact_us.htm; https://www.szu.edu.cn/info/1161/18129.htm; https://news.southcn.com/node_54a44f01a2/14eaf3270d.shtml; https://www.compassedu.hk/qs_2027_1205;https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking;https://www.shanghairanking.cn/rankings/bcur/2026",
+  "sources": "https://www.szu.edu.cn/xxgk/xrld.htm; https://en.szu.edu.cn/Contact_us.htm; https://www.szu.edu.cn/info/1161/18129.htm; https://news.southcn.com/node_54a44f01a2/14eaf3270d.shtml; https://www.compassedu.hk/qs_2027_1205;https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking;https://www.shanghairanking.cn/rankings/bcur/2026; https://news.gdufe.edu.cn/45757",
   "confidence": "medium",
   "notes": "The official leadership page lists no President. Party Secretary Xu Bo 'temporarily in charge of administrative work' (former President Mao Junfa no longer listed). No SZU-led satellite found; Shenzhen's university satellites are SUSTech's. Postcode is not shown on the official contact page.",
   "ownership": "Государственный (муниципалитет Шэньчжэня)",
@@ -850,8 +1035,16 @@
    "Президента нет: секретарь парткома Сюй Бо временно руководит административной работой",
    "Собственных КА нет",
    "Индекс на странице контактов не указан",
-   "Проверка домена e-mail не пройдена — уточнить адрес"
-  ]
+   "Проверка домена e-mail не пройдена — уточнить адрес",
+   "Адресат: Ящик international@szu.edu.cn подтверждён на https://en.szu.edu.cn/Contact_us.htm («For visiting, cooperation…»). Сайт отдела io.szu.edu.cn закрыт анти-бот защитой; имя руководителя найдено только в новости другого вуза (окт. 2023) — может быть устаревшим. Безопаснее нейтральное обращение «Dear Director of the International Office,»."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Департамент международного обмена и сотрудничества (国际交流与合作部, International Office)",
+  "addressee_name": "Han Shuixian (韩水仙)",
+  "addressee_title": "Директор Департамента международного обмена и сотрудничества (主任)",
+  "salutation": "Dear Director Han,",
+  "addressee_source": "https://news.gdufe.edu.cn/45757",
+  "addressee_confidence": "low"
  },
  {
   "country": "China",
@@ -885,8 +1078,16 @@
   "notes_ru": [
    "Активная программа кубсатов: 4 рентгеновских поляриметра на орбите с 2023",
    "Нет в рейтингах THE 2027 и QS 2027 (топ-500)",
-   "Также опубликован suggestion_international@gxu.edu.cn"
-  ]
+   "Также опубликован suggestion_international@gxu.edu.cn",
+   "Адресат: Сайт отдела переехал на gjjl.gxu.edu.cn; gjc@gxu.edu.cn указан там как официальный e-mail отдела."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Отдел международного сотрудничества и обменов / Офис по делам Гонконга, Макао и Тайваня (国际合作与交流处/港澳台事务办公室)",
+  "addressee_name": "Liao Wendan (廖文丹)",
+  "addressee_title": "Начальник отдела международного сотрудничества и обменов (处长)",
+  "salutation": "Dear Director Liao,",
+  "addressee_source": "https://gjjl.gxu.edu.cn/gywm/bmjs.htm",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -921,8 +1122,16 @@
    "Оборонная специализация; спутники Taihang — двойного назначения (по nanosats.eu)",
    "Первый КА Zhongbei Daxue-1 потерян при аварии РН 10.11.2025 — на орбите 0",
    "Планируется группировка Taihang из 128 КА",
-   "Ряд e-mail международного отдела — личные или QQ"
-  ]
+   "Ряд e-mail международного отдела — личные или QQ",
+   "Адресат: Fan Peng — не директор (как было указано во входных данных), а начальник сектора; китайское написание имени не подтверждено. Англ. страница, вероятно, устарела: на актуальной китайской странице (https://international.nuc.edu.cn/xyjs/lxfs.htm) Fan Peng отсутствует, начальник сектора межд. обменов — Han Ying (韩英, hanying@nuc.edu.cn), а руководитель — Zhao Yuhong (赵宇宏), декан Колледжа международного образования / начальник Департамента международного обмена и сотрудничества (国际交流合作部部长). Рекомендуется адресовать Zhao Yuhong («Dear Dean Zhao,») с копией fanpeng@ и hanying@."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Личный ящик заведующего сектором международного партнёрства, Колледж международного образования (Департамент международного обмена и сотрудничества)",
+  "addressee_name": "Fan Peng",
+  "addressee_title": "Заведующий сектором международного партнёрства (Section Chief for international partnership)",
+  "salutation": "Dear Mr. Fan,",
+  "addressee_source": "https://international.nuc.edu.cn/gjhzjlc_e/Contact_Us.htm",
+  "addressee_confidence": "medium"
  },
  {
   "country": "China",
@@ -949,15 +1158,23 @@
   "space_units": "",
   "agency_partnerships": "Co-founded by Shanghai Municipal Government and Chinese Academy of Sciences; science-education partnership with Shanghai Engineering Centre for Microsatellites / CAS Innovation Academy for Microsatellites (SECM/IAMCAS); former QB50 participant (STU-1, cancelled)",
   "restricted_list": "",
-  "sources": "https://www.shanghaitech.edu.cn/2025/1223/c1584a1118320/page.htm; http://www.shanghaitech.edu.cn/en/1059/list.htm; https://www.shanghaitech.edu.cn/eng/2018/0130/c1765a14716/page.htm; https://shanghaitech.edu.cn/2015/0925/c1001a11606/page.htm; nanosats.eu export; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking",
+  "sources": "https://www.shanghaitech.edu.cn/2025/1223/c1584a1118320/page.htm; http://www.shanghaitech.edu.cn/en/1059/list.htm; https://www.shanghaitech.edu.cn/eng/2018/0130/c1765a14716/page.htm; https://shanghaitech.edu.cn/2015/0925/c1001a11606/page.htm; nanosats.eu export; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://oia.shanghaitech.edu.cn/549/list.htm",
   "confidence": "medium",
   "notes": "The STU-2 satellites carry ShanghaiTech's name but were built by SECM (CAS); ShanghaiTech's role was science and education use. Count them as partner satellites. The CAS link makes it a gateway to IAMCAS microsatellite expertise. Not in THE 2027 or the QS 2027 top-500 mainland list.",
   "ownership": "Государственный (г. Шанхай и Китайская академия наук)",
   "notes_ru": [
    "КА STU-2 носят имя вуза, но построены SECM (CAS); роль вуза — научное и образовательное использование",
    "Связь с CAS — выход на экспертизу IAMCAS по микроспутникам",
-   "Нет в THE 2027 и QS 2027 (топ-500)"
-  ]
+   "Нет в THE 2027 и QS 2027 (топ-500)",
+   "Адресат: Должности начальника нет — управлением руководит зам. начальника Nie Yan (nieyan@shanghaitech.edu.cn). Международными программами занимается Xiao Yin (肖茵, помощник начальника, xiaoyin@shanghaitech.edu.cn) — можно в копию."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Управление международных дел (Офис по делам Гонконга, Макао и Тайваня) (国际事务处/港澳台办)",
+  "addressee_name": "Nie Yan (聂焱)",
+  "addressee_title": "Заместитель начальника, руководит работой управления (副处长，主持工作)",
+  "salutation": "Dear Deputy Director Nie,",
+  "addressee_source": "https://oia.shanghaitech.edu.cn/549/list.htm",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -984,14 +1201,22 @@
   "space_units": "School of Astronomy and Space Science",
   "agency_partnerships": "Lobster-eye satellite with HKU Laboratory for Space Research, CAST (CASC 5th Academy) Institute 508 and SAST 805 subsidiary ASES; Xihe (CHASE) solar mission with CNSA",
   "restricted_list": "",
-  "sources": "https://www.nju.edu.cn/ndgk/xrld.htm; https://njunju.nju.edu.cn/EN/administrative_offices/list.htm; https://www.nju.edu.cn/info/3191/208621.htm; https://www.nju.edu.cn/info/1056/453151.htm; https://www.nju.edu.cn/info/1056/343151.htm; https://www.compassedu.hk/qs_2027_1205;https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking;https://www.shanghairanking.cn/rankings/bcur/2026",
+  "sources": "https://www.nju.edu.cn/ndgk/xrld.htm; https://njunju.nju.edu.cn/EN/administrative_offices/list.htm; https://www.nju.edu.cn/info/3191/208621.htm; https://www.nju.edu.cn/info/1056/453151.htm; https://www.nju.edu.cn/info/1056/343151.htm; https://www.compassedu.hk/qs_2027_1205;https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking;https://www.shanghairanking.cn/rankings/bcur/2026; https://wb.nju.edu.cn/jgsz/list.htm",
   "confidence": "high",
   "notes": "Strong space-science user (X-ray astronomy, solar physics). The official site publishes only webmaster@nju.edu.cn as an email; no international-office email was confirmed. For student exchange, stuex@nju.edu.cn appeared in search snippets but that page was not opened.",
   "ownership": "Государственный (Минобразования КНР)",
   "notes_ru": [
    "Сильный пользователь космических данных (рентгеновская астрономия, физика Солнца)",
-   "Опубликован только webmaster@nju.edu.cn; международный e-mail не подтверждён (по поиску stuex@nju.edu.cn)"
-  ]
+   "Опубликован только webmaster@nju.edu.cn; международный e-mail не подтверждён (по поиску stuex@nju.edu.cn)",
+   "Адресат: oice@nju.edu.cn — официальный ящик управления (подвал сайта wb.nju.edu.cn). Личный e-mail начальника alu@nju.edu.cn; по межвузовским проектам — Chen Nan (陈楠, chennan@nju.edu.cn, начальник офиса обменов и проектов)."
+  ],
+  "outreach_email_new": "oice@nju.edu.cn",
+  "mailbox_owner": "Управление по интернационализации (Офис по делам Тайваня, Гонконга и Макао) (国际化工作处/台港澳事务办公室)",
+  "addressee_name": "Lu Andong (鲁安东)",
+  "addressee_title": "Начальник Управления по интернационализации, директор Офиса по делам Тайваня, Гонконга и Макао (处长/主任)",
+  "salutation": "Dear Director Lu,",
+  "addressee_source": "https://wb.nju.edu.cn/jgsz/list.htm",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -1018,15 +1243,23 @@
   "space_units": "Faculty of Geographical Science; Institute of Global Change and Earth System Science; Frontier Interdisciplinary Research Institute for Satellite Applications (卫星应用前沿交叉研究院)",
   "agency_partnerships": "BNU-1 co-funded by Ministry of Science and Technology; built by Shenzhen Aerospace Dongfanghong HIT Satellite Ltd (CAST/HIT)",
   "restricted_list": "",
-  "sources": "https://www.bnu.edu.cn/xxgk/xrld/index.htm; https://english.bnu.edu.cn/dblj1/contactus/index.htm; https://international.hit-u.ac.jp/hp-international/wp-content/uploads/2025/01/40406_2025-2026-BNU-Inforamtion-Sheet.pdf; https://news.bnu.edu.cn/zx/zhxw/111401.htm; https://news.bnu.edu.cn/zx/ttgz/a511a0533f4349f494a6fe2de507f517.htm; https://www.compassedu.hk/qs_2027_1205;https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking;https://www.shanghairanking.cn/rankings/bcur/2026",
+  "sources": "https://www.bnu.edu.cn/xxgk/xrld/index.htm; https://english.bnu.edu.cn/dblj1/contactus/index.htm; https://international.hit-u.ac.jp/hp-international/wp-content/uploads/2025/01/40406_2025-2026-BNU-Inforamtion-Sheet.pdf; https://news.bnu.edu.cn/zx/zhxw/111401.htm; https://news.bnu.edu.cn/zx/ttgz/a511a0533f4349f494a6fe2de507f517.htm; https://www.compassedu.hk/qs_2027_1205;https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking;https://www.shanghairanking.cn/rankings/bcur/2026; https://oiec.bnu.edu.cn/gywm/lxwm/index.htm",
   "confidence": "medium",
   "notes": "A remote-sensing satellite user and operator: polar observation (BNU-1) and the 2026 MuDuo instant remote-sensing constellation. The general email is the news centre address listed on the English contact page. The OIEC email comes from search results of a partner-hosted fact sheet and was not opened directly.",
   "ownership": "Государственный (Минобразования КНР)",
   "notes_ru": [
    "Пользователь и оператор спутников ДЗЗ: BNU-1 (полярные наблюдения) и группировка MuDuo (2026)",
    "Общий e-mail — адрес новостного центра",
-   "E-mail OIEC взят из документа вуза-партнёра — не проверен напрямую"
-  ]
+   "E-mail OIEC взят из документа вуза-партнёра — не проверен напрямую",
+   "Адресат: Исходный oiec3@bnu.edu.cn принадлежит Fang Shunji (方顺姬) — сотруднику по студенческим выездным обменам (Азия, Африка); для приглашения к институциональному партнёрству не подходит. Liu Min отвечает за межвузовские обмены и проекты сотрудничества. Начальник отдела — Teng Jun (滕珺, tengjun1983@bnu.edu.cn) — рекомендуется в копию."
+  ],
+  "outreach_email_new": "liumin@bnu.edu.cn",
+  "mailbox_owner": "Офис глобальных обменов и развития Отдела международного обмена и сотрудничества (国际交流与合作处 — 全球交流与拓展办公室)",
+  "addressee_name": "Liu Min (刘敏)",
+  "addressee_title": "Заместитель начальника отдела международного обмена и сотрудничества, руководитель офиса глобальных обменов (副处长)",
+  "salutation": "Dear Deputy Director Liu,",
+  "addressee_source": "https://oiec.bnu.edu.cn/gywm/lxwm/index.htm",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -1053,14 +1286,22 @@
   "space_units": "",
   "agency_partnerships": "Led the Chang'e-4 biological science payload (lunar mini-biosphere, 2018-12-08 launch; CNSA lunar programme); Shennong Kaiwu-2 (神农开物2号) space ecosystem payload flown on Kuaizhou-11 Y8",
   "restricted_list": "",
-  "sources": "https://www.cqu.edu.cn/xqgk/xrld.htm; https://www.cqu.edu.cn/; https://xswyh.cqu.edu.cn/info/1041/1321.htm; https://cq.news.cn/20260202/7eb4cf38b7214686870f780acfd2852a/c.html; https://www.compassedu.hk/qs_2027_1205;https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking;https://www.shanghairanking.cn/rankings/bcur/2026",
+  "sources": "https://www.cqu.edu.cn/xqgk/xrld.htm; https://www.cqu.edu.cn/; https://xswyh.cqu.edu.cn/info/1041/1321.htm; https://cq.news.cn/20260202/7eb4cf38b7214686870f780acfd2852a/c.html; https://www.compassedu.hk/qs_2027_1205;https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking;https://www.shanghairanking.cn/rankings/bcur/2026; https://www.cqu.edu.cn/info/1111/64301.htm",
   "confidence": "medium",
   "notes": "No CQU-led satellite found; its space record is payloads (Chang'e-4 biosphere, Shennong Kaiwu-2). The international email and phone come from search snippets of english.cqu.edu.cn, which blocks automated fetches (HTTP 412). Check them before use.",
   "ownership": "Государственный (Минобразования КНР)",
   "notes_ru": [
    "Собственных КА нет; полезные нагрузки: биосфера Chang'e-4, Shennong Kaiwu-2",
-   "Международные e-mail и телефон — из результатов поиска (сайт блокирует запросы); проверить перед использованием"
-  ]
+   "Международные e-mail и телефон — из результатов поиска (сайт блокирует запросы); проверить перед использованием",
+   "Адресат: Сайт отдела intex.cqu.edu.cn и англ. сайт закрыты анти-бот защитой (HTTP 412); имя подтверждено новостью на www.cqu.edu.cn от 19.12.2025. Привязка global@cqu.edu.cn к Office of International Affairs — только по поисковой выдаче (english.cqu.edu.cn Contact Us), открыть страницу не удалось."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处; Office of International Affairs)",
+  "addressee_name": "Yang Chun (阳春)",
+  "addressee_title": "Начальник отдела международного сотрудничества и обменов (处长)",
+  "salutation": "Dear Director Yang,",
+  "addressee_source": "https://www.cqu.edu.cn/info/1111/64301.htm",
+  "addressee_confidence": "medium"
  },
  {
   "country": "China",
@@ -1087,7 +1328,7 @@
   "space_units": "School of Aerospace Engineering and Applied Mechanics (航空航天与力学学院); College of Surveying and Geo-Informatics (测绘与地理信息学院); MoE Deep Space Exploration Joint Research Center - Tongji Sub-center for Deep-Space Mapping, Remote Sensing and Navigation/Positioning (深空探测测绘遥感与导航定位分中心)",
   "agency_partnerships": "MoE Deep Space Exploration Joint Research Center sub-center supporting lunar/Mars exploration (serves CASC per centre description); listed in China University Planetary Science Alliance navbox (Wikipedia)",
   "restricted_list": "",
-  "sources": "https://www.tongji.edu.cn/xxgk1/xrld1.htm; https://fao.tongji.edu.cn/; https://mgg.tongji.edu.cn/mggen/20509/list.htm; https://www.tongji.edu.cn/yxjg111/ybshe_zhi/ybsz_.htm; https://celiang.tongji.edu.cn/info/1221/2200.htm; https://m.compassedu.hk/qs; https://www.timeshighereducation.com/world-university-rankings/tongji-university; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744",
+  "sources": "https://www.tongji.edu.cn/xxgk1/xrld1.htm; https://fao.tongji.edu.cn/; https://mgg.tongji.edu.cn/mggen/20509/list.htm; https://www.tongji.edu.cn/yxjg111/ybshe_zhi/ybsz_.htm; https://celiang.tongji.edu.cn/info/1221/2200.htm; https://m.compassedu.hk/qs; https://www.timeshighereducation.com/world-university-rankings/tongji-university; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744; https://fao.tongji.edu.cn/gywm/bmgk.htm",
   "confidence": "medium",
   "notes": "No university-built satellite found. Foreign Affairs Office (Rooms 702/703/706, Zonghe Building) publishes a phone number but no email on its site. English site https://en.tongji.edu.cn is a JS app. Strong deep-space surveying/remote-sensing (Chang'e landing-site mapping) group, a likely payload/data partner. Not found on the US Entity List (checked eCFR Supp. 4 to Part 744).",
   "ownership": "Государственный (Минобразования КНР)",
@@ -1095,8 +1336,16 @@
    "Собственных КА нет",
    "Отдел внешних связей публикует только телефон, без e-mail",
    "Сильная группа картографирования дальнего космоса (места посадки Chang'e) — партнёр по полезной нагрузке и данным",
-   "Не найден в Entity List США"
-  ]
+   "Не найден в Entity List США",
+   "Адресат: outreach_email был пуст. wsbgs@tongji.edu.cn — «信息反馈» на странице «О нас» 外事办公室. Личный ящик директора: yinwen@tongji.edu.cn. Сотрудник по России/Беларуси/Украине: Zhang Chuan (张川), zhangchuan@tongji.edu.cn; по Азии/Африке: Xu Li (徐俐), icyxu@tongji.edu.cn."
+  ],
+  "outreach_email_new": "wsbgs@tongji.edu.cn",
+  "mailbox_owner": "Управление по международным делам (外事办公室), общий ящик канцелярии управления",
+  "addressee_name": "Yin Wen (殷文)",
+  "addressee_title": "Директор Управления по международным делам (外事办公室主任)",
+  "salutation": "Dear Director Yin,",
+  "addressee_source": "https://fao.tongji.edu.cn/gywm/bmgk.htm",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -1123,15 +1372,23 @@
   "space_units": "School of Information Science and Engineering; School of Instrument Science and Engineering (仪器科学与工程学院); School of Cyber Science and Engineering (no dedicated aerospace school found)",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.seu.edu.cn/28446/list.htm; https://oic.seu.edu.cn/18926/list.htm; https://cis.seu.edu.cn/hwenglish/2024/0628/c54341a495845/page.htm; https://www.seu.edu.cn/; https://www.seu.edu.cn/yxsz/list.htm; https://m.compassedu.hk/qs; https://www.timeshighereducation.com/world-university-rankings/southeast-university; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744",
+  "sources": "https://www.seu.edu.cn/28446/list.htm; https://oic.seu.edu.cn/18926/list.htm; https://cis.seu.edu.cn/hwenglish/2024/0628/c54341a495845/page.htm; https://www.seu.edu.cn/; https://www.seu.edu.cn/yxsz/list.htm; https://m.compassedu.hk/qs; https://www.timeshighereducation.com/world-university-rankings/southeast-university; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744; https://tc.seu.edu.cn/2019/1022/c25722a291865/page.htm",
   "confidence": "medium",
   "notes": "No university-built satellite found (searches only returned contributions to Shenzhou/Tiangong equipment and alumni). The Office of International Cooperation (oic.seu.edu.cn) is in the Administration Building, Rooms 210-213, Jiulonghu campus. Its contact page gives phones only. Not found on the US Entity List.",
   "ownership": "Государственный (Минобразования КНР)",
   "notes_ru": [
    "Собственных КА нет (участие в оборудовании Shenzhou/Tiangong)",
    "Отдел международного сотрудничества указывает только телефоны",
-   "Не найден в Entity List США"
-  ]
+   "Не найден в Entity List США",
+   "Адресат: cis@pub.seu.edu.cn — ящик Центра иностранных студентов (Колледж зарубежного образования), не для партнёрств; на странице «联系我们» OIC (https://oic.seu.edu.cn/lxwm_69042/list.htm) для международного сотрудничества указан globalseu@pub.seu.edu.cn. Должность Ye Zhirui подтверждена профилем на сайте School of Transportation (страница 2019 г.; на сайте OIC страницы руководства нет) — может быть устаревшей."
+  ],
+  "outreach_email_new": "globalseu@pub.seu.edu.cn",
+  "mailbox_owner": "Управление международного сотрудничества (国际合作处) / Офис по делам Гонконга, Макао и Тайваня",
+  "addressee_name": "Ye Zhirui (叶智锐)",
+  "addressee_title": "Начальник Управления международного сотрудничества (国际合作处处长)",
+  "salutation": "Dear Director Ye,",
+  "addressee_source": "https://tc.seu.edu.cn/2019/1022/c25722a291865/page.htm",
+  "addressee_confidence": "medium"
  },
  {
   "country": "China",
@@ -1165,8 +1422,16 @@
   "notes_ru": [
    "В Entity List США (2012, обновлено 2023) — проверить экспортные ограничения",
    "Собственных КА нет; гамма-детекторы GRID на чужих КА (4 нагрузки на орбите) — не учтены",
-   "Международный отдел даёт e-mail по направлениям"
-  ]
+   "Международный отдел даёт e-mail по направлениям",
+   "Адресат: Официальная англ. страница контактов указывает «Zhiqiang Li, Director of International Office», e-mail international@scu.edu.cn (общий для всего руководства). Иероглифы 李志强 взяты из поиска (по нему он также декан Школы международных отношений и русист) — китайский сайт global.scu.edu.cn недоступен для проверки; футер англ. страницы © 2020."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Управление международного сотрудничества и обменов (国际合作与交流处) / Офис по делам Гонконга, Макао и Тайваня",
+  "addressee_name": "Li Zhiqiang (李志强)",
+  "addressee_title": "Начальник Управления международного сотрудничества и обменов, директор Офиса по делам Гонконга, Макао и Тайваня",
+  "salutation": "Dear Director Li,",
+  "addressee_source": "https://international.scu.edu.cn/About_Us/Contact_Us/Contact_Us.htm",
+  "addressee_confidence": "medium"
  },
  {
   "country": "China",
@@ -1193,15 +1458,23 @@
   "space_units": "Institute of Aerospace Technology (航空航天技术研究院, within School of Mechanical and Electrical Engineering); School of Aeronautics and Astronautics (listed on English site); School of Geosciences and Info-Physics; Powder Metallurgy Research Institute (C/C composites for FY-4 satellite)",
   "agency_partnerships": "Supplied C/C composite sun-shield components for the Fengyun-4 meteorological satellite (2016)",
   "restricted_list": "",
-  "sources": "https://www.csu.edu.cn/zjzn/xxld.htm; https://en.csu.edu.cn/index/Contact.htm; https://www.csu.edu.cn/; https://www.csu.edu.cn/xyxk1.htm; http://www.cnr.cn/hunan/xxtt/20161214/t20161214_523337880.shtml; https://m.compassedu.hk/qs; https://www.timeshighereducation.com/world-university-rankings/central-south-university; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744",
+  "sources": "https://www.csu.edu.cn/zjzn/xxld.htm; https://en.csu.edu.cn/index/Contact.htm; https://www.csu.edu.cn/; https://www.csu.edu.cn/xyxk1.htm; http://www.cnr.cn/hunan/xxtt/20161214/t20161214_523337880.shtml; https://m.compassedu.hk/qs; https://www.timeshighereducation.com/world-university-rankings/central-south-university; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744; https://iecd.csu.edu.cn/gywm/lxwm.htm",
   "confidence": "medium",
   "notes": "No university-built satellite found. Space work is materials for launchers/satellites. The Office of International Cooperation and Exchanges is on F2 of the Library, Main Campus. Its contact page gives an address but no email; the email listed is the International Student Office's. Not found on the US Entity List.",
   "ownership": "Государственный (Минобразования КНР)",
   "notes_ru": [
    "Собственных КА нет; космическая тематика — материалы для РН и КА",
    "Страница контактов международного отдела без e-mail; указан адрес службы иностранных студентов",
-   "Не найден в Entity List США"
-  ]
+   "Не найден в Entity List США",
+   "Адресат: admissions@csu.edu.cn — приём иностранных студентов, не для партнёрств. На странице контактов 国际处 для «交流项目» указан ied-csu@csu.edu.cn; отдел обменов отвечает за переговоры и соглашения с зарубежными вузами (зам. руководителя отдела — Wen Ning 文宁). Руководство: https://iecd.csu.edu.cn/gywm/jgsz.htm."
+  ],
+  "outreach_email_new": "ied-csu@csu.edu.cn",
+  "mailbox_owner": "Отдел обменов (交流办公室) Управления международного сотрудничества и обменов (国际合作与交流处)",
+  "addressee_name": "Yin Gang (殷刚)",
+  "addressee_title": "Начальник Управления международного сотрудничества и обменов, директор Офиса по делам Гонконга, Макао и Тайваня",
+  "salutation": "Dear Director Yin,",
+  "addressee_source": "https://iecd.csu.edu.cn/gywm/lxwm.htm",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -1228,15 +1501,23 @@
   "space_units": "Institute of Space Sciences / School of Space Science and Physics (空间科学研究院 / 空间科学与物理学院, Weihai); Space Science Climbing Team; Space Particle Radiation Detection Laboratory; School of Mechanical, Electrical and Information Engineering (Weihai)",
   "agency_partnerships": "Peking University and MinoSpace (Weiming-1 joint satellite); listed in China University Planetary Science Alliance navbox (Wikipedia)",
   "restricted_list": "",
-  "sources": "https://www.sdu.edu.cn/sdgk/xrld.htm; https://www.en.sdu.edu.cn/Contact_Us.htm; https://xinwen.wh.sdu.edu.cn/info/1003/43146.htm; https://m.compassedu.hk/qs; https://www.timeshighereducation.com/world-university-rankings/shandong-university; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744",
+  "sources": "https://www.sdu.edu.cn/sdgk/xrld.htm; https://www.en.sdu.edu.cn/Contact_Us.htm; https://xinwen.wh.sdu.edu.cn/info/1003/43146.htm; https://m.compassedu.hk/qs; https://www.timeshighereducation.com/world-university-rankings/shandong-university; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744; https://www.ipo.sdu.edu.cn/bmjk/ryfg.htm",
   "confidence": "medium",
   "notes": "The satellite count is 1 because SDU co-developed Weiming-1 as a university-company joint satellite. SDU's own contribution was 2 payloads. The satellite runs in a 530 km, 97.5° SSO. The Weihai campus is the space-science hub (international office fxipo@wh.sdu.edu.cn, +86-631-5688016). Not found on the US Entity List.",
   "ownership": "Государственный (Минобразования КНР)",
   "notes_ru": [
    "1 КА: Weiming-1 совместно с PKU и MinoSpace; вклад вуза — 2 полезные нагрузки",
    "Космический центр — кампус Вэйхай (fxipo@wh.sdu.edu.cn, +86-631-5688016)",
-   "Не найден в Entity List США"
-  ]
+   "Не найден в Entity List США",
+   "Адресат: Личный e-mail: mawen@sdu.edu.cn. Сотрудничество с Россией и ШОС курирует зам. руководителя Zhou Chuan'en (周传恩), czhou@sdu.edu.cn; международные обмены в целом — Zhang Jiaqi (张佳琦), jqzhang@sdu.edu.cn."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Департамент международных дел (国际事务部) / Офис по делам Гонконга, Макао и Тайваня",
+  "addressee_name": "Ma Wen (马文)",
+  "addressee_title": "Руководитель Департамента международных дел (部长), директор Офиса по делам Гонконга, Макао и Тайваня",
+  "salutation": "Dear Director-General Ma,",
+  "addressee_source": "https://www.ipo.sdu.edu.cn/bmjk/ryfg.htm",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -1263,7 +1544,7 @@
   "space_units": "College of Instrumentation and Electrical Engineering (仪器科学与电气工程学院, led the satellite; Zhang Liu team under Academician Lin Jun); School of Mechanical and Aerospace Engineering (机械与航空航天工程学院); College of Geo-Exploration Science and Technology",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.jlu.edu.cn/xxgk/xrld.htm; https://oic.jlu.edu.cn/; https://www.jlu.edu.cn/; https://www.jlu.edu.cn/jgsz/yxsz.htm; https://news.jlu.edu.cn/info/1211/58656.htm; https://ciee.jlu.edu.cn/info/1081/14344.htm; https://m.compassedu.hk/qs; https://www.timeshighereducation.com/world-university-rankings/jilin-university; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744",
+  "sources": "https://www.jlu.edu.cn/xxgk/xrld.htm; https://oic.jlu.edu.cn/; https://www.jlu.edu.cn/; https://www.jlu.edu.cn/jgsz/yxsz.htm; https://news.jlu.edu.cn/info/1211/58656.htm; https://ciee.jlu.edu.cn/info/1081/14344.htm; https://m.compassedu.hk/qs; https://www.timeshighereducation.com/world-university-rankings/jilin-university; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744; http://oic.jlu.edu.cn/gywm/bmld.htm",
   "confidence": "medium",
   "notes": "The leadership changed recently. In Sep 2024 the party secretary was Jiang Zhiying; the official page now lists Tian Hui. The satellite produced its first image 38 h after launch. Press mentions a twin-satellite system ('吉天双星'), but a second launch could not be verified. Postcode is not shown on the pages opened. Not found on the US Entity List.",
   "ownership": "Государственный (Минобразования КНР)",
@@ -1271,8 +1552,16 @@
    "Новый секретарь парткома Тянь Хуэй (ранее Цзян Чжиин)",
    "КА Jilin University-1 (2024): первый снимок через 38 ч после запуска; второй КА не подтверждён",
    "Индекс на открытых страницах не указан",
-   "Не найден в Entity List США"
-  ]
+   "Не найден в Entity List США",
+   "Адресат: Служебный ящик директора: director_global@jlu.edu.cn (можно поставить в копию). Сотрудничество/платформы курирует зам. начальника Gao Yixing (高一星), gaoyixing@jlu.edu.cn."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Управление международного сотрудничества и обменов (国际合作与交流处, Office of Global Engagement)",
+  "addressee_name": "Li Meihua (李梅花)",
+  "addressee_title": "Начальник Управления международного сотрудничества и обменов (处长)",
+  "salutation": "Dear Director Li,",
+  "addressee_source": "http://oic.jlu.edu.cn/gywm/bmld.htm",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -1299,15 +1588,23 @@
   "space_units": "School of Geography and Remote Sensing (地理与遥感学院); College of Information Science and Engineering",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.hhu.edu.cn/xrld_23325/list.htm; https://en.hhu.edu.cn/341/list.htm; https://www.hhu.edu.cn/; https://www.hhu.edu.cn/191/list.htm; https://xuanxiao.org/en/universities/hohai-university; https://www.timeshighereducation.com/world-university-rankings/hohai-university; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744",
+  "sources": "https://www.hhu.edu.cn/xrld_23325/list.htm; https://en.hhu.edu.cn/341/list.htm; https://www.hhu.edu.cn/; https://www.hhu.edu.cn/191/list.htm; https://xuanxiao.org/en/universities/hohai-university; https://www.timeshighereducation.com/world-university-rankings/hohai-university; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744; https://sdxy.hhu.edu.cn/_t947/2025/0427/c5763a301995/page.htm",
   "confidence": "medium",
   "notes": "No university-built satellite found. Not listed in the THE World University Rankings (profile page has no WUR rank). The official profile type is water-resources engineering, a 'technical' specialist. Its relevance is hydrology/remote-sensing applications. Not found on the US Entity List.",
   "ownership": "Государственный (Минобразования КНР)",
   "notes_ru": [
    "Собственных КА нет; профиль — водные ресурсы, гидрология, ДЗЗ-приложения",
    "Нет в рейтинге THE",
-   "Не найден в Entity List США"
-  ]
+   "Не найден в Entity List США",
+   "Адресат: Internationalexchange@hhu.edu.cn подтверждён на https://en.hhu.edu.cn/341/list.htm как ящик International Exchange Office. Общий ящик управления: gjhzc@hhu.edu.cn (можно в копию). На сайте управления нет страницы руководства; имя — из новости апреля 2025 г. (зам. начальника — Wu Yao 吴瑶)."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Отдел международных обменов (国际交流科) Управления международного сотрудничества (国际合作处)",
+  "addressee_name": "Zhang Jisheng (张继生)",
+  "addressee_title": "Начальник Управления международного сотрудничества (国际合作处处长)",
+  "salutation": "Dear Director Zhang,",
+  "addressee_source": "https://sdxy.hhu.edu.cn/_t947/2025/0427/c5763a301995/page.htm",
+  "addressee_confidence": "medium"
  },
  {
   "country": "China",
@@ -1334,15 +1631,23 @@
   "space_units": "College of Land Science and Technology (土地科学与技术学院, agricultural remote sensing); College of Resources and Environmental Sciences",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.cau.edu.cn/xxgk/xxld/index.htm; https://en.cau.edu.cn/col/col32357/index.html; https://www.cau.edu.cn/; https://faculty.cau.edu.cn/zc/; https://m.compassedu.hk/qs; https://www.timeshighereducation.com/world-university-rankings/china-agricultural-university; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744",
+  "sources": "https://www.cau.edu.cn/xxgk/xxld/index.htm; https://en.cau.edu.cn/col/col32357/index.html; https://www.cau.edu.cn/; https://faculty.cau.edu.cn/zc/; https://m.compassedu.hk/qs; https://www.timeshighereducation.com/world-university-rankings/china-agricultural-university; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744; https://global.cau.edu.cn/col/col52636/index.html",
   "confidence": "medium",
   "notes": "No university-built satellite found. A potential user and payload partner for agricultural Earth observation (crop monitoring). The latest THE WUR listing is the 2022 edition. Not found on the US Entity List.",
   "ownership": "Государственный (Минобразования КНР)",
   "notes_ru": [
    "Собственных КА нет; потенциальный потребитель данных ДЗЗ для сельского хозяйства",
    "Последний рейтинг THE — 2022",
-   "Не найден в Entity List США"
-  ]
+   "Не найден в Entity List США",
+   "Адресат: oice@cau.edu.cn закреплён за Zhang Ruyu (Европа). Начальник управления — Tang Ying (唐莹), tangying@cau.edu.cn (https://global.cau.edu.cn/col/col52260/index.html); отдел курирует зам. начальника Wu Jian (吴健), jianwu@cau.edu.cn. Для Азии/Африки — Chang Xin (常鑫), internationaloffice@cau.edu.cn; Америка — Su Hetong (苏鹤童), oirf@cau.edu.cn. Пол Zhang Ruyu не указан. Официальное приглашение лучше адресовать начальнику («Dear Director Tang,»), отправив на oice@ с копией tangying@."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Отдел международного сотрудничества (国际合作办公室) Управления международного сотрудничества и обменов (国际合作与交流处); ящик закреплён за сотрудником",
+  "addressee_name": "Zhang Ruyu (张薷予)",
+  "addressee_title": "Сотрудник Отдела международного сотрудничества (межвузовские обмены с Европой, студенческие программы)",
+  "salutation": "Dear Zhang Ruyu,",
+  "addressee_source": "https://global.cau.edu.cn/col/col52636/index.html",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -1369,15 +1674,23 @@
   "space_units": "Faculty of Information Science and Engineering (信息科学与工程学部, ocean remote sensing); College of Oceanic and Atmospheric Sciences; Key Laboratory of Physical Oceanography (MoE)",
   "agency_partnerships": "Guanlan project partners included Qingdao National Laboratory for Marine Science and Technology (Laoshan Lab), CASC 5th and 8th Academies (CAST/SAST), CAS National Space Science Center, CASIC 2nd Academy 23rd Institute, CETC 38th Institute, CAS AIR (per 2018 kickoff report)",
   "restricted_list": "",
-  "sources": "https://www.ouc.edu.cn/31003/list.htm; http://eweb.ouc.edu.cn/2851/list.htm; http://eweb.ouc.edu.cn/2024/0830/c892a482401/page.htm; https://www.ouc.edu.cn/; https://www.ouc.edu.cn/xbyx/list.htm; https://news.ouc.edu.cn/2018/0511/c86a72849/page.htm; https://xuanxiao.org/en/universities/ocean-university-of-china; https://www.timeshighereducation.com/world-university-rankings/ocean-university-china; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744",
+  "sources": "https://www.ouc.edu.cn/31003/list.htm; http://eweb.ouc.edu.cn/2851/list.htm; http://eweb.ouc.edu.cn/2024/0830/c892a482401/page.htm; https://www.ouc.edu.cn/; https://www.ouc.edu.cn/xbyx/list.htm; https://news.ouc.edu.cn/2018/0511/c86a72849/page.htm; https://xuanxiao.org/en/universities/ocean-university-of-china; https://www.timeshighereducation.com/world-university-rankings/ocean-university-china; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744; http://news.ouc.edu.cn/2026/0930/c78a122866/page.htm",
   "confidence": "medium",
   "notes": "No launched OUC satellite found. Guanlan is the main space asset in planning (chief scientist Prof. Chen Ge). The international office also lists regional contacts (wanqian@ouc.edu.cn, Europe; +86-532-66786570). Not found on the US Entity List.",
   "ownership": "Государственный (Минобразования КНР)",
   "notes_ru": [
    "Запущенных КА нет; в разработке океанографический КА Guanlan (гл. научный сотрудник проф. Чэнь Гэ)",
    "Региональные контакты: wanqian@ouc.edu.cn (Европа), +86-532-66786570",
-   "Не найден в Entity List США"
-  ]
+   "Не найден в Entity List США",
+   "Адресат: На сайте intl.ouc.edu.cn нет страницы руководства; должность подтверждена новостью ОУК от 30.09.2026 (и визитом в Нанкинский университет 03.03.2026). Адрес international@ouc.edu.cn на открытых страницах не встретился — не перепроверен."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Управление международного сотрудничества и обменов (国际合作与交流处) / Офис по делам Гонконга, Макао и Тайваня",
+  "addressee_name": "Li Weidong (李卫东)",
+  "addressee_title": "Начальник Управления международного сотрудничества и обменов (处长)",
+  "salutation": "Dear Director Li,",
+  "addressee_source": "http://news.ouc.edu.cn/2026/0930/c78a122866/page.htm",
+  "addressee_confidence": "high"
  },
  {
   "country": "China",
@@ -1404,14 +1717,22 @@
   "space_units": "School of Geophysics and Geomatics / Space Information (地球物理与空间信息学院); School of Earth and Planetary Sciences (地球与行星科学学院); School of Geography and Information Engineering; School of Computer Science",
   "agency_partnerships": "China Aero Geophysical Survey and Remote Sensing Center for Natural Resources (MNR/China Geological Survey); Spacety (天仪研究院); CAS Changchun Institute of Optics, Fine Mechanics and Physics; Zhejiang Institute of Geology; PowerChina Chengdu Engineering Corp.",
   "restricted_list": "",
-  "sources": "https://www.cug.edu.cn/xxgk/xrld.htm; https://gjhzc.cug.edu.cn/; https://en.cug.edu.cn/International/International_Cooperation.htm; https://en.cug.edu.cn/; https://www.cug.edu.cn/; https://www.cug.edu.cn/zzjg1/jxkyjg.htm; https://www.wuhan.gov.cn/sy/whyw/202505/t20250517_2582631.shtml; https://www.cug.edu.cn/info/10506/118543.htm; https://www.cug.edu.cn/info/10800/118583.htm; https://xuanxiao.org/en/universities/china-university-of-geosciences-wuhan; https://www.timeshighereducation.com/world-university-rankings/china-university-geosciences-wuhan; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744",
+  "sources": "https://www.cug.edu.cn/xxgk/xrld.htm; https://gjhzc.cug.edu.cn/; https://en.cug.edu.cn/International/International_Cooperation.htm; https://en.cug.edu.cn/; https://www.cug.edu.cn/; https://www.cug.edu.cn/zzjg1/jxkyjg.htm; https://www.wuhan.gov.cn/sy/whyw/202505/t20250517_2582631.shtml; https://www.cug.edu.cn/info/10506/118543.htm; https://www.cug.edu.cn/info/10800/118583.htm; https://xuanxiao.org/en/universities/china-university-of-geosciences-wuhan; https://www.timeshighereducation.com/world-university-rankings/china-university-geosciences-wuhan; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744; https://gjhzc.cug.edu.cn/jgsz/bmld.htm",
   "confidence": "medium",
   "notes": "The most active space programme in this batch. Dizhi-1's first standard data was released Oct 2025. Dianjian-1 counts as CUG-built because CUG was a joint developer (100+ staff and students), but the lead was PowerChina Chengdu. The profile is 'other': a specialist geosciences university. Not found on the US Entity List.",
   "ownership": "Государственный (Минобразования КНР)",
   "notes_ru": [
    "Самая активная космическая программа в своей группе: Dizhi-1 (2025), Dianjian-1 (2026, совместно с PowerChina)",
    "Dizhi-2 в планах",
-   "Не найден в Entity List США"
-  ]
+   "Не найден в Entity List США",
+   "Адресат: Адрес cug_global@cug.edu.cn на сайте управления (там только телефоны) не найден — владелец ящика определён по смыслу. Стратегические соглашения ведёт Офис программ совместного обучения (中外合作办学办公室, зам. начальника Fan Luwei 范陆薇)."
+  ],
+  "outreach_email_new": "",
+  "mailbox_owner": "Управление международного сотрудничества (国际合作处) / Офис по делам Гонконга, Макао и Тайваня",
+  "addressee_name": "Guan Qingfeng (关庆锋)",
+  "addressee_title": "Начальник Управления международного сотрудничества, директор Офиса по делам Гонконга, Макао и Тайваня",
+  "salutation": "Dear Director Guan,",
+  "addressee_source": "https://gjhzc.cug.edu.cn/jgsz/bmld.htm",
+  "addressee_confidence": "high"
  }
 ]

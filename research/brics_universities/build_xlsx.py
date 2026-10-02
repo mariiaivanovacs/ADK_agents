@@ -213,7 +213,7 @@ def main(out, paths):
         r["satellites_launched"] = int(r.get("satellites_launched") or 0)
         r["score"] = score(r)
         r["wave"] = wave(r)
-        r["mx"] = mx_ok(r.get("email_general"), r.get("email_international"))
+        r["mx"] = mx_ok(outreach_email(r))
         r["checked"] = today
     rows.sort(key=lambda r: (r["country"], -r["score"], r["name_en"]))
 
