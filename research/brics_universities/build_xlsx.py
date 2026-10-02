@@ -112,17 +112,17 @@ _mx_cache = {}
 
 def mx_ok(*emails):
     """'да' if every published e-mail's domain has an MX record, 'нет' if one fails, '' if no e-mail."""
-    doms = {e.split("@")[-1].strip().lower() for e in emails if e and "@" in e}
+    doms = {d.lower() for e in emails if e for d in re.findall(r"[\w.+-]+@([\w-]+(?:\.[\w-]+)+)", e)}
     if not doms:
         return ""
     for d in doms:
         if d not in _mx_cache:
             try:
-                dns.resolver.resolve(d, "MX", lifetime=10)
+                dns.resolver.resolve(d, "MX", lifetime=4)
                 _mx_cache[d] = True
             except Exception:
                 try:
-                    dns.resolver.resolve(d, "A", lifetime=10)  # implicit MX fallback
+                    dns.resolver.resolve(d, "A", lifetime=4)  # implicit MX fallback
                     _mx_cache[d] = True
                 except Exception:
                     _mx_cache[d] = False
