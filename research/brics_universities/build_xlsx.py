@@ -53,9 +53,21 @@ def comma_bullets(text):
 
 def outreach_email(r):
     """International office first (it handles foreign partnerships), then the general mailbox."""
+    if r.get("outreach_email_new"):
+        return EMAIL_RE.findall(r["outreach_email_new"])[0]
     found = EMAIL_RE.findall(r.get("email_international") or "") + EMAIL_RE.findall(r.get("email_general") or "")
     strong = [e for e in found if not WEAK_MAILBOX.match(e)]
     return (strong or found or [""])[0]
+
+
+def addressee(r):
+    """Name, title and office of whoever reads the outreach mailbox, plus the salutation to use."""
+    if not outreach_email(r):
+        return ""
+    name = r.get("addressee_name") or "ФИО не найдено"
+    lines = [name, r.get("addressee_title"), r.get("mailbox_owner"),
+             f"Обращение: {r['salutation']}" if r.get("salutation") else ""]
+    return "\n".join(l for l in lines if l)
 
 
 def restricted_ru(text):
@@ -75,6 +87,7 @@ COLUMNS = [
     ("Основные направления обучения", lambda r: comma_bullets(r.get("main_fields")), 40),
     ("Почтовый адрес", "postal_address", 40),
     ("E-mail для рассылки (рекомендуемый)", outreach_email, 28),
+    ("Адресат (владелец рекомендуемого e-mail)", addressee, 36),
     ("E-mail (международный отдел)", "email_international", 26),
     ("E-mail (общий / ректорат)", "email_general", 26),
     ("Телефон", "phone", 18),
