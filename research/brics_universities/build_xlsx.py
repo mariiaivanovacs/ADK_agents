@@ -22,7 +22,13 @@ PROFILE_RU = {
     "medical": "Медицинский",
     "other": "Другое",
 }
-COUNTRY_RU = {"China": "Китай"}
+COUNTRY_RU = {
+    "China": "Китай", "India": "Индия", "Russia": "Россия", "Brazil": "Бразилия", "South Africa": "ЮАР",
+    "Egypt": "Египет", "Ethiopia": "Эфиопия", "Iran": "Иран", "United Arab Emirates": "ОАЭ",
+    "Indonesia": "Индонезия", "Saudi Arabia": "Саудовская Аравия", "Kazakhstan": "Казахстан",
+    "Malaysia": "Малайзия", "Thailand": "Таиланд", "Vietnam": "Вьетнам", "Belarus": "Беларусь",
+    "Uzbekistan": "Узбекистан", "Nigeria": "Нигерия", "Uganda": "Уганда", "Cuba": "Куба", "Bolivia": "Боливия",
+}
 NEW_MEMBERS = {"Egypt", "Ethiopia", "Iran", "United Arab Emirates", "Indonesia", "Saudi Arabia"}
 GROUND_SITES = {"South Africa", "Brazil"}
 
