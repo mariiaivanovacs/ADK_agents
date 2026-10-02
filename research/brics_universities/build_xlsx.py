@@ -95,7 +95,6 @@ COLUMNS = [
     ("Сайт", "website", 24),
     ("Ректор / президент", "head_name", 26),
     ("Должность", "head_title", 12),
-    ("Секретарь парткома", "party_secretary", 24),
     ("Рейтинг QS", "rank_qs", 13),
     ("Рейтинг THE", "rank_the", 13),
     ("Национальный рейтинг", "rank_national", 16),
@@ -113,6 +112,7 @@ COLUMNS = [
     ("Примечания", lambda r: bullets(r.get("notes_ru") or r.get("notes")), 55),
     ("Источники", lambda r: bullets(r.get("sources")), 60),
     ("Дата проверки", "checked", 12),
+    ("Секретарь парткома (справочно, Китай)", "party_secretary", 24),
 ]
 WAVE_COL = next(i for i, (h, _, _) in enumerate(COLUMNS, 1) if h == "Волна рассылки")
 
