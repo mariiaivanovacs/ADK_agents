@@ -41,7 +41,8 @@
   "addressee_title": "Исполнительный заместитель начальника (常务副部长) Департамента международного сотрудничества, руководит департаментом",
   "salutation": "Dear Director Wu,",
   "addressee_source": "http://international.hit.edu.cn/16710/list.htm",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Харбин"
  },
  {
   "country": "China",
@@ -85,7 +86,8 @@
   "addressee_title": "Начальник Департамента международного сотрудничества (部长)",
   "salutation": "Dear Director Bai,",
   "addressee_source": "https://global.buaa.edu.cn/gywm/zzjg.htm",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Пекин"
  },
  {
   "country": "China",
@@ -128,7 +130,8 @@
   "addressee_title": "Член постоянного комитета парткома, проректор; начальник Отдела международного сотрудничества (国际合作处处长)",
   "salutation": "Dear Vice President Kong,",
   "addressee_source": "https://guoji.nwpu.edu.cn/jggk/lxwm.htm",
-  "addressee_confidence": "medium"
+  "addressee_confidence": "medium",
+  "city": "Сиань"
  },
  {
   "country": "China",
@@ -171,7 +174,8 @@
   "addressee_title": "Начальник Отдела международного сотрудничества (处长)",
   "salutation": "Dear Director Lai,",
   "addressee_source": "http://ico.nuaa.edu.cn/10476/list.htm",
-  "addressee_confidence": "medium"
+  "addressee_confidence": "medium",
+  "city": "Нанкин"
  },
  {
   "country": "China",
@@ -216,7 +220,8 @@
   "addressee_title": "",
   "salutation": "Dear Director of the Foreign Affairs Office,",
   "addressee_source": "https://english.nudt.edu.cn",
-  "addressee_confidence": "low"
+  "addressee_confidence": "low",
+  "city": "Чанша"
  },
  {
   "country": "China",
@@ -259,7 +264,8 @@
   "addressee_title": "Начальник Отдела международного сотрудничества и обменов (处长)",
   "salutation": "Dear Director Xiao,",
   "addressee_source": "https://www.tsinghua.edu.cn/gjhz/gywm/lxwm.htm",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Пекин"
  },
  {
   "country": "China",
@@ -302,7 +308,8 @@
   "addressee_title": "Начальник Отдела международного сотрудничества и обменов, по совместительству руководитель Офиса по делам Гонконга, Макао и Тайваня (处长、主任)",
   "salutation": "Dear Director Liang,",
   "addressee_source": "http://www.ir.zju.edu.cn/69632/list.htm",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Ханчжоу"
  },
  {
   "country": "China",
@@ -346,7 +353,8 @@
   "addressee_title": "Руководитель Сектора обменов и сотрудничества Отдела международных обменов и сотрудничества (主任)",
   "salutation": "Dear Director Zong,",
   "addressee_source": "https://international.bit.edu.cn/gywm/ksry/jlhzs/index.htm",
-  "addressee_confidence": "medium"
+  "addressee_confidence": "medium",
+  "city": "Пекин"
  },
  {
   "country": "China",
@@ -389,7 +397,8 @@
   "addressee_title": "",
   "salutation": "Dear Director of the Office of International Exchange and Cooperation,",
   "addressee_source": "https://gjc.njust.edu.cn/",
-  "addressee_confidence": "low"
+  "addressee_confidence": "low",
+  "city": "Нанкин"
  },
  {
   "country": "China",
@@ -433,7 +442,8 @@
   "addressee_title": "Начальник Отдела международных обменов и сотрудничества (处长)",
   "salutation": "Dear Director Dou,",
   "addressee_source": "https://fao.hrbeu.edu.cn/4775/list.htm",
-  "addressee_confidence": "medium"
+  "addressee_confidence": "medium",
+  "city": "Харбин"
  },
  {
   "country": "China",
@@ -476,7 +486,8 @@
   "addressee_title": "Начальник отдела международного сотрудничества и обменов, директор Офиса по делам Гонконга, Макао и Тайваня",
   "salutation": "Dear Director Yin,",
   "addressee_source": "https://global.sjtu.edu.cn/about/organization",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Шанхай"
  },
  {
   "country": "China",
@@ -520,7 +531,8 @@
   "addressee_title": "Ректор (校长), заместитель секретаря парткома",
   "salutation": "Dear President Tang,",
   "addressee_source": "https://www.sysu.edu.cn/xxg/xrld/xz.htm",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Гуанчжоу"
  },
  {
   "country": "China",
@@ -565,7 +577,8 @@
   "addressee_title": "Начальник управления международных связей (部长)",
   "salutation": "Dear Director Deng,",
   "addressee_source": "https://oir.whu.edu.cn/bmtuwj/bmld.htm",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Ухань"
  },
  {
   "country": "China",
@@ -608,7 +621,8 @@
   "addressee_title": "Начальник отдела международного сотрудничества и обменов (处长), директор Офиса по делам Гонконга, Макао и Тайваня",
   "salutation": "Dear Director Wang,",
   "addressee_source": "https://dutdice.dlut.edu.cn/lxwm/lxwm.htm",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Далянь"
  },
  {
   "country": "China",
@@ -652,7 +666,8 @@
   "addressee_title": "Начальник департамента международного сотрудничества и обменов, директор Офиса по делам Гонконга, Макао и Тайваня, декан Института международного образования",
   "salutation": "Dear Director Shen,",
   "addressee_source": "https://oice.xidian.edu.cn/gywm/bmgk/zzjg.htm",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Сиань"
  },
  {
   "country": "China",
@@ -696,7 +711,8 @@
   "addressee_title": "Начальник департамента международного сотрудничества и обменов (部长), директор Офиса по делам Гонконга, Макао и Тайваня",
   "salutation": "Dear Director Qu,",
   "addressee_source": "https://oic.ustc.edu.cn/%e5%85%b3%e4%ba%8e%e6%88%91%e4%bb%ac/%e4%ba%ba%e5%91%98%e4%bf%a1%e6%81%af/",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Хэфэй"
  },
  {
   "country": "China",
@@ -740,7 +756,8 @@
   "addressee_title": "Начальник отдела международного сотрудничества и обменов",
   "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
   "addressee_source": "",
-  "addressee_confidence": "low"
+  "addressee_confidence": "low",
+  "city": "Пекин"
  },
  {
   "country": "China",
@@ -783,7 +800,8 @@
   "addressee_title": "Начальник управления международного сотрудничества (部长)",
   "salutation": "Dear Director Li,",
   "addressee_source": "http://www.oir.pku.edu.cn/gywm.htm",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Пекин"
  },
  {
   "country": "China",
@@ -827,7 +845,8 @@
   "addressee_title": "Исполнительный заместитель начальника департамента международного сотрудничества (常务副部长), руководитель подразделения",
   "salutation": "Dear Executive Deputy Director Chen,",
   "addressee_source": "https://global.sustech.edu.cn/about/contact_us",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Шэньчжэнь"
  },
  {
   "country": "China",
@@ -871,7 +890,8 @@
   "addressee_title": "Начальник отдела международного сотрудничества и обменов",
   "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
   "addressee_source": "",
-  "addressee_confidence": "low"
+  "addressee_confidence": "low",
+  "city": "Чэнду"
  },
  {
   "country": "China",
@@ -914,7 +934,8 @@
   "addressee_title": "Начальник отдела международного сотрудничества и обменов (处长)",
   "salutation": "Dear Director Lu,",
   "addressee_source": "https://ogp.fudan.edu.cn/16079/list.htm",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Шанхай"
  },
  {
   "country": "China",
@@ -958,7 +979,8 @@
   "addressee_title": "Начальник отдела международного сотрудничества и обменов (处长)",
   "salutation": "Dear Director Liu,",
   "addressee_source": "https://www.xjtu.edu.cn/gjjl/gjhzyjlc.htm",
-  "addressee_confidence": "medium"
+  "addressee_confidence": "medium",
+  "city": "Сиань"
  },
  {
   "country": "China",
@@ -1000,7 +1022,8 @@
   "addressee_title": "Заместитель начальника Управления международных связей (副处长)",
   "salutation": "Dear Deputy Director Peng,",
   "addressee_source": "http://oia.hust.edu.cn/gywm/bmld.htm",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Ухань"
  },
  {
   "country": "China",
@@ -1044,7 +1067,8 @@
   "addressee_title": "Директор Департамента международного обмена и сотрудничества (主任)",
   "salutation": "Dear Director Han,",
   "addressee_source": "https://news.gdufe.edu.cn/45757",
-  "addressee_confidence": "low"
+  "addressee_confidence": "low",
+  "city": "Шэньчжэнь"
  },
  {
   "country": "China",
@@ -1087,7 +1111,8 @@
   "addressee_title": "Начальник отдела международного сотрудничества и обменов (处长)",
   "salutation": "Dear Director Liao,",
   "addressee_source": "https://gjjl.gxu.edu.cn/gywm/bmjs.htm",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Наньнин"
  },
  {
   "country": "China",
@@ -1131,7 +1156,8 @@
   "addressee_title": "Заведующий сектором международного партнёрства (Section Chief for international partnership)",
   "salutation": "Dear Mr. Fan,",
   "addressee_source": "https://international.nuc.edu.cn/gjhzjlc_e/Contact_Us.htm",
-  "addressee_confidence": "medium"
+  "addressee_confidence": "medium",
+  "city": "Тайюань"
  },
  {
   "country": "China",
@@ -1174,7 +1200,8 @@
   "addressee_title": "Заместитель начальника, руководит работой управления (副处长，主持工作)",
   "salutation": "Dear Deputy Director Nie,",
   "addressee_source": "https://oia.shanghaitech.edu.cn/549/list.htm",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Шанхай"
  },
  {
   "country": "China",
@@ -1216,7 +1243,8 @@
   "addressee_title": "Начальник Управления по интернационализации, директор Офиса по делам Тайваня, Гонконга и Макао (处长/主任)",
   "salutation": "Dear Director Lu,",
   "addressee_source": "https://wb.nju.edu.cn/jgsz/list.htm",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Нанкин"
  },
  {
   "country": "China",
@@ -1259,7 +1287,8 @@
   "addressee_title": "Заместитель начальника отдела международного обмена и сотрудничества, руководитель офиса глобальных обменов (副处长)",
   "salutation": "Dear Deputy Director Liu,",
   "addressee_source": "https://oiec.bnu.edu.cn/gywm/lxwm/index.htm",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Пекин"
  },
  {
   "country": "China",
@@ -1301,7 +1330,8 @@
   "addressee_title": "Начальник отдела международного сотрудничества и обменов (处长)",
   "salutation": "Dear Director Yang,",
   "addressee_source": "https://www.cqu.edu.cn/info/1111/64301.htm",
-  "addressee_confidence": "medium"
+  "addressee_confidence": "medium",
+  "city": "Чунцин"
  },
  {
   "country": "China",
@@ -1345,7 +1375,8 @@
   "addressee_title": "Директор Управления по международным делам (外事办公室主任)",
   "salutation": "Dear Director Yin,",
   "addressee_source": "https://fao.tongji.edu.cn/gywm/bmgk.htm",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Шанхай"
  },
  {
   "country": "China",
@@ -1388,7 +1419,8 @@
   "addressee_title": "Начальник Управления международного сотрудничества (国际合作处处长)",
   "salutation": "Dear Director Ye,",
   "addressee_source": "https://tc.seu.edu.cn/2019/1022/c25722a291865/page.htm",
-  "addressee_confidence": "medium"
+  "addressee_confidence": "medium",
+  "city": "Нанкин"
  },
  {
   "country": "China",
@@ -1431,7 +1463,8 @@
   "addressee_title": "Начальник Управления международного сотрудничества и обменов, директор Офиса по делам Гонконга, Макао и Тайваня",
   "salutation": "Dear Director Li,",
   "addressee_source": "https://international.scu.edu.cn/About_Us/Contact_Us/Contact_Us.htm",
-  "addressee_confidence": "medium"
+  "addressee_confidence": "medium",
+  "city": "Чэнду"
  },
  {
   "country": "China",
@@ -1474,7 +1507,8 @@
   "addressee_title": "Начальник Управления международного сотрудничества и обменов, директор Офиса по делам Гонконга, Макао и Тайваня",
   "salutation": "Dear Director Yin,",
   "addressee_source": "https://iecd.csu.edu.cn/gywm/lxwm.htm",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Чанша"
  },
  {
   "country": "China",
@@ -1517,7 +1551,8 @@
   "addressee_title": "Руководитель Департамента международных дел (部长), директор Офиса по делам Гонконга, Макао и Тайваня",
   "salutation": "Dear Director-General Ma,",
   "addressee_source": "https://www.ipo.sdu.edu.cn/bmjk/ryfg.htm",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Цзинань"
  },
  {
   "country": "China",
@@ -1561,7 +1596,8 @@
   "addressee_title": "Начальник Управления международного сотрудничества и обменов (处长)",
   "salutation": "Dear Director Li,",
   "addressee_source": "http://oic.jlu.edu.cn/gywm/bmld.htm",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Чанчунь"
  },
  {
   "country": "China",
@@ -1604,7 +1640,8 @@
   "addressee_title": "Начальник Управления международного сотрудничества (国际合作处处长)",
   "salutation": "Dear Director Zhang,",
   "addressee_source": "https://sdxy.hhu.edu.cn/_t947/2025/0427/c5763a301995/page.htm",
-  "addressee_confidence": "medium"
+  "addressee_confidence": "medium",
+  "city": "Нанкин"
  },
  {
   "country": "China",
@@ -1647,7 +1684,8 @@
   "addressee_title": "Сотрудник Отдела международного сотрудничества (межвузовские обмены с Европой, студенческие программы)",
   "salutation": "Dear Zhang Ruyu,",
   "addressee_source": "https://global.cau.edu.cn/col/col52636/index.html",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Пекин"
  },
  {
   "country": "China",
@@ -1690,7 +1728,8 @@
   "addressee_title": "Начальник Управления международного сотрудничества и обменов (处长)",
   "salutation": "Dear Director Li,",
   "addressee_source": "http://news.ouc.edu.cn/2026/0930/c78a122866/page.htm",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Циндао"
  },
  {
   "country": "China",
@@ -1733,6 +1772,7 @@
   "addressee_title": "Начальник Управления международного сотрудничества, директор Офиса по делам Гонконга, Макао и Тайваня",
   "salutation": "Dear Director Guan,",
   "addressee_source": "https://gjhzc.cug.edu.cn/jgsz/bmld.htm",
-  "addressee_confidence": "high"
+  "addressee_confidence": "high",
+  "city": "Ухань"
  }
 ]

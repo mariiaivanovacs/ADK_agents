@@ -1,5 +1,5 @@
-﻿№,Страна,Вуз (англ.),Вуз (ориг.),Профиль,Гос. / частный,Основные направления обучения,Почтовый адрес,E-mail для рассылки (рекомендуемый),Адресат (владелец рекомендуемого e-mail),E-mail (международный отдел),E-mail (общий / ректорат),Телефон,Сайт,Ректор / президент,Должность,Секретарь парткома,Рейтинг QS,Рейтинг THE,Национальный рейтинг,Запущено КА (спутников),Названия запущенных КА (год),КА в разработке,Наземная станция,Космические подразделения,Партнёрства в космической сфере,Санкционные / ограничительные списки (США),Космический индекс (0–100),Волна рассылки,Проверка домена e-mail (MX),Достоверность,Примечания,Источники,Дата проверки
-1,Китай,Fudan University,复旦大学,Классический,Государственный (Минобразования КНР),"• Medicine
+﻿№,Страна,Город,Вуз (англ.),Вуз (ориг.),Профиль,Гос. / частный,Основные направления обучения,Почтовый адрес,E-mail для рассылки (рекомендуемый),Адресат (владелец рекомендуемого e-mail),E-mail (международный отдел),E-mail (общий / ректорат),Телефон,Сайт,Ректор / президент,Должность,Секретарь парткома,Рейтинг QS,Рейтинг THE,Национальный рейтинг,Запущено КА (спутников),Названия запущенных КА (год),КА в разработке,Наземная станция,Космические подразделения,Партнёрства в космической сфере,Санкционные / ограничительные списки (США),Космический индекс (0–100),Волна рассылки,Проверка домена e-mail (MX),Достоверность,Примечания,Источники,Дата проверки
+1,Китай,Шанхай,Fudan University,复旦大学,Классический,Государственный (Минобразования КНР),"• Medicine
 • Physics & Nuclear Science
 • Economics & Management
 • Humanities & Social Sciences
@@ -27,7 +27,7 @@
 • Https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Https://ogp.fudan.edu.cn/16079/list.htm",2026-10-02
-2,Китай,Northwestern Polytechnical University,西北工业大学,Технический / аэрокосмический,"Государственный (Минпроминформатизации КНР, MIIT)","• Aeronautics
+2,Китай,Сиань,Northwestern Polytechnical University,西北工业大学,Технический / аэрокосмический,"Государственный (Минпроминформатизации КНР, MIIT)","• Aeronautics
 • Astronautics
 • Marine (underwater) engineering
 • Materials science
@@ -61,7 +61,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.iafastro.org/membership/all-members/northwestern-polytechnical-university.html
 • Nanosats.eu export (local nanosats.csv)
 • Https://guoji.nwpu.edu.cn/jggk/lxwm.htm",2026-10-02
-3,Китай,Sun Yat-sen University,中山大学,Классический,Государственный (Минобразования КНР),"• Medicine
+3,Китай,Гуанчжоу,Sun Yat-sen University,中山大学,Классический,Государственный (Минобразования КНР),"• Medicine
 • Physics & Astronomy (gravitational-wave science)
 • Earth/Ocean & Atmospheric Sciences
 • Remote Sensing Science & Technology
@@ -98,7 +98,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://kaoyan.koolearn.com/20260417/1941118.html
 • Https://www.nanosats.eu (local export nanosats.csv)
 • Https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government",2026-10-02
-4,Китай,University of Science and Technology of China,中国科学技术大学,Технический / аэрокосмический,Государственный (Китайская академия наук),"• Physics (quantum information)
+4,Китай,Хэфэй,University of Science and Technology of China,中国科学技术大学,Технический / аэрокосмический,Государственный (Китайская академия наук),"• Physics (quantum information)
 • Chemistry
 • Mathematics
 • Earth & Space Sciences
@@ -135,7 +135,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.nanosats.eu (local export nanosats.csv)
 • Https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government
 • Https://oic.ustc.edu.cn/%e5%85%b3%e4%ba%8e%e6%88%91%e4%bb%ac/%e4%ba%ba%e5%91%98%e4%bf%a1%e6%81%af/",2026-10-02
-5,Китай,Wuhan University,武汉大学,Классический,Государственный (Минобразования КНР),"• Surveying
+5,Китай,Ухань,Wuhan University,武汉大学,Классический,Государственный (Минобразования КНР),"• Surveying
 • Mapping & Remote Sensing (world-leading)
 • Geospatial Information Science
 • Law
@@ -180,7 +180,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://kaoyan.koolearn.com/20260417/1941118.html
 • Https://www.nanosats.eu (local export nanosats.csv)
 • Https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government",2026-10-02
-6,Китай,Beijing University of Posts and Telecommunications,北京邮电大学,Технический / аэрокосмический,Государственный (Минобразования КНР),"• Information & Communication Engineering
+6,Китай,Пекин,Beijing University of Posts and Telecommunications,北京邮电大学,Технический / аэрокосмический,Государственный (Минобразования КНР),"• Information & Communication Engineering
 • Computer Science & AI
 • Cyberspace Security
 • Electronic Science & Technology
@@ -214,7 +214,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://kaoyan.koolearn.com/20260417/1941118.html
 • Https://www.nanosats.eu (local export nanosats.csv)
 • Https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government",2026-10-02
-7,Китай,Beijing Normal University,北京师范大学,Классический,Государственный (Минобразования КНР),"• Education
+7,Китай,Пекин,Beijing Normal University,北京师范大学,Классический,Государственный (Минобразования КНР),"• Education
 • Psychology
 • Geography & Remote Sensing
 • Chinese Language & Literature
@@ -239,7 +239,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Https://oiec.bnu.edu.cn/gywm/lxwm/index.htm",2026-10-02
-8,Китай,Zhejiang University,浙江大学,Классический,Государственный (Минобразования КНР),"• Engineering
+8,Китай,Ханчжоу,Zhejiang University,浙江大学,Классический,Государственный (Минобразования КНР),"• Engineering
 • Computer science and AI
 • Medicine
 • Agriculture and life sciences
@@ -269,7 +269,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government
 • Nanosats.eu export (local nanosats.csv)
 • Http://www.ir.zju.edu.cn/69632/list.htm",2026-10-02
-9,Китай,Shanghai Jiao Tong University,上海交通大学,Классический,Государственный (Минобразования КНР),"• Engineering (naval architecture, mechanical, electrical)
+9,Китай,Шанхай,Shanghai Jiao Tong University,上海交通大学,Классический,Государственный (Минобразования КНР),"• Engineering (naval architecture, mechanical, electrical)
 • Medicine
 • Computer Science & AI
 • Aeronautics & Astronautics
@@ -299,7 +299,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.nanosats.eu (local export nanosats.csv)
 • Https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government
 • Https://global.sjtu.edu.cn/about/organization",2026-10-02
-10,Китай,China University of Geosciences (Wuhan),中国地质大学（武汉）,Другое,Государственный (Минобразования КНР),"• Geology
+10,Китай,Ухань,China University of Geosciences (Wuhan),中国地质大学（武汉）,Другое,Государственный (Минобразования КНР),"• Geology
 • Geophysics and space information
 • Earth and planetary sciences
 • Resource and mineral exploration engineering
@@ -334,7 +334,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744
 • Https://gjhzc.cug.edu.cn/jgsz/bmld.htm",2026-10-02
-11,Китай,Dalian University of Technology,大连理工大学,Технический / аэрокосмический,Государственный (Минобразования КНР),"• Chemical Engineering
+11,Китай,Далянь,Dalian University of Technology,大连理工大学,Технический / аэрокосмический,Государственный (Минобразования КНР),"• Chemical Engineering
 • Mechanical & Engineering Mechanics
 • Civil/Hydraulic & Ocean Engineering
 • Materials Science
@@ -362,7 +362,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://kaoyan.koolearn.com/20260417/1941118.html
 • Https://www.nanosats.eu (local export nanosats.csv)
 • Https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government",2026-10-02
-12,Китай,Harbin Institute of Technology,哈尔滨工业大学,Технический / аэрокосмический,"Государственный (Минпроминформатизации КНР, MIIT)","• Aerospace engineering (astronautics)
+12,Китай,Харбин,Harbin Institute of Technology,哈尔滨工业大学,Технический / аэрокосмический,"Государственный (Минпроминформатизации КНР, MIIT)","• Aerospace engineering (astronautics)
 • Mechanical engineering
 • Materials science
 • Control science
@@ -410,7 +410,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.iafastro.org/membership/all-members/harbin-institute-of-technology.html
 • Nanosats.eu export (local nanosats.csv)
 • Http://international.hit.edu.cn/16710/list.htm",2026-10-02
-13,Китай,Huazhong University of Science and Technology,华中科技大学,Технический / аэрокосмический,Государственный (Минобразования КНР),"• Mechanical Engineering
+13,Китай,Ухань,Huazhong University of Science and Technology,华中科技大学,Технический / аэрокосмический,Государственный (Минобразования КНР),"• Mechanical Engineering
 • Optoelectronics
 • Electrical Engineering
 • Computer Science
@@ -435,7 +435,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Http://oia.hust.edu.cn/gywm/bmld.htm",2026-10-02
-14,Китай,Tsinghua University,清华大学,Классический,Государственный (Минобразования КНР),"• Engineering (incl. aerospace)
+14,Китай,Пекин,Tsinghua University,清华大学,Классический,Государственный (Минобразования КНР),"• Engineering (incl. aerospace)
 • Computer science
 • Physics
 • Architecture
@@ -465,7 +465,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government
 • Nanosats.eu export (local nanosats.csv)
 • Https://www.tsinghua.edu.cn/gjhz/gywm/lxwm.htm",2026-10-02
-15,Китай,Xidian University,西安电子科技大学,Технический / аэрокосмический,Государственный (Минобразования КНР),"• Electronic & Information Engineering
+15,Китай,Сиань,Xidian University,西安电子科技大学,Технический / аэрокосмический,Государственный (Минобразования КНР),"• Electronic & Information Engineering
 • Telecommunications
 • Radar & Signal Processing
 • Antennas & Microwave
@@ -499,7 +499,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://kaoyan.koolearn.com/20260417/1941118.html
 • Https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government
 • Https://oice.xidian.edu.cn/gywm/bmgk/zzjg.htm",2026-10-02
-16,Китай,Beihang University (Beijing University of Aeronautics and Astronautics),北京航空航天大学,Технический / аэрокосмический,"Государственный (Минпроминформатизации КНР, MIIT)","• Aeronautical and astronautical engineering
+16,Китай,Пекин,Beihang University (Beijing University of Aeronautics and Astronautics),北京航空航天大学,Технический / аэрокосмический,"Государственный (Минпроминформатизации КНР, MIIT)","• Aeronautical and astronautical engineering
 • Instrumentation science
 • Computer science and software
 • Electronic and information engineering
@@ -536,7 +536,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.iafastro.org/membership/all-members/beihang-university.html
 • Nanosats.eu export (local nanosats.csv)
 • Https://global.buaa.edu.cn/gywm/zzjg.htm",2026-10-02
-17,Китай,Guangxi University,广西大学,Классический,Государственный (правительство Гуанси-Чжуанского АР и Минобразования КНР),"• Agriculture & Sugarcane Science
+17,Китай,Наньнин,Guangxi University,广西大学,Классический,Государственный (правительство Гуанси-Чжуанского АР и Минобразования КНР),"• Agriculture & Sugarcane Science
 • Civil Engineering
 • Chemistry & Chemical Engineering
 • Physics
@@ -559,7 +559,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.gxu.edu.cn/info/1004/39202.htm
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking",2026-10-02
-18,Китай,Nanjing University of Aeronautics and Astronautics,南京航空航天大学,Технический / аэрокосмический,"Государственный (Минпроминформатизации КНР, MIIT)","• Aeronautical engineering
+18,Китай,Нанкин,Nanjing University of Aeronautics and Astronautics,南京航空航天大学,Технический / аэрокосмический,"Государственный (Минпроминформатизации КНР, MIIT)","• Aeronautical engineering
 • Astronautics
 • Mechanical engineering
 • Electrical/automation engineering
@@ -585,7 +585,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://en.wikipedia.org/wiki/Seven_Sons_of_National_Defence
 • Nanosats.eu export (local nanosats.csv)
 • Http://ico.nuaa.edu.cn/10476/list.htm",2026-10-02
-19,Китай,Southern University of Science and Technology,南方科技大学,Технический / аэрокосмический,Государственный (муниципалитет Шэньчжэня),"• Physics & Materials Science
+19,Китай,Шэньчжэнь,Southern University of Science and Technology,南方科技大学,Технический / аэрокосмический,Государственный (муниципалитет Шэньчжэня),"• Physics & Materials Science
 • Earth and Space Sciences
 • Electronic & Electrical Engineering
 • Biology & Medicine
@@ -616,7 +616,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Https://kaoyan.koolearn.com/20260417/1941118.html
 • Https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government",2026-10-02
-20,Китай,Beijing Institute of Technology,北京理工大学,Технический / аэрокосмический,"Государственный (Минпроминформатизации КНР, MIIT)","• Weapons science and technology
+20,Китай,Пекин,Beijing Institute of Technology,北京理工大学,Технический / аэрокосмический,"Государственный (Минпроминформатизации КНР, MIIT)","• Weapons science and technology
 • Mechanical and vehicle engineering
 • Optics/photonics
 • Information and electronics
@@ -642,7 +642,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://en.wikipedia.org/wiki/Seven_Sons_of_National_Defence
 • Nanosats.eu export (local nanosats.csv)
 • Https://international.bit.edu.cn/gywm/ksry/jlhzs/index.htm",2026-10-02
-21,Китай,Nanjing University,南京大学,Классический,Государственный (Минобразования КНР),"• Astronomy & Space Science
+21,Китай,Нанкин,Nanjing University,南京大学,Классический,Государственный (Минобразования КНР),"• Astronomy & Space Science
 • Physics
 • Chemistry
 • Earth Sciences
@@ -663,7 +663,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Https://wb.nju.edu.cn/jgsz/list.htm",2026-10-02
-22,Китай,Shandong University,山东大学,Классический,Государственный (Минобразования КНР),"• Mathematics
+22,Китай,Цзинань,Shandong University,山东大学,Классический,Государственный (Минобразования КНР),"• Mathematics
 • Chemistry and materials
 • Medicine (Qilu)
 • Chinese literature
@@ -688,7 +688,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744
 • Https://www.ipo.sdu.edu.cn/bmjk/ryfg.htm",2026-10-02
-23,Китай,University of Electronic Science and Technology of China,电子科技大学,Технический / аэрокосмический,Государственный (Минобразования КНР),"• Electronic Science & Technology
+23,Китай,Чэнду,University of Electronic Science and Technology of China,电子科技大学,Технический / аэрокосмический,Государственный (Минобразования КНР),"• Electronic Science & Technology
 • Information & Communication Engineering
 • Computer Science & AI
 • Optical Engineering
@@ -715,7 +715,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Https://kaoyan.koolearn.com/20260417/1941118.html
 • Https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government",2026-10-02
-24,Китай,National University of Defense Technology,中国人民解放军国防科技大学,Технический / аэрокосмический,"Государственный (военный вуз, Центральный военный совет КНР)","• Computer science (Tianhe supercomputers)
+24,Китай,Чанша,National University of Defense Technology,中国人民解放军国防科技大学,Технический / аэрокосмический,"Государственный (военный вуз, Центральный военный совет КНР)","• Computer science (Tianhe supercomputers)
 • Aerospace science and engineering
 • Electronic science
 • Optical engineering
@@ -741,7 +741,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://kaoyan.koolearn.com/20260417/1941118.html
 • Https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government
 • Nanosats.eu export (local nanosats.csv)",2026-10-02
-25,Китай,Nanjing University of Science and Technology,南京理工大学,Технический / аэрокосмический,"Государственный (Минпроминформатизации КНР, MIIT)","• Ordnance science and technology
+25,Китай,Нанкин,Nanjing University of Science and Technology,南京理工大学,Технический / аэрокосмический,"Государственный (Минпроминформатизации КНР, MIIT)","• Ordnance science and technology
 • Mechanical engineering
 • Chemical engineering (energetic materials)
 • Optical/electronic engineering
@@ -761,7 +761,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://en.wikipedia.org/wiki/Seven_Sons_of_National_Defence
 • Nanosats.eu export (local nanosats.csv)
 • Https://gjc.njust.edu.cn/",2026-10-02
-26,Китай,Jilin University,吉林大学,Классический,Государственный (Минобразования КНР),"• Chemistry
+26,Китай,Чанчунь,Jilin University,吉林大学,Классический,Государственный (Минобразования КНР),"• Chemistry
 • Physics and materials
 • Geoscience and instrumentation (geophysical exploration)
 • Medicine (Bethune)
@@ -787,7 +787,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744
 • Http://oic.jlu.edu.cn/gywm/bmld.htm",2026-10-02
-27,Китай,ShanghaiTech University,上海科技大学,Технический / аэрокосмический,Государственный (г. Шанхай и Китайская академия наук),"• Physical Science & Technology
+27,Китай,Шанхай,ShanghaiTech University,上海科技大学,Технический / аэрокосмический,Государственный (г. Шанхай и Китайская академия наук),"• Physical Science & Technology
 • Information Science & Technology
 • Life Science & Technology
 • Materials
@@ -809,7 +809,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking
 • Https://oia.shanghaitech.edu.cn/549/list.htm",2026-10-02
-28,Китай,Ocean University of China,中国海洋大学,Морской / океанографический,Государственный (Минобразования КНР),"• Physical oceanography and atmospheric science
+28,Китай,Циндао,Ocean University of China,中国海洋大学,Морской / океанографический,Государственный (Минобразования КНР),"• Physical oceanography and atmospheric science
 • Marine biology and fisheries
 • Marine chemistry
 • Marine geoscience
@@ -834,7 +834,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744
 • Http://news.ouc.edu.cn/2026/0930/c78a122866/page.htm",2026-10-02
-29,Китай,Central South University,中南大学,Классический,Государственный (Минобразования КНР),"• Metallurgy and materials (powder metallurgy)
+29,Китай,Чанша,Central South University,中南大学,Классический,Государственный (Минобразования КНР),"• Metallurgy and materials (powder metallurgy)
 • Mining and mineral resources engineering
 • Medicine (Xiangya)
 • Rail transportation engineering
@@ -858,7 +858,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744
 • Https://iecd.csu.edu.cn/gywm/lxwm.htm",2026-10-02
-30,Китай,Peking University,北京大学,Классический,Государственный (Минобразования КНР),"• Natural Sciences (Physics, Chemistry, Mathematics)
+30,Китай,Пекин,Peking University,北京大学,Классический,Государственный (Минобразования КНР),"• Natural Sciences (Physics, Chemistry, Mathematics)
 • Earth and Space Sciences
 • Medicine
 • Economics & Management
@@ -885,7 +885,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://kaoyan.koolearn.com/20260417/1941118.html
 • Https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government
 • Http://www.oir.pku.edu.cn/gywm.htm",2026-10-02
-31,Китай,Sichuan University,四川大学,Классический,Государственный (Минобразования КНР),"• Medicine (West China)
+31,Китай,Чэнду,Sichuan University,四川大学,Классический,Государственный (Минобразования КНР),"• Medicine (West China)
 • Chemistry and polymer materials
 • Mathematics
 • Humanities and social sciences
@@ -906,7 +906,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.timeshighereducation.com/world-university-rankings/sichuan-university
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744",2026-10-02
-32,Китай,Tongji University,同济大学,Технический / аэрокосмический,Государственный (Минобразования КНР),"• Civil engineering
+32,Китай,Шанхай,Tongji University,同济大学,Технический / аэрокосмический,Государственный (Минобразования КНР),"• Civil engineering
 • Architecture and urban planning
 • Environmental science and engineering
 • Transportation engineering
@@ -931,7 +931,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744
 • Https://fao.tongji.edu.cn/gywm/bmgk.htm",2026-10-02
-33,Китай,Xi'an Jiaotong University,西安交通大学,Технический / аэрокосмический,Государственный (Минобразования КНР),"• Energy & Power Engineering
+33,Китай,Сиань,Xi'an Jiaotong University,西安交通大学,Технический / аэрокосмический,Государственный (Минобразования КНР),"• Energy & Power Engineering
 • Electrical Engineering
 • Mechanical Engineering & Manufacturing
 • Materials Science
@@ -953,7 +953,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Https://www.xjtu.edu.cn/gjjl/gjhzyjlc.htm",2026-10-02
-34,Китай,Shenzhen University,深圳大学,Классический,Государственный (муниципалитет Шэньчжэня),"• Electronic & Information Engineering
+34,Китай,Шэньчжэнь,Shenzhen University,深圳大学,Классический,Государственный (муниципалитет Шэньчжэня),"• Electronic & Information Engineering
 • Computer Science
 • Physics & Optoelectronic Engineering
 • Architecture & Civil Engineering
@@ -974,7 +974,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Https://news.gdufe.edu.cn/45757",2026-10-02
-35,Китай,China Agricultural University,中国农业大学,Аграрный / экологический,Государственный (Минобразования КНР),"• Agronomy and crop science
+35,Китай,Пекин,China Agricultural University,中国农业大学,Аграрный / экологический,Государственный (Минобразования КНР),"• Agronomy and crop science
 • Veterinary and animal science
 • Food science and nutrition
 • Agricultural engineering
@@ -995,7 +995,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744
 • Https://global.cau.edu.cn/col/col52636/index.html",2026-10-02
-36,Китай,Chongqing University,重庆大学,Технический / аэрокосмический,Государственный (Минобразования КНР),"• Mechanical Engineering
+36,Китай,Чунцин,Chongqing University,重庆大学,Технический / аэрокосмический,Государственный (Минобразования КНР),"• Mechanical Engineering
 • Electrical Engineering
 • Civil Engineering & Architecture
 • Materials Science
@@ -1015,7 +1015,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Https://www.cqu.edu.cn/info/1111/64301.htm",2026-10-02
-37,Китай,North University of China,中北大学,Технический / аэрокосмический,Государственный (провинция Шаньси),"• Weapon Science & Technology
+37,Китай,Тайюань,North University of China,中北大学,Технический / аэрокосмический,Государственный (провинция Шаньси),"• Weapon Science & Technology
 • Instrumentation & Measurement
 • Materials Science
 • Mechanical Engineering
@@ -1037,7 +1037,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Nanosats.eu export
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking",2026-10-02
-38,Китай,Southeast University,东南大学,Технический / аэрокосмический,Государственный (Минобразования КНР),"• Architecture
+38,Китай,Нанкин,Southeast University,东南大学,Технический / аэрокосмический,Государственный (Минобразования КНР),"• Architecture
 • Civil and transportation engineering
 • Electronic science and information/communication engineering (millimeter waves, mobile communications)
 • Instrument science
@@ -1060,7 +1060,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744
 • Https://tc.seu.edu.cn/2019/1022/c25722a291865/page.htm",2026-10-02
-39,Китай,Hohai University,河海大学,Технический / аэрокосмический,Государственный (Минобразования КНР),"• Hydraulic engineering
+39,Китай,Нанкин,Hohai University,河海大学,Технический / аэрокосмический,Государственный (Минобразования КНР),"• Hydraulic engineering
 • Hydrology and water resources
 • Civil and harbour engineering
 • Environmental science
@@ -1081,7 +1081,7 @@ wgzj@ — Сектор иностранных специалистов (专家�
 • Https://www.shanghairanking.cn/rankings/bcur/2026
 • Https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744
 • Https://sdxy.hhu.edu.cn/_t947/2025/0427/c5763a301995/page.htm",2026-10-02
-40,Китай,Harbin Engineering University,哈尔滨工程大学,Морской / океанографический,"Государственный (Минпроминформатизации КНР, MIIT)","• Naval architecture and ocean engineering
+40,Китай,Харбин,Harbin Engineering University,哈尔滨工程大学,Морской / океанографический,"Государственный (Минпроминформатизации КНР, MIIT)","• Naval architecture and ocean engineering
 • Underwater acoustics
 • Marine power/propulsion
 • Nuclear science and technology

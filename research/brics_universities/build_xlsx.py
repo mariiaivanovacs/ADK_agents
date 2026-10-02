@@ -80,6 +80,7 @@ def restricted_ru(text):
 COLUMNS = [
     ("№", None, 5),
     ("Страна", lambda r: COUNTRY_RU.get(r["country"], r["country"]), 10),
+    ("Город", "city", 12),
     ("Вуз (англ.)", "name_en", 34),
     ("Вуз (ориг.)", "name_native", 18),
     ("Профиль", lambda r: PROFILE_RU.get(r["profile_type"], r["profile_type"]), 20),
@@ -200,7 +201,7 @@ def write_sheet(ws, rows):
             cell = ws.cell(i + 1, c, v)
             cell.alignment = Alignment(wrap_text=True, vertical="top")
         ws.cell(i + 1, WAVE_COL).fill = PatternFill("solid", fgColor=wave_fill[r["wave"]])
-    ws.freeze_panes = "D2"
+    ws.freeze_panes = "E2"
     ws.auto_filter.ref = ws.dimensions
 
 
