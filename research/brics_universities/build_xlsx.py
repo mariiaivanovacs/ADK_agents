@@ -27,16 +27,56 @@ NEW_MEMBERS = {"Egypt", "Ethiopia", "Iran", "United Arab Emirates", "Indonesia",
 GROUND_SITES = {"South Africa", "Brazil"}
 
 # (header, key or callable, width)
+EMAIL_RE = re.compile(r"[\w.+-]+@[\w-]+(?:\.[\w-]+)+")
+# Mailboxes that exist but are poor targets for a partnership letter.
+WEAK_MAILBOX = re.compile(r"^(admission|admissions|apply|zhaoban|webmaster|xwzx|news|studyat)", re.I)
+RESTRICTED_RU = {
+    "US Entity List": "Entity List США",
+    "Seven Sons of National Defence": "«Семь сыновей национальной обороны»",
+}
+
+
+def bullets(text, sep=r"\s*;\s*"):
+    """Render a delimited string (or list) as one bullet per line inside the cell."""
+    if not text:
+        return ""
+    items = text if isinstance(text, list) else re.split(sep, text)
+    items = [i.strip(" .") for i in items if i and i.strip(" .")]
+    items = [i[0].upper() + i[1:] for i in items]
+    return "\n".join(f"• {i}" for i in items) if len(items) > 1 else (items[0] if items else "")
+
+
+def comma_bullets(text):
+    # Split on commas/semicolons that are not inside parentheses.
+    return bullets(text, r"\s*[;,]\s*(?![^()]*\))")
+
+
+def outreach_email(r):
+    """International office first (it handles foreign partnerships), then the general mailbox."""
+    found = EMAIL_RE.findall(r.get("email_international") or "") + EMAIL_RE.findall(r.get("email_general") or "")
+    strong = [e for e in found if not WEAK_MAILBOX.match(e)]
+    return (strong or found or [""])[0]
+
+
+def restricted_ru(text):
+    for en, ru in RESTRICTED_RU.items():
+        text = re.sub(re.escape(en), ru, text or "")
+    return text.replace("added", "с").replace("; ", "\n")
+
+
+# (header, key or callable, width)
 COLUMNS = [
     ("№", None, 5),
     ("Страна", lambda r: COUNTRY_RU.get(r["country"], r["country"]), 10),
     ("Вуз (англ.)", "name_en", 34),
     ("Вуз (ориг.)", "name_native", 18),
     ("Профиль", lambda r: PROFILE_RU.get(r["profile_type"], r["profile_type"]), 20),
-    ("Основные направления обучения", "main_fields", 40),
+    ("Гос. / частный", "ownership", 24),
+    ("Основные направления обучения", lambda r: comma_bullets(r.get("main_fields")), 40),
     ("Почтовый адрес", "postal_address", 40),
-    ("E-mail (общий)", "email_general", 26),
+    ("E-mail для рассылки (рекомендуемый)", outreach_email, 28),
     ("E-mail (международный отдел)", "email_international", 26),
+    ("E-mail (общий / ректорат)", "email_general", 26),
     ("Телефон", "phone", 18),
     ("Сайт", "website", 24),
     ("Ректор / президент", "head_name", 26),
@@ -45,21 +85,22 @@ COLUMNS = [
     ("Рейтинг QS", "rank_qs", 13),
     ("Рейтинг THE", "rank_the", 13),
     ("Национальный рейтинг", "rank_national", 16),
-    ("Запущено КА", "satellites_launched", 9),
-    ("Названия КА", "satellite_names", 40),
-    ("КА в разработке", "sats_in_development", 30),
+    ("Запущено КА (спутников)", "satellites_launched", 10),
+    ("Названия запущенных КА (год)", lambda r: bullets(r.get("satellite_names")), 45),
+    ("КА в разработке", lambda r: bullets(r.get("sats_in_development")), 30),
     ("Наземная станция", "ground_station", 30),
-    ("Космические подразделения", "space_units", 40),
-    ("Партнёрства в космической сфере", "agency_partnerships", 40),
-    ("Ограничительные списки", "restricted_list", 18),
+    ("Космические подразделения", lambda r: bullets(r.get("space_units")), 40),
+    ("Партнёрства в космической сфере", lambda r: bullets(r.get("agency_partnerships")), 45),
+    ("Санкционные / ограничительные списки (США)", lambda r: restricted_ru(r.get("restricted_list")), 22),
     ("Космический индекс (0–100)", "score", 11),
     ("Волна рассылки", "wave", 9),
     ("Проверка домена e-mail (MX)", "mx", 12),
-    ("Достоверность", "confidence", 11),
-    ("Примечания", "notes", 40),
-    ("Источники", "sources", 50),
+    ("Достоверность", lambda r: {"high": "высокая", "medium": "средняя", "low": "низкая"}.get(r.get("confidence"), r.get("confidence")), 11),
+    ("Примечания", lambda r: bullets(r.get("notes_ru") or r.get("notes")), 55),
+    ("Источники", lambda r: bullets(r.get("sources")), 60),
     ("Дата проверки", "checked", 12),
 ]
+WAVE_COL = next(i for i, (h, _, _) in enumerate(COLUMNS, 1) if h == "Волна рассылки")
 
 NETWORKS = re.compile(r"UNISEC|IAF|International Astronautical Federation|BRICS|SCO|APSCO", re.I)
 
@@ -145,7 +186,7 @@ def write_sheet(ws, rows):
             v = i if key is None else key(r) if callable(key) else r.get(key, "")
             cell = ws.cell(i + 1, c, v)
             cell.alignment = Alignment(wrap_text=True, vertical="top")
-        ws.cell(i + 1, len(COLUMNS) - 5).fill = PatternFill("solid", fgColor=wave_fill[r["wave"]])
+        ws.cell(i + 1, WAVE_COL).fill = PatternFill("solid", fgColor=wave_fill[r["wave"]])
     ws.freeze_panes = "D2"
     ws.auto_filter.ref = ws.dimensions
 
@@ -190,6 +231,10 @@ def main(out, paths):
         "Волна 2: индекс ≥ 35 или технический вуз с космическими подразделениями. Волна 3: потребители данных и образовательные партнёры.",
         "Пустая ячейка = данные не найдены в открытых официальных источниках (значения не домысливались).",
         "Проверка домена e-mail (MX): домен адреса принимает почту (да/нет).",
+        "E-mail для рассылки: адрес международного отдела, при его отсутствии — общий; адреса приёмных комиссий и вебмастеров — только если других нет.",
+        "Названия запущенных КА: спутники, созданные вузом (самостоятельно или совместно) и выведенные на орбиту, с годом запуска.",
+        "Санкционные списки: Entity List Минторга США (экспортный контроль) и «Семь сыновей национальной обороны» (7 вузов КНР при MIIT, связанных с ОПК).",
+        "Для партнёров из Индии, Бразилии, ОАЭ, ЮАР это может быть препятствием к участию в одном консорциуме.",
     ]:
         summary.append([line])
     summary.column_dimensions["A"].width = 18
