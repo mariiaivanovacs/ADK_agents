@@ -1,0 +1,732 @@
+[
+{
+"name": "Instituto Tecnológico de Aeronáutica (ITA)",
+"depth": "FULL",
+"the2027": ""
+},
+{
+"name": "Universidade Federal de Santa Catarina (UFSC)",
+"depth": "FULL",
+"the2027": "801–1000"
+},
+{
+"name": "Universidade de Brasília (UnB)",
+"depth": "FULL",
+"the2027": "1401–1600"
+},
+{
+"name": "Universidade Federal do Maranhão (UFMA)",
+"depth": "FULL",
+"the2027": "2001+"
+},
+{
+"name": "Universidade Federal de São João del-Rei (UFSJ)",
+"depth": "FULL",
+"the2027": ""
+},
+{
+"name": "Instituto Federal Fluminense (IFF)",
+"depth": "FULL",
+"the2027": ""
+},
+{
+"name": "Universidade Norte do Paraná (UNOPAR)",
+"depth": "FULL",
+"the2027": ""
+},
+{
+"name": "Instituto Nacional de Pesquisas Espaciais (INPE)",
+"depth": "FULL",
+"the2027": ""
+},
+{
+"name": "Universidade Federal de Santa Maria (UFSM)",
+"depth": "FULL",
+"the2027": "1601–1800"
+},
+{
+"name": "Universidade Federal do Rio Grande do Norte (UFRN)",
+"depth": "FULL",
+"the2027": "1601–1800"
+},
+{
+"name": "Universidade de São Paulo (USP)",
+"depth": "FULL",
+"the2027": "=141"
+},
+{
+"name": "Universidade Estadual de Campinas (Unicamp)",
+"depth": "FULL",
+"the2027": "326–350"
+},
+{
+"name": "Universidade Federal de Minas Gerais (UFMG)",
+"depth": "FULL",
+"the2027": "801–1000"
+},
+{
+"name": "Universidade Federal do ABC (UFABC)",
+"depth": "FULL",
+"the2027": "1601–1800"
+},
+{
+"name": "Universidade Federal de Pernambuco (UFPE)",
+"depth": "FULL",
+"the2027": "1601–1800"
+},
+{
+"name": "Universidade Federal de Campina Grande (UFCG)",
+"depth": "FULL",
+"the2027": ""
+},
+{
+"name": "Universidade Tecnológica Federal do Paraná (UTFPR)",
+"depth": "FULL",
+"the2027": ""
+},
+{
+"name": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+"depth": "FULL",
+"the2027": "701–800"
+},
+{
+"name": "Instituto Militar de Engenharia (IME)",
+"depth": "FULL",
+"the2027": ""
+},
+{
+"name": "Universidade Federal de Itajubá (UNIFEI)",
+"depth": "FULL",
+"the2027": ""
+},
+{
+"name": "Centro Universitário FEI",
+"depth": "FULL",
+"the2027": ""
+},
+{
+"name": "Universidade Estadual do Maranhão (UEMA)",
+"depth": "FULL",
+"the2027": "2001+"
+},
+{
+"name": "Universidade Federal do Ceará (UFC)",
+"depth": "FULL",
+"the2027": "1601–1800"
+},
+{
+"name": "Universidade Federal do Paraná (UFPR)",
+"depth": "FULL",
+"the2027": "1401–1600"
+},
+{
+"name": "Universidade Federal do Rio de Janeiro (UFRJ)",
+"depth": "FULL",
+"the2027": "601–650"
+},
+{
+"name": "Universidade Federal Fluminense (UFF)",
+"depth": "FULL",
+"the2027": "1601–1800"
+},
+{
+"name": "Universidade Federal da Paraíba (UFPB)",
+"depth": "FULL",
+"the2027": "1801–2000"
+},
+{
+"name": "Universidade Estadual Paulista (Unesp)",
+"depth": "FULL",
+"the2027": "651–700"
+},
+{
+"name": "Universidade Federal de São Carlos (UFSCar)",
+"depth": "FULL",
+"the2027": "1201–1400"
+},
+{
+"name": "Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)",
+"depth": "FULL",
+"the2027": "1201–1400"
+},
+{
+"name": "Pontifical Catholic University of Rio de Janeiro (PUC-Rio)",
+"depth": "LIGHT",
+"the2027": "701–800"
+},
+{
+"name": "Universidade Federal de São Paulo (UNIFESP)",
+"depth": "LIGHT",
+"the2027": "801–1000"
+},
+{
+"name": "Pontifícia Universidade Católica do Paraná",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "Federal University of Lavras",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "Universidade Federal da Bahia",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "Universidade Federal de Juiz de Fora",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "Federal University of Espírito Santo",
+"depth": "LIGHT",
+"the2027": "1601–1800"
+},
+{
+"name": "Federal University of Uberlândia",
+"depth": "LIGHT",
+"the2027": "1601–1800"
+},
+{
+"name": "Federal University of Viçosa",
+"depth": "LIGHT",
+"the2027": "1601–1800"
+},
+{
+"name": "Unisinos University",
+"depth": "LIGHT",
+"the2027": "1601–1800"
+},
+{
+"name": "Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA)",
+"depth": "LIGHT",
+"the2027": "1601–1800"
+},
+{
+"name": "Federal University of Mato Grosso do Sul",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Federal University of Pará",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Federal University of Pelotas",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Londrina State University",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Universidade do Estado do Rio de Janeiro (UERJ)",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Universidade Estadual de Maringá",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Universidade Estadual de Ponta Grossa",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Universidade Estadual do Norte Fluminense Darcy Ribeiro",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "University of Passo Fundo (UPF)",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Catholic University of Brasília",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Ceará State University",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET-RJ)",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Federal Rural University of Pernambuco",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Federal University of Tocantins",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Mackenzie Presbyterian University",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Pontifical Catholic University of Minas Gerais",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "PUC-Campinas",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Southwest Bahia State University (UESB)",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Universidade do Estado de Santa Catarina",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Universidade Estadual de Feira de Santana (UEFS)",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Universidade Estadual de Santa Cruz",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Universidade Estadual do Oeste do Paraná (Unioeste)",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Universidade Federal Rural do Semi-Arido",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Universidade Nove de Julho (Uninove)",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "University of Caxias do Sul",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "University of Fortaleza (UNIFOR)",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "University of Pernambuco",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Universidade Federal do Rio Grande (FURG)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal de Goiás (UFG)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal do Amazonas (UFAM)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal de Mato Grosso (UFMT)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal de Alagoas (UFAL)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal de Sergipe (UFS)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal do Piauí (UFPI)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal de Ouro Preto (UFOP)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal Rural do Rio de Janeiro (UFRRJ)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal Rural da Amazônia (UFRA)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal do Estado do Rio de Janeiro (UNIRIO)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal da Integração Latino-Americana (UNILA)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal do Pampa (UNIPAMPA)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal da Fronteira Sul (UFFS)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal de Alfenas (UNIFAL)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal do Vale do São Francisco (UNIVASF)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal do Recôncavo da Bahia (UFRB)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal do Oeste do Pará (UFOPA)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal de Roraima (UFRR)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal do Amapá (UNIFAP)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal do Acre (UFAC)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal de Rondônia (UNIR)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal da Grande Dourados (UFGD)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal do Triângulo Mineiro (UFTM)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal do Cariri (UFCA)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal do Sul e Sudeste do Pará (UNIFESSPA)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade do Estado do Amazonas (UEA)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade do Estado da Bahia (UNEB)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Estadual da Paraíba (UEPB)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade do Estado do Rio Grande do Norte (UERN)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Estadual de Goiás (UEG)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade do Estado de Mato Grosso (UNEMAT)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Estadual do Centro-Oeste (UNICENTRO)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Estadual do Piauí (UESPI)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Estadual de Montes Claros (Unimontes)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade do Vale do Paraíba (UNIVAP)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal do Oeste da Bahia (UFOB)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal do Delta do Parnaíba (UFDPar)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal de Catalão (UFCAT)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal de Rondonópolis (UFR)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal do Norte do Tocantins (UFNT)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal de Jataí (UFJ)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Federal do Sul da Bahia (UFSB)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade de Taubaté (UNITAU)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Instituto Federal de São Paulo (IFSP)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Instituto Federal de Santa Catarina (IFSC)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Instituto Federal do Rio Grande do Norte (IFRN)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Instituto Federal do Ceará (IFCE)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Instituto Federal do Maranhão (IFMA)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Instituto Federal da Paraíba (IFPB)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Instituto Federal da Bahia (IFBA)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Instituto Federal de Pernambuco (IFPE)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Instituto Federal do Rio Grande do Sul (IFRS)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Instituto Federal de Minas Gerais (IFMG)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Instituto Federal de Goiás (IFG)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Instituto Federal do Pará (IFPA)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Instituto Federal do Amazonas (IFAM)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Fundação Getulio Vargas (FGV)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Insper Instituto de Ensino e Pesquisa",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Pontifícia Universidade Católica de São Paulo (PUC-SP)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Pontifícia Universidade Católica de Goiás (PUC Goiás)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Positivo",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Católica de Pernambuco (UNICAP)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Estadual de Mato Grosso do Sul (UEMS)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Estadual do Norte do Paraná (UENP)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Estadual do Paraná (UNESPAR)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade do Estado de Minas Gerais (UEMG)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Estadual de Roraima (UERR)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade do Estado do Amapá (UEAP)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Estadual do Tocantins (UNITINS)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Regional do Cariri (URCA)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Estadual Vale do Acaraú (UVA)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Católica de Santos (UNISANTOS)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade do Sul de Santa Catarina (UNISUL)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universidade Estadual de Alagoas (UNEAL)",
+"depth": "LIGHT",
+"the2027": ""
+}
+]
