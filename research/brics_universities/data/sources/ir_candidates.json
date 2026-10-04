@@ -1,0 +1,422 @@
+[
+{
+"name": "Sharif University of Technology",
+"depth": "FULL",
+"the2027": "451–500"
+},
+{
+"name": "Amirkabir University of Technology",
+"depth": "FULL",
+"the2027": "401–450"
+},
+{
+"name": "Iran University of Science and Technology",
+"depth": "FULL",
+"the2027": "401–450"
+},
+{
+"name": "K.N. Toosi University of Technology",
+"depth": "FULL",
+"the2027": "1001–1200"
+},
+{
+"name": "University of Tehran",
+"depth": "FULL",
+"the2027": "451–500"
+},
+{
+"name": "Isfahan University of Technology",
+"depth": "FULL",
+"the2027": "701–800"
+},
+{
+"name": "Shiraz University",
+"depth": "FULL",
+"the2027": "801–1000"
+},
+{
+"name": "University of Tabriz",
+"depth": "FULL",
+"the2027": "701–800"
+},
+{
+"name": "Ferdowsi University of Mashhad",
+"depth": "FULL",
+"the2027": "1001–1200"
+},
+{
+"name": "Iranian Space Research Center (ISRC)",
+"depth": "FULL",
+"the2027": ""
+},
+{
+"name": "Tarbiat Modares University",
+"depth": "FULL",
+"the2027": ""
+},
+{
+"name": "Shahid Beheshti University",
+"depth": "FULL",
+"the2027": "801–1000"
+},
+{
+"name": "Kermanshah University of Medical Sciences",
+"depth": "LIGHT",
+"the2027": "401–450"
+},
+{
+"name": "Tehran University of Medical Sciences",
+"depth": "LIGHT",
+"the2027": "501–550"
+},
+{
+"name": "Shiraz University of Technology",
+"depth": "LIGHT",
+"the2027": "551–600"
+},
+{
+"name": "Shiraz University of Medical Sciences",
+"depth": "LIGHT",
+"the2027": "651–700"
+},
+{
+"name": "Babol Noshirvani University of Technology",
+"depth": "LIGHT",
+"the2027": "701–800"
+},
+{
+"name": "Bushehr University of Medical Sciences (BPUMS)",
+"depth": "LIGHT",
+"the2027": "701–800"
+},
+{
+"name": "Iran University of Medical Sciences",
+"depth": "LIGHT",
+"the2027": "701–800"
+},
+{
+"name": "Isfahan University of Medical Sciences",
+"depth": "LIGHT",
+"the2027": "701–800"
+},
+{
+"name": "Kurdistan University of Medical Sciences",
+"depth": "LIGHT",
+"the2027": "701–800"
+},
+{
+"name": "Semnan University of Medical Sciences and Health Services",
+"depth": "LIGHT",
+"the2027": "701–800"
+},
+{
+"name": "Urmia University",
+"depth": "LIGHT",
+"the2027": "801–1000"
+},
+{
+"name": "Gorgan University of Agricultural Sciences and Natural Resources",
+"depth": "LIGHT",
+"the2027": "1001–1200"
+},
+{
+"name": "Semnan University",
+"depth": "LIGHT",
+"the2027": "1001–1200"
+},
+{
+"name": "Shahid Bahonar University of Kerman",
+"depth": "LIGHT",
+"the2027": "1001–1200"
+},
+{
+"name": "University of Kashan",
+"depth": "LIGHT",
+"the2027": "1001–1200"
+},
+{
+"name": "Hakim Sabzevari University",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "Imam Khomeini International University",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "Kharazmi University",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "Persian Gulf University",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "Sahand University of Technology",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "University of Isfahan",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "University of Kurdistan",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "University of Maragheh",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "University of Mazandaran",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "University of Mohaghegh Ardabili",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "Yazd University",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "Allameh Tabataba ’i University",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "Azarbaijan Shahid Madani University",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "Bu-Ali Sina University",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "Ilam University",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "Institute for Advanced Studies in Basic Sciences (IASBS)",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "Islamic Azad University (IAU)",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "Lorestan University",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "Razi University",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "Shahrekord University",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "University of Guilan",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "University of Zanjan",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "Alzahra University",
+"depth": "LIGHT",
+"the2027": "1601–1800"
+},
+{
+"name": "Arak University",
+"depth": "LIGHT",
+"the2027": "1601–1800"
+},
+{
+"name": "University of Qom",
+"depth": "LIGHT",
+"the2027": "1601–1800"
+},
+{
+"name": "University of Sistan and Baluchestan",
+"depth": "LIGHT",
+"the2027": "1601–1800"
+},
+{
+"name": "Damghan University",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Sari Agricultural Sciences and Natural Resources University (SANRU)",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Shahed University",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "University of Hormozgan",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Payame Noor University",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "University of Birjand",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Amol University of Special Modern Technologies",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Arak University of Technology",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Fasa University",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Graduate University of Advanced Technology",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Kermanshah University of Technology",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Petroleum University of Technology",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Qom University of Technology",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "University of Bonab",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "University of Hazrate Masoumeh",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "University of Science and Culture",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Urmia University of Technology",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Shahid Chamran University of Ahvaz",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Shahrood University of Technology",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Hamedan University of Technology",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Birjand University of Technology",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Tafresh University",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Malayer University",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Yasouj University",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "University of Jiroft",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Chabahar Maritime University",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Khorramshahr University of Marine Science and Technology",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Shahid Rajaee Teacher Training University",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "University of Science and Technology of Mazandaran",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Iran University of Industries and Mines",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Ershad Damavand University",
+"depth": "LIGHT",
+"the2027": ""
+}
+]

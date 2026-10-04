@@ -1,0 +1,552 @@
+[
+{
+"name": "Institut Teknologi Bandung",
+"depth": "FULL",
+"the2027": "1401–1600"
+},
+{
+"name": "Institut Teknologi Sepuluh Nopember",
+"depth": "FULL",
+"the2027": "1401–1600"
+},
+{
+"name": "University of Indonesia",
+"depth": "FULL",
+"the2027": "651–700"
+},
+{
+"name": "Universitas Gadjah Mada",
+"depth": "FULL",
+"the2027": "801–1000"
+},
+{
+"name": "Telkom University",
+"depth": "FULL",
+"the2027": "1601–1800"
+},
+{
+"name": "Surya University",
+"depth": "FULL",
+"the2027": ""
+},
+{
+"name": "National Research and Innovation Agency (BRIN)",
+"depth": "FULL",
+"the2027": ""
+},
+{
+"name": "Republic of Indonesia Defense University",
+"depth": "FULL",
+"the2027": ""
+},
+{
+"name": "IPB University",
+"depth": "FULL",
+"the2027": "1401–1600"
+},
+{
+"name": "Institut Teknologi Sumatera (ITERA)",
+"depth": "FULL",
+"the2027": ""
+},
+{
+"name": "Universitas Airlangga",
+"depth": "FULL",
+"the2027": "1201–1400"
+},
+{
+"name": "University of Brawijaya",
+"depth": "FULL",
+"the2027": "1401–1600"
+},
+{
+"name": "Sunan Kalijaga State Islamic University, Yogyakarta",
+"depth": "LIGHT",
+"the2027": "801–1000"
+},
+{
+"name": "Universitas Padjadjaran",
+"depth": "LIGHT",
+"the2027": "1001–1200"
+},
+{
+"name": "Universitas Sebelas Maret",
+"depth": "LIGHT",
+"the2027": "1001–1200"
+},
+{
+"name": "Universitas Islam Negeri Maulana Malik Ibrahim Malang",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "BINUS University",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "Diponegoro University",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "Universitas Muhammadiyah Surakarta",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "State University of Malang",
+"depth": "LIGHT",
+"the2027": "1601–1800"
+},
+{
+"name": "Syarif Hidayatullah State Islamic University",
+"depth": "LIGHT",
+"the2027": "1601–1800"
+},
+{
+"name": "Universitas Ahmad Dahlan",
+"depth": "LIGHT",
+"the2027": "1601–1800"
+},
+{
+"name": "Universitas Syiah Kuala",
+"depth": "LIGHT",
+"the2027": "1601–1800"
+},
+{
+"name": "University of Mataram",
+"depth": "LIGHT",
+"the2027": "1601–1800"
+},
+{
+"name": "Atma Jaya Catholic University of Indonesia",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Hasanuddin University",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Islamic University of Indonesia",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "State Islamic University of Sunan Gunung Djati Bandung",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Udayana University",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Universitas Andalas",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Universitas Muhammadiyah Yogyakarta",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Universitas Negeri Padang",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Universitas Negeri Semarang",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Universitas Negeri Yogyakarta",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Universitas Pelita Harapan",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Universitas Pendidikan Indonesia",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Universitas Sumatera Utara",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Halu Oleo University",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Jember University",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Universitas Muhammadiyah Malang",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Universitas Negeri Jakarta",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Universitas Negeri Surabaya",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Universitas Sriwijaya",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Universitas Trisakti",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Universitas Trunodjoyo Madura",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "University of Lampung",
+"depth": "LIGHT",
+"the2027": "2001+"
+},
+{
+"name": "Bakrie University",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Gunung Jati Swadaya University",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Institut Pendidikan Indonesia Garut",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Institut Teknologi Nasional Bandung (ITENAS Bandung)",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Institut Teknologi PLN",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "LSPR Institute of Communication & Business",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Muhammadiyah University of Jakarta (UMJ)",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Muhammadiyah University of Makassar",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Muhammadiyah University of North Sumatra",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Muhammadiyah University of Semarang (Unimus)",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Muhammadiyah University of Sidoarjo",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Muhammadiyah University Prof. Dr. Hamka",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Nahdlatul Ulama University Surabaya",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Nusa Putra University",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Parahyangan Catholic University",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "President University",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Raden Mas Said State Islamic University Surakarta",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Satya Wacana Christian University",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "State Islamic University of Sultan Syarif Kasim Riau",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "State Polytechnic of Malang",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "UIN Sunan Ampel Surabaya",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Universitas 17 Agustus 1945 Surabaya",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Universitas Atma Jaya Yogyakarta",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Universitas Esa Unggul",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Universitas Islam Bandung (UNISBA)",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Universitas Islam Negeri Professor Kiai Haji Saifuddin Zuhri (UIN Saizu) Purwokerto",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Universitas Islam Negeri Sumatera Utara",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Universitas Islam Sultan Agung",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Universitas Katolik Santo Thomas",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Universitas Komputer Indonesia",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Universitas Mercu Buana",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Universitas Multimedia Nusantara",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Universitas Pembangunan Nasional Veteran Jakarta",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Universitas Pembangunan Nasional Veteran Jawa Timur (UPNVJT)",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Universitas Pendidikan Ganesha (Undiksha)",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Universitas Pendidikan Nasional (Undiknas)",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Universitas Surabaya",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Universitas Tarumanagara",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Universitas Teknokrat Indonesia",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Universitas Teuku Umar",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "University of Islam Malang",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Warmadewa University",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Widyatama University",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Universitas Hasanuddin",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universitas Pattimura",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universitas Cenderawasih",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universitas Mulawarman",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universitas Lambung Mangkurat",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universitas Tanjungpura",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universitas Sam Ratulangi",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universitas Nusa Cendana",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Politeknik Negeri Bandung",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Politeknik Elektronika Negeri Surabaya (PENS)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Institut Teknologi Kalimantan",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universitas Riau",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universitas Jambi",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universitas Bengkulu",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universitas Palangka Raya",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universitas Tadulako",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universitas Negeri Makassar",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universitas Khairun",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universitas Papua",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Institut Teknologi Del",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Universitas Pertamina",
+"depth": "LIGHT",
+"the2027": ""
+}
+]
