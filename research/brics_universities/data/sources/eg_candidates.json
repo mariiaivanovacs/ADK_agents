@@ -1,0 +1,377 @@
+[
+{
+"name": "Cairo University",
+"depth": "FULL",
+"the2027": "801–1000"
+},
+{
+"name": "Alexandria University",
+"depth": "FULL",
+"the2027": "801–1000"
+},
+{
+"name": "American University in Cairo",
+"depth": "FULL",
+"the2027": "701–800"
+},
+{
+"name": "Zewail City of Science and Technology",
+"depth": "FULL",
+"the2027": "1401–1600"
+},
+{
+"name": "Egypt-Japan University of Science and Technology (E-JUST)",
+"depth": "FULL",
+"the2027": "801–1000"
+},
+{
+"name": "Ain Shams University",
+"depth": "FULL",
+"the2027": "1001–1200"
+},
+{
+"name": "Nile University",
+"depth": "FULL",
+"the2027": "1801–2000"
+},
+{
+"name": "Helwan University",
+"depth": "FULL",
+"the2027": ""
+},
+{
+"name": "National Authority for Remote Sensing and Space Sciences (NARSS)",
+"depth": "FULL",
+"the2027": ""
+},
+{
+"name": "Egyptian Space Agency (EgSA)",
+"depth": "FULL",
+"the2027": ""
+},
+{
+"name": "Beni-Suef University",
+"depth": "FULL",
+"the2027": "1201–1400"
+},
+{
+"name": "Arab Academy for Science, Technology and Maritime Transport",
+"depth": "FULL",
+"the2027": "801–1000"
+},
+{
+"name": "National Research Institute of Astronomy and Geophysics (NRIAG)",
+"depth": "FULL",
+"the2027": ""
+},
+{
+"name": "Al-Azhar University",
+"depth": "LIGHT",
+"the2027": "801–1000"
+},
+{
+"name": "Future University in Egypt",
+"depth": "LIGHT",
+"the2027": "801–1000"
+},
+{
+"name": "Mansoura University",
+"depth": "LIGHT",
+"the2027": "801–1000"
+},
+{
+"name": "Zagazig University",
+"depth": "LIGHT",
+"the2027": "801–1000"
+},
+{
+"name": "Aswan University",
+"depth": "LIGHT",
+"the2027": "1001–1200"
+},
+{
+"name": "Delta University for Science and Technology",
+"depth": "LIGHT",
+"the2027": "1001–1200"
+},
+{
+"name": "Galala University",
+"depth": "LIGHT",
+"the2027": "1001–1200"
+},
+{
+"name": "Minia University",
+"depth": "LIGHT",
+"the2027": "1001–1200"
+},
+{
+"name": "Tanta University",
+"depth": "LIGHT",
+"the2027": "1001–1200"
+},
+{
+"name": "University of Sadat City",
+"depth": "LIGHT",
+"the2027": "1001–1200"
+},
+{
+"name": "Assiut University",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "Benha University",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "Damietta University",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "Fayoum University",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "Horus University",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "New Valley University",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "October 6 University",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "Suez Canal University",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "Suez University",
+"depth": "LIGHT",
+"the2027": "1201–1400"
+},
+{
+"name": "Badr University in Cairo (BUC)",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "Damanhour University",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "Menoufia University",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "Port Said University",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "Qena University",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "Sohag University",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "The British University in Egypt",
+"depth": "LIGHT",
+"the2027": "1401–1600"
+},
+{
+"name": "Capital University",
+"depth": "LIGHT",
+"the2027": "1601–1800"
+},
+{
+"name": "Egyptian Russian University",
+"depth": "LIGHT",
+"the2027": "1601–1800"
+},
+{
+"name": "Pharos University",
+"depth": "LIGHT",
+"the2027": "1601–1800"
+},
+{
+"name": "Misr University for Science and Technology",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "October University for Modern Sciences and Arts (MSA)",
+"depth": "LIGHT",
+"the2027": "1801–2000"
+},
+{
+"name": "Ahram Canadian University",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Arish University",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Benha National University",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Canadian International College – Cairo Campus of Cape Breton University Canada",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Deraya University",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Egyptian Chinese University",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Egypt University of Informatics",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Elsewedy University of Technology",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "King Salman International University",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Luxor University",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Mansoura National University",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Menoufia National University",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Misr International University",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Obour University for Science & Technology (OUST)",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Sphinx University",
+"depth": "LIGHT",
+"the2027": "THE2027 Reporter (unranked)"
+},
+{
+"name": "Kafrelsheikh University",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "South Valley University",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "German University in Cairo (GUC)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "New Giza University",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Alamein International University",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Matrouh University",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Heliopolis University",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Nahda University",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Sinai University",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Modern University for Technology and Information (MTI)",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Borg El Arab Technological University",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "New Cairo Technological University",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Hurghada University",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Alexandria National University",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "East Port Said National University",
+"depth": "LIGHT",
+"the2027": ""
+},
+{
+"name": "Helwan National University",
+"depth": "LIGHT",
+"the2027": ""
+}
+]

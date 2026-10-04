@@ -162,6 +162,9 @@ def wave(r):
     # Any university with its own launched satellite is an anchor technology leader.
     if int(r.get("satellites_launched") or 0):
         return "1A"
+    # Ready to start: satellite in development, lost at launch (named but not in orbit) or own ground station.
+    if r.get("sats_in_development") or r.get("ground_station") or r.get("satellite_names"):
+        return "1B"
     if r["country"] in NEW_MEMBERS | GROUND_SITES and r["score"] >= 40:
         return "1B"
     if r["score"] >= 35 or (r["profile_type"] == "technical/aerospace" and r.get("space_units")):
@@ -248,7 +251,7 @@ def main(out, paths):
         "Космический индекс (0–100): запущенные КА 35 (+5 за каждый следующий, макс. 45); КА в разработке 15;",
         "наземная станция 10; космические кафедры/институты 10; партнёрство с космическим агентством/отраслью 10;",
         "мировой рейтинг QS/THE (топ-500: 10, топ-1000: 6, в рейтинге: 3); национальный топ-60: 5; сети UNISEC/IAF/BRICS/SCO/APSCO: 5.",
-        "Волна 1A: у вуза есть собственные запущенные КА. Волна 1B: новые члены БРИКС+ и ключевые точки для наземных станций (индекс ≥ 40).",
+        "Волна 1A: у вуза есть собственные запущенные КА. Волна 1B: КА в разработке / потерян при запуске / своя наземная станция, а также ведущие вузы новых членов БРИКС+ и ключевых точек для наземных станций (индекс ≥ 40).",
         "Волна 2: индекс ≥ 35 или технический вуз с космическими подразделениями. Волна 3: потребители данных и образовательные партнёры.",
         "Пустая ячейка = данные не найдены в открытых официальных источниках (значения не домысливались).",
         "Проверка домена e-mail (MX): домен адреса принимает почту (да/нет).",
