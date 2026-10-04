@@ -914,10 +914,11 @@ OFAC SDN",30,1B,,средняя,"• ВНИМАНИЕ: институт в US En
 • Fisheries and Arctic biology
 • Pedagogy
 • Economics
-• Information technology","183010, Россия, г. Мурманск, ул. Спортивная, д. 13 (13 Sportivnaya St., Murmansk 183010, Russia)",,,,,,https://www.mauniver.ru,Сафонов Александр Александрович,И.о. ректора,,,,0,,,,Программа повышения квалификации по спутниковым технологиям и Big Data (грант «Кадры для космоса»),"Сколтех (соглашение о сотрудничестве, март 2026)",,20,3,,низкая,"• Новый и.о. ректора с 7 сентября 2026 (ранее — Сколтех, Сколтех в Entity List США); предыдущий и.о. — Князева М.А
+• Information technology","183010, Россия, г. Мурманск, ул. Спортивная, д. 13 (13 Sportivnaya St., Murmansk 183010, Russia)",,,,,,https://www.mauniver.ru,Сафонов Александр Александрович,И.о. ректора,,,,0,,,,Программа повышения квалификации по спутниковым технологиям и Big Data (грант «Кадры для космоса»),"Сколтех (соглашение о сотрудничестве, март 2026)",,20,3,,низкая,"• Новый и.о. ректора — Сафонов А.А. (по СМИ: представлен губернатором 8–9 сентября 2026, в должности с 7–11 сентября 2026; ранее — старший вице-президент Сколтеха, Сколтех в Entity List США); предыдущий и.о. — Князева М.А
 • Сайт mauniver.ru недоступен из нашей сети — e-mail и телефон не подтверждены
 • Вуз создан в 2023 слиянием МАГУ и МГТУ
-• Сам вуз не найден в санкционных списках","• Https://rsr-online.ru/university/937/
+• Сам вуз не найден в санкционных списках
+• Перепроверка: Сайт mauniver.ru (www и без www) недоступен (таймаут через прокси и reader-сервис, 04.10.2026); назначение А.А. Сафонова и.о. ректора подтверждается только СМИ (51.ru, Nord-News, b-port, сентябрь 2026) — данные не изменены","• Https://rsr-online.ru/university/937/
 • Https://b-port.com/news/365445
 • Https://www.nanosats.eu/database",2026-10-04,
 42,Россия,Санкт-Петербург,Saint Petersburg State University of Aerospace Instrumentation (SUAI / GUAP),Санкт-Петербургский государственный университет аэрокосмического приборостроения (ГУАП),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Aerospace instrumentation
@@ -1370,7 +1371,8 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Pipeline transport
 • Mechanical engineering","450062, Россия, Республика Башкортостан, г. Уфа, ул. Космонавтов, д. 1 (1 Kosmonavtov St., Ufa 450062, Russia)",,,,,,https://ugntu.ru,Баулин Олег Александрович,Ректор,,THE2027: 2001+,RAEX2026: 39,0,,,,,,,8,3,,низкая,"• Сайты rusoil.net / ugntu.ru недоступны из нашей сети — e-mail и телефон не подтверждены
 • Собственных КА не найдено (спутник УГАТУ-САТ 2009 и проект «УУНиТ-САТ» относятся к другому вузу — УУНиТ)
-• Не найден в санкционных списках США/ЕС/Великобритании","• Https://rsr-online.ru/university/881/
+• Не найден в санкционных списках США/ЕС/Великобритании
+• Перепроверка: Сайты ugntu.ru / rusoil.net недоступны (curl — нет соединения, WebFetch 503) 04.10.2026; данные не изменены","• Https://rsr-online.ru/university/881/
 • Https://raex-rr.com/education/russian_universities/top-100_universities/2026/
 • Https://www.nanosats.eu/database",2026-10-04,
 70,Россия,Барнаул,Altai State University (AltSU),Алтайский государственный университет (АлтГУ),Классический,Государственный (Минобрнауки России),"• Natural sciences
@@ -1614,7 +1616,8 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Economics","7 Sheremetevsky Ave., Ivanovo, 153000, Russia",,,,,+7 (4932) 30-14-84,https://www.isuct.ru,Гордина Наталья Евгеньевна,Ректор,,THE2027: 2001+,,0,,,,,,,3,3,,низкая,"• Сайт isuct.ru недоступен извне (503) — контакты не проверены на официальных страницах
 • В RAEX указан личный e-mail ректора gordina@isuct.ru; общий и международный e-mail не подтверждены
 • Проректор по международной деятельности не найден
-• Космические проекты не выявлены (nanosats.eu, Space-π)","• Https://raex-rr.com/database/contender/10006762
+• Космические проекты не выявлены (nanosats.eu, Space-π)
+• Перепроверка: 04.10.2026: isuct.ru по-прежнему недоступен (сброс соединения / 503, в т.ч. /sveden/ через WebFetch); данные не изменены","• Https://raex-rr.com/database/contender/10006762
 • Https://www.nanosats.eu/database
 • Https://spacepi.space/satellites/",2026-10-04,
 85,Россия,Казань,Kazan National Research Technological University (KNRTU),Казанский национальный исследовательский технологический университет (КНИТУ),Технический / аэрокосмический,Государственный (национальный исследовательский университет),"• Chemical technology
@@ -1663,9 +1666,15 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Engineering
 • Medicine
 • Arctic studies
-• Humanities and education","677000, Россия, Республика Саха (Якутия), г. Якутск, ул. Белинского, д. 58 (58 Belinskogo St., Yakutsk 677000, Russia)",,,,,,https://www.s-vfu.ru,Николаев Анатолий Николаевич,Ректор,,THE2027: 2001+,RAEX2026: 61,0,,,,,,,3,3,,низкая,"• Сайт s-vfu.ru недоступен из нашей сети (503) — контакты e-mail/телефон не подтверждены; руководство и адрес — по карточке Российского союза ректоров
+• Humanities and education","677000, Россия, Республика Саха (Якутия), г. Якутск, ул. Белинского, д. 58 (58 Belinskogo St., Yakutsk 677000, Russia)",international@svfu.ru,"Максимов Нюргун Романович
+Проректор по международному сотрудничеству, директор Департамента международного сотрудничества
+Ректорат (rector@svfu.ru); международное сотрудничество — international@svfu.ru
+Обращение: Уважаемый Нюргун Романович!",international@svfu.ru,rector@svfu.ru,+7 4112 35-20-90; международный департамент: +7 4112 36-14-53,https://www.s-vfu.ru,Николаев Анатолий Николаевич,Ректор,,THE2027: 2001+,RAEX2026: 61,0,,,,,,,3,3,нет,средняя,"• Сайт s-vfu.ru по-прежнему недоступен из нашей сети (сброс соединения/503) — контакты взяты из портала russiaedu.ru, копирующего раздел «Сведения об образовательной организации» сайта вуза (обновлено 06.09.2026), и карточки РСР
+• Ректор Николаев А. Н. подтверждён РСР и «Сведениями»; международное сотрудничество — проректор Максимов Н. Р. (international@svfu.ru, +7 4112 36-14-53)
 • Запущенных КА в быстрой проверке не найдено
-• Не найден в санкционных списках США/ЕС/Великобритании","• Https://rsr-online.ru/university/1014/
+• Не найден в санкционных списках США/ЕС/Великобритании
+• Перепроверка: Ректор, e-mail ректората и международного департамента, телефоны подтверждены по зеркалу «Сведений» вуза (06.09.2026) и РСР; сам сайт недоступен","• Https://rsr-online.ru/university/1014/
+• Https://russiaedu.ru/vuz/s-vfu/
 • Https://raex-rr.com/education/russian_universities/top-100_universities/2026/
 • Https://www.nanosats.eu/database",2026-10-04,
 89,Россия,Москва,Moscow Polytechnic University (Moscow Polytech),Московский политехнический университет (Московский Политех),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Mechanical & automotive engineering
@@ -1733,14 +1742,17 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Medicine
 • Physics & IT
 • Mining & Engineering
-• Humanities (Finno-Ugric studies)","33 Lenin Ave., Petrozavodsk 185910, Republic of Karelia, Russia (185910, Республика Карелия, г. Петрозаводск, пр. Ленина, д. 33)",rector@petrsu.ru,"ФИО не найдено
+• Humanities (Finno-Ugric studies)","33 Lenin Ave., Petrozavodsk 185910, Republic of Karelia, Russia (185910, Республика Карелия, г. Петрозаводск, пр. Ленина, д. 33)",rector@petrsu.ru,"Воронин Анатолий Викторович
+Ректор
 Приёмная ректора
-Обращение: Уважаемые коллеги!",,rector@petrsu.ru,,https://petrsu.ru,Воронин Анатолий Викторович,Ректор,,THE2027: 2001+,,0,,,,,,,3,3,да,низкая,"• Сайт petrsu.ru закрыт антибот-защитой Anubis — официальные страницы не открылись; данные из каталогов Российского союза ректоров и РБА
-• Ректор А.В. Воронин (с 2006 г.) — по данным РСР, без даты актуальности; перепроверить
+Обращение: Уважаемый Анатолий Викторович!",,rector@petrsu.ru,,https://petrsu.ru,Воронин Анатолий Викторович,Ректор,,THE2027: 2001+,,0,,,,,,,3,3,да,средняя,"• Сайт petrsu.ru (включая /sveden/) закрыт антибот-защитой Anubis (proof-of-work) — обход не выполнялся; адрес и e-mail rector@petrsu.ru — по каталогам Российского союза ректоров и РБА
+• Ректор проф. А.В. Воронин подтверждён официальным Telegram-каналом ПетрГУ (@petrsu_news, сообщения от 22.09.2026)
 • Телефон и e-mail международного отдела не подтверждены (в поисковой выдаче: +7 814 278-51-40, rectorat@petrsu.ru)
 • Запущенных спутников не найдено (одна проверка)
 • THE2027: 2001+ (по входным данным)
-• В санкционных списках США/ЕС/Великобритании не найден","• Https://rsr-online.ru/university/1292/
+• В санкционных списках США/ЕС/Великобритании не найден
+• Перепроверка: 04.10.2026: ректор Воронин подтверждён официальным Telegram-каналом (сентябрь 2026); сайт по-прежнему за Anubis, контакты не подтверждены","• Https://t.me/petrsu_news
+• Https://rsr-online.ru/university/1292/
 • Http://www.rba.ru/about/members/info_member_370.html",2026-10-04,
 94,Россия,Москва,Russian University of Transport (RUT (MIIT)),Российский университет транспорта (РУТ (МИИТ)),Технический / аэрокосмический,Государственный (Минтранс России),"• Railway and transport engineering
 • Transport systems and logistics
@@ -2001,7 +2013,8 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 экс-ректор А.П. Фалалеев также в списке ЕС",0,3,,низкая,"• Сайт cfuv.ru недоступен (503 / сброс соединения) — контакты не подтверждены; по поисковой выдаче: 295007, Симферополь, пр. Академика Вернадского, 4; rector@cfuv.ru; +7 3652 608-444; проректор по международной деятельности — Юрченко С.В. (не проверено)
 • Вуз находится в Крыму: территориальные санкции США/ЕС/Великобритании (эмбарго на Крым) — для иностранных партнёров партнёрство крайне проблематично, нужна правовая оценка
 • Руководитель вуза лично под санкциями ЕС (с 2025 г.)
-• Собственных КА в nanosats.csv не найдено; веб-поиск по космической деятельности не выполнен (исчерпан общий лимит поисковых запросов)","• EU consolidated sanctions list (eu.csv)
+• Собственных КА в nanosats.csv не найдено; веб-поиск по космической деятельности не выполнен (исчерпан общий лимит поисковых запросов)
+• Перепроверка: Сайт cfuv.ru (http/https, www) недоступен (503 / сброс соединения, WebFetch 503) — данные не изменены (04.10.2026)","• EU consolidated sanctions list (eu.csv)
 • Https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 • Https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875",2026-10-04,
 111,Россия,Тамбов,Derzhavin Tambov State University,Тамбовский государственный университет имени Г.Р. Державина,Классический,Государственный (Минобрнауки России),"• Medicine & Health
@@ -2047,7 +2060,8 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • По поисковой выдаче (страница omsu.ru/contact не открылась): приёмная ректора +7 (3812) 67-01-04, rector@omsu.ru — проверить перед рассылкой
 • Международную деятельность ведёт начальник отдела планирования и организации международной деятельности Алексей Сорокин (отчество и e-mail не найдены); проректор по международной деятельности не выявлен
 • Спутников не найдено (nanosats.eu, Space-π); не входит в RAEX-100 2026
-• Не найден в Entity List / OFAC SDN / EU / UK (локальные копии списков, окт. 2026)","• Https://rsr-online.ru/university/1063/
+• Не найден в Entity List / OFAC SDN / EU / UK (локальные копии списков, окт. 2026)
+• Перепроверка: 04.10.2026: omsu.ru по-прежнему недоступен (ошибка TLS-сертификата; WebFetch — 503), официальный Telegram/VK не найден; данные не изменены","• Https://rsr-online.ru/university/1063/
 • Https://ngs55.ru/text/education/2026/05/13/76418001/
 • Https://bk55.ru/news/article/255002/
 • Https://spacepi.space/satellites/",2026-10-04,
@@ -2206,16 +2220,7 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Собственных КА в nanosats.csv не найдено; веб-поиск по космической деятельности не выполнен (исчерпан общий лимит поисковых запросов)","• Https://kgasu.ru/sveden/managers/
 • Https://kgasu.ru/sveden/common/
 • Https://kgasu.ru/sveden/struct/",2026-10-04,
-125,Россия,Хабаровск,Khabarovsk State University of Economics and Law,Хабаровский государственный университет экономики и права,Другое,Государственный (Минобрнауки России),"• Economics
-• Law
-• Finance & Accounting
-• Management
-• Customs & Commerce","134 Tikhookeanskaya St., Khabarovsk 680002, Russia (680002, г. Хабаровск, ул. Тихоокеанская, д. 134)",,,,,,http://www.ael.ru,,Ректор,,,,0,,,,,,,0,3,,низкая,"• Официальный сайт (ael.ru по Википедии) недоступен — домен не разрешается; актуальный сайт, контакты и руководство не подтверждены
-• По Википедии ректор — Боев Максим Юрьевич (без даты актуальности) — требуется проверка
-• Адрес — по Википедии, на сайте вуза не подтверждён
-• Экономико-правовой профиль; спутников не найдено (nanosats.eu, Space-π); веб-поиск не выполнялся (исчерпана квота)
-• В санкционных списках США/ЕС/Великобритании не найден",Https://ru.wikipedia.org/wiki/Хабаровский_государственный_университет_экономики_и_права,2026-10-04,
-126,Россия,Комсомольск-на-Амуре,Komsomolsk-na-Amure State University (KnASU),Комсомольский-на-Амуре государственный университет,Технический / аэрокосмический,Государственный (Минобрнауки России),"• Aircraft Engineering
+125,Россия,Комсомольск-на-Амуре,Komsomolsk-na-Amure State University (KnASU),Комсомольский-на-Амуре государственный университет,Технический / аэрокосмический,Государственный (Минобрнауки России),"• Aircraft Engineering
 • Shipbuilding
 • Mechanical Engineering & Materials
 • Electrical Engineering
@@ -2233,34 +2238,37 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Https://spacepi.space/satellites/
 • Nanosats.csv
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv",2026-10-04,
-127,Россия,Кострома,Kostroma State University named after N.A. Nekrasov,Костромской государственный университет (КГУ),Классический,Государственный (Минобрнауки России),"• Pedagogy
+126,Россия,Кострома,Kostroma State University named after N.A. Nekrasov,Костромской государственный университет (КГУ),Классический,Государственный (Минобрнауки России),"• Pedagogy
 • Humanities
 • Textile and light industry technology
 • Engineering
 • Economics
-• Natural sciences","17 Dzerzhinskogo St., Kostroma, 156005, Russia",,,,,,https://ksu.edu.ru,Чайковский Денис Витольдович,Ректор,,,,0,,,,,,,0,3,,низкая,"• Сайты ksu.edu.ru и kosgos.ru недоступны извне (DNS/451) — контакты не проверены
+• Natural sciences","156005, г. Кострома, ул. Дзержинского, д. 17, Россия (17 Dzerzhinskogo St., Kostroma 156005, Russia)",,,,,,https://ksu.edu.ru,Чайковский Денис Витольдович,Ректор (с 2024 г.; и.о. ректора 2023–2024),,,,0,,,,,,,0,3,,низкая,"• Сайты ksu.edu.ru и kosgos.ru недоступны извне (DNS/451/502) — контакты не проверены
 • E-mail и телефон не подтверждены; руководитель международной службы не найден
-• Ректор Д.В. Чайковский (назначен 08.02.2023 — по поисковой выдаче); подтверждён по RSR-online, дата данных не указана
-• Космические проекты не выявлены (nanosats.eu, Space-π)","• Https://rsr-online.ru/university/1096/
+• Ректор Д.В. Чайковский: и.о. ректора 2023–2024, ректор с 2024 г. — по базе РСР (страница персоны); адрес — по базе РСР
+• Космические проекты не выявлены (nanosats.eu, Space-π)
+• Перепроверка: Сайты ksu.edu.ru/kosgos.ru по-прежнему недоступны (04.10.2026); ректор Д.В. Чайковский (с 2024 г.) и почтовый адрес подтверждены по базе Российского союза ректоров; e-mail и телефон не найдены","• Https://rsr-online.ru/university/1096/
+• Https://rsr-online.ru/person/1532/
 • Https://spacepi.space/satellites/",2026-10-04,
-128,Россия,Москва,Kosygin State University of Russia (Technology. Design. Art),Российский государственный университет им. А.Н. Косыгина (Технологии. Дизайн. Искусство),Другое,Государственный (Минобрнауки России),"• Fashion & Textile Design
+127,Россия,Москва,Kosygin State University of Russia (Technology. Design. Art),Российский государственный университет им. А.Н. Косыгина (Технологии. Дизайн. Искусство),Другое,Государственный (Минобрнауки России),"• Fashion & Textile Design
 • Light Industry Technology
 • Chemical Technology of Textiles
 • Arts
-• Economics & Management","Sadovnicheskaya St. 33, Moscow, 117997, Russia (117997, г. Москва, ул. Садовническая, д. 33)",rector@rguk.ru,"ФИО не найдено
+• Economics & Management","115035, г. Москва, ул. Садовническая, д. 33, стр. 1 (юридический адрес; 33 Sadovnicheskaya St., bldg 1, Moscow 115035, Russia); фактический адрес: 119071, г. Москва, ул. Малая Калужская, д. 1",rector@rguk.ru,"ФИО не найдено
 Приёмная ректора
-Обращение: Уважаемые коллеги!",,rector@rguk.ru,+7 (495) 811-01-01 (доб. 1302 — ректор),https://rguk.ru,Белгородский Валерий Савельевич,Ректор,,,,0,,,,,,,0,3,да,низкая,"• Сайт rguk.ru не открылся из нашей сети (сброс соединения/503) — руководство и контакты взяты из поискового индекса страниц rguk.ru, требуется перепроверка
+Обращение: Уважаемые коллеги!",,rector@rguk.ru,+7 (495) 811-01-01 (доб. 1302 — ректор; доб. 1303/1123 — общий отдел); факс +7 (495) 953-02-97,https://rguk.ru,Белгородский Валерий Савельевич,Ректор,,,,0,,,,,,,0,3,да,высокая,"• Сайт rguk.ru напрямую из нашей сети недоступен; страницы «Сведений об образовательной организации» открыты через r.jina.ai 04.10.2026. Общий e-mail: info@rguk.ru
 • ВНИМАНИЕ: старый домен kosygin-rgu.ru захвачен (казино-спам) — не использовать
-• Проректор по международной деятельности в найденном составе ректората не указан; международный e-mail не найден
+• Проректор по международной деятельности в составе руководства (sveden/managers) не указан; международный e-mail не найден
 • Профиль — лёгкая промышленность, дизайн, искусство; космическая повестка нерелевантна
 • Собственных запущенных спутников не найдено (быстрая проверка: nanosats.csv и каталог спутников Space-π)
 • Санкционные списки проверены (US Consolidated Screening List вкл. Entity List и OFAC SDN; UK Sanctions List от 02.10.2026; EU FSF от 22.09.2026): вуз не найден
-• THE 2027: статус Reporter (без ранга)","• Https://rguk.ru/sveden/managers/ (по поисковому индексу)
+• THE 2027: статус Reporter (без ранга)
+• Перепроверка: Ректор, rector@rguk.ru, телефоны и адреса подтверждены на rguk.ru (sveden/managers, sveden/common, страница ректора) 04.10.2026 через reader-сервис; индекс исправлен (115035 вместо 117997), добавлен фактический адрес","• Https://rguk.ru/sveden/managers/ (по поисковому индексу)
 • Https://rguk.ru/university/management/
 • Https://spacepi.space/satellites/
 • Nanosats.csv
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv",2026-10-04,
-129,Россия,Красноярск,Krasnoyarsk State Agrarian University (KrasSAU),Федеральное государственное бюджетное образовательное учреждение высшего образования «Красноярский государственный аграрный университет» (Красноярский ГАУ),Аграрный / экологический,Государственный (Минсельхоз России),"• Agronomy & agroecology
+128,Россия,Красноярск,Krasnoyarsk State Agrarian University (KrasSAU),Федеральное государственное бюджетное образовательное учреждение высшего образования «Красноярский государственный аграрный университет» (Красноярский ГАУ),Аграрный / экологический,Государственный (Минсельхоз России),"• Agronomy & agroecology
 • Veterinary medicine & animal science
 • Agroengineering
 • Food technology
@@ -2274,7 +2282,7 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Https://kgau.ru/sveden/common/
 • Https://kgau.ru/sveden/struct/
 • Https://spacepi.space/satellites/ (каталог Space-π, проверен — вуз не найден)",2026-10-04,
-130,Россия,Краснодар,Kuban State Agrarian University named after I.T. Trubilin (KubSAU),Кубанский государственный аграрный университет имени И.Т. Трубилина (КубГАУ),Аграрный / экологический,Государственный (Минсельхоз России),"• Agronomy
+129,Россия,Краснодар,Kuban State Agrarian University named after I.T. Trubilin (KubSAU),Кубанский государственный аграрный университет имени И.Т. Трубилина (КубГАУ),Аграрный / экологический,Государственный (Минсельхоз России),"• Agronomy
 • Veterinary medicine and animal science
 • Agricultural engineering
 • Land management
@@ -2288,7 +2296,7 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Космические проекты не выявлены (nanosats.eu, Space-π); не путать с КубГУ и КубГТУ","• Https://kubsau.ru/sveden/managers/
 • Https://kubsau.ru/sveden/common/
 • Https://spacepi.space/satellites/",2026-10-04,
-131,Россия,Краснодар,Kuban State University (KubSU),Кубанский государственный университет (КубГУ),Классический,Государственный (Минобрнауки России),"• Physics & radiophysics (optoelectronics)
+130,Россия,Краснодар,Kuban State University (KubSU),Кубанский государственный университет (КубГУ),Классический,Государственный (Минобрнауки России),"• Physics & radiophysics (optoelectronics)
 • Chemistry & hydrogen energy
 • Mathematics & computer science
 • Geography & GIS
@@ -2304,7 +2312,7 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Https://kubsu.ru/ru/sveden/managers
 • Https://kubsu.ru/ru/sveden/struct
 • Https://spacepi.space/satellites/",2026-10-04,
-132,Россия,Курган,Kurgan State University,Курганский государственный университет,Классический,Государственный (Минобрнауки России),"• Engineering & Transport
+131,Россия,Курган,Kurgan State University,Курганский государственный университет,Классический,Государственный (Минобрнауки России),"• Engineering & Transport
 • Agriculture (Maltsev Agricultural Academy branch)
 • Natural Sciences
 • Economics & Law
@@ -2316,17 +2324,20 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • В санкционных списках США/ЕС/Великобритании не найден (в Кургане есть предприятия из Entity List — Курганмашзавод, Курганприбор; вуз не включён)","• Https://kgsu.ru/sveden/common/
 • Https://kgsu.ru/sveden/managers/
 • Https://kgsu.ru/sveden/struct/",2026-10-04,
-133,Россия,Курск,Kursk State University (KSU),Курский государственный университет,Классический,Государственный (Минобрнауки России),"• Pedagogy
+132,Россия,Курск,Kursk State University (KSU),Курский государственный университет,Классический,Государственный (Минобрнауки России),"• Pedagogy
 • Natural sciences
 • Physics and mathematics
 • Humanities
 • Economics and law","305000, Россия, г. Курск, ул. Радищева, д. 33 (33 Radishcheva St., Kursk 305000, Russia)",,,,,,https://www.kursksu.ru,Харченко Екатерина Владимировна,И.о. ректора,,,,0,,,,,,,0,3,,низкая,"• И.о. ректора с июня 2026 (бывший депутат Госдумы); ректор Худин А.Н. ушёл 15.06.2026
-• Сайт kursksu.ru недоступен из нашей сети — e-mail и телефон не подтверждены
 • Не путать с Юго-Западным государственным университетом (ЮЗГУ, Курск) — лидером Space-π; собственных КА КГУ не найдено
-• Не найден в санкционных списках США/ЕС/Великобритании","• Https://rsr-online.ru/university/1393/
+• Не найден в санкционных списках США/ЕС/Великобритании
+• Официальный Telegram-канал КГУ (@kursksu), пост августа 2026: «и.о. ректора Екатерина Владимировна Харченко» — руководство подтверждено
+• Сайт kursksu.ru повторно недоступен 04.10.2026 (пустой ответ сервера) — e-mail и телефон по-прежнему не подтверждены
+• Перепроверка: И.о. ректора Харченко Е.В. подтверждена по официальному Telegram-каналу (авг. 2026); сайт недоступен, контакты не найдены — уровень low сохранён","• Https://rsr-online.ru/university/1393/
 • Https://kurskcity.ru/news/citynews/277590
-• Https://www.nanosats.eu/database",2026-10-04,
-134,Россия,Липецк,Lipetsk State Technical University,Липецкий государственный технический университет,Технический / аэрокосмический,Государственный (Минобрнауки России),"• Metallurgy
+• Https://www.nanosats.eu/database
+• Https://t.me/s/kursksu",2026-10-04,
+133,Россия,Липецк,Lipetsk State Technical University,Липецкий государственный технический университет,Технический / аэрокосмический,Государственный (Минобрнауки России),"• Metallurgy
 • Mechanical engineering
 • Civil engineering
 • Automation and computer science
@@ -2340,7 +2351,7 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Собственных КА не найдено (быстрая проверка поиском и по nanosats.csv)","• Https://stu.lipetsk.ru/sveden/managers/
 • Https://stu.lipetsk.ru/sveden/common/
 • Https://stu.lipetsk.ru/sveden/struct/",2026-10-04,
-135,Россия,Йошкар-Ола,Mari State University,Марийский государственный университет,Классический,Государственный (Минобрнауки России),"• Agriculture & Veterinary Science
+134,Россия,Йошкар-Ола,Mari State University,Марийский государственный университет,Классический,Государственный (Минобрнауки России),"• Agriculture & Veterinary Science
 • Medicine
 • Physics & Electrical Engineering
 • Education & Philology (Finno-Ugric)
@@ -2352,7 +2363,7 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • В санкционных списках США/ЕС/Великобритании не найден","• Https://marsu.ru/sveden/common/
 • Https://marsu.ru/sveden/managers
 • Https://marsu.ru/sveden/struct/",2026-10-04,
-136,Россия,Москва,Moscow Automobile and Road Construction State Technical University (MADI),Московский автомобильно-дорожный государственный технический университет (МАДИ),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Road
+135,Россия,Москва,Moscow Automobile and Road Construction State Technical University (MADI),Московский автомобильно-дорожный государственный технический университет (МАДИ),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Road
 • Bridge and airfield construction
 • Automotive engineering
 • Transport logistics and intelligent transport systems
@@ -2368,20 +2379,25 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Https://madi.ru/1302-mezhdunarodnaya-deyatelnost.html
 • Nanosats.csv
 • Https://raex-rr.com/education/russian_universities/top-100_universities/2026/",2026-10-04,
-137,Россия,Москва,Moscow State University of Geodesy and Cartography (MIIGAiK),Московский государственный университет геодезии и картографии (МИИГАиК),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Geodesy
+136,Россия,Москва,Moscow State University of Geodesy and Cartography (MIIGAiK),Московский государственный университет геодезии и картографии (МИИГАиК),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Geodesy
 • Cartography and GIS
 • Photogrammetry and remote sensing
 • Planetary mapping
 • Optical instrument engineering
-• Land management and cadastre","4 Gorokhovsky Pereulok, Moscow, 105064, Russia (Гороховский пер., д. 4, г. Москва, 105064)",,,,,,https://www.miigaik.ru,Камынина Надежда Ростиславовна,Ректор,,,,0,,,,,,,0,3,,низкая,"• Сайт miigaik.ru недоступен из нашей сети (HTTP 503, ошибка сертификата) — контакты и международный отдел не проверены; перепроверить вручную
-• Ректор Н.Р. Камынина (с 2018 г.) — по Википедии и поисковой выдаче страницы «Руководство» (2026); в поиске встречается rector@miigaik.ru и тел. +7 (499) 261-31-52 — не подтверждено на открытой странице
-• В поиске упоминается должность проректора по международной деятельности, ФИО не подтверждено
+• Land management and cadastre","4 Gorokhovsky Pereulok, Moscow, 105064, Russia (Гороховский пер., д. 4, г. Москва, 105064)",portal@miigaik.ru,"Камынина Надежда Ростиславовна
+Ректор
+Общий ящик университета «для писем» (portal@miigaik.ru); прямой ящик ректора — rector@miigaik.ru
+Обращение: Уважаемая Надежда Ростиславовна!",,portal@miigaik.ru,+7 (499) 404-12-20 (приёмная ректора),https://www.miigaik.ru,Камынина Надежда Ростиславовна,"Ректор (д.э.н., к.т.н., доцент)",,,,0,,,,,,,0,3,да,высокая,"• Сайт miigaik.ru открыт после загрузки промежуточного сертификата Let's Encrypt (неполная цепочка на сервере); раздел «Сведения — Руководство» (2026) подтверждает ректора Н.Р. Камынину, rector@miigaik.ru и тел. 8 (499) 261-31-52
+• Общие контакты (страница «Контакты»): portal@miigaik.ru, 8 (499) 404-12-20, 8 (499) 261-08-63; адрес 105064, Москва, Гороховский пер., 4. Проректор по международной деятельности в списке руководства не указан; раздел «Международное сотрудничество» содержит перечень договоров (Вьетнам, Казахстан и др.)
 • Собственных запущенных спутников не найдено; профиль — геодезия, ДЗЗ, фотограмметрия, картографирование Луны и планет — потенциально ценен для обработки данных группировки
-• В санкционных списках (US Entity List, OFAC SDN, ЕС, Великобритания) не найден; в RAEX-100 2026 и QS 2027 не найден","• Https://ru.wikipedia.org/wiki/Московский_государственный_университет_геодезии_и_картографии
-• Https://www.miigaik.ru/about/rectorate/ (недоступен, HTTP 503 / ошибка TLS)
+• В санкционных списках (US Entity List, OFAC SDN, ЕС, Великобритания) не найден; в RAEX-100 2026 и QS 2027 не найден
+• Перепроверка: Ректор Н.Р. Камынина, rector@miigaik.ru, portal@miigaik.ru, телефоны и адрес подтверждены на miigaik.ru (sveden/managers, contacts) 04.10.2026","• Https://www.miigaik.ru/sveden/managers/
+• Https://www.miigaik.ru/contacts/
+• Https://www.miigaik.ru/sveden/inter/
+• Https://ru.wikipedia.org/wiki/Московский_государственный_университет_геодезии_и_картографии
 • Nanosats.csv
 • Https://spacepi.space/satellites/",2026-10-04,
-138,Россия,Нижний Новгород,Nizhny Novgorod State University of Architecture and Civil Engineering (NNGASU),Нижегородский государственный архитектурно-строительный университет,Технический / аэрокосмический,Государственный (Минобрнауки России),"• Civil Engineering
+137,Россия,Нижний Новгород,Nizhny Novgorod State University of Architecture and Civil Engineering (NNGASU),Нижегородский государственный архитектурно-строительный университет,Технический / аэрокосмический,Государственный (Минобрнауки России),"• Civil Engineering
 • Architecture & Urban Design
 • Engineering Systems & Environmental Engineering
 • Transport Infrastructure
@@ -2397,7 +2413,7 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Https://spacepi.space/satellites/
 • Nanosats.csv
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv",2026-10-04,
-139,Россия,Магнитогорск,Nosov Magnitogorsk State Technical University,Магнитогорский государственный технический университет им. Г.И. Носова (МГТУ им. Г.И. Носова),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Metallurgy
+138,Россия,Магнитогорск,Nosov Magnitogorsk State Technical University,Магнитогорский государственный технический университет им. Г.И. Носова (МГТУ им. Г.И. Носова),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Metallurgy
 • Mining
 • Materials science
 • Mechanical engineering
@@ -2413,7 +2429,7 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Https://www.magtu.ru/sveden/common.html
 • Https://www.magtu.ru/mezhdunarodnaya-deyatelnost.html
 • Https://spacepi.space/satellites/",2026-10-04,
-140,Россия,Новосибирск,Novosibirsk State Agrarian University (since Dec 2025: Siberian State University of Engineering and Biotechnology),Сибирский государственный университет инженерии и биотехнологий (Университет биотехнологий; до 02.12.2025 — Новосибирский государственный аграрный университет),Аграрный / экологический,Государственный (Минобрнауки России),"• Agronomy & Soil Science
+139,Россия,Новосибирск,Novosibirsk State Agrarian University (since Dec 2025: Siberian State University of Engineering and Biotechnology),Сибирский государственный университет инженерии и биотехнологий (Университет биотехнологий; до 02.12.2025 — Новосибирский государственный аграрный университет),Аграрный / экологический,Государственный (Минобрнауки России),"• Agronomy & Soil Science
 • Veterinary Medicine & Animal Science
 • Agricultural Engineering
 • Biotechnology & Food Technology
@@ -2426,7 +2442,7 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Https://edubiotech.ru/sveden/managers/
 • Https://edubiotech.ru/sveden/struct/
 • Https://ru.wikipedia.org/wiki/Сибирский_государственный_университет_инженерии_и_биотехнологий",2026-10-04,
-141,Россия,Новосибирск,Novosibirsk State University of Architecture and Civil Engineering (Sibstrin),Новосибирский государственный архитектурно-строительный университет (Сибстрин) (НГАСУ (Сибстрин)),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Civil engineering
+140,Россия,Новосибирск,Novosibirsk State University of Architecture and Civil Engineering (Sibstrin),Новосибирский государственный архитектурно-строительный университет (Сибстрин) (НГАСУ (Сибстрин)),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Civil engineering
 • Architecture & urban planning
 • Water supply & environmental engineering
 • Building materials
@@ -2441,7 +2457,7 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Не найден в Entity List / OFAC SDN / EU / UK (локальные копии списков, окт. 2026)","• Https://school.sibstrin.ru/imd/
 • Https://rsr-online.ru/university/1006/
 • Https://spacepi.space/satellites/",2026-10-04,
-142,Россия,Омск,Omsk State Agrarian University named after P.A. Stolypin (Omsk SAU),Омский государственный аграрный университет имени П.А. Столыпина,Аграрный / экологический,Государственный (Минсельхоз России),"• Agronomy & Plant Breeding
+141,Россия,Омск,Omsk State Agrarian University named after P.A. Stolypin (Omsk SAU),Омский государственный аграрный университет имени П.А. Столыпина,Аграрный / экологический,Государственный (Минсельхоз России),"• Agronomy & Plant Breeding
 • Veterinary Medicine & Biotechnology
 • Land Management & Cadastre
 • Agricultural Engineering
@@ -2459,7 +2475,7 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Https://spacepi.space/satellites/
 • Nanosats.csv
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv",2026-10-04,
-143,Россия,Омск,Omsk State Technical University (OmSTU),Омский государственный технический университет (ОмГТУ),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Mechanical engineering
+142,Россия,Омск,Omsk State Technical University (OmSTU),Омский государственный технический университет (ОмГТУ),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Mechanical engineering
 • Oil & gas and chemical engineering
 • Radio engineering & electronics
 • Information security & IT
@@ -2476,7 +2492,7 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Https://www.omgtu.ru/mezhdunarodnaya-deyatelnost/
 • Https://www.omgtu.ru/general_information/contact/phonebook/
 • Https://spacepi.space/satellites/",2026-10-04,
-144,Россия,Ярославль,P.G. Demidov Yaroslavl State University (Demidov University),Ярославский государственный университет им. П.Г. Демидова (ЯрГУ),Классический,Государственный (Минобрнауки России),"• Mathematics and computer science
+143,Россия,Ярославль,P.G. Demidov Yaroslavl State University (Demidov University),Ярославский государственный университет им. П.Г. Демидова (ЯрГУ),Классический,Государственный (Минобрнауки России),"• Mathematics and computer science
 • Physics and microelectronics
 • Biology and ecology
 • Law
@@ -2493,27 +2509,35 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Https://www.uniyar.ac.ru/yargu/structure/leaders/
 • Nanosats.csv
 • Https://spacepi.space/satellites/",2026-10-04,
-145,Россия,Хабаровск,Pacific National University (PNU),Тихоокеанский государственный университет,Классический,Государственный (Минобрнауки России),"• Engineering and construction
+144,Россия,Хабаровск,Pacific National University (PNU),Тихоокеанский государственный университет,Классический,Государственный (Минобрнауки России),"• Engineering and construction
 • Information technology
 • Economics and law
 • Natural sciences
 • Humanities","680035, Россия, г. Хабаровск, ул. Тихоокеанская, д. 136 (136 Tikhookeanskaya St., Khabarovsk 680035, Russia)",,,,,,http://pnu.edu.ru,Марфин Юрий Сергеевич,Ректор,,,,0,,,,,,,0,3,,низкая,"• Сайт pnu.edu.ru не резолвится / togudv.ru недоступен из нашей сети — e-mail и телефон не подтверждены
 • THE2027: участник без ранга (Reporter)
 • По данным СМИ, в июне 2026 вузу присвоено имя М.П. Даниловского — уточнить полное наименование
-• Не найден в санкционных списках США/ЕС/Великобритании","• Https://rsr-online.ru/university/1325/
+• Не найден в санкционных списках США/ЕС/Великобритании
+• С 01.11.2023 к ТОГУ присоединён Хабаровский госуниверситет экономики и права (ХГУЭП)
+• По поисковой выдаче (не открыто на официальном сайте): тел. (4212) 37-51-86, e-mail khstu@khstu.ru (старый домен ХГТУ) — проверить перед рассылкой
+• Перепроверка: 04.10.2026: сайты pnu.edu.ru, togudv.ru и портал edu.ru недоступны; ректор Ю.С. Марфин подтверждается только вторичными источниками — данные не изменены","• Https://rsr-online.ru/university/1325/
 • Https://www.nanosats.eu/database",2026-10-04,
-146,Россия,Пенза,Penza State Technological University (PenzSTU),Пензенский государственный технологический университет (ПензГТУ),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Mechanical engineering and technology
+145,Россия,Пенза,Penza State Technological University (PenzSTU),Пензенский государственный технологический университет (ПензГТУ),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Mechanical engineering and technology
 • Biotechnology and food technology
 • Information technology
 • Electronics and instrument engineering
-• Economics and management","1a/11 Baydukova Proezd / Gagarina Street, Penza, 440039, Russia (пр. Байдукова / ул. Гагарина, д. 1а/11, г. Пенза, 440039)",,,,,,https://penzgtu.ru,Тычков Александр Юрьевич,И.о. ректора,,,,0,,,,,,,0,3,,низкая,"• Сайт penzgtu.ru недоступен из нашей сети (обрыв соединения / HTTP 503) — контакты и международный отдел не проверены
-• Руководитель — и.о. ректора А.Ю. Тычков с 14.08.2026 (только по Википедии) — обязательно перепроверить
+• Economics and management","1a/11 Baydukova Proezd / Gagarina Street, Penza, 440039, Russia (пр. Байдукова / ул. Гагарина, д. 1а/11, г. Пенза, 440039)",rector@penzgtu.ru,"ФИО не найдено
+Ректорат ПензГТУ
+Обращение: Уважаемые коллеги!",,rector@penzgtu.ru,,https://penzgtu.ru,Тычков Александр Юрьевич,И.о. ректора,,,,0,,,,,,,0,3,да,низкая,"• Сайт penzgtu.ru недоступен из нашей сети (обрыв соединения / HTTP 503) — e-mail rector@penzgtu.ru взят из поисковой выдачи по официальной странице «Основные сведения» (penzgtu.ru/sveden/common), открыть не удалось; международный отдел не проверен
+• И.о. ректора А.Ю. Тычков с 14.08.2026 (приказ Минобрнауки от 05.08.2026, PenzaNews со ссылкой на сайт вуза); ранее ректор — Д.В. Пащенко
 • Запущенных спутников не найдено (nanosats.eu, Space-π)
-• В санкционных списках (US Entity List, OFAC SDN, ЕС, Великобритания) не найден","• Https://ru.wikipedia.org/wiki/Пензенский_государственный_технологический_университет
+• В санкционных списках (US Entity List, OFAC SDN, ЕС, Великобритания) не найден
+• Перепроверка: И.о. ректора А.Ю. Тычков (с 14.08.2026) подтверждён публикацией PenzaNews; e-mail rector@penzgtu.ru — только из выдачи по странице sveden/common, сайт по-прежнему недоступен (503)","• Https://ru.wikipedia.org/wiki/Пензенский_государственный_технологический_университет
 • Https://penzgtu.ru/sveden/managers/ (недоступен, HTTP 503)
 • Nanosats.csv
-• Https://spacepi.space/satellites/",2026-10-04,
-147,Россия,Пермь,Perm National Research Polytechnic University (PNRPU),Пермский национальный исследовательский политехнический университет,Технический / аэрокосмический,Государственный (национальный исследовательский университет),"• Aerospace Engineering (rocket & aircraft engines)
+• Https://spacepi.space/satellites/
+• Https://penzanews.ru/education/168441-2026
+• Http://www.penzgtu.ru/sveden/common/index.html (search snippet)",2026-10-04,
+146,Россия,Пермь,Perm National Research Polytechnic University (PNRPU),Пермский национальный исследовательский политехнический университет,Технический / аэрокосмический,Государственный (национальный исследовательский университет),"• Aerospace Engineering (rocket & aircraft engines)
 • Mechanical Engineering
 • Oil & Gas and Mining
 • Materials Science & Composites
@@ -2531,7 +2555,7 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Https://spacepi.space/satellites/
 • Nanosats.csv
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv",2026-10-04,
-148,Россия,Пермь,Perm State Agro-Technological University named after Academician D.N. Pryanishnikov,Пермский государственный аграрно-технологический университет имени академика Д.Н. Прянишникова (Пермский ГАТУ),Аграрный / экологический,Государственный (Минсельхоз России),"• Agronomy & soil science
+147,Россия,Пермь,Perm State Agro-Technological University named after Academician D.N. Pryanishnikov,Пермский государственный аграрно-технологический университет имени академика Д.Н. Прянишникова (Пермский ГАТУ),Аграрный / экологический,Государственный (Минсельхоз России),"• Agronomy & soil science
 • Veterinary medicine & animal science
 • Agricultural engineering
 • Food technology
@@ -2546,28 +2570,32 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Https://pgatu.ru/today/contactinfo
 • Https://pgatu.ru/generalinfo/international
 • Https://spacepi.space/satellites/",2026-10-04,
-149,Россия,Санкт-Петербург,Petersburg State Transport University,Петербургский государственный университет путей сообщения Императора Александра I,Технический / аэрокосмический,Государственный (Росжелдор / Минтранс России),"• Railway engineering
+148,Россия,Санкт-Петербург,Petersburg State Transport University,Петербургский государственный университет путей сообщения Императора Александра I,Технический / аэрокосмический,Государственный (Росжелдор / Минтранс России),"• Railway engineering
 • Transport logistics
 • Civil and bridge engineering
 • Electrical engineering and automation
-• Economics and management","Московский проспект, д. 9, Санкт-Петербург, 190031, Россия",inter@pgups.ru,"ФИО не найдено
+• Economics and management","Московский проспект, д. 9, Санкт-Петербург, 190031, Россия",inter@pgups.ru,"Стрельченя Юлия Викторовна
+Начальник Управления международных связей, к.филол.н.
 Управление международных связей
-Обращение: Уважаемые коллеги!",inter@pgups.ru,,+7 812 457-80-39,https://www.pgups.ru,Валинский Олег Сергеевич,Ректор,,,RAEX2026: 96,0,,,,,,,0,3,да,низкая,"• Сайт pgups.ru недоступен (тайм-аут / 503) — руководство и общие контакты не проверены на официальных страницах; ректор Валинский О.С. (с 2023) — по поисковой выдаче новости ПГУПС
-• Телефон и e-mail — Управления международных связей (interpgups.com/contacts), каб. 1-321; общий e-mail вуза не подтверждён
+Обращение: Уважаемая Юлия Викторовна!",inter@pgups.ru,rector@pgups.ru,+7 812 457-80-39 (Управление международных связей); приёмная ректора +7 812 310-25-21,https://www.pgups.ru,Валинский Олег Сергеевич,Ректор,,,RAEX2026: 96,0,,,,,,,0,3,да,высокая,"• Подтверждено на официальном сайте 04.10.2026: ректор Валинский О.С. и приёмная ректора (rector@pgups.ru, +7 812 310-25-21) — страница «Контакты»; адрес Московский пр., д. 9, СПб, 190031; общий документационный ящик dou@pgups.ru (+7 812 457-86-28)
+• Управление международных связей (pgups.ru/struct/upravlenie_mezhdunarodnykh_svyazey/): начальник Стрельченя Ю.В. (strelchenya@pgups.ru), inter@pgups.ru, тел. (812) 457-80-39, 315-40-59, 310-33-89, ауд. 1-320
+• Сайт pgups.ru работает с перебоями (часть запросов — сброс соединения; разделы sveden не открылись)
 • THE2027: Reporter (без ранга)
 • Ведомственная принадлежность (Росжелдор) не проверена на сайте вуза
-• Собственных КА не найдено (быстрая проверка поиском и по nanosats.csv)","• Https://interpgups.com/contacts
+• Собственных КА не найдено (быстрая проверка поиском и по nanosats.csv)
+• Перепроверка: Ректор, e-mail ректората, адрес и Управление международных связей (начальник Стрельченя Ю.В., inter@pgups.ru) подтверждены на сайте pgups.ru 04.10.2026","• Https://interpgups.com/contacts
 • Https://www.pgups.ru/news/science_and_innovation/o-naznachenii-rektora-peterburgskogo-gosudarstvennogo-universiteta-putey-soobshcheniya-imperatora-al/
 • Https://raex-rr.com/education/russian_universities/top-100_universities/2026/",2026-10-04,
-150,Россия,Сыктывкар,Pitirim Sorokin Syktyvkar State University (SyktSU),Сыктывкарский государственный университет имени Питирима Сорокина,Классический,Государственный (Минобрнауки России),,"Oktyabrsky Prospekt 55, Syktyvkar, Komi Republic, Russia (г. Сыктывкар, Октябрьский пр-т, 55)",,,,,,https://syktsu.ru,,Ректор,,,,0,,,,,,,0,3,,низкая,"• Сайт syktsu.ru недоступен из нашей сети (сброс соединения / 503) — контакты и руководство не проверены
-• По Википедии ректор — Сотникова Ольга Александровна (с 2016 г.); актуальность на 2025–2026 не подтверждена, поэтому поле head_name оставлено пустым
-• Адрес — по Википедии, индекс не подтверждён
+149,Россия,Сыктывкар,Pitirim Sorokin Syktyvkar State University (SyktSU),Сыктывкарский государственный университет имени Питирима Сорокина,Классический,Государственный (Минобрнауки России),,"Oktyabrsky Prospekt 55, Syktyvkar, Komi Republic, Russia (г. Сыктывкар, Октябрьский пр-т, 55)",,,,,,https://syktsu.ru,Сотникова Ольга Александровна,Ректор,,,,0,,,,,,,0,3,,низкая,"• Адрес — по Википедии, индекс не подтверждён
 • Собственных запущенных спутников не найдено (быстрая проверка: nanosats.csv и каталог спутников Space-π)
-• Санкционные списки проверены (US Consolidated Screening List вкл. Entity List и OFAC SDN; UK Sanctions List от 02.10.2026; EU FSF от 22.09.2026): вуз не найден","• Https://ru.wikipedia.org/wiki/Сыктывкарский_государственный_университет
+• Санкционные списки проверены (US Consolidated Screening List вкл. Entity List и OFAC SDN; UK Sanctions List от 02.10.2026; EU FSF от 22.09.2026): вуз не найден
+• Сайт syktsu.ru по-прежнему недоступен из нашей сети (04.10.2026) — контакты не проверены
+• Ректор Сотникова О.А. подтверждена публикацией агентства «Комиинформ» от 02.07.2026 (вручение дипломов); в поисковой выдаче есть новость сайта вуза «Совет ректоров вузов Коми согласовал список кандидатов на пост ректора» (дата не установлена) — возможны выборы ректора, перед рассылкой проверить
+• Перепроверка: Сайт недоступен; ректор Сотникова О.А. подтверждена «Комиинформ» (07.2026) и внесена; контакты не перепроверены","• Https://ru.wikipedia.org/wiki/Сыктывкарский_государственный_университет
 • Https://spacepi.space/satellites/
 • Nanosats.csv
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv",2026-10-04,
-151,Россия,Барнаул,Polzunov Altai State Technical University (AltSTU),Алтайский государственный технический университет им. И.И. Ползунова (АлтГТУ),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Mechanical & agricultural machinery engineering
+150,Россия,Барнаул,Polzunov Altai State Technical University (AltSTU),Алтайский государственный технический университет им. И.И. Ползунова (АлтГТУ),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Mechanical & agricultural machinery engineering
 • Power engineering
 • Chemical & food technology
 • IT & automation
@@ -2584,7 +2612,7 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Https://www.altstu.ru/structure/unit/ums/
 • Https://www.altstu.ru/structure/unit/cms/
 • Https://spacepi.space/satellites/",2026-10-04,
-152,Россия,Псков,Pskov State University,Псковский государственный университет (ПсковГУ),Классический,Государственный (Минобрнауки России),"• Engineering and IT
+151,Россия,Псков,Pskov State University,Псковский государственный университет (ПсковГУ),Классический,Государственный (Минобрнауки России),"• Engineering and IT
 • Medicine
 • Pedagogy and psychology
 • Economics and law
@@ -2597,14 +2625,17 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Собственных спутников не найдено (одна проверка поиском)
 • В санкционных списках США/ЕС/Великобритании не найден","• Https://russiaedu.ru/vuz/60/pskgu/contacts/
 • Nanosats.csv",2026-10-04,
-153,Россия,Ростов-на-Дону,"Rostov State University of Economics (RSUE, RINH)",Ростовский государственный экономический университет (РИНХ),Другое,Государственный (Минобрнауки России),"• Economics
+152,Россия,Ростов-на-Дону,"Rostov State University of Economics (RSUE, RINH)",Ростовский государственный экономический университет (РИНХ),Другое,Государственный (Минобрнауки России),"• Economics
 • Finance & accounting
 • Management & marketing
 • Law
-• Information systems",,,,,,,https://rsue.ru,,,,THE2027: Reporter (unranked),,0,,,,,,,0,3,,низкая,"• Сайт rsue.ru недоступен (таймаут; WebFetch — 504), веб-поиск исчерпан — контакты и руководство НЕ проверены, заполнить вручную перед рассылкой
-• Быстрая проверка (nanosats.csv + каталог Space-π): запущенных спутников вуза не найдено","• THE 2027 (the2027.json)
+• Information systems",,,,,,,https://rsue.ru,Макаренко Елена Николаевна,Ректор,,THE2027: Reporter (unranked),,0,,,,,,,0,3,,низкая,"• Сайт rsue.ru недоступен (curl 403/500, WebFetch 504) — e-mail, телефон, адрес и международный отдел НЕ проверены, заполнить вручную перед рассылкой
+• Ректор — Е. Н. Макаренко (официальный Telegram-канал @rsue_rinh, 2026); президент университета — Адам Альбеков
+• Быстрая проверка (nanosats.csv + каталог Space-π): запущенных спутников вуза не найдено
+• Перепроверка: Ректор Елена Николаевна Макаренко подтверждена официальным Telegram-каналом вуза (посты сент.–окт. 2026; президент университета — Адам Альбеков); сайт rsue.ru по-прежнему недоступен, e-mail/адрес/телефон не подтверждены","• Https://t.me/s/rsue_rinh
+• THE 2027 (the2027.json)
 • Https://spacepi.space/satellites/ (каталог Space-π, проверен — вуз не найден)",2026-10-04,
-154,Россия,Москва,Russian Biotechnological University (ROSBIOTECH),Российский биотехнологический университет (РОСБИОТЕХ),Другое,Государственный (Минобрнауки России),"• Biotechnology
+153,Россия,Москва,Russian Biotechnological University (ROSBIOTECH),Российский биотехнологический университет (РОСБИОТЕХ),Другое,Государственный (Минобрнауки России),"• Biotechnology
 • Food Science & Engineering
 • Veterinary Medicine
 • Bioengineering
@@ -2617,7 +2648,7 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • THE2027: Reporter (не ранжирован)
 • В санкционных списках США/ЕС/Великобритании не найден","• Https://rosbiotech.ru/sveden/common/
 • Https://rosbiotech.ru/sveden/managers/",2026-10-04,
-155,Россия,Москва,Russian New University (RosNOU),Российский новый университет (АНО ВО «Российский новый университет»),Другое,Частный / АНО,"• Law
+154,Россия,Москва,Russian New University (RosNOU),Российский новый университет (АНО ВО «Российский новый университет»),Другое,Частный / АНО,"• Law
 • Economics & Management
 • Psychology
 • Linguistics
@@ -2634,7 +2665,7 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Https://spacepi.space/satellites/
 • Nanosats.csv
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv",2026-10-04,
-156,Россия,Москва,Russian State Social University,Российский государственный социальный университет,Гуманитарный,Государственный (Минобрнауки России),"• Social Work & Psychology
+155,Россия,Москва,Russian State Social University,Российский государственный социальный университет,Гуманитарный,Государственный (Минобрнауки России),"• Social Work & Psychology
 • Law
 • Economics & Management
 • Information Technology
@@ -2642,8 +2673,9 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • По Википедии ректор — Хазин Андрей Леонидович (без даты актуальности) — требуется проверка
 • Адрес — по Википедии (без индекса), на сайте вуза не подтверждён
 • Спутников в nanosats.eu и списке Space-π не найдено; веб-поиск не выполнялся (исчерпана квота)
-• В санкционных списках США/ЕС/Великобритании не найден",Https://ru.wikipedia.org/wiki/Российский_государственный_социальный_университет,2026-10-04,
-157,Россия,"пгт Черкизово (г.о. Пушкинский, Московская обл.)",Russian State University of Tourism and Service (RGUTIS),Российский государственный университет туризма и сервиса (РГУТИС),Другое,Государственный (Минобрнауки России),"• Tourism & hospitality
+• В санкционных списках США/ЕС/Великобритании не найден
+• Перепроверка: Сайт rgsu.net недоступен (curl — нет соединения, WebFetch 503); официальный Telegram/VK не дали данных (t.me/rgsu_official не принадлежит вузу); данные не изменены",Https://ru.wikipedia.org/wiki/Российский_государственный_социальный_университет,2026-10-04,
+156,Россия,"пгт Черкизово (г.о. Пушкинский, Московская обл.)",Russian State University of Tourism and Service (RGUTIS),Российский государственный университет туризма и сервиса (РГУТИС),Другое,Государственный (Минобрнауки России),"• Tourism & hospitality
 • Service industry
 • Design
 • Economics & management
@@ -2657,7 +2689,7 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Не найден в Entity List / OFAC SDN / EU / UK (локальные копии списков, окт. 2026)","• Https://rguts.ru/
 • Https://rguts.ru/rectorate/index
 • Https://spacepi.space/satellites/",2026-10-04,
-158,Россия,Рязань,Ryazan State Radio Engineering University named after V.F. Utkin (RSREU),Рязанский государственный радиотехнический университет им. В.Ф. Уткина (РГРТУ),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Radio engineering and telecommunications
+157,Россия,Рязань,Ryazan State Radio Engineering University named after V.F. Utkin (RSREU),Рязанский государственный радиотехнический университет им. В.Ф. Уткина (РГРТУ),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Radio engineering and telecommunications
 • Electronics and nanoelectronics
 • Computer science and automation
 • Information security
@@ -2673,19 +2705,21 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Https://rsreu.ru/vuz/structure/menu-733
 • Https://spacepi.space/satellites/cziolkovskij-ryazan-1-2/
 • Nanosats.csv",2026-10-04,
-159,Россия,Рязань,Ryazan State University named after S.A. Yesenin,Рязанский государственный университет имени С.А. Есенина (РГУ имени С.А. Есенина),Классический,Государственный (Минобрнауки России),"• Teacher education
+158,Россия,Рязань,Ryazan State University named after S.A. Yesenin,Рязанский государственный университет имени С.А. Есенина (РГУ имени С.А. Есенина),Классический,Государственный (Минобрнауки России),"• Teacher education
 • Physics & mathematics
 • Philology & journalism
 • History & law
 • Psychology
-• Natural sciences","ул. Свободы, д. 46, Рязань, 390000, Россия (46 Svobody St., Ryazan 390000, Russia)",,,,,,http://www.rsu.edu.ru,Боков Дмитрий Александрович,Ректор,,,,0,,,,,,,0,3,,низкая,"• Сайт rsu.edu.ru недоступен извне (нет DNS/ответа) — контакты не подтверждены на официальной странице
+• Natural sciences","ул. Свободы, д. 46, Рязань, 390000, Россия (46 Svobody St., Ryazan 390000, Russia)",,,,,,http://www.rsu.edu.ru,Боков Дмитрий Александрович,Ректор (с 2025 г.; и.о. ректора 2024–2025),,,,0,,,,,,,0,3,,низкая,"• Сайт rsu.edu.ru недоступен извне (нет DNS/ответа, 502) — контакты не подтверждены на официальной странице
 • По поисковой выдаче: международный отдел international@rsu.edu.ru, приёмная комиссия +7 (4912) 97-15-10 — не проверено, перепроверить
-• Ректор Д.А. Боков подтверждён новостью rzn.info от 31.08.2026 и rsr-online.ru
+• Ректор Д.А. Боков (ректор с 2025 г., и.о. 2024–2025) — по базе РСР и новости rzn.info от 31.08.2026; адрес ул. Свободы, 46 — по базе РСР
 • КА «Циолковский-Рязань-1/2» (2022) созданы не РГУ (в nanosats.eu приписаны ЮЗГУ) — не учтены; собственных спутников не найдено
-• Не входит в RAEX-100 2026; не найден в Entity List / OFAC SDN / EU / UK (локальные копии списков, окт. 2026)","• Https://rsr-online.ru/university/1149/
+• Не входит в RAEX-100 2026; не найден в Entity List / OFAC SDN / EU / UK (локальные копии списков, окт. 2026)
+• Перепроверка: Сайт rsu.edu.ru по-прежнему недоступен (04.10.2026, DNS/502); ректор Д.А. Боков (с 2025 г.) и адрес повторно подтверждены по базе Российского союза ректоров; e-mail и телефон не подтверждены","• Https://rsr-online.ru/university/1149/
+• Https://rsr-online.ru/person/1638/
 • Https://www.rzn.info/news/2026/8/31/bolee-2-tysyach-studentov-zachislili-v-rgu-imeni-esenina-352180.html
 • Https://spacepi.space/satellites/cziolkovskij-ryazan-1-2/",2026-10-04,
-160,Россия,Санкт-Петербург,Saint Petersburg State Forest Technical University named after S.M. Kirov (SPbFTU),Санкт-Петербургский государственный лесотехнический университет имени С.М. Кирова,Аграрный / экологический,Государственный (Минобрнауки России),"• Forestry & Forest Management
+159,Россия,Санкт-Петербург,Saint Petersburg State Forest Technical University named after S.M. Kirov (SPbFTU),Санкт-Петербургский государственный лесотехнический университет имени С.М. Кирова,Аграрный / экологический,Государственный (Минобрнауки России),"• Forestry & Forest Management
 • Wood Processing & Pulp-Paper Technology
 • Landscape Architecture
 • Ecology
@@ -2704,16 +2738,23 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Https://spacepi.space/satellites/
 • Nanosats.csv
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv",2026-10-04,
-161,Россия,Санкт-Петербург,Saint Petersburg State Institute of Technology (Technical University),Санкт-Петербургский государственный технологический институт (технический университет),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Chemical Technology
+160,Россия,Санкт-Петербург,Saint Petersburg State Institute of Technology (Technical University),Санкт-Петербургский государственный технологический институт (технический университет),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Chemical Technology
 • Chemical Engineering
 • Materials Science
 • Biotechnology
-• Energetic Materials","24-26/49 Moskovsky Ave., lit. A, Saint Petersburg 190013, Russia (190013, Санкт-Петербург, Московский пр., 24-26/49, лит. А)",,,,,,https://spbti.ru,,Ректор,,,,0,,,,,,,0,3,,низкая,"• Сайты spbti.ru и technolog.edu.ru недоступны из нашей сети (сброс соединения/503) — контакты и руководство не подтверждены
-• По Википедии ректор — Шевчик Андрей Павлович (без даты актуальности) — требуется проверка
-• Адрес — по Википедии
-• Спутников в nanosats.eu и списке Space-π не найдено; веб-поиск не выполнялся (исчерпана квота)
-• В санкционных списках США/ЕС/Великобритании под английским названием не найден; профиль включает энергонасыщенные материалы — учитывать экспортный контроль",Https://ru.wikipedia.org/wiki/Санкт-Петербургский_государственный_технологический_институт_(технический_университет),2026-10-04,
-162,Россия,Санкт-Петербург,Saint Petersburg State Marine Technical University (SMTU),"Федеральное государственное бюджетное образовательное учреждение высшего образования «Санкт-Петербургский государственный морской технический университет» (СПбГМТУ, «Корабелка»)",Морской / океанографический,Государственный (Минобрнауки России),"• Shipbuilding & naval architecture
+• Energetic Materials","24-26/49 Moskovsky Ave., lit. A, Saint Petersburg 190013, Russia (190013, Санкт-Петербург, Московский пр., 24-26/49, лит. А)",office@spbti.ru,"Шевчик Андрей Павлович
+И. о. ректора
+Общий ящик / канцелярия (office@spbti.ru)
+Обращение: Уважаемый Андрей Павлович!",,office@spbti.ru,+7 812 494-92-03; приёмная и. о. ректора: +7 812 494-93-39 (rector@spbti.ru),https://spbti.ru,Шевчик Андрей Павлович,И. о. ректора (Acting Rector),,,,0,,,,,,,0,3,да,средняя,"• Сайты spbti.ru и technolog.edu.ru по-прежнему недоступны из нашей сети (сброс соединения/таймаут) — данные взяты из карточки Российского союза ректоров и из портала russiaedu.ru, автоматически копирующего раздел «Сведения об образовательной организации» сайта вуза (обновлено 06.09.2026)
+• Шевчик А. П. — исполняющий обязанности ректора (по РСР и «Сведениям»); rector@spbti.ru — ящик и. о. ректора, office@spbti.ru — общий
+• Международный отдел/проректор в «Сведениях» не выделен
+• Спутников в nanosats.eu и списке Space-π не найдено
+• В санкционных списках США/ЕС/Великобритании под английским названием не найден; профиль включает энергонасыщенные материалы — учитывать экспортный контроль
+• Перепроверка: Руководитель (и. о. ректора Шевчик А. П.), e-mail, телефон и адрес подтверждены по РСР и зеркалу «Сведений» вуза (06.09.2026); сам сайт недоступен","• Https://rsr-online.ru/university/828/
+• Https://russiaedu.ru/vuz/spbti/
+• Https://spbti.ru/sveden/files/eie/Otchet_o_samoobsledovanii_17_04_2026.pdf (по поисковому индексу)
+• Https://ru.wikipedia.org/wiki/Санкт-Петербургский_государственный_технологический_институт_(технический_университет)",2026-10-04,
+161,Россия,Санкт-Петербург,Saint Petersburg State Marine Technical University (SMTU),"Федеральное государственное бюджетное образовательное учреждение высшего образования «Санкт-Петербургский государственный морской технический университет» (СПбГМТУ, «Корабелка»)",Морской / океанографический,Государственный (Минобрнауки России),"• Shipbuilding & naval architecture
 • Marine engineering & power plants
 • Ocean engineering
 • Marine instrumentation & electronics
@@ -2726,7 +2767,7 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Https://www.smtu.ru/sveden/common/
 • Https://raex-rr.com/education/russian_universities/top-100_universities/2026/
 • Https://spacepi.space/satellites/ (каталог Space-π, проверен — вуз не найден)",2026-10-04,
-163,Россия,Санкт-Петербург,Saint Petersburg State University of Architecture and Civil Engineering (SPbGASU),Санкт-Петербургский государственный архитектурно-строительный университет (СПбГАСУ),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Architecture and urban planning
+162,Россия,Санкт-Петербург,Saint Petersburg State University of Architecture and Civil Engineering (SPbGASU),Санкт-Петербургский государственный архитектурно-строительный университет (СПбГАСУ),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Architecture and urban planning
 • Civil and structural engineering
 • Road and transport infrastructure
 • Engineering systems and environmental engineering
@@ -2743,7 +2784,7 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Https://raex-rr.com/education/russian_universities/top-100_universities/2026/
 • Nanosats.csv
 • Https://spacepi.space/satellites/",2026-10-04,
-164,Россия,Южно-Сахалинск,Sakhalin State University,Сахалинский государственный университет,Классический,Государственный (Минобрнауки России),"• Education and pedagogy
+163,Россия,Южно-Сахалинск,Sakhalin State University,Сахалинский государственный университет,Классический,Государственный (Минобрнауки России),"• Education and pedagogy
 • Philology and Oriental studies
 • Natural sciences and geography
 • Economics and management
@@ -2755,20 +2796,27 @@ rector A.G. Komissarov on EU (2023/429) and UK sanctions lists",8,3,да,выс�
 • Собственных КА не найдено (быстрая проверка поиском и по nanosats.csv)","• Https://sakhgu.ru/sveden/managers/
 • Https://sakhgu.ru/sveden/common/
 • Https://sakhgu.ru/sveden/struct/",2026-10-04,
-165,Россия,Севастополь,Sevastopol State University (SevSU),Севастопольский государственный университет (СевГУ),Классический,Государственный (Минобрнауки России),"• Engineering
+164,Россия,Севастополь,Sevastopol State University (SevSU),Севастопольский государственный университет (СевГУ),Классический,Государственный (Минобрнауки России),"• Engineering
 • Marine technology
 • IT
 • Economics
 • Humanities
-• Natural sciences","33 Universitetskaya St., Sevastopol, 299053",,,,,,https://www.sevsu.ru,Нечаев Владимир Дмитриевич,Ректор,,,,0,,,,,,"UK sanctions list (Russia Regulations, designated 11.05.2026
+• Natural sciences","299053, Россия, г. Севастополь, ул. Университетская, 33 (33 Universitetskaya St., Sevastopol 299053)",info@sevsu.ru,"Нечаев Владимир Дмитриевич
+Ректор
+Общий ящик университета (info@sevsu.ru)
+Обращение: Уважаемый Владимир Дмитриевич!",,info@sevsu.ru,+7 8692 43-50-19,https://www.sevsu.ru,Нечаев Владимир Дмитриевич,Ректор,,,,0,,,,,,"UK sanctions list (Russia Regulations, designated 11.05.2026
 asset freeze)
-rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• Вуз расположен в Севастополе (Крым) — территория, аннексия которой не признана большинством стран; высокий политический и санкционный риск для партнёров БРИКС+
+rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,да,средняя,"• Вуз расположен в Севастополе (Крым) — территория, аннексия которой не признана большинством стран; высокий политический и санкционный риск для партнёров БРИКС+
 • Внесён в санкционный список Великобритании 11.05.2026 (заморозка активов); ректор В.Д. Нечаев — в санкционном списке ЕС с 2023 г
-• Сайт sevsu.ru недоступен извне (403) — e-mail и телефон не подтверждены; руководитель указан по Википедии и списку ЕС, актуальность на 2026 г. не проверена
-• Международная служба не найдена; космические проекты не выявлены (nanosats.eu, Space-π)","• Https://ru.wikipedia.org/wiki/Севастопольский_государственный_университет
+• Сайт sevsu.ru недоступен извне (403); ректор, e-mail info@sevsu.ru, телефон и адрес — по карточке РСР и порталу russiaedu.ru (копия «Сведений об образовательной организации», обновлено 06.09.2026)
+• Отдельной международной службы в «Сведениях» нет (есть советник при ректорате по международному взаимодействию со странами Ближнего Востока и Северной Африки — Михеев Ю. Н., через info@sevsu.ru); имеет филиалы в Мариуполе и Энергодаре (оккупированные территории Украины)
+• Космические проекты не выявлены (nanosats.eu, Space-π)
+• Перепроверка: Ректор, общий e-mail, телефон и адрес подтверждены по РСР и зеркалу «Сведений» вуза (06.09.2026); сайт недоступен","• Https://rsr-online.ru/university/1058/
+• Https://russiaedu.ru/vuz/sevsu/
+• Https://ru.wikipedia.org/wiki/Севастопольский_государственный_университет
 • Https://www.gov.uk/government/publications/the-uk-sanctions-list
 • Https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216",2026-10-04,
-166,Россия,Сириус (федеральная территория),Sirius University of Science and Technology,Научно-технологический университет «Сириус»,НИИ / научный центр,Частный / АНО,"• Mathematics
+165,Россия,Сириус (федеральная территория),Sirius University of Science and Technology,Научно-технологический университет «Сириус»,НИИ / научный центр,Частный / АНО,"• Mathematics
 • Computer Science & AI
 • Biotechnology (industrial & agrarian)
 • Translational Medicine & Genetics
@@ -2785,7 +2833,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Https://sochisirius.ru/news/4249
 • Nanosats.csv
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv",2026-10-04,
-167,Россия,Смоленск,Smolensk State University (SmolSU),Смоленский государственный университет (СмолГУ),Классический,Государственный (Минобрнауки России),"• Pedagogy
+166,Россия,Смоленск,Smolensk State University (SmolSU),Смоленский государственный университет (СмолГУ),Классический,Государственный (Минобрнауки России),"• Pedagogy
 • Philology
 • History
 • Mathematics and physics
@@ -2798,39 +2846,43 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Космические проекты не выявлены (nanosats.eu, Space-π)","• Https://smolgu.ru/sveden/employees/
 • Https://smolgu.ru/sveden/common/
 • Https://smolgu.ru/sveden/inter/",2026-10-04,
-168,Россия,Троицк (кампус в Челябинске),South Ural State Agrarian University (SUSAU),Федеральное государственное бюджетное образовательное учреждение высшего образования «Южно-Уральский государственный аграрный университет» (ЮУрГАУ),Аграрный / экологический,Государственный (Минсельхоз России),"• Agronomy
+167,Россия,Троицк (кампус в Челябинске),South Ural State Agrarian University (SUSAU),Федеральное государственное бюджетное образовательное учреждение высшего образования «Южно-Уральский государственный аграрный университет» (ЮУрГАУ),Аграрный / экологический,Государственный (Минсельхоз России),"• Agronomy
 • Agroengineering & mechanization
 • Veterinary medicine
 • Animal science
 • Agricultural economics","457103, Челябинская область, г. Троицк, ул. им. Ю.А. Гагарина, д. 13 (челябинский кампус: 454080, г. Челябинск, пр. Ленина, д. 75)",mo@sursau.ru,"ФИО не найдено
 Международный отдел
-Обращение: Уважаемые коллеги!",mo@sursau.ru,tvi_t@mail.ru,+7 (35163) 2-00-10,https://sursau.ru,Черепухина Светлана Васильевна,"Ректор, кандидат экономических наук, доцент",,,,0,,,,,,,0,3,да,низкая,"• Вуза с названием «Челябинский государственный аграрный университет» сейчас нет: сопоставлено с ЮУрГАУ (объединён с Челябинской агроинженерной академией в 2016 г.) — проверить соответствие
+Обращение: Уважаемые коллеги!",mo@sursau.ru,tvi_t@mail.ru,+7 (35163) 2-00-10; канцелярия +7 (35163) 7-01-91; междунар. отдел +7 (351) 266-65-12,https://sursau.ru,Черепухина Светлана Васильевна,"Ректор, кандидат экономических наук, доцент",,,,0,,,,,,,0,3,да,высокая,"• Вуза с названием «Челябинский государственный аграрный университет» сейчас нет: сопоставлено с ЮУрГАУ (объединён с Челябинской агроинженерной академией в 2016 г.) — проверить соответствие
 • Быстрая проверка (nanosats.csv + каталог Space-π): запущенных спутников вуза не найдено
 • Официальный e-mail вуза — на mail.ru (tvi_t@mail.ru); международный отдел: mo@sursau.ru, г. Челябинск, пр. Ленина, 75, ауд. 318
-• Учредитель — Минсельхоз России; руководитель международного отдела на сайте не найден","• Https://sursau.ru/sveden/managers/
+• Учредитель — Минсельхоз России; руководитель международного отдела на сайте не найден
+• Перепроверка: 04.10.2026: ректор С.В. Черепухина (обращение на главной, новости 10.2026), адрес, tvi_t@mail.ru и mo@sursau.ru подтверждены на sursau.ru","• Https://sursau.ru/
+• Https://sursau.ru/sveden/managers/
 • Https://sursau.ru/sveden/common/
 • Https://sursau.ru/about/structure/adm/432/
 • Https://spacepi.space/satellites/ (каталог Space-π, проверен — вуз не найден)",2026-10-04,
-169,Россия,Москва,State University of Land Use Planning (SULUP),Государственный университет по землеустройству,Аграрный / экологический,Государственный (Минсельхоз России),"• Land Management & Cadastre
+168,Россия,Москва,State University of Land Use Planning (SULUP),Государственный университет по землеустройству,Аграрный / экологический,Государственный (Минсельхоз России),"• Land Management & Cadastre
 • Geodesy & Remote Sensing
 • Urban Planning
 • Architecture
 • Real Estate Economics
-• Law","Kazakova St. 15, Moscow, 105064, Russia (105064, г. Москва, ул. Казакова, д. 15)",info@guz.ru,"ФИО не найдено
-Общий адрес университета (info@)
-Обращение: Уважаемые коллеги!",,info@guz.ru,+7 (499) 553-11-00 (приёмная ректора),https://www.guz.ru,Литвинцев Константин,Временно исполняющий обязанности ректора (врио ректора),,,,0,,,,,,,0,3,да,низкая,"• Сайт guz.ru закрыт геоблокировкой (DDoS-Guard) — адрес, телефон и международные контакты взяты из поискового индекса страниц guz.ru; требуется перепроверка
-• Врио ректора Константин Литвинцев (по Telegram-каналу вуза, 2026); отчество не подтверждено
-• По индексу сайта: проректор по международному сотрудничеству — Середа Алексей Валерьевич (SeredaAV@guz.ru, +7 499 553-11-14); начальник отдела международного сотрудничества — Жаткин Артём Петрович (zhatkinap@guz.ru) — не подтверждено открытием страницы
+• Law","Kazakova St. 15, Moscow, 105064, Russia (105064, г. Москва, ул. Казакова, д. 15)",zhatkinap@guz.ru,"Жаткин Артём Петрович
+Начальник Отдела международного сотрудничества
+Отдел международного сотрудничества (начальник — Артём Жаткин)
+Обращение: Уважаемый Артём Петрович!",zhatkinap@guz.ru,info@guz.ru,+7 (499) 553-11-00 (приёмная ректора),https://www.guz.ru,Литвинцев Константин Александрович,Временно исполняющий обязанности ректора (врио ректора),,,,0,,,,,,,0,3,да,средняя,"• Сайт guz.ru закрыт геоблокировкой (DDoS-Guard) — адрес, телефон и международные контакты взяты из поискового индекса страниц guz.ru; требуется перепроверка
 • Подведомственен Минсельхозу России; профиль ДЗЗ/геодезия может быть интересен как потребитель спутниковых данных
 • Собственных запущенных спутников не найдено (быстрая проверка: nanosats.csv и каталог спутников Space-π)
 • Санкционные списки проверены (US Consolidated Screening List вкл. Entity List и OFAC SDN; UK Sanctions List от 02.10.2026; EU FSF от 22.09.2026): вуз не найден
-• THE 2027: статус Reporter (без ранга)","• Https://t.me/s/fgbouvoguz
+• THE 2027: статус Reporter (без ранга)
+• Telegram-канал вуза (@fgbouvoguz): 29.09.2026 — представление нового руководителя Константина Литвинцева; 30.09.2026 — Учёный совет избрал председателем «врио ректора Константина Литвинцева». Отчество «Александрович» — из поста канала («Константин Александрович Литвинцев»)
+• Telegram-канал (авг.–сент. 2026): проректор по международному сотрудничеству — Алексей Середа; начальник Отдела международного сотрудничества — Артём Жаткин (zhatkinap@guz.ru), зам. начальника — Полина Соколова (sokolovapi@guz.ru). Отчества Середы (Валерьевич) и Жаткина (Петрович) и SeredaAV@guz.ru — только по индексу сайта
+• Перепроверка: По официальному Telegram-каналу (сент. 2026) подтверждены врио ректора Литвинцев К.А. и международный e-mail zhatkinap@guz.ru; сайт guz.ru по-прежнему закрыт (адрес/телефон из индекса)","• Https://t.me/s/fgbouvoguz
 • Https://www.guz.ru/about_the_university/management/ (по поисковому индексу)
 • Https://www.guz.ru/sotrudnichestvo/mezhdunarodnaya-deyatelnost/struktura-mezhdunarodnoy-sluzhby.php (по поисковому индексу)
 • Https://spacepi.space/satellites/
 • Nanosats.csv
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv",2026-10-04,
-170,Россия,Ставрополь,Stavropol State Pedagogical Institute (SSPI),Ставропольский государственный педагогический институт,Гуманитарный,Государственный (Министерство образования Ставропольского края),"• Teacher education
+169,Россия,Ставрополь,Stavropol State Pedagogical Institute (SSPI),Ставропольский государственный педагогический институт,Гуманитарный,Государственный (Министерство образования Ставропольского края),"• Teacher education
 • Psychology
 • Philology
 • Mathematics and computer science education
@@ -2842,7 +2894,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Не найден в санкционных списках США/ЕС/Великобритании","• Https://sspi.ru/sveden/managers
 • Https://sspi.ru/sveden/common
 • Https://www.nanosats.eu/database",2026-10-04,
-171,Россия,Сургут,Surgut State University,Сургутский государственный университет,Классический,Государственный (Ханты-Мансийский автономный округ – Югра),"• Medicine
+170,Россия,Сургут,Surgut State University,Сургутский государственный университет,Классический,Государственный (Ханты-Мансийский автономный округ – Югра),"• Medicine
 • Petroleum and polytechnic engineering
 • Natural sciences and ecology
 • Economics
@@ -2856,7 +2908,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Собственных КА не найдено (быстрая проверка поиском и по nanosats.csv)","• Https://surgu.ru/sveden/managers/
 • Https://surgu.ru/sveden/common/
 • Https://surgu.ru/sveden/struct/",2026-10-04,
-172,Россия,Тольятти,Togliatti State University (TSU),Тольяттинский государственный университет,Классический,Государственный (Минобрнауки России),"• Mechanical and automotive engineering
+171,Россия,Тольятти,Togliatti State University (TSU),Тольяттинский государственный университет,Классический,Государственный (Минобрнауки России),"• Mechanical and automotive engineering
 • Materials science
 • Electrical engineering
 • Chemistry
@@ -2869,7 +2921,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Https://www.tltsu.ru/sveden/common
 • Https://www.tltsu.ru/sveden/struct
 • Https://www.nanosats.eu/database",2026-10-04,
-173,Россия,Томск,Tomsk State Pedagogical University (TSPU),Томский государственный педагогический университет (ТГПУ),Гуманитарный,Государственный (Минпросвещения России),"• Teacher education
+172,Россия,Томск,Tomsk State Pedagogical University (TSPU),Томский государственный педагогический университет (ТГПУ),Гуманитарный,Государственный (Минпросвещения России),"• Teacher education
 • Foreign languages & philology
 • Psychology
 • Physics & mathematics education
@@ -2886,7 +2938,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Https://www.tspu.ru/international/
 • Https://www.tspu.ru/sveden/struct
 • Https://spacepi.space/satellites/",2026-10-04,
-174,Россия,Томск,Tomsk State University of Architecture and Building (TSUAB),Томский государственный архитектурно-строительный университет (ТГАСУ),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Architecture and design
+173,Россия,Томск,Tomsk State University of Architecture and Building (TSUAB),Томский государственный архитектурно-строительный университет (ТГАСУ),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Architecture and design
 • Civil engineering
 • Road and transport construction
 • Building materials and technology
@@ -2902,7 +2954,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Https://tsuab.ru/sveden/struct/
 • Nanosats.csv
 • Https://spacepi.space/satellites/",2026-10-04,
-175,Россия,Чита,Transbaikal State University (ZabGU),Забайкальский государственный университет (ЗабГУ),Классический,Государственный (Минобрнауки России),"• Mining and geology
+174,Россия,Чита,Transbaikal State University (ZabGU),Забайкальский государственный университет (ЗабГУ),Классический,Государственный (Минобрнауки России),"• Mining and geology
 • Energy and engineering
 • Natural sciences and ecology
 • Economics and law
@@ -2918,7 +2970,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Https://zabgu.ru/sveden/managers
 • Https://zabgu.ru/php/page.php?query=kontakty'_md
 • Nanosats.csv",2026-10-04,
-176,Россия,Калуга,Tsiolkovsky Kaluga State University (KSU),Калужский государственный университет им. К.Э. Циолковского (КГУ им. К.Э. Циолковского),Классический,Государственный (Минобрнауки России),"• Teacher education
+175,Россия,Калуга,Tsiolkovsky Kaluga State University (KSU),Калужский государственный университет им. К.Э. Циолковского (КГУ им. К.Э. Циолковского),Классический,Государственный (Минобрнауки России),"• Teacher education
 • Natural sciences & ecology
 • Philology & media
 • History & law
@@ -2934,7 +2986,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Https://tksu.ru/sveden/managers/
 • Https://tksu.ru/sveden/struct/
 • Https://spacepi.space/satellites/",2026-10-04,
-177,Россия,Тула,Tula State University (TulSU),Тульский государственный университет,Технический / аэрокосмический,Государственный (Минобрнауки России),"• Weapons & Defence Engineering
+176,Россия,Тула,Tula State University (TulSU),Тульский государственный университет,Технический / аэрокосмический,Государственный (Минобрнауки России),"• Weapons & Defence Engineering
 • Mechanical Engineering & Robotics
 • Mining & Construction
 • Computer Science
@@ -2953,16 +3005,19 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Https://spacepi.space/satellites/
 • Nanosats.csv
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv",2026-10-04,
-178,Россия,Кызыл,Tuvan State University,Тувинский государственный университет,Классический,Государственный,"• Education
+177,Россия,Кызыл,Tuvan State University,Тувинский государственный университет,Классический,Государственный,"• Education
 • Natural sciences
 • Agriculture and veterinary science
 • Philology and Tuvan studies
 • Economics
-• Law","ул. Ленина, д. 36, г. Кызыл, Республика Тыва, Россия",,,,,,https://tuvsu.ru,Хомушку Ольга Матпаевна,Ректор,,,,0,,,,,,,0,3,,низкая,"• Сайт tuvsu.ru недоступен (503 / сброс соединения) — контакты и руководство не проверены на официальном сайте
-• Ректор — по Википедии (в должности с 2014 г.); актуальность на 2025–2026 не подтверждена
-• По агрегаторам e-mail вуза tgu@tuvsu.ru, индекс 667000 — не проверено
-• Собственных КА в nanosats.csv не найдено; веб-поиск по космической деятельности не выполнен (исчерпан общий лимит поисковых запросов)",Https://ru.wikipedia.org/wiki/Тувинский_государственный_университет,2026-10-04,
-179,Россия,Тверь,Tver State Technical University (TvSTU),Тверской государственный технический университет,Технический / аэрокосмический,Государственный (Минобрнауки России),"• Civil engineering
+• Law","ул. Ленина, д. 36, г. Кызыл, Республика Тыва, 667000, Россия",tgu@tuvsu.ru,"ФИО не найдено
+Обращение: Уважаемые коллеги!",,tgu@tuvsu.ru,+7 39422 2-19-69,https://tuvsu.ru,Хомушку Ольга Матпаевна,Ректор,,,,0,,,,,,,0,3,да,низкая,"• Сайт tuvsu.ru недоступен (503 / ошибка TLS) — e-mail tgu@tuvsu.ru, тел./факс 8(39422) 2-19-69 и индекс 667000 взяты из поисковой выдачи по официальной странице tuvsu.ru/sveden, открыть не удалось
+• Ректор О.М. Хомушку (в должности с 2014 г., переизбрана) — действующая по публикации «Тува-Онлайн» 22.08.2026 (переговоры с делегацией Индии о студенческом обмене)
+• Собственных КА в nanosats.csv не найдено; веб-поиск по космической деятельности не выполнен
+• Перепроверка: Ректор О.М. Хомушку подтверждена публикацией «Тува-Онлайн» от 22.08.2026; e-mail tgu@tuvsu.ru, телефон и индекс — из выдачи по официальной странице sveden, сайт по-прежнему недоступен (503/TLS)","• Https://ru.wikipedia.org/wiki/Тувинский_государственный_университет
+• Https://www.tuvaonline.ru/2026/08/22/tuvinskiy-gosudarstvennyy-universitet-sdelal-stavku-na-vostok.html
+• Http://tuvsu.ru/sveden/struct (search snippet)",2026-10-04,
+178,Россия,Тверь,Tver State Technical University (TvSTU),Тверской государственный технический университет,Технический / аэрокосмический,Государственный (Минобрнауки России),"• Civil engineering
 • Mechanical engineering
 • Chemical technology
 • Information technology
@@ -2977,7 +3032,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Https://tstu.tver.ru/sveden/common
 • Https://tstu.tver.ru/sveden/struct
 • Https://www.nanosats.eu/database",2026-10-04,
-180,Россия,Тверь,Tver State University,Тверской государственный университет,Классический,Государственный (Минобрнауки России),"• Mathematics and computer science
+179,Россия,Тверь,Tver State University,Тверской государственный университет,Классический,Государственный (Минобрнауки России),"• Mathematics and computer science
 • Physics and chemistry
 • Biology and ecology
 • Economics and management
@@ -2994,7 +3049,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Https://tversu.ru/sveden/common/
 • Https://tversu.ru/pages/2221
 • Nanosats.csv",2026-10-04,
-181,Россия,Ижевск,Udmurt State University,Удмуртский государственный университет,Классический,Государственный (Минобрнауки России),"• Mathematics and IT
+180,Россия,Ижевск,Udmurt State University,Удмуртский государственный университет,Классический,Государственный (Минобрнауки России),"• Mathematics and IT
 • Physics and energy
 • Oil and gas engineering
 • Biology and ecology
@@ -3011,7 +3066,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Https://udsu.ru/sveden/managers
 • Https://udsu.ru/international
 • Nanosats.csv",2026-10-04,
-182,Россия,Ульяновск,Ulyanovsk State Technical University (UlSTU),Ульяновский государственный технический университет (УлГТУ),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Aircraft & mechanical engineering
+181,Россия,Ульяновск,Ulyanovsk State Technical University (UlSTU),Ульяновский государственный технический университет (УлГТУ),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Aircraft & mechanical engineering
 • Radio engineering & electronics
 • IT & software engineering
 • Power engineering
@@ -3027,7 +3082,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Https://ulstu.ru/sveden/managers/
 • Https://ulstu.ru/sveden/struct/
 • Https://spacepi.space/satellites/",2026-10-04,
-183,Россия,Ульяновск,Ulyanovsk State University,Ульяновский государственный университет,Классический,Государственный (Минобрнауки России),"• Medicine
+182,Россия,Ульяновск,Ulyanovsk State University,Ульяновский государственный университет,Классический,Государственный (Минобрнауки России),"• Medicine
 • Physics and nanotechnology
 • Mathematics and IT
 • Economics
@@ -3043,7 +3098,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Https://www.ulsu.ru/sveden/common/
 • Https://www.ulsu.ru/sveden/struct/
 • Https://www.ulsu.ru/inter/",2026-10-04,
-184,Россия,Екатеринбург,Ural State Agrarian University (UrSAU),Уральский государственный аграрный университет,Аграрный / экологический,Государственный (Минсельхоз России),"• Agronomy & Crop Science
+183,Россия,Екатеринбург,Ural State Agrarian University (UrSAU),Уральский государственный аграрный университет,Аграрный / экологический,Государственный (Минсельхоз России),"• Agronomy & Crop Science
 • Veterinary Medicine & Animal Science
 • Agricultural Engineering
 • Food Technology
@@ -3061,7 +3116,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Https://spacepi.space/satellites/
 • Nanosats.csv
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv",2026-10-04,
-185,Россия,Екатеринбург,Ural State Mining University,Уральский государственный горный университет,Технический / аэрокосмический,Государственный (Минобрнауки России),"• Mining Engineering
+184,Россия,Екатеринбург,Ural State Mining University,Уральский государственный горный университет,Технический / аэрокосмический,Государственный (Минобрнауки России),"• Mining Engineering
 • Geology & Geophysics
 • Geodesy & Mine Surveying
 • Mineral Processing
@@ -3074,7 +3129,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • В санкционных списках США/ЕС/Великобритании не найден","• Https://www.ursmu.ru/sveden/managers/
 • Https://www.ursmu.ru/sveden/struct/
 • Https://rsr-online.ru/university/1168/",2026-10-04,
-186,Россия,Екатеринбург,Ural State Pedagogical University (USPU),Уральский государственный педагогический университет (УрГПУ),Гуманитарный,Государственный (Минпросвещения России),"• Teacher education
+185,Россия,Екатеринбург,Ural State Pedagogical University (USPU),Уральский государственный педагогический университет (УрГПУ),Гуманитарный,Государственный (Минпросвещения России),"• Teacher education
 • Psychology
 • Philology and linguistics
 • Mathematics and IT education
@@ -3088,7 +3143,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Https://uspu.ru/sveden/managers/ (недоступен)
 • Nanosats.csv
 • Https://spacepi.space/satellites/",2026-10-04,
-187,Россия,Екатеринбург,Ural State University of Economics (USUE),Уральский государственный экономический университет (УрГЭУ),Другое,Государственный (Минобрнауки России),"• Economics
+186,Россия,Екатеринбург,Ural State University of Economics (USUE),Уральский государственный экономический университет (УрГЭУ),Другое,Государственный (Минобрнауки России),"• Economics
 • Management
 • Finance
 • Law
@@ -3103,7 +3158,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Https://www.usue.ru/sveden/common
 • Https://international.usue.ru/ru/
 • Https://international.usue.ru/ru/kontakty/upravlenie-mezhdunarodnogo-sotrudnichestva",2026-10-04,
-188,Россия,Владимир,Vladimir State University named after Alexander and Nikolay Stoletovs (VlSU),Федеральное государственное бюджетное образовательное учреждение высшего образования «Владимирский государственный университет имени Александра Григорьевича и Николая Григорьевича Столетовых» (ВлГУ),Классический,Государственный (Минобрнауки России),"• Engineering & mechanical engineering
+187,Россия,Владимир,Vladimir State University named after Alexander and Nikolay Stoletovs (VlSU),Федеральное государственное бюджетное образовательное учреждение высшего образования «Владимирский государственный университет имени Александра Григорьевича и Николая Григорьевича Столетовых» (ВлГУ),Классический,Государственный (Минобрнауки России),"• Engineering & mechanical engineering
 • Physics & photonics (lasers)
 • Computer science & IT
 • Architecture & civil engineering
@@ -3117,7 +3172,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Https://www.vlsu.ru/sveden/common/
 • Https://www.vlsu.ru/sveden/struct/
 • Https://spacepi.space/satellites/ (каталог Space-π, проверен — вуз не найден)",2026-10-04,
-189,Россия,Владивосток,Vladivostok State University (VVSU),Федеральное государственное бюджетное образовательное учреждение высшего образования «Владивостокский государственный университет» (ВВГУ),Классический,Государственный (Минобрнауки России),"• Economics & management
+188,Россия,Владивосток,Vladivostok State University (VVSU),Федеральное государственное бюджетное образовательное учреждение высшего образования «Владивостокский государственный университет» (ВВГУ),Классический,Государственный (Минобрнауки России),"• Economics & management
 • International business
 • IT & digital technologies
 • Law
@@ -3130,7 +3185,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Https://www.vvsu.ru/sveden/common/
 • Https://www.vvsu.ru/sveden/struct/
 • Https://spacepi.space/satellites/ (каталог Space-π, проверен — вуз не найден)",2026-10-04,
-190,Россия,Волгоград,Volgograd State Agricultural University (Volgograd SAU),Федеральное государственное бюджетное образовательное учреждение высшего образования «Волгоградский государственный аграрный университет» (ВолГАУ),Аграрный / экологический,Государственный (Минобрнауки России),"• Agronomy & agroecology
+189,Россия,Волгоград,Volgograd State Agricultural University (Volgograd SAU),Федеральное государственное бюджетное образовательное учреждение высшего образования «Волгоградский государственный аграрный университет» (ВолГАУ),Аграрный / экологический,Государственный (Минобрнауки России),"• Agronomy & agroecology
 • Land reclamation & water management
 • Agroengineering & electrification
 • Veterinary medicine & animal science
@@ -3145,16 +3200,18 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Https://www.volgau.com/sveden/managers
 • Https://www.volgau.com/sveden/struct
 • Https://spacepi.space/satellites/ (каталог Space-π, проверен — вуз не найден)",2026-10-04,
-191,Россия,Вологда,Vologda State University,Вологодский государственный университет,Классический,Государственный (Минобрнауки России),"• Engineering & Construction
+190,Россия,Вологда,Vologda State University,Вологодский государственный университет,Классический,Государственный (Минобрнауки России),"• Engineering & Construction
 • Mechanical & Electrical Engineering
 • Education
 • Economics & Management
-• Humanities","15 Lenina St., Vologda 160000, Russia (160000, г. Вологда, ул. Ленина, 15)",,,,,,https://vogu35.ru,,Ректор,,,,0,,,,,,,0,3,,низкая,"• Сайт vogu35.ru недоступен (ошибка соединения/503) — контакты, руководство и международный отдел не подтверждены
-• В Википедии руководителем указан Д.В. Дворников (и.о. ректора) без даты — не использовано, требуется проверка
-• Адрес — по Википедии
+• Humanities","160000, г. Вологда, ул. Ленина, д. 15, Россия (15 Lenina St., Vologda 160000, Russia)",,,,,,https://vogu35.ru,Дворников Денис Владимирович,Исполняющий обязанности ректора (с 2025 г.),,,,0,,,,,,,0,3,,низкая,"• Сайт vogu35.ru недоступен (сброс соединения, в т.ч. через WebFetch — 503) — e-mail, телефон и международный отдел не подтверждены
+• И.о. ректора Д.В. Дворников (с 2025 г. по настоящее время) и адрес — по базе вузов Российского союза ректоров (rsr-online.ru)
 • Спутников в nanosats.eu и списке Space-π не найдено; веб-поиск не выполнялся (исчерпана квота)
-• В санкционных списках США/ЕС/Великобритании не найден",Https://ru.wikipedia.org/wiki/Вологодский_государственный_университет,2026-10-04,
-192,Россия,Воронеж,Voronezh State Technical University (VSTU),Воронежский государственный технический университет (ВГТУ),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Civil engineering and architecture
+• В санкционных списках США/ЕС/Великобритании не найден
+• Перепроверка: Сайт vogu35.ru по-прежнему недоступен (04.10.2026); по базе Российского союза ректоров подтверждены и.о. ректора Д.В. Дворников (с 2025 г.) и почтовый адрес; e-mail и телефон не найдены","• Https://rsr-online.ru/university/1163/
+• Https://rsr-online.ru/person/1681/
+• Https://ru.wikipedia.org/wiki/Вологодский_государственный_университет",2026-10-04,
+191,Россия,Воронеж,Voronezh State Technical University (VSTU),Воронежский государственный технический университет (ВГТУ),Технический / аэрокосмический,Государственный (Минобрнауки России),"• Civil engineering and architecture
 • Mechanical and aerospace engineering
 • Radio engineering and electronics
 • IT and computer security
@@ -3171,7 +3228,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Https://cchgeu.ru/university/mezhdunarodnaya-deyatelnost/
 • Https://cchgeu.ru/university/struktura/ump/
 • Nanosats.csv",2026-10-04,
-193,Россия,Воронеж,Voronezh State University (VSU),Федеральное государственное бюджетное образовательное учреждение высшего образования «Воронежский государственный университет» (ВГУ),Классический,Государственный (Минобрнауки России),"• Physics & mathematics
+192,Россия,Воронеж,Voronezh State University (VSU),Федеральное государственное бюджетное образовательное учреждение высшего образования «Воронежский государственный университет» (ВГУ),Классический,Государственный (Минобрнауки России),"• Physics & mathematics
 • Computer science
 • Chemistry & biology
 • Geology & geography
@@ -3186,7 +3243,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Https://www.vsu.ru/sveden/struct/
 • Https://internationalvsu.ru/contacts/
 • Https://spacepi.space/satellites/ (каталог Space-π, проверен — вуз не найден)",2026-10-04,
-194,Россия,Киров,Vyatka State University (VyatSU),Вятский государственный университет (ВятГУ),Классический,Государственный (Минобрнауки России),"• Engineering
+193,Россия,Киров,Vyatka State University (VyatSU),Вятский государственный университет (ВятГУ),Классический,Государственный (Минобрнауки России),"• Engineering
 • Chemistry and biotechnology
 • Computer science
 • Economics and management
@@ -3200,7 +3257,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • В санкционных списках не найден (совпадение «Vyatka» относится к АО «ВМП «Авитек»)","• Https://www.vyatsu.ru/sveden/managers/
 • Https://www.vyatsu.ru/sveden/common/
 • Https://www.vyatsu.ru/sveden/inter",2026-10-04,
-195,Россия,Великий Новгород,Yaroslav-the-Wise Novgorod State University (NovSU),Федеральное государственное бюджетное образовательное учреждение высшего образования «Новгородский государственный университет имени Ярослава Мудрого» (НовГУ),Классический,Государственный (Минобрнауки России),"• Engineering & electronics
+194,Россия,Великий Новгород,Yaroslav-the-Wise Novgorod State University (NovSU),Федеральное государственное бюджетное образовательное учреждение высшего образования «Новгородский государственный университет имени Ярослава Мудрого» (НовГУ),Классический,Государственный (Минобрнауки России),"• Engineering & electronics
 • Medicine
 • Agriculture & biotechnology
 • Economics & management
@@ -3216,7 +3273,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • Https://novsu.ru/international/
 • Https://novsu.ru/international/contacts/
 • Https://spacepi.space/satellites/ (каталог Space-π, проверен — вуз не найден)",2026-10-04,
-196,Россия,Ярославль,Yaroslavl State Technical University,Ярославский государственный технический университет,Технический / аэрокосмический,Государственный (Минобрнауки России),"• Chemical Technology
+195,Россия,Ярославль,Yaroslavl State Technical University,Ярославский государственный технический университет,Технический / аэрокосмический,Государственный (Минобрнауки России),"• Chemical Technology
 • Mechanical & Automotive Engineering
 • Civil Engineering & Architecture
 • Information Systems
@@ -3229,7 +3286,7 @@ rector V.D. Nechaev on EU sanctions list (2023/1216)",0,3,,низкая,"• В�
 • В санкционных списках США/ЕС/Великобритании не найден; Ярославская обл. — много оборонных предприятий из Entity List, сам вуз не включён","• Https://www.ystu.ru/sveden/common/
 • Https://www.ystu.ru/sveden/managers/
 • Https://www.ystu.ru/sveden/struct/",2026-10-04,
-197,Россия,Ханты-Мансийск,Yugra State University (UGRASU),Югорский государственный университет,Классический,Государственный (Минобрнауки России),"• Oil and gas
+196,Россия,Ханты-Мансийск,Yugra State University (UGRASU),Югорский государственный университет,Классический,Государственный (Минобрнауки России),"• Oil and gas
 • Information technology
 • Ecology and natural sciences
 • Law and economics

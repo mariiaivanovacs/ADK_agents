@@ -133,11 +133,13 @@
 • Https://www.riotimesonline.com/ethiopia-tigray-university-students-reassigned-2026/
 • Https://addisstandard.com/mekelle-university-asks-education-ministry-to-assign-students-says-six-of-its-seven-campuses-remain-operational/
 • THE 2027 (input)",2026-10-04,
-8,Эфиопия,Адиграт,Adigrat University,ዩኒቨርሲቲ ዓዲግራት (ዓዲግራት ዩኒቨርሲቲ),Классический,Государственный (Минобразования Эфиопии),,"Adigrat University, Adigrat, Tigray Region, Ethiopia",,,,,,https://adu.edu.et,,President,,,,0,,,,,,,0,3,,низкая,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
-• Университет в Тыграе; сайт adu.edu.et недоступен (503 / нет соединения, 04.10.2026)
-• По поисковому индексу официального сайта: выпуск 524 студентов (июнь 2026) — университет, по-видимому, работает; президентом в публикации от 20.06.2026 назван Gebremichael Woldegabriel — НЕ подтверждено открытой страницей
-• Перед рассылкой учесть ситуацию с доступом/связью в Тыграе и проверить актуальность руководства","• Https://adu.edu.et (HTTP 503 / unreachable, Oct 2026)
-• Https://adu.edu.et/2026/06/20/ (search index only)",2026-10-04,
+8,Эфиопия,Адиграт,Adigrat University,ዩኒቨርሲቲ ዓዲግራት (ዓዲግራት ዩኒቨርሲቲ),Классический,Государственный (Минобразования Эфиопии),,"Adigrat University, Adigrat, Tigray Region, Ethiopia",,,,,,https://adu.edu.et,Dr. Gebremichael Woldegabriel (W/Gabriel),President,,,,0,,,,,,,0,3,,низкая,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
+• Университет в Тыграе; сайт adu.edu.et недоступен (503 / сброс соединения, повторно 04.10.2026); e-mail и телефон не найдены
+• Президент Dr. Gebremichael Woldegabriel — по поисковой выдаче официального сайта (выпуск 524 студентов 20.06.2026, новости июля 2026); открытой страницей НЕ подтверждено
+• Перед рассылкой учесть ситуацию с доступом/связью в Тыграе
+• Перепроверка: Сайт adu.edu.et по-прежнему недоступен; президент Dr. Gebremichael Woldegabriel внесён по выдаче официальных новостей сайта (06–07.2026), страницы не открыты — контакты не найдены","• Https://adu.edu.et (HTTP 503 / unreachable, Oct 2026)
+• Https://adu.edu.et/2026/06/20/ (search index only)
+• Https://adu.edu.et/2026/06/20/ (snippet)",2026-10-04,
 9,Эфиопия,Аксум,Aksum University,ኣክሱም ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Health sciences & medicine
 • Engineering & technology
 • Agriculture (Shire campus)
@@ -159,7 +161,8 @@
 10,Эфиопия,Амбо,Ambo University,አምቦ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),,,,,,,,https://www.ambou.edu.et,,President,,,,0,,,,,,,0,3,,низкая,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
 • Сайт ambou.edu.et недоступен (ошибка базы данных HTTP 500 на всех страницах, 04.10.2026) — контакты не проверены
 • Поисковая выдача (на основе Википедии) называет президентом Dr. Bayissa Leta — НЕ подтверждено официальным источником, поле оставлено пустым
-• Нужна повторная проверка сайта позже: страницы president-message и president-office-head существуют в поисковом индексе","• Https://www.ambou.edu.et (HTTP 500 database error, Oct 2026)
+• Нужна повторная проверка сайта позже: страницы president-message и president-office-head существуют в поисковом индексе
+• Перепроверка: Сайт ambou.edu.et недоступен (ERR_ADDRESS_UNREACHABLE через reader-сервис, сброс соединения через прокси, 04.10.2026); данные не изменены","• Https://www.ambou.edu.et (HTTP 500 database error, Oct 2026)
 • Https://t.me/s/AmboUniversityOfficial",2026-10-04,
 11,Эфиопия,Арба-Мынч,Arba Minch University,አርባ ምንጭ ዩኒቨርሲቲ,Технический / аэрокосмический,Государственный (Минобразования Эфиопии),"• Water resources & hydraulic engineering (Arba Minch Water Technology Institute)
 • Engineering & Technology (Arba Minch Institute of Technology)
@@ -248,11 +251,12 @@
 • Social Sciences & Humanities","Debre Tabor University, Debre Tabor, Amhara Region, Ethiopia",dtu@dtu.edu.et,"Dr. Solomon Abegaze
 Президент университета
 Общий адрес университета
-Обращение: Dear Dr. Solomon,",,dtu@dtu.edu.et,,https://dtu.edu.et,Dr. Solomon Abegaze,President,,,,0,,,,,,,0,3,да,низкая,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
+Обращение: Dear Dr. Solomon,",,dtu@dtu.edu.et,,https://dtu.edu.et,Dr. Solomon Abegaze,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
 • Сайт dtu.edu.et блокирует наши запросы (редирект на страницу блокировки) — данные взяты из официального Telegram-канала университета
 • Президент Dr. Solomon Abegaze упомянут как президент в посте от 25.09.2026; в марте 2025 СМИ называли президентом Anegagregn Gashaw — смена руководства
 • Сентябрь 2026: идёт конкурс на должности вице-президентов
-• Телефон, почтовый ящик и e-mail международного отдела не подтверждены; dtu@dtu.edu.et — официальный общий адрес, указанный в Telegram-канале","• Https://t.me/s/DTUniversity (official DTU Telegram channel, posts Sep 2026)
+• Телефон, почтовый ящик и e-mail международного отдела не подтверждены; dtu@dtu.edu.et — официальный общий адрес, указанный в Telegram-канале
+• Перепроверка: 04.10.2026: сайт dtu.edu.et по-прежнему блокирует доступ; президент Dr. Solomon Abegaze повторно подтверждён в последних постах официального Telegram-канала (сентябрь 2026); телефон и международный e-mail не найдены","• Https://t.me/s/DTUniversity (official DTU Telegram channel, posts Sep 2026)
 • Https://dtu.edu.et (blocked from our network)",2026-10-04,
 17,Эфиопия,Дилла,Dilla University,ዲላ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Agriculture & natural resources
 • Medicine & health sciences
@@ -293,7 +297,8 @@
 • Finance & economics
 • Leadership","Ethiopian Civil Service University, Addis Ababa, Ethiopia",,,,,,https://www.ecsu.edu.et,,President,,,,0,,,,,,,0,3,,низкая,"• Официальный сайт ecsu.edu.et недоступен (сброс соединения / 503) — контакты и руководство не проверены, нужна ручная проверка
 • В Википедии упоминается также домен epsu.edu.et (возможно, переименование в Ethiopian Public Service University) и президент Nigus Tadese (PhD) — не подтверждено на 2026; домен epsu.edu.et тоже недоступен
-• Вуз государственной службы (управление, политика, право) — низкая релевантность для спутниковой программы; спутниковых проектов не найдено","• Https://www.ecsu.edu.et (unreachable: connection reset / HTTP 503, Oct 2026)
+• Вуз государственной службы (управление, политика, право) — низкая релевантность для спутниковой программы; спутниковых проектов не найдено
+• Перепроверка: Сайты ecsu.edu.et / epsu.edu.et по-прежнему недоступны (04.10.2026); в списке университетов на moe.gov.et вуз не значится; данные не изменены","• Https://www.ecsu.edu.et (unreachable: connection reset / HTTP 503, Oct 2026)
 • Https://en.wikipedia.org/wiki/Ethiopian_Civil_Service_University
 • Https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite)
 • Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-04,
@@ -306,7 +311,9 @@
 • Президент Dr. Diriba Eticha Tujuba (PhD) указан на главной странице; новость от 09.04.2026 упоминает его как президента (Dr. Diriba Iticha)
 • На новом сайте контакты (e-mail, телефон) не отображаются — страница 'Contact Us' содержит только форму
 • По поисковой выдаче (старая версия сайта, не открылась): info@gmu.edu.et, тел. +251 47 551 1923 — НЕ подтверждено, в поля не внесено
-• Существует Директорат исследований, международных связей и партнёрств, но его руководитель и e-mail не опубликованы","• Https://www.gmu.edu.et/
+• Существует Директорат исследований, международных связей и партнёрств, но его руководитель и e-mail не опубликованы
+• Повторная проверка 04.10.2026: главная страница gmu.edu.et (©2026) по-прежнему называет президентом Dr. Diriba Eticha Tujuba; страницы President Office и Contact Us рендерятся JS без контактов — e-mail/телефон не подтверждены
+• Перепроверка: Президент повторно подтверждён на сайте (новости 2026), но официальных e-mail/телефона нет — уровень low сохранён","• Https://www.gmu.edu.et/
 • Https://www.gmu.edu.et/administration/president-office1
 • Https://www.gmu.edu.et/contact-us",2026-10-04,
 21,Эфиопия,Харамая,Haramaya University,ሐረማያ ዩኒቨርሲቲ,Аграрный / экологический,Государственный (Минобразования Эфиопии),"• Agriculture & agricultural economics
@@ -362,7 +369,8 @@
 • Https://www.inu.edu.et/advanced-science-and-research-laboratory-inaugurated-at-injibara-university/",2026-10-04,
 24,Эфиопия,Джиджига,Jigjiga University,ጅግጅጋ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),,"Jigjiga University, Jigjiga, Somali Region, Ethiopia",,,,,,https://www.jju.edu.et,,President,,,,0,,,,,,,0,3,,низкая,"• Официальный сайт jju.edu.et заблокирован для нашего IP (редирект на страницу блокировки хостинга) — контакты и руководство не проверены; требуется ручная проверка
 • В Википедии (данные 2022 г.) президентом указан Dr. Bashir Abdulahi Mohamed — для 2026 не подтверждено, поэтому поле оставлено пустым
-• Сомалийский регион; спутниковых проектов не найдено","• Https://www.jju.edu.et (blocked: redirects to technobros.au/blocked.html from our network)
+• Сомалийский регион; спутниковых проектов не найдено
+• Перепроверка: 04.10.2026: jju.edu.et по-прежнему перенаправляет на страницу блокировки хостинга (technobros.au/blocked.html); данные не изменены","• Https://www.jju.edu.et (blocked: redirects to technobros.au/blocked.html from our network)
 • Https://en.wikipedia.org/wiki/Jijiga_University (2022 data only)
 • Https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite)
 • Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-04,
@@ -405,7 +413,9 @@
 • Educational leadership","Kotebe University of Education, Addis Ababa, Ethiopia",,,,,,https://kue.edu.et,,President,,,,0,,,,,,,0,3,,низкая,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
 • Сайт kue.edu.et недоступен (ошибка базы данных HTTP 500, 04.10.2026) — контакты и руководство не проверены
 • Поисковая выдача называет президентом Dr. Teshome Nekatibeb (teshome.nekatibeb@kue.edu.et) — НЕ подтверждено открытой страницей; по другим данным, прежний президент Dr. Berhanemeskel Tena перешёл в Madda Walabu University
-• Name_native и city — по общепринятым данным; университет педагогический (бывш. Kotebe Metropolitan University)","• Https://kue.edu.et (HTTP 500 database error / connection reset, Oct 2026)
+• Name_native и city — по общепринятым данным; университет педагогический (бывш. Kotebe Metropolitan University)
+• Повторная проверка 04.10.2026: kue.edu.et (страницы President's Message, Senate Members) — HTTP 500/сброс соединения; поисковая выдача по-прежнему указывает Dr. Teshome Nekatibeb как президента и Dr. Berhanemeskel Tena как основателя-президента 2021–2026
+• Перепроверка: Сайт kue.edu.et по-прежнему недоступен (HTTP 500/сброс, 04.10.2026); данные не изменены — президент (по выдаче Dr. Teshome Nekatibeb) не подтверждён","• Https://kue.edu.et (HTTP 500 database error / connection reset, Oct 2026)
 • Https://kue.edu.et/president-2/ (unreachable)",2026-10-04,
 28,Эфиопия,Робе,Madda Walabu University,Yuunivarsiitii Maddaa Walaabuu (መዳ ወላቡ ዩኒቨርሲቲ),Классический,Государственный (Минобразования Эфиопии),"• Agriculture & Natural Resources
 • Medicine & Health Sciences (Goba)
@@ -415,7 +425,8 @@
 • Tourism & Hospitality","Madda Walabu University, Bale-Robe, Bale Zone, Oromia, Ethiopia",,,,,,https://mwu.edu.et,Dr. Berhanemeskel Tena,President,,,,0,,,,,,,0,3,,низкая,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
 • Сайт — SPA; его API (api.maddauni.online) возвращает 502, поэтому страницы президента, контактов и Директората исследований, интернационализации и партнёрств не открылись
 • Президент Dr. Berhanemeskel Tena (PhD) — по поисковому индексу официальной страницы mwu.edu.et/administration/president и Википедии (назначен в 2024 г., ранее — основатель-президент Kotebe University of Education); сам текст страницы не просмотрен — проверить
-• E-mail и телефон не подтверждены; в структуре сайта есть 'Research Internationalization and Partnership Directorate'","• Https://mwu.edu.et/
+• E-mail и телефон не подтверждены; в структуре сайта есть 'Research Internationalization and Partnership Directorate'
+• Перепроверка: Сайт mwu.edu.et (SPA) снова не отдал данные: API api.maddauni.online отвечает 502, в JS-бандле контактов нет; данные не изменены (04.10.2026)","• Https://mwu.edu.et/
 • Https://mwu.edu.et/data/page-routes.json
 • Https://mwu.edu.et/administration/president (search index)
 • Https://en.wikipedia.org/wiki/Madda_Walabu_University",2026-10-04,

@@ -337,7 +337,8 @@
 • Teacher Education",,,,,,,https://www.mslu.by,,Rector,,,,0,,,,,,,0,3,,низкая,"• Сайт mslu.by недоступен из нашей среды (ошибка прокси 502 / DNS), контакты и ректор не проверены — заполнить вручную перед рассылкой
 • Лингвистический профиль — космическая тематика маловероятна; возможна роль партнёра по языковой подготовке
 • Спутниковых проектов не найдено (быстрая проверка по nanosats.csv/поиску)
-• В выгрузках санкционных списков EU/UK/OFAC/US Entity List вуз и ректор не найдены; учитывать общий санкционный режим ЕС в отношении Беларуси",Https://www.mslu.by (недоступен),2026-10-04,
+• В выгрузках санкционных списков EU/UK/OFAC/US Entity List вуз и ректор не найдены; учитывать общий санкционный режим ЕС в отношении Беларуси
+• Перепроверка: Сайт mslu.by по-прежнему недоступен (04.10.2026: ошибка прокси 502 / DNS, WebFetch — EAI_AGAIN); на сайте Минобразования РБ данных о ректоре нет; данные не изменены",Https://www.mslu.by (недоступен),2026-10-04,
 23,Беларусь,Могилёв,Mogilev State A. Kuleshov University,Могилёвский государственный университет имени А.А. Кулешова (МГУ им. А.А. Кулешова),Классический,Государственный,"• Pedagogy & Education
 • Mathematics & Natural Sciences
 • Philology & History
@@ -505,12 +506,15 @@
 • Health Sciences
 • Economics & Business
 • Law
-• Humanities","Universidad Autónoma Gabriel René Moreno, Santa Cruz de la Sierra, Bolivia",,,,,,https://www.uagrm.edu.bo,Dr. Reinerio Vargas Banegas,Rector,,,,0,,,,,,,0,3,,низкая,"• Ректор указан на странице ректората (без даты)
-• Общий e-mail, адрес и телефон ректората на сайте не найдены; страница 'Contacto' содержит только контакты по факультетам (центры обработки данных)
-• Международный офис не найден
-• Быстрая проверка космической активности (nanosats.csv + сайт): спутников не обнаружено","• Https://www.uagrm.edu.bo/
+• Humanities","Universidad Autónoma Gabriel René Moreno, Santa Cruz de la Sierra, Bolivia",,,,,+591 3 336 5533; +591 3 336 5544,https://www.uagrm.edu.bo,Dr. Reinerio Vargas Banegas,Rector,,,,0,,,,,,,0,3,,средняя,"• Ректор Dr. Reinerio Vargas Banegas указан на официальной странице ректората; срок полномочий 2025–2029 (вступил в должность 23.09.2025), упоминается как ректор в СМИ в 2026 г
+• Телефоны (591-3) 336-5533 / 336-5544 и факс 334-2160 — из подвала официального сайта (без указания подразделения)
+• Общий e-mail и точный почтовый адрес ректората на сайте не найдены; страница 'Contacto' содержит только контакты факультетских CPD
+• Международные связи — подразделение RPNI (Relaciones Públicas Nacionales e Internacionales), страница /unidades-administrativas/rpni отдаёт 403 — контакты не получены
+• Быстрая проверка космической активности (nanosats.csv + сайт): спутников не обнаружено
+• Перепроверка: Ректор подтверждён на сайте и в СМИ 2026 г. (срок 2025–2029); добавлен телефон с официального сайта 04.10.2026; e-mail не найден","• Https://www.uagrm.edu.bo/
 • Https://www.uagrm.edu.bo/unidades-administrativas/rectorado
-• Https://www.uagrm.edu.bo/contacto",2026-10-04,
+• Https://www.uagrm.edu.bo/contacto
+• Https://eju.tv/2026/08/rector-de-la-uagrm-pide-al-gobierno-sincerarse-y-ofrece-apoyo-cientifico-de-las-universidades/",2026-10-04,
 34,Боливия,Кочабамба,Higher University of San Simón (UMSS),Universidad Mayor de San Simón,Классический,Государственный (автономный),"• Science & Technology (Engineering)
 • Agricultural & Livestock Sciences
 • Medicine & Health
@@ -569,9 +573,12 @@
 • Economics
 • Law","Calle Serrudo s/n esq. Av. Cívica, Potosí, Bolivia",informaciones@uatf.edu.bo,"ФИО не найдено
 Информационная служба
-Обращение: Dear Rector,",,informaciones@uatf.edu.bo,,https://www.uatf.edu.bo,,Rector,,,,0,,,,,,,0,3,да,низкая,"• Сайт — одностраничное JS-приложение; имя ректора, телефоны и международный офис извлечь не удалось
-• Адрес и e-mail взяты из кода сайта (футер)
-• Быстрая проверка космической активности (nanosats.csv + сайт): спутников не обнаружено",Https://www.uatf.edu.bo/,2026-10-04,
+Обращение: Dear Rector,",,informaciones@uatf.edu.bo,+591 2 6227300 (Rectorado); Relaciones Públicas e Internacionales: +591 2 6227730,https://www.uatf.edu.bo,,Rector,,,,0,,,,,,,0,3,да,низкая,"• Сайт — одностраничное JS-приложение; имя ректора и e-mail международного офиса извлечь не удалось
+• Адрес и e-mail взяты из кода сайта (футер); телефоны — из официального телефонного справочника (API swservice.uatf.edu.bo, обновлён в 2022 г., возможна неактуальность)
+• Есть подразделение «Relaciones Públicas e Internacionales» (тел. 6227730), e-mail не найден
+• Быстрая проверка космической активности (nanosats.csv + сайт): спутников не обнаружено
+• Перепроверка: Из официального API-справочника сайта (swservice.uatf.edu.bo, записи 2022 г.) добавлены телефоны ректората и отдела по связям с общественностью и международным связям; имя ректора на официальных страницах по-прежнему не найдено","• Https://www.uatf.edu.bo/
+• Https://swservice.uatf.edu.bo/api/agenda/type (официальный телефонный справочник UATF, записи 2022 г.)",2026-10-04,
 39,Куба,Гавана,Technological University of Havana José Antonio Echeverría (CUJAE),Universidad Tecnológica de La Habana José Antonio Echeverría (Cujae),Технический / аэрокосмический,Государственный,"• Electrical & Telecommunications Engineering
 • Informatics Engineering
 • Mechanical & Industrial Engineering
@@ -607,22 +614,29 @@
 • Agricultural Sciences
 • Natural Sciences
 • Social Sciences & Humanities
-• Economics","Carretera a Camajuaní km 5½, 50100 Santa Clara, Villa Clara, Cuba",,,,,,https://www.uclv.edu.cu,,Rector,,,,0,,,,,,,0,3,,низкая,"• Сайты кубинских вузов (.cu) недоступны из нашей сети (503/сброс соединения) — контакты из сторонних каталогов (uniRank, Grupo La Rábida, Wikipedia, Cubadebate)
-• Ректор не подтверждён: англ. Википедия — Dr. Osana Molerio Pérez, исп. Википедия/поиск — Dr. C. Luis Antonio Barranco Olivera; уточнить перед отправкой
-• E-mail и телефоны не найдены на доступных страницах
+• Economics","Carretera a Camajuaní km 5½, Santa Clara, Villa Clara, Cuba",yanelysd@uclv.edu.cu,"Dra. Yanelys Delgado Triana
+Директор по международным связям (Directora de Relaciones Internacionales)
+Директор по международным связям (Dirección de Relaciones Internacionales)
+Обращение: Dear Dr. Delgado Triana,",yanelysd@uclv.edu.cu,,+53 42 281618 (Dirección de Relaciones Internacionales); +53 42 281417 (Secretaría General),https://www.uclv.edu.cu,Dr. C. Luis Antonio Barranco Olivera,Rector,,,,0,,,,,,,0,3,да,высокая,"• Сайт uclv.edu.cu напрямую из нашей сети недоступен; страницы (главная, «Internacionalización») открыты через r.jina.ai 04.10.2026. Почтовый индекс 50100 на официальной странице не указан (взят ранее из каталогов) — удалён из адреса
+• Заместитель директора по междунар. связям: Nosley Pérez Castellano (nosleypc@uclv.cu, 42 281410); методист по междунар. сотрудничеству: Milagros Sarduy Valdés (milagrossv@uclv.edu.cu). Есть офис UCLV в Китае (Чжэнчжоу), oficinachina@uclv.edu.cu
 • Быстрая проверка космической активности (поиск + nanosats.csv): спутников не обнаружено
-• Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем","• Https://www.unirank.org/cu/uni/universidad-central-marta-abreu-de-las-villas/
+• Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем
+• Перепроверка: Ректор (Luis Antonio Barranco Olivera), директор по международным связям (e-mail, тел.) и адрес подтверждены на uclv.edu.cu 04.10.2026 (через reader-сервис)","• Https://www.unirank.org/cu/uni/universidad-central-marta-abreu-de-las-villas/
 • Https://en.wikipedia.org/wiki/University_%22Marta_Abreu%22_of_Las_Villas
 • Https://es.wikipedia.org/wiki/Universidad_Central_de_Las_Villas",2026-10-04,
 42,Куба,Гавана,Institute of Geophysics and Astronomy (IGA),Instituto de Geofísica y Astronomía (IGA),НИИ / научный центр,Государственный (агентство / НИИ),"• Geophysics
 • Astronomy & Astrophysics
 • Space Weather & Ionospheric Physics
 • Geomagnetism
-• Seismology","Instituto de Geofísica y Astronomía, La Habana, Cuba",,,,,,https://www.iga.cu,,Director,,,,0,,,,,,,0,3,,низкая,"• Сайт iga.cu недоступен из нашей сети (503) как и все сайты .cu; квота веб-поиска исчерпана — директор, адрес, e-mail и телефоны не установлены
-• Существование и сайт подтверждены реестром ROR (ror.org/05e5m0q38)
+• Seismology","Instituto de Geofísica y Astronomía, Calle 212 No. 2906, e/ 29 y 31, Rpto. La Coronela, La Lisa, La Habana, CP 11600, Cuba",,,,,,https://www.iga.cu,,Director,,,,0,,,,,,,0,3,,низкая,"• Сайт iga.cu и все сайты .cu (granma.cu, ecured.cu) по-прежнему недоступны из нашей сети (503 / сброс соединения) — страницы не открыты
+• По поисковой выдаче (вероятно, страница iga.cu/quienes, дата не установлена): директор — Lic. Zulia Bárcena Fonseca, тел. приёмной директора 72714331 (+53 7 271 4331) — НЕ ПРОВЕРЕНО, в поля не внесено; адрес внесён по той же выдаче
+• Существование и сайт подтверждены реестром ROR (ror.org/05e5m0q38); институт активен в 2026 г. (публикации Granma 08.2026, cuba.cu 04.2026)
 • Подведомственность (по-видимому, Агентство по окружающей среде AMA / министерство CITMA) не подтверждена
 • Спутников, построенных институтом, не обнаружено (nanosats.csv); наземные станции/сотрудничество с агентствами не проверены
-• Куба под санкциями США (эмбарго)",Https://ror.org/05e5m0q38,2026-10-04,
+• Куба под санкциями США (эмбарго)
+• Перепроверка: Сайты .cu недоступны; по поисковой выдаче добавлен адрес, имя директора и телефон — только в примечаниях, не проверены","• Https://ror.org/05e5m0q38
+• Https://www.iga.cu/quienes/ (по поисковому индексу)
+• Https://www.granma.cu/ciencia/2026-08-24/reconocimiento-internacional-para-el-instituto-de-geofisica-y-astronomia (заголовок в выдаче)",2026-10-04,
 43,Куба,Камагуэй,"University of Camagüey ""Ignacio Agramonte Loynaz""","Universidad de Camagüey ""Ignacio Agramonte Loynaz""",Классический,Государственный,"• Engineering
 • Agricultural Sciences
 • Natural Sciences
@@ -634,7 +648,8 @@
 • Ректор Julio Madera Quintana — по Cubadebate (поисковая выдача, дата не установлена) и исп. Википедии; каталог Grupo La Rábida указывает устаревшего ректора (Santiago Lajes Choy)
 • E-mail driuc@reduc.edu.cu (Дирекция межд. отношений) — из каталога La Rábida, дата неизвестна
 • Быстрая проверка космической активности (поиск + nanosats.csv): спутников не обнаружено
-• Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем","• Https://www.grupolarabida.org/universidad/universidad-de-camaguey-uc-cuba/
+• Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем
+• Перепроверка: Сайт reduc.edu.cu и портал МВО Кубы mes.gob.cu недоступны (503 / сброс соединения, WebFetch 503) — данные не изменены (04.10.2026)","• Https://www.grupolarabida.org/universidad/universidad-de-camaguey-uc-cuba/
 • Https://es.wikipedia.org/wiki/Universidad_de_Camag%C3%BCey
 • Http://www.cubadebate.cu/?s=rector+Universidad+de+Camaguey",2026-10-04,
 44,Куба,Ольгин,University of Holguín,Universidad de Holguín,Классический,Государственный,"• Engineering
@@ -645,21 +660,27 @@
 • Informatics","Avenida XX Aniversario, Carretera vía Guardalavaca, Holguín, Cuba",rector@uho.edu.cu,"Dr. C. Aniuska Ortiz Pérez
 Ректор
 Ректорат
-Обращение: Dear Dr. Ortiz Pérez,",,rector@uho.edu.cu,+53 24 481217,https://www.uho.edu.cu,Dr. C. Aniuska Ortiz Pérez,Rector,,,,0,,,,,,,0,3,да,низкая,"• Сайты кубинских вузов (.cu) недоступны из нашей сети (503/сброс соединения) — контакты из сторонних каталогов (uniRank, Grupo La Rábida, Wikipedia, Cubadebate)
-• Ректор Aniuska Ortiz Pérez — по каталогу Grupo La Rábida и исп. Википедии (дата не установлена; не подтверждено источником 2025–2026)
+Обращение: Dear Dr. Ortiz Pérez,",,rector@uho.edu.cu,+53 24 481217,https://www.uho.edu.cu,Dr. C. Aniuska Ortiz Pérez,Rector,,,,0,,,,,,,0,3,да,низкая,"• Сайты кубинских вузов (.cu) недоступны из нашей сети (503/сброс соединения, повторно 04.10.2026) — контакты из сторонних каталогов (uniRank, Grupo La Rábida, Wikipedia, Cubadebate); rector@uho.edu.cu не подтверждён
+• Ректор Aniuska Ortiz Pérez — действующая в 2026 г. по поисковой выдаче официальных новостей uho.edu.cu (выпуск 09.07.2026) и Radio Angulo (01.07.2026); страницы не открыты
 • Быстрая проверка космической активности (поиск + nanosats.csv): спутников не обнаружено
-• Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем","• Https://www.grupolarabida.org/universidad/universidad-de-holguin-uho-cuba/
-• Https://es.wikipedia.org/wiki/Universidad_de_Holgu%C3%ADn",2026-10-04,
+• Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем
+• Перепроверка: Ректор Aniuska Ortiz Pérez — действующая по выдаче официальных новостей uho.edu.cu и Radio Angulo (07.2026); сайты .cu по-прежнему недоступны — контакты не подтверждены","• Https://www.grupolarabida.org/universidad/universidad-de-holguin-uho-cuba/
+• Https://es.wikipedia.org/wiki/Universidad_de_Holgu%C3%ADn
+• Https://www.radioangulo.cu/2026/07/01/participa-rectora-de-universidad-de-holguin-en-foro-de-educacion-superior-en-brasil/ (snippet)",2026-10-04,
 45,Куба,Гавана,University of Informatics Sciences (UCI),Universidad de las Ciencias Informáticas,Технический / аэрокосмический,Государственный,"• Informatics Engineering
 • Software Engineering
 • Cybersecurity
 • Bioinformatics
 • Telecommunications
-• Digital Media","Carretera a San Antonio de los Baños km 2½, Torrens, Boyeros, La Habana, Cuba",,,,,,https://www.uci.cu,,Rector,,,,0,,,,,,,0,3,,низкая,"• Сайты кубинских вузов (.cu) недоступны из нашей сети (503/сброс соединения) — контакты из сторонних каталогов (uniRank, Grupo La Rábida, Wikipedia, Cubadebate)
-• Ректор по поисковой выдаче с uci.cu — Dr. C. Raydel Montesino Perurena; страница не открылась — не подтверждено
-• E-mail и телефоны не найдены на доступных страницах
+• Digital Media","Carretera a San Antonio de los Baños km 2½, Torrens, Boyeros, La Habana, Cuba",rector@uci.cu,"Dr. C. Raydel Montesino Perurena
+Ректор
+Ректор (по справочнику Grupo La Rábida)
+Обращение: Estimado Dr. Montesino:",,rector@uci.cu,+53 7 837 2548,https://www.uci.cu,Dr. C. Raydel Montesino Perurena,Rector,,,,0,,,,,,,0,3,да,средняя,"• Сайты кубинских вузов (.cu) недоступны из нашей сети (503/сброс соединения) — контакты из сторонних каталогов (uniRank, Grupo La Rábida, Wikipedia, Cubadebate)
 • Быстрая проверка космической активности (поиск + nanosats.csv): спутников не обнаружено
-• Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем",Https://www.unirank.org/cu/uni/universidad-de-las-ciencias-informaticas/,2026-10-04,
+• Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем
+• Сайт uci.cu по-прежнему недоступен (503, 04.10.2026). Ректор Raydel Montesino Perurena подтверждён репортажем Prensa Latina от 28.05.2026 (визит президента Díaz-Canel) и справочником ассоциации Grupo La Rábida
+• E-mail rector@uci.cu и тел. (7) 837 2548 — из справочника Grupo La Rábida (дата обновления не указана); там же муниципалитет указан как La Lisa (а не Boyeros) — уточнить
+• Перепроверка: Ректор подтверждён Prensa Latina (05.2026) и Grupo La Rábida; добавлены rector@uci.cu и телефон из справочника La Rábida; сайт вуза недоступен",Https://www.unirank.org/cu/uni/universidad-de-las-ciencias-informaticas/,2026-10-04,
 46,Куба,Матансас,University of Matanzas,Universidad de Matanzas,Классический,Государственный,"• Engineering
 • Agricultural Sciences
 • Economics & Tourism
@@ -669,7 +690,8 @@
 • Ректор подтверждена Cubadebate (май 2024) — более свежего подтверждения нет
 • Полный почтовый адрес, e-mail и телефоны не найдены на доступных страницах
 • Быстрая проверка космической активности (поиск + nanosats.csv): спутников не обнаружено
-• Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем","• Http://www.cubadebate.cu/noticias/2024/05/10/universidad-de-matanzas-confiere-titulo-de-doctor-honoris-causa-a-esteban-lazo/
+• Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем
+• Перепроверка: 04.10.2026: umcc.cu по-прежнему недоступен (https — нет соединения, http — 503); данные не изменены","• Http://www.cubadebate.cu/noticias/2024/05/10/universidad-de-matanzas-confiere-titulo-de-doctor-honoris-causa-a-esteban-lazo/
 • Https://es.wikipedia.org/wiki/Universidad_de_Matanzas",2026-10-04,
 47,Куба,Сантьяго-де-Куба,University of Oriente,Universidad de Oriente,Классический,Государственный,"• Engineering
 • Natural & Exact Sciences
@@ -680,7 +702,8 @@
 • Ректор Diana Sedal Yanes (назначена в 2017, упоминалась в 2023) — по исп. Википедии; англ. Википедия называет Zaida Valdés Estrada; актуальность на 2025–2026 не подтверждена
 • E-mail и телефоны не найдены на доступных страницах
 • Быстрая проверка космической активности (поиск + nanosats.csv): спутников не обнаружено
-• Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем","• Https://www.unirank.org/cu/uni/universidad-de-oriente/
+• Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем
+• Перепроверка: Сайты .cu (uo.edu.cu, mes.gob.cu, ecured.cu, cubadebate.cu) по-прежнему недоступны 04.10.2026; данные не изменены","• Https://www.unirank.org/cu/uni/universidad-de-oriente/
 • Https://es.wikipedia.org/wiki/Universidad_de_Oriente_(Cuba)
 • Https://adncuba.com/en/noticias-de-cuba/rectora-universidad-de-oriente-un-profesor-debe-estar-comprometido-con-la",2026-10-04,
 48,Куба,Пинар-дель-Рио,"University of Pinar del Río ""Hermanos Saíz Montes de Oca""","Universidad de Pinar del Río ""Hermanos Saíz Montes de Oca""",Классический,Государственный,"• Forestry & Agronomy
@@ -692,7 +715,8 @@
 • Ректор 'Yorki Mayor' по Cubadebate (декабрь 2024); полное имя и учёная степень не указаны
 • E-mail и телефоны не найдены на доступных страницах
 • Быстрая проверка космической активности (поиск + nanosats.csv): спутников не обнаружено
-• Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем","• Https://www.unirank.org/cu/uni/universidad-de-pinar-del-rio-hermanos-saiz-montes-de-oca/
+• Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем
+• Перепроверка: Сайт upr.edu.cu и сайт МВО Кубы (mes.gob.cu) по-прежнему недоступны (04.10.2026); данные не изменены","• Https://www.unirank.org/cu/uni/universidad-de-pinar-del-rio-hermanos-saiz-montes-de-oca/
 • Http://www.cubadebate.cu/noticias/2024/12/28/otorgan-a-abel-prieto-titulo-de-doctor-honoris-causa-por-la-universidad-de-pinar-del-rio/",2026-10-04,
 49,Казахстан,Алматы,Al-Farabi Kazakh National University,Әл-Фараби атындағы Қазақ ұлттық университеті / Казахский национальный университет имени аль-Фараби,Классический,"Государственный (НАО, национальный университет)","• Physics and technology
 • Mathematics and computer science
@@ -857,11 +881,14 @@
 • Agricultural engineering
 • Food technology
 • Economics
-• Land management and geodesy",,,,,,,https://kazatu.edu.kz,Prof. Kanat Tireuov,Chairman of the Management Board – Rector,,THE2027: 2001+,,0,,,,,,,3,3,,низкая,"• Официальный сайт kazatu.edu.kz недоступен из нашей среды (DNS/таймаут) — адрес, e-mail и телефон не проверены, поля оставлены пустыми; по данным поиска: пр. Женис 62, Астана 010000, тел. +7 7172 31 75 47 — требуется проверка
-• Ректор подтверждён только внешними источниками 2025 г. (IOFS, OCA Magazine)
-• Космической активности не найдено (быстрая проверка)","• Https://iofs.org/news/iofs-director-general-visits-saken-seifullin-kazakh-agrotechnical-research-university-to-strengthen-cooperation
+• Land management and geodesy","пр. Женис, 62, Астана 010000, Казахстан (62 Zhenis Ave., Astana 010000, Kazakhstan)",office@kazatu.edu.kz,"ФИО не найдено
+Обращение: Dear Head of the International Office,",,office@kazatu.edu.kz,+7 7172 31 75 47 (приёмная ректора),https://kazatu.edu.kz,Prof. Kanat Maratovich Tireuov,Chairman of the Management Board – Rector,,THE2027: 2001+,,0,,,,,,,3,3,нет,низкая,"• Официальный сайт kazatu.edu.kz недоступен из нашей среды (DNS/502); адрес, e-mail office@kazatu.edu.kz и телефон приёмной ректора +7 7172 31 75 47 взяты из поисковой выдачи по странице kazatu.edu.kz/ru/contacts — перепроверить перед рассылкой
+• Ректор К.М. Тиреуов (Председатель Правления – Ректор НАО) — по выдаче официального сайта и внешним источникам 2025 г. (IOFS, OCA Magazine)
+• Космической активности не найдено (быстрая проверка)
+• Перепроверка: Сайт kazatu.edu.kz по-прежнему недоступен (DNS/502); адрес, office@kazatu.edu.kz, телефон приёмной и ректор К.М. Тиреуов внесены по выдаче официальных страниц (kazatu.edu.kz/ru/contacts), не открытых напрямую","• Https://iofs.org/news/iofs-director-general-visits-saken-seifullin-kazakh-agrotechnical-research-university-to-strengthen-cooperation
 • Https://www.ocamagazine.com/2025/06/26/transforming-saken-seifullin-katru-from-a-research-university-to-a-world-class-institution-in-agriculture/
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv
+• Https://kazatu.edu.kz/ru/contacts (search snippet)",2026-10-04,
 60,Казахстан,Караганда,Abylkas Saginov Karaganda Technical University (Saginov Technical University),Әбілқас Сағынов атындағы Қарағанды техникалық университеті / Карагандинский технический университет имени Абылкаса Сагинова,Технический / аэрокосмический,Государственный (НАО),"• Mining engineering
 • Metallurgy and materials science
 • Energy
@@ -1001,18 +1028,21 @@
 • Https://metu.edu.kz/?page=governance2&lang=ru
 • Https://metu.edu.kz/?page=international_relations&lang=en
 • Nanosats.csv",2026-10-04,
-70,Казахстан,Туркестан,International University of Tourism and Hospitality (IUTH),Халықаралық туризм және меймандостық университеті / Международный университет туризма и гостеприимства,Другое,Государственный (НАО) — не проверено,"• Tourism and hospitality management
+70,Казахстан,Туркестан,International University of Tourism and Hospitality (IUTH),Халықаралық туризм және меймандостық университеті / Международный университет туризма и гостеприимства,Другое,Государственный (некоммерческое акционерное общество с единственным акционером; в совете директоров — представители Минтуризма и спорта и Минфина РК),"• Tourism and hospitality management
 • Hotel and restaurant business
 • Tourist destination management
 • Excursion services
 • Sports and fitness","14A Rabiga Sultan Begim Street, Turkestan, Republic of Kazakhstan",a.dilmuratkyzy@iuth.edu.kz,"Asel Dilmuratkyzy
 Руководитель отдела международного сотрудничества
 Отдел международного сотрудничества
-Обращение: Dear Ms. Dilmuratkyzy,",a.dilmuratkyzy@iuth.edu.kz,kense@iuth.edu.kz,,https://iuth.edu.kz,,Rector,,THE2027: Reporter (unranked),,0,,,,,,,0,3,да,низкая,"• Профиль — туризм и гостеприимство; космической активности не найдено (быстрая проверка) — низкий приоритет для спутникового проекта
-• ФИО ректора на странице руководства не указано (только вице-ректоры); телефон на сайте не найден
-• Вице-ректор по социальному развитию и международному сотрудничеству — Bekezhan Myrzayev (b.myrzaev@iuth.edu.kz)
-• Форма собственности не проверена","• Https://iuth.edu.kz/
+Обращение: Dear Ms. Dilmuratkyzy,",a.dilmuratkyzy@iuth.edu.kz,kense@iuth.edu.kz,,https://iuth.edu.kz,,Rector,,THE2027: Reporter (unranked),,0,,,,,,,0,3,да,средняя,"• Профиль — туризм и гостеприимство; космической активности не найдено (быстрая проверка) — низкий приоритет для спутникового проекта
+• ФИО ректора на странице «Басшылық» по-прежнему не указано (только вице-ректоры Л.И. Шалабаева и Б.К. Мырзаев); телефон на сайте не найден
+• Адрес (Туркестан, ул. Рабиги Султан Бегим 14А) и kense@iuth.edu.kz подтверждены на официальном сайте; руководитель отдела международного сотрудничества Әсел Дильмуратқызы (каб. 114, a.dilmuratkyzy@iuth.edu.kz) подтверждена на странице отдела
+• Вице-ректор по социальному развитию и международному сотрудничеству — Мырзаев Бекежан Кожабекович (b.myrzaev@iuth.edu.kz)
+• Форма собственности: НАО (КЕАҚ) с единственным акционером, совет директоров с госпредставителями (страница «Директорлар кеңесі», назначения 2025–2026)
+• Перепроверка: 04.10.2026: адрес, общий e-mail и контакт международного отдела подтверждены на сайте; уточнена форма собственности (НАО); ректор на сайте не назван","• Https://iuth.edu.kz/
 • Https://iuth.edu.kz/basshylyk/
+• Https://iuth.edu.kz/direktorlar-kenesi/
 • Https://iuth.edu.kz/halyqaraly-yntymaktastyk-bolimi/
 • Nanosats.csv",2026-10-04,
 71,Казахстан,Актобе,K. Zhubanov Aktobe Regional University,Қ. Жұбанов атындағы Ақтөбе өңірлік университеті / Актюбинский региональный университет имени К. Жубанова,Классический,Государственный (НАО),"• Natural sciences
@@ -1141,17 +1171,31 @@
 • Railway engineering
 • Telecommunications
 • Information technology
-• Construction",,,,,,,https://alt.edu.kz,,Rector,,THE2027: Reporter (unranked),,0,,,,,,,0,3,,низкая,"• Официальный сайт alt.edu.kz недоступен (HTTP 503 / сброс соединения), квота веб-поиска исчерпана — контакты, руководство и форма собственности не проверены, поля пустые
-• Профиль (транспорт и связь, бывш. КазАТК) указан по общеизвестным данным — требует проверки
-• В nanosats.csv спутников вуза нет",Nanosats.csv,2026-10-04,
+• Construction","ул. Шевченко, 97, г. Алматы, Казахстан (97 Shevchenko St., Almaty, Kazakhstan)",info@alt.edu.kz,"Сергазин Ғани Құдайбергенұлы (PhD)
+Vice-Rector for Research and International Cooperation
+Rector's office (rector@alt.edu.kz) / general info
+Обращение: Dear Vice-Rector,",,info@alt.edu.kz,+7 707 888 1931,https://alt.edu.kz,"Жармагамбетова Меруерт Советовна (Merueyrt Zharmagambetova), к.т.н., доцент",Председатель Правления – Ректор (Chair of the Management Board – Rector),,THE2027: Reporter (unranked),,0,,,,,,,0,3,да,высокая,"• Руководство (страница «Руководство»): Председатель Правления – Ректор Жармагамбетова Меруерт Советовна, e-mail rector@alt.edu.kz; проректор по науке и международному сотрудничеству — Сергазин Ғани Құдайбергенұлы, на сайте при нём указан e-mail g.balbayev@alt.edu.kz (несоответствие фамилии — перед использованием уточнить)
+• Должность директора Департамента международного сотрудничества была вакантной (объявление от 21.05.2026) — отдельный международный e-mail не найден
+• Форма собственности не проверена (руководство через Правление — вероятно, акционерное общество)
+• Профиль — транспорт и связь (бывш. КазАТК), подтверждается структурой школ (инженерия, технологии, логистика и бизнес); 95-летие вуза в 2026 г
+• В nanosats.csv спутников вуза нет
+• Перепроверка: Сайт alt.edu.kz открыт 04.10.2026: ректор (Жармагамбетова М.С., rector@alt.edu.kz), проректор по науке и международному сотрудничеству, адрес, телефон и info@ подтверждены на официальных страницах (новости от 01–02.10.2026)","• Https://alt.edu.kz/ru/rukovodstvo/
+• Https://alt.edu.kz/ru/
+• Https://alt.edu.kz/ru/vakansiya/direktor-departamenta-mezhdunarodnogo-sotrudnichestva/
+• Nanosats.csv",2026-10-04,
 81,Казахстан,Алматы,Narxoz University,Нархоз Университеті / Университет Нархоз,Другое,,"• Economics and management
 • Finance
 • Law and public administration
 • Digital technologies
-• Humanities","55 Zhandosov Street, Almaty 050035, Republic of Kazakhstan",,,,,,https://narxoz.edu.kz,Kanat Kozhakhmet,Rector (since 2024),,THE2027: Reporter (unranked),,0,,,,,,,0,3,,низкая,"• Бизнес-университет; космической активности не найдено (быстрая проверка) — низкий приоритет
-• Сайт — SPA, контакты (e-mail, телефоны, International Office) подгружаются динамически и не извлечены; данные о ректоре и адресе взяты из кода сайта
-• Форма собственности не проверена","• Https://narxoz.edu.kz/
-• Https://narxoz.edu.kz/assets/index-C-Pmxz2y.js
+• Humanities","55 Zhandosov Street, Almaty 050035, Republic of Kazakhstan",global@narxoz.kz,"ФИО не найдено
+International Office (global@narxoz.kz)
+Обращение: Dear Head of the International Office,",global@narxoz.kz,narxoz@narxoz.kz,+7 727 377 11 11 (student service centre); International: +7 727 377 12 97,https://narxoz.edu.kz,Kanat Kozhakhmet,Rector (since 2024),,THE2027: Reporter (unranked),,0,,,,,,,0,3,да,средняя,"• Бизнес-университет; космической активности не найдено (быстрая проверка) — низкий приоритет
+• Контакты подтверждены через официальный API сайта (страница «Контакты», 04.10.2026): общий narxoz@narxoz.kz, адрес ул. Жандосова, 55, Алматы 050035; International — global@narxoz.kz, +7 727 377 12 97; пресс-служба Pr@narxoz.kz
+• Ректор Канат Кожахмет — по коду сайта; поиск по сайту находит его упоминания в новостях 06–08.2026, но страницы руководства в API нет — должность/текст новостей не открыты
+• Форма собственности не проверена (на сайте упоминается НАО «Университет Нархоз» с Советом директоров)
+• Перепроверка: Общий и международный e-mail, телефоны и адрес подтверждены через официальный API сайта 04.10.2026; ректор — по коду сайта и новостям 2026 г","• Https://narxoz.edu.kz/
+• Https://narxoz.edu.kz/contacts (API: https://narxoz.edu.kz/api/v1/pages/contacts/)
+• Https://narxoz.edu.kz/api/v1/search/?q=Кожахмет
 • Nanosats.csv",2026-10-04,
 82,Казахстан,Рудный,Rudny Industrial University,Рудный индустриялық университеті / Рудненский индустриальный университет,Технический / аэрокосмический,Государственный (НАО),"• Mining and metallurgy
 • Process and materials engineering
@@ -1247,7 +1291,8 @@
 Обращение: Dear Head of the International Office,",,press@yu.edu.kz,,https://yu.edu.kz,,,,THE2027: Reporter (unranked),,0,,,,,,,0,3,да,низкая,"• Сайт рендерит контакты и руководство динамически — ФИО первого руководителя, адрес и телефон не извлечены; press@yu.edu.kz — пресс-служба (иного e-mail не найдено)
 • В вузе модель с вице-президентами: с 14.08.2026 исполнительный вице-президент — Ermek Nurmaganbet, вице-президент по исследованиям — Samal Syrlybekkyzy, по академической работе — Kairbek Makulov
 • По сообщению сайта, вуз впервые вошёл в QS World University Rankings 2026 (позиция не проверена); QS2027 не проверен
-• Космической активности не найдено (быстрая проверка); есть технопарк и Fab Node","• Https://yu.edu.kz/
+• Космической активности не найдено (быстрая проверка); есть технопарк и Fab Node
+• Перепроверка: Сайт yu.edu.kz открыт 04.10.2026, но страница контактов — шаблон-заглушка без телефонов/e-mail, поиск по WP API имени первого руководителя не дал; данные не изменены","• Https://yu.edu.kz/
 • Https://tolqyn.yu.edu.kz/2026/09/29/yessenov-university-basshylyq-quramynda-zhanga-taghajyndaular-zhuezege-asyryldy/
 • Nanosats.csv",2026-10-04,
 89,Малайзия,Шах-Алам,Universiti Teknologi MARA (UiTM),Universiti Teknologi MARA,Классический,Государственный,"• Engineering
@@ -1515,7 +1560,8 @@ UTM International (Управление международного сотру�
 • Https://www.lincoln.edu.my/contact-us/
 • Https://www.easyuni.com/advice/qs-world-university-rankings-2027-malaysia-3475/",2026-10-04,
 108,Малайзия,,MAHSA University,MAHSA University,Другое,,,,,,,,,https://mahsa.edu.my,,,,THE2027: 801–1000,,0,,,,,,,6,3,,низкая,"• Официальный сайт mahsa.edu.my блокирует доступ (HTTP 403), веб-поиск исчерпан — контактные данные, руководитель и адрес не проверены; заполнить вручную
-• В рейтинге QS2027 не найден; спутников нет (nanosats.csv)","• Https://mahsa.edu.my/ (HTTP 403 — blocked)
+• В рейтинге QS2027 не найден; спутников нет (nanosats.csv)
+• Перепроверка: 04.10.2026: mahsa.edu.my и www.mahsa.edu.my — HTTP 403; поиск не дал официальных данных о руководстве — данные не изменены","• Https://mahsa.edu.my/ (HTTP 403 — blocked)
 • Nanosats.csv",2026-10-04,
 109,Малайзия,Шах-Алам,Management and Science University (MSU),Management and Science University,Классический,Частный,"• Health & Life Sciences
 • Medicine & Pharmacy
@@ -1548,7 +1594,8 @@ UTM International (Управление международного сотру�
 Обращение: Dear Head of the International Office,",imkd@segi.edu.my,infokd@segi.edu.my,+60 3-6145 1777,https://university.segi.edu.my,,Vice-Chancellor,QS2027: 701–710,,,0,,,,,,,6,3,да,низкая,"• Страница руководства (segi.edu.my/our-leadership) закрыта Cloudflare (403) — ФИО ректора не подтверждено. В поисковой выдаче встречаются Datin Prof. Dr. Mariani Md Nor (и.о. Vice-Chancellor) и Prof. CHM Dr. Teh Geok Bee — уточнить перед рассылкой
 • Infokd@segi.edu.my и imkd@segi.edu.my — ящики приёма (местные / иностранные студенты) кампуса Kota Damansara; отдельного ящика международного офиса не найдено
 • Глобальными партнёрствами группы занимается Managing Director (Group Operations, Globalisation and Digitalisation) SEGi University & Colleges
-• Космических проектов в nanosats.csv не найдено","• Https://university.segi.edu.my/
+• Космических проектов в nanosats.csv не найдено
+• Перепроверка: Сайты SEGi (university.segi.edu.my — ошибка TLS, www.segi.edu.my — Cloudflare 403) по-прежнему недоступны; данные не изменены","• Https://university.segi.edu.my/
 • Https://university.segi.edu.my/contact-us/
 • Https://university.segi.edu.my/collaborations-and-partnership/
 • Https://www.easyuni.com/advice/qs-world-university-rankings-2027-malaysia-3475/",2026-10-04,
@@ -1603,8 +1650,13 @@ UTM International (Управление международного сотру�
 • Международные дела курирует DVC (Academic & International) Prof. Ir. Dr. Izham bin Zainal Abidin","• Https://www.uniten.edu.my/about/governance-and-leadership/
 • Https://www.uniten.edu.my/about/contact-us/
 • Https://www.uniten.edu.my/international-office/international-cooperation-ic/",2026-10-04,
-116,Малайзия,,Universiti Tunku Abdul Rahman (UTAR),Universiti Tunku Abdul Rahman,Другое,,,,,,,,,https://www.utar.edu.my,,,QS2027: 801–850,THE2027: 801–1000,,0,,,,,,,6,3,,низкая,"• Официальный сайт utar.edu.my и все поддомены недоступны (сброс соединения / 503), веб-поиск исчерпан — контактные данные, руководитель и адрес не проверены; заполнить вручную
-• Спутников нет (nanosats.csv)","• Https://www.utar.edu.my/ (connection reset / HTTP 503 — blocked)
+116,Малайзия,,Universiti Tunku Abdul Rahman (UTAR),Universiti Tunku Abdul Rahman,Другое,,,"Universiti Tunku Abdul Rahman, Jalan Universiti, Bandar Barat, 31900 Kampar, Perak, Malaysia (Sungai Long Campus: Jalan Sungai Long, Bandar Sungai Long, Cheras, 43000 Kajang, Selangor)",info@utar.edu.my,"Ir. Prof. Dato' Dr. Ewe Hong Tat
+Президент университета
+Общий ящик университета (info@); офис президента — president@utar.edu.my
+Обращение: Dear Prof. Ewe,",,info@utar.edu.my,+60 5 468 8888 (Kampar); +60 3 9086 0288 (Sungai Long); +60 3 9019 8831 (President's Office),https://www.utar.edu.my,Ir. Prof. Dato' Dr. Ewe Hong Tat,President,QS2027: 801–850,THE2027: 801–1000,,0,,,,,,,6,3,да,средняя,"• Сайт utar.edu.my напрямую из нашей сети недоступен (сброс соединения); страницы открыты через r.jina.ai 04.10.2026. Страница «Past & Present Presidents» — «Third President (2019–Present)», но шаблон сайта офиса президента датирован 2019 г. — актуальность на 2026 г. желательно перепроверить
+• Офис президента: president@utar.edu.my, тел. 03-9019 8831. Международные связи: Office of International Affairs (oia.utar.edu.my) и Office of VP (Internationalisation and Academic Development, iad.utar.edu.my) — e-mail и руководитель на открытых страницах не отображаются
+• Спутников нет (nanosats.csv)
+• Перепроверка: Сайт utar.edu.my открыт через reader-сервис 04.10.2026: президент (Ewe Hong Tat, с 2019 г.), адреса кампусов, info@utar.edu.my, president@utar.edu.my и телефоны подтверждены; страницы офиса президента и OIA с © 2019, e-mail OIA не опубликован","• Https://www.utar.edu.my/ (connection reset / HTTP 503 — blocked)
 • Nanosats.csv",2026-10-04,
 117,Малайзия,Сайберджая,University of Cyberjaya (UoC),University of Cyberjaya,Медицинский,Частный,"• Medicine
 • Pharmacy
@@ -1766,7 +1818,8 @@ UTM International (Управление международного сотру�
 • Ректор не подтверждён: в WHED указан Vice-Chancellor Mohamad Afzhan Khan, в поисковой выдаче — Prof. Dr. Vincent Oh Kim Seng; уточнить перед рассылкой
 • Адрес — по WHED (IAU); в поисковой выдаче встречается тел. +60 88-448 344 (не проверено)
 • Космических проектов в nanosats.csv не найдено
-• THE 2027: статус Reporter (без ранга)",Https://whed.net/institutions/IAU-031559,2026-10-04,
+• THE 2027: статус Reporter (без ранга)
+• Перепроверка: Сайт jesselton.edu.my по-прежнему за Cloudflare (403), ACBSP тоже 403; поисковая выдача 04.10.2026 называет VC Prof. Dr. Vincent Oh Kim Seng — не подтверждено; данные не изменены",Https://whed.net/institutions/IAU-031559,2026-10-04,
 129,Малайзия,Бандар-Санвей (Субанг-Джая),Monash University Malaysia,Monash University Malaysia,Классический,Частный (кампус иностранного вуза),"• Medicine & Health Sciences
 • Engineering
 • Information Technology
@@ -1802,7 +1855,8 @@ UTM International (Управление международного сотру�
 • Личный e-mail ректора на странице: datoazimuddin@nbuc.edu.my; в поисковой выдаче — vc@nbuc.edu.my и admin@nbuc.edu.my (не проверены)
 • Ранее назывался International University College of Technology Twintech (Sabah). Основные направления указаны ориентировочно
 • Космических проектов в nanosats.csv не найдено
-• THE 2027: статус Reporter (без ранга)","• Https://sites.google.com/nbuc.edu.my/nbuchea/staff-info
+• THE 2027: статус Reporter (без ранга)
+• Перепроверка: nbuc.edu.my показывает «Bot Verification» — данные не изменены (04.10.2026)","• Https://sites.google.com/nbuc.edu.my/nbuchea/staff-info
 • Https://sites.google.com/nbuc.edu.my/heai/home/directory",2026-10-04,
 132,Малайзия,Куала-Лумпур,Perdana University,Perdana University,Медицинский,Частный,"• Medicine & Health Sciences
 • Applied Science & Technology
@@ -2081,9 +2135,11 @@ SERVICOM (служба общих обращений) университета
 • Engineering
 • Agriculture
 • Law
-• Social Sciences","Delta State University, P.M.B. 1, Abraka, Delta State, Nigeria",,,,,+234 806 856 1884,https://www.delsu.edu.ng,Prof. Samuel Ogheneovo Asagba,Vice-Chancellor,,THE2027: 2001+,,0,,,,,,,3,3,,низкая,"• На сайте не опубликован ни один e-mail; телефон — со страницы Centre for Research and International Programme (CRIP), страница устаревшая (упоминает прежнего ректора)
+• Social Sciences","Delta State University, P.M.B. 1, Abraka, Delta State, Nigeria",,,,,+234 806 856 1884,https://www.delsu.edu.ng,Prof. Samuel Ogheneovo Asagba,Vice-Chancellor,,THE2027: 2001+,,0,,,,,,,3,3,,средняя,"• На сайте не опубликован ни один e-mail; телефон — со страницы Centre for Research and International Programme (CRIP), страница устаревшая (упоминает прежнего ректора)
 • Международные связи — Centre for Research and International Programme (CRIP)
-• Космических проектов не выявлено (nanosats.csv)","• Https://delsu.edu.ng/
+• Космических проектов не выявлено (nanosats.csv)
+• Регистратор: Mrs. Rufina U. Ufiofio (страница Principal Officers)
+• Перепроверка: 04.10.2026: ректор Prof. S. O. Asagba подтверждён на главной и странице Principal Officers; e-mail на сайте по-прежнему не опубликован (страница /contact — 404)","• Https://delsu.edu.ng/
 • Https://delsu.edu.ng/Principal-officers
 • Https://crip.delsu.edu.ng/default.aspx
 • Nanosats.csv",2026-10-04,
@@ -2092,11 +2148,15 @@ SERVICOM (служба общих обращений) университета
 • Agriculture
 • Medicine
 • Law
-• Education & Social Sciences","Ekiti State University, Iworoko Road, P.M.B. 5363, Ado-Ekiti, Ekiti State, Nigeria",,,,,,https://eksu.edu.ng,Prof. Joseph Babatola Ayodele,Vice-Chancellor,,THE2027: 2001+,,0,,,,,,,3,3,,низкая,"• Главная страница eksu.edu.ng за Cloudflare; страница Administration доступна
-• На странице Administration e-mail регистратора закодирован как «registrar@eksu.edu» (вероятно, усечённый registrar@eksu.edu.ng) — не внесён, требует проверки
+• Education & Social Sciences","Ekiti State University, Iworoko Road, P.M.B. 5363, Ado-Ekiti, Ekiti State, Nigeria",registrar@eksu.edu.ng,"Prof. Joseph Babatola Ayodele
+Ректор (Vice-Chancellor)
+Регистратор (Registrar, Mr. Joseph Ife Oluwole)
+Обращение: Dear Prof. Ayodele,",,registrar@eksu.edu.ng,+234 803 855 8350 (Registrar),https://eksu.edu.ng,Prof. Joseph Babatola Ayodele,Vice-Chancellor,,THE2027: 2001+,,0,,,,,,,3,3,да,средняя,"• Главная страница eksu.edu.ng за Cloudflare; страница Administration доступна (дата обновления не указана)
+• E-mail регистратора registrar@eksu.edu.ng взят из ссылки mailto на странице Administration (видимый текст усечён до «registrar@eksu.edu»); регистратор — Mr. Joseph Ife Oluwole (с 10.05.2021)
 • Ректор Prof. Joseph Babatola Ayodele — 9-й ректор, с 20.08.2024
-• Адрес (P.M.B. 5363) — из поисковой выдачи
-• Космических проектов не выявлено (nanosats.csv)","• Https://eksu.edu.ng/administration/
+• Адрес (P.M.B. 5363) — из поисковой выдачи; страница контактов на сайте отсутствует (404). Отдельный офис международных связей не найден
+• Космических проектов не выявлено (nanosats.csv)
+• Перепроверка: Страница Administration повторно открыта 04.10.2026: ректор Prof. J.B. Ayodele (с 20.08.2024) подтверждён; e-mail регистратора декодирован из ссылки mailto — registrar@eksu.edu.ng, добавлен телефон регистратора","• Https://eksu.edu.ng/administration/
 • Https://www.ekitistate.gov.ng/archives/29174
 • Nanosats.csv",2026-10-04,
 151,Нигерия,Ойе-Экити,Federal University Oye-Ekiti,Federal University Oye-Ekiti (FUOYE),Классический,Государственный (федеральный),"• Engineering
@@ -2109,7 +2169,8 @@ SERVICOM (служба общих обращений) университета
 Офис ректора
 Обращение: Dear Prof. Ogunwole,",,vc@fuoye.edu.ng,+234 816 539 6888,https://fuoye.edu.ng,Prof. Joshua Olalekan Ogunwole,Vice-Chancellor,,THE2027: 2001+,,0,,,,,,,3,3,да,низкая,"• Сайт fuoye.edu.ng возвращает 403 — контакты из поисковой выдачи по официальным страницам, требуют проверки
 • Общие адреса по выдаче: info@fuoye.edu.ng, support@fuoye.edu.ng
-• Космических проектов не выявлено (nanosats.csv)","• Https://vc.fuoye.edu.ng/contact/
+• Космических проектов не выявлено (nanosats.csv)
+• Перепроверка: Сайт fuoye.edu.ng (включая vc.fuoye.edu.ng) по-прежнему отдаёт 403/антибот-заглушку; данные не изменены","• Https://vc.fuoye.edu.ng/contact/
 • Https://vc.fuoye.edu.ng/staff/
 • Https://fuoye.edu.ng/ (search snippets)
 • Https://en.wikipedia.org/wiki/Joshua_Olalekan_Ogunwole
@@ -2201,7 +2262,8 @@ SERVICOM (служба общих обращений) университета
 • В выдаче фигурируют общие адреса support@lmu.edu.ng и feedback@lmu.edu.ng (и admissions@) — не подтверждены, в поле не внесены
 • Ректор Prof. Kolawole O. Ajanaku с 01.09.2023 — актуальность на 2026 г. не подтверждена
 • Частный аграрно-ориентированный университет Living Faith Church (как Covenant)
-• Космических проектов не выявлено (nanosats.csv)","• Https://v4.lmu.edu.ng/contactUs.php (search snippet)
+• Космических проектов не выявлено (nanosats.csv)
+• Перепроверка: Сайт lmu.edu.ng по-прежнему недоступен (ошибка TLS / 502 на v4.); ректор Ajanaku подтверждается только выдачей официальной страницы VC — данные не изменены","• Https://v4.lmu.edu.ng/contactUs.php (search snippet)
 • Https://lifestyle.thecable.ng/landmark-university-vice-chancellor/
 • Nanosats.csv",2026-10-04,
 159,Нигерия,Умудике,"Michael Okpara University of Agriculture, Umudike","Michael Okpara University of Agriculture, Umudike (MOUAU)",Аграрный / экологический,Государственный (федеральный),"• Agriculture
@@ -2224,12 +2286,13 @@ SERVICOM (служба общих обращений) университета
 • Law","Nnamdi Azikiwe University, PMB 5025, Awka, Anambra State, Nigeria",info@unizik.edu.ng,"Prof. Ugochukwu Bond-Stanley Anyaehie
 Ректор (Vice-Chancellor)
 Общая канцелярия университета
-Обращение: Dear Prof. Anyaehie,",,info@unizik.edu.ng,,https://unizik.edu.ng,Prof. Ugochukwu Bond-Stanley Anyaehie,Vice-Chancellor,,THE2027: 1401–1600,,0,,,,,,,3,3,да,низкая,"• Сайт переделан: на новой странице контактов нет e-mail; info@unizik.edu.ng и P.M.B. 5025 взяты из поисковой выдачи по старой странице — проверить
+Обращение: Dear Prof. Anyaehie,",,info@unizik.edu.ng,,https://unizik.edu.ng,Prof. Ugochukwu Bond-Stanley Anyaehie,Vice-Chancellor,,THE2027: 1401–1600,,0,,,,,,,3,3,да,высокая,"• Info@unizik.edu.ng подтверждён на текущей официальной странице Contact (адрес защищён Cloudflare-обфускацией); P.M.B. 5025 — из старой страницы (поисковая выдача), на новой указано лишь «Awka, Anambra State»
 • Телефон на сайте выглядит как заглушка (+234 (0)46 800 000) — не использован
-• Ректор Prof. Ugochukwu Anyaehie указан на главной странице (после смены руководства в 2025 г.; уточнить, не и.о. ли)
-• Международный офис не найден; космических проектов не выявлено (nanosats.csv)","• Https://unizik.edu.ng/
+• Ректор Prof. Ugochukwu Anyaehie указан на главной странице в блоке «Office of the Vice-Chancellor» (без пометки «Acting»); проректоры: Prof. Alex C. Asigbo (Academic), Prof. Hilda Osisioma (Administration); регистратор — Chinenye Gloria Okeke
+• Международный офис не найден; космических проектов не выявлено (nanosats.csv)
+• Перепроверка: 04.10.2026: ректор и info@unizik.edu.ng подтверждены на официальном сайте (главная и Contact)","• Https://unizik.edu.ng/
 • Https://unizik.edu.ng/contact
-• Https://unizik.edu.ng/contact-us/ (search snippet)
+• Https://unizik.edu.ng/contact-us/ (search snippet, P.M.B. 5025)
 • Nanosats.csv",2026-10-04,
 161,Нигерия,Аго-Ивойе,Olabisi Onabanjo University,"Olabisi Onabanjo University, Ago-Iwoye (OOU)",Классический,Государственный (штата Огун),"• Natural Sciences
 • Engineering
@@ -2241,7 +2304,8 @@ SERVICOM (служба общих обращений) университета
 Канцелярия регистратора
 Обращение: Dear Head of the International Office,",,registrar@oouagoiwoye.edu.ng,+234 812 497 6035,https://oouagoiwoye.edu.ng,Prof. Ayodeji Agboola,Vice-Chancellor,,THE2027: 1801–2000,,0,,,,,,,3,3,да,низкая,"• Домен oouagoiwoye.edu.ng перенаправляет на портал CCED — официальная главная страница недоступна; контакты из поисковой выдачи, требуют проверки
 • Ректор Prof. Ayodeji Agboola с октября 2022 г. (по данным поиска); регистратор Olufemi Ayodele Ogunwomoju
-• Космических проектов не выявлено (nanosats.csv)","• Https://en.wikipedia.org/wiki/Olabisi_Onabanjo_University
+• Космических проектов не выявлено (nanosats.csv)
+• Перепроверка: Домен oouagoiwoye.edu.ng (все пути) перенаправляет на студенческий портал CCED, portal.oouagoiwoye.edu.ng не содержит контактов и данных о руководстве; данные не изменены","• Https://en.wikipedia.org/wiki/Olabisi_Onabanjo_University
 • Https://en.wikipedia.org/wiki/Ayodeji_Agboola
 • Https://copsun.org/university/olabisi-onabanjo-university-ago-iwoye/
 • Nanosats.csv",2026-10-04,
@@ -2267,9 +2331,11 @@ SERVICOM (служба общих обращений) университета
 • Social Sciences","University of Benin, Ugbowo-Lagos Road, P.M.B. 1154, Benin City, Edo State, Nigeria",registrar@uniben.edu,"ФИО не найдено
 Регистратор
 Канцелярия регистратора
-Обращение: Dear Head of the International Office,",,registrar@uniben.edu,+234 812 818 0042,https://www.uniben.edu,"Prof. Edoba Omoregie, SAN",Vice-Chancellor,,THE2027: 1401–1600,,0,,,,,,,3,3,да,низкая,"• Сайт uniben.edu закрыт Cloudflare (403) — контакты взяты из поисковой выдачи по официальной странице, требуют проверки
-• Ректор Prof. Edoba Omoregie, SAN — 11-й ректор UNIBEN
-• Международный офис не найден; космических проектов не выявлено (nanosats.csv)","• Https://www.uniben.edu/vchancellor.html
+Обращение: Dear Head of the International Office,",,registrar@uniben.edu,+234 812 818 0042,https://www.uniben.edu,"Prof. Edoba Omoregie, SAN",Vice-Chancellor,,THE2027: 1401–1600,,0,,,,,,,3,3,да,средняя,"• Сайт uniben.edu закрыт Cloudflare (403) — контакты (registrar@uniben.edu, телефон) взяты из поисковой выдачи по официальной странице, требуют проверки
+• Ректор Prof. Edoba (Bright) Omoregie, SAN — 11-й ректор UNIBEN; подтверждён списком NUC (там с опечаткой «Adoba»); NUC указывает домен uniben.edu.ng
+• Международный офис не найден; космических проектов не выявлено (nanosats.csv)
+• Перепроверка: 04.10.2026: ректор (VC) Prof. Edoba Bright Omoregie подтверждён в официальном списке федеральных вузов NUC; сайт uniben.edu по-прежнему закрыт Cloudflare (403) — e-mail и телефон не подтверждены","• Https://www.nuc.edu.ng/nigerian-univerisities/federal-univeristies/
+• Https://www.uniben.edu/vchancellor.html
 • Https://uniben.edu/contact.html (search snippets)
 • Https://en.wikipedia.org/wiki/Edoba_Omoregie
 • Nanosats.csv",2026-10-04,
@@ -2317,10 +2383,12 @@ SERVICOM (служба общих обращений) университета
 • Medicine & Health Sciences
 • Veterinary Medicine
 • Natural Sciences
-• Social Sciences","University of Maiduguri, Maiduguri, Borno State, Nigeria",,,,,,https://unimaid.edu.ng,Prof. Mohammed Laminu Mele,Vice-Chancellor,,THE2027: 1401–1600,,0,,,,,,,3,3,,низкая,"• На сайте не опубликованы e-mail; телефон на главной — заглушка (+234 80 123 1234); страница контактов пустая
+• Social Sciences","University of Maiduguri, Maiduguri, Borno State, Nigeria",,,,,,https://unimaid.edu.ng,Prof. Mohammed Laminu Mele,Vice-Chancellor,,THE2027: 1401–1600,,0,,,,,,,3,3,,низкая,"• Повторная проверка 04.10.2026: на сайте по-прежнему не опубликованы e-mail; телефон в шапке — заглушка (+234 80 123 1234 / 1 800 123 4567); страница contact.php пустая
+• ВК проф. Mohammed Laminu Mele указан на главной и на странице Principal Officers (в должности с 18.09.2024 — по Wikipedia)
 • Нужен иной канал связи (напр., через посольство/NUC)
 • Северо-восток Нигерии (Борно) — регион с проблемами безопасности
-• Космических проектов не выявлено (nanosats.csv)","• Https://unimaid.edu.ng/
+• Космических проектов не выявлено (nanosats.csv)
+• Перепроверка: ВК подтверждён на сайте; контактов на сайте по-прежнему нет (заглушки) — данные не изменены","• Https://unimaid.edu.ng/
 • Https://unimaid.edu.ng/Principal_Officers.php
 • Nanosats.csv",2026-10-04,
 168,Нигерия,Порт-Харкорт,University of Port Harcourt,University of Port Harcourt (UNIPORT),Классический,Государственный (федеральный),"• Petroleum & Energy Engineering
@@ -2341,8 +2409,10 @@ SERVICOM (служба общих обращений) университета
 • Agriculture
 • Medicine & Health Sciences
 • Law
-• Social Sciences","Abia State University, Uturu, Abia State, Nigeria",,,,,+234 901 800 3421,https://abiastateuniversity.edu.ng,Prof. Ndukwe Okeudo,Vice-Chancellor,,THE2027: THE2027 Reporter (unranked),,0,,,,,,,0,3,,низкая,"• Сайт — SPA; данные извлечены из кода сайта; официальный e-mail не опубликован (в коде указан только support@absu.com — не домен вуза, не использован)
-• Международный офис не найден; космических проектов не выявлено (nanosats.csv)","• Https://abiastateuniversity.edu.ng/ (site code)
+• Social Sciences","Abia State University, Uturu, Abia State, Nigeria",,,,,+234 901 800 3421,https://abiastateuniversity.edu.ng,Prof. Ndukwe Okeudo,Vice-Chancellor,,THE2027: THE2027 Reporter (unranked),,0,,,,,,,0,3,,средняя,"• Сайт — SPA; данные извлечены из кода сайта; официальный e-mail не опубликован (в коде указан только support@absu.com — не домен вуза, не использован)
+• Международный офис не найден; космических проектов не выявлено (nanosats.csv)
+• Повторная проверка 04.10.2026: в текущей версии официального сайта (SPA) по-прежнему VC — Prof. Ndukwe Okeudo, тел. +234 901 800 3421; домены absu.edu.ng/portal.absu.edu.ng недоступны; e-mail с доменом вуза не найден
+• Перепроверка: Ректор и телефон подтверждены в текущей версии официального сайта 04.10.2026; официального e-mail по-прежнему нет","• Https://abiastateuniversity.edu.ng/ (site code)
 • Nanosats.csv",2026-10-04,
 170,Нигерия,Баучи,Abubakar Tafawa Balewa University,"Abubakar Tafawa Balewa University, Bauchi (ATBU)",Технический / аэрокосмический,Государственный (федеральный),"• Engineering & Engineering Technology
 • Physical Sciences
@@ -2397,7 +2467,8 @@ SERVICOM (служба общих обращений) университета
 Обращение: Dear Prof. Oduwole,",,vc@acu.edu.ng,+234 807 114 2017,https://acu.edu.ng,Prof. Ebunoluwa Olufemi Oduwole,Vice-Chancellor,,THE2027: THE2027 Reporter (unranked),,0,,,,,,,0,3,да,низкая,"• Сайт acu.edu.ng закрыт Cloudflare — контакты взяты из поисковой выдачи по официальным страницам, требуют проверки
 • Prof. Ebunoluwa Oduwole — первая женщина-ректор ACU (назначена в 2025 г.)
 • Частный англиканский университет; международный офис не найден
-• Космических проектов не выявлено (nanosats.csv)","• Https://acu.edu.ng/the-vice-chancellor/
+• Космических проектов не выявлено (nanosats.csv)
+• Перепроверка: acu.edu.ng (включая /contact) закрыт Cloudflare 403 — данные не изменены (04.10.2026)","• Https://acu.edu.ng/the-vice-chancellor/
 • Https://acu.edu.ng/contact-ajayi-crowther-university-oyo/
 • Https://acu.edu.ng/principal-officers-ajayi-crowther-university-oyo/ (search snippets)
 • Nanosats.csv",2026-10-04,
@@ -2433,12 +2504,14 @@ SERVICOM (служба общих обращений) университета
 • Management & Social Sciences
 • Science & Information Technology
 • Engineering","Aletheia University, Major General Sansadeen Awosanya Way, Ago-Iwoye, Ogun State, Nigeria",,,,,,https://aua.edu.ng,Prof. Olukayode Dewumi Akinyemi,Vice-Chancellor,,THE2027: THE2027 Reporter (unranked),,0,,,,,,,0,3,,низкая,"• Новый частный университет (лицензия 2023, открыт 20.01.2024); основатель/канцлер — генерал-майор в отставке Dr. S. A. Awosanya
-• Официальный сайт недоступен (502), домен aua.edu.ng не подтверждён; e-mail и телефон не найдены (в агрегаторах — номера посредников «по продаже форм», не использованы)
-• Имя ректора — только из поисковой выдачи, не подтверждено
-• Космических проектов нет; приоритет для рассылки низкий","• Https://www.citypeopleonline.com/aletheia-university-takes-off-in-ago-iwoye/
+• Официальный сайт недоступен (домен aua.edu.ng не резолвится / 502), домен не подтверждён; e-mail и телефон не найдены (в агрегаторах — номера посредников «по продаже форм», не использованы)
+• Имя ректора не подтверждено: Prof. Olukayode Dewumi Akinyemi — только из поисковой выдачи (MySchoolGist, 2026); в июне 2024 г. Vice-Chancellor — Prof. Amos Onasanya (Edugist, 18.06.2024) — возможна смена, перепроверить
+• Космических проектов нет; приоритет для рассылки низкий
+• Перепроверка: Сайт aua.edu.ng не резолвится (DNS/502); ректор не подтверждён: в 2024 г. VC был Prof. Amos Onasanya (Edugist, 18.06.2024), Akinyemi — только по сниппету 2026 г","• Https://www.citypeopleonline.com/aletheia-university-takes-off-in-ago-iwoye/
 • Https://thecccworldwide.org/2023/12/alethia-university-berths-at-ago-iwoye-ogun-state/
 • Https://myschoolgist.com/news/aletheia-university-jupeb-approval-188161/ (search snippet)
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv
+• Https://edugist.org/avoid-destructive-vices-focus-on-your-future-aletheia-university-vc-advises-matriculating-students/",2026-10-04,
 177,Нигерия,Экпома,Ambrose Alli University,"Ambrose Alli University, Ekpoma (AAU)",Классический,Государственный (штата Эдо),"• Natural Sciences
 • Engineering & Environmental Studies
 • Medicine & Health Sciences
@@ -2479,15 +2552,18 @@ SERVICOM (служба общих обращений) университета
 • Satellite engineering
 • Information Technology
 • Medicine
-• Business Administration","140 Cheum-Sampan Road, Krathum Rai, Nong Chok, Bangkok 10530, Thailand",inter@mut.ac.th,"ФИО не найдено
+• Business Administration","140 Cheum-Sampan Road, Krathum Rai, Nong Chok, Bangkok 10530, Thailand",inter@mut.ac.th,"Assoc. Prof. Dr. Panavy Pookaiyaudom
+President
 Международный колледж (Mahanakorn University of Technology International College, MUTIC)
-Обращение: Dear Head of the International Office,",inter@mut.ac.th,,+66 61 223 2344,https://www.mut.ac.th,Prof. Panavy Pookaiyaudom,President,,,,1,TMSAT / Thai Paht-1 (1998),,Satellite ground station at Nong Chok campus (controlled TMSAT),Satellite engineering research centre (Nong Chok campus),University of Surrey / SSTL (TMSAT built at Surrey by MUT engineers),,65,1A,да,низкая,"• Основной сайт www.mut.ac.th недоступен (ошибка TLS / HTTP 503); контакты взяты с сайта международного колледжа MUTIC (inter.mut.ac.th) — inter@mut.ac.th и тел. +66 61 223 2344 относятся к международному колледжу
-• Президент проф. Панави Пукайяудом подтверждён только источником от октября 2024 (визит в Chongqing Jiaotong University); Википедия называет другое имя (Sujate Jantarang) — перепроверить перед отправкой
-• Исторически первый тайский вуз со своим микроспутником TMSAT (Thai Paht-1, 1998), построенным инженерами MUT в Университете Суррея; данные о TMSAT из Википедии, официальную страницу открыть не удалось
-• Частный университет","• Https://en.wikipedia.org/wiki/Mahanakorn_University_of_Technology
-• Https://inter.mut.ac.th/privacy-policy/
-• Https://inter.mut.ac.th/about-us/
-• Https://www.cqjtu.edu.cn/info/1178/1851.htm",2026-10-04,
+Обращение: Dear Head of the International Office,",inter@mut.ac.th,,+66 2 988 3650 (ext. 1105–1107),https://mut.ac.th,Assoc. Prof. Dr. Panavy Pookaiyaudom (รศ. ดร.ภานวีย์ โภไคยอุดม),President (อธิการบดี),,,,1,TMSAT / Thai Paht-1 (1998),,Satellite ground station at Nong Chok campus (controlled TMSAT),Satellite engineering research centre (Nong Chok campus),University of Surrey / SSTL (TMSAT built at Surrey by MUT engineers),,65,1A,да,средняя,"• Сайт mut.ac.th открывается (неполная цепочка сертификата устранена загрузкой промежуточного сертификата Sectigo); на странице «Руководство» (staff-manager, сайт 2025–2026) президент — доц. д-р Панави Пукайяудом; Sujate Jantarang — теперь советник президента
+• Телефон и адрес — со страницы «Контакты» mut.ac.th (общий номер, доб. 1105–1107 — отдел по связям с общественностью); общего e-mail на сайте нет
+• Inter@mut.ac.th — ящик международного колледжа MUTIC из прежней проверки; новый сайт inter.mut.ac.th (2026) e-mail не показывает — перепроверить
+• Исторически первый тайский вуз со своим микроспутником TMSAT (Thai Paht-1, 1998), построенным инженерами MUT в Университете Суррея; данные о TMSAT из Википедии
+• Частный университет
+• Перепроверка: Президент (доц. д-р Панави Пукайяудом), адрес и телефон подтверждены на сайте mut.ac.th 04.10.2026; e-mail MUTIC не подтверждён","• Https://mut.ac.th/staff-manager/
+• Https://mut.ac.th/contact-us/
+• Https://en.wikipedia.org/wiki/Mahanakorn_University_of_Technology
+• Https://inter.mut.ac.th/privacy-policy/",2026-10-04,
 180,Таиланд,Бангкок,King Mongkut's Institute of Technology Ladkrabang (KMITL),สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง,Технический / аэрокосмический,Государственный (автономный),"• Engineering
 • Architecture
 • Industrial Education
@@ -2534,9 +2610,10 @@ SERVICOM (служба общих обращений) университета
 • Remote sensing
 • Geo-informatics
 • Satellite operations
-• Space economy","120 The Government Complex, Ratthaprasasanabhakti Building, 6th–7th Floor, Chaeng Watthana Road, Lak Si, Bangkok 10210, Thailand",saraban@gistda.or.th,"ФИО не найдено
+• Space economy","120 Government Complex Commemorating His Majesty the King's 80th Birthday Anniversary, Ratthaprasasanabhakti Building, 6th–7th Floors, Chaeng Watthana Road, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",siriluk@gistda.or.th,"Dr. Pakorn Apaphant
+Executive Director (ceo@gistda.or.th, +66 2 141 4450)
 Отдел делопроизводства / официальной корреспонденции (Saraban)
-Обращение: Dear Head of the International Office,",,saraban@gistda.or.th,+66 2 141 4444,https://www.gistda.or.th,Dr. Pakorn Apaphant,Executive Director,,,,0,,"• THEOS-3 (Thai-designed EO satellite, high local content)
+Обращение: Dear Dr. Apaphant,",siriluk@gistda.or.th,saraban@gistda.or.th,+66 2 141 4444,https://www.gistda.or.th,Dr. Pakorn Apaphant,Executive Director,,,,0,,"• THEOS-3 (Thai-designed EO satellite, high local content)
 • THEOS-2A (co-developed small EO satellite, lost in PSLV-C62 launch failure 12 Jan 2026)","THEOS Control & Receiving Station, Si Racha (Chonburi)","• Satellite operations and space technology development units
 • Thailand Spaceport initiative
 • Space Krenovation Park (Chonburi)","• Airbus (THEOS-2)
@@ -2545,13 +2622,16 @@ SERVICOM (служба общих обращений) университета
 • Royal Thai Navy (maritime spatial data)
 • TIME Labs, Mahidol University (space supply chain roadmap)
 • KMITL Space Hub
-• GalaxySpace (China) — GISTDA CubeSat-1 / Lingzhi-09, launched 25 Aug 2026 with ground system and capacity building",,45,1B,да,низкая,"• Официальный сайт gistda.or.th был недоступен (HTTP 503 / ошибка TLS); адрес, телефон и e-mail saraban@gistda.or.th взяты из поисковой выдачи по странице контактов GISTDA — перед рассылкой перепроверить
+• GalaxySpace (China) — GISTDA CubeSat-1 / Lingzhi-09, launched 25 Aug 2026 with ground system and capacity building",,45,1B,да,высокая,"• Официальный сайт открывается только по http:// (у https ошибка сертификата); адрес, телефоны 0-2141-4444/4468 и saraban@gistda.or.th подтверждены в подвале главной страницы (новости сентября 2026)
+• Исполнительный директор Pakorn Apaphant, Ph.D. — на официальной странице «Executive Team»: тел. +66 2 141 4450, ceo@gistda.or.th
+• Email_international — заместитель исполнительного директора по стратегическим альянсам (Strategic Alliance Engagement) Siriluk Prukpitikul, Ph.D., тел. +66 2 141 4665; отдельного ящика международного отдела нет
 • GISTDA — национальное космическое агентство Таиланда: владеет и эксплуатирует THEOS (2008) и THEOS-2 (2023), но оба построены Airbus/EADS, поэтому в satellites_launched не засчитаны
 • THEOS-2A (совместная разработка) потерян при аварии PSLV-C62 12.01.2026; THEOS-3 разрабатывается тайскими инженерами
-• Директор д-р Пакорн Апапхан (ปกรณ์ อาภาพันธุ์) упомянут в новости от 4.09.2026
-• 25.08.2026 на Long March-6C выведен GISTDA CubeSat-1 (Lingzhi-09), разработанный китайской GalaxySpace для GISTDA (с наземным сегментом и обучением тайской команды) — не засчитан как собственная разработка; спутник предназначен в т.ч. для обучения студентов тайских вузов","• Https://en.wikipedia.org/wiki/Geo-Informatics_and_Space_Technology_Development_Agency
+• 25.08.2026 на Long March-6C выведен GISTDA CubeSat-1 (Lingzhi-09), разработанный китайской GalaxySpace для GISTDA — не засчитан как собственная разработка
+• Перепроверка: Сайт открыт по http 04.10.2026: директор, адрес, телефон и e-mail подтверждены на официальных страницах; добавлены ceo@ и ящик зам. директора по стратегическим альянсам","• Http://www.gistda.or.th/
+• Http://www.gistda.or.th/about/organizational-structure-gistda-board-structure-gistda-executive-team/
+• Https://en.wikipedia.org/wiki/Geo-Informatics_and_Space_Technology_Development_Agency
 • Https://thestandard.co/thailand-space-market-theos3-law/
-• Https://www.gistda.or.th/news_view_new.php?n_id=9176
 • Https://www.mreport.co.th/news/industry-movement/316-kmitl-launches-space-hub-chumporn
 • Https://equalocean.com/news/2026082622141-galaxyspace-completes-first-whole-satellite-delivery-southeast-asia-thai-cubesat",2026-10-04,
 183,Таиланд,Накхонпатхом (Салая),Mahidol University,มหาวิทยาลัยมหิดล,Классический,Государственный (автономный),"• Medicine and Health Sciences
@@ -2842,13 +2922,16 @@ SERVICOM (служба общих обращений) университета
 • Engineering
 • Science
 • Humanities and Social Sciences
-• Fine Arts","Sukhumvit 23 Road, Khlong Toei Nuea, Watthana, Bangkok 10110, Thailand",ird@g.swu.ac.th,"Asst. Prof. Dr. Prapaporn Rojsiriruch
+• Fine Arts","114 Sukhumvit 23, Watthana, Bangkok 10110, Thailand",ird@g.swu.ac.th,"Asst. Prof. Dr. Prapaporn Rojsiriruch
 И.о. проректора по международным связям и коммуникациям
 Управление международных связей (International Relations Division)
-Обращение: Dear Asst. Prof. Dr. Prapaporn,",ird@g.swu.ac.th,,+66 2 260 1012,https://www.swu.ac.th,,President,,THE2027: 1801–2000,,0,,,,,,,3,3,да,низкая,"• Сайт swu.ac.th закрыт защитой Cloudflare (403) — официальные страницы открыть не удалось; квота веб-поиска исчерпана
-• Президент не подтверждён источником 2025–2026 (Википедия называет проф. д-ра Чолвита Джиараджита) — перед отправкой проверить
-• Международный контакт (ird@g.swu.ac.th, тел. +66 2 260 1012) и и.о. проректора по международным связям и коммуникациям доц. Прапапорн Роджсирируч — по списку ASEA-UNINET (дата страницы не указана)
-• Космическая проверка не проведена (квота поиска исчерпана); в nanosats.csv вуз не найден","• Https://asea-uninet.org/network-members/member-universities/thai-universities/
+Обращение: Dear Asst. Prof. Dr. Prapaporn,",ird@g.swu.ac.th,contact@g.swu.ac.th,"+66 2 649 5000 (International Relations & Corporate Communication: ext. 15640, 15642, 15666)",https://www.swu.ac.th,Prof. Dr. Chonlawit Jiaratjit (ศาสตราจารย์ ดร.ชลวิทย์ เจียรจิตต์),President (อธิการบดี),,THE2027: 1801–2000,,0,,,,,,,3,3,да,средняя,"• Основной сайт swu.ac.th закрыт Cloudflare (403), но сайт Офиса президента op.swu.ac.th доступен (2026): президент — проф. д-р Чолвит Джиаратджит, адрес, общий e-mail contact@g.swu.ac.th и телефон подтверждены
+• Отдел международных связей и корпоративных коммуникаций (ส่วนวิเทศสัมพันธ์และสื่อสารองค์กร): доб. 15640/15642/15666, факс +66 2 260 3637 (op.swu.ac.th/contact); прежний номер +66 2 260 1012 не подтверждён и заменён
+• Международный ящик ird@g.swu.ac.th и и.о. проректора по межд. связям доц. Прапапорн Роджсирируч — по списку ASEA-UNINET (дата не указана), на официальных страницах не подтверждены
+• Космическая проверка не проведена (квота поиска исчерпана); в nanosats.csv вуз не найден
+• Перепроверка: Президент, адрес, contact@g.swu.ac.th и телефон подтверждены на op.swu.ac.th 04.10.2026; адресат в межд. отделе не подтверждён","• Https://op.swu.ac.th/
+• Https://op.swu.ac.th/contact
+• Https://asea-uninet.org/network-members/member-universities/thai-universities/
 • Https://en.wikipedia.org/wiki/Srinakharinwirot_University",2026-10-04,
 202,Таиланд,Убонратчатхани (Варинчамрап),Ubon Ratchathani University (UBU),มหาวิทยาลัยอุบลราชธานี,Классический,Государственный,"• Agriculture
 • Engineering
@@ -2896,13 +2979,17 @@ SERVICOM (служба общих обращений) университета
 • Environment and Resources
 • Computer Science and AI
 • Management
-• Development Studies","58 Moo 9, Km. 42, Paholyothin Highway, Klong Luang, Pathum Thani 12120, Thailand",,,,,,https://www.ait.ac.th,Prof. Pai-Chi Li,President,,,,0,,,,,,,0,3,,низкая,"• Сайт ait.ac.th закрыт Cloudflare (403) — контакты не проверены
-• Адрес по базе WHED (IAU); президент проф. Pai-Chi Li подтверждён публикацией The Nation (май 2026)
+• Development Studies","58 Moo 9, Km. 42, Paholyothin Highway, Klong Luang, Pathum Thani 12120, Thailand",oia@ait.ac.th,"ФИО не найдено
+Office of International Affairs (OIA), AIT
+Обращение: Dear Head of the International Office,",oia@ait.ac.th,,+66 2 524 5010,https://www.ait.ac.th,Prof. Pai-Chi Li,President,,,,0,,,,,,,0,3,да,низкая,"• Сайт ait.ac.th закрыт Cloudflare (403) — oia@ait.ac.th и +66 2 524 5010 взяты из поисковой выдачи по странице ait.ac.th/contact; перепроверить
+• Адрес по базе WHED (IAU) и выдаче официального сайта (P.O. Box 4); президент проф. Pai-Chi Li подтверждён публикацией The Nation (май 2026)
 • В AIT сильная школа дистанционного зондирования/ГИС — потенциально интересный партнёр
-• Спутников в базе nanosats.csv не найдено","• Https://whed.net/institutions/IAU-014537
+• Спутников в базе nanosats.csv не найдено
+• Перепроверка: Сайт ait.ac.th по-прежнему закрыт Cloudflare (403); e-mail Office of International Affairs oia@ait.ac.th и телефон внесены по выдаче официальной страницы ait.ac.th/contact — не открыта напрямую","• Https://whed.net/institutions/IAU-014537
 • Https://www.nationthailand.com/pr-news/pr-news/40066406
 • Http://campusupdate.ait.asia/
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv
+• Https://ait.ac.th/contact/ (search snippet)",2026-10-04,
 206,Таиланд,Бангкок,Assumption University of Thailand,มหาวิทยาลัยอัสสัมชัญ,Классический,Частный (католический),"• Business Administration
 • Engineering
 • Information Technology
@@ -2957,12 +3044,16 @@ SERVICOM (служба общих обращений) университета
 • Education
 • Liberal Arts
 • Nursing and Health Sciences
-• Management Sciences","62/1 Kasetsomboon Road, Kalasin Sub-district, Mueang District, Kalasin 46000, Thailand (Na Mon campus: 13 Moo 14, Song Plueai, Na Mon, Kalasin 46230)",,,,,+66 43 811 128,https://www.ksu.ac.th,Assoc. Prof. Dr. Suphan Sudson (รศ.ดร.สุพรรณ สุดสนธิ์),President,,,,0,,,,,,,0,3,,низкая,"• E-mail университета/международного отдела на сайте не найден — нужен иной канал (телефон/Facebook)
+• Management Sciences","62/1 Kasetsomboon Road, Kalasin Sub-district, Mueang District, Kalasin 46000, Thailand (Na Mon campus: 13 Moo 14, Song Plueai, Na Mon, Kalasin 46230)",,,,,"+66 43 811 128 (main line, + 4-digit extension; President's Office ext. 3001/3012); +66 43 602 055",https://www.ksu.ac.th,Assoc. Prof. Dr. Suphan Sudson (รศ.ดร.สุพรรณ สุดสนธิ์),President,,,,0,,,,,,,0,3,,средняя,"• E-mail университета/международного отдела на официальных сайтах (th./en.ksu.ac.th) не опубликован — нужен иной канал (телефон/Facebook)
 • Ректор подтверждён новостью сайта от 3.10.2026; латинская транслитерация не подтверждена
-• Есть подразделение «งานวิเทศสัมพันธ์» (международные связи), руководитель не указан
+• Телефоны подтверждены на официальном сайте: общий 043-811-128 + добавочный (канцелярия ректора 3001/3012), EN-сайт указывает +66 43 602 055
+• Есть подразделение «งานวิเทศสัมพันธ์» (международные связи), руководитель и телефон не указаны
 • Спутников в базе nanosats.csv не найдено
-• THE2027: участник в статусе Reporter (без места в рейтинге)","• Https://th.ksu.ac.th/
+• THE2027: участник в статусе Reporter (без места в рейтинге)
+• Перепроверка: 04.10.2026: ректор и телефоны (в т.ч. добавочные канцелярии ректора) подтверждены на официальном сайте; e-mail по-прежнему не опубликован","• Https://th.ksu.ac.th/
 • Https://th.ksu.ac.th/archives/100509
+• Https://en.ksu.ac.th/
+• Https://th.ksu.ac.th/เบอร์โทรศัพท์คณะ-หน่วยง (phone directory)
 • Nanosats.csv",2026-10-04,
 210,Таиланд,Бангкок,Kasem Bundit University,มหาวิทยาลัยเกษมบัณฑิต,Классический,Частный,"• Business Administration
 • Engineering
@@ -3005,7 +3096,8 @@ SERVICOM (служба общих обращений) университета
 • Info@neu.ac.th и телефон взяты с приёмной страницы NEU (idcneu.com) — фактически адрес приёмной комиссии
 • Спутников в базе nanosats.csv не найдено
 • Спутники PROVES-Atlas и THIS-SAT в nanosats.csv принадлежат Northeastern University (США), а не тайскому вузу
-• THE2027: участник в статусе Reporter (без места в рейтинге)","• Https://th.wikipedia.org/wiki/มหาวิทยาลัยภาคตะวันออกเฉียงเหนือ
+• THE2027: участник в статусе Reporter (без места в рейтинге)
+• Перепроверка: Сайт neu.ac.th и поддомены по-прежнему закрыты (403 Cloudflare / 502, в т.ч. WebFetch) на 04.10.2026; ректор не подтверждён; данные не изменены","• Https://th.wikipedia.org/wiki/มหาวิทยาลัยภาคตะวันออกเฉียงเหนือ
 • Https://idcneu.com/edneupr/
 • Nanosats.csv",2026-10-04,
 213,Таиланд,Накхонратчасима,Rajamangala University of Technology Isan,มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน,Технический / аэрокосмический,Государственный,"• Engineering
@@ -3030,11 +3122,12 @@ SERVICOM (служба общих обращений) университета
 • Business Administration
 • Liberal Arts","2 Nang Linchi Road, Thung Maha Mek, Sathon, Bangkok 10120, Thailand",isic_ir@mail.rmutk.ac.th,"ФИО не найдено
 Отдел международных связей Института ISIC
-Обращение: Dear Head of the International Office,",isic_ir@mail.rmutk.ac.th,,,https://www.rmutk.ac.th,,President,,,,0,,,,,,,0,3,да,низкая,"• Основной сайт rmutk.ac.th закрыт защитой Incapsula — контакты университета не проверены
-• Ректор не установлен: по результатам поиска в 2026 г. идёт процедура выбора ректора — уточнить перед рассылкой
+Обращение: Dear Head of the International Office,",isic_ir@mail.rmutk.ac.th,,,https://www.rmutk.ac.th,,President,,,,0,,,,,,,0,3,да,низкая,"• Основной сайт rmutk.ac.th по-прежнему закрыт защитой Incapsula (включая WP API) — контакты университета не проверены
+• Ректор не установлен: по поисковому индексу официальной страницы «อธิการบดีและคณะผู้บริหาร» — รศ.ดร.พิชัย จันทร์มณี (Assoc. Prof. Dr. Pichai Chanmanee, pichai.j@mail.rmutk.ac.th), но с 05.2026 идёт процедура выбора нового ректора (приём заявок 4–10.06.2026, Dailynews 20.05.2026) — уточнить перед рассылкой; поле оставлено пустым
 • Isic_ir@mail.rmutk.ac.th — отдел международных связей Института науки, инноваций и культуры (ISIC), а не всего университета
 • Спутников в базе nanosats.csv не найдено
-• THE2027: участник в статусе Reporter (без места в рейтинге)","• Https://isic.rmutk.ac.th/contact/
+• THE2027: участник в статусе Reporter (без места в рейтинге)
+• Перепроверка: Сайт закрыт Incapsula; руководитель не подтверждён (идёт выбор ректора 2026), данные не изменены","• Https://isic.rmutk.ac.th/contact/
 • Https://admission.rmutk.ac.th/
 • Nanosats.csv",2026-10-04,
 215,Таиланд,Чиангмай,Rajamangala University of Technology Lanna,มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา,Технический / аэрокосмический,Государственный,"• Engineering
@@ -3076,7 +3169,7 @@ SERVICOM (служба общих обращений) университета
 • Science","282 Ramkhamhaeng Road, Hua Mak, Bang Kapi, Bangkok 10240, Thailand",vp-intrelations@rumail.ru.ac.th,"Assoc. Prof. Dr. Kritsada Tangchaisak (รศ.ดร.กฤษดา ตั้งชัยศักดิ์)
 Декан Высшей школы, и.о. проректора по международным связям
 Проректор по международным связям (ฝ่ายวิเทศสัมพันธ์)
-Обращение: Dear Assoc. Prof. Dr. Kritsada,",vp-intrelations@rumail.ru.ac.th,president@rumail.ru.ac.th,+66 2 310 8000,https://www.ru.ac.th,Asst. Prof. Wuttisak Lapcharoensap (ผศ.วุฒิศักดิ์ ลาภเจริญทรัพย์),Acting President,,,,0,,,,,,,0,3,нет,средняя,"• Ректор — исполняющий обязанности (รักษาราชการแทนอธิการบดี) после отстранения прежнего ректора; латинская транслитерация имени не подтверждена официальным англ. источником
+Обращение: Dear Assoc. Prof. Dr. Kritsada,",vp-intrelations@rumail.ru.ac.th,president@rumail.ru.ac.th,+66 2 310 8000,https://www.ru.ac.th,Asst. Prof. Wuttisak Lapcharoensap (ผศ.วุฒิศักดิ์ ลาภเจริญทรัพย์),Acting President,,,,0,,,,,,,0,3,да,средняя,"• Ректор — исполняющий обязанности (รักษาราชการแทนอธิการบดี) после отстранения прежнего ректора; латинская транслитерация имени не подтверждена официальным англ. источником
 • Официальный e-mail для документов: saraban@ru.ac.th
 • Проректор по международным связям — и.о., декан Высшей школы (Graduate School)
 • Спутников в базе nanosats.csv не найдено","• Https://www.ru.ac.th/th/
@@ -3354,11 +3447,17 @@ SERVICOM (служба общих обращений) университета
 • Law
 • Health Sciences
 • Engineering & Computing
-• Education","Uganda Christian University, P.O. Box 4, Mukono, Uganda",,,,,,https://ucu.ac.ug,Prof. Aaron Mushengyezi,Vice Chancellor,,,,0,,,,,,,0,3,,низкая,"• Официальный сайт ucu.ac.ug недоступен (ошибка DNS/502 прокси) — контакты не проверены
-• Ректор взят из базы IAU WHED (дата обновления неизвестна); по поиску — в должности с августа 2020
-• По поисковой выдаче: info@ucu.ac.ug, тел. +256 312 350 800 — не подтверждено на открытой странице
-• WHED указывает International Relations Officer: Elizabeth Balyejusa Kizito — актуальность не подтверждена
-• Частный (Англиканская церковь Уганды)",Https://whed.net/institutions/IAU-016984,2026-10-04,
+• Education","Plot 67-173, Mukono Hill, Bishop Tucker Road, P.O. Box 4, Mukono, Uganda",info@ucu.ac.ug,"Prof. Aaron Mushengyezi
+Vice Chancellor
+Общий ящик университета (info); альтернатива — registrar@ucu.ac.ug
+Обращение: Dear Professor Mushengyezi,",,info@ucu.ac.ug,+256 312 350 800,https://ucu.ac.ug,Prof. Aaron Mushengyezi,Vice Chancellor,,,,0,,,,,,,0,3,да,высокая,"• Через curl сайт недоступен (DNS/502 прокси), открыт через WebFetch
+• Отдельный e-mail международного офиса на сайте не найден; WHED указывает International Relations Officer: Elizabeth Balyejusa Kizito — актуальность не подтверждена
+• Частный (Англиканская церковь Уганды)
+• Перепроверка: Через WebFetch открыт официальный сайт ucu.ac.ug (04.10.2026): ВК проф. Aaron Mushengyezi подтверждён новостью от 08.09.2026; адрес, info@ucu.ac.ug, registrar@ucu.ac.ug и тел. +256 312 350 800 подтверждены на странице Contact Us","• Https://ucu.ac.ug/contact-us/
+• Https://ucu.ac.ug/vice-chancellor/
+• Https://ucu.ac.ug/vice-chancellor-urges-new-students-to-embrace-excellence/
+• Https://ucu.ac.ug/partnerships/
+• Https://whed.net/institutions/IAU-016984",2026-10-04,
 239,Уганда,Нкози,Uganda Martyrs University,Uganda Martyrs University,Классический,Частный (католический),"• Business Administration & Management
 • Health Sciences
 • Agriculture
@@ -3573,13 +3672,16 @@ SERVICOM (служба общих обращений) университета
 • History and social sciences
 • Physical culture and sport
 • Foreign languages
-• Pedagogy","129 Universitet Street, Andijan, Uzbekistan",qabulxona@adu.uz,"ФИО не найдено
+• Pedagogy","129 Universitet Street, Andijan, Uzbekistan",qabulxona@adu.uz,"Prof. Bakhtiyorjon Akbaraliyev
+Rector, Andijan State University
 Приёмная (канцелярия) университета
-Обращение: Dear Head of the International Office,",,qabulxona@adu.uz,+998 74 223 88 30,https://adu.uz,Prof. Bakhtiyorjon Akbaraliyev,Rector,,,,0,,,,,,,0,3,да,низкая,"• Официальный сайт adu.uz закрыт защитой Cloudflare (403) — данные взяты из официального Telegram-канала (@adu_uz, сентябрь–октябрь 2026) и портала ZiyoNET
+Обращение: Dear Professor Akbaraliyev,",,qabulxona@adu.uz,+998 74 223 88 30,https://adu.uz,Prof. Bakhtiyorjon Akbaraliyev,Rector,,,,0,,,,,,,0,3,да,средняя,"• Официальный сайт adu.uz закрыт защитой Cloudflare (403) — данные взяты из официального Telegram-канала (@adu_uz) и госпортала ZiyoNET
+• Ректор Бахтиёржон Акбаралиев подтверждён официальным предупреждением в Telegram-канале вуза от 02.10.2026 (о поддельных аккаунтах от его имени — при переписке использовать только официальные каналы)
+• Адрес, телефон и qabulxona@adu.uz — по ZiyoNET, на сайте вуза не перепроверены
 • Отдельный e-mail международного отдела не найден; в новостях упоминается руководитель отдела международных связей «И. Хасанов» (полное имя не подтверждено)
-• В октябре 2026 г. вуз вёл переговоры с Воронежским государственным техническим университетом (Россия)
 • THE2027: в статусе Reporter (без ранга)
-• Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.)","• Https://t.me/s/adu_uz
+• Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено
+• Перепроверка: 04.10.2026: ректор подтверждён официальным Telegram-каналом (02.10.2026); сайт по-прежнему за Cloudflare, контакты — по ZiyoNET","• Https://t.me/s/adu_uz
 • Https://abiturient.ziyonet.uz/page/vuz/11950",2026-10-04,
 254,Узбекистан,Бухара,Bukhara State University,Buxoro davlat universiteti,Классический,Государственный,"• Pedagogy and psychology
 • Philology
@@ -3652,12 +3754,15 @@ SERVICOM (служба общих обращений) университета
 • Philology
 • History
 • Economics
-• Pedagogy","Nukus, Republic of Karakalpakstan, Uzbekistan",karsu_info@edu.uz,"ФИО не найдено
-Общий ящик университета
-Обращение: Dear Head of the International Office,",,karsu_info@edu.uz,+998 55 105 60 48,https://karsu.uz,Mr. Berdiyar Jollibekov,Rector,,,,0,,,,,,,0,3,да,низкая,"• Сайт karsu.uz — SPA (Next.js); ректор Бердияр Жоллыбеков подтверждён новостями сайта и UzDaily (сентябрь 2026); ранее — ректор Каракалпакского института сельского хозяйства и агротехнологий; учёная степень не подтверждена
-• Полный почтовый адрес и международный e-mail на сайте не найдены; телефон — колл-центр
+• Pedagogy","Nukus, Republic of Karakalpakstan, Uzbekistan",rector@karsu.uz,"ФИО не найдено
+Приёмная ректора / общий ящик университета
+Обращение: Dear Head of the International Office,",,rector@karsu.uz; karsu_info@edu.uz,+998 55 105 60 47 (приёмная ректора); +998 55 105 60 48 (колл-центр),https://karsu.uz,Prof. Berdiyar Baxtiyarovich Jollibekov (DSc in Agricultural Sciences),Rector,,,,0,,,,,,,0,3,да,высокая,"• Сайт karsu.uz — SPA (Next.js), данные берутся из API; ректор Бердияр Бахтиярович Жоллыбеков (доктор сельскохозяйственных наук, профессор) подтверждён страницей руководства и новостями (сентябрь 2026); ранее — ректор Каракалпакского института сельского хозяйства и агротехнологий
+• Полный почтовый адрес и международный отдел/e-mail на сайте не найдены; +998 55 105 60 48 — колл-центр
 • THE2027: в статусе Reporter (без ранга)
-• Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.)","• Https://karsu.uz/en
+• Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.)
+• Перепроверка: Через API страницы «Administration» на karsu.uz 04.10.2026 подтверждены ректор Жоллыбеков Б.Б. (д.с.-х.н., профессор), rector@karsu.uz и тел. +998 55 105 60 47; международный отдел и полный адрес не найдены","• Https://karsu.uz/en/administration
+• Https://karsu.uz/api/menus/admin/
+• Https://karsu.uz/en
 • Https://karsu.uz/api/news/posts/
 • Https://www.uzdaily.uz/en/karakalpak-state-university-signs-mou-with-chinese-delegation-19-09-2026/",2026-10-04,
 260,Узбекистан,Карши,Karshi State University,Qarshi davlat universiteti,Классический,Государственный,"• Mathematics and computer science
@@ -3696,7 +3801,8 @@ SERVICOM (служба общих обращений) университета
 • Ректор Эргашев О.К. назначен постановлением Кабмина (новость yuz.uz, 2025 г.); учёная степень не указана
 • Сайт namdtu.uz — SPA с частично демонстрационными данными; e-mail info@namdtu.uz взят из кода сайта, телефон и адрес не подтверждены
 • THE2027: в статусе Reporter (без ранга)
-• Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.)","• Https://namdtu.uz/
+• Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.)
+• Перепроверка: Сайт namdtu.uz 04.10.2026 отдаёт пустой ответ (curl 200/0 байт, WebFetch 502); данные не изменены","• Https://namdtu.uz/
 • Https://yuz.uz/uz/news/namangan-davlat-texnika-universitetiga-yangi-rektor-tayinlandi",2026-10-04,
 263,Узбекистан,Наманган,Namangan State University,Namangan davlat universiteti,Классический,Государственный,"• Physics and mathematics
 • Natural sciences
@@ -3717,14 +3823,17 @@ SERVICOM (служба общих обращений) университета
 • Medicine
 • Philology
 • Natural sciences
-• Mathematics and informatics","Navoi, Uzbekistan",info@nspi.uz,"ФИО не найдено
-Общий ящик университета
-Обращение: Dear Head of the International Office,",,info@nspi.uz,,https://nspi.uz,Prof. Muhiddin Kalonov,"Rector, Professor",,,,0,,,,,,,0,3,да,низкая,"• Создан в 2024 г. на базе Навоийского государственного педагогического института; домен nspi.uz сейчас показывает страницу-заглушку хостинга
-• Ректор проф. Мухиддин Калонов и e-mail info@nspi.uz подтверждены официальным Telegram-каналом (@NavDU_NavSU, сентябрь–октябрь 2026)
-• Адрес (ул. Ибн Сино, 45) и телефон встречаются только во вторичных источниках — не подтверждены
-• Направления подготовки указаны ориентировочно (в Telegram упоминаются 7 факультетов, в т.ч. медицинский)
+• Mathematics and informatics","103 Galaba Shoh Street, Navoiy, Uzbekistan",info@nsu.uz,"Narzikulova Dilnoza Xoshimjonovna
+Проректор по международному сотрудничеству (Vice-Rector for International Cooperation)
+Общий ящик университета (info@nsu.uz)
+Обращение: Dear Vice-Rector Narzikulova,",,info@nsu.uz,+998 79 223-77-89,https://ndu.uz,Prof. Muxiddin Baxriddinovich Kalonov,"Rector, Doctor of Economics (DSc), Professor",,,,0,,,,,,,0,3,да,высокая,"• Направления подготовки указаны ориентировочно (в Telegram упоминаются 7 факультетов, в т.ч. медицинский)
 • THE2027: в статусе Reporter (без ранга)
-• Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.)","• Https://t.me/s/NavDU_NavSU
+• Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.)
+• Создан в 2024 г. на базе Навоийского государственного педагогического института; актуальный сайт — ndu.uz (nspi.uz — заглушка хостинга)
+• В описании Telegram-канала всё ещё указан старый ящик info@nspi.uz; на сайте ndu.uz — info@nsu.uz (общий) и admission@nsu.uz (приём)
+• Перепроверка: 04.10.2026: найден актуальный сайт ndu.uz — ректор, адрес, телефон, e-mail info@nsu.uz и проректор по международному сотрудничеству подтверждены (© 2026)","• Https://ndu.uz/en/
+• Https://ndu.uz/en/international-office.html
+• Https://t.me/s/NavDU_NavSU
 • Https://kun.uz/news/2024/10/31/navoiy-davlat-universiteti-tashkil-etildi",2026-10-04,
 265,Узбекистан,Навои,Navoi State University of Mining and Technologies,Navoiy davlat konchilik va texnologiyalar universiteti,Технический / аэрокосмический,Государственный,"• Mining engineering
 • Metallurgy
@@ -3774,22 +3883,25 @@ SERVICOM (служба общих обращений) университета
 • Transport infrastructure","70 Lolazor Street, Samarkand 140143, Uzbekistan",samdaqu@samdaqu.edu.uz,"ФИО не найдено
 Общий ящик университета (канцелярия)
 Обращение: Dear Head of the International Office,",,samdaqu@samdaqu.edu.uz,+998 66 237 15 93,https://sdtu.uz,Chidem Janbay Turkyilmaz,Rector,,,,0,,,,,,,0,3,да,низкая,"• Бывший Самаркандский государственный архитектурно-строительный университет (SamDAQU); домен samdaqu.edu.uz перенаправляет на sdtu.uz
-• На странице ректора указано имя «Chidem Janbay Turkyilmaz» без степени и даты — требуется проверка перед отправкой; обращение оставлено нейтральным
+• Повторная проверка 04.10.2026: на странице ректора — «Chidem Janbay Turkyilmaz, Universitet Rektori» (тел. (0366) 237-15-93, samdaqu@samdaqu.edu.uz, ул. Лолазор, 70, индекс 140143); в новостях сайта упоминается «rektori Chidem Turkyilmaz» (меморандум с IT-Park), но новости и подвал сайта датированы 2022–2023 гг. — актуальность на 2026 г. не подтверждена; обращение оставлено нейтральным
 • Проректор по международным связям не указан; сайт international.samdaqu.edu.uz недоступен (ошибка SSL). Использовать samdaqu@samdaqu.edu.uz
 • THE2027: в статусе Reporter (без ранга)
-• Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.)","• Https://sdtu.uz/
+• Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.)
+• Перепроверка: Ректор и контакты повторно найдены на сайте, но содержимое сайта датировано 2022–2023 гг.; актуальность не подтверждена, данные не изменены","• Https://sdtu.uz/
 • Https://sdtu.uz/Samdaqi-Institut-rektori
 • Https://sdtu.uz/Samdaqi-Prorektorlar",2026-10-04,
 269,Узбекистан,Ташкент,Tashkent Institute of Chemical Technology,Toshkent kimyo-texnologiya instituti,Технический / аэрокосмический,Государственный,"• Chemical technology
 • Food technology
 • Pharmaceutical technology
 • Oil and gas processing
-• Biotechnology","32 Navoi Street, Tashkent 100011, Uzbekistan",info@tkti.uz,"ФИО не найдено
+• Biotechnology","Navoiy ko‘chasi, 32-uy, Toshkent 100011, Uzbekistan (32 Navoi Street, Tashkent 100011)",info@tkti.uz,"ФИО не найдено
 Общий ящик института
-Обращение: Dear Head of the International Office,",,info@tkti.uz,+998 71 244 79 34,https://tkti.uz,B. Sh. Usmonov,Rector,,,,0,,,,,,,0,3,да,низкая,"• Сайт tkti.uz — SPA; контакты из официального API. Ректор указан только инициалами (Б.Ш. Усмонов) в новости АО «Узкимёсаноат» о выпуске 2026 г.; полное имя на официальной странице не подтверждено
-• Международный отдел/e-mail не найден
+Обращение: Dear Head of the International Office,",,info@tkti.uz,+998 71 244 79 34,https://tkti.uz,Botir Sh. Usmonov (Б.Ш. Усмонов),Rector,,,,0,,,,,,,0,3,да,средняя,"• Сайт tkti.uz — SPA; главная открыта через r.jina.ai 04.10.2026, страницы ректората/международного отдела в reader-сервисе не отрисовываются (404). Ректор: инициалы Б.Ш. Усмонов (новость АО «Узкимёсаноат», выпуск 2026) + имя «Botir» из официальной ссылки «Rektor sahifasi» (домен botir-usmonov.com сейчас не резолвится); полное отчество не подтверждено
+• Проректоры (новости сайта): по академической деятельности — Т. Сафаров; по научной работе и инновациям — Х. Пулатов
+• Международный отдел/e-mail не найден (на сайте есть разделы International: partners, exchange, erasmus — без контактов в reader-версии)
 • THE2027: в статусе Reporter (без ранга)
-• Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.)","• Https://tkti.uz/
+• Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.)
+• Перепроверка: Главная tkti.uz открыта через reader-сервис 04.10.2026: адрес, info@tkti.uz и телефон подтверждены; имя ректора уточнено по официальной ссылке «Rektor sahifasi» (Botir Usmonov), отчество полностью не подтверждено","• Https://tkti.uz/
 • Https://tkti.uz/api/public/home/contact
 • Https://pda.uzkimyosanoat.uz/oz/press/news/toshkent-kimyo-texnologiya-institutida-bitiruvchi-2026-diplo",2026-10-04,
 270,Вьетнам,Ханой,Vietnam National Space Center,Trung tâm Vũ trụ Việt Nam,НИИ / научный центр,Государственный (агентство / НИИ),"• Satellite engineering
@@ -4233,7 +4345,8 @@ SERVICOM (служба общих обращений) университета
 Общий информационный ящик
 Обращение: Dear Head of the International Office,",,Info@phenikaa-uni.edu.vn,+84 24 6291 8118,https://phenikaa-uni.edu.vn,,Rector,,,,0,,,,,,,0,3,да,низкая,"• Частный университет группы Phenikaa; сайт — SPA, страницы руководства не отдают данные; ректор не подтверждён
 • В CMS сайта фигурирует ящик отдела внешних связей htdn@phenikaa-uni.edu.vn (не опубликован как контакт — использовать с осторожностью)
-• Космической деятельности не выявлено (быстрая проверка по nanosats.csv)","• Https://phenikaa-uni.edu.vn/vi
+• Космической деятельности не выявлено (быстрая проверка по nanosats.csv)
+• Перепроверка: Сайт phenikaa-uni.edu.vn открыт (исправлена цепочка сертификата), но страница «Ban giám hiệu» подгружает данные на клиенте — ректор не подтверждён; данные не изменены (04.10.2026)","• Https://phenikaa-uni.edu.vn/vi
 • Nanosats.csv",2026-10-04,
 301,Вьетнам,Куинён,Quy Nhon University,Trường Đại học Quy Nhơn,Классический,Государственный,"• Teacher Education
 • Natural Sciences
@@ -4325,9 +4438,11 @@ SERVICOM (служба общих обращений) университета
 • Https://vnua.edu.vn/gioi-thieu/ban-giam-doc
 • Https://htqt.vnua.edu.vn/
 • Nanosats.csv",2026-10-04,
-308,Вьетнам,Ханой,VinUniversity,Trường Đại học VinUni,Классический,Частный,,,,,,,,https://vinuni.edu.vn,,,,,,0,,,,,,,0,3,,низкая,"• Сайт vinuni.edu.vn блокирует автоматический доступ (Cloudflare 403); квота веб-поиска исчерпана — контакты и руководство не проверены, требуется ручное заполнение
-• Частный университет группы Vingroup; имеет соглашение о сотрудничестве с USTH (новость на usth.edu.vn)
-• Космической деятельности не выявлено (быстрая проверка по nanosats.csv)","• Https://vinuni.edu.vn
+308,Вьетнам,Ханой,VinUniversity,Trường Đại học VinUni,Классический,Частный,,"VinUniversity, Vinhomes Ocean Park, Gia Lam, Hanoi, Vietnam (по поисковой выдаче; не открыто)",,,,,,https://vinuni.edu.vn,Dr. Le Mai Lan (Lê Mai Lan),President,,,,0,,,,,,,0,3,,низкая,"• Частный университет группы Vingroup; имеет соглашение о сотрудничестве с USTH (новость на usth.edu.vn)
+• Космической деятельности не выявлено (быстрая проверка по nanosats.csv)
+• Все сайты *.vinuni.edu.vn за Cloudflare (403, 04.10.2026). Президент Dr. Le Mai Lan и ответственный за международные связи Prof. Sunmee Choi (Vice Provost of External Engagement) — по карточке члена APRU (apru.org); проректор (Provost) — Prof. Tan Yap Peng (по выдаче, новость vingroup.net)
+• По поисковой выдаче (не открыто): общий e-mail info@vinuni.edu.vn, тел. +84 24 7108 9779 — в поля не внесены до проверки
+• Перепроверка: Сайт закрыт Cloudflare; по карточке APRU добавлены президент Dr. Le Mai Lan и адресат Prof. Sunmee Choi; e-mail не подтверждён","• Https://vinuni.edu.vn
 • Nanosats.csv
 • Https://usth.edu.vn/usth-va-vinuni-ky-ket-thoa-thuan-hop-tac-nham-thuc-day-phat-trien-he-sinh-thai-ba-nha-truong-vien-doanh-nghiep-33476/",2026-10-04,
 309,Вьетнам,Винь,Vinh University,Trường Đại học Vinh,Классический,Государственный,"• Education
@@ -4338,6 +4453,8 @@ SERVICOM (служба общих обращений) университета
 • Social Sciences","182 Le Duan Street, Truong Vinh Ward, Nghe An Province, Vietnam",,,,,+84 238 898 8989,https://vinhuni.edu.vn,,Rector,,,,0,,,,,,,0,3,,низкая,"• Официальный сайт vinhuni.edu.vn блокирует доступ (Cloudflare 403) — контакты не проверены
 • Ректор не подтверждён: GS.TS Nguyễn Huy Bằng был ректором на срок 2020–2025; по данным поиска в 2026 г. возможны изменения (Nguyễn Ngọc Hiền) — уточнить
 • Телефон — Отдел обучения/приёмная кампания (из документа о приёме 2026)
-• E-mail не найдены; космической деятельности не выявлено (быстрая проверка по nanosats.csv)","• Https://cdn.thuvienphapluat.vn/uploads/Hoidapphapluat/2026/NTKL/22012026/Truong-Dai-hoc-Vinh-tuyen-sinh.pdf
+• E-mail не найдены; космической деятельности не выявлено (быстрая проверка по nanosats.csv)
+• Повторная проверка 04.10.2026: поисковая сводка называет ректором Nguyễn Ngọc Hiền (он же партсекретарь), но официальная страница не открылась — в поля не внесено
+• Перепроверка: Сайт vinhuni.edu.vn (включая поддомены) по-прежнему закрыт Cloudflare (403); ректор не подтверждён; данные не изменены","• Https://cdn.thuvienphapluat.vn/uploads/Hoidapphapluat/2026/NTKL/22012026/Truong-Dai-hoc-Vinh-tuyen-sinh.pdf
 • Https://tienphong.vn/dai-hoc-vinh-co-tan-hieu-truong-post1261834.tpo
 • Nanosats.csv",2026-10-04,
