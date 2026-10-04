@@ -401,15 +401,15 @@
   "ownership": "Государственный (НАО, исследовательский)",
   "profile_type": "agrarian/ecological",
   "main_fields": "Agronomy, Veterinary medicine and animal science, Agricultural engineering, Food technology, Economics, Land management and geodesy",
-  "postal_address": "",
-  "email_general": "",
+  "postal_address": "пр. Женис, 62, Астана 010000, Казахстан (62 Zhenis Ave., Astana 010000, Kazakhstan)",
+  "email_general": "office@kazatu.edu.kz",
   "email_international": "",
-  "phone": "",
+  "phone": "+7 7172 31 75 47 (приёмная ректора)",
   "website": "https://kazatu.edu.kz",
-  "head_name": "Prof. Kanat Tireuov",
+  "head_name": "Prof. Kanat Maratovich Tireuov",
   "head_title": "Chairman of the Management Board – Rector",
   "party_secretary": "",
-  "head_verified_source": "https://iofs.org/news/iofs-director-general-visits-saken-seifullin-kazakh-agrotechnical-research-university-to-strengthen-cooperation",
+  "head_verified_source": "https://kazatu.edu.kz/ru/contacts; https://kazatu.edu.kz/ru/pages/universitet/struktura/administracia (официальные страницы по поисковой выдаче 04.10.2026, сайт напрямую недоступен); https://iofs.org/news/iofs-director-general-visits-saken-seifullin-kazakh-agrotechnical-research-university-to-strengthen-cooperation",
   "rank_qs": "",
   "rank_the": "THE2027: 2001+",
   "rank_national": "",
@@ -420,17 +420,19 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://iofs.org/news/iofs-director-general-visits-saken-seifullin-kazakh-agrotechnical-research-university-to-strengthen-cooperation; https://www.ocamagazine.com/2025/06/26/transforming-saken-seifullin-katru-from-a-research-university-to-a-world-class-institution-in-agriculture/; nanosats.csv",
+  "sources": "https://iofs.org/news/iofs-director-general-visits-saken-seifullin-kazakh-agrotechnical-research-university-to-strengthen-cooperation; https://www.ocamagazine.com/2025/06/26/transforming-saken-seifullin-katru-from-a-research-university-to-a-world-class-institution-in-agriculture/; nanosats.csv; https://kazatu.edu.kz/ru/contacts (search snippet)",
   "confidence": "low",
   "notes_ru": [
-   "Официальный сайт kazatu.edu.kz недоступен из нашей среды (DNS/таймаут) — адрес, e-mail и телефон не проверены, поля оставлены пустыми; по данным поиска: пр. Женис 62, Астана 010000, тел. +7 7172 31 75 47 — требуется проверка",
-   "Ректор подтверждён только внешними источниками 2025 г. (IOFS, OCA Magazine)",
-   "Космической активности не найдено (быстрая проверка)"
+   "Официальный сайт kazatu.edu.kz недоступен из нашей среды (DNS/502); адрес, e-mail office@kazatu.edu.kz и телефон приёмной ректора +7 7172 31 75 47 взяты из поисковой выдачи по странице kazatu.edu.kz/ru/contacts — перепроверить перед рассылкой",
+   "Ректор К.М. Тиреуов (Председатель Правления – Ректор НАО) — по выдаче официального сайта и внешним источникам 2025 г. (IOFS, OCA Magazine)",
+   "Космической активности не найдено (быстрая проверка)",
+   "Перепроверка: Сайт kazatu.edu.kz по-прежнему недоступен (DNS/502); адрес, office@kazatu.edu.kz, телефон приёмной и ректор К.М. Тиреуов внесены по выдаче официальных страниц (kazatu.edu.kz/ru/contacts), не открытых напрямую"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "recheck_ru": "Сайт kazatu.edu.kz по-прежнему недоступен (DNS/502); адрес, office@kazatu.edu.kz, телефон приёмной и ректор К.М. Тиреуов внесены по выдаче официальных страниц (kazatu.edu.kz/ru/contacts), не открытых напрямую"
  },
  {
   "country": "Kazakhstan",
@@ -948,7 +950,7 @@
   "name_en": "International University of Tourism and Hospitality (IUTH)",
   "name_native": "Халықаралық туризм және меймандостық университеті / Международный университет туризма и гостеприимства",
   "city": "Туркестан",
-  "ownership": "Государственный (НАО) — не проверено",
+  "ownership": "Государственный (некоммерческое акционерное общество с единственным акционером; в совете директоров — представители Минтуризма и спорта и Минфина РК)",
   "profile_type": "other",
   "main_fields": "Tourism and hospitality management, Hotel and restaurant business, Tourist destination management, Excursion services, Sports and fitness",
   "postal_address": "14A Rabiga Sultan Begim Street, Turkestan, Republic of Kazakhstan",
@@ -970,18 +972,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://iuth.edu.kz/; https://iuth.edu.kz/basshylyk/; https://iuth.edu.kz/halyqaraly-yntymaktastyk-bolimi/; nanosats.csv",
-  "confidence": "low",
+  "sources": "https://iuth.edu.kz/; https://iuth.edu.kz/basshylyk/; https://iuth.edu.kz/direktorlar-kenesi/; https://iuth.edu.kz/halyqaraly-yntymaktastyk-bolimi/; nanosats.csv",
+  "confidence": "medium",
   "notes_ru": [
    "Профиль — туризм и гостеприимство; космической активности не найдено (быстрая проверка) — низкий приоритет для спутникового проекта",
-   "ФИО ректора на странице руководства не указано (только вице-ректоры); телефон на сайте не найден",
-   "Вице-ректор по социальному развитию и международному сотрудничеству — Bekezhan Myrzayev (b.myrzaev@iuth.edu.kz)",
-   "Форма собственности не проверена"
+   "ФИО ректора на странице «Басшылық» по-прежнему не указано (только вице-ректоры Л.И. Шалабаева и Б.К. Мырзаев); телефон на сайте не найден",
+   "Адрес (Туркестан, ул. Рабиги Султан Бегим 14А) и kense@iuth.edu.kz подтверждены на официальном сайте; руководитель отдела международного сотрудничества Әсел Дильмуратқызы (каб. 114, a.dilmuratkyzy@iuth.edu.kz) подтверждена на странице отдела",
+   "Вице-ректор по социальному развитию и международному сотрудничеству — Мырзаев Бекежан Кожабекович (b.myrzaev@iuth.edu.kz)",
+   "Форма собственности: НАО (КЕАҚ) с единственным акционером, совет директоров с госпредставителями (страница «Директорлар кеңесі», назначения 2025–2026)",
+   "Перепроверка: 04.10.2026: адрес, общий e-mail и контакт международного отдела подтверждены на сайте; уточнена форма собственности (НАО); ректор на сайте не назван"
   ],
   "mailbox_owner": "Отдел международного сотрудничества",
   "addressee_name": "Asel Dilmuratkyzy",
   "addressee_title": "Руководитель отдела международного сотрудничества",
-  "salutation": "Dear Ms. Dilmuratkyzy,"
+  "salutation": "Dear Ms. Dilmuratkyzy,",
+  "recheck_ru": "04.10.2026: адрес, общий e-mail и контакт международного отдела подтверждены на сайте; уточнена форма собственности (НАО); ректор на сайте не назван"
  },
  {
   "country": "Kazakhstan",
@@ -1228,15 +1233,15 @@
   "ownership": "",
   "profile_type": "technical/aerospace",
   "main_fields": "Transport and logistics, Railway engineering, Telecommunications, Information technology, Construction",
-  "postal_address": "",
-  "email_general": "",
+  "postal_address": "ул. Шевченко, 97, г. Алматы, Казахстан (97 Shevchenko St., Almaty, Kazakhstan)",
+  "email_general": "info@alt.edu.kz",
   "email_international": "",
-  "phone": "",
+  "phone": "+7 707 888 1931",
   "website": "https://alt.edu.kz",
-  "head_name": "",
-  "head_title": "Rector",
+  "head_name": "Жармагамбетова Меруерт Советовна (Merueyrt Zharmagambetova), к.т.н., доцент",
+  "head_title": "Председатель Правления – Ректор (Chair of the Management Board – Rector)",
   "party_secretary": "",
-  "head_verified_source": "",
+  "head_verified_source": "https://alt.edu.kz/ru/rukovodstvo/",
   "rank_qs": "",
   "rank_the": "THE2027: Reporter (unranked)",
   "rank_national": "",
@@ -1247,17 +1252,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "nanosats.csv",
-  "confidence": "low",
+  "sources": "https://alt.edu.kz/ru/rukovodstvo/; https://alt.edu.kz/ru/; https://alt.edu.kz/ru/vakansiya/direktor-departamenta-mezhdunarodnogo-sotrudnichestva/; nanosats.csv",
+  "confidence": "high",
   "notes_ru": [
-   "Официальный сайт alt.edu.kz недоступен (HTTP 503 / сброс соединения), квота веб-поиска исчерпана — контакты, руководство и форма собственности не проверены, поля пустые",
-   "Профиль (транспорт и связь, бывш. КазАТК) указан по общеизвестным данным — требует проверки",
-   "В nanosats.csv спутников вуза нет"
+   "Руководство (страница «Руководство»): Председатель Правления – Ректор Жармагамбетова Меруерт Советовна, e-mail rector@alt.edu.kz; проректор по науке и международному сотрудничеству — Сергазин Ғани Құдайбергенұлы, на сайте при нём указан e-mail g.balbayev@alt.edu.kz (несоответствие фамилии — перед использованием уточнить).",
+   "Должность директора Департамента международного сотрудничества была вакантной (объявление от 21.05.2026) — отдельный международный e-mail не найден.",
+   "Форма собственности не проверена (руководство через Правление — вероятно, акционерное общество).",
+   "Профиль — транспорт и связь (бывш. КазАТК), подтверждается структурой школ (инженерия, технологии, логистика и бизнес); 95-летие вуза в 2026 г.",
+   "В nanosats.csv спутников вуза нет",
+   "Перепроверка: Сайт alt.edu.kz открыт 04.10.2026: ректор (Жармагамбетова М.С., rector@alt.edu.kz), проректор по науке и международному сотрудничеству, адрес, телефон и info@ подтверждены на официальных страницах (новости от 01–02.10.2026)."
   ],
-  "mailbox_owner": "",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "mailbox_owner": "Rector's office (rector@alt.edu.kz) / general info",
+  "addressee_name": "Сергазин Ғани Құдайбергенұлы (PhD)",
+  "addressee_title": "Vice-Rector for Research and International Cooperation",
+  "salutation": "Dear Vice-Rector,",
+  "recheck_ru": "Сайт alt.edu.kz открыт 04.10.2026: ректор (Жармагамбетова М.С., rector@alt.edu.kz), проректор по науке и международному сотрудничеству, адрес, телефон и info@ подтверждены на официальных страницах (новости от 01–02.10.2026)."
  },
  {
   "country": "Kazakhstan",
@@ -1268,9 +1277,9 @@
   "profile_type": "other",
   "main_fields": "Economics and management, Finance, Law and public administration, Digital technologies, Humanities",
   "postal_address": "55 Zhandosov Street, Almaty 050035, Republic of Kazakhstan",
-  "email_general": "",
-  "email_international": "",
-  "phone": "",
+  "email_general": "narxoz@narxoz.kz",
+  "email_international": "global@narxoz.kz",
+  "phone": "+7 727 377 11 11 (student service centre); International: +7 727 377 12 97",
   "website": "https://narxoz.edu.kz",
   "head_name": "Kanat Kozhakhmet",
   "head_title": "Rector (since 2024)",
@@ -1286,17 +1295,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://narxoz.edu.kz/; https://narxoz.edu.kz/assets/index-C-Pmxz2y.js; nanosats.csv",
-  "confidence": "low",
+  "sources": "https://narxoz.edu.kz/; https://narxoz.edu.kz/contacts (API: https://narxoz.edu.kz/api/v1/pages/contacts/); https://narxoz.edu.kz/api/v1/search/?q=Кожахмет; nanosats.csv",
+  "confidence": "medium",
   "notes_ru": [
    "Бизнес-университет; космической активности не найдено (быстрая проверка) — низкий приоритет",
-   "Сайт — SPA, контакты (e-mail, телефоны, International Office) подгружаются динамически и не извлечены; данные о ректоре и адресе взяты из кода сайта",
-   "Форма собственности не проверена"
+   "Контакты подтверждены через официальный API сайта (страница «Контакты», 04.10.2026): общий narxoz@narxoz.kz, адрес ул. Жандосова, 55, Алматы 050035; International — global@narxoz.kz, +7 727 377 12 97; пресс-служба Pr@narxoz.kz",
+   "Ректор Канат Кожахмет — по коду сайта; поиск по сайту находит его упоминания в новостях 06–08.2026, но страницы руководства в API нет — должность/текст новостей не открыты",
+   "Форма собственности не проверена (на сайте упоминается НАО «Университет Нархоз» с Советом директоров)",
+   "Перепроверка: Общий и международный e-mail, телефоны и адрес подтверждены через официальный API сайта 04.10.2026; ректор — по коду сайта и новостям 2026 г."
   ],
-  "mailbox_owner": "International Office",
+  "mailbox_owner": "International Office (global@narxoz.kz)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "recheck_ru": "Общий и международный e-mail, телефоны и адрес подтверждены через официальный API сайта 04.10.2026; ректор — по коду сайта и новостям 2026 г."
  },
  {
   "country": "Kazakhstan",
@@ -1567,12 +1579,14 @@
    "Сайт рендерит контакты и руководство динамически — ФИО первого руководителя, адрес и телефон не извлечены; press@yu.edu.kz — пресс-служба (иного e-mail не найдено)",
    "В вузе модель с вице-президентами: с 14.08.2026 исполнительный вице-президент — Ermek Nurmaganbet, вице-президент по исследованиям — Samal Syrlybekkyzy, по академической работе — Kairbek Makulov",
    "По сообщению сайта, вуз впервые вошёл в QS World University Rankings 2026 (позиция не проверена); QS2027 не проверен",
-   "Космической активности не найдено (быстрая проверка); есть технопарк и Fab Node"
+   "Космической активности не найдено (быстрая проверка); есть технопарк и Fab Node",
+   "Перепроверка: Сайт yu.edu.kz открыт 04.10.2026, но страница контактов — шаблон-заглушка без телефонов/e-mail, поиск по WP API имени первого руководителя не дал; данные не изменены."
   ],
   "mailbox_owner": "Пресс-служба",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "recheck_ru": "Сайт yu.edu.kz открыт 04.10.2026, но страница контактов — шаблон-заглушка без телефонов/e-mail, поиск по WP API имени первого руководителя не дал; данные не изменены."
  },
  {
   "country": "Malaysia",
@@ -2193,12 +2207,14 @@
   "confidence": "low",
   "notes_ru": [
    "Официальный сайт mahsa.edu.my блокирует доступ (HTTP 403), веб-поиск исчерпан — контактные данные, руководитель и адрес не проверены; заполнить вручную.",
-   "В рейтинге QS2027 не найден; спутников нет (nanosats.csv)."
+   "В рейтинге QS2027 не найден; спутников нет (nanosats.csv).",
+   "Перепроверка: 04.10.2026: mahsa.edu.my и www.mahsa.edu.my — HTTP 403; поиск не дал официальных данных о руководстве — данные не изменены."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "recheck_ru": "04.10.2026: mahsa.edu.my и www.mahsa.edu.my — HTTP 403; поиск не дал официальных данных о руководстве — данные не изменены."
  },
  {
   "country": "Malaysia",
@@ -2326,15 +2342,15 @@
   "ownership": "",
   "profile_type": "other",
   "main_fields": "",
-  "postal_address": "",
-  "email_general": "",
+  "postal_address": "Universiti Tunku Abdul Rahman, Jalan Universiti, Bandar Barat, 31900 Kampar, Perak, Malaysia (Sungai Long Campus: Jalan Sungai Long, Bandar Sungai Long, Cheras, 43000 Kajang, Selangor)",
+  "email_general": "info@utar.edu.my",
   "email_international": "",
-  "phone": "",
+  "phone": "+60 5 468 8888 (Kampar); +60 3 9086 0288 (Sungai Long); +60 3 9019 8831 (President's Office)",
   "website": "https://www.utar.edu.my",
-  "head_name": "",
-  "head_title": "",
+  "head_name": "Ir. Prof. Dato' Dr. Ewe Hong Tat",
+  "head_title": "President",
   "party_secretary": "",
-  "head_verified_source": "",
+  "head_verified_source": "https://pres.utar.edu.my/Past-Present-Presidents.php",
   "rank_qs": "QS2027: 801–850",
   "rank_the": "THE2027: 801–1000",
   "rank_national": "",
@@ -2346,15 +2362,18 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://www.utar.edu.my/ (connection reset / HTTP 503 — blocked); nanosats.csv",
-  "confidence": "low",
+  "confidence": "medium",
   "notes_ru": [
-   "Официальный сайт utar.edu.my и все поддомены недоступны (сброс соединения / 503), веб-поиск исчерпан — контактные данные, руководитель и адрес не проверены; заполнить вручную.",
-   "Спутников нет (nanosats.csv)."
+   "Сайт utar.edu.my напрямую из нашей сети недоступен (сброс соединения); страницы открыты через r.jina.ai 04.10.2026. Страница «Past & Present Presidents» — «Third President (2019–Present)», но шаблон сайта офиса президента датирован 2019 г. — актуальность на 2026 г. желательно перепроверить.",
+   "Офис президента: president@utar.edu.my, тел. 03-9019 8831. Международные связи: Office of International Affairs (oia.utar.edu.my) и Office of VP (Internationalisation and Academic Development, iad.utar.edu.my) — e-mail и руководитель на открытых страницах не отображаются.",
+   "Спутников нет (nanosats.csv).",
+   "Перепроверка: Сайт utar.edu.my открыт через reader-сервис 04.10.2026: президент (Ewe Hong Tat, с 2019 г.), адреса кампусов, info@utar.edu.my, president@utar.edu.my и телефоны подтверждены; страницы офиса президента и OIA с © 2019, e-mail OIA не опубликован."
   ],
-  "mailbox_owner": "",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "mailbox_owner": "Общий ящик университета (info@); офис президента — president@utar.edu.my",
+  "addressee_name": "Ir. Prof. Dato' Dr. Ewe Hong Tat",
+  "addressee_title": "Президент университета",
+  "salutation": "Dear Prof. Ewe,",
+  "recheck_ru": "Сайт utar.edu.my открыт через reader-сервис 04.10.2026: президент (Ewe Hong Tat, с 2019 г.), адреса кампусов, info@utar.edu.my, president@utar.edu.my и телефоны подтверждены; страницы офиса президента и OIA с © 2019, e-mail OIA не опубликован."
  },
  {
   "country": "Malaysia",
@@ -3135,12 +3154,14 @@
    "Страница руководства (segi.edu.my/our-leadership) закрыта Cloudflare (403) — ФИО ректора не подтверждено. В поисковой выдаче встречаются Datin Prof. Dr. Mariani Md Nor (и.о. Vice-Chancellor) и Prof. CHM Dr. Teh Geok Bee — уточнить перед рассылкой.",
    "infokd@segi.edu.my и imkd@segi.edu.my — ящики приёма (местные / иностранные студенты) кампуса Kota Damansara; отдельного ящика международного офиса не найдено.",
    "Глобальными партнёрствами группы занимается Managing Director (Group Operations, Globalisation and Digitalisation) SEGi University & Colleges.",
-   "Космических проектов в nanosats.csv не найдено."
+   "Космических проектов в nanosats.csv не найдено.",
+   "Перепроверка: Сайты SEGi (university.segi.edu.my — ошибка TLS, www.segi.edu.my — Cloudflare 403) по-прежнему недоступны; данные не изменены"
   ],
   "mailbox_owner": "Приём иностранных студентов (International Marketing, Kota Damansara)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "recheck_ru": "Сайты SEGi (university.segi.edu.my — ошибка TLS, www.segi.edu.my — Cloudflare 403) по-прежнему недоступны; данные не изменены"
  },
  {
   "country": "Malaysia",
@@ -3295,12 +3316,14 @@
    "Ректор не подтверждён: в WHED указан Vice-Chancellor Mohamad Afzhan Khan, в поисковой выдаче — Prof. Dr. Vincent Oh Kim Seng; уточнить перед рассылкой.",
    "Адрес — по WHED (IAU); в поисковой выдаче встречается тел. +60 88-448 344 (не проверено).",
    "Космических проектов в nanosats.csv не найдено.",
-   "THE 2027: статус Reporter (без ранга)."
+   "THE 2027: статус Reporter (без ранга).",
+   "Перепроверка: Сайт jesselton.edu.my по-прежнему за Cloudflare (403), ACBSP тоже 403; поисковая выдача 04.10.2026 называет VC Prof. Dr. Vincent Oh Kim Seng — не подтверждено; данные не изменены"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "recheck_ru": "Сайт jesselton.edu.my по-прежнему за Cloudflare (403), ACBSP тоже 403; поисковая выдача 04.10.2026 называет VC Prof. Dr. Vincent Oh Kim Seng — не подтверждено; данные не изменены"
  },
  {
   "country": "Malaysia",
@@ -3336,12 +3359,14 @@
    "Личный e-mail ректора на странице: datoazimuddin@nbuc.edu.my; в поисковой выдаче — vc@nbuc.edu.my и admin@nbuc.edu.my (не проверены).",
    "Ранее назывался International University College of Technology Twintech (Sabah). Основные направления указаны ориентировочно.",
    "Космических проектов в nanosats.csv не найдено.",
-   "THE 2027: статус Reporter (без ранга)."
+   "THE 2027: статус Reporter (без ранга).",
+   "Перепроверка: nbuc.edu.my показывает «Bot Verification» — данные не изменены (04.10.2026)"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "recheck_ru": "nbuc.edu.my показывает «Bot Verification» — данные не изменены (04.10.2026)"
  },
  {
   "country": "Malaysia",
@@ -3629,15 +3654,15 @@
   "ownership": "Государственный (агентство / НИИ)",
   "profile_type": "research institute",
   "main_fields": "Space technology, Earth observation satellites, Remote sensing, Geo-informatics, Satellite operations, Space economy",
-  "postal_address": "120 The Government Complex, Ratthaprasasanabhakti Building, 6th–7th Floor, Chaeng Watthana Road, Lak Si, Bangkok 10210, Thailand",
+  "postal_address": "120 Government Complex Commemorating His Majesty the King's 80th Birthday Anniversary, Ratthaprasasanabhakti Building, 6th–7th Floors, Chaeng Watthana Road, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
   "email_general": "saraban@gistda.or.th",
-  "email_international": "",
+  "email_international": "siriluk@gistda.or.th",
   "phone": "+66 2 141 4444",
   "website": "https://www.gistda.or.th",
   "head_name": "Dr. Pakorn Apaphant",
   "head_title": "Executive Director",
   "party_secretary": "",
-  "head_verified_source": "https://thestandard.co/thailand-space-market-theos3-law/",
+  "head_verified_source": "http://www.gistda.or.th/about/organizational-structure-gistda-board-structure-gistda-executive-team/",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -3648,19 +3673,22 @@
   "space_units": "Satellite operations and space technology development units; Thailand Spaceport initiative; Space Krenovation Park (Chonburi)",
   "agency_partnerships": "Airbus (THEOS-2); Thai Space Consortium with NARIT and SLRI; NASA (Artemis / lunar cooperation, 2026 visit); Royal Thai Navy (maritime spatial data); TIME Labs, Mahidol University (space supply chain roadmap); KMITL Space Hub; GalaxySpace (China) — GISTDA CubeSat-1 / Lingzhi-09, launched 25 Aug 2026 with ground system and capacity building",
   "restricted_list": "",
-  "sources": "https://en.wikipedia.org/wiki/Geo-Informatics_and_Space_Technology_Development_Agency; https://thestandard.co/thailand-space-market-theos3-law/; https://www.gistda.or.th/news_view_new.php?n_id=9176; https://www.mreport.co.th/news/industry-movement/316-kmitl-launches-space-hub-chumporn; https://equalocean.com/news/2026082622141-galaxyspace-completes-first-whole-satellite-delivery-southeast-asia-thai-cubesat",
-  "confidence": "low",
+  "sources": "http://www.gistda.or.th/; http://www.gistda.or.th/about/organizational-structure-gistda-board-structure-gistda-executive-team/; https://en.wikipedia.org/wiki/Geo-Informatics_and_Space_Technology_Development_Agency; https://thestandard.co/thailand-space-market-theos3-law/; https://www.mreport.co.th/news/industry-movement/316-kmitl-launches-space-hub-chumporn; https://equalocean.com/news/2026082622141-galaxyspace-completes-first-whole-satellite-delivery-southeast-asia-thai-cubesat",
+  "confidence": "high",
   "notes_ru": [
-   "Официальный сайт gistda.or.th был недоступен (HTTP 503 / ошибка TLS); адрес, телефон и e-mail saraban@gistda.or.th взяты из поисковой выдачи по странице контактов GISTDA — перед рассылкой перепроверить",
+   "Официальный сайт открывается только по http:// (у https ошибка сертификата); адрес, телефоны 0-2141-4444/4468 и saraban@gistda.or.th подтверждены в подвале главной страницы (новости сентября 2026)",
+   "Исполнительный директор Pakorn Apaphant, Ph.D. — на официальной странице «Executive Team»: тел. +66 2 141 4450, ceo@gistda.or.th",
+   "email_international — заместитель исполнительного директора по стратегическим альянсам (Strategic Alliance Engagement) Siriluk Prukpitikul, Ph.D., тел. +66 2 141 4665; отдельного ящика международного отдела нет",
    "GISTDA — национальное космическое агентство Таиланда: владеет и эксплуатирует THEOS (2008) и THEOS-2 (2023), но оба построены Airbus/EADS, поэтому в satellites_launched не засчитаны",
    "THEOS-2A (совместная разработка) потерян при аварии PSLV-C62 12.01.2026; THEOS-3 разрабатывается тайскими инженерами",
-   "Директор д-р Пакорн Апапхан (ปกรณ์ อาภาพันธุ์) упомянут в новости от 4.09.2026",
-   "25.08.2026 на Long March-6C выведен GISTDA CubeSat-1 (Lingzhi-09), разработанный китайской GalaxySpace для GISTDA (с наземным сегментом и обучением тайской команды) — не засчитан как собственная разработка; спутник предназначен в т.ч. для обучения студентов тайских вузов"
+   "25.08.2026 на Long March-6C выведен GISTDA CubeSat-1 (Lingzhi-09), разработанный китайской GalaxySpace для GISTDA — не засчитан как собственная разработка",
+   "Перепроверка: Сайт открыт по http 04.10.2026: директор, адрес, телефон и e-mail подтверждены на официальных страницах; добавлены ceo@ и ящик зам. директора по стратегическим альянсам"
   ],
   "mailbox_owner": "Отдел делопроизводства / официальной корреспонденции (Saraban)",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "addressee_name": "Dr. Pakorn Apaphant",
+  "addressee_title": "Executive Director (ceo@gistda.or.th, +66 2 141 4450)",
+  "salutation": "Dear Dr. Apaphant,",
+  "recheck_ru": "Сайт открыт по http 04.10.2026: директор, адрес, телефон и e-mail подтверждены на официальных страницах; добавлены ceo@ и ящик зам. директора по стратегическим альянсам"
  },
  {
   "country": "Thailand",
@@ -3870,12 +3898,12 @@
   "postal_address": "140 Cheum-Sampan Road, Krathum Rai, Nong Chok, Bangkok 10530, Thailand",
   "email_general": "",
   "email_international": "inter@mut.ac.th",
-  "phone": "+66 61 223 2344",
-  "website": "https://www.mut.ac.th",
-  "head_name": "Prof. Panavy Pookaiyaudom",
-  "head_title": "President",
+  "phone": "+66 2 988 3650 (ext. 1105–1107)",
+  "website": "https://mut.ac.th",
+  "head_name": "Assoc. Prof. Dr. Panavy Pookaiyaudom (รศ. ดร.ภานวีย์ โภไคยอุดม)",
+  "head_title": "President (อธิการบดี)",
   "party_secretary": "",
-  "head_verified_source": "https://www.cqjtu.edu.cn/info/1178/1851.htm",
+  "head_verified_source": "https://mut.ac.th/staff-manager/",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -3886,18 +3914,21 @@
   "space_units": "Satellite engineering research centre (Nong Chok campus)",
   "agency_partnerships": "University of Surrey / SSTL (TMSAT built at Surrey by MUT engineers)",
   "restricted_list": "",
-  "sources": "https://en.wikipedia.org/wiki/Mahanakorn_University_of_Technology; https://inter.mut.ac.th/privacy-policy/; https://inter.mut.ac.th/about-us/; https://www.cqjtu.edu.cn/info/1178/1851.htm",
-  "confidence": "low",
+  "sources": "https://mut.ac.th/staff-manager/; https://mut.ac.th/contact-us/; https://en.wikipedia.org/wiki/Mahanakorn_University_of_Technology; https://inter.mut.ac.th/privacy-policy/",
+  "confidence": "medium",
   "notes_ru": [
-   "Основной сайт www.mut.ac.th недоступен (ошибка TLS / HTTP 503); контакты взяты с сайта международного колледжа MUTIC (inter.mut.ac.th) — inter@mut.ac.th и тел. +66 61 223 2344 относятся к международному колледжу",
-   "Президент проф. Панави Пукайяудом подтверждён только источником от октября 2024 (визит в Chongqing Jiaotong University); Википедия называет другое имя (Sujate Jantarang) — перепроверить перед отправкой",
-   "Исторически первый тайский вуз со своим микроспутником TMSAT (Thai Paht-1, 1998), построенным инженерами MUT в Университете Суррея; данные о TMSAT из Википедии, официальную страницу открыть не удалось",
-   "Частный университет"
+   "Сайт mut.ac.th открывается (неполная цепочка сертификата устранена загрузкой промежуточного сертификата Sectigo); на странице «Руководство» (staff-manager, сайт 2025–2026) президент — доц. д-р Панави Пукайяудом; Sujate Jantarang — теперь советник президента",
+   "Телефон и адрес — со страницы «Контакты» mut.ac.th (общий номер, доб. 1105–1107 — отдел по связям с общественностью); общего e-mail на сайте нет",
+   "inter@mut.ac.th — ящик международного колледжа MUTIC из прежней проверки; новый сайт inter.mut.ac.th (2026) e-mail не показывает — перепроверить",
+   "Исторически первый тайский вуз со своим микроспутником TMSAT (Thai Paht-1, 1998), построенным инженерами MUT в Университете Суррея; данные о TMSAT из Википедии",
+   "Частный университет",
+   "Перепроверка: Президент (доц. д-р Панави Пукайяудом), адрес и телефон подтверждены на сайте mut.ac.th 04.10.2026; e-mail MUTIC не подтверждён"
   ],
   "mailbox_owner": "Международный колледж (Mahanakorn University of Technology International College, MUTIC)",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "addressee_name": "Assoc. Prof. Dr. Panavy Pookaiyaudom",
+  "addressee_title": "President",
+  "salutation": "Dear Head of the International Office,",
+  "recheck_ru": "Президент (доц. д-р Панави Пукайяудом), адрес и телефон подтверждены на сайте mut.ac.th 04.10.2026; e-mail MUTIC не подтверждён"
  },
  {
   "country": "Thailand",
@@ -4344,15 +4375,15 @@
   "ownership": "Государственный (автономный)",
   "profile_type": "classical",
   "main_fields": "Education, Medicine and Health Sciences, Engineering, Science, Humanities and Social Sciences, Fine Arts",
-  "postal_address": "Sukhumvit 23 Road, Khlong Toei Nuea, Watthana, Bangkok 10110, Thailand",
-  "email_general": "",
+  "postal_address": "114 Sukhumvit 23, Watthana, Bangkok 10110, Thailand",
+  "email_general": "contact@g.swu.ac.th",
   "email_international": "ird@g.swu.ac.th",
-  "phone": "+66 2 260 1012",
+  "phone": "+66 2 649 5000 (International Relations & Corporate Communication: ext. 15640, 15642, 15666)",
   "website": "https://www.swu.ac.th",
-  "head_name": "",
-  "head_title": "President",
+  "head_name": "Prof. Dr. Chonlawit Jiaratjit (ศาสตราจารย์ ดร.ชลวิทย์ เจียรจิตต์)",
+  "head_title": "President (อธิการบดี)",
   "party_secretary": "",
-  "head_verified_source": "",
+  "head_verified_source": "https://op.swu.ac.th/",
   "rank_qs": "",
   "rank_the": "THE2027: 1801–2000",
   "rank_national": "",
@@ -4363,18 +4394,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://asea-uninet.org/network-members/member-universities/thai-universities/; https://en.wikipedia.org/wiki/Srinakharinwirot_University",
-  "confidence": "low",
+  "sources": "https://op.swu.ac.th/; https://op.swu.ac.th/contact; https://asea-uninet.org/network-members/member-universities/thai-universities/; https://en.wikipedia.org/wiki/Srinakharinwirot_University",
+  "confidence": "medium",
   "notes_ru": [
-   "Сайт swu.ac.th закрыт защитой Cloudflare (403) — официальные страницы открыть не удалось; квота веб-поиска исчерпана",
-   "Президент не подтверждён источником 2025–2026 (Википедия называет проф. д-ра Чолвита Джиараджита) — перед отправкой проверить",
-   "Международный контакт (ird@g.swu.ac.th, тел. +66 2 260 1012) и и.о. проректора по международным связям и коммуникациям доц. Прапапорн Роджсирируч — по списку ASEA-UNINET (дата страницы не указана)",
-   "Космическая проверка не проведена (квота поиска исчерпана); в nanosats.csv вуз не найден"
+   "Основной сайт swu.ac.th закрыт Cloudflare (403), но сайт Офиса президента op.swu.ac.th доступен (2026): президент — проф. д-р Чолвит Джиаратджит, адрес, общий e-mail contact@g.swu.ac.th и телефон подтверждены",
+   "Отдел международных связей и корпоративных коммуникаций (ส่วนวิเทศสัมพันธ์และสื่อสารองค์กร): доб. 15640/15642/15666, факс +66 2 260 3637 (op.swu.ac.th/contact); прежний номер +66 2 260 1012 не подтверждён и заменён",
+   "Международный ящик ird@g.swu.ac.th и и.о. проректора по межд. связям доц. Прапапорн Роджсирируч — по списку ASEA-UNINET (дата не указана), на официальных страницах не подтверждены",
+   "Космическая проверка не проведена (квота поиска исчерпана); в nanosats.csv вуз не найден",
+   "Перепроверка: Президент, адрес, contact@g.swu.ac.th и телефон подтверждены на op.swu.ac.th 04.10.2026; адресат в межд. отделе не подтверждён"
   ],
   "mailbox_owner": "Управление международных связей (International Relations Division)",
   "addressee_name": "Asst. Prof. Dr. Prapaporn Rojsiriruch",
   "addressee_title": "И.о. проректора по международным связям и коммуникациям",
-  "salutation": "Dear Asst. Prof. Dr. Prapaporn,"
+  "salutation": "Dear Asst. Prof. Dr. Prapaporn,",
+  "recheck_ru": "Президент, адрес, contact@g.swu.ac.th и телефон подтверждены на op.swu.ac.th 04.10.2026; адресат в межд. отделе не подтверждён"
  },
  {
   "country": "Thailand",
@@ -4585,8 +4618,8 @@
   "main_fields": "Engineering, Remote Sensing and GIS, Environment and Resources, Computer Science and AI, Management, Development Studies",
   "postal_address": "58 Moo 9, Km. 42, Paholyothin Highway, Klong Luang, Pathum Thani 12120, Thailand",
   "email_general": "",
-  "email_international": "",
-  "phone": "",
+  "email_international": "oia@ait.ac.th",
+  "phone": "+66 2 524 5010",
   "website": "https://www.ait.ac.th",
   "head_name": "Prof. Pai-Chi Li",
   "head_title": "President",
@@ -4602,18 +4635,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://whed.net/institutions/IAU-014537; https://www.nationthailand.com/pr-news/pr-news/40066406; http://campusupdate.ait.asia/; nanosats.csv",
+  "sources": "https://whed.net/institutions/IAU-014537; https://www.nationthailand.com/pr-news/pr-news/40066406; http://campusupdate.ait.asia/; nanosats.csv; https://ait.ac.th/contact/ (search snippet)",
   "confidence": "low",
   "notes_ru": [
-   "Сайт ait.ac.th закрыт Cloudflare (403) — контакты не проверены",
-   "Адрес по базе WHED (IAU); президент проф. Pai-Chi Li подтверждён публикацией The Nation (май 2026)",
+   "Сайт ait.ac.th закрыт Cloudflare (403) — oia@ait.ac.th и +66 2 524 5010 взяты из поисковой выдачи по странице ait.ac.th/contact; перепроверить",
+   "Адрес по базе WHED (IAU) и выдаче официального сайта (P.O. Box 4); президент проф. Pai-Chi Li подтверждён публикацией The Nation (май 2026)",
    "В AIT сильная школа дистанционного зондирования/ГИС — потенциально интересный партнёр",
-   "Спутников в базе nanosats.csv не найдено"
+   "Спутников в базе nanosats.csv не найдено",
+   "Перепроверка: Сайт ait.ac.th по-прежнему закрыт Cloudflare (403); e-mail Office of International Affairs oia@ait.ac.th и телефон внесены по выдаче официальной страницы ait.ac.th/contact — не открыта напрямую"
   ],
-  "mailbox_owner": "",
+  "mailbox_owner": "Office of International Affairs (OIA), AIT",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "recheck_ru": "Сайт ait.ac.th по-прежнему закрыт Cloudflare (403); e-mail Office of International Affairs oia@ait.ac.th и телефон внесены по выдаче официальной страницы ait.ac.th/contact — не открыта напрямую"
  },
  {
   "country": "Thailand",
@@ -4985,7 +5020,7 @@
   "postal_address": "62/1 Kasetsomboon Road, Kalasin Sub-district, Mueang District, Kalasin 46000, Thailand (Na Mon campus: 13 Moo 14, Song Plueai, Na Mon, Kalasin 46230)",
   "email_general": "",
   "email_international": "",
-  "phone": "+66 43 811 128",
+  "phone": "+66 43 811 128 (main line, + 4-digit extension; President's Office ext. 3001/3012); +66 43 602 055",
   "website": "https://www.ksu.ac.th",
   "head_name": "Assoc. Prof. Dr. Suphan Sudson (รศ.ดร.สุพรรณ สุดสนธิ์)",
   "head_title": "President",
@@ -5001,19 +5036,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://th.ksu.ac.th/; https://th.ksu.ac.th/archives/100509; nanosats.csv",
-  "confidence": "low",
+  "sources": "https://th.ksu.ac.th/; https://th.ksu.ac.th/archives/100509; https://en.ksu.ac.th/; https://th.ksu.ac.th/เบอร์โทรศัพท์คณะ-หน่วยง (phone directory); nanosats.csv",
+  "confidence": "medium",
   "notes_ru": [
-   "E-mail университета/международного отдела на сайте не найден — нужен иной канал (телефон/Facebook)",
+   "E-mail университета/международного отдела на официальных сайтах (th./en.ksu.ac.th) не опубликован — нужен иной канал (телефон/Facebook)",
    "Ректор подтверждён новостью сайта от 3.10.2026; латинская транслитерация не подтверждена",
-   "Есть подразделение «งานวิเทศสัมพันธ์» (международные связи), руководитель не указан",
+   "Телефоны подтверждены на официальном сайте: общий 043-811-128 + добавочный (канцелярия ректора 3001/3012), EN-сайт указывает +66 43 602 055",
+   "Есть подразделение «งานวิเทศสัมพันธ์» (международные связи), руководитель и телефон не указаны",
    "Спутников в базе nanosats.csv не найдено",
-   "THE2027: участник в статусе Reporter (без места в рейтинге)"
+   "THE2027: участник в статусе Reporter (без места в рейтинге)",
+   "Перепроверка: 04.10.2026: ректор и телефоны (в т.ч. добавочные канцелярии ректора) подтверждены на официальном сайте; e-mail по-прежнему не опубликован"
   ],
   "mailbox_owner": "",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "addressee_name": "Assoc. Prof. Dr. Suphan Sudson",
+  "addressee_title": "President, Kalasin University",
+  "salutation": "Dear Dr. Sudson,",
+  "recheck_ru": "04.10.2026: ректор и телефоны (в т.ч. добавочные канцелярии ректора) подтверждены на официальном сайте; e-mail по-прежнему не опубликован"
  },
  {
   "country": "Thailand",
@@ -5091,12 +5129,14 @@
    "info@neu.ac.th и телефон взяты с приёмной страницы NEU (idcneu.com) — фактически адрес приёмной комиссии",
    "Спутников в базе nanosats.csv не найдено",
    "Спутники PROVES-Atlas и THIS-SAT в nanosats.csv принадлежат Northeastern University (США), а не тайскому вузу",
-   "THE2027: участник в статусе Reporter (без места в рейтинге)"
+   "THE2027: участник в статусе Reporter (без места в рейтинге)",
+   "Перепроверка: Сайт neu.ac.th и поддомены по-прежнему закрыты (403 Cloudflare / 502, в т.ч. WebFetch) на 04.10.2026; ректор не подтверждён; данные не изменены."
   ],
   "mailbox_owner": "Приёмная комиссия / информационная служба (info)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "recheck_ru": "Сайт neu.ac.th и поддомены по-прежнему закрыты (403 Cloudflare / 502, в т.ч. WebFetch) на 04.10.2026; ректор не подтверждён; данные не изменены."
  },
  {
   "country": "Thailand",
@@ -5128,16 +5168,18 @@
   "sources": "https://isic.rmutk.ac.th/contact/; https://admission.rmutk.ac.th/; nanosats.csv",
   "confidence": "low",
   "notes_ru": [
-   "Основной сайт rmutk.ac.th закрыт защитой Incapsula — контакты университета не проверены",
-   "Ректор не установлен: по результатам поиска в 2026 г. идёт процедура выбора ректора — уточнить перед рассылкой",
+   "Основной сайт rmutk.ac.th по-прежнему закрыт защитой Incapsula (включая WP API) — контакты университета не проверены",
+   "Ректор не установлен: по поисковому индексу официальной страницы «อธิการบดีและคณะผู้บริหาร» — รศ.ดร.พิชัย จันทร์มณี (Assoc. Prof. Dr. Pichai Chanmanee, pichai.j@mail.rmutk.ac.th), но с 05.2026 идёт процедура выбора нового ректора (приём заявок 4–10.06.2026, Dailynews 20.05.2026) — уточнить перед рассылкой; поле оставлено пустым",
    "isic_ir@mail.rmutk.ac.th — отдел международных связей Института науки, инноваций и культуры (ISIC), а не всего университета",
    "Спутников в базе nanosats.csv не найдено",
-   "THE2027: участник в статусе Reporter (без места в рейтинге)"
+   "THE2027: участник в статусе Reporter (без места в рейтинге)",
+   "Перепроверка: Сайт закрыт Incapsula; руководитель не подтверждён (идёт выбор ректора 2026), данные не изменены."
   ],
   "mailbox_owner": "Отдел международных связей Института ISIC",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "recheck_ru": "Сайт закрыт Incapsula; руководитель не подтверждён (идёт выбор ректора 2026), данные не изменены."
  },
  {
   "country": "Thailand",
@@ -6242,12 +6284,15 @@
    "Официальный сайт vinhuni.edu.vn блокирует доступ (Cloudflare 403) — контакты не проверены",
    "Ректор не подтверждён: GS.TS Nguyễn Huy Bằng был ректором на срок 2020–2025; по данным поиска в 2026 г. возможны изменения (Nguyễn Ngọc Hiền) — уточнить",
    "Телефон — Отдел обучения/приёмная кампания (из документа о приёме 2026)",
-   "E-mail не найдены; космической деятельности не выявлено (быстрая проверка по nanosats.csv)"
+   "E-mail не найдены; космической деятельности не выявлено (быстрая проверка по nanosats.csv)",
+   "Повторная проверка 04.10.2026: поисковая сводка называет ректором Nguyễn Ngọc Hiền (он же партсекретарь), но официальная страница не открылась — в поля не внесено",
+   "Перепроверка: Сайт vinhuni.edu.vn (включая поддомены) по-прежнему закрыт Cloudflare (403); ректор не подтверждён; данные не изменены"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "recheck_ru": "Сайт vinhuni.edu.vn (включая поддомены) по-прежнему закрыт Cloudflare (403); ректор не подтверждён; данные не изменены"
  },
  {
   "country": "Vietnam",
@@ -6608,15 +6653,15 @@
   "ownership": "Частный",
   "profile_type": "classical",
   "main_fields": "",
-  "postal_address": "",
+  "postal_address": "VinUniversity, Vinhomes Ocean Park, Gia Lam, Hanoi, Vietnam (по поисковой выдаче; не открыто)",
   "email_general": "",
   "email_international": "",
   "phone": "",
   "website": "https://vinuni.edu.vn",
-  "head_name": "",
-  "head_title": "",
+  "head_name": "Dr. Le Mai Lan (Lê Mai Lan)",
+  "head_title": "President",
   "party_secretary": "",
-  "head_verified_source": "",
+  "head_verified_source": "https://www.apru.org/members/vinuniversity/ (карточка члена APRU, 04.10.2026)",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -6630,14 +6675,17 @@
   "sources": "https://vinuni.edu.vn; nanosats.csv; https://usth.edu.vn/usth-va-vinuni-ky-ket-thoa-thuan-hop-tac-nham-thuc-day-phat-trien-he-sinh-thai-ba-nha-truong-vien-doanh-nghiep-33476/",
   "confidence": "low",
   "notes_ru": [
-   "Сайт vinuni.edu.vn блокирует автоматический доступ (Cloudflare 403); квота веб-поиска исчерпана — контакты и руководство не проверены, требуется ручное заполнение",
    "Частный университет группы Vingroup; имеет соглашение о сотрудничестве с USTH (новость на usth.edu.vn)",
-   "Космической деятельности не выявлено (быстрая проверка по nanosats.csv)"
+   "Космической деятельности не выявлено (быстрая проверка по nanosats.csv)",
+   "Все сайты *.vinuni.edu.vn за Cloudflare (403, 04.10.2026). Президент Dr. Le Mai Lan и ответственный за международные связи Prof. Sunmee Choi (Vice Provost of External Engagement) — по карточке члена APRU (apru.org); проректор (Provost) — Prof. Tan Yap Peng (по выдаче, новость vingroup.net)",
+   "По поисковой выдаче (не открыто): общий e-mail info@vinuni.edu.vn, тел. +84 24 7108 9779 — в поля не внесены до проверки",
+   "Перепроверка: Сайт закрыт Cloudflare; по карточке APRU добавлены президент Dr. Le Mai Lan и адресат Prof. Sunmee Choi; e-mail не подтверждён"
   ],
   "mailbox_owner": "",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "addressee_name": "Prof. Sunmee Choi",
+  "addressee_title": "Вице-проректор по внешним связям (Vice Provost of External Engagement)",
+  "salutation": "Dear Prof. Choi,",
+  "recheck_ru": "Сайт закрыт Cloudflare; по карточке APRU добавлены президент Dr. Le Mai Lan и адресат Prof. Sunmee Choi; e-mail не подтверждён"
  },
  {
   "country": "Vietnam",
@@ -6671,12 +6719,14 @@
   "notes_ru": [
    "Частный университет группы Phenikaa; сайт — SPA, страницы руководства не отдают данные; ректор не подтверждён",
    "В CMS сайта фигурирует ящик отдела внешних связей htdn@phenikaa-uni.edu.vn (не опубликован как контакт — использовать с осторожностью)",
-   "Космической деятельности не выявлено (быстрая проверка по nanosats.csv)"
+   "Космической деятельности не выявлено (быстрая проверка по nanosats.csv)",
+   "Перепроверка: Сайт phenikaa-uni.edu.vn открыт (исправлена цепочка сертификата), но страница «Ban giám hiệu» подгружает данные на клиенте — ректор не подтверждён; данные не изменены (04.10.2026)"
   ],
   "mailbox_owner": "Общий информационный ящик",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "recheck_ru": "Сайт phenikaa-uni.edu.vn открыт (исправлена цепочка сертификата), но страница «Ban giám hiệu» подгружает данные на клиенте — ректор не подтверждён; данные не изменены (04.10.2026)"
  },
  {
   "country": "Vietnam",
@@ -7489,7 +7539,7 @@
   "head_name": "Prof. Bakhtiyorjon Akbaraliyev",
   "head_title": "Rector",
   "party_secretary": "",
-  "head_verified_source": "https://t.me/s/adu_uz?q=rektori",
+  "head_verified_source": "https://t.me/s/adu_uz?q=rektori (официальный Telegram-канал, сообщение от 02.10.2026)",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -7501,18 +7551,21 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://t.me/s/adu_uz; https://abiturient.ziyonet.uz/page/vuz/11950",
-  "confidence": "low",
+  "confidence": "medium",
   "notes_ru": [
-   "Официальный сайт adu.uz закрыт защитой Cloudflare (403) — данные взяты из официального Telegram-канала (@adu_uz, сентябрь–октябрь 2026) и портала ZiyoNET.",
+   "Официальный сайт adu.uz закрыт защитой Cloudflare (403) — данные взяты из официального Telegram-канала (@adu_uz) и госпортала ZiyoNET",
+   "Ректор Бахтиёржон Акбаралиев подтверждён официальным предупреждением в Telegram-канале вуза от 02.10.2026 (о поддельных аккаунтах от его имени — при переписке использовать только официальные каналы)",
+   "Адрес, телефон и qabulxona@adu.uz — по ZiyoNET, на сайте вуза не перепроверены",
    "Отдельный e-mail международного отдела не найден; в новостях упоминается руководитель отдела международных связей «И. Хасанов» (полное имя не подтверждено).",
-   "В октябре 2026 г. вуз вёл переговоры с Воронежским государственным техническим университетом (Россия).",
    "THE2027: в статусе Reporter (без ранга).",
-   "Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.)."
+   "Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено.",
+   "Перепроверка: 04.10.2026: ректор подтверждён официальным Telegram-каналом (02.10.2026); сайт по-прежнему за Cloudflare, контакты — по ZiyoNET"
   ],
   "mailbox_owner": "Приёмная (канцелярия) университета",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "addressee_name": "Prof. Bakhtiyorjon Akbaraliyev",
+  "addressee_title": "Rector, Andijan State University",
+  "salutation": "Dear Professor Akbaraliyev,",
+  "recheck_ru": "04.10.2026: ректор подтверждён официальным Telegram-каналом (02.10.2026); сайт по-прежнему за Cloudflare, контакты — по ZiyoNET"
  },
  {
   "country": "Uzbekistan",
@@ -7724,14 +7777,14 @@
   "profile_type": "classical",
   "main_fields": "Natural sciences, Physics and mathematics, Philology, History, Economics, Pedagogy",
   "postal_address": "Nukus, Republic of Karakalpakstan, Uzbekistan",
-  "email_general": "karsu_info@edu.uz",
+  "email_general": "rector@karsu.uz; karsu_info@edu.uz",
   "email_international": "",
-  "phone": "+998 55 105 60 48",
+  "phone": "+998 55 105 60 47 (приёмная ректора); +998 55 105 60 48 (колл-центр)",
   "website": "https://karsu.uz",
-  "head_name": "Mr. Berdiyar Jollibekov",
+  "head_name": "Prof. Berdiyar Baxtiyarovich Jollibekov (DSc in Agricultural Sciences)",
   "head_title": "Rector",
   "party_secretary": "",
-  "head_verified_source": "https://www.uzdaily.uz/en/karakalpak-state-university-signs-mou-with-chinese-delegation-19-09-2026/; https://karsu.uz/api/news/posts/",
+  "head_verified_source": "https://karsu.uz/en/administration (данные через https://karsu.uz/api/menus/admin/); https://karsu.uz/api/news/posts/",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -7742,18 +7795,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://karsu.uz/en; https://karsu.uz/api/news/posts/; https://www.uzdaily.uz/en/karakalpak-state-university-signs-mou-with-chinese-delegation-19-09-2026/",
-  "confidence": "low",
+  "sources": "https://karsu.uz/en/administration; https://karsu.uz/api/menus/admin/; https://karsu.uz/en; https://karsu.uz/api/news/posts/; https://www.uzdaily.uz/en/karakalpak-state-university-signs-mou-with-chinese-delegation-19-09-2026/",
+  "confidence": "high",
   "notes_ru": [
-   "Сайт karsu.uz — SPA (Next.js); ректор Бердияр Жоллыбеков подтверждён новостями сайта и UzDaily (сентябрь 2026); ранее — ректор Каракалпакского института сельского хозяйства и агротехнологий; учёная степень не подтверждена.",
-   "Полный почтовый адрес и международный e-mail на сайте не найдены; телефон — колл-центр.",
+   "Сайт karsu.uz — SPA (Next.js), данные берутся из API; ректор Бердияр Бахтиярович Жоллыбеков (доктор сельскохозяйственных наук, профессор) подтверждён страницей руководства и новостями (сентябрь 2026); ранее — ректор Каракалпакского института сельского хозяйства и агротехнологий.",
+   "Полный почтовый адрес и международный отдел/e-mail на сайте не найдены; +998 55 105 60 48 — колл-центр.",
    "THE2027: в статусе Reporter (без ранга).",
-   "Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.)."
+   "Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.).",
+   "Перепроверка: Через API страницы «Administration» на karsu.uz 04.10.2026 подтверждены ректор Жоллыбеков Б.Б. (д.с.-х.н., профессор), rector@karsu.uz и тел. +998 55 105 60 47; международный отдел и полный адрес не найдены."
   ],
-  "mailbox_owner": "Общий ящик университета",
+  "mailbox_owner": "Приёмная ректора / общий ящик университета",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "recheck_ru": "Через API страницы «Administration» на karsu.uz 04.10.2026 подтверждены ректор Жоллыбеков Б.Б. (д.с.-х.н., профессор), rector@karsu.uz и тел. +998 55 105 60 47; международный отдел и полный адрес не найдены."
  },
  {
   "country": "Uzbekistan",
@@ -7866,15 +7921,17 @@
   "confidence": "low",
   "notes_ru": [
    "Бывший Самаркандский государственный архитектурно-строительный университет (SamDAQU); домен samdaqu.edu.uz перенаправляет на sdtu.uz.",
-   "На странице ректора указано имя «Chidem Janbay Turkyilmaz» без степени и даты — требуется проверка перед отправкой; обращение оставлено нейтральным.",
+   "Повторная проверка 04.10.2026: на странице ректора — «Chidem Janbay Turkyilmaz, Universitet Rektori» (тел. (0366) 237-15-93, samdaqu@samdaqu.edu.uz, ул. Лолазор, 70, индекс 140143); в новостях сайта упоминается «rektori Chidem Turkyilmaz» (меморандум с IT-Park), но новости и подвал сайта датированы 2022–2023 гг. — актуальность на 2026 г. не подтверждена; обращение оставлено нейтральным.",
    "Проректор по международным связям не указан; сайт international.samdaqu.edu.uz недоступен (ошибка SSL). Использовать samdaqu@samdaqu.edu.uz.",
    "THE2027: в статусе Reporter (без ранга).",
-   "Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.)."
+   "Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.).",
+   "Перепроверка: Ректор и контакты повторно найдены на сайте, но содержимое сайта датировано 2022–2023 гг.; актуальность не подтверждена, данные не изменены."
   ],
   "mailbox_owner": "Общий ящик университета (канцелярия)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "recheck_ru": "Ректор и контакты повторно найдены на сайте, но содержимое сайта датировано 2022–2023 гг.; актуальность не подтверждена, данные не изменены."
  },
  {
   "country": "Uzbekistan",
@@ -7910,12 +7967,14 @@
    "Ректор Эргашев О.К. назначен постановлением Кабмина (новость yuz.uz, 2025 г.); учёная степень не указана.",
    "Сайт namdtu.uz — SPA с частично демонстрационными данными; e-mail info@namdtu.uz взят из кода сайта, телефон и адрес не подтверждены.",
    "THE2027: в статусе Reporter (без ранга).",
-   "Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.)."
+   "Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.).",
+   "Перепроверка: Сайт namdtu.uz 04.10.2026 отдаёт пустой ответ (curl 200/0 байт, WebFetch 502); данные не изменены."
   ],
   "mailbox_owner": "Общий ящик университета",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "recheck_ru": "Сайт namdtu.uz 04.10.2026 отдаёт пустой ответ (curl 200/0 байт, WebFetch 502); данные не изменены."
  },
  {
   "country": "Uzbekistan",
@@ -7965,15 +8024,15 @@
   "ownership": "Государственный",
   "profile_type": "classical",
   "main_fields": "Pedagogy, Medicine, Philology, Natural sciences, Mathematics and informatics",
-  "postal_address": "Navoi, Uzbekistan",
-  "email_general": "info@nspi.uz",
+  "postal_address": "103 Galaba Shoh Street, Navoiy, Uzbekistan",
+  "email_general": "info@nsu.uz",
   "email_international": "",
-  "phone": "",
-  "website": "https://nspi.uz",
-  "head_name": "Prof. Muhiddin Kalonov",
-  "head_title": "Rector, Professor",
+  "phone": "+998 79 223-77-89",
+  "website": "https://ndu.uz",
+  "head_name": "Prof. Muxiddin Baxriddinovich Kalonov",
+  "head_title": "Rector, Doctor of Economics (DSc), Professor",
   "party_secretary": "",
-  "head_verified_source": "https://t.me/s/NavDU_NavSU?q=rektori",
+  "head_verified_source": "https://ndu.uz/en/",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -7984,20 +8043,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://t.me/s/NavDU_NavSU; https://kun.uz/news/2024/10/31/navoiy-davlat-universiteti-tashkil-etildi",
-  "confidence": "low",
+  "sources": "https://ndu.uz/en/; https://ndu.uz/en/international-office.html; https://t.me/s/NavDU_NavSU; https://kun.uz/news/2024/10/31/navoiy-davlat-universiteti-tashkil-etildi",
+  "confidence": "high",
   "notes_ru": [
-   "Создан в 2024 г. на базе Навоийского государственного педагогического института; домен nspi.uz сейчас показывает страницу-заглушку хостинга.",
-   "Ректор проф. Мухиддин Калонов и e-mail info@nspi.uz подтверждены официальным Telegram-каналом (@NavDU_NavSU, сентябрь–октябрь 2026).",
-   "Адрес (ул. Ибн Сино, 45) и телефон встречаются только во вторичных источниках — не подтверждены.",
    "Направления подготовки указаны ориентировочно (в Telegram упоминаются 7 факультетов, в т.ч. медицинский).",
    "THE2027: в статусе Reporter (без ранга).",
-   "Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.)."
+   "Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.).",
+   "Создан в 2024 г. на базе Навоийского государственного педагогического института; актуальный сайт — ndu.uz (nspi.uz — заглушка хостинга)",
+   "В описании Telegram-канала всё ещё указан старый ящик info@nspi.uz; на сайте ndu.uz — info@nsu.uz (общий) и admission@nsu.uz (приём)",
+   "Перепроверка: 04.10.2026: найден актуальный сайт ndu.uz — ректор, адрес, телефон, e-mail info@nsu.uz и проректор по международному сотрудничеству подтверждены (© 2026)."
   ],
-  "mailbox_owner": "Общий ящик университета",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "mailbox_owner": "Общий ящик университета (info@nsu.uz)",
+  "addressee_name": "Narzikulova Dilnoza Xoshimjonovna",
+  "addressee_title": "Проректор по международному сотрудничеству (Vice-Rector for International Cooperation)",
+  "salutation": "Dear Vice-Rector Narzikulova,",
+  "recheck_ru": "04.10.2026: найден актуальный сайт ndu.uz — ректор, адрес, телефон, e-mail info@nsu.uz и проректор по международному сотрудничеству подтверждены (© 2026)."
  },
  {
   "country": "Uzbekistan",
@@ -8130,15 +8190,15 @@
   "ownership": "Государственный",
   "profile_type": "technical/aerospace",
   "main_fields": "Chemical technology, Food technology, Pharmaceutical technology, Oil and gas processing, Biotechnology",
-  "postal_address": "32 Navoi Street, Tashkent 100011, Uzbekistan",
+  "postal_address": "Navoiy ko‘chasi, 32-uy, Toshkent 100011, Uzbekistan (32 Navoi Street, Tashkent 100011)",
   "email_general": "info@tkti.uz",
   "email_international": "",
   "phone": "+998 71 244 79 34",
   "website": "https://tkti.uz",
-  "head_name": "B. Sh. Usmonov",
+  "head_name": "Botir Sh. Usmonov (Б.Ш. Усмонов)",
   "head_title": "Rector",
   "party_secretary": "",
-  "head_verified_source": "https://pda.uzkimyosanoat.uz/oz/press/news/toshkent-kimyo-texnologiya-institutida-bitiruvchi-2026-diplo",
+  "head_verified_source": "https://tkti.uz/ (ссылка «Rektor sahifasi» → botir-usmonov.com); https://pda.uzkimyosanoat.uz/oz/press/news/toshkent-kimyo-texnologiya-institutida-bitiruvchi-2026-diplo",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -8150,17 +8210,20 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://tkti.uz/; https://tkti.uz/api/public/home/contact; https://pda.uzkimyosanoat.uz/oz/press/news/toshkent-kimyo-texnologiya-institutida-bitiruvchi-2026-diplo",
-  "confidence": "low",
+  "confidence": "medium",
   "notes_ru": [
-   "Сайт tkti.uz — SPA; контакты из официального API. Ректор указан только инициалами (Б.Ш. Усмонов) в новости АО «Узкимёсаноат» о выпуске 2026 г.; полное имя на официальной странице не подтверждено.",
-   "Международный отдел/e-mail не найден.",
+   "Сайт tkti.uz — SPA; главная открыта через r.jina.ai 04.10.2026, страницы ректората/международного отдела в reader-сервисе не отрисовываются (404). Ректор: инициалы Б.Ш. Усмонов (новость АО «Узкимёсаноат», выпуск 2026) + имя «Botir» из официальной ссылки «Rektor sahifasi» (домен botir-usmonov.com сейчас не резолвится); полное отчество не подтверждено.",
+   "Проректоры (новости сайта): по академической деятельности — Т. Сафаров; по научной работе и инновациям — Х. Пулатов.",
+   "Международный отдел/e-mail не найден (на сайте есть разделы International: partners, exchange, erasmus — без контактов в reader-версии).",
    "THE2027: в статусе Reporter (без ранга).",
-   "Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.)."
+   "Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.).",
+   "Перепроверка: Главная tkti.uz открыта через reader-сервис 04.10.2026: адрес, info@tkti.uz и телефон подтверждены; имя ректора уточнено по официальной ссылке «Rektor sahifasi» (Botir Usmonov), отчество полностью не подтверждено."
   ],
   "mailbox_owner": "Общий ящик института",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "recheck_ru": "Главная tkti.uz открыта через reader-сервис 04.10.2026: адрес, info@tkti.uz и телефон подтверждены; имя ректора уточнено по официальной ссылке «Rektor sahifasi» (Botir Usmonov), отчество полностью не подтверждено."
  },
  {
   "country": "Nigeria",
@@ -8640,12 +8703,14 @@
    "В выдаче фигурируют общие адреса support@lmu.edu.ng и feedback@lmu.edu.ng (и admissions@) — не подтверждены, в поле не внесены",
    "Ректор Prof. Kolawole O. Ajanaku с 01.09.2023 — актуальность на 2026 г. не подтверждена",
    "Частный аграрно-ориентированный университет Living Faith Church (как Covenant)",
-   "Космических проектов не выявлено (nanosats.csv)"
+   "Космических проектов не выявлено (nanosats.csv)",
+   "Перепроверка: Сайт lmu.edu.ng по-прежнему недоступен (ошибка TLS / 502 на v4.); ректор Ajanaku подтверждается только выдачей официальной страницы VC — данные не изменены"
   ],
   "mailbox_owner": "",
   "addressee_name": "Prof. Kolawole O. Ajanaku",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Ajanaku,"
+  "salutation": "Dear Prof. Ajanaku,",
+  "recheck_ru": "Сайт lmu.edu.ng по-прежнему недоступен (ошибка TLS / 502 на v4.); ректор Ajanaku подтверждается только выдачей официальной страницы VC — данные не изменены"
  },
  {
   "country": "Nigeria",
@@ -8791,18 +8856,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://unizik.edu.ng/; https://unizik.edu.ng/contact; https://unizik.edu.ng/contact-us/ (search snippet); nanosats.csv",
-  "confidence": "low",
+  "sources": "https://unizik.edu.ng/; https://unizik.edu.ng/contact; https://unizik.edu.ng/contact-us/ (search snippet, P.M.B. 5025); nanosats.csv",
+  "confidence": "high",
   "notes_ru": [
-   "Сайт переделан: на новой странице контактов нет e-mail; info@unizik.edu.ng и P.M.B. 5025 взяты из поисковой выдачи по старой странице — проверить",
+   "info@unizik.edu.ng подтверждён на текущей официальной странице Contact (адрес защищён Cloudflare-обфускацией); P.M.B. 5025 — из старой страницы (поисковая выдача), на новой указано лишь «Awka, Anambra State»",
    "Телефон на сайте выглядит как заглушка (+234 (0)46 800 000) — не использован",
-   "Ректор Prof. Ugochukwu Anyaehie указан на главной странице (после смены руководства в 2025 г.; уточнить, не и.о. ли)",
-   "Международный офис не найден; космических проектов не выявлено (nanosats.csv)"
+   "Ректор Prof. Ugochukwu Anyaehie указан на главной странице в блоке «Office of the Vice-Chancellor» (без пометки «Acting»); проректоры: Prof. Alex C. Asigbo (Academic), Prof. Hilda Osisioma (Administration); регистратор — Chinenye Gloria Okeke",
+   "Международный офис не найден; космических проектов не выявлено (nanosats.csv)",
+   "Перепроверка: 04.10.2026: ректор и info@unizik.edu.ng подтверждены на официальном сайте (главная и Contact)"
   ],
   "mailbox_owner": "Общая канцелярия университета",
   "addressee_name": "Prof. Ugochukwu Bond-Stanley Anyaehie",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Anyaehie,"
+  "salutation": "Dear Prof. Anyaehie,",
+  "recheck_ru": "04.10.2026: ректор и info@unizik.edu.ng подтверждены на официальном сайте (главная и Contact)"
  },
  {
   "country": "Nigeria",
@@ -8820,7 +8887,7 @@
   "head_name": "Prof. Edoba Omoregie, SAN",
   "head_title": "Vice-Chancellor",
   "party_secretary": "",
-  "head_verified_source": "https://www.uniben.edu/vchancellor.html (search snippet)",
+  "head_verified_source": "https://www.nuc.edu.ng/nigerian-univerisities/federal-univeristies/ (National Universities Commission, список федеральных вузов); https://www.uniben.edu/vchancellor.html (search snippet)",
   "rank_qs": "",
   "rank_the": "THE2027: 1401–1600",
   "rank_national": "",
@@ -8831,17 +8898,19 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.uniben.edu/vchancellor.html; https://uniben.edu/contact.html (search snippets); https://en.wikipedia.org/wiki/Edoba_Omoregie; nanosats.csv",
-  "confidence": "low",
+  "sources": "https://www.nuc.edu.ng/nigerian-univerisities/federal-univeristies/; https://www.uniben.edu/vchancellor.html; https://uniben.edu/contact.html (search snippets); https://en.wikipedia.org/wiki/Edoba_Omoregie; nanosats.csv",
+  "confidence": "medium",
   "notes_ru": [
-   "Сайт uniben.edu закрыт Cloudflare (403) — контакты взяты из поисковой выдачи по официальной странице, требуют проверки",
-   "Ректор Prof. Edoba Omoregie, SAN — 11-й ректор UNIBEN",
-   "Международный офис не найден; космических проектов не выявлено (nanosats.csv)"
+   "Сайт uniben.edu закрыт Cloudflare (403) — контакты (registrar@uniben.edu, телефон) взяты из поисковой выдачи по официальной странице, требуют проверки",
+   "Ректор Prof. Edoba (Bright) Omoregie, SAN — 11-й ректор UNIBEN; подтверждён списком NUC (там с опечаткой «Adoba»); NUC указывает домен uniben.edu.ng",
+   "Международный офис не найден; космических проектов не выявлено (nanosats.csv)",
+   "Перепроверка: 04.10.2026: ректор (VC) Prof. Edoba Bright Omoregie подтверждён в официальном списке федеральных вузов NUC; сайт uniben.edu по-прежнему закрыт Cloudflare (403) — e-mail и телефон не подтверждены."
   ],
   "mailbox_owner": "Канцелярия регистратора",
   "addressee_name": "",
   "addressee_title": "Регистратор",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "recheck_ru": "04.10.2026: ректор (VC) Prof. Edoba Bright Omoregie подтверждён в официальном списке федеральных вузов NUC; сайт uniben.edu по-прежнему закрыт Cloudflare (403) — e-mail и телефон не подтверждены."
  },
  {
   "country": "Nigeria",
@@ -8913,15 +8982,18 @@
   "sources": "https://unimaid.edu.ng/; https://unimaid.edu.ng/Principal_Officers.php; nanosats.csv",
   "confidence": "low",
   "notes_ru": [
-   "На сайте не опубликованы e-mail; телефон на главной — заглушка (+234 80 123 1234); страница контактов пустая",
+   "Повторная проверка 04.10.2026: на сайте по-прежнему не опубликованы e-mail; телефон в шапке — заглушка (+234 80 123 1234 / 1 800 123 4567); страница contact.php пустая",
+   "ВК проф. Mohammed Laminu Mele указан на главной и на странице Principal Officers (в должности с 18.09.2024 — по Wikipedia)",
    "Нужен иной канал связи (напр., через посольство/NUC)",
    "Северо-восток Нигерии (Борно) — регион с проблемами безопасности",
-   "Космических проектов не выявлено (nanosats.csv)"
+   "Космических проектов не выявлено (nanosats.csv)",
+   "Перепроверка: ВК подтверждён на сайте; контактов на сайте по-прежнему нет (заглушки) — данные не изменены."
   ],
   "mailbox_owner": "",
   "addressee_name": "Prof. Mohammed Laminu Mele",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Mele,"
+  "salutation": "Dear Prof. Mele,",
+  "recheck_ru": "ВК подтверждён на сайте; контактов на сайте по-прежнему нет (заглушки) — данные не изменены."
  },
  {
   "country": "Nigeria",
@@ -9072,12 +9144,14 @@
   "notes_ru": [
    "Домен oouagoiwoye.edu.ng перенаправляет на портал CCED — официальная главная страница недоступна; контакты из поисковой выдачи, требуют проверки",
    "Ректор Prof. Ayodeji Agboola с октября 2022 г. (по данным поиска); регистратор Olufemi Ayodele Ogunwomoju",
-   "Космических проектов не выявлено (nanosats.csv)"
+   "Космических проектов не выявлено (nanosats.csv)",
+   "Перепроверка: Домен oouagoiwoye.edu.ng (все пути) перенаправляет на студенческий портал CCED, portal.oouagoiwoye.edu.ng не содержит контактов и данных о руководстве; данные не изменены."
   ],
   "mailbox_owner": "Канцелярия регистратора",
   "addressee_name": "",
   "addressee_title": "Регистратор",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "recheck_ru": "Домен oouagoiwoye.edu.ng (все пути) перенаправляет на студенческий портал CCED, portal.oouagoiwoye.edu.ng не содержит контактов и данных о руководстве; данные не изменены."
  },
  {
   "country": "Nigeria",
@@ -9134,7 +9208,7 @@
   "head_name": "Prof. Samuel Ogheneovo Asagba",
   "head_title": "Vice-Chancellor",
   "party_secretary": "",
-  "head_verified_source": "https://delsu.edu.ng/Principal-officers",
+  "head_verified_source": "https://www.delsu.edu.ng/Principal-officers",
   "rank_qs": "",
   "rank_the": "THE2027: 2001+",
   "rank_national": "",
@@ -9146,16 +9220,19 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://delsu.edu.ng/; https://delsu.edu.ng/Principal-officers; https://crip.delsu.edu.ng/default.aspx; nanosats.csv",
-  "confidence": "low",
+  "confidence": "medium",
   "notes_ru": [
    "На сайте не опубликован ни один e-mail; телефон — со страницы Centre for Research and International Programme (CRIP), страница устаревшая (упоминает прежнего ректора)",
    "Международные связи — Centre for Research and International Programme (CRIP)",
-   "Космических проектов не выявлено (nanosats.csv)"
+   "Космических проектов не выявлено (nanosats.csv)",
+   "Регистратор: Mrs. Rufina U. Ufiofio (страница Principal Officers)",
+   "Перепроверка: 04.10.2026: ректор Prof. S. O. Asagba подтверждён на главной и странице Principal Officers; e-mail на сайте по-прежнему не опубликован (страница /contact — 404)."
   ],
   "mailbox_owner": "Центр исследований и международных программ (CRIP)",
   "addressee_name": "",
   "addressee_title": "Директор CRIP",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "recheck_ru": "04.10.2026: ректор Prof. S. O. Asagba подтверждён на главной и странице Principal Officers; e-mail на сайте по-прежнему не опубликован (страница /contact — 404)."
  },
  {
   "country": "Nigeria",
@@ -9166,9 +9243,9 @@
   "profile_type": "classical",
   "main_fields": "Natural Sciences, Engineering, Agriculture, Medicine, Law, Education & Social Sciences",
   "postal_address": "Ekiti State University, Iworoko Road, P.M.B. 5363, Ado-Ekiti, Ekiti State, Nigeria",
-  "email_general": "",
+  "email_general": "registrar@eksu.edu.ng",
   "email_international": "",
-  "phone": "",
+  "phone": "+234 803 855 8350 (Registrar)",
   "website": "https://eksu.edu.ng",
   "head_name": "Prof. Joseph Babatola Ayodele",
   "head_title": "Vice-Chancellor",
@@ -9185,18 +9262,20 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://eksu.edu.ng/administration/; https://www.ekitistate.gov.ng/archives/29174; nanosats.csv",
-  "confidence": "low",
+  "confidence": "medium",
   "notes_ru": [
-   "Главная страница eksu.edu.ng за Cloudflare; страница Administration доступна",
-   "На странице Administration e-mail регистратора закодирован как «registrar@eksu.edu» (вероятно, усечённый registrar@eksu.edu.ng) — не внесён, требует проверки",
+   "Главная страница eksu.edu.ng за Cloudflare; страница Administration доступна (дата обновления не указана).",
+   "E-mail регистратора registrar@eksu.edu.ng взят из ссылки mailto на странице Administration (видимый текст усечён до «registrar@eksu.edu»); регистратор — Mr. Joseph Ife Oluwole (с 10.05.2021).",
    "Ректор Prof. Joseph Babatola Ayodele — 9-й ректор, с 20.08.2024",
-   "Адрес (P.M.B. 5363) — из поисковой выдачи",
-   "Космических проектов не выявлено (nanosats.csv)"
+   "Адрес (P.M.B. 5363) — из поисковой выдачи; страница контактов на сайте отсутствует (404). Отдельный офис международных связей не найден.",
+   "Космических проектов не выявлено (nanosats.csv)",
+   "Перепроверка: Страница Administration повторно открыта 04.10.2026: ректор Prof. J.B. Ayodele (с 20.08.2024) подтверждён; e-mail регистратора декодирован из ссылки mailto — registrar@eksu.edu.ng, добавлен телефон регистратора."
   ],
-  "mailbox_owner": "",
+  "mailbox_owner": "Регистратор (Registrar, Mr. Joseph Ife Oluwole)",
   "addressee_name": "Prof. Joseph Babatola Ayodele",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Ayodele,"
+  "salutation": "Dear Prof. Ayodele,",
+  "recheck_ru": "Страница Administration повторно открыта 04.10.2026: ректор Prof. J.B. Ayodele (с 20.08.2024) подтверждён; e-mail регистратора декодирован из ссылки mailto — registrar@eksu.edu.ng, добавлен телефон регистратора."
  },
  {
   "country": "Nigeria",
@@ -9269,12 +9348,14 @@
   "notes_ru": [
    "Сайт fuoye.edu.ng возвращает 403 — контакты из поисковой выдачи по официальным страницам, требуют проверки",
    "Общие адреса по выдаче: info@fuoye.edu.ng, support@fuoye.edu.ng",
-   "Космических проектов не выявлено (nanosats.csv)"
+   "Космических проектов не выявлено (nanosats.csv)",
+   "Перепроверка: Сайт fuoye.edu.ng (включая vc.fuoye.edu.ng) по-прежнему отдаёт 403/антибот-заглушку; данные не изменены"
   ],
   "mailbox_owner": "Офис ректора",
   "addressee_name": "Prof. Joshua Olalekan Ogunwole",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Ogunwole,"
+  "salutation": "Dear Prof. Ogunwole,",
+  "recheck_ru": "Сайт fuoye.edu.ng (включая vc.fuoye.edu.ng) по-прежнему отдаёт 403/антибот-заглушку; данные не изменены"
  },
  {
   "country": "Nigeria",
@@ -9449,7 +9530,7 @@
   "head_name": "Prof. Ndukwe Okeudo",
   "head_title": "Vice-Chancellor",
   "party_secretary": "",
-  "head_verified_source": "https://abiastateuniversity.edu.ng/vice-chancellor",
+  "head_verified_source": "https://abiastateuniversity.edu.ng/vice-chancellor (SPA; имя и телефон в текущем JS-бандле сайта, проверено 04.10.2026)",
   "rank_qs": "",
   "rank_the": "THE2027: THE2027 Reporter (unranked)",
   "rank_national": "",
@@ -9461,15 +9542,18 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://abiastateuniversity.edu.ng/ (site code); nanosats.csv",
-  "confidence": "low",
+  "confidence": "medium",
   "notes_ru": [
    "Сайт — SPA; данные извлечены из кода сайта; официальный e-mail не опубликован (в коде указан только support@absu.com — не домен вуза, не использован)",
-   "Международный офис не найден; космических проектов не выявлено (nanosats.csv)"
+   "Международный офис не найден; космических проектов не выявлено (nanosats.csv)",
+   "Повторная проверка 04.10.2026: в текущей версии официального сайта (SPA) по-прежнему VC — Prof. Ndukwe Okeudo, тел. +234 901 800 3421; домены absu.edu.ng/portal.absu.edu.ng недоступны; e-mail с доменом вуза не найден",
+   "Перепроверка: Ректор и телефон подтверждены в текущей версии официального сайта 04.10.2026; официального e-mail по-прежнему нет"
   ],
   "mailbox_owner": "",
   "addressee_name": "Prof. Ndukwe Okeudo",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Okeudo,"
+  "salutation": "Dear Prof. Okeudo,",
+  "recheck_ru": "Ректор и телефон подтверждены в текущей версии официального сайта 04.10.2026; официального e-mail по-прежнему нет"
  },
  {
   "country": "Nigeria",
@@ -9582,12 +9666,14 @@
    "Сайт acu.edu.ng закрыт Cloudflare — контакты взяты из поисковой выдачи по официальным страницам, требуют проверки",
    "Prof. Ebunoluwa Oduwole — первая женщина-ректор ACU (назначена в 2025 г.)",
    "Частный англиканский университет; международный офис не найден",
-   "Космических проектов не выявлено (nanosats.csv)"
+   "Космических проектов не выявлено (nanosats.csv)",
+   "Перепроверка: acu.edu.ng (включая /contact) закрыт Cloudflare 403 — данные не изменены (04.10.2026)"
   ],
   "mailbox_owner": "Офис ректора",
   "addressee_name": "Prof. Ebunoluwa Olufemi Oduwole",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Oduwole,"
+  "salutation": "Dear Prof. Oduwole,",
+  "recheck_ru": "acu.edu.ng (включая /contact) закрыт Cloudflare 403 — данные не изменены (04.10.2026)"
  },
  {
   "country": "Nigeria",
@@ -9654,18 +9740,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.citypeopleonline.com/aletheia-university-takes-off-in-ago-iwoye/; https://thecccworldwide.org/2023/12/alethia-university-berths-at-ago-iwoye-ogun-state/; https://myschoolgist.com/news/aletheia-university-jupeb-approval-188161/ (search snippet); nanosats.csv",
+  "sources": "https://www.citypeopleonline.com/aletheia-university-takes-off-in-ago-iwoye/; https://thecccworldwide.org/2023/12/alethia-university-berths-at-ago-iwoye-ogun-state/; https://myschoolgist.com/news/aletheia-university-jupeb-approval-188161/ (search snippet); nanosats.csv; https://edugist.org/avoid-destructive-vices-focus-on-your-future-aletheia-university-vc-advises-matriculating-students/",
   "confidence": "low",
   "notes_ru": [
    "Новый частный университет (лицензия 2023, открыт 20.01.2024); основатель/канцлер — генерал-майор в отставке Dr. S. A. Awosanya",
-   "Официальный сайт недоступен (502), домен aua.edu.ng не подтверждён; e-mail и телефон не найдены (в агрегаторах — номера посредников «по продаже форм», не использованы)",
-   "Имя ректора — только из поисковой выдачи, не подтверждено",
-   "Космических проектов нет; приоритет для рассылки низкий"
+   "Официальный сайт недоступен (домен aua.edu.ng не резолвится / 502), домен не подтверждён; e-mail и телефон не найдены (в агрегаторах — номера посредников «по продаже форм», не использованы)",
+   "Имя ректора не подтверждено: Prof. Olukayode Dewumi Akinyemi — только из поисковой выдачи (MySchoolGist, 2026); в июне 2024 г. Vice-Chancellor — Prof. Amos Onasanya (Edugist, 18.06.2024) — возможна смена, перепроверить",
+   "Космических проектов нет; приоритет для рассылки низкий",
+   "Перепроверка: Сайт aua.edu.ng не резолвится (DNS/502); ректор не подтверждён: в 2024 г. VC был Prof. Amos Onasanya (Edugist, 18.06.2024), Akinyemi — только по сниппету 2026 г."
   ],
   "mailbox_owner": "",
   "addressee_name": "Prof. Olukayode Dewumi Akinyemi",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Akinyemi,"
+  "salutation": "Dear Prof. Akinyemi,",
+  "recheck_ru": "Сайт aua.edu.ng не резолвится (DNS/502); ректор не подтверждён: в 2024 г. VC был Prof. Amos Onasanya (Edugist, 18.06.2024), Akinyemi — только по сниппету 2026 г."
  },
  {
   "country": "Nigeria",
@@ -9950,15 +10038,15 @@
   "ownership": "Частный",
   "profile_type": "classical",
   "main_fields": "Theology & Social Sciences, Business & Administration, Law, Health Sciences, Engineering & Computing, Education",
-  "postal_address": "Uganda Christian University, P.O. Box 4, Mukono, Uganda",
-  "email_general": "",
+  "postal_address": "Plot 67-173, Mukono Hill, Bishop Tucker Road, P.O. Box 4, Mukono, Uganda",
+  "email_general": "info@ucu.ac.ug",
   "email_international": "",
-  "phone": "",
+  "phone": "+256 312 350 800",
   "website": "https://ucu.ac.ug",
   "head_name": "Prof. Aaron Mushengyezi",
   "head_title": "Vice Chancellor",
   "party_secretary": "",
-  "head_verified_source": "https://whed.net/institutions/IAU-016984",
+  "head_verified_source": "https://ucu.ac.ug/vice-chancellor-urges-new-students-to-embrace-excellence/ (08.09.2026); https://ucu.ac.ug/vice-chancellor/",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -9969,19 +10057,19 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://whed.net/institutions/IAU-016984",
-  "confidence": "low",
+  "sources": "https://ucu.ac.ug/contact-us/; https://ucu.ac.ug/vice-chancellor/; https://ucu.ac.ug/vice-chancellor-urges-new-students-to-embrace-excellence/; https://ucu.ac.ug/partnerships/; https://whed.net/institutions/IAU-016984",
+  "confidence": "high",
   "notes_ru": [
-   "Официальный сайт ucu.ac.ug недоступен (ошибка DNS/502 прокси) — контакты не проверены",
-   "Ректор взят из базы IAU WHED (дата обновления неизвестна); по поиску — в должности с августа 2020",
-   "По поисковой выдаче: info@ucu.ac.ug, тел. +256 312 350 800 — не подтверждено на открытой странице",
-   "WHED указывает International Relations Officer: Elizabeth Balyejusa Kizito — актуальность не подтверждена",
-   "Частный (Англиканская церковь Уганды)"
+   "Через curl сайт недоступен (DNS/502 прокси), открыт через WebFetch",
+   "Отдельный e-mail международного офиса на сайте не найден; WHED указывает International Relations Officer: Elizabeth Balyejusa Kizito — актуальность не подтверждена",
+   "Частный (Англиканская церковь Уганды)",
+   "Перепроверка: Через WebFetch открыт официальный сайт ucu.ac.ug (04.10.2026): ВК проф. Aaron Mushengyezi подтверждён новостью от 08.09.2026; адрес, info@ucu.ac.ug, registrar@ucu.ac.ug и тел. +256 312 350 800 подтверждены на странице Contact Us."
   ],
-  "mailbox_owner": "",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "mailbox_owner": "Общий ящик университета (info); альтернатива — registrar@ucu.ac.ug",
+  "addressee_name": "Prof. Aaron Mushengyezi",
+  "addressee_title": "Vice Chancellor",
+  "salutation": "Dear Professor Mushengyezi,",
+  "recheck_ru": "Через WebFetch открыт официальный сайт ucu.ac.ug (04.10.2026): ВК проф. Aaron Mushengyezi подтверждён новостью от 08.09.2026; адрес, info@ucu.ac.ug, registrar@ucu.ac.ug и тел. +256 312 350 800 подтверждены на странице Contact Us."
  },
  {
   "country": "Uganda",
@@ -10424,15 +10512,15 @@
   "ownership": "Государственный",
   "profile_type": "classical",
   "main_fields": "Engineering (Electrical, Mechanical, Chemical, Civil), Computer Science & Automation, Agricultural Sciences, Natural Sciences, Social Sciences & Humanities, Economics",
-  "postal_address": "Carretera a Camajuaní km 5½, 50100 Santa Clara, Villa Clara, Cuba",
+  "postal_address": "Carretera a Camajuaní km 5½, Santa Clara, Villa Clara, Cuba",
   "email_general": "",
-  "email_international": "",
-  "phone": "",
+  "email_international": "yanelysd@uclv.edu.cu",
+  "phone": "+53 42 281618 (Dirección de Relaciones Internacionales); +53 42 281417 (Secretaría General)",
   "website": "https://www.uclv.edu.cu",
-  "head_name": "",
+  "head_name": "Dr. C. Luis Antonio Barranco Olivera",
   "head_title": "Rector",
   "party_secretary": "",
-  "head_verified_source": "",
+  "head_verified_source": "https://www.uclv.edu.cu/",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -10444,18 +10532,19 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://www.unirank.org/cu/uni/universidad-central-marta-abreu-de-las-villas/; https://en.wikipedia.org/wiki/University_%22Marta_Abreu%22_of_Las_Villas; https://es.wikipedia.org/wiki/Universidad_Central_de_Las_Villas",
-  "confidence": "low",
+  "confidence": "high",
   "notes_ru": [
-   "Сайты кубинских вузов (.cu) недоступны из нашей сети (503/сброс соединения) — контакты из сторонних каталогов (uniRank, Grupo La Rábida, Wikipedia, Cubadebate)",
-   "Ректор не подтверждён: англ. Википедия — Dr. Osana Molerio Pérez, исп. Википедия/поиск — Dr. C. Luis Antonio Barranco Olivera; уточнить перед отправкой",
-   "E-mail и телефоны не найдены на доступных страницах",
+   "Сайт uclv.edu.cu напрямую из нашей сети недоступен; страницы (главная, «Internacionalización») открыты через r.jina.ai 04.10.2026. Почтовый индекс 50100 на официальной странице не указан (взят ранее из каталогов) — удалён из адреса.",
+   "Заместитель директора по междунар. связям: Nosley Pérez Castellano (nosleypc@uclv.cu, 42 281410); методист по междунар. сотрудничеству: Milagros Sarduy Valdés (milagrossv@uclv.edu.cu). Есть офис UCLV в Китае (Чжэнчжоу), oficinachina@uclv.edu.cu.",
    "Быстрая проверка космической активности (поиск + nanosats.csv): спутников не обнаружено",
-   "Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем"
+   "Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем",
+   "Перепроверка: Ректор (Luis Antonio Barranco Olivera), директор по международным связям (e-mail, тел.) и адрес подтверждены на uclv.edu.cu 04.10.2026 (через reader-сервис)."
   ],
-  "mailbox_owner": "",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Head of the International Relations Office,"
+  "mailbox_owner": "Директор по международным связям (Dirección de Relaciones Internacionales)",
+  "addressee_name": "Dra. Yanelys Delgado Triana",
+  "addressee_title": "Директор по международным связям (Directora de Relaciones Internacionales)",
+  "salutation": "Dear Dr. Delgado Triana,",
+  "recheck_ru": "Ректор (Luis Antonio Barranco Olivera), директор по международным связям (e-mail, тел.) и адрес подтверждены на uclv.edu.cu 04.10.2026 (через reader-сервис)."
  },
  {
   "country": "Cuba",
@@ -10491,12 +10580,14 @@
    "Ректор Diana Sedal Yanes (назначена в 2017, упоминалась в 2023) — по исп. Википедии; англ. Википедия называет Zaida Valdés Estrada; актуальность на 2025–2026 не подтверждена",
    "E-mail и телефоны не найдены на доступных страницах",
    "Быстрая проверка космической активности (поиск + nanosats.csv): спутников не обнаружено",
-   "Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем"
+   "Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем",
+   "Перепроверка: Сайты .cu (uo.edu.cu, mes.gob.cu, ecured.cu, cubadebate.cu) по-прежнему недоступны 04.10.2026; данные не изменены"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Relations Office,"
+  "salutation": "Dear Head of the International Relations Office,",
+  "recheck_ru": "Сайты .cu (uo.edu.cu, mes.gob.cu, ecured.cu, cubadebate.cu) по-прежнему недоступны 04.10.2026; данные не изменены"
  },
  {
   "country": "Cuba",
@@ -10507,14 +10598,14 @@
   "profile_type": "technical/aerospace",
   "main_fields": "Informatics Engineering, Software Engineering, Cybersecurity, Bioinformatics, Telecommunications, Digital Media",
   "postal_address": "Carretera a San Antonio de los Baños km 2½, Torrens, Boyeros, La Habana, Cuba",
-  "email_general": "",
+  "email_general": "rector@uci.cu",
   "email_international": "",
-  "phone": "",
+  "phone": "+53 7 837 2548",
   "website": "https://www.uci.cu",
-  "head_name": "",
+  "head_name": "Dr. C. Raydel Montesino Perurena",
   "head_title": "Rector",
   "party_secretary": "",
-  "head_verified_source": "",
+  "head_verified_source": "https://www.prensa-latina.cu/2026/05/28/reconoce-diaz-canel-papel-de-la-uci-en-soberania-tecnologica-de-cuba/ (28.05.2026); https://www.grupolarabida.org/universidad/universidad-de-ciencias-informaticas-uci-cuba/",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -10526,18 +10617,20 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://www.unirank.org/cu/uni/universidad-de-las-ciencias-informaticas/",
-  "confidence": "low",
+  "confidence": "medium",
   "notes_ru": [
    "Сайты кубинских вузов (.cu) недоступны из нашей сети (503/сброс соединения) — контакты из сторонних каталогов (uniRank, Grupo La Rábida, Wikipedia, Cubadebate)",
-   "Ректор по поисковой выдаче с uci.cu — Dr. C. Raydel Montesino Perurena; страница не открылась — не подтверждено",
-   "E-mail и телефоны не найдены на доступных страницах",
    "Быстрая проверка космической активности (поиск + nanosats.csv): спутников не обнаружено",
-   "Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем"
+   "Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем",
+   "Сайт uci.cu по-прежнему недоступен (503, 04.10.2026). Ректор Raydel Montesino Perurena подтверждён репортажем Prensa Latina от 28.05.2026 (визит президента Díaz-Canel) и справочником ассоциации Grupo La Rábida",
+   "E-mail rector@uci.cu и тел. (7) 837 2548 — из справочника Grupo La Rábida (дата обновления не указана); там же муниципалитет указан как La Lisa (а не Boyeros) — уточнить",
+   "Перепроверка: Ректор подтверждён Prensa Latina (05.2026) и Grupo La Rábida; добавлены rector@uci.cu и телефон из справочника La Rábida; сайт вуза недоступен"
   ],
-  "mailbox_owner": "",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Head of the International Relations Office,"
+  "mailbox_owner": "Ректор (по справочнику Grupo La Rábida)",
+  "addressee_name": "Dr. C. Raydel Montesino Perurena",
+  "addressee_title": "Ректор",
+  "salutation": "Estimado Dr. Montesino:",
+  "recheck_ru": "Ректор подтверждён Prensa Latina (05.2026) и Grupo La Rábida; добавлены rector@uci.cu и телефон из справочника La Rábida; сайт вуза недоступен"
  },
  {
   "country": "Cuba",
@@ -10573,12 +10666,14 @@
    "Ректор Julio Madera Quintana — по Cubadebate (поисковая выдача, дата не установлена) и исп. Википедии; каталог Grupo La Rábida указывает устаревшего ректора (Santiago Lajes Choy)",
    "E-mail driuc@reduc.edu.cu (Дирекция межд. отношений) — из каталога La Rábida, дата неизвестна",
    "Быстрая проверка космической активности (поиск + nanosats.csv): спутников не обнаружено",
-   "Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем"
+   "Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем",
+   "Перепроверка: Сайт reduc.edu.cu и портал МВО Кубы mes.gob.cu недоступны (503 / сброс соединения, WebFetch 503) — данные не изменены (04.10.2026)"
   ],
   "mailbox_owner": "Дирекция международных отношений (DRI)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Relations Office,"
+  "salutation": "Dear Head of the International Relations Office,",
+  "recheck_ru": "Сайт reduc.edu.cu и портал МВО Кубы mes.gob.cu недоступны (503 / сброс соединения, WebFetch 503) — данные не изменены (04.10.2026)"
  },
  {
   "country": "Cuba",
@@ -10596,7 +10691,7 @@
   "head_name": "Dr. C. Aniuska Ortiz Pérez",
   "head_title": "Rector",
   "party_secretary": "",
-  "head_verified_source": "https://www.grupolarabida.org/universidad/universidad-de-holguin-uho-cuba/",
+  "head_verified_source": "https://www.uho.edu.cu/2026/07/09/la-universidad-de-holguin-gradua-nuevos-profesionales-en-el-curso-2026/ (official news, search snippet); https://www.radioangulo.cu/2026/07/01/participa-rectora-de-universidad-de-holguin-en-foro-de-educacion-superior-en-brasil/ (search snippet); https://www.grupolarabida.org/universidad/universidad-de-holguin-uho-cuba/",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -10607,18 +10702,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.grupolarabida.org/universidad/universidad-de-holguin-uho-cuba/; https://es.wikipedia.org/wiki/Universidad_de_Holgu%C3%ADn",
+  "sources": "https://www.grupolarabida.org/universidad/universidad-de-holguin-uho-cuba/; https://es.wikipedia.org/wiki/Universidad_de_Holgu%C3%ADn; https://www.radioangulo.cu/2026/07/01/participa-rectora-de-universidad-de-holguin-en-foro-de-educacion-superior-en-brasil/ (snippet)",
   "confidence": "low",
   "notes_ru": [
-   "Сайты кубинских вузов (.cu) недоступны из нашей сети (503/сброс соединения) — контакты из сторонних каталогов (uniRank, Grupo La Rábida, Wikipedia, Cubadebate)",
-   "Ректор Aniuska Ortiz Pérez — по каталогу Grupo La Rábida и исп. Википедии (дата не установлена; не подтверждено источником 2025–2026)",
+   "Сайты кубинских вузов (.cu) недоступны из нашей сети (503/сброс соединения, повторно 04.10.2026) — контакты из сторонних каталогов (uniRank, Grupo La Rábida, Wikipedia, Cubadebate); rector@uho.edu.cu не подтверждён",
+   "Ректор Aniuska Ortiz Pérez — действующая в 2026 г. по поисковой выдаче официальных новостей uho.edu.cu (выпуск 09.07.2026) и Radio Angulo (01.07.2026); страницы не открыты",
    "Быстрая проверка космической активности (поиск + nanosats.csv): спутников не обнаружено",
-   "Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем"
+   "Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем",
+   "Перепроверка: Ректор Aniuska Ortiz Pérez — действующая по выдаче официальных новостей uho.edu.cu и Radio Angulo (07.2026); сайты .cu по-прежнему недоступны — контакты не подтверждены"
   ],
   "mailbox_owner": "Ректорат",
   "addressee_name": "Dr. C. Aniuska Ortiz Pérez",
   "addressee_title": "Ректор",
-  "salutation": "Dear Dr. Ortiz Pérez,"
+  "salutation": "Dear Dr. Ortiz Pérez,",
+  "recheck_ru": "Ректор Aniuska Ortiz Pérez — действующая по выдаче официальных новостей uho.edu.cu и Radio Angulo (07.2026); сайты .cu по-прежнему недоступны — контакты не подтверждены"
  },
  {
   "country": "Cuba",
@@ -10654,12 +10751,14 @@
    "Ректор подтверждена Cubadebate (май 2024) — более свежего подтверждения нет",
    "Полный почтовый адрес, e-mail и телефоны не найдены на доступных страницах",
    "Быстрая проверка космической активности (поиск + nanosats.csv): спутников не обнаружено",
-   "Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем"
+   "Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем",
+   "Перепроверка: 04.10.2026: umcc.cu по-прежнему недоступен (https — нет соединения, http — 503); данные не изменены"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Relations Office,"
+  "salutation": "Dear Head of the International Relations Office,",
+  "recheck_ru": "04.10.2026: umcc.cu по-прежнему недоступен (https — нет соединения, http — 503); данные не изменены"
  },
  {
   "country": "Cuba",
@@ -10695,12 +10794,14 @@
    "Ректор 'Yorki Mayor' по Cubadebate (декабрь 2024); полное имя и учёная степень не указаны",
    "E-mail и телефоны не найдены на доступных страницах",
    "Быстрая проверка космической активности (поиск + nanosats.csv): спутников не обнаружено",
-   "Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем"
+   "Куба под санкциями США (эмбарго) — учитывать при выборе платёжных/логистических схем",
+   "Перепроверка: Сайт upr.edu.cu и сайт МВО Кубы (mes.gob.cu) по-прежнему недоступны (04.10.2026); данные не изменены."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Relations Office,"
+  "salutation": "Dear Head of the International Relations Office,",
+  "recheck_ru": "Сайт upr.edu.cu и сайт МВО Кубы (mes.gob.cu) по-прежнему недоступны (04.10.2026); данные не изменены."
  },
  {
   "country": "Cuba",
@@ -10710,7 +10811,7 @@
   "ownership": "Государственный (агентство / НИИ)",
   "profile_type": "research institute",
   "main_fields": "Geophysics, Astronomy & Astrophysics, Space Weather & Ionospheric Physics, Geomagnetism, Seismology",
-  "postal_address": "Instituto de Geofísica y Astronomía, La Habana, Cuba",
+  "postal_address": "Instituto de Geofísica y Astronomía, Calle 212 No. 2906, e/ 29 y 31, Rpto. La Coronela, La Lisa, La Habana, CP 11600, Cuba",
   "email_general": "",
   "email_international": "",
   "phone": "",
@@ -10729,19 +10830,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://ror.org/05e5m0q38",
+  "sources": "https://ror.org/05e5m0q38; https://www.iga.cu/quienes/ (по поисковому индексу); https://www.granma.cu/ciencia/2026-08-24/reconocimiento-internacional-para-el-instituto-de-geofisica-y-astronomia (заголовок в выдаче)",
   "confidence": "low",
   "notes_ru": [
-   "Сайт iga.cu недоступен из нашей сети (503) как и все сайты .cu; квота веб-поиска исчерпана — директор, адрес, e-mail и телефоны не установлены",
-   "Существование и сайт подтверждены реестром ROR (ror.org/05e5m0q38)",
+   "Сайт iga.cu и все сайты .cu (granma.cu, ecured.cu) по-прежнему недоступны из нашей сети (503 / сброс соединения) — страницы не открыты",
+   "По поисковой выдаче (вероятно, страница iga.cu/quienes, дата не установлена): директор — Lic. Zulia Bárcena Fonseca, тел. приёмной директора 72714331 (+53 7 271 4331) — НЕ ПРОВЕРЕНО, в поля не внесено; адрес внесён по той же выдаче",
+   "Существование и сайт подтверждены реестром ROR (ror.org/05e5m0q38); институт активен в 2026 г. (публикации Granma 08.2026, cuba.cu 04.2026)",
    "Подведомственность (по-видимому, Агентство по окружающей среде AMA / министерство CITMA) не подтверждена",
    "Спутников, построенных институтом, не обнаружено (nanosats.csv); наземные станции/сотрудничество с агентствами не проверены",
-   "Куба под санкциями США (эмбарго)"
+   "Куба под санкциями США (эмбарго)",
+   "Перепроверка: Сайты .cu недоступны; по поисковой выдаче добавлен адрес, имя директора и телефон — только в примечаниях, не проверены."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director,"
+  "salutation": "Dear Director,",
+  "recheck_ru": "Сайты .cu недоступны; по поисковой выдаче добавлен адрес, имя директора и телефон — только в примечаниях, не проверены."
  },
  {
   "country": "Bolivia",
@@ -10835,12 +10939,12 @@
   "postal_address": "Universidad Autónoma Gabriel René Moreno, Santa Cruz de la Sierra, Bolivia",
   "email_general": "",
   "email_international": "",
-  "phone": "",
+  "phone": "+591 3 336 5533; +591 3 336 5544",
   "website": "https://www.uagrm.edu.bo",
   "head_name": "Dr. Reinerio Vargas Banegas",
   "head_title": "Rector",
   "party_secretary": "",
-  "head_verified_source": "https://www.uagrm.edu.bo/unidades-administrativas/rectorado",
+  "head_verified_source": "https://www.uagrm.edu.bo/unidades-administrativas/rectorado; https://eju.tv/2026/08/rector-de-la-uagrm-pide-al-gobierno-sincerarse-y-ofrece-apoyo-cientifico-de-las-universidades/",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -10851,18 +10955,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.uagrm.edu.bo/; https://www.uagrm.edu.bo/unidades-administrativas/rectorado; https://www.uagrm.edu.bo/contacto",
-  "confidence": "low",
+  "sources": "https://www.uagrm.edu.bo/; https://www.uagrm.edu.bo/unidades-administrativas/rectorado; https://www.uagrm.edu.bo/contacto; https://eju.tv/2026/08/rector-de-la-uagrm-pide-al-gobierno-sincerarse-y-ofrece-apoyo-cientifico-de-las-universidades/",
+  "confidence": "medium",
   "notes_ru": [
-   "Ректор указан на странице ректората (без даты)",
-   "Общий e-mail, адрес и телефон ректората на сайте не найдены; страница 'Contacto' содержит только контакты по факультетам (центры обработки данных)",
-   "Международный офис не найден",
-   "Быстрая проверка космической активности (nanosats.csv + сайт): спутников не обнаружено"
+   "Ректор Dr. Reinerio Vargas Banegas указан на официальной странице ректората; срок полномочий 2025–2029 (вступил в должность 23.09.2025), упоминается как ректор в СМИ в 2026 г.",
+   "Телефоны (591-3) 336-5533 / 336-5544 и факс 334-2160 — из подвала официального сайта (без указания подразделения)",
+   "Общий e-mail и точный почтовый адрес ректората на сайте не найдены; страница 'Contacto' содержит только контакты факультетских CPD",
+   "Международные связи — подразделение RPNI (Relaciones Públicas Nacionales e Internacionales), страница /unidades-administrativas/rpni отдаёт 403 — контакты не получены",
+   "Быстрая проверка космической активности (nanosats.csv + сайт): спутников не обнаружено",
+   "Перепроверка: Ректор подтверждён на сайте и в СМИ 2026 г. (срок 2025–2029); добавлен телефон с официального сайта 04.10.2026; e-mail не найден."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Relations Office,"
+  "salutation": "Dear Head of the International Relations Office,",
+  "recheck_ru": "Ректор подтверждён на сайте и в СМИ 2026 г. (срок 2025–2029); добавлен телефон с официального сайта 04.10.2026; e-mail не найден."
  },
  {
   "country": "Bolivia",
@@ -11034,7 +11141,7 @@
   "postal_address": "Calle Serrudo s/n esq. Av. Cívica, Potosí, Bolivia",
   "email_general": "informaciones@uatf.edu.bo",
   "email_international": "",
-  "phone": "",
+  "phone": "+591 2 6227300 (Rectorado); Relaciones Públicas e Internacionales: +591 2 6227730",
   "website": "https://www.uatf.edu.bo",
   "head_name": "",
   "head_title": "Rector",
@@ -11050,17 +11157,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.uatf.edu.bo/",
+  "sources": "https://www.uatf.edu.bo/; https://swservice.uatf.edu.bo/api/agenda/type (официальный телефонный справочник UATF, записи 2022 г.)",
   "confidence": "low",
   "notes_ru": [
-   "Сайт — одностраничное JS-приложение; имя ректора, телефоны и международный офис извлечь не удалось",
-   "Адрес и e-mail взяты из кода сайта (футер)",
-   "Быстрая проверка космической активности (nanosats.csv + сайт): спутников не обнаружено"
+   "Сайт — одностраничное JS-приложение; имя ректора и e-mail международного офиса извлечь не удалось",
+   "Адрес и e-mail взяты из кода сайта (футер); телефоны — из официального телефонного справочника (API swservice.uatf.edu.bo, обновлён в 2022 г., возможна неактуальность)",
+   "Есть подразделение «Relaciones Públicas e Internacionales» (тел. 6227730), e-mail не найден",
+   "Быстрая проверка космической активности (nanosats.csv + сайт): спутников не обнаружено",
+   "Перепроверка: Из официального API-справочника сайта (swservice.uatf.edu.bo, записи 2022 г.) добавлены телефоны ректората и отдела по связям с общественностью и международным связям; имя ректора на официальных страницах по-прежнему не найдено."
   ],
   "mailbox_owner": "Информационная служба",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Rector,"
+  "salutation": "Dear Rector,",
+  "recheck_ru": "Из официального API-справочника сайта (swservice.uatf.edu.bo, записи 2022 г.) добавлены телефоны ректората и отдела по связям с общественностью и международным связям; имя ректора на официальных страницах по-прежнему не найдено."
  },
  {
   "country": "Bolivia",
@@ -11748,12 +11858,14 @@
    "Сайт mslu.by недоступен из нашей среды (ошибка прокси 502 / DNS), контакты и ректор не проверены — заполнить вручную перед рассылкой.",
    "Лингвистический профиль — космическая тематика маловероятна; возможна роль партнёра по языковой подготовке.",
    "Спутниковых проектов не найдено (быстрая проверка по nanosats.csv/поиску).",
-   "В выгрузках санкционных списков EU/UK/OFAC/US Entity List вуз и ректор не найдены; учитывать общий санкционный режим ЕС в отношении Беларуси."
+   "В выгрузках санкционных списков EU/UK/OFAC/US Entity List вуз и ректор не найдены; учитывать общий санкционный режим ЕС в отношении Беларуси.",
+   "Перепроверка: Сайт mslu.by по-прежнему недоступен (04.10.2026: ошибка прокси 502 / DNS, WebFetch — EAI_AGAIN); на сайте Минобразования РБ данных о ректоре нет; данные не изменены."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "recheck_ru": "Сайт mslu.by по-прежнему недоступен (04.10.2026: ошибка прокси 502 / DNS, WebFetch — EAI_AGAIN); на сайте Минобразования РБ данных о ректоре нет; данные не изменены."
  },
  {
   "country": "Belarus",

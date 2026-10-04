@@ -367,10 +367,10 @@
   "email_international": "",
   "phone": "",
   "website": "https://www.njust.edu.cn",
-  "head_name": "Fu Mengyin (付梦印)",
+  "head_name": "Yang Yixin (杨益新)",
   "head_title": "President",
   "party_secretary": "Lu Guibin (路贵斌)",
-  "head_verified_source": "",
+  "head_verified_source": "https://zs.njust.edu.cn/3550/list.htm (новости 31.08.2026, 10.09.2026); https://zs.njust.edu.cn/a9/a2/c3550a371106/page.htm; https://www.edu.cn/ke_yan_yu_fa_zhan/gao_xiao_cheng_guo/gao_xiao_zi_xun/202509/t20250922_2691129.shtml",
   "rank_qs": "QS2027: 675",
   "rank_the": "THE2027: 551-600",
   "rank_national": "BCUR2026: 36",
@@ -381,15 +381,16 @@
   "space_units": "",
   "agency_partnerships": "QB50 (NJUST-1)",
   "restricted_list": "US Entity List; Seven Sons of National Defence",
-  "sources": "https://en.wikipedia.org/wiki/Nanjing_University_of_Science_and_Technology; https://zh.wikipedia.org/zh-cn/南京理工大学; https://zh.wikipedia.org/zh-cn/付梦印; https://www.timeshighereducation.com/world-university-rankings/nanjing-university-science-and-technology; https://www.163.com/dy/article/KVMPBEEK05218435.html; https://kaoyan.koolearn.com/20260417/1941118.html; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; https://en.wikipedia.org/wiki/Seven_Sons_of_National_Defence; nanosats.eu export (local nanosats.csv); https://gjc.njust.edu.cn/",
-  "confidence": "low",
-  "notes": "Official site (njust.edu.cn) behind anti-bot JS challenge - could not open leaders/contact pages. Leaders taken from Chinese Wikipedia (President since 2015; Party Secretary as of Dec 2024) - NOT verified for 2025-26, re-check. TW-1B (2015, alias 'NJUST-2') is credited to Shanghai Engineering Centre for Microsatellites in nanosats.eu, so not counted.",
+  "sources": "https://en.wikipedia.org/wiki/Nanjing_University_of_Science_and_Technology; https://zh.wikipedia.org/zh-cn/南京理工大学; https://zh.wikipedia.org/zh-cn/付梦印; https://www.timeshighereducation.com/world-university-rankings/nanjing-university-science-and-technology; https://www.163.com/dy/article/KVMPBEEK05218435.html; https://kaoyan.koolearn.com/20260417/1941118.html; https://researchpolicy.caltech.edu/research-security/international_collaboration/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government; https://en.wikipedia.org/wiki/Seven_Sons_of_National_Defence; nanosats.eu export (local nanosats.csv); https://gjc.njust.edu.cn/; https://zs.njust.edu.cn/3550/list.htm; https://zs.njust.edu.cn/a9/a2/c3550a371106/page.htm; https://www.edu.cn/ke_yan_yu_fa_zhan/gao_xiao_cheng_guo/gao_xiao_zi_xun/202509/t20250922_2691129.shtml",
+  "confidence": "medium",
+  "notes": "Official main site (njust.edu.cn, english., gjc.) behind anti-bot JS challenge - contact pages not opened. Leadership verified 2026 on official news site zs.njust.edu.cn: President Yang Yixin (appointed by MIIT Sept 2025, replacing Fu Mengyin), Party Secretary Lu Guibin. TW-1B (2015, alias 'NJUST-2') is credited to Shanghai Engineering Centre for Microsatellites in nanosats.eu, so not counted.",
   "ownership": "Государственный (Минпроминформатизации КНР, MIIT)",
   "notes_ru": [
    "Сайт njust.edu.cn закрыт антибот-защитой — страницы руководства и контактов не открылись",
-   "Руководство взято из китайской Википедии, не подтверждено на 2025–2026 — перепроверить",
    "TW-1B (2015) в nanosats.eu приписан Шанхайскому центру микроспутников — не учтён",
-   "Адресат: Сайты njust.edu.cn (включая gjc.njust.edu.cn и english.njust.edu.cn) закрыты анти-бот защитой (JS-челлендж), страницы прочитать не удалось. Ни e-mail отдела, ни имя начальника подтвердить нельзя, нужно проверить вручную в браузере."
+   "Адресат: Сайты njust.edu.cn (включая gjc.njust.edu.cn и english.njust.edu.cn) закрыты анти-бот защитой (JS-челлендж), страницы прочитать не удалось. Ни e-mail отдела, ни имя начальника подтвердить нельзя, нужно проверить вручную в браузере.",
+   "ИСПРАВЛЕНО: ректор (校长) с сентября 2025 — Ян Исинь (杨益新), назначен МПИ КНР вместо Фу Мэнъиня; подтверждено новостями официального сайта zs.njust.edu.cn (31.08.2026, 10.09.2026). Партсекретарь Лу Гуйбинь (路贵斌) подтверждён там же (сент. 2026)",
+   "Перепроверка: Руководство исправлено и подтверждено на новостном сайте вуза (сент. 2026): президент Ян Исинь вместо Фу Мэнъиня; контакты международного отдела по-прежнему не открываются"
   ],
   "outreach_email_new": "",
   "mailbox_owner": "Отдел международных обменов и сотрудничества (国际交流合作处) / Офис по делам Гонконга, Макао и Тайваня",
@@ -398,7 +399,8 @@
   "salutation": "Dear Director of the Office of International Exchange and Cooperation,",
   "addressee_source": "https://gjc.njust.edu.cn/",
   "addressee_confidence": "low",
-  "city": "Нанкин"
+  "city": "Нанкин",
+  "recheck_ru": "Руководство исправлено и подтверждено на новостном сайте вуза (сент. 2026): президент Ян Исинь вместо Фу Мэнъиня; контакты международного отдела по-прежнему не открываются"
  },
  {
   "country": "China",
@@ -2148,9 +2150,9 @@
   "profile_type": "technical/aerospace",
   "main_fields": "Chemical engineering, materials science, biotechnology & pharmaceutical engineering, safety engineering, civil engineering, energy",
   "postal_address": "No. 30 Puzhu South Road, Jiangbei New Area, Nanjing, Jiangsu 211816, P.R. China",
-  "email_general": "",
+  "email_general": "president@njtech.edu.cn",
   "email_international": "",
-  "phone": "",
+  "phone": "+86 25 5813 9023",
   "website": "https://www.njtech.edu.cn (EN: http://en.njtech.edu.cn)",
   "head_name": "Jiang Juncheng (蒋军成)",
   "head_title": "President",
@@ -2166,17 +2168,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.njtech.edu.cn/; https://www.njtech.edu.cn/xxgk/xrld.htm; local the.html (THE WUR 2027 data)",
-  "confidence": "low",
+  "sources": "https://www.njtech.edu.cn/; https://www.njtech.edu.cn/xxgk/xrld.htm; https://www.njtech.edu.cn/xzxx.htm; local the.html (THE WUR 2027 data)",
+  "confidence": "high",
   "notes_ru": [
-   "Сайт международного отдела (ico.njtech.edu.cn) доступен только из кампусной сети, англ. сайт отвечает ошибкой 483 — e-mail международного отдела и телефон не получены.",
+   "Сайт международного отдела (ico.njtech.edu.cn) и телефонный справочник (hqc.njtech.edu.cn) доступны только из кампусной сети (ошибка 483) — отдельный e-mail международного отдела не получен; использован ящик президента со страницы «校长信箱»",
+   "Учёное звание президента (Prof.) на странице руководства не указано — по общедоступным данным он профессор",
    "Собственных спутников не найдено (одна быстрая проверка по запросу «<название> 卫星 发射»).",
-   "В QS2027 не входит."
+   "В QS2027 не входит.",
+   "Перепроверка: Президент Цзян Цзюньчэн и партсекретарь подтверждены на njtech.edu.cn 04.10.2026; добавлены e-mail president@njtech.edu.cn и тел. 025-58139023 со страницы «校长信箱»"
   ],
-  "mailbox_owner": "",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "mailbox_owner": "Ящик «校长信箱» (обращения к президенту университета)",
+  "addressee_name": "Prof. Jiang Juncheng",
+  "addressee_title": "President",
+  "salutation": "Dear President Jiang,",
+  "recheck_ru": "Президент Цзян Цзюньчэн и партсекретарь подтверждены на njtech.edu.cn 04.10.2026; добавлены e-mail president@njtech.edu.cn и тел. 025-58139023 со страницы «校长信箱»"
  },
  {
   "country": "China",
@@ -2510,10 +2515,10 @@
   "email_international": "",
   "phone": "",
   "website": "https://www.wit.edu.cn",
-  "head_name": "",
-  "head_title": "",
+  "head_name": "Prof. Zhang Yanduo (张彦铎)",
+  "head_title": "President (校长); Deputy Party Secretary",
   "party_secretary": "",
-  "head_verified_source": "",
+  "head_verified_source": "https://www.acabridge.cn/zxhz/202503/t20250325_2660464.shtml (26.03.2025, со ссылкой на WIT); https://news.wit.edu.cn/info/1011/353401.htm (official news, search snippet; site unreachable)",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "BCUR2026: 169",
@@ -2524,18 +2529,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://zh.wikipedia.org/wiki/武汉工程大学 (official site wit.edu.cn unreachable)",
+  "sources": "https://zh.wikipedia.org/wiki/武汉工程大学 (official site wit.edu.cn unreachable); https://www.acabridge.cn/zxhz/202503/t20250325_2660464.shtml; https://m.thepaper.cn/newsDetail_forward_30492832",
   "confidence": "low",
   "notes_ru": [
-   "Официальный сайт wit.edu.cn и все поддомены недоступны (503 / сброс соединения) — руководство и контакты проверить не удалось.",
-   "По Википедии ректор — Zhang Yanduo (张彦铎), но данные 2025–2026 гг. не подтверждены, поэтому поле head_name пустое.",
+   "Официальный сайт wit.edu.cn и все поддомены недоступны (503 / сброс соединения, повторно 04.10.2026) — контакты (e-mail, телефон, международный отдел) проверить не удалось",
+   "Ректор Zhang Yanduo (张彦铎) назначен 24.03.2025 решением парткома провинции Хубэй (акаде­мические СМИ 2025 г. со ссылкой на WIT; официальная новость news.wit.edu.cn видна только в поисковой выдаче)",
    "Адрес взят из Википедии (кампус Учан) — уточнить индекс.",
-   "Собственных спутников не найдено (одна быстрая проверка по запросу «<название> 卫星 发射»)."
+   "Собственных спутников не найдено (одна быстрая проверка по запросу «<название> 卫星 发射»).",
+   "Перепроверка: Ректор Чжан Яньдо (назначен 24.03.2025) подтверждён публикациями 2025 г. со ссылкой на WIT; сайт wit.edu.cn по-прежнему недоступен (503) — контакты не проверены"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "recheck_ru": "Ректор Чжан Яньдо (назначен 24.03.2025) подтверждён публикациями 2025 г. со ссылкой на WIT; сайт wit.edu.cn по-прежнему недоступен (503) — контакты не проверены"
  },
  {
   "country": "China",
@@ -3253,12 +3260,14 @@
   "notes_ru": [
    "Официальный сайт www.nwnu.edu.cn блокирует автоматический доступ (HTTP 412, антибот-защита), поддомены недоступны через прокси — контакты, руководство и адрес не проверены; требуется ручная проверка в браузере",
    "Лимит веб-поиска исчерпан — спутниковая проверка выполнена только по nanosats.eu (упоминаний нет)",
-   "В рейтингах QS2027 (топ-500) и THE не найден; в US Entity List не найден"
+   "В рейтингах QS2027 (топ-500) и THE не найден; в US Entity List не найден",
+   "Перепроверка: 04.10.2026: сайт и поддомены nwnu.edu.cn по-прежнему закрыты антибот-защитой (HTTP 412) или недоступны; данные не изменены"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "recheck_ru": "04.10.2026: сайт и поддомены nwnu.edu.cn по-прежнему закрыты антибот-защитой (HTTP 412) или недоступны; данные не изменены"
  },
  {
   "country": "China",
@@ -3292,12 +3301,14 @@
   "notes_ru": [
    "Официальный сайт www.hbut.edu.cn и поддомены недоступны из среды исследования (DNS/прокси отклоняют соединение) — контакты, руководство и адрес не проверены; требуется ручная проверка",
    "Лимит веб-поиска исчерпан — спутниковая проверка выполнена только по nanosats.eu (упоминаний нет)",
-   "В рейтингах QS2027 (топ-500) и THE не найден; в US Entity List не найден"
+   "В рейтингах QS2027 (топ-500) и THE не найден; в US Entity List не найден",
+   "Перепроверка: Сайт hbut.edu.cn и англ. поддомены по-прежнему недоступны (04.10.2026, 502/DNS); данные не изменены."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "recheck_ru": "Сайт hbut.edu.cn и англ. поддомены по-прежнему недоступны (04.10.2026, 502/DNS); данные не изменены."
  },
  {
   "country": "China",
@@ -4072,15 +4083,15 @@
   "ownership": "Государственный (провинция Ляонин)",
   "profile_type": "classical",
   "main_fields": "Education and psychology, Geography and marine/urban studies, Chinese literature, Marxist theory, Mathematics, Life sciences",
-  "postal_address": "Dalian, Liaoning, China (Huanghe Road and Xishan Lake campuses)",
-  "email_general": "",
+  "postal_address": "Liaoning Normal University, No. 850 Huanghe Road, Shahekou District, Dalian, Liaoning 116029, China (辽宁省大连市沙河口区黄河路850号)",
+  "email_general": "dzoffice@lnnu.edu.cn",
   "email_international": "",
   "phone": "",
   "website": "http://www.lnnu.edu.cn",
   "head_name": "Luo Wenbo (罗文波)",
   "head_title": "President",
   "party_secretary": "Liu Hong (刘宏)",
-  "head_verified_source": "https://zh.wikipedia.org/wiki/辽宁师范大学",
+  "head_verified_source": "https://www.lnnu.edu.cn/xxgk/dzld.htm",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "BCUR2026: 162",
@@ -4091,17 +4102,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://zh.wikipedia.org/wiki/辽宁师范大学; https://www.nanosats.eu/database; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744",
-  "confidence": "low",
+  "sources": "https://www.lnnu.edu.cn/xxgk/dzld.htm; https://www2023.lnnu.edu.cn/bgdh/dqxzjg.htm; https://gjy.lnnu.edu.cn/; https://www.nanosats.eu/database; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744",
+  "confidence": "high",
   "notes_ru": [
-   "Официальный сайт www.lnnu.edu.cn недоступен (HTTP 503 / таймаут через curl и WebFetch) — контакты, адрес и руководство не проверены по официальным источникам",
-   "Руководство указано только по китайской Википедии (без даты) — обязательно перепроверить перед рассылкой",
-   "Проверка спутников: поиск в вебе не выполнен (общая квота WebSearch исчерпана); по базе nanosats.eu совпадений нет — satellites_launched=0 не подтверждено полноценно"
+   "Ректор (校长) Ло Вэньбо и партсекретарь Лю Хун подтверждены на официальной странице «党政领导» (страница с новостями от 09.2026)",
+   "dzoffice@lnnu.edu.cn — официальный «校长邮箱» (ящик ректора) из подвала сайта; адрес — из подвала официального сайта",
+   "Телефон и e-mail отдела международного сотрудничества (国际合作与交流处) не извлечены; есть Колледж международного образования gjy.lnnu.edu.cn (почта cie925@163.com — сторонний домен, не использована)",
+   "Проверка спутников: по базе nanosats.eu совпадений нет; веб-поиск не выполнялся — satellites_launched=0 не подтверждено полноценно",
+   "Перепроверка: Сайт стал доступен: руководство, адрес и ящик ректора подтверждены на официальном сайте 04.10.2026."
   ],
-  "mailbox_owner": "",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "mailbox_owner": "President's mailbox (校长邮箱)",
+  "addressee_name": "Luo Wenbo",
+  "addressee_title": "President",
+  "salutation": "Dear President Luo,",
+  "recheck_ru": "Сайт стал доступен: руководство, адрес и ящик ректора подтверждены на официальном сайте 04.10.2026."
  },
  {
   "country": "China",
@@ -4175,12 +4189,14 @@
   "notes_ru": [
    "Официальный сайт www.bistu.edu.cn недоступен (DNS/503 через curl и WebFetch) — контакты не проверены",
    "Руководство — по китайской Википедии (назначения август 2023), перепроверить на 2026 год",
-   "Проверка спутников: поиск в вебе не выполнен (общая квота WebSearch исчерпана); по базе nanosats.eu совпадений нет — satellites_launched=0 не подтверждено полноценно"
+   "Проверка спутников: поиск в вебе не выполнен (общая квота WebSearch исчерпана); по базе nanosats.eu совпадений нет — satellites_launched=0 не подтверждено полноценно",
+   "Перепроверка: Сайт bistu.edu.cn (включая en.) недоступен через прокси (curl — нет соединения, WebFetch 503) 04.10.2026; данные не изменены."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "recheck_ru": "Сайт bistu.edu.cn (включая en.) недоступен через прокси (curl — нет соединения, WebFetch 503) 04.10.2026; данные не изменены."
  },
  {
   "country": "China",
@@ -4255,12 +4271,14 @@
    "Все сайты *.sylu.edu.cn недоступны из нашей сети (таймаут/503) — адрес, телефоны и e-mail не верифицированы, поля оставлены пустыми.",
    "По данным поиска (не проверено на официальной странице): отдел междунар. сотрудничества — тел. +86-24-24686047, адрес Nanping Zhonglu 6, Hunnan, Shenyang 110159; Институт междунар. образования gjjyxy@sylu.edu.cn (+86-24-24681016 — набор из русскоязычных стран).",
    "Собственных спутников не найдено (в вузе хранится резервный экземпляр «Дунфанхун-1», но это не разработка вуза).",
-   "Вуз оборонного профиля (бывший Шэньянский промышленный институт), в QS/THE не ранжирован; руководство подтверждено новостью Минобразования провинции Ляонин от 01.05.2026."
+   "Вуз оборонного профиля (бывший Шэньянский промышленный институт), в QS/THE не ранжирован; руководство подтверждено новостью Минобразования провинции Ляонин от 01.05.2026.",
+   "Перепроверка: 04.10.2026: *.sylu.edu.cn недоступны (502/DNS), сайт Департамента образования провинции Ляонин тоже — данные не изменены."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "recheck_ru": "04.10.2026: *.sylu.edu.cn недоступны (502/DNS), сайт Департамента образования провинции Ляонин тоже — данные не изменены."
  },
  {
   "country": "China",
@@ -4451,12 +4469,14 @@
    "Сайты njnu.edu.cn / nnu.edu.cn блокируют автоматический доступ (HTTP 412) — адрес, телефон и e-mail не верифицированы.",
    "Ректор Хуан Хэ (академик CAE) — с марта 2026; партсекретарь Шан Цинфэй — с января 2026 (по новостям ScienceNet со ссылкой на официальный сайт).",
    "По данным поиска (не проверено): адрес 1 Wenyuan Road, Qixia District, Nanjing 210023; кабинет начальника отдела междунар. сотрудничества +86-25-83598530.",
-   "Спутников не найдено (один быстрый поиск)."
+   "Спутников не найдено (один быстрый поиск).",
+   "Перепроверка: Все домены njnu.edu.cn (www, en, gjc) по-прежнему отдают анти-бот-защиту HTTP 412 (04.10.2026); обход не выполнялся, данные не изменены."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "recheck_ru": "Все домены njnu.edu.cn (www, en, gjc) по-прежнему отдают анти-бот-защиту HTTP 412 (04.10.2026); обход не выполнялся, данные не изменены."
  },
  {
   "country": "China",
@@ -4707,10 +4727,10 @@
   "email_international": "",
   "phone": "",
   "website": "https://www.cdut.edu.cn",
-  "head_name": "",
+  "head_name": "Xu Qiang (许强)",
   "head_title": "President (校长)",
   "party_secretary": "Shen Huoming (沈火明)",
-  "head_verified_source": "https://news.sciencenet.cn/htmlnews/2026/5/564279.shtm",
+  "head_verified_source": "https://www.93sc.gov.cn/view/40661.html (назначение, окт. 2023); https://news.sciencenet.cn/htmlnews/2026/5/564279.shtm",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "BCUR2026: 127",
@@ -4721,18 +4741,21 @@
   "space_units": "Undergraduate planetary science programme; Joint Laboratory of Planetary Science and Supercomputing (with National Supercomputing Center in Chengdu)",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://news.sciencenet.cn/htmlnews/2026/5/564279.shtm; https://www.thecover.cn/news/l2OGfSFrxYuH90qSdq8Jkw==; https://m.163.com/dy/article/KVMPBEEK05218435.html; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744",
+  "sources": "https://news.sciencenet.cn/htmlnews/2026/5/564279.shtm; https://www.thecover.cn/news/l2OGfSFrxYuH90qSdq8Jkw==; https://m.163.com/dy/article/KVMPBEEK05218435.html; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744; https://www.93sc.gov.cn/view/40661.html",
   "confidence": "low",
   "notes_ru": [
    "Сайт cdut.edu.cn блокирует автоматический доступ (HTTP 412) — контакты и ректор не верифицированы.",
    "Партсекретарь Шэнь Хоумин назначен 08.05.2026 (новость ScienceNet со ссылкой на вуз). Ректор по данным поиска — Сюй Цян (许强, с окт. 2023), на официальной странице не проверено.",
    "Космическое направление: планетология (сведения из одного поиска); собственных спутников не найдено.",
-   "В рейтингах QS 2027 и THE 2027 не представлен."
+   "В рейтингах QS 2027 и THE 2027 не представлен.",
+   "Повторная проверка 04.10.2026: все поддомены cdut.edu.cn (www, news, gjc, /en) отдают HTTP 412 (антибот) или недоступны. Ректор Сюй Цян (许强) внесён по сайту провинциального комитета Цзюсань (93sc.gov.cn) о назначении в окт. 2023; на 2025–2026 официально не подтверждён",
+   "Перепроверка: Сайт вуза по-прежнему блокирует доступ (412); ректор Сюй Цян внесён по сообщению 93sc.gov.cn (2023), контакты не найдены — уровень low сохранён"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "recheck_ru": "Сайт вуза по-прежнему блокирует доступ (412); ректор Сюй Цян внесён по сообщению 93sc.gov.cn (2023), контакты не найдены — уровень low сохранён"
  },
  {
   "country": "China",
@@ -5181,15 +5204,15 @@
   "ownership": "Государственный (Минобразования КНР)",
   "profile_type": "technical/aerospace",
   "main_fields": "Chemical engineering, Chemistry, Materials science, Bioengineering and pharmacy, Mechanical and power engineering, Information science",
-  "postal_address": "130 Meilong Road, Shanghai 200237, China",
+  "postal_address": "130 Meilong Road, Shanghai 200237, China (上海市梅陇路130号, 邮编 200237)",
   "email_general": "",
   "email_international": "iao@ecust.edu.cn",
-  "phone": "+86-21-64252952 (Office of International Cooperation and Exchange)",
+  "phone": "+86-21-64252952 (Office of International Cooperation and Exchange, по сниппету); коммутатор/справочная +86-21-64253300",
   "website": "https://www.ecust.edu.cn",
   "head_name": "Xuan Fuzhen (轩福贞)",
   "head_title": "President (校长); Deputy Party Secretary",
   "party_secretary": "Jiang Chuanhai (蒋传海)",
-  "head_verified_source": "https://www.ecust.edu.cn/589/list.htm",
+  "head_verified_source": "https://www.ecust.edu.cn/589/list.htm (открыта 04.10.2026: 校长、党委副书记 轩福贞, с 12.2020)",
   "rank_qs": "QS2027: 670",
   "rank_the": "THE2027: 551–600",
   "rank_national": "BCUR2026: 42",
@@ -5201,16 +5224,19 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://www.ecust.edu.cn/589/list.htm; https://www.ecust.edu.cn/main.htm; https://ice.ecust.edu.cn/about.aspx (blocked, campus-only); http://www.qianmu.org/ranking (QS2027 list); https://www.compassedu.hk/qs_2027_1205; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://www.shanghairanking.cn/rankings/bcur/2026",
-  "confidence": "low",
+  "confidence": "medium",
   "notes_ru": [
    "Сайт Отдела международного сотрудничества (ice.ecust.edu.cn) доступен только из кампуса; e-mail iao@ecust.edu.cn и телефон взяты из поискового сниппета этой страницы, не проверены открытием — перепроверить.",
    "По тому же сниппету директором отдела указан Li Yongsheng (李永生, ysli@ecust.edu.cn, 021-64252435) — дата не известна, в addressee не внесено.",
-   "По одному быстрому поиску («<название> 卫星 发射») собственных запущенных спутников не найдено (LIGHT-проверка)."
+   "По одному быстрому поиску («<название> 卫星 发射») собственных запущенных спутников не найдено (LIGHT-проверка).",
+   "Ректор, адрес и номер справочной (64253300) подтверждены на официальном сайте www.ecust.edu.cn 04.10.2026; сайты cie./ice.ecust.edu.cn отдают HTTP 483 (только из кампуса) — e-mail отдела не перепроверен",
+   "Перепроверка: Ректор Сюань Фучжэнь, адрес и телефон справочной подтверждены на сайте 04.10.2026; e-mail международного отдела по-прежнему только из сниппета"
   ],
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处 / 港澳台事务办公室)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "recheck_ru": "Ректор Сюань Фучжэнь, адрес и телефон справочной подтверждены на сайте 04.10.2026; e-mail международного отдела по-прежнему только из сниппета"
  },
  {
   "country": "China",
@@ -5319,16 +5345,18 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://www.ujs.edu.cn/xxgk/xxld2.htm; https://eng.ujs.edu.cn/About_JSU/Contact_Us.htm; http://foreign.ujs.edu.cn/ (campus-only); http://www.qianmu.org/ranking (QS2027 list); https://www.compassedu.hk/qs_2027_1205; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://www.shanghairanking.cn/rankings/bcur/2026",
-  "confidence": "low",
+  "confidence": "medium",
   "notes_ru": [
-   "Сайт Отдела международного сотрудничества (foreign.ujs.edu.cn) закрыт для внешнего доступа (только WebVPN); e-mail/телефон отдела и имя директора не получены.",
-   "Английская страница Contact Us содержит только адрес.",
-   "По одному быстрому поиску («<название> 卫星 发射») собственных запущенных спутников не найдено (LIGHT-проверка)."
+   "Сайт Отдела международного сотрудничества (foreign.ujs.edu.cn) и сайты iucae./admission.ujs.edu.cn закрыты для внешнего доступа (483/503); e-mail/телефон отдела и имя директора не получены.",
+   "Английская страница Contact Us и главная страница ujs.edu.cn содержат только адрес (301 Xuefu Road, Zhenjiang 212013) — публичного e-mail нет; канал связи нужно искать вручную.",
+   "По одному быстрому поиску («<название> 卫星 发射») собственных запущенных спутников не найдено (LIGHT-проверка).",
+   "Перепроверка: Президент Цзоу Сяобо и адрес подтверждены на ujs.edu.cn 04.10.2026 (новости сент. 2026); e-mail и телефон по-прежнему не найдены"
   ],
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "recheck_ru": "Президент Цзоу Сяобо и адрес подтверждены на ujs.edu.cn 04.10.2026 (новости сент. 2026); e-mail и телефон по-прежнему не найдены"
  },
  {
   "country": "China",
@@ -5420,12 +5448,12 @@
   "postal_address": "727 Jingming South Road, Chenggong District, Kunming, Yunnan 650500, China",
   "email_general": "",
   "email_international": "",
-  "phone": "+86-871-65916977 (President's Office)",
+  "phone": "+86-871-65916977 (President's Office); +86-871-65915366 / 65915166 (Office of International Cooperation and Exchange, 对外合作交流处)",
   "website": "https://www.kust.edu.cn",
   "head_name": "Yang Bin (杨斌)",
   "head_title": "President (校长); Deputy Party Secretary; CAE Academician",
-  "party_secretary": "Tang Jiahua (唐家华)",
-  "head_verified_source": "https://www.kust.edu.cn/xxgk/dzld.htm",
+  "party_secretary": "Tang Jiahua (唐家华), Party Secretary",
+  "head_verified_source": "https://www.kust.edu.cn/xxgk/dzld.htm (page checked 04.10.2026)",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "BCUR2026: 110",
@@ -5436,18 +5464,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.kust.edu.cn/xxgk/dzld.htm; https://www.kust.edu.cn/xxgk/jgsz1/lxdh.htm; https://global.kust.edu.cn/ (403 blocked); https://www.shanghairanking.cn/rankings/bcur/2026",
-  "confidence": "low",
+  "sources": "https://www.kust.edu.cn/xxgk/dzld.htm; https://www.kust.edu.cn/xxgk/jgsz1/lxdh.htm; https://global.kust.edu.cn/ (403 blocked); https://www.shanghairanking.cn/rankings/bcur/2026; https://www.kust.edu.cn/xxgk/jgsz1/lxdh.htm",
+  "confidence": "medium",
   "notes_ru": [
-   "Сайт международного отдела (global.kust.edu.cn / global.kmust.edu.cn) блокирует внешний доступ (HTTP 403); e-mail и имя директора не получены.",
+   "Сайт международного отдела (global.kust.edu.cn) блокирует внешний доступ (HTTP 403); e-mail и имя директора не получены. Международные связи курирует проректор Цзян Ехуа (蒋业华), помощник ректора Цао Чжэн (曹峥).",
    "Активно работает с Южной и Юго-Восточной Азией (центр исследований АСЕАН).",
    "По одному быстрому поиску («<название> 卫星 发射») собственных запущенных спутников не найдено (LIGHT-проверка).",
-   "В QS2027 и THE2027 не найден."
+   "В QS2027 и THE2027 не найден.",
+   "Перепроверка: Ректор Ян Бинь, партсекретарь Тан Цзяхуа, адрес и телефоны (вкл. международный отдел) подтверждены на kust.edu.cn 04.10.2026; e-mail не найден (global.kust.edu.cn — 403)"
   ],
-  "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处)",
+  "mailbox_owner": "Отдел внешнего сотрудничества и обменов (对外合作交流处)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "recheck_ru": "Ректор Ян Бинь, партсекретарь Тан Цзяхуа, адрес и телефоны (вкл. международный отдел) подтверждены на kust.edu.cn 04.10.2026; e-mail не найден (global.kust.edu.cn — 403)"
  },
  {
   "country": "China",
@@ -5692,10 +5722,10 @@
   "ownership": "Государственный (провинция Хубэй)",
   "profile_type": "technical/aerospace",
   "main_fields": "Hydraulic and hydropower engineering, Electrical engineering, Civil engineering, Medicine, Mechanical engineering, Ecology and environment",
-  "postal_address": "8 Daxue Road, Yichang, Hubei 443002, China",
+  "postal_address": "Office of International Cooperation and Exchange, Room J1504, China Three Gorges University, 8 Daxue Road, Yichang, Hubei 443002, China",
   "email_general": "",
   "email_international": "",
-  "phone": "",
+  "phone": "+86 717 639 2033; +86 717 639 2097 (International Office)",
   "website": "https://www.ctgu.edu.cn",
   "head_name": "Huang Yan (黄艳)",
   "head_title": "President (校长)",
@@ -5711,17 +5741,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.ctgu.edu.cn/xxgk2/xrld.htm; http://dir.ctgu.edu.cn/; https://www.shanghairanking.cn/rankings/bcur/2026",
-  "confidence": "low",
+  "sources": "https://www.ctgu.edu.cn/xxgk2/xrld.htm; https://dir.ctgu.edu.cn/gywm/jgsz.htm; https://dir.ctgu.edu.cn/gywm/lxwm.htm; https://www.shanghairanking.cn/rankings/bcur/2026",
+  "confidence": "medium",
   "notes_ru": [
-   "На главной странице сайта Отдела международного сотрудничества (dir.ctgu.edu.cn) e-mail, телефон и имя директора не опубликованы.",
+   "Ректор Хуан Янь и секретарь парткома Ван Цзяньпин подтверждены на странице «Действующее руководство» официального сайта",
+   "Отдел международного сотрудничества: директор Шангуань Янь (上官燕), каб. J1504, тел. 0717-6392033 / 6392097 (официальные страницы dir.ctgu.edu.cn); e-mail на сайте не опубликован — нужен иной канал",
    "Космическая проверка не выполнена: исчерпан лимит веб-поиска сессии; в выгрузке nanosats.eu вуз не найден.",
-   "В QS2027 и THE2027 не найден."
+   "В QS2027 и THE2027 не найден.",
+   "Перепроверка: 04.10.2026: руководство подтверждено на сайте; добавлены директор международного отдела, его телефоны и кабинет; e-mail по-прежнему не опубликован"
   ],
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处 / 港澳台事务办公室 / 孔子学院办公室)",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "addressee_name": "Shangguan Yan (上官燕)",
+  "addressee_title": "Director, Office of International Cooperation and Exchange",
+  "salutation": "Dear Director Shangguan,",
+  "recheck_ru": "04.10.2026: руководство подтверждено на сайте; добавлены директор международного отдела, его телефоны и кабинет; e-mail по-прежнему не опубликован"
  },
  {
   "country": "China",
@@ -6231,12 +6264,14 @@
    "Сайт hubu.edu.cn недоступен (503/обрыв соединения через прокси, в т.ч. через WebFetch) — контакты и руководство не проверены по официальным страницам.",
    "По «Википедии» (ред. 08.09.2026): должность ректора вакантна; секретарь парткома Лю Цзяньпин (刘建平) указан до сентября 2026 г., преемник не назван — требует проверки.",
    "Космическая проверка не проведена (исчерпана квота поиска); данных о спутниках нет.",
-   "В QS2027 и найденном списке THE2027 не обнаружен."
+   "В QS2027 и найденном списке THE2027 не обнаружен.",
+   "Перепроверка: Сайт hubu.edu.cn и англ. поддомены по-прежнему недоступны (04.10.2026, 503/сброс соединения); данные не изменены."
   ],
   "mailbox_owner": "Отдел международного сотрудничества (国际合作与交流处) — ящик не найден",
   "addressee_name": "",
   "addressee_title": "Начальник отдела международного сотрудничества и обменов",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "recheck_ru": "Сайт hubu.edu.cn и англ. поддомены по-прежнему недоступны (04.10.2026, 503/сброс соединения); данные не изменены."
  },
  {
   "country": "China",
@@ -6880,10 +6915,10 @@
   "email_international": "",
   "phone": "",
   "website": "https://www.yzu.edu.cn",
-  "head_name": "",
+  "head_name": "Liu Qiaoquan (刘巧泉)",
   "head_title": "President",
-  "party_secretary": "",
-  "head_verified_source": "",
+  "party_secretary": "Ding Jianning (丁建宁)",
+  "head_verified_source": "http://js.news.cn/20241220/d609d3a96a014948a8ccc33cd6e20877/c.html (Xinhua Jiangsu, 20.12.2024)",
   "rank_qs": "",
   "rank_the": "THE2027: 551–600",
   "rank_national": "BCUR2026: 93",
@@ -6894,18 +6929,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.yzu.edu.cn/ (blocked: anti-bot JS / HTTP 412); https://zh.wikipedia.org/wiki/扬州大学; https://m.163.com/dy/article_cambrian/KVN9UVMJ0536JW7T.html; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744",
+  "sources": "https://www.yzu.edu.cn/ (blocked: anti-bot JS / HTTP 412); http://js.news.cn/20241220/d609d3a96a014948a8ccc33cd6e20877/c.html; https://www.acabridge.cn/zxhz/202412/t20241223_2647664.shtml; https://zh.wikipedia.org/wiki/扬州大学; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://www.shanghairanking.cn/rankings/bcur/2026; https://www.ecfr.gov/current/title-15/part-744/appendix-Supplement%20No.%204%20to%20Part%20744",
   "confidence": "low",
   "notes_ru": [
-   "Официальный сайт и все поддомены защищены антибот-системой (JS-челлендж, HTTP 412) — контакты, руководство и международный отдел не проверены.",
-   "По Википедии (не официальный источник, актуальность не подтверждена): ректор Яо Цзяньлинь (姚建林), партсекретарь Лю Цяоцюань (刘巧泉) — перед рассылкой проверить.",
-   "Космическая проверка ограничена базой nanosats.eu и официальными страницами: квота веб-поиска сессии исчерпана (200/200); спутников вуза не найдено.",
-   "Не входит в QS2027; в Entity List США не найден."
+   "Официальный сайт и поддомены (www., english.) по-прежнему закрыты антибот-системой (HTTP 412) или недоступны — контакты и международный отдел не проверены.",
+   "ИСПРАВЛЕНО: данные Википедии устарели. По Синьхуа (Цзянсу, 20.12.2024) ректор — Лю Цяоцюань (刘巧泉, ранее проректор), партсекретарь — Дин Цзяньнин (丁建宁, ранее ректор). Изменения после 12.2024 не проверены на официальном сайте.",
+   "Адрес — по уставу вуза, цитируемому в Википедии; не подтверждён на официальном сайте.",
+   "Космическая проверка ограничена базой nanosats.eu; спутников вуза не найдено.",
+   "Не входит в QS2027; в Entity List США не найден.",
+   "Перепроверка: Сайт по-прежнему закрыт антиботом; руководство исправлено по Синьхуа (12.2024): ректор Лю Цяоцюань, партсекретарь Дин Цзяньнин; контактов нет."
   ],
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处)",
   "addressee_name": "",
   "addressee_title": "Начальник Отдела международного сотрудничества и обменов",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "recheck_ru": "Сайт по-прежнему закрыт антиботом; руководство исправлено по Синьхуа (12.2024): ректор Лю Цяоцюань, партсекретарь Дин Цзяньнин; контактов нет."
  },
  {
   "country": "China",
@@ -7295,12 +7333,14 @@
    "Официальный сайт недоступен (403 для прямых запросов, 503 через fetch) — руководство, e-mail и международный отдел не проверены.",
    "Википедия указывает ректора Чжан Кая (张凯) без даты — актуальность не подтверждена, в поле не внесено.",
    "Космическая проверка ограничена базой nanosats.eu и официальными страницами: квота веб-поиска сессии исчерпана (200/200); спутников вуза не найдено.",
-   "Не входит в QS2027 и THE2027; в Entity List США не найден."
+   "Не входит в QS2027 и THE2027; в Entity List США не найден.",
+   "Перепроверка: Сайт qut.edu.cn недоступен (403 для http, 503 через WebFetch, english. — нет соединения) 04.10.2026; данные не изменены."
   ],
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处)",
   "addressee_name": "",
   "addressee_title": "Начальник Отдела международного сотрудничества и обменов",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "recheck_ru": "Сайт qut.edu.cn недоступен (403 для http, 503 через WebFetch, english. — нет соединения) 04.10.2026; данные не изменены."
  },
  {
   "country": "China",
@@ -7917,12 +7957,14 @@
    "Все сайты cjlu.edu.cn (включая ino.cjlu.edu.cn) блокируют доступ (HTTP 412) — контакты не проверены.",
    "По поисковому индексу официального сайта: ящик международного отдела intoff@cjlu.edu.cn, тел. 0571-86836028, адрес 258 Xueyuan Street, Qiantang District, Hangzhou 310018 — НЕ проверено открытием страницы, сверить перед рассылкой.",
    "Руководство подтверждено по СМИ 2024–2025 гг. (Сюй Цзянжун — секретарь парткома с 09.2024; Дай Даосинь — проректор, руководящий администрацией с 08.2025); данных за 2026 г. нет.",
-   "Быстрая проверка не выявила спутников вуза."
+   "Быстрая проверка не выявила спутников вуза.",
+   "Перепроверка: 04.10.2026: cjlu.edu.cn и ino.cjlu.edu.cn по-прежнему отвечают HTTP 412 (антибот) — данные не изменены."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "recheck_ru": "04.10.2026: cjlu.edu.cn и ino.cjlu.edu.cn по-прежнему отвечают HTTP 412 (антибот) — данные не изменены."
  },
  {
   "country": "China",

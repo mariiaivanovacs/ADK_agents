@@ -371,13 +371,13 @@
   "main_fields": "Agriculture, Environmental Sciences, Health Sciences, Natural and Mathematical Sciences, Management, Commerce and Law, Humanities and Education",
   "postal_address": "University of Venda, Private Bag X5050, Thohoyandou 0950, Limpopo, South Africa",
   "email_general": "",
-  "email_international": "segun.obadire@univen.ac.za",
-  "phone": "+27 15 962 8000",
+  "email_international": "international.students@univen.ac.za",
+  "phone": "+27 15 962 9347 / 9348 (IRP); +27 15 962 8000 (коммутатор)",
   "website": "https://www.univen.ac.za",
   "head_name": "Prof. Bernard Nthambeleni",
   "head_title": "Vice-Chancellor",
   "party_secretary": "",
-  "head_verified_source": "https://www.univen.ac.za/news/univen-opens-2026-academic-year-with-a-renewed-commitment-to-excellence-impact-and-student-success/",
+  "head_verified_source": "https://www.univen.ac.za/about/office-of-the-vc/",
   "rank_qs": "",
   "rank_the": "THE2027: 1801–2000",
   "rank_national": "",
@@ -389,17 +389,19 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://www.univen.ac.za/news/univen-opens-2026-academic-year-with-a-renewed-commitment-to-excellence-impact-and-student-success/; https://www.univen.ac.za/contact-us/; https://www.univen.ac.za/irp/study-at-univen/; https://ieasa.studysa.org/about-us/directors-forum/",
-  "confidence": "low",
+  "confidence": "high",
   "notes_ru": [
-   "Сайт univen.ac.za недоступен (503) — данные из поисковой выдачи",
-   "Dr Olusegun Obadire указан как и.о. директора International Relations Office в списке IEASA 2025 — статус на 2026 не подтверждён",
-   "В выдаче встречаются адреса univenofficial@univen.ac.za и International.admissions@univen.ac.za (не проверены на открытой странице)",
-   "Быстрая проверка: спутников не найдено"
+   "Сайт univen.ac.za напрямую из нашей сети недоступен (ошибка TLS через прокси); страницы открыты через r.jina.ai 04.10.2026.",
+   "Dr Olusegun Obadire — Director: International Relations and Partnerships (страница Director’s Profile). Личный e-mail директора (segun.obadire@univen.ac.za, из IEASA 2025) на сайте не опубликован — заменён на общий international.students@univen.ac.za.",
+   "По вопросам научного сотрудничества и институциональных партнёрств сайт IRP указывает matome.mokoena@univen.ac.za; мобильность/Erasmus+ — nontlanhla.ntakana@univen.ac.za; WhatsApp IRP +27 60 677 0033.",
+   "Быстрая проверка: спутников не найдено",
+   "Перепроверка: Сайт univen.ac.za открыт через reader-сервис 04.10.2026: VC Prof Bernard Nthambeleni, директор IRP Dr Olusegun Obadire (уже не «и.о.»), общий e-mail и телефоны IRP, адрес Private Bag X5050 подтверждены; e-mail international заменён на официальный общий ящик IRP."
   ],
-  "mailbox_owner": "Управление международных связей и партнёрств (Directorate of International Relations and Partnerships)",
+  "mailbox_owner": "Управление международных связей и партнёрств (IRP Directorate) — общий ящик",
   "addressee_name": "Dr Olusegun Obadire",
-  "addressee_title": "И.о. директора Офиса международных связей",
-  "salutation": "Dear Dr Obadire,"
+  "addressee_title": "Директор Управления международных связей и партнёрств (Director: International Relations and Partnerships)",
+  "salutation": "Dear Dr Obadire,",
+  "recheck_ru": "Сайт univen.ac.za открыт через reader-сервис 04.10.2026: VC Prof Bernard Nthambeleni, директор IRP Dr Olusegun Obadire (уже не «и.о.»), общий e-mail и телефоны IRP, адрес Private Bag X5050 подтверждены; e-mail international заменён на официальный общий ящик IRP."
  },
  {
   "country": "South Africa",
@@ -475,12 +477,15 @@
    "Prof Kunene назначена ректором с 2026 г. (Prof Mtose оставалась до 31.03.2026) — проверить вступление в должность",
    "Общего e-mail не найдено; admissions@unizulu.ac.za — адрес приёмной комиссии",
    "Международный офис и его руководитель не установлены; в IEASA 2025 университет представляла Prof Nontokozo Mashiya (Director: VC's Office, MashiyaN@unizulu.ac.za)",
-   "Быстрая проверка: спутников не найдено"
+   "Быстрая проверка: спутников не найдено",
+   "Повторная проверка 04.10.2026: официальных страниц международного офиса найти не удалось",
+   "Перепроверка: Сайт unizulu.ac.za недоступен по HTTPS, по HTTP — заглушка обновления LMS; данные не изменены"
   ],
   "mailbox_owner": "Приёмная комиссия (Admissions)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the International Office,"
+  "salutation": "Dear Director of the International Office,",
+  "recheck_ru": "Сайт unizulu.ac.za недоступен по HTTPS, по HTTP — заглушка обновления LMS; данные не изменены"
  },
  {
   "country": "South Africa",
@@ -1173,7 +1178,7 @@
   "head_name": "Prof. Debra Meyer",
   "head_title": "Vice-Chancellor and Principal",
   "party_secretary": "",
-  "head_verified_source": "https://www.spu.ac.za/index.php/spu-executive_management/",
+  "head_verified_source": "https://www.spu.ac.za/index.php/spu-executive_management/ (открыта 04.10.2026)",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -1185,16 +1190,19 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://www.spu.ac.za/index.php/contact-spu/; https://www.spu.ac.za/index.php/leadership-and-governance/; https://www.spu.ac.za/index.php/spu-executive_management/; nanosats.csv",
-  "confidence": "low",
+  "confidence": "medium",
   "notes_ru": [
    "Общий email и международный офис на сайте не опубликованы; studentrecruitment@spu.ac.za — ящик набора студентов (единственный общий адрес) — лучше звонить на коммутатор +27 53 491 0000 и запросить адрес офиса ректора",
    "Молодой университет (осн. 2014) в Кимберли; для исследовательского партнёрства релевантен DVC: Research, Innovation and Postgraduate Affairs Prof. Jose Frantz",
-   "Спутников в nanosats.csv не найдено; квота веб-поиска исчерпана до отдельной проверки"
+   "Спутников в nanosats.csv не найдено; квота веб-поиска исчерпана до отдельной проверки",
+   "04.10.2026 на сайте подтверждены: VC Prof. Debra Meyer (Executive Management), коммутатор +27 53 491 0000 и адрес Central Campus (страница Contact); общего e-mail и международного офиса на сайте по-прежнему нет",
+   "Перепроверка: Ректор, телефон и адрес подтверждены на сайте spu.ac.za 04.10.2026; общий e-mail/международный офис не опубликованы"
   ],
   "mailbox_owner": "Отдел набора студентов (Student Recruitment) — единственный опубликованный общий ящик",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the International Office,"
+  "salutation": "Dear Director of the International Office,",
+  "recheck_ru": "Ректор, телефон и адрес подтверждены на сайте spu.ac.za 04.10.2026; общий e-mail/международный офис не опубликованы"
  },
  {
   "country": "South Africa",

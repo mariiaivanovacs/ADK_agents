@@ -189,15 +189,18 @@
   "sources": "https://www.andhrauniversity.edu.in/administration/vc-desk.html; https://www.andhrauniversity.edu.in/admissions/international-affairs.html; the.html (THE WUR 2027); nanosats.csv",
   "confidence": "low",
   "notes_ru": [
-   "Официальный сайт andhrauniversity.edu.in блокирует автоматический доступ (сброс соединения / HTTP 503); ФИО ректора, e-mail и телефон взяты из поисковой выдачи по официальным страницам VC Desk и International Affairs — перед отправкой проверить вручную.",
+   "Официальный сайт andhrauniversity.edu.in по-прежнему недоступен (таймаут / HTTP 503, в т.ч. через WebFetch, 04.10.2026); ФИО ректора, e-mail и телефон взяты из поисковой выдачи по официальным страницам VC Desk и International Affairs — перед отправкой проверить вручную.",
+   "Проф. G. P. Raja Sekhar (IIT Kharagpur) назначен ВК на трёхлетний срок (по СМИ ap7am.com, 2025) — на 2026 г. полномочия, вероятно, действуют.",
    "Декан по международным делам не подтверждён: в источниках встречаются Prof. S. Paul Douglas (Dean, International Affairs) и Prof. E. N. Dhananjay Rao (Dean, International Affairs and Public Relations) — имя адресата оставлено пустым.",
    "Почтовый адрес не проверен (ожидаемо: Andhra University, Visakhapatnam, Andhra Pradesh 530003) — заполнить после ручной проверки.",
-   "Быстрая проверка спутников результата не дала; в nanosats.eu вуз не значится."
+   "Быстрая проверка спутников результата не дала; в nanosats.eu вуз не значится.",
+   "Перепроверка: Сайт недоступен; данные не изменены (ВК подтверждён только СМИ о назначении на 3-летний срок)."
   ],
   "mailbox_owner": "Офис международных дел (Office of International Affairs)",
   "addressee_name": "",
   "addressee_title": "Декан по международным делам",
-  "salutation": "Dear Dean of International Affairs,"
+  "salutation": "Dear Dean of International Affairs,",
+  "recheck_ru": "Сайт недоступен; данные не изменены (ВК подтверждён только СМИ о назначении на 3-летний срок)."
  },
  {
   "country": "India",
@@ -350,12 +353,14 @@
    "Сайт bdu.ac.in недоступен для автоматического доступа (сброс соединения / HTTP 503); e-mail vc@bdu.ac.in, irc@bdu.ac.in и телефон секретариата ректора взяты из поисковой выдачи по официальным страницам — проверить вручную.",
    "Должность ректора вакантна (Wikipedia: Vacant); вузом руководит Vice-Chancellor Committee, по данным поиска конвинер — E. Sundaravalli, I.A.S. (не подтверждено на открытой странице). Письмо адресовать на должность.",
    "Почтовый адрес не проверен (ожидаемо: Palkalaiperur, Tiruchirappalli 620 024, Tamil Nadu).",
-   "Быстрая проверка спутников (nanosats.eu, India) результата не дала."
+   "Быстрая проверка спутников (nanosats.eu, India) результата не дала.",
+   "Перепроверка: Сайт bdu.ac.in недоступен (curl — нет соединения, WebFetch 503) 04.10.2026; данные не изменены."
   ],
   "mailbox_owner": "Центр международных связей (International Relationships Centre)",
   "addressee_name": "",
   "addressee_title": "Директор Центра международных связей",
-  "salutation": "Dear Director of the International Relationships Centre,"
+  "salutation": "Dear Director of the International Relationships Centre,",
+  "recheck_ru": "Сайт bdu.ac.in недоступен (curl — нет соединения, WebFetch 503) 04.10.2026; данные не изменены."
  },
  {
   "country": "India",
@@ -507,12 +512,14 @@
    "Сайт iiitd.ac.in недоступен (ошибка цепочки TLS-сертификата / HTTP 503); директор подтверждён новостью BW Education от 01.08.2026; e-mail директора и международного офиса — из поисковой выдачи по официальным страницам, проверить вручную.",
    "Международные дела: Faculty In-Charge — Dr. Anuj Grover (личный e-mail); общий ящик международного отдела по приёму — int-admissions@iiitd.ac.in.",
    "Почтовый адрес не проверен (ожидаемо: Okhla Industrial Estate, Phase III, New Delhi 110020).",
-   "Быстрая проверка спутников (nanosats.eu, India) результата не дала."
+   "Быстрая проверка спутников (nanosats.eu, India) результата не дала.",
+   "Перепроверка: 04.10.2026: iiitd.ac.in и ia.iiitd.ac.in недоступны (ошибка TLS-цепочки); данные не изменены."
   ],
   "mailbox_owner": "Международные дела (International Affairs, IIIT-Delhi)",
   "addressee_name": "Dr. Anuj Grover",
   "addressee_title": "Ответственный преподаватель по международным делам (Faculty In-Charge, International Affairs)",
-  "salutation": "Dear Dr. Grover,"
+  "salutation": "Dear Dr. Grover,",
+  "recheck_ru": "04.10.2026: iiitd.ac.in и ia.iiitd.ac.in недоступны (ошибка TLS-цепочки); данные не изменены."
  },
  {
   "country": "India",
@@ -661,12 +668,14 @@
   "notes_ru": [
    "Сайт gitam.edu блокирует автоматический доступ (HTTP 403) — контакты не проверены; лимит веб-поиска сессии исчерпан. Ректор указан по Wikipedia — проверить вручную.",
    "Кампусы: Висакхапатнам (Rushikonda, основной), Хайдарабад, Бенгалуру; по Wikipedia адрес основного кампуса — Gandhi Nagar, Rushikonda, Visakhapatnam 530045 (не проверен на официальном сайте).",
-   "Быстрая проверка спутников (nanosats.eu, India) результата не дала."
+   "Быстрая проверка спутников (nanosats.eu, India) результата не дала.",
+   "Перепроверка: gitam.edu по-прежнему отдаёт анти-бот-защиту HTTP 403 (04.10.2026); обход не выполнялся, данные не изменены."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Dean of International Relations,"
+  "salutation": "Dear Dean of International Relations,",
+  "recheck_ru": "gitam.edu по-прежнему отдаёт анти-бот-защиту HTTP 403 (04.10.2026); обход не выполнялся, данные не изменены."
  },
  {
   "country": "India",
@@ -676,11 +685,11 @@
   "ownership": "Государственный (центральный, Минобразования Индии)",
   "profile_type": "classical",
   "main_fields": "Sciences, Humanities & Languages, Social Sciences, Management & Commerce, Law, Technology",
-  "postal_address": "",
-  "email_general": "",
-  "email_international": "",
-  "phone": "",
-  "website": "http://www.aus.ac.in",
+  "postal_address": "Assam University, Silchar - 788011, Assam, India",
+  "email_general": "registrar@aus.ac.in",
+  "email_international": "barunjyotichoudhury@gmail.com",
+  "phone": "+91 3842 270806",
+  "website": "https://www.aus.ac.in",
   "head_name": "Prof. Rajive Mohan Pant",
   "head_title": "Vice-Chancellor",
   "party_secretary": "",
@@ -695,17 +704,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.wikipedia.org/wiki/Assam_University; http://www.aus.ac.in",
-  "confidence": "low",
+  "sources": "https://en.wikipedia.org/wiki/Assam_University; http://www.aus.ac.in; https://www.aus.ac.in/contactus/; https://www.aus.ac.in/internationalization-of-higher-education/; https://www.aus.ac.in/whos-who/",
+  "confidence": "medium",
   "notes_ru": [
-   "Официальный сайт aus.ac.in на момент проверки (02.10.2026) неработоспособен — перенаправляет на страницу установки WordPress (wp-admin/setup-config.php); контакты не удалось проверить, лимит веб-поиска исчерпан.",
    "Ректор указан по Wikipedia (Prof. Rajive Mohan Pant) — требуется ручная проверка.",
-   "Быстрая проверка спутников (nanosats.eu, India) результата не дала."
+   "Быстрая проверка спутников (nanosats.eu, India) результата не дала.",
+   "Сайт aus.ac.in снова доступен (04.10.2026, частично с ошибкой WordPress): страница контактов — адрес, тел. 03842-270806, факс 03842-270802, vc@aus.ac.in, registrar@aus.ac.in",
+   "Директорат интернационализации: Working Chairman Prof. Dipendu Das (dipendudas2011@gmail.com, +91-9435172416), Director Dr. Barunjyoti Choudhury (barunjyotichoudhury@gmail.com, +91-7002415050), Deputy Director Dr. Biswa Ranjan Roy (brroy88@gmail.com) — на официальной странице указаны личные gmail-адреса; для копии можно использовать vc@aus.ac.in",
+   "Имя ректора на открытых страницах сайта (Who's Who без раздела руководства) не найдено",
+   "Перепроверка: Сайт открылся 04.10.2026: подтверждены адрес, телефон, vc@/registrar@aus.ac.in и контакты Директората интернационализации; ректор по-прежнему не подтверждён"
   ],
-  "mailbox_owner": "",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Dean of International Relations,"
+  "mailbox_owner": "Директорат интернационализации высшего образования (Directorate for Internationalization of Higher Education) — директор",
+  "addressee_name": "Dr. Barunjyoti Choudhury",
+  "addressee_title": "Director, Directorate for Internationalization of Higher Education",
+  "salutation": "Dear Dr. Choudhury,",
+  "recheck_ru": "Сайт открылся 04.10.2026: подтверждены адрес, телефон, vc@/registrar@aus.ac.in и контакты Директората интернационализации; ректор по-прежнему не подтверждён"
  },
  {
   "country": "India",
@@ -995,13 +1008,13 @@
   "main_fields": "Engineering, Computer Science, Electronics, Production Engineering, Architecture, Management",
   "postal_address": "National Institute of Technology, Tiruchirappalli, Tamil Nadu 620015, India",
   "email_general": "director@nitt.edu",
-  "email_international": "adidir@nitt.edu",
+  "email_international": "deanid@nitt.edu",
   "phone": "+91-431-2503001",
   "website": "https://www.nitt.edu",
-  "head_name": "Prof. G. Aghila",
+  "head_name": "Dr. G. Aghila",
   "head_title": "Director",
   "party_secretary": "",
-  "head_verified_source": "https://www.nitt.edu/home/administration/director/",
+  "head_verified_source": "http://www.nitt.edu/home/administration/director/ (открыта 04.10.2026)",
   "rank_qs": "QS2027: 721-730",
   "rank_the": "",
   "rank_national": "NIRF2025 Engineering: 9",
@@ -1013,17 +1026,20 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://www.nitt.edu/home/administration/director/; https://www.nitt.edu/home/id/contacts/; http://oir.nitt.edu/oir/; nanosats.eu",
-  "confidence": "low",
+  "confidence": "high",
   "notes_ru": [
-   "Сайт nitt.edu недоступен (503) при проверке; директор, e-mail и телефоны взяты из поисковых сниппетов страниц nitt.edu — перепроверить",
    "Директор Prof. G. Aghila вступила в должность 03.02.2022 (срок 5 лет — до ~02.2027)",
-   "Офис международных связей (OIR) подчинён декану по институциональному развитию и связям с выпускниками (Dean ID&AR, Dr. G. Uma, deanid@nitt.edu); на старой странице OIR зам. декана — Dr. Ezhilarasi, в сниппете поиска — Dr. S. Nivethitha (adidir@nitt.edu); имя не подтверждено",
-   "Спутников не найдено"
+   "Спутников не найдено",
+   "Сайт доступен по http://www.nitt.edu (https — нет). 04.10.2026 подтверждены: директор Dr. G. Aghila и director@nitt.edu (страница Director), адрес Tiruchirappalli 620015 (Contact Us), декан ID&AR Dr. G. Uma — deanid@nitt.edu / guma@nitt.edu, тел. +91-431-2503033 (страница Deans); телефоны по схеме +91-431-250xxxx (справочник 03.2026)",
+   "На главной странице объявлен конкурс на должность директора NIT Trichy (октябрь 2026) — срок Dr. Aghila истекает, перед рассылкой проверить смену руководителя",
+   "Ящик зам. декана по международным связям adidir@nitt.edu (по старому сниппету, Dr. S. Nivethitha / Dr. Ezhilarasi) не подтверждён — можно поставить в копию",
+   "Перепроверка: Директор, e-mail директора, адрес и декан ID&AR (deanid@nitt.edu) подтверждены на сайте nitt.edu 04.10.2026; адресат изменён на Dr. G. Uma"
   ],
-  "mailbox_owner": "Офис международных связей (Office of International Relations), зам. декана по международным связям",
-  "addressee_name": "",
-  "addressee_title": "Заместитель декана по международным связям (Associate Dean, International Relations)",
-  "salutation": "Dear Associate Dean of International Relations,"
+  "mailbox_owner": "Декан по институциональному развитию и связям с выпускниками (Dean ID&AR), курирует Office of International Relations",
+  "addressee_name": "Dr. G. Uma",
+  "addressee_title": "Декан по институциональному развитию и связям с выпускниками (Dean, Institutional Development & Alumni Relations)",
+  "salutation": "Dear Dr. Uma,",
+  "recheck_ru": "Директор, e-mail директора, адрес и декан ID&AR (deanid@nitt.edu) подтверждены на сайте nitt.edu 04.10.2026; адресат изменён на Dr. G. Uma"
  },
  {
   "country": "India",
@@ -1095,16 +1111,18 @@
   "sources": "https://iitj.ac.in/office-of-international-relations/en/Office-of-International-Relations; https://old.iitj.ac.in/techscape/vol04/issue03/news_and_views/director_iitj/; https://x.com/iitjodhpur/status/1963947992412520617; nanosats.eu",
   "confidence": "low",
   "notes_ru": [
-   "Сайт iitj.ac.in недоступен (503) при проверке; контакты офиса международных связей взяты из поискового сниппета — перепроверить",
+   "Сайт iitj.ac.in недоступен (503, затем блокировка WAF при повторной проверке 04.10.2026); контакты офиса международных связей взяты из поискового сниппета — перепроверить",
    "Декан по международным связям по сниппету — Dr. Ankur Gupta (doir@iitj.ac.in); общий ящик office_ir@iitj.ac.in; не подтверждено открытой страницей",
    "Директор Prof. Avinash Kumar Agarwal — с 01.05.2024 на 5 лет (подтверждено постом IIT Jodhpur в X, сентябрь 2025)",
    "Телефон указан офиса международных связей",
-   "Упоминается прототип CubeSat SABHASAT (гамма-всплески) с участием IIT Jodhpur — не подтверждено; спутников на орбите нет"
+   "Упоминается прототип CubeSat SABHASAT (гамма-всплески) с участием IIT Jodhpur — не подтверждено; спутников на орбите нет",
+   "Перепроверка: Сайт iitj.ac.in (после исправления цепочки сертификата) отдаёт страницу блокировки WAF («This page can't be displayed») — контакты не подтверждены, данные не изменены (04.10.2026)"
   ],
   "mailbox_owner": "Офис международных связей (Office of International Relations), декан по международным связям",
   "addressee_name": "",
   "addressee_title": "Декан по международным связям (Dean of International Relations)",
-  "salutation": "Dear Dean of International Relations,"
+  "salutation": "Dear Dean of International Relations,",
+  "recheck_ru": "Сайт iitj.ac.in (после исправления цепочки сертификата) отдаёт страницу блокировки WAF («This page can't be displayed») — контакты не подтверждены, данные не изменены (04.10.2026)"
  },
  {
   "country": "India",
@@ -1317,12 +1335,12 @@
   "postal_address": "Netaji Subhas University of Technology, Sector-3, Dwarka, New Delhi 110078, India",
   "email_general": "vc@nsut.ac.in",
   "email_international": "",
-  "phone": "+91-11-25099017",
+  "phone": "+91 11 2509 9017 (reception helpline)",
   "website": "https://www.nsut.ac.in",
   "head_name": "Prof. Anand Srivastava",
   "head_title": "Vice-Chancellor",
   "party_secretary": "",
-  "head_verified_source": "https://en.wikipedia.org/wiki/Netaji_Subhas_University_of_Technology",
+  "head_verified_source": "https://www.nsut.ac.in/en/vice-chancellor (opened 04.10.2026 via http://nsut.ac.in; VC since 29.11.2023)",
   "rank_qs": "",
   "rank_the": "THE2027: 1601–1800",
   "rank_national": "NIRF2025 Engineering: 70",
@@ -1333,17 +1351,19 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://nsut.ac.in/en/contact-us; https://en.wikipedia.org/wiki/Netaji_Subhas_University_of_Technology; nanosats.eu",
-  "confidence": "low",
+  "sources": "https://nsut.ac.in/en/contact-us; https://en.wikipedia.org/wiki/Netaji_Subhas_University_of_Technology; nanosats.eu; https://www.nsut.ac.in/en/vice-chancellor; https://www.nsut.ac.in/en/contact-us",
+  "confidence": "medium",
   "notes_ru": [
-   "Сайт nsut.ac.in недоступен (503/таймаут) при проверке; контакты и имя VC взяты из поисковых сниппетов — перепроверить",
+   "E-mail vc@nsut.ac.in взят из поисковых сниппетов — на открытых страницах сайта (VC, Contact Us) не найден; на странице контактов только адреса отделов (ar.acad@nsut.ac.in — академический отдел)",
    "Офис международных связей/декан по международным делам не найден",
-   "Спутников не найдено"
+   "Спутников не найдено",
+   "Перепроверка: Проректор (VC) проф. Ананд Шривастава (с 29.11.2023), адрес и телефон подтверждены на nsut.ac.in 04.10.2026; vc@nsut.ac.in на открытых страницах не найден"
   ],
   "mailbox_owner": "Канцелярия проректора (Office of the Vice-Chancellor)",
   "addressee_name": "Prof. Anand Srivastava",
   "addressee_title": "Проректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Srivastava,"
+  "salutation": "Dear Prof. Srivastava,",
+  "recheck_ru": "Проректор (VC) проф. Ананд Шривастава (с 29.11.2023), адрес и телефон подтверждены на nsut.ac.in 04.10.2026; vc@nsut.ac.in на открытых страницах не найден"
  },
  {
   "country": "India",
@@ -1472,15 +1492,15 @@
   "ownership": "Частный",
   "profile_type": "technical/aerospace",
   "main_fields": "Energy Technology, Petroleum Engineering, Engineering, Solar & Renewable Energy, Management, Liberal Arts",
-  "postal_address": "Pandit Deendayal Energy University, Gandhinagar, Gujarat, India",
+  "postal_address": "Pandit Deendayal Energy University, Knowledge Corridor, Raisan, Gandhinagar, Gujarat 382426, India",
   "email_general": "",
   "email_international": "Dean.IR@pdpu.ac.in",
-  "phone": "+91-79-23275223",
-  "website": "https://www.pdpu.ac.in",
+  "phone": "+91 79 2327 5060 (general); +91 79 2327 5226 (Head, OIR)",
+  "website": "https://pdeu.ac.in",
   "head_name": "Prof. Sundar S. Manoharan",
   "head_title": "Director General",
   "party_secretary": "",
-  "head_verified_source": "",
+  "head_verified_source": "https://pdeu.ac.in/",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "NIRF2025 Engineering: 98",
@@ -1491,21 +1511,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.pdpu.ac.in/inter-contactus.html; https://en.wikipedia.org/wiki/Pandit_Deendayal_Energy_University; nanosats.eu",
-  "confidence": "low",
+  "sources": "https://pdeu.ac.in/; https://pdeu.ac.in/contact-us; https://pdeu.ac.in/international-relations; https://en.wikipedia.org/wiki/Pandit_Deendayal_Energy_University; nanosats.eu",
+  "confidence": "high",
   "notes_ru": [
-   "Сайт pdpu.ac.in недоступен (503) при проверке; все контакты из поискового сниппета страницы inter-contactus.html — перепроверить",
+   "Новый официальный домен — pdeu.ac.in (старый pdpu.ac.in недоступен, e-mail остаются в домене @pdpu.ac.in)",
+   "Контакты подтверждены на странице Contact Us: Head OIR — Prof. Ritu Sharma, Dean.IR@pdpu.ac.in, +91-79-23275226; ассистенты OIR — Rohit Mishra (rohit.mishra@pdpu.ac.in), Bhaunesh Shah (bhaunesh.shah@pdpu.ac.in)",
+   "Director General Prof. Sundar S. Manoharan — на главной странице официального сайта",
+   "Общий e-mail университета на странице контактов не опубликован (только телефон 079-23275060)",
    "Ранее Pandit Deendayal Petroleum University (PDPU); частный университет штата, учреждён GSPC",
-   "Декан по международным связям (по сниппету): Prof. (Dr.) Nigam Dave; общий ящик OIR: oir@pdpu.ac.in",
-   "Руководитель — Director General (по сниппету Sundar S. Manoharan), официальная страница не открыта",
-   "Полный почтовый адрес не подтверждён",
-   "Телефон указан декана по международным связям",
-   "Спутников не найдено"
+   "Спутников не найдено",
+   "Перепроверка: 04.10.2026: на новом домене pdeu.ac.in подтверждены DG, адрес, телефоны и Dean.IR@; руководитель OIR сменился на Prof. Ritu Sharma"
   ],
   "mailbox_owner": "Офис международных связей (Office of International Relations), декан по международным связям",
-  "addressee_name": "",
-  "addressee_title": "Декан по международным связям (Dean, International Relations)",
-  "salutation": "Dear Dean of International Relations,"
+  "addressee_name": "Prof. Ritu Sharma",
+  "addressee_title": "Head, Office of International Relations",
+  "salutation": "Dear Professor Sharma,",
+  "recheck_ru": "04.10.2026: на новом домене pdeu.ac.in подтверждены DG, адрес, телефоны и Dean.IR@; руководитель OIR сменился на Prof. Ritu Sharma"
  },
  {
   "country": "India",
@@ -1581,12 +1602,14 @@
    "Офис международных связей и его e-mail не найдены; info@ — общий справочный ящик",
    "Полный почтовый адрес не подтверждён",
    "Частный университет штата Телангана (Mahindra Group, бывш. École Centrale School of Engineering)",
-   "Спутников не найдено"
+   "Спутников не найдено",
+   "Перепроверка: Сайт mahindrauniversity.edu.in по-прежнему закрыт (403 Cloudflare, в т.ч. WebFetch и sitemap) на 04.10.2026; данные не изменены."
   ],
   "mailbox_owner": "Общий справочный ящик университета (info)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Vice-Chancellor,"
+  "salutation": "Dear Vice-Chancellor,",
+  "recheck_ru": "Сайт mahindrauniversity.edu.in по-прежнему закрыт (403 Cloudflare, в т.ч. WebFetch и sitemap) на 04.10.2026; данные не изменены."
  },
  {
   "country": "India",
@@ -1685,7 +1708,7 @@
   "head_name": "Dr. Karunesh Kumar Shukla",
   "head_title": "Director",
   "party_secretary": "",
-  "head_verified_source": "https://icammt.in/committees/",
+  "head_verified_source": "https://icammt.in/committees/; https://conf.manit.ac.in/assets/pdf/Final_Workshop%20Brochure%20and%20Schedule__ASDG%202026_18%20May%2026.pdf (по поисковому индексу, 05.2026)",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "NIRF2025 Engineering: 81",
@@ -1699,16 +1722,18 @@
   "sources": "https://icammt.in/committees/; https://www.manit.ac.in/deans (search index only, site unreachable); nanosats.csv; https://rocketreach.co/azad-1-student-nanosatellite-manit-bhopal-profile_b7b0bd42c53be28d",
   "confidence": "low",
   "notes_ru": [
-   "Сайт manit.ac.in недоступен (503 / сброс соединения) — контакты взяты из поискового индекса страницы manit.ac.in/deans, требуют перепроверки",
-   "Директор подтверждён только сторонней страницей конференции ICAMMT-2026",
+   "Сайт manit.ac.in и conf.manit.ac.in по-прежнему недоступны (таймаут/503, в т.ч. через WebFetch, 04.10.2026) — контакты взяты из поискового индекса страницы manit.ac.in/deans, требуют перепроверки",
+   "Директор Dr. Karunesh Kumar Shukla — по сторонней странице ICAMMT-2026 и по поисковому индексу официальной брошюры MANIT (ASDG 2026, май 2026: «Patron Dr. Karunesh Kumar Shukla») — сам документ открыть не удалось",
    "Телефон +91 755 405 1021 — это телефон Dean ID&IR, а не общий",
    "Международные связи ведёт Dean (Institutional Development & International Relations) Dr. Anupama Sharma; associate dean Dr. Jaytrilok Choudhary (jaytrilok@manit.ac.in)",
-   "Спутник AZAD-1 отменён (nanosats.eu)"
+   "Спутник AZAD-1 отменён (nanosats.eu)",
+   "Перепроверка: Сайт недоступен; директор дополнительно подтверждён по индексу официальной брошюры 05.2026, контакты не изменены."
   ],
   "mailbox_owner": "Декан по институциональному развитию и международным связям (Dean, Institutional Development & International Relations)",
   "addressee_name": "Dr. Anupama Sharma",
   "addressee_title": "Декан по институциональному развитию и международным связям",
-  "salutation": "Dear Dr. Sharma,"
+  "salutation": "Dear Dr. Sharma,",
+  "recheck_ru": "Сайт недоступен; директор дополнительно подтверждён по индексу официальной брошюры 05.2026, контакты не изменены."
  },
  {
   "country": "India",
@@ -2700,11 +2725,11 @@
   "profile_type": "classical",
   "main_fields": "Sciences, Humanities, Social Sciences, Commerce & Management, Life Sciences",
   "postal_address": "University of Madras, Chepauk, Chennai 600 005, Tamil Nadu, India",
-  "email_general": "",
+  "email_general": "registrar@unom.ac.in",
   "email_international": "",
   "phone": "+91 44 2539 9422",
   "website": "https://www.unom.ac.in",
-  "head_name": "",
+  "head_name": "Thiru V. Arun Roy, I.A.S. (Convener, VC Convener Committee)",
   "head_title": "Vice-Chancellor (вакантно; управляет VC Convener Committee)",
   "party_secretary": "",
   "head_verified_source": "https://www.unom.ac.in/index.php?route=administration/vicechancellor",
@@ -2719,16 +2744,18 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://www.unom.ac.in/index.php?route=administration/vicechancellor; https://www.unom.ac.in/index.php?route=contacts/contacts; https://www.unom.ac.in/index.php?route=administration/registrar",
-  "confidence": "low",
+  "confidence": "medium",
   "notes_ru": [
-   "Должность ректора вакантна: после окончания срока Prof. S. Gowri университетом управляет комитет; конвинер — Thiru V. Arun Roy, I.A.S. (секретарь Департамента высшего образования Тамилнада)",
-   "Регистратор: Prof. Dr. Rita John",
-   "На сайте нет e-mail руководства и международного офиса (только webteam@unom.ac.in) — нужен альтернативный канал"
+   "Должность вице-канцлера вакантна: после окончания срока Prof. S. Gowri университетом управляет VC Convener Committee; конвинер — Thiru V. Arun Roy, I.A.S. (секретарь Департамента высшего образования Тамилнада) — по официальной странице (без даты)",
+   "Регистратор: Prof. Dr. Rita John, registrar@unom.ac.in (альт. registrar.unom@gmail.com) — официальная страница Registrar",
+   "Ящик vcunom@unom.ac.in принадлежит офису вице-канцлера (при вакансии адресата нет); отдельного e-mail международного офиса на сайте не найдено",
+   "Перепроверка: На официальном сайте unom.ac.in (открыт 04.10.2026) подтверждены: управление VC Convener Committee (конвинер V. Arun Roy, I.A.S.), регистратор Prof. Rita John и её e-mail registrar@unom.ac.in; страницы без даты."
   ],
-  "mailbox_owner": "",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Registrar,"
+  "mailbox_owner": "Регистратор (Registrar)",
+  "addressee_name": "Prof. Dr. Rita John",
+  "addressee_title": "Registrar",
+  "salutation": "Dear Professor John,",
+  "recheck_ru": "На официальном сайте unom.ac.in (открыт 04.10.2026) подтверждены: управление VC Convener Committee (конвинер V. Arun Roy, I.A.S.), регистратор Prof. Rita John и её e-mail registrar@unom.ac.in; страницы без даты."
  },
  {
   "country": "India",
@@ -2919,12 +2946,15 @@
   "notes_ru": [
    "Сайт uni-mysore.ac.in заблокирован (ошибка SSL / 503) — имя и e-mail ректора взяты из списка Academic Council (июнь 2024) по данным поиска; требуется перепроверка актуальности на 2026",
    "Международный офис не проверен",
-   "Космических проектов не найдено"
+   "Космических проектов не найдено",
+   "Повторная проверка 10.2026: сайт недоступен (ошибка TLS-цепочки / 503); актуальность VC на 2026 г. по-прежнему не подтверждена",
+   "Перепроверка: 04.10.2026: uni-mysore.ac.in недоступен; новых официальных подтверждений не найдено — данные не изменены."
   ],
   "mailbox_owner": "Офис ректора (Vice-Chancellor)",
   "addressee_name": "Prof. N. K. Lokanath",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Lokanath,"
+  "salutation": "Dear Prof. Lokanath,",
+  "recheck_ru": "04.10.2026: uni-mysore.ac.in недоступен; новых официальных подтверждений не найдено — данные не изменены."
  },
  {
   "country": "India",
@@ -3053,13 +3083,13 @@
   "main_fields": "Computer Science, Electronics & Communication, Electrical Engineering, Mechanical Engineering, Civil Engineering",
   "postal_address": "National Institute of Technology Puducherry, Thiruvettakudy, Karaikal, Puducherry (UT), India",
   "email_general": "director@nitpy.ac.in",
-  "email_international": "",
-  "phone": "",
+  "email_international": "thangavel.s@nitpy.ac.in",
+  "phone": "+91 4368 265235 (доб. 101 — директор; доб. 334 — декан по международным связям); +91 4368 265230 (администрация)",
   "website": "https://nitpy.ac.in",
-  "head_name": "Dr. Makarand Madhao Ghangrekar",
+  "head_name": "Prof. Makarand Madhao Ghangrekar",
   "head_title": "Director",
   "party_secretary": "",
-  "head_verified_source": "https://www.nitpy.ac.in/institute/administration/bog",
+  "head_verified_source": "https://nitpy.ac.in/faculty/adminDirectory; https://nitpy.ac.in/institute/administration/bog",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "NIRF2025 Engineering: 99",
@@ -3071,15 +3101,19 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://www.nitpy.ac.in/institute/administration/bog; https://en.wikipedia.org/wiki/National_Institute_of_Technology,_Puducherry",
-  "confidence": "low",
+  "confidence": "high",
   "notes_ru": [
-   "Сайт nitpy.ac.in заблокирован (ошибка SSL / 503) — данные о директоре и e-mail взяты из выдачи поиска по странице BoG, не открыты напрямую",
-   "Регистратор: Dr. S. Sundaravarathan, registrar@nitpy.ac.in"
+   "Сайт nitpy.ac.in напрямую из нашей сети недоступен (ошибка SSL через прокси); страницы открыты через r.jina.ai 04.10.2026. E-mail на сайте записаны в виде name[at]nitpy[dot]ac[dot]in.",
+   "Декан по международным связям, выпускникам и PR (Dean, International Relations, Alumni & Publicity): Dr. Thangavel S (thangavel.s@nitpy.ac.in, доб. 334); заместители — Dr. Ansuman Mahapatra, Dr. Malaya Kumar Nath.",
+   "Регистратор: Dr. S. Sundaravarathan, registrar@nitpy.ac.in (доб. 104)",
+   "Почтовый индекс на официальных страницах не указан (только «Karaikal, Puducherry»).",
+   "Перепроверка: Директор, e-mail директора и декан по международным связям подтверждены на nitpy.ac.in (Administration/Dean Directory, стр. от 01.10.2026) 04.10.2026 через reader-сервис; добавлены международный e-mail и телефоны."
   ],
   "mailbox_owner": "Офис директора (Director's Office)",
   "addressee_name": "Dr. Makarand Madhao Ghangrekar",
   "addressee_title": "Директор",
-  "salutation": "Dear Dr. Ghangrekar,"
+  "salutation": "Dear Dr. Ghangrekar,",
+  "recheck_ru": "Директор, e-mail директора и декан по международным связям подтверждены на nitpy.ac.in (Administration/Dean Directory, стр. от 01.10.2026) 04.10.2026 через reader-сервис; добавлены международный e-mail и телефоны."
  },
  {
   "country": "India",
@@ -3543,12 +3577,14 @@
    "По Википедии: частный автономный колледж (основатель — Shiv Nadar); с 2026–27 уч. г. переходит в состав Shiv Nadar University, Chennai как SSN School of Engineering — письмо, возможно, лучше адресовать Shiv Nadar University Chennai",
    "Имя директора (Dr. S. Radha) — по Википедии, не подтверждено на официальном сайте",
    "По поисковой выдаче (не проверено): principal@ssn.edu.in, info@ssn.edu.in, +91-44-27469700",
-   "Запущенных спутников не найдено (проверка по nanosats.eu и списку ISRO Student Satellites)"
+   "Запущенных спутников не найдено (проверка по nanosats.eu и списку ISRO Student Satellites)",
+   "Перепроверка: Сайт ssn.edu.in (включая /contact-us/) и сайты Shiv Nadar University по-прежнему недоступны (Cloudflare 403/502); данные не изменены"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Dean of International Relations,"
+  "salutation": "Dear Dean of International Relations,",
+  "recheck_ru": "Сайт ssn.edu.in (включая /contact-us/) и сайты Shiv Nadar University по-прежнему недоступны (Cloudflare 403/502); данные не изменены"
  },
  {
   "country": "India",
@@ -3624,12 +3660,15 @@
    "Имя ректора (VC) Dr. Vivek Saoji — по Википедии; по сайту не подтверждено",
    "По поисковой выдаче (не проверено на открытой странице): Office of International Affairs возглавляет Prof. Dr. Kirti Mahajan; адрес офиса — Bharati Vidyapeeth Bhavan, Lal Bahadur Shastri Marg, Pune 411030",
    "Частный многопрофильный deemed-университет с кампусами в Пуне, Нью-Дели, Нави-Мумбаи, Сангли, Колхапуре и др.",
-   "Запущенных спутников не найдено (проверка по nanosats.eu и списку ISRO Student Satellites)"
+   "Запущенных спутников не найдено (проверка по nanosats.eu и списку ISRO Student Satellites)",
+   "Повторная проверка 04.10.2026: по поисковой выдаче Prof. Dr. Vivek A. Saoji — VC с 01.10.2022, директор Office of International Affairs (bvuniversity.edu.in/isc/) — Prof. Dr. Kirti Mahajan; страницы открыть не удалось",
+   "Перепроверка: Сайты bvuniversity.edu.in (Cloudflare 403) и *.bharatividyapeeth.edu (сброс соединения) недоступны 04.10.2026; данные не изменены"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Affairs,"
+  "salutation": "Dear Director of International Affairs,",
+  "recheck_ru": "Сайты bvuniversity.edu.in (Cloudflare 403) и *.bharatividyapeeth.edu (сброс соединения) недоступны 04.10.2026; данные не изменены"
  },
  {
   "country": "India",
@@ -3664,12 +3703,14 @@
    "Официальные сайты (bangaloreuniversity.karnataka.gov.in, bangaloreuniversity.ac.in) недоступны (503 / таймаут) — контакты не подтверждены",
    "Ректор (VC) C. Shivaraju назначен 12.07.2026 (по Википедии); учёное звание на официальном сайте не проверено",
    "По поисковой выдаче (не проверено): адрес — Jnanabharathi Campus, Bengaluru 560056",
-   "Запущенных спутников не найдено (проверка по nanosats.eu и списку ISRO Student Satellites)"
+   "Запущенных спутников не найдено (проверка по nanosats.eu и списку ISRO Student Satellites)",
+   "Перепроверка: Сайт bangaloreuniversity.karnataka.gov.in и портал karnataka.gov.in недоступны (503 / сброс соединения), домен bangaloreuniversity.ac.in не разрешается — данные не изменены (04.10.2026)"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Dean of International Relations,"
+  "salutation": "Dear Dean of International Relations,",
+  "recheck_ru": "Сайт bangaloreuniversity.karnataka.gov.in и портал karnataka.gov.in недоступны (503 / сброс соединения), домен bangaloreuniversity.ac.in не разрешается — данные не изменены (04.10.2026)"
  },
  {
   "country": "India",
@@ -3687,7 +3728,7 @@
   "head_name": "Prof. Rajiv Prakash",
   "head_title": "Director",
   "party_secretary": "",
-  "head_verified_source": "https://centralchronicle.in/prof-rajiv-prakash-appointed-as-director-of-iit-bhilai/",
+  "head_verified_source": "https://x.com/IIT_Bhilai/status/2063967770812047649 (official IIT Bhilai X account, 08.06.2026); https://www.iitbhilai.ac.in/index.php?pid=top_stories_prof_rajiv_prakash (search snippet)",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "NIRF2025 Engineering: 72",
@@ -3698,18 +3739,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://centralchronicle.in/prof-rajiv-prakash-appointed-as-director-of-iit-bhilai/; https://www.isro.gov.in/StudentSatellite.html",
+  "sources": "https://centralchronicle.in/prof-rajiv-prakash-appointed-as-director-of-iit-bhilai/; https://www.isro.gov.in/StudentSatellite.html; https://x.com/IIT_Bhilai/status/2063967770812047649",
   "confidence": "low",
   "notes_ru": [
-   "Сайт iitbhilai.ac.in при проверке недоступен (503 / таймаут) — контакты не подтверждены",
-   "Директор проф. Rajiv Prakash назначен в сентябре 2022 г. (новость Central Chronicle); актуальность на 2025–2026 по официальному сайту не подтверждена",
+   "Сайт iitbhilai.ac.in при проверке недоступен (503 / ошибка TLS, повторно 04.10.2026) — контакты не подтверждены",
+   "Директор проф. Rajiv Prakash (в должности с 26.09.2022) — действующий по публикации официального аккаунта IIT Bhilai в X от 08.06.2026",
    "По поисковой выдаче (не проверено на открытой странице): director@iitbhilai.ac.in, administration@iitbhilai.ac.in",
-   "Запущенных спутников не найдено (проверка по nanosats.eu и списку ISRO Student Satellites)"
+   "Запущенных спутников не найдено (проверка по nanosats.eu и списку ISRO Student Satellites)",
+   "Перепроверка: Директор проф. Rajiv Prakash подтверждён официальным аккаунтом IIT Bhilai в X (08.06.2026); сайт по-прежнему недоступен (503) — контакты не подтверждены"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Dean of International Relations,"
+  "salutation": "Dear Dean of International Relations,",
+  "recheck_ru": "Директор проф. Rajiv Prakash подтверждён официальным аккаунтом IIT Bhilai в X (08.06.2026); сайт по-прежнему недоступен (503) — контакты не подтверждены"
  },
  {
   "country": "India",
@@ -4413,12 +4456,14 @@
   "notes_ru": [
    "САЙТ ЗАБЛОКИРОВАН: у mmmut.ac.in истёк SSL-сертификат, WebFetch — 503; контакты не проверены, адрес/e-mail оставлены пустыми",
    "Ректор указан только по Википедии (без учёного звания) — требуется проверка перед рассылкой",
-   "Спутниковых проектов в nanosats.eu нет"
+   "Спутниковых проектов в nanosats.eu нет",
+   "Перепроверка: 04.10.2026: mmmut.ac.in по-прежнему недоступен (ошибка сертификата; WebFetch — 503); данные не изменены"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Dean of International Relations,"
+  "salutation": "Dear Dean of International Relations,",
+  "recheck_ru": "04.10.2026: mmmut.ac.in по-прежнему недоступен (ошибка сертификата; WebFetch — 503); данные не изменены"
  },
  {
   "country": "India",
@@ -4589,10 +4634,10 @@
   "ownership": "Государственный (штат Тамилнад)",
   "profile_type": "classical",
   "main_fields": "Sciences, Humanities, Commerce & Management, Journalism, Computer Science, Distance Education",
-  "postal_address": "Periyar University, Salem 636011, Tamil Nadu, India",
+  "postal_address": "Periyar University, Salem – 636 011, Tamil Nadu, India",
   "email_general": "",
   "email_international": "",
-  "phone": "+91-427-2345766",
+  "phone": "+91-427-2345766 (General / Registrar Office); +91-427-2346268; +91-427-2346269",
   "website": "https://www.periyaruniversity.ac.in",
   "head_name": "Thiru P. Ponniah, I.A.S.",
   "head_title": "Convenor, Vice-Chancellor Committee",
@@ -4608,17 +4653,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.periyaruniversity.ac.in/; https://www.periyaruniversity.ac.in/Contact.php; https://www.periyaruniversity.ac.in/vicechancellor.php",
-  "confidence": "low",
+  "sources": "https://www.periyaruniversity.ac.in/; https://www.periyaruniversity.ac.in/Contact.php; https://www.periyaruniversity.ac.in/vicechancellor.php; https://www.periyaruniversity.ac.in/registrar.php",
+  "confidence": "medium",
   "notes_ru": [
-   "Должность ректора вакантна: университетом руководит Комитет (Vice-Chancellor Committee) под председательством Thiru P. Ponniah, IAS (комиссар по высшему образованию шт. Тамилнад)",
-   "На сайте не опубликовано ни одного e-mail — только телефоны (общий 0427-2345766, 2346268, 2346269)",
-   "Международного офиса не найдено; спутниковых проектов нет"
+   "Должность ректора вакантна: университетом руководит Комитет (Vice-Chancellor Committee) под председательством (Convenor) Thiru P. Ponniah, IAS (комиссар по высшему/коллегиальному образованию шт. Тамилнад) — подтверждено на vicechancellor.php 04.10.2026",
+   "Регистратор (FAC) — Dr. V. Raj (registrar.php).",
+   "На сайте не опубликовано ни одного e-mail — только телефоны (общий 0427-2345766, 2346268, 2346269); для письма нужен e-mail, полученный по телефону.",
+   "Международного офиса не найдено; спутниковых проектов нет",
+   "Перепроверка: Сайт открыт 04.10.2026: Комитет VC под председательством Thiru P. Ponniah, IAS, регистратор Dr. V. Raj (FAC) и телефоны подтверждены; e-mail на сайте по-прежнему не опубликован."
   ],
   "mailbox_owner": "",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Dean of International Relations,"
+  "addressee_name": "Dr. V. Raj",
+  "addressee_title": "Registrar (FAC)",
+  "salutation": "Dear Dr. Raj,",
+  "recheck_ru": "Сайт открыт 04.10.2026: Комитет VC под председательством Thiru P. Ponniah, IAS, регистратор Dr. V. Raj (FAC) и телефоны подтверждены; e-mail на сайте по-прежнему не опубликован."
  },
  {
   "country": "India",
@@ -5371,15 +5419,17 @@
   "sources": "https://en.wikipedia.org/wiki/Madurai_Kamaraj_University; https://mkuniversity.ac.in (недоступен); nanosats.csv",
   "confidence": "low",
   "notes_ru": [
-   "Сайт mkuniversity.ac.in недоступен (SSL-ошибка/503/отказ прокси); лимит веб-поиска исчерпан — контакты не проверены, поля оставлены пустыми.",
-   "По Wikipedia должность ВК вакантна (вуз управляется комитетом/конвинером) — перед рассылкой установить текущего руководителя и почту.",
+   "Сайт mkuniversity.ac.in (http/https, www, /new/) по-прежнему недоступен (SSL-ошибка / 503, 04.10.2026) — контакты не проверены, поля оставлены пустыми.",
+   "По Wikipedia должность ВК вакантна (вуз управляется комитетом/конвинером); агрегатор timesofcollege указывает Prof. J. Kumar (ВК до 2024 г., вероятно устарело) — перед рассылкой установить текущего руководителя и почту.",
    "Почтовый адрес нужно дополнить (кампус Palkalai Nagar) после проверки на официальном сайте.",
-   "Спутников в nanosats.csv нет."
+   "Спутников в nanosats.csv нет.",
+   "Перепроверка: Сайт недоступен; данные не изменены, текущий руководитель не установлен."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Dean of International Relations,"
+  "salutation": "Dear Dean of International Relations,",
+  "recheck_ru": "Сайт недоступен; данные не изменены, текущий руководитель не установлен."
  },
  {
   "country": "India",
@@ -6471,12 +6521,14 @@
   "notes_ru": [
    "Сайт imu.edu.in недоступен из нашей сети (ошибка TLS-сертификата / 503) – данные взяты из поисковой выдачи официальной страницы VC, требуют перепроверки.",
    "Dr. Malini V. Shankar (IAS в отставке) – срок её полномочий может истекать в 2026 г.; уточнить перед отправкой.",
-   "Профиль морской; космической активности не найдено."
+   "Профиль морской; космической активности не найдено.",
+   "Перепроверка: Сайт imu.edu.in недоступен (curl — нет соединения, WebFetch 503) 04.10.2026; данные не изменены."
   ],
   "mailbox_owner": "Офис вице-канцлера (Vice-Chancellor's Secretariat)",
   "addressee_name": "Dr. Malini V. Shankar",
   "addressee_title": "Вице-канцлер (ректор)",
-  "salutation": "Dear Dr. Shankar,"
+  "salutation": "Dear Dr. Shankar,",
+  "recheck_ru": "Сайт imu.edu.in недоступен (curl — нет соединения, WebFetch 503) 04.10.2026; данные не изменены."
  },
  {
   "country": "India",
@@ -6627,12 +6679,15 @@
   "notes_ru": [
    "Сайт kashmiruniversity.net заблокирован/недоступен (сброс соединения) – контакты не проверены.",
    "По поисковой выдаче: registrar@kashmiruniversity.ac.in, info@kashmiruniversity.net – не подтверждены, перед отправкой проверить.",
-   "Срок полномочий VC Prof. Nilofer Khan продлён на 2 года с 19.05.2025 (до мая 2027)."
+   "Срок полномочий VC Prof. Nilofer Khan продлён на 2 года с 19.05.2025 (до мая 2027).",
+   "Повторная проверка 10.2026: сайт по-прежнему недоступен (сброс соединения / 403); по поиску VC Prof. Nilofer Khan продолжала работу в октябре 2026 г., срок — до 05.2027",
+   "Перепроверка: 04.10.2026: kashmiruniversity.net недоступен; ректор подтверждается только СМИ/поиском — данные не изменены."
   ],
   "mailbox_owner": "",
   "addressee_name": "Prof. Nilofer Khan",
   "addressee_title": "Вице-канцлер (ректор)",
-  "salutation": "Dear Prof. Khan,"
+  "salutation": "Dear Prof. Khan,",
+  "recheck_ru": "04.10.2026: kashmiruniversity.net недоступен; ректор подтверждается только СМИ/поиском — данные не изменены."
  },
  {
   "country": "India",
@@ -6989,7 +7044,7 @@
   "postal_address": "Chandigarh Engineering College – CGC, Kharar-Banur Highway, Sector-112, Landran, Greater Mohali – 140307, Punjab, India",
   "email_general": "admissions@cgc.edu.in",
   "email_international": "",
-  "phone": "+91-95922-14444",
+  "phone": "+91-95922-14444; 1800-2003575 (toll-free); Dean International Affairs: +91 97819 25259",
   "website": "https://www.cecmohali.org",
   "head_name": "Dr. Sukhpreet Kaur",
   "head_title": "Director-Principal",
@@ -7006,16 +7061,18 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://www.cecmohali.org/important-contacts; https://www.cecmohali.org/director-principal-message",
-  "confidence": "low",
+  "confidence": "medium",
   "notes_ru": [
-   "Противоречие на сайте: страница «Important Contacts» называет Director-Principal Dr. Sukhpreet Kaur, а страница послания – Dr. Rajdeep Singh; уточнить.",
+   "Страница «Important Contacts» называет Director-Principal Dr. Sukhpreet Kaur; Dr. Rajdeep Singh — Campus Director CGC Landran (страница campus-director-message), но его имя также осталось на странице director-principal-message (вероятно, устаревшей) — перед рассылкой уточнить. Даты на страницах не указаны.",
    "Опубликован только admissions@cgc.edu.in; сайт cgc.edu.in закрыт JS-защитой от ботов.",
-   "Декан по международным делам – Dr. Ramandeep Saini (тел. 9781925259, email не опубликован)."
+   "Декан по международным делам – Dr. Ramandeep Saini (тел. 9781925259, email не опубликован).",
+   "Перепроверка: Сайт cecmohali.org повторно открыт 04.10.2026: Director-Principal Dr. Sukhpreet Kaur, декан по междунар. делам Dr. Ramandeep Saini, адрес и admissions@cgc.edu.in подтверждены; противоречие с Dr. Rajdeep Singh объяснено частично (он — Campus Director CGC Landran)."
   ],
   "mailbox_owner": "Приёмная комиссия (единственный опубликованный адрес)",
   "addressee_name": "Dr. Ramandeep Saini",
   "addressee_title": "Декан по международным делам",
-  "salutation": "Dear Dr. Saini,"
+  "salutation": "Dear Dr. Saini,",
+  "recheck_ru": "Сайт cecmohali.org повторно открыт 04.10.2026: Director-Principal Dr. Sukhpreet Kaur, декан по междунар. делам Dr. Ramandeep Saini, адрес и admissions@cgc.edu.in подтверждены; противоречие с Dr. Rajdeep Singh объяснено частично (он — Campus Director CGC Landran)."
  },
  {
   "country": "India",
@@ -7681,12 +7738,14 @@
    "Официальный сайт mzu.edu.in недоступен (ошибка SSL-сертификата / HTTP 503) — данные ISCC взяты из поискового индекса страницы ISCC, не открыты напрямую",
    "Ректор Prof. Dibakar Chandra Deka вступил в должность 1 мая 2023 г. (пресс-релиз DIPR Mizoram); подтверждения на 2025–2026 с официального сайта получить не удалось",
    "Международные связи: International Students Centre and Collaborations (ISCC); имя директора не установлено; зам. директора — Dr. Laltanpuii Ralte (tanpuii@mzu.edu.in) — по данным поискового индекса",
-   "LIGHT-проверка: спутниковых проектов не найдено"
+   "LIGHT-проверка: спутниковых проектов не найдено",
+   "Перепроверка: Сайт mzu.edu.in по-прежнему недоступен (ошибка TLS-сертификата), DIPR Mizoram — 403; данные не изменены"
   ],
   "mailbox_owner": "Центр иностранных студентов и сотрудничества (International Students Centre and Collaborations, ISCC)",
   "addressee_name": "",
   "addressee_title": "Директор ISCC",
-  "salutation": "Dear Director of International Students Centre and Collaborations,"
+  "salutation": "Dear Director of International Students Centre and Collaborations,",
+  "recheck_ru": "Сайт mzu.edu.in по-прежнему недоступен (ошибка TLS-сертификата), DIPR Mizoram — 403; данные не изменены"
  },
  {
   "country": "India",
@@ -7722,12 +7781,14 @@
    "Это составной колледж Andhra University; ректор университета — Prof. G. P. Raja Sekhar (vicechancellor@andhrauniversity.edu.in, +91 891 2844222 — по поисковому индексу); принципал Prof. M. Shashi подтверждён новостью Yo! Vizag (август 2026)",
    "Офис международных связей колледжа/университета не установлен",
    "LIGHT-проверка: спутниковых проектов не найдено",
-   "Почтовый индекс не проверен"
+   "Почтовый индекс не проверен",
+   "Перепроверка: Сайт andhrauniversity.edu.in недоступен (сброс/503, 04.10.2026, curl и WebFetch); данные не изменены"
   ],
   "mailbox_owner": "Офис принципала (Principal's Office)",
   "addressee_name": "Prof. M. Shashi",
   "addressee_title": "Принципал (директор) инженерного колледжа",
-  "salutation": "Dear Prof. Shashi,"
+  "salutation": "Dear Prof. Shashi,",
+  "recheck_ru": "Сайт andhrauniversity.edu.in недоступен (сброс/503, 04.10.2026, curl и WebFetch); данные не изменены"
  },
  {
   "country": "India",

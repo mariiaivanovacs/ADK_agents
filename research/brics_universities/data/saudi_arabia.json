@@ -348,18 +348,20 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://imamu.edu.sa/en; https://imamu.edu.sa/en/about-university/president-office; https://www.spa.gov.sa/en/N2625933; https://units.imamu.edu.sa/administrations/International_Cooperation/Pages/default.aspx; https://www.qianmu.org/2027QS世界大学排名; nanosats.csv",
-  "confidence": "low",
+  "confidence": "medium",
   "notes_ru": [
    "Президент подтверждён по новости SPA (июль 2026 г.); учёное звание в источнике не указано",
    "op@imamu.edu.sa — e-mail для записи на приём к президенту (офис президента); телефоны офиса: 011 259 8762, 011 258 5214",
    "Сайт в основном на JavaScript, часть страниц (contact-us) блокируется WAF; почтовый адрес (P.O. Box) на открытых страницах не найден",
    "Есть Генеральное управление международного сотрудничества и коммуникаций (الإدارة العامة للتعاون والتواصل الدولي), но e-mail и руководитель на странице не отображаются",
-   "Спутников не найдено; в поиске упоминается проект KN-Sat1 (ResearchGate), связь с IMSIU и запуск не подтверждены"
+   "Спутников не найдено; в поиске упоминается проект KN-Sat1 (ResearchGate), связь с IMSIU и запуск не подтверждены",
+   "Перепроверка: Повторный доступ к imamu.edu.sa блокируется WAF (страница «IMAMU Support», 04.10.2026) — обход не выполнялся; уровень повышен до medium на основании ранее подтверждённых данных (президент — SPA, июль 2026; e-mail офиса президента — официальный сайт), данные не изменены."
   ],
   "mailbox_owner": "Офис президента университета",
   "addressee_name": "Ahmed Alaameri",
   "addressee_title": "Президент университета",
-  "salutation": "Dear President Alaameri,"
+  "salutation": "Dear President Alaameri,",
+  "recheck_ru": "Повторный доступ к imamu.edu.sa блокируется WAF (страница «IMAMU Support», 04.10.2026) — обход не выполнялся; уровень повышен до medium на основании ранее подтверждённых данных (президент — SPA, июль 2026; e-mail офиса президента — официальный сайт), данные не изменены."
  },
  {
   "country": "Saudi Arabia",
@@ -474,12 +476,14 @@
    "ask_dar@ksau-hs.edu.sa — e-mail деканата приёма и регистрации (другого общего адреса не найдено)",
    "Университет подчиняется Министерству национальной гвардии (не Минобразования); президент одновременно CEO медицинских служб нацгвардии (MNGHA); подтверждён по программе BIO 2026",
    "Медицинский профиль; спутников не найдено (проверка только по nanosats.csv)",
-   "Имя руководителя по международным партнёрствам не найдено; есть портал соглашений и стратегических партнёрств"
+   "Имя руководителя по международным партнёрствам не найдено; есть портал соглашений и стратегических партнёрств",
+   "Перепроверка: Сайт ksau-hs.edu.sa по-прежнему не открывается (устаревший TLS и неполная цепочка сертификатов); данные не изменены"
   ],
   "mailbox_owner": "Деканат приёма и регистрации (общий канал)",
   "addressee_name": "",
   "addressee_title": "Директор по международным связям и партнёрствам",
-  "salutation": "Dear Director of International Affairs,"
+  "salutation": "Dear Director of International Affairs,",
+  "recheck_ru": "Сайт ksau-hs.edu.sa по-прежнему не открывается (устаревший TLS и неполная цепочка сертификатов); данные не изменены"
  },
  {
   "country": "Saudi Arabia",
@@ -816,7 +820,7 @@
   "head_name": "Prof. Dr. Ali bin Mohammed Al-Shahrani",
   "head_title": "President",
   "party_secretary": "",
-  "head_verified_source": "https://www.arabou.edu.sa/about",
+  "head_verified_source": "https://www.arabou.edu.sa/about/Pages/default.aspx (открыта 04.10.2026)",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -828,18 +832,20 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://www.arabou.edu.sa/; https://www.arabou.edu.sa/about; https://www.arabou.edu.sa/about/Pages/international-relations.aspx; https://www.arabou.edu.sa/about/Pages/branch-regional-centers-directors.aspx; nanosats.csv",
-  "confidence": "low",
+  "confidence": "medium",
   "notes_ru": [
    "Саудовское отделение некоммерческого Арабского открытого университета (штаб-квартира в Кувейте), смешанное/дистанционное обучение; партнёр Open University (UK)",
-   "Глава указан на странице About как President; дата обновления страницы не видна (в футере © 2022) — актуальность на 2026 г. не подтверждена",
    "Есть раздел Local and International Relations, но отдельного e-mail/руководителя нет — использовать info@arabou.edu.sa; второй телефон +966 11 274 2696",
    "Филиалы: Даммам/Эль-Хаса (Dr. Mohammad Alsaif), Джидда (Dr. Osamah Alzaid), Медина (Dr. Abdullah AlGhamdi)",
-   "Инженерного/космического профиля нет; спутников не найдено (проверка только по nanosats.csv)"
+   "Инженерного/космического профиля нет; спутников не найдено (проверка только по nanosats.csv)",
+   "04.10.2026: страница About (сайт активно обновляется, новости до 30.09.2026) по-прежнему называет президентом Prof. Dr. Ali bin Mohammed Al-Shahrani; адрес, info@arabou.edu.sa и телефоны подтверждены. В новостях 2026 г. («رئيس الجامعة…», 26.08.2026) имя президента не указано — дата назначения не подтверждена",
+   "Перепроверка: Президент, адрес, e-mail и телефоны подтверждены на сайте arabou.edu.sa 04.10.2026 (страница без даты, сайт обновляется в 2026)"
   ],
   "mailbox_owner": "Общая почта университета",
   "addressee_name": "",
   "addressee_title": "Руководитель отдела местных и международных связей",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Президент, адрес, e-mail и телефоны подтверждены на сайте arabou.edu.sa 04.10.2026 (страница без даты, сайт обновляется в 2026)"
  },
  {
   "country": "Saudi Arabia",
@@ -955,12 +961,14 @@
    "Сайт www.jic.edu.sa недоступен (DNS не разрешается/прокси отклоняет соединение), портал Королевской комиссии rcjy.edu.sa отвечает 503; лимит веб-поиска исчерпан — контакты и руководитель НЕ проверены",
    "Колледж Королевской комиссии по Джубайлю и Янбу (не Минобразования); прикладной инженерно-технологический профиль; должность руководителя (Managing Director) не подтверждена",
    "Спутников не найдено (проверка только по nanosats.csv)",
-   "Требуется ручная доработка перед рассылкой"
+   "Требуется ручная доработка перед рассылкой",
+   "Перепроверка: Домен www.jic.edu.sa не разрешается, jic.edu.sa и rcjy.gov.sa недоступны (502 / сброс соединения) — данные не изменены (04.10.2026)"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "Директор по международному сотрудничеству",
-  "salutation": "Dear Director of International Affairs,"
+  "salutation": "Dear Director of International Affairs,",
+  "recheck_ru": "Домен www.jic.edu.sa не разрешается, jic.edu.sa и rcjy.gov.sa недоступны (502 / сброс соединения) — данные не изменены (04.10.2026)"
  },
  {
   "country": "Saudi Arabia",
@@ -1374,10 +1382,10 @@
   "email_international": "",
   "phone": "+966 17 329 5000",
   "website": "https://www.jazanu.edu.sa",
-  "head_name": "Prof. Dr. Mar'ei bin Hussein Al-Qahtani",
+  "head_name": "Dr. Mohammad AbuRasain (Mohammed bin Hassan AbuRasain)",
   "head_title": "President",
   "party_secretary": "",
-  "head_verified_source": "https://www.jazanu.edu.sa/en/administration/departments/jupresident/contactinfo",
+  "head_verified_source": "https://spa.gov.sa/en/N2566500 (Saudi Press Agency, 21.04.2026); https://www.jazanu.edu.sa/en/president (search snippet: in office since 17.05.2024)",
   "rank_qs": "",
   "rank_the": "THE2027: 701–800",
   "rank_national": "",
@@ -1388,17 +1396,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.jazanu.edu.sa/en/administration/departments/jupresident/contactinfo (via search index; site blocked); https://www.jazanu.edu.sa/en/administration/departments/university-president; nanosats.csv",
+  "sources": "https://www.jazanu.edu.sa/en/administration/departments/jupresident/contactinfo (via search index; site blocked); https://www.jazanu.edu.sa/en/administration/departments/university-president; nanosats.csv; https://spa.gov.sa/en/N2566500",
   "confidence": "low",
   "notes_ru": [
-   "Сайт jazanu.edu.sa недоступен из нашей сети (HTTP 403/503, архив также недоступен) — ФИО президента, e-mail, телефон и адрес взяты из поисковой выдачи по официальным страницам, НЕ открытым напрямую; обязательно перепроверить",
+   "Сайт jazanu.edu.sa недоступен из нашей сети (HTTP 403 / сброс соединения) — e-mail president@jazanu.edu.sa, телефон и адрес взяты из поисковой выдачи по официальным страницам, НЕ открытым напрямую; обязательно перепроверить",
+   "Президент исправлен: Dr. Mohammad AbuRasain (Mohammed bin Hassan AbuRasain), с 17.05.2024 — подтверждено Saudi Press Agency 21.04.2026; ранее в строке ошибочно был указан Prof. Mar'ei bin Hussein Al-Qahtani (бывший президент)",
    "E-mail международного отдела не найден; используется адрес офиса президента president@jazanu.edu.sa (в письме требуется указать полное имя и мобильный номер)",
-   "Спутников в nanosats.csv не найдено; отдельная проверка по космосу не проводилась из-за блокировки сайта"
+   "Спутников в nanosats.csv не найдено; отдельная проверка по космосу не проводилась из-за блокировки сайта",
+   "Перепроверка: ИСПРАВЛЕНО: президент — д-р Мохаммад Абурасаин (SPA, 21.04.2026; в должности с 17.05.2024), а не Al-Qahtani; контакты по-прежнему не открыты (сайт 403)"
   ],
   "mailbox_owner": "Офис президента университета",
-  "addressee_name": "Prof. Dr. Mar'ei bin Hussein Al-Qahtani",
-  "addressee_title": "Президент университета",
-  "salutation": "Dear Prof. Al-Qahtani,"
+  "addressee_name": "Dr. Mohammad AbuRasain",
+  "addressee_title": "President",
+  "salutation": "Dear Dr. AbuRasain,",
+  "recheck_ru": "ИСПРАВЛЕНО: президент — д-р Мохаммад Абурасаин (SPA, 21.04.2026; в должности с 17.05.2024), а не Al-Qahtani; контакты по-прежнему не открыты (сайт 403)"
  },
  {
   "country": "Saudi Arabia",
@@ -1432,12 +1443,14 @@
   "notes_ru": [
    "Сайт mu.edu.sa (и m.mu.edu.sa) недоступен из нашей сети (HTTP 403) — e-mail и адрес не проверены, не заполнены",
    "ФИО президента — по Википедии (данные 2026 г.); учёное звание «Prof.» не подтверждено официальным сайтом; телефон — по поисковой выдаче (my.gov.sa), перепроверить",
-   "Спутников в nanosats.csv не найдено"
+   "Спутников в nanosats.csv не найдено",
+   "Перепроверка: 04.10.2026: mu.edu.sa (в т.ч. /en через WebFetch) и каталог my.gov.sa по-прежнему отдают 403; данные не изменены"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Sir or Madam,"
+  "salutation": "Dear Sir or Madam,",
+  "recheck_ru": "04.10.2026: mu.edu.sa (в т.ч. /en через WebFetch) и каталог my.gov.sa по-прежнему отдают 403; данные не изменены"
  },
  {
   "country": "Saudi Arabia",
@@ -1630,12 +1643,14 @@
    "Сайт bu.edu.sa недоступен из нашей сети (HTTP 503/обрыв соединения) — e-mail contact@bu.edu.sa, телефон (+966 17 725 7700, доб. 15005; факс +966 17 725 7777) и ФИО взяты из поисковой выдачи по странице офиса президента и Википедии; перепроверить",
    "По той же выдаче директор офиса президента — Mr. Abdullah Alzahrani",
    "Главный кампус — в Аль-Акике (~25 км от г. Эль-Баха); почтовый адрес не проверен",
-   "Спутников в nanosats.csv не найдено"
+   "Спутников в nanosats.csv не найдено",
+   "Перепроверка: Сайт bu.edu.sa по-прежнему недоступен (04.10.2026: сброс соединения, WebFetch — 503); данные не изменены."
   ],
   "mailbox_owner": "Общий адрес университета / офис президента",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Sir or Madam,"
+  "salutation": "Dear Sir or Madam,",
+  "recheck_ru": "Сайт bu.edu.sa по-прежнему недоступен (04.10.2026: сброс соединения, WebFetch — 503); данные не изменены."
  },
  {
   "country": "Saudi Arabia",
@@ -1646,9 +1661,9 @@
   "profile_type": "classical",
   "main_fields": "Engineering, Computing and Information Technology, Medicine and Applied Medical Sciences, Science, Education, Business",
   "postal_address": "",
-  "email_general": "ccm@ub.edu.sa",
+  "email_general": "president_office@ub.edu.sa",
   "email_international": "",
-  "phone": "",
+  "phone": "+966 17 623 8093 (President's Office)",
   "website": "https://www.ub.edu.sa",
   "head_name": "Prof. Dr. Mohammed bin Mohsen Safhi",
   "head_title": "President",
@@ -1664,18 +1679,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.ub.edu.sa/; https://ubapi.ub.edu.sa/api/cms/news; nanosats.csv",
-  "confidence": "low",
+  "sources": "https://www.ub.edu.sa/; https://www.ub.edu.sa/university-president (assets/university-president-Du7USWOi.js); https://ubapi.ub.edu.sa/api/cms/news; nanosats.csv",
+  "confidence": "high",
   "notes_ru": [
-   "Новый сайт ub.edu.sa — SPA; e-mail ccm@ub.edu.sa взят из подвала сайта (назначение ящика не указано, вероятно — коммуникации/обращения); телефон и почтовый адрес не найдены",
+   "Новый сайт ub.edu.sa — SPA; e-mail president_office@ub.edu.sa и телефон +966 17 623 8093 заданы в коде официальной страницы «Президент университета» (проверено 04.10.2026); ccm@ub.edu.sa — общий ящик из подвала сайта",
    "Президент подтверждён новостью официального сайта за октябрь 2026 (أ.د. محمد بن محسن صفحي)",
-   "E-mail международного отдела не найден",
-   "Спутников не найдено (nanosats.csv, новости сайта)"
+   "Почтовый адрес не найден (страница контактов подгружает данные динамически); e-mail международного отдела не найден",
+   "Спутников не найдено (nanosats.csv, новости сайта)",
+   "Перепроверка: Добавлены e-mail и телефон офиса президента с официальной страницы президента (04.10.2026); президент подтверждён новостями сайта 10.2026."
   ],
-  "mailbox_owner": "Общий адрес университета (коммуникации)",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Sir or Madam,"
+  "mailbox_owner": "Office of the President (president_office@ub.edu.sa); общий ящик коммуникаций — ccm@ub.edu.sa",
+  "addressee_name": "Prof. Dr. Mohammed bin Mohsen Safhi",
+  "addressee_title": "President of the University",
+  "salutation": "Dear Professor Safhi,",
+  "recheck_ru": "Добавлены e-mail и телефон офиса президента с официальной страницы президента (04.10.2026); президент подтверждён новостями сайта 10.2026."
  },
  {
   "country": "Saudi Arabia",
@@ -1841,7 +1858,7 @@
   "country": "Saudi Arabia",
   "name_en": "Prince Sultan Aviation Academy",
   "name_native": "",
-  "city": "",
+  "city": "Джидда",
   "ownership": "",
   "profile_type": "technical/aerospace",
   "main_fields": "Aviation training, Flight operations, Aircraft maintenance",
@@ -1849,7 +1866,7 @@
   "email_general": "",
   "email_international": "",
   "phone": "",
-  "website": "",
+  "website": "https://psaa.com.sa",
   "head_name": "",
   "head_title": "",
   "party_secretary": "",
@@ -1864,18 +1881,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.wikipedia.org/wiki/Prince_Sultan_Aviation_Academy (redirect to Saudia#Early_years); nanosats.csv",
+  "sources": "https://psaa.com.sa/ (SPA; текст из официального JS-бандла /static/js/main.ca029ecb.js); https://en.wikipedia.org/wiki/Prince_Sultan_Aviation_Academy (redirect to Saudia#Early_years); nanosats.csv",
   "confidence": "low",
   "notes_ru": [
-   "Официальный сайт не открылся: psaa.edu.sa не резолвится (DNS), psaa.com.sa отвечает HTTP 403; лимит веб-поиска сессии исчерпан — контакты, руководитель, адрес НЕ проверены и не заполнены",
-   "В англ. Википедии статья перенаправляет на раздел истории авиакомпании Saudia — вероятно, академия входит в группу Saudia (не подтверждено официальной страницей)",
+   "Официальный сайт — https://psaa.com.sa (одностраничное приложение, в основном портал записи на курсы); psaa.edu.sa не резолвится",
+   "Сайт указывает расположение академии в Джидде и отдельную регистрацию для сотрудников Saudia — подтверждает принадлежность к группе Saudia",
+   "Руководитель, e-mail, телефон, почтовый адрес НЕ найдены на официальных страницах — требуется ручная доработка",
    "Профиль main_fields — общий для авиационной академии, не проверен; спутников в nanosats.csv нет",
-   "Требуется ручная доработка всей строки"
+   "Перепроверка: Официальный сайт psaa.com.sa (SPA) открыт 04.10.2026: из его кода подтверждены расположение в Джидде и связь с Saudia (отдельная регистрация для сотрудников Saudia); руководитель, e-mail, телефон и адрес на сайте не опубликованы."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Sir or Madam,"
+  "salutation": "Dear Sir or Madam,",
+  "recheck_ru": "Официальный сайт psaa.com.sa (SPA) открыт 04.10.2026: из его кода подтверждены расположение в Джидде и связь с Saudia (отдельная регистрация для сотрудников Saudia); руководитель, e-mail, телефон и адрес на сайте не опубликованы."
  },
  {
   "country": "Saudi Arabia",
@@ -1889,7 +1908,7 @@
   "email_general": "",
   "email_international": "",
   "phone": "",
-  "website": "http://www.rcyci.edu.sa/en/yic/",
+  "website": "https://rcjy.edu.sa/en/colleges-and-institutes-in-yanbu/yanbu-industrial-college/home-yanbu-industrial-college/",
   "head_name": "",
   "head_title": "Managing Director",
   "party_secretary": "",
@@ -1904,17 +1923,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.wikipedia.org/wiki/Yanbu_Industrial_College; nanosats.csv",
+  "sources": "https://rcjy.edu.sa/en/colleges-and-institutes-in-yanbu/yanbu-industrial-college/home-yanbu-industrial-college/; https://rcjy.edu.sa/en/colleges-and-institutes-in-yanbu/yanbu-industrial-college/about-yanbu-industrial-college/organizational-structure-yanbu-industrial-college/; https://rcjy.edu.sa/en/contact-us/; https://en.wikipedia.org/wiki/Yanbu_Industrial_College; nanosats.csv",
   "confidence": "low",
   "notes_ru": [
    "Колледж Королевской комиссии по Джубайлю и Янбу (Royal Commission), основан в 1989 г., расположен в промышленном городе Янбу",
-   "Официальные сайты yic.edu.sa и rcyci.edu.sa не резолвятся / недоступны; лимит веб-поиска исчерпан — контакты и адрес не проверены",
    "В Википедии руководителем указан Dr. Fahad Aloufi (без даты, вероятно устарело) — в head_name не внесено",
-   "profile_type: технический колледж (не аэрокосмический); спутников нет"
+   "profile_type: технический колледж (не аэрокосмический); спутников нет",
+   "Актуальный официальный сайт — раздел портала Royal Commission Education (rcjy.edu.sa); yic.edu.sa и rcyci.edu.sa не открываются",
+   "Руководитель — Managing Director (по оргструктуре на rcjy.edu.sa), имя на открытых страницах не указано; по поиску — Dr. Ahmed Al-Ghamdi (не подтверждено)",
+   "Опубликованного e-mail нет: обращения через веб-форму https://rcjy.edu.sa/en/contact-us/ (выбор «Yanbu Industrial College»)",
+   "Перепроверка: 04.10.2026: найден официальный раздел колледжа на rcjy.edu.sa (сайт обновлён); имя руководителя и e-mail там не опубликованы — остаётся low."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Sir or Madam,"
+  "salutation": "Dear Sir or Madam,",
+  "recheck_ru": "04.10.2026: найден официальный раздел колледжа на rcjy.edu.sa (сайт обновлён); имя руководителя и e-mail там не опубликованы — остаётся low."
  }
 ]

@@ -72,12 +72,14 @@
    "ВНИМАНИЕ: домен surya.ac.id сейчас (окт. 2026) показывает сайт «Surya Academy» (математика, бизнес, экономика) без контактов и руководства; старые страницы Surya University (в т.ч. о SS-1) дают 404 — статус вуза (ребрендинг/реорганизация) неясен",
    "Ректор не подтверждён официальным источником 2025–2026; в Википедии указаны Lindawati, Ph.D. (id.wiki) и Prof. Yohanes Surya (en.wiki) — перед рассылкой уточнить",
    "SS-1 (1U, APRS) — первый студенческий спутник Индонезии: запуск 26.11.2022 (SpaceX CRS-26 к МКС), отделение от МКС 06.01.2023 по программе KiboCUBE, сошёл с орбиты 11.05.2023",
-   "Email/телефон на текущем сайте не опубликованы — нужен поиск контакта (например, через команду SS-1 или фонд Surya Institute)"
+   "Email/телефон на текущем сайте не опубликованы — нужен поиск контакта (например, через команду SS-1 или фонд Surya Institute)",
+   "Перепроверка: Сайт surya.ac.id повторно проверен 04.10.2026: это «Surya Academy» без руководства и контактов; данные не изменены, статус вуза не прояснён"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Rector,"
+  "salutation": "Dear Rector,",
+  "recheck_ru": "Сайт surya.ac.id повторно проверен 04.10.2026: это «Surya Academy» без руководства и контактов; данные не изменены, статус вуза не прояснён"
  },
  {
   "country": "Indonesia",
@@ -271,12 +273,14 @@
    "Офис OCIA переименован в Directorate of Global Partnership and Employability (DGPE); по сниппету поиска общий ящик — bkln@umy.ac.id (страницу открыть не удалось) — проверить",
    "Директор Fitri Arofiati, Ph.D. указан по данным 2023–2024 — подтвердить актуальность; общий email ректората не найден",
    "Ректор Prof. Achmad Nurmandi вступил в должность 30.12.2024 (2024–2028)",
-   "Космических проектов не найдено (проверка по nanosats.csv)"
+   "Космических проектов не найдено (проверка по nanosats.csv)",
+   "Перепроверка: umy.ac.id и partnership.umy.ac.id показывают проверку «Verifying you are human», поддомены dgpe./iro./international. недоступны (прокси 502) — данные не изменены (04.10.2026)"
   ],
   "mailbox_owner": "Дирекция глобального партнёрства (DGPE, бывш. Office of Cooperation and International Affairs)",
   "addressee_name": "Fitri Arofiati, Ph.D.",
   "addressee_title": "Директор по сотрудничеству и международным связям (данные 2023–2024)",
-  "salutation": "Dear Dr. Arofiati,"
+  "salutation": "Dear Dr. Arofiati,",
+  "recheck_ru": "umy.ac.id и partnership.umy.ac.id показывают проверку «Verifying you are human», поддомены dgpe./iro./international. недоступны (прокси 502) — данные не изменены (04.10.2026)"
  },
  {
   "country": "Indonesia",
@@ -287,14 +291,14 @@
   "profile_type": "humanities",
   "main_fields": "Teacher Education, Language & Literature Education, Mathematics & Science Education, Social Sciences Education, Sport & Health Education, Technology & Vocational Education",
   "postal_address": "Jl. Dr. Setiabudhi No. 229, Bandung 40154, West Java, Indonesia",
-  "email_general": "",
+  "email_general": "sekuniv_upi@upi.edu",
   "email_international": "",
   "phone": "+62 22 2013163",
   "website": "https://www.upi.edu",
   "head_name": "Prof. Dr. H. Didi Sukyadi, M.A.",
   "head_title": "Rector",
   "party_secretary": "",
-  "head_verified_source": "https://www.antaranews.com/berita/4835437/didi-sukyadi-terpilih-sebagai-rektor-upi-2025-2030",
+  "head_verified_source": "https://upi.edu/id/rektorat (opened 04.10.2026); https://www.antaranews.com/berita/4835437/didi-sukyadi-terpilih-sebagai-rektor-upi-2025-2030",
   "rank_qs": "QS2027: 1401+",
   "rank_the": "THE2027: 1801–2000",
   "rank_national": "",
@@ -305,18 +309,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.upi.edu/; https://dia.upi.edu/; https://www.antaranews.com/berita/4835437/didi-sukyadi-terpilih-sebagai-rektor-upi-2025-2030; https://www.pikiran-rakyat.com/pendidikan/pr-019422008/selamat-didi-sukyadi-resmi-dilantik-menjadi-rektor-upi-periode-2025-2030; https://www.zoominfo.com/pic/universitas-pendidikan-indonesia/442814079",
-  "confidence": "low",
+  "sources": "https://www.upi.edu/; https://dia.upi.edu/; https://www.antaranews.com/berita/4835437/didi-sukyadi-terpilih-sebagai-rektor-upi-2025-2030; https://www.pikiran-rakyat.com/pendidikan/pr-019422008/selamat-didi-sukyadi-resmi-dilantik-menjadi-rektor-upi-periode-2025-2030; https://www.zoominfo.com/pic/universitas-pendidikan-indonesia/442814079; https://upi.edu/id/rektorat",
+  "confidence": "high",
   "notes_ru": [
-   "Все сайты upi.edu (включая dia.upi.edu — Дирекция международных дел) закрыты Cloudflare-проверкой — email не удалось проверить",
-   "Адрес и телефон — из вторичных источников (ZoomInfo); по тем же данным директор по международным делам — Ahmad Muslim (не подтверждено официальным сайтом)",
+   "Сайт Дирекции международных дел (dia.upi.edu) закрыт Cloudflare-проверкой — международный e-mail не найден; используем общий адрес секретариата sekuniv_upi@upi.edu (с главной страницы upi.edu)",
+   "Телефон — из вторичных источников (ZoomInfo), на официальном сайте не найден; по тем же данным директор по международным делам — Ahmad Muslim (не подтверждено). Партнёрства курирует проректор по исследованиям, общественной деятельности и партнёрству проф. Agus Setiabudi",
    "Ректор Prof. Didi Sukyadi вступил в должность 16.06.2025 (2025–2030)",
-   "Педагогический университет; космических проектов не найдено (проверка по nanosats.csv)"
+   "Педагогический университет; космических проектов не найдено (проверка по nanosats.csv)",
+   "Перепроверка: Ректор проф. Didi Sukyadi, адрес и общий e-mail sekuniv_upi@upi.edu (секретариат университета) подтверждены на upi.edu 04.10.2026; dia.upi.edu по-прежнему закрыт Cloudflare"
   ],
   "mailbox_owner": "Дирекция международных дел (Direktorat Urusan Internasional UPI)",
   "addressee_name": "",
   "addressee_title": "Директор по международным делам",
-  "salutation": "Dear Director of International Affairs,"
+  "salutation": "Dear Director of International Affairs,",
+  "recheck_ru": "Ректор проф. Didi Sukyadi, адрес и общий e-mail sekuniv_upi@upi.edu (секретариат университета) подтверждены на upi.edu 04.10.2026; dia.upi.edu по-прежнему закрыт Cloudflare"
  },
  {
   "country": "Indonesia",
@@ -658,10 +664,10 @@
   "email_international": "",
   "phone": "+62 362 22570",
   "website": "https://undiksha.ac.id",
-  "head_name": "",
-  "head_title": "Rector",
+  "head_name": "Prof. Dr. I Wayan Lasmawan, M.Pd.",
+  "head_title": "Rector (Rektor)",
   "party_secretary": "",
-  "head_verified_source": "",
+  "head_verified_source": "https://ppid.undiksha.ac.id/",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -672,19 +678,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://undiksha.ac.id/; https://lppm.undiksha.ac.id/; https://lppm.undiksha.ac.id/hubungi-kami/; https://id.wikipedia.org/wiki/Universitas_Pendidikan_Ganesha",
-  "confidence": "low",
+  "sources": "https://ppid.undiksha.ac.id/; https://lppm.undiksha.ac.id/; https://lppm.undiksha.ac.id/hubungi-kami/; https://id.wikipedia.org/wiki/Universitas_Pendidikan_Ganesha",
+  "confidence": "high",
   "notes_ru": [
-   "Основной сайт undiksha.ac.id закрыт Cloudflare-проверкой; контакты взяты с сайта LPPM Undiksha (подвал сайта университета)",
-   "Ректор не подтверждён официальным источником: в id.wikipedia — Prof. Dr. I Wayan Lasmawan, M.Pd., в en.wikipedia — устаревшее имя (Prof. I Nyoman Jampel) — уточнить перед рассылкой",
+   "Основной сайт undiksha.ac.id закрыт Cloudflare-проверкой; ректор, адрес, телефон (0362) 22570 и humas@undiksha.ac.id подтверждены на официальном портале PPID Undiksha (новости от 3.10.2026)",
    "humas@ — пресс-служба; email международного офиса не найден",
    "Космических проектов не найдено (проверка по nanosats.csv)",
-   "THE2027: только статус Reporter (без ранга)"
+   "THE2027: только статус Reporter (без ранга)",
+   "Перепроверка: 04.10.2026: ректор проф. И Ваян Ласмаван, адрес, телефон и e-mail подтверждены на официальном портале ppid.undiksha.ac.id"
   ],
   "mailbox_owner": "Бюро по связям с общественностью (Humas Undiksha)",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Rector,"
+  "addressee_name": "Prof. Dr. I Wayan Lasmawan, M.Pd.",
+  "addressee_title": "Rector, Universitas Pendidikan Ganesha",
+  "salutation": "Dear Professor Lasmawan,",
+  "recheck_ru": "04.10.2026: ректор проф. И Ваян Ласмаван, адрес, телефон и e-mail подтверждены на официальном портале ppid.undiksha.ac.id"
  },
  {
   "country": "Indonesia",
@@ -875,18 +882,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://unm.ac.id/; https://kerjasama.unm.ac.id/; https://id.wikipedia.org/wiki/Universitas_Negeri_Makassar",
-  "confidence": "low",
+  "sources": "https://kerjasama.unm.ac.id/; https://kerjasama.unm.ac.id/tentang; http://kerjasama.unm.ac.id/articles/unm-terima-kunjungan-delegasi-uin-jakarta-bahas-tata-kelola-kerja-sama-kemitraan-internasional-dan-pengelolaan-dana-kolaborasi; https://id.wikipedia.org/wiki/Universitas_Negeri_Makassar",
+  "confidence": "medium",
   "notes_ru": [
    "Основной сайт unm.ac.id и большинство поддоменов закрыты Cloudflare-проверкой; доступен только портал сотрудничества kerjasama.unm.ac.id (ящик kerjasama@unm.ac.id, также ящики факультетов, напр. kerjasama.ft@unm.ac.id, kerjasama.fmipa@unm.ac.id)",
-   "Руководство нестабильно: по id.wikipedia обязанности ректора исполняет (Plt.) Prof. Dr. Farida Patittingi, S.H., M.Hum. — официально не подтверждено, проверить перед рассылкой",
-   "Телефон и общий email не подтверждены",
-   "Космических проектов не найдено (проверка по nanosats.csv)"
+   "Команда сотрудничества (страница «Tentang»): Wakil Rektor IV — Prof. Dr. Syahruddin, M.Kes.; Kepala Biro Perencanaan dan Kerjasama — Mufti Muin Ismail, M.Pd.; координатор международного сотрудничества — Bukhari Naufal Nur A G, S.Kom.",
+   "Руководство нестабильно: по id.wikipedia обязанности ректора исполняет (Plt.) Prof. Dr. Farida Patittingi, S.H., M.Hum. — на официальных страницах не подтверждено (в новостях 2025 г. упоминается лишь «Rektor UNM» без имени), проверить перед рассылкой",
+   "Телефон и общий email не подтверждены; адрес — по Википедии",
+   "Космических проектов не найдено (проверка по nanosats.csv)",
+   "Перепроверка: 04.10.2026: на портале kerjasama.unm.ac.id подтверждены kerjasama@unm.ac.id, проректор IV по планированию и сотрудничеству Prof. Dr. Syahruddin и руководитель бюро (новости дек. 2025); ректор на доступных официальных страницах не назван, основной сайт закрыт Cloudflare."
   ],
-  "mailbox_owner": "Отдел сотрудничества UNM (Kerjasama UNM)",
-  "addressee_name": "",
-  "addressee_title": "Руководитель отдела сотрудничества",
-  "salutation": "Dear Head of the Partnership Office,"
+  "mailbox_owner": "Biro Perencanaan dan Kerja Sama UNM (Bureau of Planning and Cooperation)",
+  "addressee_name": "Prof. Dr. Syahruddin, M.Kes.",
+  "addressee_title": "Vice-Rector IV for Planning and Cooperation (Wakil Rektor IV Bidang Perencanaan dan Kerja Sama)",
+  "salutation": "Dear Prof. Syahruddin,",
+  "recheck_ru": "04.10.2026: на портале kerjasama.unm.ac.id подтверждены kerjasama@unm.ac.id, проректор IV по планированию и сотрудничеству Prof. Dr. Syahruddin и руководитель бюро (новости дек. 2025); ректор на доступных официальных страницах не назван, основной сайт закрыт Cloudflare."
  },
  {
   "country": "Indonesia",
@@ -1708,7 +1718,7 @@
   "head_name": "Prof. Dr. Helmi, S.H., M.H.",
   "head_title": "Rector",
   "party_secretary": "",
-  "head_verified_source": "https://en.wikipedia.org/wiki/University_of_Jambi",
+  "head_verified_source": "https://jambi.antaranews.com/berita/664947/rektor-unja-lantik-empat-pejabat-baru-tekankan-kolaborasi-dan-akselerasi-kinerja (ANTARA, 2026); https://www.antaranews.com/berita/3941121/kemendikbudristek-lantik-prof-helmi-sebagai-rektor-unja",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -1722,15 +1732,17 @@
   "sources": "https://www.unja.ac.id/; https://internationaloffice.unja.ac.id/contact/; https://en.wikipedia.org/wiki/University_of_Jambi; https://id.wikipedia.org/wiki/Universitas_Jambi",
   "confidence": "low",
   "notes_ru": [
-   "Официальный сайт www.unja.ac.id закрыт проверкой Cloudflare (403 / «Just a moment…»), сайт International Office internationaloffice.unja.ac.id — хостинг приостановлен (account suspended); контакты со страниц подтвердить не удалось — поля оставлены пустыми",
-   "Ректор Prof. Dr. Helmi, S.H., M.H. (срок 2024–2028) — только по Wikipedia (EN/ID), не с официального сайта",
+   "Официальный сайт www.unja.ac.id и поддомены (ppid., humas., lppm.) по-прежнему закрыты Cloudflare (403); internationaloffice.unja.ac.id — хостинг приостановлен (account suspended) — контакты со страниц подтвердить не удалось, поля оставлены пустыми",
+   "Ректор Prof. Dr. Helmi, S.H., M.H. (9-й ректор, вступил в должность 31.01.2024, срок 2024–2028) — подтверждён госагентством ANTARA и региональными СМИ 2026 г. (назначения должностных лиц 06–08.2026); на официальном сайте не проверен",
    "Неподтверждённые данные из поисковых сниппетов: адрес Jl. Jambi – Muara Bulian KM 15, Mendalo Darat, Jambi Luar Kota, Muaro Jambi 36361; тел. +62 741 583122 / 583377; humas@unja.ac.id; International Office — io@unja.ac.id (здание ректората, 2 этаж, кампус Mendalo) — проверить перед отправкой",
-   "Спутниковых проектов не найдено (nanosats.csv)"
+   "Спутниковых проектов не найдено (nanosats.csv)",
+   "Перепроверка: Сайт закрыт Cloudflare; ректор подтверждён СМИ 2026 г. (ANTARA), контакты не изменены."
   ],
   "mailbox_owner": "Офис международных связей (International Office Universitas Jambi) — ящик не подтверждён",
   "addressee_name": "",
   "addressee_title": "Руководитель Офиса международных связей",
-  "salutation": "Dear Director of the International Office,"
+  "salutation": "Dear Director of the International Office,",
+  "recheck_ru": "Сайт закрыт Cloudflare; ректор подтверждён СМИ 2026 г. (ANTARA), контакты не изменены."
  },
  {
   "country": "Indonesia",
@@ -2106,9 +2118,9 @@
   "profile_type": "classical",
   "main_fields": "Engineering, Agriculture, Medicine, Economics & Business, Law, Mathematics & Natural Sciences",
   "postal_address": "Jl. Raya Palembang–Prabumulih Km. 32, Indralaya, Ogan Ilir, South Sumatra 30662, Indonesia",
-  "email_general": "",
+  "email_general": "bapsi@unsri.ac.id",
   "email_international": "oia@unsri.ac.id",
-  "phone": "+62 812 7194 4555",
+  "phone": "+62 711 580169 (общий, PDDikti); +62 812 7194 4555 (OIA, моб.)",
   "website": "https://www.unsri.ac.id",
   "head_name": "Prof. Dr. Ir. Taufiq Marwa, S.E., M.Si.",
   "head_title": "Rector",
@@ -2124,19 +2136,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.wikipedia.org/wiki/Sriwijaya_University; https://aims-rihed.net/universitas-sriwijaya/",
+  "sources": "https://api-pddikti.kemdiktisaintek.go.id/pt/detail/ (PDDikti, Минвысшобразования Индонезии, код вуза 001009); https://en.wikipedia.org/wiki/Sriwijaya_University; https://aims-rihed.net/universitas-sriwijaya/",
   "confidence": "low",
   "notes_ru": [
-   "Сайт unsri.ac.id закрыт WAF (SafeLine, HTTP 468) — данные из вторичных источников (Wikipedia, AIMS/SEAMEO RIHED)",
+   "Сайт unsri.ac.id закрыт WAF (SafeLine, HTTP 468) — данные из вторичных источников и госреестра PDDikti",
+   "Адрес (Jl. Raya Palembang–Prabumulih Km. 32, Indralaya, 30662), e-mail bapsi@unsri.ac.id и тел. 0711-580169 / факс 0711-580664 — по реестру PDDikti (Минвысшобразования Индонезии); bapsi — информационный отдел, не международный",
    "Ректор Prof. Taufiq Marwa — срок 2023–2027 (по поисковой выдаче, инаугурация 25.09.2023); официальная страница не открыта",
    "Международный офис: Cooperation and International Services (OIA), Gedung Rektorat 1 этаж; руководитель Sabaruddin, Ph.D. по странице AIMS (дата не указана — проверить); телефон +62 812 7194 4555 — мобильный этого же контакта",
-   "Общий e-mail не подтверждён (в поисковой выдаче humas@unsri.ac.id, тел. +62 711 580739/580740 — не проверено)",
-   "Космической активности не обнаружено; отдельная веб-проверка не выполнена (исчерпан лимит поиска), в nanosats.csv вуз отсутствует"
+   "Космической активности не обнаружено; отдельная веб-проверка не выполнена (исчерпан лимит поиска), в nanosats.csv вуз отсутствует",
+   "Перепроверка: Сайт unsri.ac.id по-прежнему закрыт WAF (HTTP 468); по госреестру PDDikti подтверждены адрес и индекс, добавлены e-mail bapsi@unsri.ac.id и тел. 0711-580169; ректор и OIA официально не подтверждены."
   ],
   "mailbox_owner": "Офис сотрудничества и международных услуг (Cooperation and International Services / OIA UNSRI)",
   "addressee_name": "Sabaruddin, Ph.D.",
   "addressee_title": "Руководитель службы сотрудничества и международных услуг (Head of Cooperation and International Services)",
-  "salutation": "Dear Dr. Sabaruddin,"
+  "salutation": "Dear Dr. Sabaruddin,",
+  "recheck_ru": "Сайт unsri.ac.id по-прежнему закрыт WAF (HTTP 468); по госреестру PDDikti подтверждены адрес и индекс, добавлены e-mail bapsi@unsri.ac.id и тел. 0711-580169; ректор и OIA официально не подтверждены."
  },
  {
   "country": "Indonesia",
@@ -2195,7 +2209,7 @@
   "head_name": "Prof. Dr. Ma'mun Murod Al-Barbasy, S.Sos., M.Si.",
   "head_title": "Rector",
   "party_secretary": "",
-  "head_verified_source": "https://id.wikipedia.org/wiki/Universitas_Muhammadiyah_Jakarta",
+  "head_verified_source": "https://suaramuhammadiyah.id/read/rektor-umj-2025-2029-resmi-dilantik-tegaskan-komitmen-menuju-world-class-university",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -2213,12 +2227,15 @@
    "Сайт umj.ac.id и поддомены закрыты Cloudflare / недоступны — контакты не проверены; единственный найденный e-mail pmb@umj.ac.id — приёмная комиссия (не для официальной переписки)",
    "Ректор Ma'mun Murod назначен в 2021 г. на срок 2021–2025 (Wikipedia); актуальность на 2026 г. не подтверждена",
    "Кампус A: Jl. Cempaka Putih Tengah 27, Jakarta 10510",
-   "Космической активности не обнаружено; отдельная веб-проверка не выполнена (исчерпан лимит поиска), в nanosats.csv вуз отсутствует"
+   "Космической активности не обнаружено; отдельная веб-проверка не выполнена (исчерпан лимит поиска), в nanosats.csv вуз отсутствует",
+   "Ректор Prof. Dr. Ma'mun Murod переизбран и вступил в должность 26.05.2025 на срок 2025–2029 (Suara Muhammadiyah — официальное издание организации-учредителя, 27.05.2025)",
+   "Перепроверка: 04.10.2026: ректор подтверждён на 2025–2029 (Suara Muhammadiyah); сайт umj.ac.id по-прежнему закрыт (403) — контакты не подтверждены."
   ],
   "mailbox_owner": "Приёмная комиссия (Penerimaan Mahasiswa Baru, PMB UMJ) — единственный найденный адрес",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Rector,"
+  "salutation": "Dear Rector,",
+  "recheck_ru": "04.10.2026: ректор подтверждён на 2025–2029 (Suara Muhammadiyah); сайт umj.ac.id по-прежнему закрыт (403) — контакты не подтверждены."
  },
  {
   "country": "Indonesia",
@@ -2228,10 +2245,10 @@
   "ownership": "Частный",
   "profile_type": "classical",
   "main_fields": "Teacher Training & Education, Economics & Business, Engineering, Health Sciences & Pharmacy, Social & Political Sciences, Islamic Studies",
-  "postal_address": "Jl. Limau II, Kebayoran Baru, South Jakarta, DKI Jakarta, Indonesia",
+  "postal_address": "Jl. Limau II, Kebayoran Baru, Jakarta Selatan, DKI Jakarta, Indonesia",
   "email_general": "humas@uhamka.ac.id",
   "email_international": "",
-  "phone": "+62 858 1300 1400",
+  "phone": "+62 821 8000 1957 (Humas); +62 858 1300 1400 (PMB)",
   "website": "https://uhamka.ac.id",
   "head_name": "Prof. Dr. H. Gunawan Suryoputro, M.Hum.",
   "head_title": "Rector",
@@ -2248,17 +2265,19 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://pmb.uhamka.ac.id/; https://ft.uhamka.ac.id/; https://id.wikipedia.org/wiki/Universitas_Muhammadiyah_Prof._Dr._Hamka",
-  "confidence": "low",
+  "confidence": "medium",
   "notes_ru": [
    "THE2027: только статус Reporter (без ранга)",
-   "Основной сайт uhamka.ac.id — SPA, международный офис (kui/oia.uhamka.ac.id) закрыт Cloudflare; e-mail humas@uhamka.ac.id и тел. +62 858 1300 1400 — со страницы приёмной комиссии",
+   "Основной сайт uhamka.ac.id — SPA; данные (в т.ч. имя ректора) подгружаются с API uhamka-baru-be.uhamka.ac.id, закрытого Cloudflare; международный офис (kui/oia.uhamka.ac.id) недоступен/закрыт Cloudflare. На сайте также указан info@uhamka.ac.id.",
    "Ректор Gunawan Suryoputro (с 2018 г.) — только по Wikipedia, актуальность на 2026 г. не подтверждена",
-   "Космической активности не обнаружено; отдельная веб-проверка не выполнена (исчерпан лимит поиска), в nanosats.csv вуз отсутствует"
+   "Космической активности не обнаружено; отдельная веб-проверка не выполнена (исчерпан лимит поиска), в nanosats.csv вуз отсутствует",
+   "Перепроверка: Адрес, humas@uhamka.ac.id и телефоны Humas/PMB подтверждены на uhamka.ac.id (страница «Sambutan Rektor») 04.10.2026; имя ректора не отображается (API сайта закрыт Cloudflare) — не подтверждено."
   ],
   "mailbox_owner": "Отдел по связям с общественностью (Humas UHAMKA)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Rector,"
+  "salutation": "Dear Rector,",
+  "recheck_ru": "Адрес, humas@uhamka.ac.id и телефоны Humas/PMB подтверждены на uhamka.ac.id (страница «Sambutan Rektor») 04.10.2026; имя ректора не отображается (API сайта закрыт Cloudflare) — не подтверждено."
  },
  {
   "country": "Indonesia",
@@ -2558,10 +2577,10 @@
   "email_international": "kui@polban.ac.id",
   "phone": "+62 22 2013789",
   "website": "https://www.polban.ac.id",
-  "head_name": "",
-  "head_title": "Director",
+  "head_name": "Marwansyah, S.E., M.Sc., Ph.D.",
+  "head_title": "Director (Direktur)",
   "party_secretary": "",
-  "head_verified_source": "",
+  "head_verified_source": "https://www.polban.ac.id/wp-content/uploads/2023/02/pejabat-struktural-polban-2023-2026-3.pdf; https://www.polban.ac.id/polban-selenggarakan-pemilihan-direktur-masa-bakti-2026-2030/",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -2572,19 +2591,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.polban.ac.id/; https://www.polban.ac.id/hubungi-kami/; https://www.polban.ac.id/profil/; https://www.polban.ac.id/pejabat-struktural/",
-  "confidence": "low",
+  "sources": "https://www.polban.ac.id/; https://www.polban.ac.id/hubungi-kami/; https://www.polban.ac.id/profil/; https://www.polban.ac.id/pejabat-struktural/; https://www.polban.ac.id/en/home/; https://www.polban.ac.id/wp-content/uploads/2023/02/pejabat-struktural-polban-2023-2026-3.pdf; https://www.polban.ac.id/polban-selenggarakan-pemilihan-direktur-masa-bakti-2026-2030/; https://pildir.polban.ac.id/",
+  "confidence": "medium",
   "notes_ru": [
-   "Политехникум возглавляет Директор (Direktur), а не ректор; имя директора на сайте не извлечено (страница 'Pejabat Struktural' без текста) — уточнить вручную",
    "Международный офис: Kantor Urusan Internasional (KUI), kui@polban.ac.id; руководитель не найден",
    "Инженерный профиль (машиностроение, электротехника/телекоммуникации) — потенциально интересный технический партнёр",
    "Не в рейтингах QS/THE 2027; факс +62 22 2013889",
-   "Космической активности не обнаружено; отдельная веб-проверка не выполнена (исчерпан лимит поиска), в nanosats.csv вуз отсутствует"
+   "Космической активности не обнаружено; отдельная веб-проверка не выполнена (исчерпан лимит поиска), в nanosats.csv вуз отсутствует",
+   "Директор — Marwansyah, S.E., M.Sc., Ph.D. (официальный PDF «Pejabat Struktural 2023–2026»); идут выборы директора на 2026–2030, вступление нового директора в должность запланировано на 27.10.2026 — после этой даты перепроверить имя",
+   "Международные связи курирует Wakil Direktur по планированию, сотрудничеству и ИС — Dr. Ir. Paula Santi Rudati, M.Si. (по PDF 2023–2026)",
+   "Контакты на главной странице (04.10.2026): polban@polban.ac.id, kui@polban.ac.id, тел. 022-2013789 / 022-2015271, факс 022-2013889",
+   "Перепроверка: Сайт открылся 04.10.2026: контакты и KUI подтверждены; директор Marwansyah установлен по официальному PDF 2023–2026 (смена директора 27.10.2026)"
   ],
   "mailbox_owner": "Офис международных связей (Kantor Urusan Internasional, KUI POLBAN)",
   "addressee_name": "",
   "addressee_title": "Руководитель Kantor Urusan Internasional",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "recheck_ru": "Сайт открылся 04.10.2026: контакты и KUI подтверждены; директор Marwansyah установлен по официальному PDF 2023–2026 (смена директора 27.10.2026)"
  },
  {
   "country": "Indonesia",
@@ -3389,12 +3412,15 @@
    "Все сайты Widyatama (включая kerma.widyatama.ac.id) закрыты Cloudflare (403) — данные взяты из поисковой выдачи, страницы открыть не удалось",
    "Ректор проф. Даданг Суганда подтверждается несколькими публикациями 2026 г.; ранее в СМИ сообщалось о внутреннем конфликте и отставке прежнего ректора",
    "Международными связями ведает Kerma (отдел сотрудничества), e-mail не найден; общий адрес — секретарь университета",
-   "Спутники: в базе nanosats ничего нет"
+   "Спутники: в базе nanosats ничего нет",
+   "По поисковому сниппету страницы kerma.widyatama.ac.id/about: бюро сотрудничества Kerma (с 2016) — тел. +62 22 7275855 доб. 129 (не открыто, 04.10.2026)",
+   "Перепроверка: Сайты Widyatama по-прежнему за Cloudflare (403); добавлен по выдаче телефон отдела Kerma (доб. 129); e-mail не найден"
   ],
   "mailbox_owner": "Секретариат университета (Sekretaris Universitas)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "recheck_ru": "Сайты Widyatama по-прежнему за Cloudflare (403); добавлен по выдаче телефон отдела Kerma (доб. 129); e-mail не найден"
  },
  {
   "country": "Indonesia",
@@ -3431,12 +3457,14 @@
    "Международный офис (OIA, возобновлён в 2025) имеет сайт international.ulm.ac.id, но e-mail скрыт защитой; тел./факс офиса +62 511 3304177 / 3305195 — из выдачи",
    "Общий e-mail humas@ulm.ac.id — отдел по связям с общественностью",
    "Спутники: в базе nanosats ничего нет",
-   "Новый ректор: Dr. Iwan Aflanie (избран 02.10.2026, вступление ~05.10.2026) — адресовать письмо ему"
+   "Новый ректор: Dr. Iwan Aflanie (избран 02.10.2026, вступление ~05.10.2026) — адресовать письмо ему",
+   "Перепроверка: ulm.ac.id и international.ulm.ac.id по-прежнему закрыты Cloudflare 403 — данные не изменены (04.10.2026)"
   ],
   "mailbox_owner": "Отдел по связям с общественностью (Humas ULM); профильный адресат — Office of International Affairs ULM",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "recheck_ru": "ulm.ac.id и international.ulm.ac.id по-прежнему закрыты Cloudflare 403 — данные не изменены (04.10.2026)"
  },
  {
   "country": "Indonesia",
@@ -3632,16 +3660,18 @@
   "sources": "https://www.itera.ac.id/en/stasiun-bumi-itera-deteksi-pergerakan-siklon-taliah-di-barat-daya-sumatera/; https://www.itera.ac.id/en/fakultas-sains-itera-dan-brin-kolaborasi-penguatan-keantariksaan-nasional/; https://www.itera.ac.id/en/bahas-potensi-riset-ionosfer-prodi-sains-atmosfer-dan-keplanetan-itera-gelar-studium-generale-bersama-pusat-riset-antariksa-brin/; https://itb.ac.id/berita/guru-besar-sf-itb-prof-elfahmi-terpilih-sebagai-rektor-itera-periode-20262030/63486; https://lampung.antaranews.com/berita/825411/prof-elfahmi-resmi-dilantik-sebagai-rektor-itera-2026-2030; https://id.wikipedia.org/wiki/Institut_Teknologi_Sumatera; https://www.facebook.com/iterainternationaloffice/",
   "confidence": "low",
   "notes_ru": [
-   "Сайт itera.ac.id и поддомены блокируют доступ (403 / Cloudflare-проверка) — контакты (pusat@itera.ac.id, iio@itera.ac.id, телефон) взяты только из поисковой выдачи, не со страницы; перепроверить",
-   "Ректор проф. Эльфахми избран 20.05.2026, вступил в должность 30.06.2026 (срок 2026–2030), сменив проф. I Nyoman Pugeg Aryantha",
+   "Сайт itera.ac.id и поддомены (pmb., kemahasiswaan., at., mfi.) блокируют доступ (403 / Cloudflare, повторно 04.10.2026) — контакты (pusat@itera.ac.id, iio@itera.ac.id, +62 721 8030188; PR-служба humas@itera.ac.id) взяты из поисковой выдачи официальных страниц, не открыты; перепроверить",
+   "Ректор проф. Эльфахми избран 20.05.2026, вступил в должность 30.06.2026 (срок 2026–2030), сменив проф. I Nyoman Pugeg Aryantha — по официальной новости ITB",
    "Город: кампус в округе Южный Лампунг рядом с Бандар-Лампунгом",
    "Собственных спутников нет; есть станция приёма метеоспутников NOAA и обсерватория OAIL — профиль атмосферных и планетных наук, сотрудничество с BRIN",
-   "Руководитель International Office не установлен"
+   "Руководитель International Office не установлен",
+   "Перепроверка: Сайт itera.ac.id и все поддомены по-прежнему 403 (Cloudflare); контакты (pusat@itera.ac.id, тел.) повторно совпадают в выдаче официальных страниц, добавлен humas@itera.ac.id; ректор — по официальной новости ITB (2026)"
   ],
   "mailbox_owner": "Международный офис ITERA (ITERA International Office)",
   "addressee_name": "",
   "addressee_title": "Руководитель Международного офиса",
-  "salutation": "Dear Director of the International Office,"
+  "salutation": "Dear Director of the International Office,",
+  "recheck_ru": "Сайт itera.ac.id и все поддомены по-прежнему 403 (Cloudflare); контакты (pusat@itera.ac.id, тел.) повторно совпадают в выдаче официальных страниц, добавлен humas@itera.ac.id; ректор — по официальной новости ITB (2026)"
  },
  {
   "country": "Indonesia",
@@ -3978,13 +4008,13 @@
   "main_fields": "Islamic Studies, Economics & Business, Law, Medicine, Engineering, Teacher Training & Education",
   "postal_address": "Jl. Kapt. Mukhtar Basri No. 3, Medan, North Sumatra 20238, Indonesia",
   "email_general": "",
-  "email_international": "",
-  "phone": "+62 61 6619056",
+  "email_international": "kui@umsu.ac.id",
+  "phone": "+62 61 6619056; +62 61 6622400 ext. 106/108; international office +62 811-6516-817",
   "website": "https://umsu.ac.id",
   "head_name": "Prof. Dr. Akrim, M.Pd",
   "head_title": "Rector",
   "party_secretary": "",
-  "head_verified_source": "https://umsu.ac.id/pimpinan/",
+  "head_verified_source": "https://umsu.ac.id/pimpinan/ (checked 04.10.2026; rector also in official news 30.09.2026)",
   "rank_qs": "",
   "rank_the": "THE2027 Reporter (unranked)",
   "rank_national": "",
@@ -3995,18 +4025,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://umsu.ac.id/; https://umsu.ac.id/pimpinan/; https://oic.umsu.ac.id/; https://partnership.umsu.ac.id/",
-  "confidence": "low",
+  "sources": "https://umsu.ac.id/; https://umsu.ac.id/pimpinan/; https://oic.umsu.ac.id/; https://partnership.umsu.ac.id/; https://oic.umsu.ac.id/struktur-organisasi/",
+  "confidence": "high",
   "notes_ru": [
-   "Частный университет организации Мухаммадия; ректор проф. Акрим (фото на странице руководства загружено в 2026 г.)",
-   "На официальном сайте не опубликован ни общий, ни международный e-mail — только телефоны (+62 61 6619056; +62 61 6622400 доб. 106/108); нужно запросить адрес по телефону или через соцсети",
-   "Международные связи: Lembaga Kerjasama dan Urusan Internasional (oic.umsu.ac.id) и Biro Kerja Sama dan Kemitraan Strategis (partnership.umsu.ac.id); руководители не указаны",
-   "Спутниковых проектов нет (nanosats.csv)"
+   "Частный университет организации Мухаммадия",
+   "Общий e-mail на сайте не опубликован; международный офис (Lembaga Kerjasama dan Urusan Internasional, oic.umsu.ac.id): kui@umsu.ac.id, +62 811-6516-817",
+   "Международные связи курирует проректор по исследованиям, инновациям и интернационализации Dr. Rudianto, S.Sos., M.Si; руководитель OIC на сайте не указан",
+   "Спутниковых проектов нет (nanosats.csv)",
+   "Перепроверка: Ректор проф. Акрим подтверждён (стр. руководства и новости 09.2026); найден e-mail международного офиса kui@umsu.ac.id на oic.umsu.ac.id, 04.10.2026"
   ],
-  "mailbox_owner": "",
+  "mailbox_owner": "Lembaga Kerjasama dan Urusan Internasional UMSU (OIC)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "recheck_ru": "Ректор проф. Акрим подтверждён (стр. руководства и новости 09.2026); найден e-mail международного офиса kui@umsu.ac.id на oic.umsu.ac.id, 04.10.2026"
  },
  {
   "country": "Indonesia",

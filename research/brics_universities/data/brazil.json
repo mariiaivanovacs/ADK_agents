@@ -348,18 +348,20 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://www.uninove.br/fale-conosco; https://digital.uninove.br/img/2025/residencia-medica-2026.pdf",
-  "confidence": "low",
+  "confidence": "medium",
   "notes_ru": [
    "Общий и международный email на сайте не опубликованы; телефон — WhatsApp-линия для всех кампусов",
    "Адрес — кампус Vergueiro (CEP на странице не указан)",
    "Ректор подтверждён подписью в официальном эдикте от 17.12.2025",
    "В СМИ (Metropoles) есть публикации о судебном деле в отношении ректора — не проверялось, учесть при аутрич",
-   "Быстрая проверка (nanosats.csv, поиск) не выявила спутников вуза"
+   "Быстрая проверка (nanosats.csv, поиск) не выявила спутников вуза",
+   "Перепроверка: 04.10.2026: страница Fale Conosco открыта повторно — e-mail по-прежнему не опубликован, телефон (WhatsApp) подтверждён; ректор подтверждён эдиктом 12.2025."
   ],
   "mailbox_owner": "",
   "addressee_name": "Prof. Eduardo Storopoli",
   "addressee_title": "Ректор",
-  "salutation": "Dear Prof. Storopoli,"
+  "salutation": "Dear Prof. Storopoli,",
+  "recheck_ru": "04.10.2026: страница Fale Conosco открыта повторно — e-mail по-прежнему не опубликован, телефон (WhatsApp) подтверждён; ректор подтверждён эдиктом 12.2025."
  },
  {
   "country": "Brazil",
@@ -849,15 +851,15 @@
   "ownership": "Государственный (федеральный, Минобразования Бразилии)",
   "profile_type": "classical",
   "main_fields": "Engineering, Natural sciences, Health sciences, Computer science, Agricultural sciences, Humanities",
-  "postal_address": "Av. Paulo Gama, 110, Farroupilha, Porto Alegre – RS, CEP 90040-060, Brazil",
-  "email_general": "",
+  "postal_address": "Av. Paulo Gama, 110, Bairro Farroupilha, Porto Alegre – RS, CEP 90040-060, Brazil (RELINTER: Praça Argentina, s/n – Prédio 11.102 – Château, Campus Centro, CEP 90040-020)",
+  "email_general": "reitora@gabinete.ufrgs.br",
   "email_international": "relinter@relinter.ufrgs.br",
-  "phone": "+55 51 3308-4568 (RELINTER)",
+  "phone": "+55 51 3308-3258 (RELINTER); +55 51 3308-6000 (UFRGS)",
   "website": "https://www.ufrgs.br",
   "head_name": "Prof. Márcia Cristina Bernardes Barbosa",
   "head_title": "Reitora",
   "party_secretary": "",
-  "head_verified_source": "https://pt.wikipedia.org/wiki/Universidade_Federal_do_Rio_Grande_do_Sul",
+  "head_verified_source": "https://www.ufrgs.br/site/a-ufrgs/administracao-central/",
   "rank_qs": "",
   "rank_the": "THE2027: 701–800",
   "rank_national": "",
@@ -869,19 +871,19 @@
   "agency_partnerships": "INPE / UFSM NanosatC-BR programme (UFRGS radiation-hardening software/FPGA payload on NanosatC-BR1, launched 2014)",
   "restricted_list": "",
   "sources": "https://pt.wikipedia.org/wiki/Universidade_Federal_do_Rio_Grande_do_Sul; https://www.ualg.pt/sites/ualg.pt/files/seccoes/grim/ufrgs_fact_sheet_-_pt.pdf; https://revistapesquisa.fapesp.br/en/small-satellites-make-mark/",
-  "confidence": "low",
+  "confidence": "high",
   "notes_ru": [
-   "Все сайты *.ufrgs.br были недоступны (сброс соединения / 503) — данные взяты из сторонних источников; требуется перепроверка перед рассылкой.",
-   "Ректор Márcia Barbosa (срок 2024–2028) подтверждена только по Википедии; e-mail ректора reitora@gabinete.ufrgs.br встречается в поисковой выдаче официального сайта, но страница не открылась — в поле не внесён.",
-   "relinter@relinter.ufrgs.br и адрес взяты из справки RELINTER (2016 г.); в поисковой выдаче 2026 г. этот же ящик указан на официальном сайте.",
-   "По поисковой выдаче секретарь по международным связям — Benito Bisso Schmidt (заместитель Athos Munhoz Moreira da Silva), но страница не открылась — имя не внесено.",
+   "Сайт ufrgs.br напрямую из нашей сети недоступен; страницы открыты через r.jina.ai 04.10.2026 (Administração Central, RELINTER).",
+   "Имя секретаря по международным связям на официальных страницах не указано (по поисковой выдаче — Benito Bisso Schmidt, не подтверждено) — в поле не внесено.",
    "QS2027: по новости UFRGS (в выдаче) — 741–750; страница не открылась, поле пустое.",
-   "Собственных спутников нет; Институт информатики UFRGS разработал радиационно-стойкую полезную нагрузку для NanosatC-BR1 (2014)."
+   "Собственных спутников нет; Институт информатики UFRGS разработал радиационно-стойкую полезную нагрузку для NanosatC-BR1 (2014).",
+   "Перепроверка: Ректор (Márcia Barbosa, 2024–2028), e-mail ректора, адрес и контакты RELINTER подтверждены на ufrgs.br 04.10.2026 (через reader-сервис); телефон RELINTER исправлен на +55 51 3308-3258."
   ],
   "mailbox_owner": "Секретариат международных связей (RELINTER)",
   "addressee_name": "",
   "addressee_title": "Секретарь по международным связям (Secretário de Relações Internacionais)",
-  "salutation": "Dear Secretary for International Relations,"
+  "salutation": "Dear Secretary for International Relations,",
+  "recheck_ru": "Ректор (Márcia Barbosa, 2024–2028), e-mail ректора, адрес и контакты RELINTER подтверждены на ufrgs.br 04.10.2026 (через reader-сервис); телефон RELINTER исправлен на +55 51 3308-3258."
  },
  {
   "country": "Brazil",
@@ -1233,12 +1235,15 @@
    "Ректор (Marília Pimentel) подтверждена только по Википедии.",
    "По поисковой выдаче: международный отдел — Assessoria de Relações Internacionais (ARI), e-mail internacional@unir.br, тел. +55 69 2182-2050, руководитель Patrícia Ferreira Miranda; страница не открылась, поэтому в поля не внесено.",
    "Адрес — по справке FOPROP (адрес ректората в Порту-Велью).",
-   "Космических проектов не найдено (одна быстрая проверка)."
+   "Космических проектов не найдено (одна быстрая проверка).",
+   "Повторная проверка 04.10.2026: по поисковой выдаче страниц unir.br (не открылись) Marília Lima Pimentel Cotinguiba вступила в должность ректора 08.03.2024 на 4 года — согласуется с текущими данными; UNIR не входит в FAUBAI",
+   "Перепроверка: Сайт unir.br и поддомены (ari., servidor.) по-прежнему недоступны 04.10.2026 (сброс соединения/503); данные не изменены"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Сайт unir.br и поддомены (ari., servidor.) по-прежнему недоступны 04.10.2026 (сброс соединения/503); данные не изменены"
  },
  {
   "country": "Brazil",
@@ -1370,15 +1375,15 @@
   "ownership": "Государственный (Минобразования, федеральный институт)",
   "profile_type": "technical/aerospace",
   "main_fields": "Engineering, Information technology, Industrial technology, Applied sciences, Teacher education",
-  "postal_address": "",
-  "email_general": "",
+  "postal_address": "Reitoria do IFBA, Av. Araújo Pinho, 39 – Canela, Salvador – BA, CEP 40110-150, Brazil",
+  "email_general": "gabinete@ifba.edu.br",
   "email_international": "",
-  "phone": "",
+  "phone": "+55 71 2102-0413",
   "website": "https://portal.ifba.edu.br",
-  "head_name": "",
-  "head_title": "Reitor(a)",
+  "head_name": "Luzia Matos Mota",
+  "head_title": "Reitora",
   "party_secretary": "",
-  "head_verified_source": "",
+  "head_verified_source": "https://simec.mec.gov.br/academico/mapa/dados_instituto_edpro.php?uf=BA (SIMEC/MEC, по поисковому сниппету: мандат 20.03.2024–20.03.2028)",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -1389,19 +1394,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://pt.wikipedia.org/wiki/Instituto_Federal_da_Bahia; nanosats.csv",
-  "confidence": "low",
+  "sources": "https://pt.wikipedia.org/wiki/Instituto_Federal_da_Bahia; nanosats.csv; https://foprop.org.br/filiados-foprop/instituto-federal-de-educacao-ciencia-e-tecnologia-da-bahia/; https://simec.mec.gov.br/academico/mapa/dados_instituto_edpro.php?uf=BA",
+  "confidence": "medium",
   "notes_ru": [
-   "Сайт portal.ifba.edu.br недоступен (503 / таймаут; главная перенаправляет на страницу «defeso eleitoral» — ограничения предвыборного периода); официальные контакты получить не удалось — требуется ручная проверка.",
-   "Википедия называет ректором Luzia Matos Mota, но дата не подтверждена (в 2026 г. возможна смена) — в поле не внесено.",
-   "Ректорат расположен в районе Канела, Салвадор (по Википедии); точный почтовый адрес не подтверждён.",
    "Квота веб-поиска исчерпана до проверки космической активности; в базе nanosats.csv IFBA не значится — спутников не найдено.",
-   "profile_type: технический федеральный институт (не аэрокосмический)."
+   "profile_type: технический федеральный институт (не аэрокосмический).",
+   "Сайт portal.ifba.edu.br по-прежнему недоступен (таймаут/503, 04.10.2026). Ректор Luzia Matos Mota (выборный мандат 20.03.2024–20.03.2028) — по данным SIMEC/MEC (поисковый сниппет; страница SIMEC вернула 403); gabinete@ifba.edu.br и тел. (71) 2102-0413/0414/0415/0416 — по тому же сниппету, перепроверить",
+   "Адрес Av. Araújo Pinho, 39, Canela, Salvador, CEP 40110-150 подтверждён справочником FOPROP (foprop.org.br); там же Pró-Reitoria de Pesquisa: prpgi@ifba.edu.br, тел. (71) 3221-0330, про-ректор Ivanildo Antonio dos Santos",
+   "Перепроверка: Ректор (мандат 2024–2028), адрес и e-mail кабинета найдены через MEC/SIMEC и FOPROP 04.10.2026; официальный сайт по-прежнему недоступен"
   ],
-  "mailbox_owner": "",
+  "mailbox_owner": "Кабинет ректора (Gabinete da Reitoria)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Ректор (мандат 2024–2028), адрес и e-mail кабинета найдены через MEC/SIMEC и FOPROP 04.10.2026; официальный сайт по-прежнему недоступен"
  },
  {
   "country": "Brazil",
@@ -1435,12 +1441,14 @@
   "notes_ru": [
    "Сайт insper.edu.br блокирует автоматический доступ (HTTP 403) — официальные контакты не получены; требуется ручная проверка.",
    "Insper — некоммерческий институт бизнеса, экономики, права и инженерии; руководитель — Президент (не «Reitor»). По Википедии президент — Guilherme Martins (с 31.05.2023); учёное звание не подтверждено.",
-   "Квота веб-поиска исчерпана до проверки космической активности; в nanosats.csv Insper не значится — спутников не найдено."
+   "Квота веб-поиска исчерпана до проверки космической активности; в nanosats.csv Insper не значится — спутников не найдено.",
+   "Перепроверка: Сайт insper.edu.br (все варианты, sitemap, /en) и WebFetch возвращают 403 (защита от ботов) — данные не изменены (04.10.2026)"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Сайт insper.edu.br (все варианты, sitemap, /en) и WebFetch возвращают 403 (защита от ботов) — данные не изменены (04.10.2026)"
  },
  {
   "country": "Brazil",
@@ -1495,9 +1503,9 @@
   "phone": "",
   "website": "https://www.uneal.edu.br",
   "head_name": "Dr. Odilon Máximo de Morais",
-  "head_title": "Reitor",
+  "head_title": "Reitor (outgoing; reitor eleito Anderson de Almeida Barros takes office in October 2026)",
   "party_secretary": "",
-  "head_verified_source": "https://pt.wikipedia.org/wiki/Universidade_Estadual_de_Alagoas",
+  "head_verified_source": "https://www.tribunadosertao.com.br/alagoas/2026/10/04/990222-reitor-eleito-da-uneal-declara-apoio-a-ronaldo-medeiros-sempre-esteve-presente-nas-nossas-pautas (04.10.2026); https://pt.wikipedia.org/wiki/Universidade_Estadual_de_Alagoas",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -1508,18 +1516,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://pt.wikipedia.org/wiki/Universidade_Estadual_de_Alagoas; nanosats.csv",
+  "sources": "https://pt.wikipedia.org/wiki/Universidade_Estadual_de_Alagoas; nanosats.csv; https://www.tribunadosertao.com.br/alagoas/2026/10/04/990222-reitor-eleito-da-uneal-declara-apoio-a-ronaldo-medeiros-sempre-esteve-presente-nas-nossas-pautas",
   "confidence": "low",
   "notes_ru": [
-   "Сайт uneal.edu.br недоступен (503 / сброс соединения) — официальные контакты не получены; требуется ручная проверка.",
-   "Ректор (Dr. Odilon Máximo de Morais) указан только по Википедии — перепроверить.",
+   "Сайт uneal.edu.br недоступен (503 / сброс соединения, повторно 04.10.2026) — официальные контакты не получены; требуется ручная проверка.",
+   "Смена руководства: действующий ректор Dr. Odilon Máximo de Morais (по Википедии); избранный ректор — Anderson de Almeida Barros (вице-ректор), вступает в должность в октябре 2026 (Tribuna do Sertão, 04.10.2026). Письмо лучше адресовать новому ректору после вступления в должность.",
    "Небольшой региональный университет (шесть кампусов, головной — Арапирака); международный офис не найден.",
-   "Квота веб-поиска исчерпана до проверки космической активности; в nanosats.csv UNEAL не значится — спутников не найдено."
+   "В nanosats.csv UNEAL не значится — спутников не найдено.",
+   "Перепроверка: Сайт uneal.edu.br по-прежнему недоступен; по СМИ от 04.10.2026 избран новый ректор Anderson de Almeida Barros (нынешний вице-ректор), вступает в должность в октябре 2026 — контакты не найдены"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Сайт uneal.edu.br по-прежнему недоступен; по СМИ от 04.10.2026 избран новый ректор Anderson de Almeida Barros (нынешний вице-ректор), вступает в должность в октябре 2026 — контакты не найдены"
  },
  {
   "country": "Brazil",
@@ -1633,12 +1643,14 @@
    "Официальный сайт ime.eb.mil.br недоступен (ошибка TLS-сертификата / HTTP 503) — контакты не проверены на официальном сайте.",
    "E-mail depq@ime.eb.br взят из каталога сети REARI (UFF) как адрес отдела международного сотрудничества; CEP и телефон не проверены.",
    "Военный вуз Армии Бразилии (DCT) — контакты, вероятно, потребуют согласования через Минобороны/Армию; в бриф-шаблоне указано «ВВС», но IME подчинён Армии.",
-   "Командир на 2026 г. — генерал дивизии Жураси Феррейра Галдино (по новостям DefesaTV)."
+   "Командир на 2026 г. — генерал дивизии Жураси Феррейра Галдино (по новостям DefesaTV).",
+   "Перепроверка: 04.10.2026: сайт ime.eb.mil.br по-прежнему недоступен (https — ошибка TLS/502, http перенаправляет на https; WebFetch — 503); данные не изменены"
   ],
   "mailbox_owner": "Отдел международного сотрудничества IME (по данным REARI)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "04.10.2026: сайт ime.eb.mil.br по-прежнему недоступен (https — ошибка TLS/502, http перенаправляет на https; WebFetch — 503); данные не изменены"
  },
  {
   "country": "Brazil",
@@ -1889,15 +1901,15 @@
   "ownership": "Государственный (федеральный, Минобразования Бразилии)",
   "profile_type": "classical",
   "main_fields": "Health Sciences, Agrarian Sciences, Education, Natural Sciences, Engineering and Technology, Humanities",
-  "postal_address": "Campus Universitário Ministro Petrônio Portella, Teresina – PI, Brazil",
-  "email_general": "",
-  "email_international": "",
-  "phone": "",
+  "postal_address": "Campus Universitário Ministro Petrônio Portella, S/N, Bairro Ininga, Teresina – PI, CEP 64049-55?, Brazil",
+  "email_general": "reitor.ufpi@ufpi.edu.br",
+  "email_international": "assuntosinternacionais@ufpi.edu.br",
+  "phone": "+55 86 3215-5510 (Reitoria); +55 86 3215-5976 (ASSINTER)",
   "website": "https://ufpi.br",
-  "head_name": "Prof. Nadir do Nascimento Nogueira",
-  "head_title": "Reitora",
+  "head_name": "Prof. Dr. Nadir do Nascimento Nogueira",
+  "head_title": "Reitora (2024–2028)",
   "party_secretary": "",
-  "head_verified_source": "https://www.otempo.com.br/politica/2026/6/25/ufpi-nomeia-novos-professores-e-autoriza-afastamentos-para-eventos-internacionais",
+  "head_verified_source": "https://ufpi.br/reitoria",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -1908,18 +1920,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.otempo.com.br/politica/2026/6/25/ufpi-nomeia-novos-professores-e-autoriza-afastamentos-para-eventos-internacionais; https://pt.wikipedia.org/wiki/Universidade_Federal_do_Piau%C3%AD",
-  "confidence": "low",
+  "sources": "https://ufpi.br/reitoria; https://ufpi.br/pt/assinter; https://ufpi.br/contato-assinter-pt; https://ufpi.br",
+  "confidence": "high",
   "notes_ru": [
-   "Сайт ufpi.br / ufpi.edu.br недоступен (HTTP 503 / блокировка прокси) — e-mail, телефон и CEP не проверены.",
-   "Реитор подтверждена новостью о приказах от 23.06.2026 (Надир ду Насименту Ногейра, срок 2024–2028).",
-   "Международный отдел — ASSINTER (по ссылкам на сайте); имя руководителя не проверено на открытой странице.",
-   "Спутниковых проектов не найдено (одна быстрая проверка)."
+   "Ректор — Nadir do Nascimento Nogueira (2024–2028), страница Reitoria; упоминается в новостях на главной (окт. 2026). Вице-ректор — Edmilson Miranda de Moura.",
+   "Международный отдел — ASSINTER: assuntosinternacionais@ufpi.edu.br, secretaria.assinter@ufpi.edu.br, тел. +55 86 3215-5976; Assessora Internacional — Juliana Paz (по новости на странице ASSINTER, дата не указана).",
+   "На контактной странице CEP указан с опечаткой «64049-55»; верный CEP кампуса — 64049-550.",
+   "Спутниковых проектов не найдено (одна быстрая проверка).",
+   "Перепроверка: Сайт ufpi.br открыт 04.10.2026 (после добавления промежуточного сертификата RNP): ректор Надир Ногейра, e-mail ректората и ASSINTER, телефоны и адрес подтверждены на официальных страницах.",
+   "Индекс (CEP) на сайте указан неполностью «64049-55» — уточнить"
   ],
-  "mailbox_owner": "",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "mailbox_owner": "Assessoria Internacional (ASSINTER), UFPI",
+  "addressee_name": "Juliana Paz",
+  "addressee_title": "Assessora Internacional (Head of International Affairs Office)",
+  "salutation": "Dear Ms. Paz,",
+  "recheck_ru": "Сайт ufpi.br открыт 04.10.2026 (после добавления промежуточного сертификата RNP): ректор Надир Ногейра, e-mail ректората и ASSINTER, телефоны и адрес подтверждены на официальных страницах."
  },
  {
   "country": "Brazil",
@@ -2088,10 +2103,10 @@
   "ownership": "Государственный (муниципальный, г. Таубате)",
   "profile_type": "classical",
   "main_fields": "Health Sciences, Engineering, Law, Business and Economics, Education, Agrarian Sciences",
-  "postal_address": "",
-  "email_general": "",
+  "postal_address": "Reitoria, Universidade de Taubaté, Rua Quatro de Março, 432, Centro, Taubaté – SP, CEP 12020-900, Brazil",
+  "email_general": "reitoria@unitau.br",
   "email_international": "",
-  "phone": "",
+  "phone": "+55 12 3625-4295; +55 12 3624-4193",
   "website": "https://unitau.br",
   "head_name": "Prof. Leticia Maria Pinto da Costa",
   "head_title": "Reitora",
@@ -2107,19 +2122,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://guiataubate.com.br/noticias/2026/7/nova-reitora-da-unitau-e-nomeada-para-gestao-2026-2030",
+  "sources": "https://guiataubate.com.br/noticias/2026/7/nova-reitora-da-unitau-e-nomeada-para-gestao-2026-2030; https://unitau.br/a-unitau/reitoria (по поисковому индексу)",
   "confidence": "low",
   "notes_ru": [
-   "Сайт unitau.br блокирует автоматический доступ (HTTP 403) — контакты не проверены на открытой странице.",
-   "По сниппету поисковика (не проверено): Reitoria — Rua Quatro de Março, 432, Centro, Taubaté – SP, CEP 12020-900; тел. (12) 3625-4295; e-mail reitoria@unitau.br — проверить вручную перед рассылкой.",
-   "Муниципальный публичный вуз (автархия муниципалитета Таубате); новая реитор вступила в должность 03.07.2026 (срок 2026–2030).",
+   "Сайт unitau.br (все варианты, включая PDF и sitemap) блокирует автоматический доступ (HTTP 403) — страницы открыть не удалось.",
+   "Адрес, телефоны и reitoria@unitau.br взяты из поискового индекса официальной страницы unitau.br/a-unitau/reitoria (повторная проверка 04.10.2026, совпадает с прежним сниппетом); вице-ректорат: vice-reitoria@unitau.br, (12) 3625-4145 — проверить вручную перед рассылкой.",
+   "Муниципальный публичный вуз (автархия муниципалитета Таубате); новая ректор вступила в должность 03.07.2026 (срок 2026–2030) — по СМИ.",
    "Международный отдел и его руководитель не установлены.",
-   "Спутниковых проектов не найдено (одна быстрая проверка)."
+   "Спутниковых проектов не найдено (одна быстрая проверка).",
+   "Перепроверка: Сайт по-прежнему отдаёт 403; контакты ректората внесены в поля по поисковому индексу официальной страницы, требуют ручной проверки."
   ],
-  "mailbox_owner": "",
+  "mailbox_owner": "Reitoria (Rector's Office)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Сайт по-прежнему отдаёт 403; контакты ректората внесены в поля по поисковому индексу официальной страницы, требуют ручной проверки."
  },
  {
   "country": "Brazil",
@@ -2330,7 +2347,7 @@
   "ownership": "Государственный (федеральный, Минобразования Бразилии)",
   "profile_type": "technical/aerospace",
   "main_fields": "Electrical Engineering, Mechanical Engineering, Energy Systems, Computer Engineering, Environmental Engineering, Materials Engineering",
-  "postal_address": "Av. BPS, 1303, Pinheirinho, Itajubá, MG, 37500-903, Brazil",
+  "postal_address": "Av. BPS, 1303, Bairro Pinheirinho, Itajubá, MG, 37500-903, Brazil",
   "email_general": "gabinete@unifei.edu.br",
   "email_international": "relacoesinternacionais@unifei.edu.br",
   "phone": "+55 35 3629-1105",
@@ -2338,7 +2355,7 @@
   "head_name": "Prof. Marcel Fernando da Costa Parentoni",
   "head_title": "Reitor",
   "party_secretary": "",
-  "head_verified_source": "https://unifei.edu.br/nova-gestao-da-unifei-assume-e-inicia-trabalhos-para-o-mandato-2024-2028/",
+  "head_verified_source": "https://unifei.edu.br/unifei-realiza-o-i-encontro-da-pos-graduacao/ (15.10.2025); https://unifei.edu.br/desastres-climaticos-unifei-integra-rede-aprovada-no-capes-global-edu/ (24.03.2026)",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -2349,18 +2366,19 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://unifei.edu.br/nova-gestao-da-unifei-assume-e-inicia-trabalhos-para-o-mandato-2024-2028/; https://unifei.edu.br/internacional/; https://dri.unifei.edu.br/dri/fale-conosco/ (недоступен, 503); https://international.unifei.edu.br/contact-us/ (недоступен, 503); nanosats.csv",
-  "confidence": "low",
+  "sources": "https://unifei.edu.br/nova-gestao-da-unifei-assume-e-inicia-trabalhos-para-o-mandato-2024-2028/; https://unifei.edu.br/internacional/; https://unifei.edu.br/unifei-realiza-o-i-encontro-da-pos-graduacao/; https://unifei.edu.br/desastres-climaticos-unifei-integra-rede-aprovada-no-capes-global-edu/; https://unifei.edu.br/chamada-publica-no-1-2025-captacao-de-apoio-para-realizacao-da-semana-do-servidor-publico-2025-no-campus-itajuba/; https://dri.unifei.edu.br/dri/fale-conosco/ (недоступен, 503); nanosats.csv",
+  "confidence": "medium",
   "notes_ru": [
-   "Поддомены UNIFEI (reitoria., dri., international., transparencia.) недоступны (503/таймаут) — e-mail, телефон, адрес взяты из поисковых сниппетов официальных страниц, не открыты напрямую. Перед рассылкой перепроверить.",
-   "Директор DRI по сниппету — Juliana Fedoce Lopes; не подтверждено на открытой странице, поэтому addressee_name пуст.",
-   "Ректор Marcel Parentoni (мандат 2024–2028) подтверждён новостью на unifei.edu.br.",
-   "Спутников UNIFEI в nanosats.csv нет; поиск «UNIFEI nanossatélite» проектов UNIFEI не показал."
+   "Поддомены UNIFEI (reitoria., dri., international.) по-прежнему недоступны (503) — e-mail relacoesinternacionais@unifei.edu.br взят из поисковых сниппетов и на открытой странице не подтверждён.",
+   "gabinete@unifei.edu.br и тел. (35) 3629-1105 подтверждены на странице unifei.edu.br от 06.2024 (Gabinete da Reitoria).",
+   "Спутников UNIFEI в nanosats.csv нет; поиск «UNIFEI nanossatélite» проектов UNIFEI не показал.",
+   "Перепроверка: Через WP API сайта unifei.edu.br подтверждены: ректор Parentoni (окт. 2025), директор DRI Juliana Fedoce Lopes (март 2026), адрес (2025–2026), gabinete@unifei.edu.br и тел. (35) 3629-1105 (страница 2024); e-mail DRI на официальной странице не найден."
   ],
   "mailbox_owner": "Дирекция по международным связям (DRI)",
-  "addressee_name": "",
-  "addressee_title": "Директор по международным связям",
-  "salutation": "Dear Director of International Relations,"
+  "addressee_name": "Prof. Juliana Fedoce Lopes",
+  "addressee_title": "Diretora de Relações Internacionais (Director of International Relations)",
+  "salutation": "Dear Professor Fedoce Lopes,",
+  "recheck_ru": "Через WP API сайта unifei.edu.br подтверждены: ректор Parentoni (окт. 2025), директор DRI Juliana Fedoce Lopes (март 2026), адрес (2025–2026), gabinete@unifei.edu.br и тел. (35) 3629-1105 (страница 2024); e-mail DRI на официальной странице не найден."
  },
  {
   "country": "Brazil",
@@ -2569,15 +2587,15 @@
   "ownership": "Государственный (штат Пернамбуку)",
   "profile_type": "classical",
   "main_fields": "",
-  "postal_address": "",
-  "email_general": "",
+  "postal_address": "Av. Agamenon Magalhães, s/n, Santo Amaro, Recife – PE, CEP 50100-010, Brazil",
+  "email_general": "reitor@upe.br",
   "email_international": "",
-  "phone": "",
+  "phone": "+55 81 3183-3674",
   "website": "https://www.upe.br",
-  "head_name": "",
-  "head_title": "",
+  "head_name": "Profª. Maria do Socorro de Mendonça Cavalcanti",
+  "head_title": "Reitora",
   "party_secretary": "",
-  "head_verified_source": "",
+  "head_verified_source": "https://antigo.upe.br/institucional/reitoria.html",
   "rank_qs": "",
   "rank_the": "THE2027: 2001+",
   "rank_national": "",
@@ -2588,17 +2606,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.upe.br (недоступен); https://pt.wikipedia.org/wiki/Universidade_de_Pernambuco; nanosats.csv",
-  "confidence": "low",
+  "sources": "https://antigo.upe.br/institucional/reitoria.html; https://antigo.upe.br/ (новости 03.2026); https://foprop.org.br/filiados-foprop/universidade-de-pernambuco/; nanosats.csv",
+  "confidence": "medium",
   "notes_ru": [
-   "Сайт upe.br недоступен (таймаут/503 через curl и WebFetch); лимит WebSearch исчерпан — контакты и руководство не проверены.",
-   "По Википедии (данные 2023) ректор — Maria do Socorro de Mendonça Cavalcanti; на 2025–2026 не подтверждено, поэтому поля руководителя пусты.",
-   "Космическая проверка: в nanosats.csv спутников этого вуза нет; отдельный веб-поиск не выполнен (исчерпан общий лимит WebSearch)."
+   "Космическая проверка: в nanosats.csv спутников этого вуза нет; отдельный веб-поиск не выполнен (исчерпан общий лимит WebSearch).",
+   "Основной сайт upe.br недоступен (ошибка TLS-цепочки); данные со старого официального портала antigo.upe.br (страница Reitoria без даты, на главной — новости 2026 г.)",
+   "Ректор: Profª. Maria do Socorro de Mendonça Cavalcanti, проректор Prof. José Roberto de Souza Cavalcanti; e-mail reitor@upe.br (раскодирован со страницы Reitoria)",
+   "В UPE идёт процесс выборов ректора на 2027–2030 гг. (по поиску, страница upe.br) — руководитель может смениться с 2027 г.",
+   "Международный e-mail не найден; страница Relações Internacionais без контактов. ПРОПЕГИ: propegi.proreitor@upe.br, (81) 3183-3658 (по FOPROP)",
+   "Перепроверка: 04.10.2026: ректор, e-mail reitor@upe.br, адрес и телефон подтверждены на старом официальном портале antigo.upe.br; основной сайт недоступен."
   ],
-  "mailbox_owner": "",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "mailbox_owner": "Gabinete da Reitoria",
+  "addressee_name": "Profª. Maria do Socorro de Mendonça Cavalcanti",
+  "addressee_title": "Ректор (Reitora)",
+  "salutation": "Dear Prof. Cavalcanti,",
+  "recheck_ru": "04.10.2026: ректор, e-mail reitor@upe.br, адрес и телефон подтверждены на старом официальном портале antigo.upe.br; основной сайт недоступен."
  },
  {
   "country": "Brazil",
@@ -2945,13 +2967,16 @@
   "sources": "https://www.ueap.edu.br (недоступен, 503); nanosats.csv",
   "confidence": "low",
   "notes_ru": [
-   "Сайт ueap.edu.br недоступен (503/таймаут через curl и WebFetch); лимит WebSearch исчерпан — контакты, руководство и международный офис не проверены.",
-   "Космическая проверка: в nanosats.csv спутников этого вуза нет; отдельный веб-поиск не выполнен (исчерпан общий лимит WebSearch)."
+   "Сайты ueap.edu.br / www2.ueap.edu.br недоступны (таймаут через curl, WebFetch и reader-сервис, 04.10.2026) — контакты, руководство и международный офис не проверены.",
+   "По поисковой выдаче (04.10.2026, не подтверждено официальной страницей) ректор — Prof.ª Dr.ª Kátia Paulino dos Santos, срок 2022–2026 (вице-ректор Marcela Videira); срок истекает в 2026 г. — в поле не внесено.",
+   "Космическая проверка: в nanosats.csv спутников этого вуза нет; отдельный веб-поиск не выполнен (исчерпан общий лимит WebSearch).",
+   "Перепроверка: Сайт ueap.edu.br (www/www2) и портал правительства Амапы недоступны (таймаут) 04.10.2026; данные не изменены."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Сайт ueap.edu.br (www/www2) и портал правительства Амапы недоступны (таймаут) 04.10.2026; данные не изменены."
  },
  {
   "country": "Brazil",
@@ -3065,12 +3090,15 @@
    "Сайты fei.edu.br / portal.fei.edu.br блокируют доступ (CloudFront 403), архив web.archive.org тоже недоступен — контакты не проверены напрямую.",
    "По данным поисковой выдачи (не проверено): международный офис — internacional@fei.edu.br, тел. +55 11 4353-2918; адрес Av. Humberto de Alencar Castelo Branco, 3972, São Bernardo do Campo, SP, 09850-901.",
    "Иезуитский частный некоммерческий вуз; спутниковых проектов не найдено.",
-   "Ректор подтверждён по странице PUC-Campinas (дата визита не указана) и pt.wikipedia (2026) — желательно перепроверить."
+   "Ректор подтверждён по странице PUC-Campinas (дата визита не указана) и pt.wikipedia (2026) — желательно перепроверить.",
+   "Повторная проверка 04.10.2026: FEI не найден в справочнике FAUBAI (ассоциация международных отделов) — альтернативного официального источника контактов нет",
+   "Перепроверка: Сайты fei.edu.br / portal.fei.edu.br / internacional.fei.edu.br по-прежнему блокируют доступ (CloudFront 403/502); данные не изменены"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Сайты fei.edu.br / portal.fei.edu.br / internacional.fei.edu.br по-прежнему блокируют доступ (CloudFront 403/502); данные не изменены"
  },
  {
   "country": "Brazil",
@@ -3589,7 +3617,7 @@
   "ownership": "Частный",
   "profile_type": "classical",
   "main_fields": "Business & Management, Law, Health Sciences, Engineering, Architecture, Education",
-  "postal_address": "",
+  "postal_address": "Universidade Positivo, Campus Ecoville, Rua Prof. Pedro Viriato Parigot de Souza, 5300, Curitiba – PR, Brazil (по поисковому индексу; CEP не подтверждён)",
   "email_general": "",
   "email_international": "",
   "phone": "",
@@ -3611,15 +3639,18 @@
   "sources": "https://www.diarioinduscom.com.br/Noticias/880118/universidade_positivo_oficializa_novo_reitor_e_reforca_expansao_de_servicos_em_curitiba_e_regiao_metropolitana",
   "confidence": "low",
   "notes_ru": [
-   "Сайт up.edu.br блокирует доступ (HTTP 403) — контакты не проверены.",
    "Новый ректор Eduardo Faria Silva (доктор права) вступил в должность 25.03.2026; университет принадлежит группе Cruzeiro do Sul Educacional (коммерческий частный).",
    "По данным поиска (не проверено): международный офис — study@up.edu.br.",
-   "Спутниковых проектов не найдено."
+   "Спутниковых проектов не найдено.",
+   "Сайт up.edu.br и архив документов группы Cruzeiro do Sul по-прежнему отдают 403 (04.10.2026). Ректор Eduardo Faria Silva дополнительно подтверждается поисковым индексом официальных документов 2026 г. (Portaria da Reitoria nº 394 от 16.03.2026, Edital de colação de grau 2026), но PDF открыть не удалось",
+   "Адрес (Campus Ecoville) и тел. +55 41 3317-3201 — из поисковой выдачи, не проверены открытием страницы",
+   "Перепроверка: Сайт по-прежнему 403; добавлен адрес кампуса Ecoville по поисковому индексу, ректор косвенно подтверждён индексом документов 2026 г.; e-mail не подтверждён"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Сайт по-прежнему 403; добавлен адрес кампуса Ecoville по поисковому индексу, ректор косвенно подтверждён индексом документов 2026 г.; e-mail не подтверждён"
  },
  {
   "country": "Brazil",
@@ -3813,12 +3844,14 @@
    "Офис международного сотрудничества (Escritório de Cooperação Internacional): Av. Ipiranga 6681, корпус 1, ауд. 110; тел. +55 51 3320-3660 — указан как основной телефон",
    "По данным поиска (не открыто) координатор офиса — João Fett, исполнительный координатор — Carla Bonan (2025); не подтверждено",
    "Спутниковых проектов PUCRS не найдено",
-   "Общий e-mail ректората не найден"
+   "Общий e-mail ректората не найден",
+   "Перепроверка: Сайты *.pucrs.br (www, portal, /internacional, sitemap) по-прежнему закрыты Cloudflare 403, WebFetch тоже 403 — данные не изменены (04.10.2026)"
   ],
   "mailbox_owner": "Офис международного сотрудничества (Escritório de Cooperação Internacional)",
   "addressee_name": "",
   "addressee_title": "Координатор Офиса международного сотрудничества",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Сайты *.pucrs.br (www, portal, /internacional, sitemap) по-прежнему закрыты Cloudflare 403, WebFetch тоже 403 — данные не изменены (04.10.2026)"
  },
  {
   "country": "Brazil",
@@ -4027,10 +4060,10 @@
   "email_international": "",
   "phone": "",
   "website": "https://ufra.edu.br",
-  "head_name": "Prof. Gracialda Ferreira",
+  "head_name": "Prof. Dr. Gracialda Costa Ferreira",
   "head_title": "Reitora",
   "party_secretary": "",
-  "head_verified_source": "https://diariodopara.com.br/para/ufra-tem-primeira-mulher-do-brasil-eleita-reitora-apos-fim-da-lista-triplice/",
+  "head_verified_source": "https://www.andifes.org.br/2026/09/17/ufra-reitora-da-amazonia-e-a-primeira-mulher-a-tomar-posse-com-o-fim-da-lista-triplice/ (Andifes, 17.09.2026); https://diariodopara.com.br/para/ufra-tem-primeira-mulher-do-brasil-eleita-reitora-apos-fim-da-lista-triplice/",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -4041,18 +4074,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://diariodopara.com.br/para/ufra-tem-primeira-mulher-do-brasil-eleita-reitora-apos-fim-da-lista-triplice/; https://ver-o-fato.com.br/gracialda-ferreira-toma-posse-como-nova-reitora-da-ufra; https://foprop.org.br/filiados-foprop/universidade-federal-rural-da-amazonia/",
+  "sources": "https://diariodopara.com.br/para/ufra-tem-primeira-mulher-do-brasil-eleita-reitora-apos-fim-da-lista-triplice/; https://ver-o-fato.com.br/gracialda-ferreira-toma-posse-como-nova-reitora-da-ufra; https://foprop.org.br/filiados-foprop/universidade-federal-rural-da-amazonia/; https://www.andifes.org.br/2026/09/17/ufra-reitora-da-amazonia-e-a-primeira-mulher-a-tomar-posse-com-o-fim-da-lista-triplice/",
   "confidence": "low",
   "notes_ru": [
-   "Все сайты *.ufra.edu.br недоступны (503/таймаут) — контакты не подтверждены",
-   "Ректор Gracialda Ferreira вступила в должность 15.09.2026 (первые прямые выборы, мандат до 2030); вице-ректор Raimundo Thiago Lima; полное имя не подтверждено",
-   "По поисковому индексу: общий e-mail ректората, вероятно, reitoria@ufra.edu.br; международный офис — ACII (acii.ufra.edu.br) — проверить",
-   "Адрес по данным FOPROP; спутниковых проектов (LIGHT) не найдено"
+   "Все сайты *.ufra.edu.br недоступны (503 / ошибка TLS, повторно 04.10.2026) — контакты не подтверждены",
+   "Ректор Prof. Dr. Gracialda Costa Ferreira вступила в должность 15.09.2026 (первые прямые выборы, мандат 2026–2030) — подтверждено Andifes 17.09.2026; вице-ректор Raimundo Thiago Lima",
+   "По поисковому индексу: общий e-mail ректората, вероятно, reitoria@ufra.edu.br; личный адрес ректора gracialda.ferreira@ufra.edu.br (по выдаче страницы ректората); международный офис — ACII (acii.ufra.edu.br) — проверить",
+   "Адрес по данным FOPROP; спутниковых проектов (LIGHT) не найдено",
+   "Перепроверка: Ректор Gracialda Costa Ferreira (полное имя) подтверждена Андифес (ассоциация ректоров федеральных вузов) 17.09.2026; сайты *.ufra.edu.br по-прежнему недоступны — контакты не подтверждены"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Ректор Gracialda Costa Ferreira (полное имя) подтверждена Андифес (ассоциация ректоров федеральных вузов) 17.09.2026; сайты *.ufra.edu.br по-прежнему недоступны — контакты не подтверждены"
  },
  {
   "country": "Brazil",
@@ -4405,12 +4440,14 @@
    "Спутник UNOSAT-1 (8,8 кг, построен студентами UNOPAR) погиб при взрыве РН VLS-1 V03 на старте в Алкантаре 22–23.08.2003 — на орбиту не выведен, поэтому satellites_launched = 0",
    "Сайт unopar.com.br блокирует автоматический доступ (403); e-mail ректората и международного отдела не опубликованы, есть только колл-центр 0800-056-2420 и форма «Fale Conosco»",
    "Ректор не подтверждён официальным источником 2025–2026; агрегатор aluno.com.br (данные e-MEC) называет руководителем Flávia Pellissari Pomin Frutos (в документе Cogna 2021 г. — директор кампуса Catuaí) — проверить перед отправкой",
-   "Текущей космической программы не обнаружено; рекомендуется отправка через форму обратной связи или Cogna"
+   "Текущей космической программы не обнаружено; рекомендуется отправка через форму обратной связи или Cogna",
+   "Перепроверка: 04.10.2026: главная unopar.com.br (через WebFetch) подтверждает только колл-центр 0800-056-2420 и WhatsApp; ректор и e-mail не опубликованы — данные не изменены"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Rector,"
+  "salutation": "Dear Rector,",
+  "recheck_ru": "04.10.2026: главная unopar.com.br (через WebFetch) подтверждает только колл-центр 0800-056-2420 и WhatsApp; ректор и e-mail не опубликованы — данные не изменены"
  },
  {
   "country": "Brazil",
@@ -4778,14 +4815,14 @@
   "profile_type": "classical",
   "main_fields": "Agricultural Sciences, Health Sciences, Education, Natural Sciences, Indigenous Studies & Social Sciences",
   "postal_address": "Av. Cap. Ene Garcez, 2413, Aeroporto, Boa Vista – RR, 69304-000, Brazil",
-  "email_general": "",
-  "email_international": "",
-  "phone": "",
+  "email_general": "reitoria@ufrr.br",
+  "email_international": "crint@ufrr.br",
+  "phone": "+55 95 98113-0338 (Reitoria); +55 95 98113-0647 (CRINT)",
   "website": "https://ufrr.br",
-  "head_name": "Prof. José Geraldo Ticianeli",
+  "head_name": "Prof. Dr. José Geraldo Ticianeli",
   "head_title": "Reitor",
   "party_secretary": "",
-  "head_verified_source": "https://www.ufac.br/site/noticias/2025/reitor-da-ufrr-e-eleito-presidente-da-andifes-para-gestao-2025-2026",
+  "head_verified_source": "https://ufrr.br/reitoria",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -4796,19 +4833,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.ufac.br/site/noticias/2025/reitor-da-ufrr-e-eleito-presidente-da-andifes-para-gestao-2025-2026; https://foprop.org.br/filiados-foprop/universidade-federal-de-roraima/; https://ufrr.br/reitoria/",
-  "confidence": "low",
+  "sources": "https://ufrr.br/reitoria; https://ufrr.br/crint; https://www.ufac.br/site/noticias/2025/reitor-da-ufrr-e-eleito-presidente-da-andifes-para-gestao-2025-2026; https://foprop.org.br/filiados-foprop/universidade-federal-de-roraima/",
+  "confidence": "high",
   "notes_ru": [
-   "Сайт ufrr.br недоступен из нашей сети (сброс соединения / 503) — контакты не подтверждены",
-   "По поисковой выдаче (страница ufrr.br/reitoria): e-mail ректората reitoria@ufrr.br, начальник кабинета chefiadegabinete@ufrr.br, тел. (95) 98113-0338; международный отдел — Coordenadoria de Relações Internacionais (CRINT), тел. (95) 98113-0647 — НЕ ПРОВЕРЕНО",
+   "Страница Reitoria (обновлена 04.08.2025): ректор José Geraldo Ticianeli (reitoria@ufrr.br), начальник кабинета — chefiadegabinete@ufrr.br; CRINT — Marcus Vinicius da Silva, crint@ufrr.br, тел. (95) 98113-0647.",
    "Ректор José Geraldo Ticianeli — также президент Andifes (ассоциация ректоров федеральных вузов) на 2025–2026 гг.: потенциально влиятельный контакт для выхода на всю систему федеральных университетов",
-   "Адрес взят со страницы FOPROP (адрес проректората PRPPG, тот же кампус Paricarana)",
-   "Спутниковых проектов при быстром поиске не обнаружено"
+   "Адрес взят со страницы FOPROP (адрес проректората PRPPG, тот же кампус Paricarana) — на сайте ufrr.br не найден",
+   "Спутниковых проектов при быстром поиске не обнаружено",
+   "Перепроверка: Сайт ufrr.br открыт 04.10.2026 (после добавления промежуточного сертификата RNP): ректор, e-mail ректората и CRINT, телефоны и руководитель CRINT подтверждены на странице Reitoria (обновл. 04.08.2025)."
   ],
-  "mailbox_owner": "",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "mailbox_owner": "Coordenadoria de Relações Internacionais (CRINT), UFRR",
+  "addressee_name": "Marcus Vinicius da Silva",
+  "addressee_title": "Coordenador de Relações Internacionais (CRINT)",
+  "salutation": "Dear Mr. da Silva,",
+  "recheck_ru": "Сайт ufrr.br открыт 04.10.2026 (после добавления промежуточного сертификата RNP): ректор, e-mail ректората и CRINT, телефоны и руководитель CRINT подтверждены на странице Reitoria (обновл. 04.08.2025)."
  },
  {
   "country": "Brazil",
@@ -4818,10 +4856,10 @@
   "ownership": "Государственный (федеральный, Минобразования Бразилии)",
   "profile_type": "classical",
   "main_fields": "Geosciences & Mining Engineering, Agricultural Sciences, Education, Health Sciences, Social Sciences & Law",
-  "postal_address": "Marabá – PA, Brazil",
+  "postal_address": "Reitoria, Unifesspa, Unidade III (Cidade Universitária), Rodovia BR-230, Av. Paulo Fonteles Filho, s/n, Cidade Jardim, Marabá – PA, CEP 68500-000, Brazil",
   "email_general": "",
   "email_international": "",
-  "phone": "",
+  "phone": "+55 94 2101-7101",
   "website": "https://www.unifesspa.edu.br",
   "head_name": "Prof. Francisco Ribeiro da Costa",
   "head_title": "Reitor",
@@ -4837,18 +4875,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://portalcidadeatual.com.br/maraba/unifesspa-realiza-cerimonia-de-reconducao-de-reitores-eleitos-pela-comunidade-academica; https://www.unifesspa.edu.br/",
+  "sources": "https://portalcidadeatual.com.br/maraba/unifesspa-realiza-cerimonia-de-reconducao-de-reitores-eleitos-pela-comunidade-academica; https://www.unifesspa.edu.br/dirigentes (по поисковому индексу); https://www.unifesspa.edu.br/o-que-e-rss/2-uncategorised/2704-reitoria (по поисковому индексу)",
   "confidence": "low",
   "notes_ru": [
-   "Сайт unifesspa.edu.br (и поддомены) недоступен из нашей сети — контакты не подтверждены; точный почтовый адрес не подтверждён",
-   "Ректор — проф. Francisco Ribeiro da Costa, переизбран на срок 2024–2028",
-   "По поисковой выдаче международные связи ведёт Assessoria de Relações Nacionais e Internacionais (ARNI): arni@unifesspa.edu.br, тел. (94) 2101-7153, Unidade III, Av. Paulo Fonteles Filho, Marabá — НЕ ПРОВЕРЕНО",
-   "Спутниковых проектов при быстром поиске не обнаружено"
+   "Сайт unifesspa.edu.br и поддомены (arni., reitoria.) по-прежнему недоступны из нашей сети (503 / отказ прокси) — страницы не открыты",
+   "Ректор — проф. Francisco Ribeiro da Costa (переизбран на 2024–2028; также указан на странице 'Reitoria' официального сайта по поисковому индексу, 04.10.2026)",
+   "Адрес ректората и телефон (94) 2101-7101 — из поискового индекса официальной страницы 'Reitoria'; Chefe de Gabinete — Manoel Sousa da Silva Júnior, тел. (94) 2101-7150 — проверить вручную",
+   "По поисковой выдаче международные связи ведёт Assessoria de Relações Nacionais e Internacionais (ARNI): arni@unifesspa.edu.br, тел. (94) 2101-7153 — НЕ ПРОВЕРЕНО",
+   "Спутниковых проектов при быстром поиске не обнаружено",
+   "Перепроверка: Сайт недоступен; адрес и телефон ректората внесены по поисковому индексу официальной страницы, e-mail не подтверждён."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Сайт недоступен; адрес и телефон ректората внесены по поисковому индексу официальной страницы, e-mail не подтверждён."
  },
  {
   "country": "Brazil",
@@ -4923,12 +4964,14 @@
    "Сайт ufr.edu.br закрыт Cloudflare/403 для автоматического доступа — контакты и адрес не подтверждены",
    "Ректор — проф. Analy Castilho Polizel de Souza (срок 2024–2027; подтверждено новостью O Tempo, авг. 2026); вице-ректор — Renato Nataniel Wasques (по поисковой выдаче)",
    "По поисковой выдаче (страница «Principais cargos e contatos»): есть Secretaria de Relações Internacionais, секретарь — Jofran Luiz de Oliveira, тел. (66) 3410-4187 / 3410-4096 — НЕ ПРОВЕРЕНО, e-mail не виден",
-   "Молодой университет (создан в 2018 г. выделением из UFMT); спутниковых проектов при быстром поиске не обнаружено"
+   "Молодой университет (создан в 2018 г. выделением из UFMT); спутниковых проектов при быстром поиске не обнаружено",
+   "Перепроверка: Сайт ufr.edu.br и поддомены по-прежнему закрыты Cloudflare (403 для curl и WebFetch), обход не выполнялся; данные не изменены."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Сайт ufr.edu.br и поддомены по-прежнему закрыты Cloudflare (403 для curl и WebFetch), обход не выполнялся; данные не изменены."
  },
  {
   "country": "Brazil",
@@ -5423,10 +5466,10 @@
   "email_international": "secri@ufmt.br",
   "phone": "+55 65 3313-7114",
   "website": "https://www.ufmt.br",
-  "head_name": "Prof. Marluce Aparecida Souza e Silva",
+  "head_name": "Prof.ª Marluce Aparecida Souza e Silva",
   "head_title": "Reitora",
   "party_secretary": "",
-  "head_verified_source": "https://www.ufmt.br/unidade/acessoainformacao/pagina/reitoria/3708",
+  "head_verified_source": "https://www.andifes.org.br/reitores/",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -5437,18 +5480,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.ufmt.br/unidade/acessoainformacao/pagina/reitoria/3708; https://ufmt.br/unidade/acessoainformacao/pagina/reitoria/3796; https://www.ufmt.br/secretaria/secri/noticias/comitiva-internacional-da-universidade-de-minnesota-1755100478; https://www.gov.br/sri/pt-br/noticias/2024/ministro-alexandre-padilha-participa-da-posse-da-nova-reitoria-da-universidade-federal-de-mato-grosso",
-  "confidence": "low",
+  "sources": "https://www.andifes.org.br/reitores/; https://www.ufmt.br/unidade/acessoainformacao/pagina/reitoria/3708; https://ufmt.br/unidade/acessoainformacao/pagina/reitoria/3796; https://www.ufmt.br/secretaria/secri/noticias/comitiva-internacional-da-universidade-de-minnesota-1755100478; https://www.gov.br/sri/pt-br/noticias/2024/ministro-alexandre-padilha-participa-da-posse-da-nova-reitoria-da-universidade-federal-de-mato-grosso",
+  "confidence": "medium",
   "notes_ru": [
    "Официальный сайт недоступен для автоматического доступа (503/403/тайм-аут); данные взяты из поисковой выдачи по официальным страницам — перед рассылкой перепроверить",
    "Ректор — срок 2024–2028",
    "Телефон SECRI: +55 65 3313-7294 / 3313-7299; в выдаче также встречается gabinete.reitoria@ufmt.br и ufmt@ufmt.br",
-   "Проверка космической активности (LIGHT): спутников в nanosats.csv и в быстром поиске не найдено"
+   "Проверка космической активности (LIGHT): спутников в nanosats.csv и в быстром поиске не найдено",
+   "Ректор подтверждена справочником ANDIFES (нац. ассоциация ректоров федеральных вузов): Reitora Marluce Aparecida Souza, мандат 16.10.2024–15.10.2028",
+   "Перепроверка: 04.10.2026: ufmt.br по-прежнему недоступен (503/сброс); ректор и срок полномочий подтверждены справочником ANDIFES; контакты не перепроверены."
   ],
   "mailbox_owner": "Секретариат международных связей (SECRI)",
   "addressee_name": "Lucas Oliveira de Sousa",
   "addressee_title": "Секретарь по международным связям (SECRI)",
-  "salutation": "Dear Prof. Sousa,"
+  "salutation": "Dear Prof. Sousa,",
+  "recheck_ru": "04.10.2026: ufmt.br по-прежнему недоступен (503/сброс); ректор и срок полномочий подтверждены справочником ANDIFES; контакты не перепроверены."
  },
  {
   "country": "Brazil",
@@ -5544,12 +5590,12 @@
   "postal_address": "Avenida Amazonas, 5253, Nova Suíça, Belo Horizonte – MG, CEP 30421-169, Brazil",
   "email_general": "",
   "email_international": "crodrigues@cefetmg.br",
-  "phone": "+55 31 3319-7000",
+  "phone": "+55 31 3319-7013 (секретарь SRI); +55 31 3319-7074 / 3319-7471 (SRI); +55 31 3319-7000 (общий)",
   "website": "https://www.cefetmg.br",
   "head_name": "Prof. Carla Simone Chamon",
-  "head_title": "Diretora-Geral",
+  "head_title": "Diretora-Geral (с 25.09.2026 — руководитель UFCIMG до назначения ректора pro tempore)",
   "party_secretary": "",
-  "head_verified_source": "https://www.dgdi.cefetmg.br/acesso-info/info-instit/gestores-cefetmg/",
+  "head_verified_source": "https://www.dgdi.cefetmg.br/acesso-info/info-instit/gestores-cefetmg/; https://www.cefetmg.br/noticias/mec-discute-transicao-com-dirigentes-da-ufcimg-e-da-ufcirj/",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -5561,18 +5607,20 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://www.dgdi.cefetmg.br/acesso-info/info-instit/gestores-cefetmg/; https://www.sri.cefetmg.br/equipe-atual/; https://www.sri.cefetmg.br/quem-e-quem/; https://www.ns.cefetmg.br/fale-conosco/",
-  "confidence": "low",
+  "confidence": "high",
   "notes_ru": [
-   "Официальный сайт недоступен для автоматического доступа (503/403/тайм-аут); данные взяты из поисковой выдачи по официальным страницам — перед рассылкой перепроверить",
-   "Руководитель — Diretora-Geral (не Reitor); мандат 2023–2027",
-   "Общий e-mail SRI не найден; использован личный адрес секретаря SRI. Исполнительный секретарь SRI: Hugo Leonardo Miranda de Souza, hugo.miranda@cefetmg.br, +55 31 3319-7074",
-   "Тип собственности: федеральный центр технологического образования (сеть федеральных институтов, MEC)",
-   "Проверка космической активности (LIGHT): спутников в nanosats.csv и в быстром поиске не найдено"
+   "ВАЖНО: по Закону № 15.521 от 24.09.2026 CEFET-MG преобразован в Universidade Federal de Ciência e Inovação de Minas Gerais (UFCIMG), действует с 25.09.2026; назначение ректора pro tempore ожидается «в ближайшие недели» (новость cefetmg.br от 01.10.2026) — перед рассылкой уточнить руководителя и название.",
+   "Сайт cefetmg.br напрямую из нашей сети недоступен; страницы открыты через reader-сервис r.jina.ai 04.10.2026.",
+   "Общий e-mail SRI не опубликован; использован адрес секретаря SRI. Сотрудники SRI: Liliane de Oliveira Neves (lilianeoneves@cefetmg.br), Hugo Leonardo Miranda de Souza (hugo.miranda@cefetmg.br) и др.",
+   "Тип собственности: федеральный (MEC); до 09.2026 — федеральный центр технологического образования",
+   "Проверка космической активности (LIGHT): спутников в nanosats.csv и в быстром поиске не найдено",
+   "Перепроверка: Руководитель, секретарь SRI (e-mail, тел.) и адрес подтверждены на cefetmg.br/sri.cefetmg.br 04.10.2026 (страница SRI изм. 15.01.2026); выявлено преобразование CEFET-MG в университет UFCIMG (Закон 15.521/2026)."
   ],
   "mailbox_owner": "Секретариат международных связей (SRI)",
   "addressee_name": "Conrado de Souza Rodrigues",
-  "addressee_title": "Секретарь по международным связям",
-  "salutation": "Dear Prof. Rodrigues,"
+  "addressee_title": "Секретарь по международным связям (одновременно вице-директор)",
+  "salutation": "Dear Prof. Rodrigues,",
+  "recheck_ru": "Руководитель, секретарь SRI (e-mail, тел.) и адрес подтверждены на cefetmg.br/sri.cefetmg.br 04.10.2026 (страница SRI изм. 15.01.2026); выявлено преобразование CEFET-MG в университет UFCIMG (Закон 15.521/2026)."
  },
  {
   "country": "Brazil",
@@ -5583,14 +5631,14 @@
   "profile_type": "classical",
   "main_fields": "Teacher education, Health sciences, Law and social sciences, Agricultural sciences, Engineering and computing",
   "postal_address": "Rua João Cabral, 2231, Pirajá, Teresina – PI, CEP 64002-150, Brazil",
-  "email_general": "",
+  "email_general": "reitoria@uespi.br",
   "email_international": "",
-  "phone": "+55 86 3213-7524",
+  "phone": "+55 86 3213-1690; +55 86 3213-7200",
   "website": "https://uespi.br",
-  "head_name": "Prof. Paulo Henrique Pinheiro",
+  "head_name": "Prof. Paulo Henrique da Costa Pinheiro",
   "head_title": "Reitor",
   "party_secretary": "",
-  "head_verified_source": "https://www.al.pi.leg.br/comunicacao/tv-assembleia/noticias-tv/novo-reitor-da-uespi-assume-com-votacao-historica-e-promete-dialogo-infraestrutura-e-avancos-academicos",
+  "head_verified_source": "https://www.al.pi.leg.br/comunicacao/tv-assembleia/noticias-tv/novo-reitor-da-uespi-assume-com-votacao-historica-e-promete-dialogo-infraestrutura-e-avancos-academicos; https://www.abruem.org.br/index.php?option=com_content&view=article&id=94&Itemid=279",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -5601,19 +5649,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.al.pi.leg.br/comunicacao/tv-assembleia/noticias-tv/novo-reitor-da-uespi-assume-com-votacao-historica-e-promete-dialogo-infraestrutura-e-avancos-academicos; https://uespi.br/wp-content/uploads/2022/05/Regulamento-local.pdf; https://uespi.br/reitores/",
-  "confidence": "low",
+  "sources": "https://www.al.pi.leg.br/comunicacao/tv-assembleia/noticias-tv/novo-reitor-da-uespi-assume-com-votacao-historica-e-promete-dialogo-infraestrutura-e-avancos-academicos; https://uespi.br/wp-content/uploads/2022/05/Regulamento-local.pdf; https://uespi.br/reitores/; https://www.abruem.org.br/index.php?option=com_content&view=article&id=94&Itemid=279; https://www.abruem.org.br/index.php?option=com_content&view=article&id=90&Itemid=553",
+  "confidence": "medium",
   "notes_ru": [
    "Официальный сайт недоступен для автоматического доступа (503/403/тайм-аут); данные взяты из поисковой выдачи по официальным страницам — перед рассылкой перепроверить",
    "Ректор вступил в должность 20.01.2026 (срок 2026–2030)",
-   "E-mail ректората и международного отдела не найдены — требуется уточнение по телефону",
-   "Телефон — центральный коммутатор (по поисковой выдаче)",
-   "Проверка космической активности (LIGHT): спутников в nanosats.csv и в быстром поиске не найдено"
+   "Проверка космической активности (LIGHT): спутников в nanosats.csv и в быстром поиске не найдено",
+   "Справочник ассоциации ректоров госвузов ABRUEM (страница «Afiliadas», 04.10.2026): ректор Paulo Henrique da Costa Pinheiro, e-mail reitoria@uespi.br, тел. (86) 3213-1690 / 3213-7200",
+   "Камера ABRUEM по интернационализации указывает представителем UESPI Ana Luiza Ângelo Rodrigues (дата не указана, возможно до смены ректора) — международный e-mail не найден",
+   "Сайт uespi.br по-прежнему недоступен (ошибка TLS/503)",
+   "Перепроверка: По справочнику ABRUEM подтверждены ректор, e-mail reitoria@uespi.br и телефоны; сайт вуза по-прежнему недоступен"
   ],
-  "mailbox_owner": "",
+  "mailbox_owner": "Reitoria (канцелярия ректора)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "По справочнику ABRUEM подтверждены ректор, e-mail reitoria@uespi.br и телефоны; сайт вуза по-прежнему недоступен"
  },
  {
   "country": "Brazil",
@@ -5662,7 +5713,7 @@
   "ownership": "Государственный (Минобразования, федеральный институт)",
   "profile_type": "technical/aerospace",
   "main_fields": "Technical and vocational education, Engineering, Information technology, Agricultural sciences, Teacher education",
-  "postal_address": "",
+  "postal_address": "Reitoria do IFMA, Av. Colares Moreira, 477, Renascença, São Luís – MA, CEP 65075-441, Brazil",
   "email_general": "gabinete@ifma.edu.br",
   "email_international": "internacional@ifma.edu.br",
   "phone": "+55 98 3215-1809",
@@ -5685,14 +5736,17 @@
   "confidence": "low",
   "notes_ru": [
    "Официальный сайт недоступен для автоматического доступа (503/403/тайм-аут); данные взяты из поисковой выдачи по официальным страницам — перед рассылкой перепроверить",
-   "Почтовый адрес ректората не проверен — оставлен пустым",
    "Личный e-mail директора ARI: viltonsoares@ifma.edu.br",
-   "Проверка космической активности (LIGHT): спутников в nanosats.csv и в быстром поиске не найдено"
+   "Проверка космической активности (LIGHT): спутников в nanosats.csv и в быстром поиске не найдено",
+   "Повторная проверка 04.10.2026: все сайты *.ifma.edu.br закрыты проверкой Cloudflare (403, «Just a moment…») — страницы не открыты",
+   "Адрес ректората (Av. Colares Moreira, 477, Renascença, CEP 65075-441) и gabinete@ifma.edu.br — по поисковому сниппету официальной страницы «Contatos da Reitoria»; там же указаны мобильные тел. ректората +55 98 98421-1007 / 98405-7361 / 98408-9520",
+   "Перепроверка: Сайт закрыт Cloudflare; по сниппету официальной страницы контактов добавлен адрес ректората, e-mail gabinete подтверждён сниппетом; имя ректора не перепроверено"
   ],
   "mailbox_owner": "Управление международных отношений (Assessoria de Relações Internacionais)",
   "addressee_name": "Vilton Soares de Souza",
   "addressee_title": "Директор по международным отношениям",
-  "salutation": "Dear Prof. Souza,"
+  "salutation": "Dear Prof. Souza,",
+  "recheck_ru": "Сайт закрыт Cloudflare; по сниппету официальной страницы контактов добавлен адрес ректората, e-mail gabinete подтверждён сниппетом; имя ректора не перепроверено"
  },
  {
   "country": "Brazil",

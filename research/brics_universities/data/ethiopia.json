@@ -390,18 +390,20 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://t.me/s/DTUniversity (official DTU Telegram channel, posts Sep 2026); https://dtu.edu.et (blocked from our network)",
-  "confidence": "low",
+  "confidence": "medium",
   "notes_ru": [
    "Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)",
    "Сайт dtu.edu.et блокирует наши запросы (редирект на страницу блокировки) — данные взяты из официального Telegram-канала университета",
    "Президент Dr. Solomon Abegaze упомянут как президент в посте от 25.09.2026; в марте 2025 СМИ называли президентом Anegagregn Gashaw — смена руководства",
    "Сентябрь 2026: идёт конкурс на должности вице-президентов",
-   "Телефон, почтовый ящик и e-mail международного отдела не подтверждены; dtu@dtu.edu.et — официальный общий адрес, указанный в Telegram-канале"
+   "Телефон, почтовый ящик и e-mail международного отдела не подтверждены; dtu@dtu.edu.et — официальный общий адрес, указанный в Telegram-канале",
+   "Перепроверка: 04.10.2026: сайт dtu.edu.et по-прежнему блокирует доступ; президент Dr. Solomon Abegaze повторно подтверждён в последних постах официального Telegram-канала (сентябрь 2026); телефон и международный e-mail не найдены."
   ],
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "Dr. Solomon Abegaze",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Dr. Solomon,"
+  "salutation": "Dear Dr. Solomon,",
+  "recheck_ru": "04.10.2026: сайт dtu.edu.et по-прежнему блокирует доступ; президент Dr. Solomon Abegaze повторно подтверждён в последних постах официального Telegram-канала (сентябрь 2026); телефон и международный e-mail не найдены."
  },
  {
   "country": "Ethiopia",
@@ -436,12 +438,14 @@
    "Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)",
    "Сайт ambou.edu.et недоступен (ошибка базы данных HTTP 500 на всех страницах, 04.10.2026) — контакты не проверены",
    "Поисковая выдача (на основе Википедии) называет президентом Dr. Bayissa Leta — НЕ подтверждено официальным источником, поле оставлено пустым",
-   "Нужна повторная проверка сайта позже: страницы president-message и president-office-head существуют в поисковом индексе"
+   "Нужна повторная проверка сайта позже: страницы president-message и president-office-head существуют в поисковом индексе",
+   "Перепроверка: Сайт ambou.edu.et недоступен (ERR_ADDRESS_UNREACHABLE через reader-сервис, сброс соединения через прокси, 04.10.2026); данные не изменены."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations and Partnerships,"
+  "salutation": "Dear Director of International Relations and Partnerships,",
+  "recheck_ru": "Сайт ambou.edu.et недоступен (ERR_ADDRESS_UNREACHABLE через reader-сервис, сброс соединения через прокси, 04.10.2026); данные не изменены."
  },
  {
   "country": "Ethiopia",
@@ -557,12 +561,15 @@
    "Президент Dr. Diriba Eticha Tujuba (PhD) указан на главной странице; новость от 09.04.2026 упоминает его как президента (Dr. Diriba Iticha)",
    "На новом сайте контакты (e-mail, телефон) не отображаются — страница 'Contact Us' содержит только форму",
    "По поисковой выдаче (старая версия сайта, не открылась): info@gmu.edu.et, тел. +251 47 551 1923 — НЕ подтверждено, в поля не внесено",
-   "Существует Директорат исследований, международных связей и партнёрств, но его руководитель и e-mail не опубликованы"
+   "Существует Директорат исследований, международных связей и партнёрств, но его руководитель и e-mail не опубликованы",
+   "Повторная проверка 04.10.2026: главная страница gmu.edu.et (©2026) по-прежнему называет президентом Dr. Diriba Eticha Tujuba; страницы President Office и Contact Us рендерятся JS без контактов — e-mail/телефон не подтверждены",
+   "Перепроверка: Президент повторно подтверждён на сайте (новости 2026), но официальных e-mail/телефона нет — уровень low сохранён"
   ],
   "mailbox_owner": "",
   "addressee_name": "Dr. Diriba Eticha Tujuba",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Dr. Diriba,"
+  "salutation": "Dear Dr. Diriba,",
+  "recheck_ru": "Президент повторно подтверждён на сайте (новости 2026), но официальных e-mail/телефона нет — уровень low сохранён"
  },
  {
   "country": "Ethiopia",
@@ -597,12 +604,15 @@
    "Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)",
    "Сайт kue.edu.et недоступен (ошибка базы данных HTTP 500, 04.10.2026) — контакты и руководство не проверены",
    "Поисковая выдача называет президентом Dr. Teshome Nekatibeb (teshome.nekatibeb@kue.edu.et) — НЕ подтверждено открытой страницей; по другим данным, прежний президент Dr. Berhanemeskel Tena перешёл в Madda Walabu University",
-   "name_native и city — по общепринятым данным; университет педагогический (бывш. Kotebe Metropolitan University)"
+   "name_native и city — по общепринятым данным; университет педагогический (бывш. Kotebe Metropolitan University)",
+   "Повторная проверка 04.10.2026: kue.edu.et (страницы President's Message, Senate Members) — HTTP 500/сброс соединения; поисковая выдача по-прежнему указывает Dr. Teshome Nekatibeb как президента и Dr. Berhanemeskel Tena как основателя-президента 2021–2026",
+   "Перепроверка: Сайт kue.edu.et по-прежнему недоступен (HTTP 500/сброс, 04.10.2026); данные не изменены — президент (по выдаче Dr. Teshome Nekatibeb) не подтверждён"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations and Partnerships,"
+  "salutation": "Dear Director of International Relations and Partnerships,",
+  "recheck_ru": "Сайт kue.edu.et по-прежнему недоступен (HTTP 500/сброс, 04.10.2026); данные не изменены — президент (по выдаче Dr. Teshome Nekatibeb) не подтверждён"
  },
  {
   "country": "Ethiopia",
@@ -677,12 +687,14 @@
    "Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)",
    "Сайт — SPA; его API (api.maddauni.online) возвращает 502, поэтому страницы президента, контактов и Директората исследований, интернационализации и партнёрств не открылись",
    "Президент Dr. Berhanemeskel Tena (PhD) — по поисковому индексу официальной страницы mwu.edu.et/administration/president и Википедии (назначен в 2024 г., ранее — основатель-президент Kotebe University of Education); сам текст страницы не просмотрен — проверить",
-   "E-mail и телефон не подтверждены; в структуре сайта есть 'Research Internationalization and Partnership Directorate'"
+   "E-mail и телефон не подтверждены; в структуре сайта есть 'Research Internationalization and Partnership Directorate'",
+   "Перепроверка: Сайт mwu.edu.et (SPA) снова не отдал данные: API api.maddauni.online отвечает 502, в JS-бандле контактов нет; данные не изменены (04.10.2026)"
   ],
   "mailbox_owner": "",
   "addressee_name": "Dr. Berhanemeskel Tena",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Dr. Berhanemeskel,"
+  "salutation": "Dear Dr. Berhanemeskel,",
+  "recheck_ru": "Сайт mwu.edu.et (SPA) снова не отдал данные: API api.maddauni.online отвечает 502, в JS-бандле контактов нет; данные не изменены (04.10.2026)"
  },
  {
   "country": "Ethiopia",
@@ -697,10 +709,10 @@
   "email_international": "",
   "phone": "",
   "website": "https://adu.edu.et",
-  "head_name": "",
+  "head_name": "Dr. Gebremichael Woldegabriel (W/Gabriel)",
   "head_title": "President",
   "party_secretary": "",
-  "head_verified_source": "",
+  "head_verified_source": "https://adu.edu.et/2026/06/20/; https://adu.edu.et/2026/07/ (official site news archives 06–07.2026, search snippets; site unreachable)",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -711,18 +723,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://adu.edu.et (HTTP 503 / unreachable, Oct 2026); https://adu.edu.et/2026/06/20/ (search index only)",
+  "sources": "https://adu.edu.et (HTTP 503 / unreachable, Oct 2026); https://adu.edu.et/2026/06/20/ (search index only); https://adu.edu.et/2026/06/20/ (snippet)",
   "confidence": "low",
   "notes_ru": [
    "Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)",
-   "Университет в Тыграе; сайт adu.edu.et недоступен (503 / нет соединения, 04.10.2026)",
-   "По поисковому индексу официального сайта: выпуск 524 студентов (июнь 2026) — университет, по-видимому, работает; президентом в публикации от 20.06.2026 назван Gebremichael Woldegabriel — НЕ подтверждено открытой страницей",
-   "Перед рассылкой учесть ситуацию с доступом/связью в Тыграе и проверить актуальность руководства"
+   "Университет в Тыграе; сайт adu.edu.et недоступен (503 / сброс соединения, повторно 04.10.2026); e-mail и телефон не найдены",
+   "Президент Dr. Gebremichael Woldegabriel — по поисковой выдаче официального сайта (выпуск 524 студентов 20.06.2026, новости июля 2026); открытой страницей НЕ подтверждено",
+   "Перед рассылкой учесть ситуацию с доступом/связью в Тыграе",
+   "Перепроверка: Сайт adu.edu.et по-прежнему недоступен; президент Dr. Gebremichael Woldegabriel внесён по выдаче официальных новостей сайта (06–07.2026), страницы не открыты — контакты не найдены"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations and Partnerships,"
+  "salutation": "Dear Director of International Relations and Partnerships,",
+  "recheck_ru": "Сайт adu.edu.et по-прежнему недоступен; президент Dr. Gebremichael Woldegabriel внесён по выдаче официальных новостей сайта (06–07.2026), страницы не открыты — контакты не найдены"
  },
  {
   "country": "Ethiopia",
@@ -1196,12 +1210,14 @@
   "notes_ru": [
    "Официальный сайт jju.edu.et заблокирован для нашего IP (редирект на страницу блокировки хостинга) — контакты и руководство не проверены; требуется ручная проверка",
    "В Википедии (данные 2022 г.) президентом указан Dr. Bashir Abdulahi Mohamed — для 2026 не подтверждено, поэтому поле оставлено пустым",
-   "Сомалийский регион; спутниковых проектов не найдено"
+   "Сомалийский регион; спутниковых проектов не найдено",
+   "Перепроверка: 04.10.2026: jju.edu.et по-прежнему перенаправляет на страницу блокировки хостинга (technobros.au/blocked.html); данные не изменены"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations and Partnerships,"
+  "salutation": "Dear Director of International Relations and Partnerships,",
+  "recheck_ru": "04.10.2026: jju.edu.et по-прежнему перенаправляет на страницу блокировки хостинга (technobros.au/blocked.html); данные не изменены"
  },
  {
   "country": "Ethiopia",
@@ -1391,12 +1407,14 @@
   "notes_ru": [
    "Официальный сайт ecsu.edu.et недоступен (сброс соединения / 503) — контакты и руководство не проверены, нужна ручная проверка",
    "В Википедии упоминается также домен epsu.edu.et (возможно, переименование в Ethiopian Public Service University) и президент Nigus Tadese (PhD) — не подтверждено на 2026; домен epsu.edu.et тоже недоступен",
-   "Вуз государственной службы (управление, политика, право) — низкая релевантность для спутниковой программы; спутниковых проектов не найдено"
+   "Вуз государственной службы (управление, политика, право) — низкая релевантность для спутниковой программы; спутниковых проектов не найдено",
+   "Перепроверка: Сайты ecsu.edu.et / epsu.edu.et по-прежнему недоступны (04.10.2026); в списке университетов на moe.gov.et вуз не значится; данные не изменены."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations and Partnerships,"
+  "salutation": "Dear Director of International Relations and Partnerships,",
+  "recheck_ru": "Сайты ecsu.edu.et / epsu.edu.et по-прежнему недоступны (04.10.2026); в списке университетов на moe.gov.et вуз не значится; данные не изменены."
  },
  {
   "country": "Ethiopia",

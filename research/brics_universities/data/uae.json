@@ -362,12 +362,15 @@
    "THE2027: в статусе Reporter (не ранжирован).",
    "info@aue.ae — из стороннего каталога, на официальном сайте не подтверждён.",
    "Председатель Попечительского совета — ген.-майор Ahmed Nasser Al-Raisi (по Википедии).",
-   "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено."
+   "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено.",
+   "По поиску на aue.ae есть страница President's Message (aue.ae/presidents-message/) — открыть не удалось (403)",
+   "Перепроверка: 04.10.2026: aue.ae по-прежнему 403; президент Prof. Muthanna G. Abdul Razzaq подтверждается только поиском — данные не изменены."
   ],
   "mailbox_owner": "Общий почтовый ящик университета (info@aue.ae)",
   "addressee_name": "",
   "addressee_title": "Руководитель по международному сотрудничеству",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "recheck_ru": "04.10.2026: aue.ae по-прежнему 403; президент Prof. Muthanna G. Abdul Razzaq подтверждается только поиском — данные не изменены."
  },
  {
   "country": "United Arab Emirates",
@@ -664,15 +667,15 @@
   "ownership": "Государственный (эмират Абу-Даби)",
   "profile_type": "humanities",
   "main_fields": "Teacher Education, Educational Leadership, Special Needs Education, STEM Education, Educational Research",
-  "postal_address": "Emirates College for Advanced Education, P.O. Box 126662, Abu Dhabi, United Arab Emirates",
-  "email_general": "",
+  "postal_address": "Emirates College for Advanced Education, Al Asayil St, Khalifa City (SE-43), Abu Dhabi, United Arab Emirates (P.O. Box 126662 — по Википедии, на сайте не указан)",
+  "email_general": "info@ecae.ac.ae",
   "email_international": "",
-  "phone": "",
+  "phone": "+971 2 509 9888",
   "website": "https://www.ecae.ac.ae",
-  "head_name": "",
-  "head_title": "",
+  "head_name": "Dr. May Laith Al Taee",
+  "head_title": "Vice Chancellor",
   "party_secretary": "",
-  "head_verified_source": "",
+  "head_verified_source": "https://www.ecae.ac.ae/en/about-us/",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -684,18 +687,20 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://en.wikipedia.org/wiki/Emirates_College_for_Advanced_Education; nanosats.csv",
-  "confidence": "low",
+  "confidence": "medium",
   "notes_ru": [
-   "Сайт ecae.ac.ae недоступен (503 / нет ответа), архивных копий нет — контакты не проверены.",
-   "По Википедии (дата не ясна): председатель — H.E. Sarah Yousef Al Amiri; Vice Chancellor — Dr. May Laith Al Taee; P.O. Box 126662 — требуется проверка на 2025–2026.",
+   "Сайт ecae.ac.ae напрямую из нашей сети недоступен; страницы (главная, About us, Contact us) открыты через r.jina.ai 04.10.2026. Кампусы также в Аль-Айне и Аджмане (здания Teacher Training Institution Минобразования).",
+   "Председатель совета (по Википедии) — H.E. Sarah Yousef Al Amiri — на открытых страницах не проверено. Отдельный международный офис и его e-mail на сайте не найдены.",
    "Название на арабском дано по общепринятому написанию — проверить.",
    "Педагогический колледж (подготовка учителей) — релевантен только для образовательной/просветительской части проекта.",
-   "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено."
+   "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено.",
+   "Перепроверка: Сайт ecae.ac.ae открыт через reader-сервис 04.10.2026: Vice Chancellor Dr. May Laith Al Taee, info@ecae.ac.ae, тел. +971 2 509 9888 и адрес кампуса (Khalifa City, Абу-Даби) подтверждены; дата страницы руководства не указана."
   ],
-  "mailbox_owner": "",
-  "addressee_name": "",
-  "addressee_title": "Руководитель по международному сотрудничеству",
-  "salutation": "Dear Director of International Partnerships,"
+  "mailbox_owner": "Общий ящик колледжа",
+  "addressee_name": "Dr. May Laith Al Taee",
+  "addressee_title": "Вице-канцлер (руководитель колледжа)",
+  "salutation": "Dear Dr. Al Taee,",
+  "recheck_ru": "Сайт ecae.ac.ae открыт через reader-сервис 04.10.2026: Vice Chancellor Dr. May Laith Al Taee, info@ecae.ac.ae, тел. +971 2 509 9888 и адрес кампуса (Khalifa City, Абу-Даби) подтверждены; дата страницы руководства не указана."
  },
  {
   "country": "United Arab Emirates",
@@ -751,10 +756,10 @@
   "email_international": "",
   "phone": "",
   "website": "https://www.alqasimia.ac.ae",
-  "head_name": "Prof. Dr. Awad AlKhalaf",
+  "head_name": "Prof. Awad Husain AlKhalaf",
   "head_title": "Chancellor",
   "party_secretary": "",
-  "head_verified_source": "https://www.alqasimia.ac.ae/en/AboutAQU/Pages/UniversityChancellor.aspx",
+  "head_verified_source": "https://www.alqasimia.ac.ae/en/AboutAQU/Pages/BOT.aspx; https://www.alqasimia.ac.ae/en/AboutAQU/Pages/UniversityChancellor.aspx",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -765,18 +770,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.alqasimia.ac.ae/en/AboutAQU/Pages/UniversityChancellor.aspx; https://www.alqasimia.ac.ae/en; nanosats.csv",
+  "sources": "https://www.alqasimia.ac.ae/en/AboutAQU/Pages/UniversityChancellor.aspx; https://www.alqasimia.ac.ae/en; nanosats.csv; https://www.alqasimia.ac.ae/en/AboutAQU/Pages/BOT.aspx",
   "confidence": "low",
   "notes_ru": [
    "Учреждена правителем Шарджи (шейх Султан бин Мухаммад аль-Касими) — тип собственности «эмират Шарджа» вне стандартного списка, проверить.",
    "Сайт (SharePoint) не публикует адрес/телефон/e-mail в доступном HTML; контакты не найдены, поисковая квота исчерпана.",
    "Гуманитарно-исламский профиль — низкая релевантность для CubeSat-проекта.",
-   "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено."
+   "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено.",
+   "Повторная проверка 04.10.2026: страница Board of Trustees называет канцлером HE Prof. Awad Husain AlKhalaf (без даты); председатель попечительского совета — HE Jamal Salim AL Turaifi. Страницы Contact us и External Cooperation пусты; в настройках сайта только шаблонные заглушки (12345, business@support.com) — не использовать",
+   "Перепроверка: Канцлер подтверждён на странице попечительского совета (без даты); контакты на сайте по-прежнему не опубликованы — уровень low сохранён"
   ],
   "mailbox_owner": "",
-  "addressee_name": "Prof. Dr. Awad AlKhalaf",
+  "addressee_name": "Prof. Awad Husain AlKhalaf",
   "addressee_title": "Канцлер университета",
-  "salutation": "Dear Professor AlKhalaf,"
+  "salutation": "Dear Professor AlKhalaf,",
+  "recheck_ru": "Канцлер подтверждён на странице попечительского совета (без даты); контакты на сайте по-прежнему не опубликованы — уровень low сохранён"
  },
  {
   "country": "United Arab Emirates",
@@ -1184,12 +1192,12 @@
   "ownership": "Частный",
   "profile_type": "other",
   "main_fields": "Business, Engineering and IT, Health Sciences, Law, Media and Communication",
-  "postal_address": "",
+  "postal_address": "Liwa University, Saeed Bin Ahmed Al Otaiba Street (ex-Al Najda Street), Al Danah, Baniyas Tower B, P.O. Box 41009, Abu Dhabi, United Arab Emirates (по поисковому индексу lu.ac.ae; не открыто)",
   "email_general": "",
   "email_international": "",
   "phone": "",
   "website": "https://lu.ac.ae",
-  "head_name": "Prof. Mohamed Dhiaf",
+  "head_name": "Prof. Mohamed Mahjoub Dhiaf",
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.education-uae.com/liwa-university-al-ain-campus-launch/",
@@ -1206,15 +1214,17 @@
   "sources": "https://www.education-uae.com/liwa-university-al-ain-campus-launch/",
   "confidence": "low",
   "notes_ru": [
-   "Сайт lu.ac.ae блокирует автоматический доступ (403) — контакты не проверены; по Википедии: P.O. Box 41009, Abu Dhabi, e-mail info@lc.ac.ae (старый домен Liwa College), тел. 600500606 — требуется проверка",
    "Кампусы в Абу-Даби и Эль-Айне (новый кампус в Эль-Айне открыт в 2025)",
    "main_fields — ориентировочно, не проверены по сайту",
-   "THE2027: Reporter (без ранга); nanosats.csv (UAE): записей нет"
+   "THE2027: Reporter (без ранга); nanosats.csv (UAE): записей нет",
+   "Сайт lu.ac.ae по-прежнему за Cloudflare (403, 04.10.2026). По поисковому индексу официальных страниц (lu.ac.ae/our-leadership, профиль вуза): президент Prof. Mohamed Mahjoub Dhiaf, адрес Baniyas Tower B, Al Danah, P.O. Box 41009, Abu Dhabi, тел. 600 500606; e-mail в сниппете скрыт — не внесён (старый info@lc.ac.ae из Википедии не использовать без проверки)",
+   "Перепроверка: Сайт закрыт Cloudflare; по поисковому индексу официальных страниц уточнены полное имя президента и адрес; e-mail не подтверждён"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "recheck_ru": "Сайт закрыт Cloudflare; по поисковому индексу официальных страниц уточнены полное имя президента и адрес; e-mail не подтверждён"
  },
  {
   "country": "United Arab Emirates",
@@ -1365,12 +1375,14 @@
   "notes_ru": [
    "Сайт uowdubai.ac.ae блокирует автоматический доступ (403) — e-mail, телефон и P.O. Box не проверены",
    "Автономный кампус University of Wollongong (Австралия), президент с 2015 г.",
-   "main_fields — ориентировочно; nanosats.csv (UAE): записей нет"
+   "main_fields — ориентировочно; nanosats.csv (UAE): записей нет",
+   "Перепроверка: uowdubai.ac.ae (главная, /contact-us, sitemap) и WebFetch возвращают 403 — данные не изменены (04.10.2026)"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "recheck_ru": "uowdubai.ac.ae (главная, /contact-us, sitemap) и WebFetch возвращают 403 — данные не изменены (04.10.2026)"
  },
  {
   "country": "United Arab Emirates",
@@ -1536,7 +1548,7 @@
   "profile_type": "medical",
   "main_fields": "Nursing, Paramedic / Emergency Medical Services, Pharmacy, Physiotherapy, Radiography and Medical Imaging, Midwifery",
   "postal_address": "Fatima College of Health Sciences, Main Campus, Al Mafraq, Abu Dhabi, United Arab Emirates",
-  "email_general": "",
+  "email_general": "info@fchs.ac.ae",
   "email_international": "",
   "phone": "+971 2 507 8765",
   "website": "https://www.fchs.ac.ae",
@@ -1554,17 +1566,19 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.fchs.ac.ae/contact-us; https://www.fchs.ac.ae/",
-  "confidence": "low",
+  "sources": "https://www.fchs.ac.ae/contact-us; https://www.fchs.ac.ae/; https://www.fchs.ac.ae/api/campuses",
+  "confidence": "medium",
   "notes_ru": [
    "Учреждён в 2006 г. в системе ACTVET (Abu Dhabi Centre for Technical and Vocational Education and Training)",
-   "Кампусы: Абу-Даби (Al Mafraq), Эль-Айн (Al Maqam, +971 3 703 5555), Аль-Дафра (Madinat Zayed), Аджман",
-   "Сайт на JavaScript: e-mail и руководитель не найдены; main_fields — ориентировочно",
-   "Медицинский колледж; nanosats.csv (UAE): записей нет"
+   "Кампусы (официальный сайт): Абу-Даби (Al Mafraq, +971 2 507 8765, info@fchs.ac.ae), Эль-Айн (Al Maqam, +971 3 703 5555, alain@fchs.ac.ae), Аль-Дафра (Madinat Zayed, +971 2 898 6915, aldhafra@fchs.ac.ae), Аджман (+971 6 701 7200, ajman@fchs.ac.ae)",
+   "Руководитель колледжа (декан/директор) на сайте не указан; main_fields — ориентировочно",
+   "Медицинский колледж; nanosats.csv (UAE): записей нет",
+   "Перепроверка: Общий e-mail info@fchs.ac.ae, телефон и кампусы подтверждены через официальный API сайта fchs.ac.ae (обновл. 06.2026); руководитель не найден"
   ],
-  "mailbox_owner": "",
+  "mailbox_owner": "Fatima College of Health Sciences (general inbox, Abu Dhabi campus)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "recheck_ru": "Общий e-mail info@fchs.ac.ae, телефон и кампусы подтверждены через официальный API сайта fchs.ac.ae (обновл. 06.2026); руководитель не найден"
  }
 ]

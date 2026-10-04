@@ -443,15 +443,15 @@
   "ownership": "Частный",
   "profile_type": "other",
   "main_fields": "Pharmacy, Dentistry, Engineering, Computer Science & IT, Mass Communication, Business Administration",
-  "postal_address": "4th Industrial Zone, Banks Complex, 6th of October City, Giza, Egypt",
+  "postal_address": "Banks Complex Street, Fourth Industrial Zone, 6th of October City, Giza, Egypt",
   "email_general": "info@acu.edu.eg",
   "email_international": "",
-  "phone": "+20 2 38333078",
-  "website": "https://www.acu.edu.eg",
-  "head_name": "Prof. Amal Fawzy Ahmed",
+  "phone": "19228 (hotline, Egypt)",
+  "website": "https://acu.edu.eg",
+  "head_name": "Prof. Ahmed Mohamed Anani (أ.د. أحمد محمد عناني)",
   "head_title": "President",
   "party_secretary": "",
-  "head_verified_source": "https://english.ahram.org.eg/NewsContent/1/2/569449/Egypt/Society/Ahram-Canadian-University-achieves-new-milestone-i.aspx",
+  "head_verified_source": "https://acu.edu.eg/about-the-council/university-leaders; https://acu.edu.eg/news (новость 19.07.2026)",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -462,18 +462,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://acu.edu.eg/UI/Front/ContactUs.aspx; https://english.ahram.org.eg/NewsContent/1/2/569449/Egypt/Society/Ahram-Canadian-University-achieves-new-milestone-i.aspx",
-  "confidence": "low",
+  "sources": "https://acu.edu.eg/about-the-council/university-leaders; https://acu.edu.eg/en/contact-us; https://acu.edu.eg/news; https://english.ahram.org.eg/NewsContent/1/2/569449/Egypt/Society/Ahram-Canadian-University-achieves-new-milestone-i.aspx",
+  "confidence": "high",
   "notes_ru": [
    "THE2027: только статус Reporter (без ранга)",
-   "Сайт acu.edu.eg блокирует доступ (403); контакты и имя президента взяты из поисковых выдержек (статья Ahram Online, май 2026) — требуют проверки",
-   "В Википедии/WHED указан прежний президент (Khaled Hamdy Abdel Rahman) — устарело",
-   "Спутниковой активности не найдено"
+   "Сайт www.acu.edu.eg отдаёт 403, но acu.edu.eg (без www) доступен",
+   "Ранее указанный телефон +20 2 38333078 на официальном сайте не найден — заменён горячей линией 19228; отдельный e-mail международного отдела не опубликован (есть раздел «Международные партнёрства»)",
+   "Председатель совета попечителей — проф. Мохамед Фаиз Фархат (глава Al-Ahram)",
+   "Спутниковой активности не найдено",
+   "Перепроверка: Сайт открылся по адресу без www (acu.edu.eg) 04.10.2026: президент — проф. Ахмед Мохамед Анани (страница руководства + новость 19.07.2026), прежнее имя Amal Fawzy Ahmed исправлено; адрес, info@acu.edu.eg и горячая линия 19228 подтверждены на странице контактов."
   ],
   "mailbox_owner": "Общая приёмная университета (General Inquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Сайт открылся по адресу без www (acu.edu.eg) 04.10.2026: президент — проф. Ахмед Мохамед Анани (страница руководства + новость 19.07.2026), прежнее имя Amal Fawzy Ahmed исправлено; адрес, info@acu.edu.eg и горячая линия 19228 подтверждены на странице контактов."
  },
  {
   "country": "Egypt",
@@ -548,12 +551,14 @@
    "THE2027: только статус Reporter (без ранга)",
    "Сайт ksiu.edu.eg недоступен (503); данные из поисковых выдержек официального сайта, дата не подтверждена",
    "Персональный e-mail президента по выдержке: ashraf@ksiu.edu.eg; горячая линия 16949",
-   "Спутниковой активности не найдено"
+   "Спутниковой активности не найдено",
+   "Перепроверка: 04.10.2026: ksiu.edu.eg недоступен (ошибка TLS-цепочки, en.-поддомен — 502); по поиску президент проф. Ashraf Hussein указан на сайте — данные не изменены."
   ],
   "mailbox_owner": "Общая приёмная университета (General Inquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "04.10.2026: ksiu.edu.eg недоступен (ошибка TLS-цепочки, en.-поддомен — 502); по поиску президент проф. Ashraf Hussein указан на сайте — данные не изменены."
  },
  {
   "country": "Egypt",
@@ -603,15 +608,15 @@
   "ownership": "Государственный (Минвысшобразования Египта)",
   "profile_type": "classical",
   "main_fields": "Agriculture & Desert Studies, Education, Nursing, Physical Education, Computers & Information, Tourism",
-  "postal_address": "Administration Building, Km 4, Marsa Matrouh 51511, Matrouh Governorate, Egypt",
+  "postal_address": "Matrouh University, New University Campus, Km 9, Marsa Matrouh, Matrouh Governorate, Egypt",
   "email_general": "",
   "email_international": "",
   "phone": "+20 46 4948489",
   "website": "https://www.mau.edu.eg",
-  "head_name": "Prof. Amr El-Masry",
+  "head_name": "Prof. Amr Ahmed El-Masry",
   "head_title": "President",
   "party_secretary": "",
-  "head_verified_source": "https://www.maspero.eg/our-reporters/2026/09/17/990072/",
+  "head_verified_source": "https://mau.edu.eg/international-relations; https://mau.edu.eg/posts/view?id=18",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -623,16 +628,19 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://www.maspero.eg/our-reporters/2026/09/17/990072/; https://www.wipo.int/tisc/en/search/details.jsp?id=11055",
-  "confidence": "low",
+  "confidence": "medium",
   "notes_ru": [
-   "Сайт mau.edu.eg недоступен — официальный общий и международный e-mail не найдены (в каталоге WIPO только личный адрес сотрудника)",
-   "Президент Amr El-Masry назначен после конкурса (собеседования ноябрь 2025); латинское написание имени по транслитерации",
-   "Спутниковой активности не найдено"
+   "Сайт mau.edu.eg (Blazor, рендер JS) открыт через reader-сервис 04.10.2026: на сайте нет e-mail и телефонов (в т.ч. на странице International Relations) — официальный общий и международный e-mail не найдены (в каталоге WIPO только личный адрес сотрудника).",
+   "Президент назван «President» (новость 01.10.2026) и «Acting President» (сентябрь 2025/2026) — статус и.о. мог измениться после конкурса (собеседования ноябрь 2025).",
+   "Телефон +20 46 4948489 взят ранее из стороннего источника, на официальном сайте не подтверждён. Генеральный секретарь — Walid Yahya.",
+   "Спутниковой активности не найдено",
+   "Перепроверка: Президент Prof. Amr Ahmed El-Masry и адрес кампуса (Km 9) подтверждены на mau.edu.eg 04.10.2026 (новость от 01.10.2026); e-mail на сайте не опубликован; адрес исправлен (было «Km 4»)."
   ],
   "mailbox_owner": "",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "addressee_name": "Prof. Amr Ahmed El-Masry",
+  "addressee_title": "Президент университета",
+  "salutation": "Dear Prof. El-Masry,",
+  "recheck_ru": "Президент Prof. Amr Ahmed El-Masry и адрес кампуса (Km 9) подтверждены на mau.edu.eg 04.10.2026 (новость от 01.10.2026); e-mail на сайте не опубликован; адрес исправлен (было «Km 4»)."
  },
  {
   "country": "Egypt",
@@ -685,12 +693,12 @@
   "postal_address": "Alexandria University Campus, Abis, Alexandria, Egypt",
   "email_general": "info@anu.edu.eg",
   "email_international": "",
-  "phone": "",
+  "phone": "+20 122 885 8407",
   "website": "https://anu.edu.eg",
   "head_name": "Prof. Ahmed Adel Abdel Hakim",
-  "head_title": "Acting President",
+  "head_title": "President",
   "party_secretary": "",
-  "head_verified_source": "https://www.dostor.org/5708804",
+  "head_verified_source": "https://anu.edu.eg/en/president",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -701,17 +709,19 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://anu.edu.eg/en/contact; https://www.dostor.org/5708804; https://www.youm7.com/story/2026/9/20/7552597",
-  "confidence": "low",
+  "sources": "https://anu.edu.eg/en/contact; https://www.dostor.org/5708804; https://www.youm7.com/story/2026/9/20/7552597; https://anu.edu.eg/en/president; https://anu.edu.eg/en/contact",
+  "confidence": "medium",
   "notes_ru": [
    "Национальный (ахлия) университет при Alexandria University; руководство — и.о. (Ahmed Adel Abdel Hakim, он же и.о. президента Alexandria University по данным СМИ, сентябрь 2026)",
-   "Сайт anu.edu.eg недоступен; info@anu.edu.eg и адрес — из поисковой выдержки страницы контактов",
-   "Спутниковой активности не найдено"
+   "Спутниковой активности не найдено",
+   "Сайт anu.edu.eg доступен (04.10.2026): страница «Meet The President» называет Prof. Dr. Ahmed Adel Abdel Hakim президентом; контакты (адрес, info@anu.edu.eg, +201228858407) — на странице Contact; страницы без даты",
+   "Перепроверка: Сайт открылся 04.10.2026: президент, адрес, e-mail info@anu.edu.eg подтверждены, добавлен телефон +20 122 885 8407 (страницы без даты)"
   ],
   "mailbox_owner": "Общая приёмная университета (General Inquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Сайт открылся 04.10.2026: президент, адрес, e-mail info@anu.edu.eg подтверждены, добавлен телефон +20 122 885 8407 (страницы без даты)"
  },
  {
   "country": "Egypt",
@@ -963,10 +973,10 @@
   "email_international": "",
   "phone": "+20 57 2412376",
   "website": "https://du.edu.eg",
-  "head_name": "",
+  "head_name": "Prof. Hamdan Rabie (أ.د. حمدان ربيع)",
   "head_title": "President",
   "party_secretary": "",
-  "head_verified_source": "",
+  "head_verified_source": "https://www.sadaelomma.com/2026/10/blog-post_638.html (СМИ, 03.10.2026)",
   "rank_qs": "",
   "rank_the": "THE2027: 1201–1400",
   "rank_national": "",
@@ -981,13 +991,15 @@
   "confidence": "low",
   "notes_ru": [
    "Официальный сайт du.edu.eg недоступен (503 / обрыв соединения, октябрь 2026); контакты из справочника universitiesegypt.com — требуют сверки",
-   "Имя действующего президента не удалось проверить (сайт недоступен, лимит поиска исчерпан) — уточнить перед отправкой",
-   "Космическая активность не проверялась поиском (лимит исчерпан); в nanosats.csv спутников нет"
+   "Космическая активность не проверялась поиском (лимит исчерпан); в nanosats.csv спутников нет",
+   "Президент д-р Хамдан Рабиа (حمدان ربيع) — подтверждён публикациями СМИ сентября–октября 2026 г. (Sada El-Omma, Al-Dostor); на официальном сайте не проверен (du.edu.eg и med.du.edu.eg недоступны 04.10.2026)",
+   "Перепроверка: Сайт по-прежнему недоступен; по СМИ 10.2026 добавлен президент д-р Хамдан Рабиа; контакты не перепроверены"
   ],
   "mailbox_owner": "Общий ящик университета (General inbox)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Сайт по-прежнему недоступен; по СМИ 10.2026 добавлен президент д-р Хамдан Рабиа; контакты не перепроверены"
  },
  {
   "country": "Egypt",
@@ -1115,15 +1127,15 @@
   "ownership": "Частный",
   "profile_type": "classical",
   "main_fields": "Pharmacy, Dentistry, Engineering, Computer Science & AI, Applied Health Sciences, Business & Languages",
-  "postal_address": "Canal El Mahmoudia Street, beside Green Plaza Complex, Alexandria, Egypt",
+  "postal_address": "Pharos University in Alexandria, Canal El Mahmoudia Street, beside Green Plaza Complex, Smouha, Alexandria, Egypt",
   "email_general": "info@pua.edu.eg",
   "email_international": "",
-  "phone": "+20 3 3877000",
-  "website": "https://pua.edu.eg",
-  "head_name": "Prof. Mahmoud Mohy El Din",
+  "phone": "+20 3 3877700",
+  "website": "https://www.pua.edu.eg",
+  "head_name": "Prof. Mahmoud Mohy El-Din",
   "head_title": "President",
   "party_secretary": "",
-  "head_verified_source": "https://en.wikipedia.org/wiki/Pharos_University_in_Alexandria",
+  "head_verified_source": "https://www.pua.edu.eg/about-pua/message-from-the-president-of-pharos-university/",
   "rank_qs": "",
   "rank_the": "THE2027: 1601–1800",
   "rank_national": "",
@@ -1134,17 +1146,19 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.universitiesegypt.com/pharos-university-alexandria/contacts; https://en.wikipedia.org/wiki/Pharos_University_in_Alexandria",
-  "confidence": "low",
+  "sources": "https://www.pua.edu.eg/; https://www.pua.edu.eg/about-pua/message-from-the-president-of-pharos-university/; https://en.wikipedia.org/wiki/Pharos_University_in_Alexandria",
+  "confidence": "high",
   "notes_ru": [
-   "Официальный сайт pua.edu.eg недоступен (ошибка базы данных, октябрь 2026); контакты из справочника universitiesegypt.com",
-   "Имя президента взято из Википедии, подтверждения 2025–2026 нет — обязательно сверить",
-   "Космическая активность поиском не проверялась (лимит поиска исчерпан); в nanosats.csv спутников нет"
+   "Сайт pua.edu.eg снова доступен (04.10.2026): президент, общий e-mail, телефон и адрес подтверждены; прежний номер +20 3 3877000 из справочника был неверным — исправлен на +20 3 3877700",
+   "На сайте есть ящик International.Students@pua.edu.eg (тел. +20 3 3877872 / 3877886) — офис регистрации иностранных студентов, не отдел партнёрств; отдельный e-mail международного отдела не найден",
+   "Космическая активность поиском не проверялась (лимит поиска исчерпан); в nanosats.csv спутников нет",
+   "Перепроверка: Президент проф. Махмуд Мохи Эль-Дин, info@pua.edu.eg, телефон и адрес подтверждены на pua.edu.eg 04.10.2026; телефон исправлен"
   ],
   "mailbox_owner": "Общий ящик университета (General inbox)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Президент проф. Махмуд Мохи Эль-Дин, info@pua.edu.eg, телефон и адрес подтверждены на pua.edu.eg 04.10.2026; телефон исправлен"
  },
  {
   "country": "Egypt",
@@ -1199,10 +1213,10 @@
   "email_international": "",
   "phone": "",
   "website": "https://www.ecu.edu.eg",
-  "head_name": "",
+  "head_name": "Prof. Dr. Rasha El-Kholy",
   "head_title": "President",
   "party_secretary": "",
-  "head_verified_source": "",
+  "head_verified_source": "https://ecu.edu.eg/about-ecu/university-presidents-message/; https://ecu.edu.eg/about-ecu/university-board-and-management/ (search snippets, site 403); https://eng.yidaiyilu.gov.cn/p/051EE377.html (Belt and Road Portal interview, search snippet)",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -1213,18 +1227,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://ar.wikipedia.org/wiki/الجامعة_المصرية_الصينية",
+  "sources": "https://ar.wikipedia.org/wiki/الجامعة_المصرية_الصينية; https://ecu.edu.eg/about-ecu/university-presidents-message/ (snippet)",
   "confidence": "low",
   "notes_ru": [
-   "Официальный сайт ecu.edu.eg блокирует автоматический доступ (403, Cloudflare); e-mail, телефон и руководство не проверены — найти вручную",
+   "Официальный сайт ecu.edu.eg блокирует автоматический доступ (403, Cloudflare, повторно 04.10.2026); e-mail и телефон не найдены — найти вручную",
+   "Президент Prof. Dr. Rasha El-Kholy — по поисковой выдаче официальных страниц ECU (University President’s Message) и интервью на портале Belt and Road; дата назначения не установлена (предыдущий президент Ashraf El-Shihy, 2017–2023) — перепроверить",
    "Адрес и профиль — только по арабской Википедии",
-   "Космическая активность поиском не проверялась (лимит поиска исчерпан); в nanosats.csv спутников нет",
-   "В THE 2027 — статус Reporter (без ранга)"
+   "Космическая активность поиском не проверялась; в nanosats.csv спутников нет",
+   "В THE 2027 — статус Reporter (без ранга)",
+   "Перепроверка: Сайт ecu.edu.eg по-прежнему 403 (Cloudflare); президент проф. Rasha El-Kholy внесена по выдаче официальных страниц ECU и портала Belt and Road (дата не установлена) — контакты не найдены"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Сайт ecu.edu.eg по-прежнему 403 (Cloudflare); президент проф. Rasha El-Kholy внесена по выдаче официальных страниц ECU и портала Belt and Road (дата не установлена) — контакты не найдены"
  },
  {
   "country": "Egypt",
@@ -1399,10 +1416,10 @@
   "email_international": "",
   "phone": "",
   "website": "https://batechu.com",
-  "head_name": "",
+  "head_name": "Prof. Dr. Mohamed Morsi El-Gohary (محمد مرسي الجوهري)",
   "head_title": "President",
   "party_secretary": "",
-  "head_verified_source": "",
+  "head_verified_source": "https://batechu.com/",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -1414,17 +1431,19 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://batechu.com/; https://batechu.com/contact-us; https://en.wikipedia.org/wiki/Borg_El_Arab_Technological_University",
-  "confidence": "low",
+  "confidence": "medium",
   "notes_ru": [
-   "Официальный сайт (по Википедии) — batechu.com, не в зоне .edu.eg; опубликован только contact@batechu.com, телефон и полный адрес не найдены",
-   "Действующий президент не подтверждён: по Википедии в 2022 г. президентом был назначен (по откомандированию) д-р Мохамед Мурси аль-Гохари — сверить актуальность",
+   "Официальный сайт batechu.com (не в зоне .edu.eg); e-mail contact@batechu.com подтверждён на странице Contact Us; телефон и полный почтовый адрес на сайте не опубликованы",
+   "Президент проф. д-р Мохамед Мурси аль-Гохари — по обращению президента на главной странице официального сайта (подвал © 2026); дата назначения не указана",
    "Форма собственности не подтверждена (технологический университет; в Википедии — «National university»)",
-   "Космическая активность поиском не проверялась (лимит поиска исчерпан); в nanosats.csv спутников нет"
+   "Космическая активность поиском не проверялась (лимит поиска исчерпан); в nanosats.csv спутников нет",
+   "Перепроверка: 04.10.2026: президент и e-mail подтверждены на официальном сайте batechu.com; телефон и адрес не опубликованы"
   ],
   "mailbox_owner": "Общий ящик университета (General inbox)",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "addressee_name": "Prof. Dr. Mohamed Morsi El-Gohary",
+  "addressee_title": "President, Borg El Arab Technological University",
+  "salutation": "Dear Professor El-Gohary,",
+  "recheck_ru": "04.10.2026: президент и e-mail подтверждены на официальном сайте batechu.com; телефон и адрес не опубликованы"
  },
  {
   "country": "Egypt",
@@ -1458,12 +1477,14 @@
   "notes_ru": [
    "Официальный сайт не найден (epsnu.edu.eg недоступен), лимит веб-поиска исчерпан — все контактные поля требуют ручного заполнения",
    "Национальный (ахлия) университет, созданный при государственном Порт-Саидском университете (по арабской Википедии)",
-   "Космическая активность не проверялась; в nanosats.csv спутников нет"
+   "Космическая активность не проверялась; в nanosats.csv спутников нет",
+   "Перепроверка: Домены epsnu.edu.eg недоступны (04.10.2026); на сайте Порт-Саидского университета (psu.edu.eg) ссылки на национальный университет не найдено; данные не изменены."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Домены epsnu.edu.eg недоступны (04.10.2026); на сайте Порт-Саидского университета (psu.edu.eg) ссылки на национальный университет не найдено; данные не изменены."
  },
  {
   "country": "Egypt",
@@ -1636,7 +1657,7 @@
   "postal_address": "International Coastal Road (in front of Industrial Area), Gamasa, Dakahlia Governorate, Egypt",
   "email_general": "info@deltauniv.edu.eg",
   "email_international": "",
-  "phone": "+20 50 2770140",
+  "phone": "15955 (hotline, official site); +20 50 2770140",
   "website": "https://new.deltauniv.edu.eg",
   "head_name": "Dr. Yehia El-Meshad",
   "head_title": "President",
@@ -1653,18 +1674,20 @@
   "agency_partnerships": "",
   "restricted_list": "",
   "sources": "https://new.deltauniv.edu.eg/EN/aboutdu/index; https://www.egyptianeducation.com/delta-university-science-technology/contacts; https://taleemalyoum.com/ (news 2026-06-08); qianmu.org QS2027 list",
-  "confidence": "low",
+  "confidence": "medium",
   "notes_ru": [
-   "Официальный сайт рендерится через JavaScript — руководство и международный отдел на сайте проверить не удалось",
+   "Официальный сайт new.deltauniv.edu.eg рендерится через JavaScript (навигация через JS, страница «президент» отсутствует) — руководство и международный отдел на сайте проверить не удалось; info@deltauniv.edu.eg и горячая линия 15955 подтверждены на сайте 04.10.2026",
    "Президент (Dr. Yehia El-Meshad / يحيى المشد) подтверждён только СМИ (июнь 2026); председатель совета попечителей — Dr. Mohamed Rabie",
-   "Телефон и адрес — со стороннего справочника egyptianeducation.com; горячая линия 15955 (с сайта)",
+   "Телефон +20 50 2770140 и адрес — со стороннего справочника egyptianeducation.com",
    "Не путать с Delta Technological University (جامعة الدلتا التكنولوجية)",
-   "Отдельного международного e-mail не найдено"
+   "Отдельного международного e-mail не найдено",
+   "Перепроверка: Общий e-mail и горячая линия подтверждены на официальном сайте 04.10.2026; президент — по СМИ 06.2026, на сайте не найден."
   ],
   "mailbox_owner": "Общий ящик университета (General Inquiries)",
   "addressee_name": "Dr. Yehia El-Meshad",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Dr. El-Meshad,"
+  "salutation": "Dear Dr. El-Meshad,",
+  "recheck_ru": "Общий e-mail и горячая линия подтверждены на официальном сайте 04.10.2026; президент — по СМИ 06.2026, на сайте не найден."
  },
  {
   "country": "Egypt",
@@ -1700,12 +1723,15 @@
    "Президент Dr. Nasser Abdel-Bary (ناصر عبد الباري) подтверждён СМИ за сен. 2026; в WHED указан устаревший и.о. Ahmed Azab; учёное звание Prof. не проверено",
    "Директор Центра интернационализации (по WHED): Nashwa Suleiman — e-mail не найден",
    "e-mail info@usc.edu.eg и телефон — со стороннего справочника universitiesegypt.com",
-   "В QS2027 не найден"
+   "В QS2027 не найден",
+   "Сайт Минвысобразования Египта (mohesr.gov.eg, 30.08.2025) называл президентом д-р Шаден Муавия (شادن معاوية); СМИ фев. и сен. 2026 — Nasser Abdel-Bary, т.е. вероятна смена руководителя; официального решения о назначении не найдено",
+   "Перепроверка: Сайт usc.edu.eg по-прежнему недоступен (curl/WebFetch 503); на сайте Минвысобразования найдено, что в авг. 2025 президентом была д-р Шаден Муавия — текущий президент Nasser Abdel-Bary (СМИ 2026) официально не подтверждён; контакты не изменены."
   ],
   "mailbox_owner": "Общий ящик университета (General Inquiries)",
   "addressee_name": "Prof. Nasser Abdel-Bary",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Prof. Abdel-Bary,"
+  "salutation": "Dear Prof. Abdel-Bary,",
+  "recheck_ru": "Сайт usc.edu.eg по-прежнему недоступен (curl/WebFetch 503); на сайте Минвысобразования найдено, что в авг. 2025 президентом была д-р Шаден Муавия — текущий президент Nasser Abdel-Bary (СМИ 2026) официально не подтверждён; контакты не изменены."
  },
  {
   "country": "Egypt",
@@ -1820,12 +1846,14 @@
    "ВАЖНО: в сент. 2026 Высший совет университетов объявил конкурс на пост президента (приём заявок с 10.10.2026) — руководитель может смениться в ближайшие месяцы; проверить перед отправкой",
    "Непроверенные (из поисковой выдачи) адреса: president@menofia.edu.eg, menofia@menofia.edu.eg; телефоны из справочников: +20 48 2224216 (edarabia), +20 48 232 9094 (WIPO TISC)",
    "Адрес — по справочнику WIPO TISC",
-   "В QS2027 не найден; космической активности не найдено"
+   "В QS2027 не найден; космической активности не найдено",
+   "Перепроверка: 04.10.2026: menofia.edu.eg недоступен (503/сброс), портал Высшего совета университетов scu.eg не отдаёт данные без JS — данные не изменены."
   ],
   "mailbox_owner": "",
   "addressee_name": "Prof. Ahmed Farag El-Kased",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Prof. El-Kased,"
+  "salutation": "Dear Prof. El-Kased,",
+  "recheck_ru": "04.10.2026: menofia.edu.eg недоступен (503/сброс), портал Высшего совета университетов scu.eg не отдаёт данные без JS — данные не изменены."
  },
  {
   "country": "Egypt",
@@ -2023,12 +2051,14 @@
    "Официальный сайт mansnu.edu.eg недоступен (503 / блокировка прокси); поисковая квота исчерпана — руководство и контакты НЕ проверены",
    "Национальный (ахлия) некоммерческий университет при Mansoura University (кампус 42 федданa в Новой Мансуре); обычно возглавляется президентом Mansoura University — уточнить",
    "Перечень факультетов частичный (по арабской Википедии)",
-   "Космической активности не проверено"
+   "Космической активности не проверено",
+   "Перепроверка: Сайт mansnu.edu.eg (www и без www) недоступен — таймаут через curl и reader-сервис 04.10.2026; данные не изменены."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear President,"
+  "salutation": "Dear President,",
+  "recheck_ru": "Сайт mansnu.edu.eg (www и без www) недоступен — таймаут через curl и reader-сервис 04.10.2026; данные не изменены."
  },
  {
   "country": "Egypt",
@@ -2038,10 +2068,10 @@
   "ownership": "Частный",
   "profile_type": "medical",
   "main_fields": "Oral and Dental Medicine, Pharmacy, Physical Therapy, Health Sciences, Engineering",
-  "postal_address": "New Assiut City, Assiut Governorate, Egypt",
+  "postal_address": "Regional Service Zone, New Assiut City, Assiut Governorate, Egypt",
   "email_general": "Info@Sphinx.edu.eg",
   "email_international": "",
-  "phone": "",
+  "phone": "17090 (короткий номер, Египет)",
   "website": "https://sphinx.edu.eg",
   "head_name": "",
   "head_title": "President",
@@ -2057,19 +2087,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://sphinx.edu.eg/en/home/index; https://ar.wikipedia.org/wiki/جامعة_سفنكس",
+  "sources": "https://sphinx.edu.eg/en/home/index; https://ar.wikipedia.org/wiki/جامعة_سفنكس; https://sphinx.edu.eg/en/home/index",
   "confidence": "low",
   "notes_ru": [
    "Частный университет в Новом Асьюте, создан указом президента №36 от 2019 г.",
    "Сайт почти пустой (JS, без страниц руководства/контактов) — президент не установлен; поисковая проверка невозможна (исчерпана квота поиска)",
    "Опубликован только короткий номер 17090",
    "Международного отдела не найдено; космической активности не найдено",
-   "Точный почтовый адрес (улица) не опубликован"
+   "Точный почтовый адрес (улица) не опубликован",
+   "Повторная проверка 04.10.2026: на сайте нет страниц руководства; по поисковой выдаче (СМИ, не официальный источник) и.о. президента — д-р Мансур Каббаш (منصور كباش) — не подтверждено, в поля не внесено",
+   "Перепроверка: Сайт открылся 04.10.2026: подтверждены только Info@Sphinx.edu.eg, номер 17090 и адрес «Regional service zone, New Assiut»; президент на сайте не указан"
   ],
   "mailbox_owner": "Общий ящик университета (General Inquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear President,"
+  "salutation": "Dear President,",
+  "recheck_ru": "Сайт открылся 04.10.2026: подтверждены только Info@Sphinx.edu.eg, номер 17090 и адрес «Regional service zone, New Assiut»; президент на сайте не указан"
  },
  {
   "country": "Egypt",
@@ -2166,10 +2199,10 @@
   "email_international": "",
   "phone": "",
   "website": "https://nctu.edu.eg",
-  "head_name": "",
+  "head_name": "Dr. Tarek Abdel Malak (د. طارق عبد الملاك)",
   "head_title": "President",
   "party_secretary": "",
-  "head_verified_source": "",
+  "head_verified_source": "https://www.masrawy.com/news/education-universityeducation/details/2026/9/18/3049862/ (СМИ, 18.09.2026)",
   "rank_qs": "",
   "rank_the": "",
   "rank_national": "",
@@ -2183,14 +2216,17 @@
   "sources": "https://www.wikidata.org/wiki/Q100257877; https://ar.wikipedia.org/wiki/جامعة_القاهرة_الجديدة_التكنولوجية",
   "confidence": "low",
   "notes_ru": [
-   "Официальный сайт nctu.edu.eg недоступен (503 / блокировка прокси); поисковая квота исчерпана — руководство и контакты НЕ проверены",
    "Государственный технологический университет (прикладное технологическое образование); подтверждён только факультет технологий промышленности и энергетики (по арабской Википедии)",
-   "Космической активности не проверено"
+   "Космической активности не проверено",
+   "Сайт nctu.edu.eg по-прежнему недоступен (04.10.2026) — контакты не найдены",
+   "Президент д-р Тарек Абдель Малак (طارق عبد الملاك) — по статье Masrawy от 18.09.2026 (выпуск 2025/2026); на официальном сайте не проверен",
+   "Перепроверка: Сайт недоступен; по СМИ 09.2026 добавлен президент д-р Тарек Абдель Малак; контактов по-прежнему нет"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear President,"
+  "salutation": "Dear Dr. Abdel Malak,",
+  "recheck_ru": "Сайт недоступен; по СМИ 09.2026 добавлен президент д-р Тарек Абдель Малак; контактов по-прежнему нет"
  },
  {
   "country": "Egypt",
@@ -2219,18 +2255,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.wikidata.org/wiki/Q105600196; https://ar.wikipedia.org/wiki/جامعة_حلوان_الأهلية; https://www.capu.edu.eg/index.php/ar/",
+  "sources": "https://www.wikidata.org/wiki/Q105600196; https://ar.wikipedia.org/wiki/جامعة_حلوان_الأهلية; https://www.capu.edu.eg/index.php/ar/; https://capu.edu.eg/index.php/ar/about-ar/agreements-and-partnerships/office-of-international-relations",
   "confidence": "low",
   "notes_ru": [
-   "Официальный сайт hnu.edu.eg недоступен (503 / блокировка прокси); поисковая квота исчерпана — руководство и контакты НЕ проверены",
-   "Национальный (ахлия) некоммерческий университет, выделен из Helwan University (65 федданов); материнский Helwan University переименован в Capital University (جامعة العاصمة, capu.edu.eg), президент — Prof. El-Sayed Kandil (السيد قنديل); руководство HNU уточнить",
-   "У Capital University есть Office of International Relations (capu.edu.eg) — возможный канал связи",
-   "Космической активности не проверено"
+   "Официальный сайт hnu.edu.eg недоступен (503 / сброс соединения, проверка 04.10.2026) — руководство и контакты HNU НЕ проверены",
+   "Национальный (ахлия) некоммерческий университет, выделен из Helwan University; материнский вуз переименован в Capital University (جامعة العاصمة, capu.edu.eg). На capu.edu.eg (новость 30.09.2026) подтверждено: президент Capital University — проф. Эль-Сайед Кандиль, он курирует проекты HNU (учебная больница HNU); генеральный секретарь (أمين) HNU — Сайед Атта. Имя президента HNU не найдено",
+   "Возможный канал связи — Офис международных отношений Capital University (capu.edu.eg): директор проф. Мохамед Шими, iroffice@hq.helwan.edu.eg, тел. +20 2 2556 9067 / +20 2 2555 5021 (это контакты материнского вуза, не HNU)",
+   "Космической активности не проверено",
+   "Перепроверка: Сайт hnu.edu.eg недоступен; по capu.edu.eg уточнены связь с Capital University и контакты его международного офиса, руководитель HNU не найден"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear President,"
+  "salutation": "Dear President,",
+  "recheck_ru": "Сайт hnu.edu.eg недоступен; по capu.edu.eg уточнены связь с Capital University и контакты его международного офиса, руководитель HNU не найден"
  },
  {
   "country": "Egypt",
@@ -2362,10 +2400,10 @@
   "email_international": "",
   "phone": "",
   "website": "https://www.gu.edu.eg",
-  "head_name": "",
+  "head_name": "Prof. Dr. Mohamed El-Shinawi",
   "head_title": "President",
   "party_secretary": "",
-  "head_verified_source": "",
+  "head_verified_source": "https://www.gu.edu.eg/2026/06/galala-university-president-speaks-at-international-conference-in-madrid-on-strengthening-public-private-collaboration-in-higher-education (official news 06.2026, search snippet; site unreachable)",
   "rank_qs": "",
   "rank_the": "THE2027: 1001–1200",
   "rank_national": "",
@@ -2376,17 +2414,19 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.timeshighereducation.com/world-university-rankings/galala-university; https://en.wikipedia.org/wiki/Galala_University",
+  "sources": "https://www.timeshighereducation.com/world-university-rankings/galala-university; https://en.wikipedia.org/wiki/Galala_University; https://www.gu.edu.eg/2026/06/galala-university-president-speaks-at-international-conference-in-madrid-on-strengthening-public-private-collaboration-in-higher-education (snippet)",
   "confidence": "low",
   "notes_ru": [
-   "Официальный сайт недоступен из нашей сети (503/таймаут), поиск исчерпан — контакты и руководитель не верифицированы; требуется ручная проверка",
-   "По Википедии (не верифицировано на 2025–2026) президент — Dr. Mohamed El-Shinawi",
-   "Партнёрство с Arizona State University (двойные дипломы); спутниковых проектов не найдено"
+   "Официальный сайт gu.edu.eg недоступен из нашей сети (503 / ошибка TLS, повторно 04.10.2026) — контакты не верифицированы; требуется ручная проверка",
+   "Президент Prof. Dr. Mohamed El-Shinawi (проф. хирургии Ain Shams) — по официальным новостям gu.edu.eg 2026 г., видимым в поисковой выдаче",
+   "Партнёрство с Arizona State University (двойные дипломы); спутниковых проектов не найдено",
+   "Перепроверка: Президент проф. Mohamed El-Shinawi подтверждается официальными новостями gu.edu.eg (06.2026) по поисковой выдаче; сайт по-прежнему недоступен — контакты не найдены"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Президент проф. Mohamed El-Shinawi подтверждается официальными новостями gu.edu.eg (06.2026) по поисковой выдаче; сайт по-прежнему недоступен — контакты не найдены"
  },
  {
   "country": "Egypt",
@@ -2498,12 +2538,14 @@
   "notes_ru": [
    "Официальный сайт недоступен из нашей сети (503/таймаут), поиск исчерпан — контакты и руководитель не верифицированы; требуется ручная проверка",
    "По Википедии (не верифицировано) президент — Abdul Azim Al-Sharkawy",
-   "Не путать с Suez Canal University (Исмаилия), которая подписала протокол с EgSA в 2021 г."
+   "Не путать с Suez Canal University (Исмаилия), которая подписала протокол с EgSA в 2021 г.",
+   "Перепроверка: 04.10.2026: сайт suezuni.edu.eg по-прежнему недоступен (curl — нет соединения, WebFetch — 503); данные не изменены"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "04.10.2026: сайт suezuni.edu.eg по-прежнему недоступен (curl — нет соединения, WebFetch — 503); данные не изменены"
  },
  {
   "country": "Egypt",
@@ -2731,12 +2773,14 @@
   "notes_ru": [
    "Официальный сайт недоступен из нашей сети (503/таймаут), поиск исчерпан — контакты и руководитель не верифицированы; требуется ручная проверка",
    "Описание в профиле THE скопировано с государственного Menoufia University — не использовать его для профиля",
-   "Национальный (ахлия) университет при Menoufia University — проверить точное название и руководство"
+   "Национальный (ахлия) университет при Menoufia University — проверить точное название и руководство",
+   "Перепроверка: Сайты mnu.menofia.education, mnu.edu.eg и menofia.edu.eg недоступны (04.10.2026, сброс соединения); данные не изменены."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Сайты mnu.menofia.education, mnu.edu.eg и menofia.edu.eg недоступны (04.10.2026, сброс соединения); данные не изменены."
  },
  {
   "country": "Egypt",
@@ -2807,14 +2851,17 @@
   "sources": "https://www.timeshighereducation.com/world-university-rankings/alamein-international-university; https://en.wikipedia.org/wiki/Alamein_International_University",
   "confidence": "low",
   "notes_ru": [
-   "Официальный сайт недоступен из нашей сети (503/таймаут), поиск исчерпан — контакты и руководитель не верифицированы; требуется ручная проверка",
-   "По Википедии (не верифицировано) президент — Prof. Dr. Essam Elkordi",
-   "Арабское название не сверено с официальным сайтом"
+   "Официальный сайт aiu.edu.eg (http/https, www) по-прежнему недоступен из нашей сети (503/таймаут, в т.ч. через WebFetch) — контакты и руководитель не верифицированы; требуется ручная проверка",
+   "По Википедии и поисковой выдаче (без даты/официального источника) президент — Prof. Dr. Essam Elkordi (عصام الكردي); председатель совета — Dr. Ahmed Mahmoud — не подтверждено, в поля не внесено",
+   "Вуз активен в международной работе (участие в EAIE 2026, Глазго — по СМИ)",
+   "Арабское название не сверено с официальным сайтом",
+   "Перепроверка: Сайт недоступен; данные не изменены (президент Essam Elkordi — только по вторичным источникам)."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Сайт недоступен; данные не изменены (президент Essam Elkordi — только по вторичным источникам)."
  },
  {
   "country": "Egypt",
@@ -2886,11 +2933,13 @@
   "confidence": "low",
   "notes_ru": [
    "Официальный сайт не найден/недоступен; веб-поиск исчерпан — все контакты требуют ручной проверки",
-   "Создан в 2020–2021 на базе филиала South Valley University в Хургаде (по арабской Википедии)"
+   "Создан в 2020–2021 на базе филиала South Valley University в Хургаде (по арабской Википедии)",
+   "Перепроверка: Официальный домен не найден (варианты hurghada.edu.eg, hurghadauniv.edu.eg и др. недоступны); сайт Минвысобразования (mohesr.gov.eg, 30.08.2025) подтверждает существование вуза (утверждение фирменного стиля Хургадского университета Высшим советом университетов), но руководителя и контактов не даёт; данные не изменены."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "recheck_ru": "Официальный домен не найден (варианты hurghada.edu.eg, hurghadauniv.edu.eg и др. недоступны); сайт Минвысобразования (mohesr.gov.eg, 30.08.2025) подтверждает существование вуза (утверждение фирменного стиля Хургадского университета Высшим советом университетов), но руководителя и контактов не даёт; данные не изменены."
  }
 ]
