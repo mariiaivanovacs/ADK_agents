@@ -4,6 +4,7 @@ Usage: python build_xlsx.py OUT.xlsx batch1.json [batch2.json ...]
 """
 import datetime
 import json
+import os
 import re
 import sys
 
@@ -105,6 +106,7 @@ COLUMNS = [
     ("Рейтинг QS", "rank_qs", 13),
     ("Рейтинг THE", "rank_the", 13),
     ("Национальный рейтинг", "rank_national", 16),
+    ("Рейтинг Webometrics (мир)", "rank_webometrics", 16),
     ("Запущено КА (спутников)", "satellites_launched", 10),
     ("Названия запущенных КА (год)", lambda r: bullets(r.get("satellite_names")), 45),
     ("КА в разработке", lambda r: bullets(r.get("sats_in_development")), 30),
@@ -173,7 +175,11 @@ def wave(r):
     return "3"
 
 
-_mx_cache = {}
+MX_CACHE_PATH = os.path.join(os.path.dirname(__file__), "data", "mx_cache.json")
+try:
+    _mx_cache = json.load(open(MX_CACHE_PATH))
+except Exception:
+    _mx_cache = {}
 
 
 def mx_ok(*emails):
@@ -268,6 +274,7 @@ def main(out, paths):
     for country in sorted({r["country"] for r in rows}):
         write_sheet(wb.create_sheet(COUNTRY_RU.get(country, country)), [r for r in rows if r["country"] == country])
     wb.save(out)
+    json.dump(_mx_cache, open(MX_CACHE_PATH, "w"))
 
     csv_path = out.rsplit(".", 1)[0] + ".csv"
     import csv
