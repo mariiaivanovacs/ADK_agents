@@ -226,6 +226,14 @@ def main(out, paths):
     rows = []
     for p in paths:
         rows += json.load(open(p, encoding="utf-8"))
+    keys_path = os.environ.get("BRICS_KEYS")
+    if keys_path:
+        keys = json.load(open(keys_path, encoding="utf-8"))
+        inside = os.environ.get("BRICS_KEYMODE", "in") == "in"
+        rows = [r for r in rows if ((r["country"] + "|" + r["name_en"]) in keys) == inside]
+        if inside:
+            COLUMNS.append(("Почему вынесен (не подтверждено)",
+                            lambda r: keys.get(r["country"] + "|" + r["name_en"], ""), 40))
     today = datetime.date.today().isoformat()
     for r in rows:
         r["satellites_launched"] = int(r.get("satellites_launched") or 0)

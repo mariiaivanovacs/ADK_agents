@@ -16,9 +16,9 @@
   "head_title": "Director General",
   "party_secretary": "",
   "head_verified_source": "https://www.ena.et/web/eng/w/eng_8078738",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 2,
   "satellite_names": "ETRSS-1 (2019); ET-SMART-RSS (2020)",
   "sats_in_development": "ETRSS-2 (0.5 m EO satellite, joint development with Shanghai Engineering Center for Microsatellites; launch planned Dec 2026); domestic satellite AIT centre planned with Roscosmos support",
@@ -33,14 +33,16 @@
    "ETRSS-1 (2019) и ET-SMART-RSS (2020) построены в кооперации с Китаем; по данным ENA (янв. 2026) оба завершили срок службы",
    "Адрес partnerships@ssgi.gov.et указан на сайте как контакт службы промышленного сотрудничества и партнёрств; отдельного международного отдела на сайте не найдено",
    "Написание имени: Abdissa Yilma (сайт SSGI) / Abdisa Yilma (СМИ); на сайте SSGI указан как PhD, Fana пишет 'Mr.'",
-   "Идут переговоры с Роскосмосом о центре сборки/испытаний спутников (апр. 2026) — благоприятный контекст для БРИКС-сотрудничества"
+   "Идут переговоры с Роскосмосом о центре сборки/испытаний спутников (апр. 2026) — благоприятный контекст для БРИКС-сотрудничества",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Служба промышленного сотрудничества и партнёрств SSGI",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director General Dr. Abdissa Yilma,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Ethiopia",
@@ -59,9 +61,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.aastu.edu.et/president-office/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -69,19 +71,21 @@
   "space_units": "Joint Aerospace Engineering Postgraduate Program with SSGI (M.Sc. Space Engineering, M.Sc. Aeronautical Engineering — drones, CubeSats, rockets)",
   "agency_partnerships": "Space Science and Geospatial Institute (SSGI) — joint aerospace postgraduate program",
   "restricted_list": "",
-  "sources": "https://www.aastu.edu.et/; https://www.aastu.edu.et/president-office/; https://www.aastu.edu.et/international-relations-and-partnerships/; https://ssgi.gov.et/api/api/news (Aerospace Engineering Postgraduate Program)",
+  "sources": "https://www.aastu.edu.et/; https://www.aastu.edu.et/president-office/; https://www.aastu.edu.et/international-relations-and-partnerships/; https://ssgi.gov.et/api/api/news (Aerospace Engineering Postgraduate Program)\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "high",
   "notes_ru": [
    "Спутников на орбите не найдено; совместная магистратура по аэрокосмической инженерии с SSGI (включая CubeSat) — хорошая точка входа",
    "Телефон +251 11 462 4178 найден в исходном коде страницы офиса президента (не отображается на странице) — проверить",
-   "Альтернативный личный адрес директора: biniam.atnafe@aastu.edu.et; моб. +251 911 995 069; директор офиса президента — Solomon Molla Alemu (PhD), po.director@aastu.edu.et"
+   "Альтернативный личный адрес директора: biniam.atnafe@aastu.edu.et; моб. +251 911 995 069; директор офиса президента — Solomon Molla Alemu (PhD), po.director@aastu.edu.et",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Управление международных связей и партнёрств",
   "addressee_name": "Dr. Biniam Atnafe Beyene",
   "addressee_title": "Директор по международным связям и партнёрствам",
   "salutation": "Dear Dr. Biniam,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "3527"
  },
  {
   "country": "Ethiopia",
@@ -100,9 +104,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.bdu.edu.et/node/131",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -110,21 +114,23 @@
   "space_units": "Washera Geospace and Radar Science Laboratory (WaGRL, College of Science); Geospatial Data & Technology Center; Bahir Dar Institute of Technology",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.bdu.edu.et/; https://www.bdu.edu.et/node/131; https://www.bdu.edu.et/wagrl/; https://bdu.edu.et/node/160; https://t.me/s/bahir_dar_university",
+  "sources": "https://www.bdu.edu.et/; https://www.bdu.edu.et/node/131; https://www.bdu.edu.et/wagrl/; https://bdu.edu.et/node/160; https://t.me/s/bahir_dar_university\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Спутников на орбите не найдено; есть лаборатория геокосмоса и радаров (ионосфера, TEC-модели, обучение школьников по спутниковым технологиям)",
    "Президент с 19.06.2024 — Dr. Mengesha Ayene Ejigu (послание на сайте датировано 25.06.2024; более поздняя официальная страница не найдена)",
    "Действует Дирекция внешних связей и партнёрств; в Telegram (окт. 2026) указан только gmail: bduexternalrelations@gmail.com; официального e-mail на сайте bdu.edu.et не найдено",
    "Старые данные (IIE, 2023): директор внешних связей Dr. Manendante Mulugeta — актуальность не подтверждена",
-   "Почтовый ящик (P.O. Box) на сайте не подтверждён; основатели — при поддержке ЮНЕСКО и правительства СССР/России (упомянуто в послании президента)"
+   "Почтовый ящик (P.O. Box) на сайте не подтверждён; основатели — при поддержке ЮНЕСКО и правительства СССР/России (упомянуто в послании президента)",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Общий почтовый ящик университета (информационный офис)",
   "addressee_name": "Dr. Mengesha Ayene Ejigu",
   "addressee_title": "Президент университета",
   "salutation": "Dear Dr. Mengesha,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "2237"
  },
  {
   "country": "Ethiopia",
@@ -143,9 +149,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://ju.edu.et/jimma-university-president-outlines-vision-for-institutional-autonomy-and-global-impact-in-address-to-academic-staff/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -153,20 +159,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://ju.edu.et/; https://ju.edu.et/presidents-message/; https://ju.edu.et/contact-us/; https://ju.edu.et/internationalization-and-institutional-collaboration/; https://ju.edu.et/jimma-university-president-outlines-vision-for-institutional-autonomy-and-global-impact-in-address-to-academic-staff/",
+  "sources": "https://ju.edu.et/; https://ju.edu.et/presidents-message/; https://ju.edu.et/contact-us/; https://ju.edu.et/internationalization-and-institutional-collaboration/; https://ju.edu.et/jimma-university-president-outlines-vision-for-institutional-autonomy-and-global-impact-in-address-to-academic-staff/\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)",
    "Президент Dr. Dereje Engida (PhD, доцент) подтверждён новостью сайта от 23.09.2026; в новостях пишется также 'Engeda'; личный e-mail президента: dereje.engida@ju.edu.et",
    "ero@ju.edu.et — единственный общий адрес на сайте (страница контактов); отдельный e-mail международного отдела не опубликован",
-   "На странице 'Internationalization and Institutional Collaboration' для потенциальных международных партнёров указан Mr. Addisalem Taye (taye.addisalem@ju.edu.et); дата страницы неизвестна — актуальность не подтверждена"
+   "На странице 'Internationalization and Institutional Collaboration' для потенциальных международных партнёров указан Mr. Addisalem Taye (taye.addisalem@ju.edu.et); дата страницы неизвестна — актуальность не подтверждена",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Общий адрес университета (ero@, указан на странице контактов)",
   "addressee_name": "Dr. Dereje Engida",
   "addressee_title": "Президент университета",
   "salutation": "Dear Dr. Dereje,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "2187"
  },
  {
   "country": "Ethiopia",
@@ -185,9 +193,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://uog.edu.et/presidents-message/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -195,20 +203,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://uog.edu.et/; https://uog.edu.et/presidents-message/; https://uog.edu.et/contact-us/; https://uog.edu.et/international-relations-and-partnerships-directorate/",
+  "sources": "https://uog.edu.et/; https://uog.edu.et/presidents-message/; https://uog.edu.et/contact-us/; https://uog.edu.et/international-relations-and-partnerships-directorate/\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)",
    "Президент Yechale Kebede, PhD — по странице 'President’s Message' на официальном сайте (дата страницы не указана); e-mail президента: yechale.kebede@uog.edu.et",
    "Директорат международных связей и партнёрств создан как отдельное подразделение в ноябре 2024 г.; директор — Solomon Girma Yabowork, PhD, тел. +251 92 057 0919",
-   "Почтовый ящик 196 взят со страницы контактов (число '196' рядом с 'President Building') — проверить; общий тел. на странице контактов: +251 588 940 290"
+   "Почтовый ящик 196 взят со страницы контактов (число '196' рядом с 'President Building') — проверить; общий тел. на странице контактов: +251 588 940 290",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Директорат международных связей и партнёрств",
   "addressee_name": "Dr. Solomon Girma Yabowork",
   "addressee_title": "Директор по международным связям и партнёрствам",
   "salutation": "Dear Dr. Solomon,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "1299"
  },
  {
   "country": "Ethiopia",
@@ -227,9 +237,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.amu.edu.et/en/amu-holds-annual-grants-and-publication-day-honors-excellence-in-research-grant-acquisition-and-scholarly-publication",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -237,21 +247,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.amu.edu.et/en/; https://www.amu.edu.et/en/administration/presidents-office/amu-president; https://www.amu.edu.et/en/amu-holds-annual-grants-and-publication-day-honors-excellence-in-research-grant-acquisition-and-scholarly-publication; https://www.amu.edu.et/en/amu-sifa-project-undergoes-progress-monitoring-with-donors-and-stakeholders; https://www.amu.edu.et/en/partnership/our-partners/international-partners",
+  "sources": "https://www.amu.edu.et/en/; https://www.amu.edu.et/en/administration/presidents-office/amu-president; https://www.amu.edu.et/en/amu-holds-annual-grants-and-publication-day-honors-excellence-in-research-grant-acquisition-and-scholarly-publication; https://www.amu.edu.et/en/amu-sifa-project-undergoes-progress-monitoring-with-donors-and-stakeholders; https://www.amu.edu.et/en/partnership/our-partners/international-partners\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)",
    "Президент Dr.-Ing. Abdella Kemal подтверждён новостями сайта от 25–28.09.2026",
    "profile_type 'technical/aerospace' условно — ядро университета инженерно-водохозяйственное (AWTI, AMiT); аэрокосмических подразделений не найдено",
    "corcom@amu.edu.et — адрес службы корпоративных коммуникаций (общий адрес сайта); e-mail Директората интернационализации и сотрудничества не опубликован; партнёрствами также занимается офис GCPM при вице-президенте по исследованиям",
-   "Тел. +251 46 881 0771 — офис президента (Management Building); пресс-служба: +251 46 881 4986"
+   "Тел. +251 46 881 0771 — офис президента (Management Building); пресс-служба: +251 46 881 4986",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Служба корпоративных коммуникаций (общий адрес)",
   "addressee_name": "Dr.-Ing. Abdella Kemal Mohammed",
   "addressee_title": "Президент университета",
   "salutation": "Dear Dr. Abdella,",
   "match_status": "ПРОВЕРИТЬ",
-  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",
+  "rank_webometrics": "3299"
  },
  {
   "country": "Ethiopia",
@@ -270,9 +282,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.dmu.edu.et/?page_id=469",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -280,20 +292,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.dmu.edu.et/; https://www.dmu.edu.et/?page_id=469; https://www.dmu.edu.et/?page_id=1349; https://www.dmu.edu.et/?page_id=562",
+  "sources": "https://www.dmu.edu.et/; https://www.dmu.edu.et/?page_id=469; https://www.dmu.edu.et/?page_id=1349; https://www.dmu.edu.et/?page_id=562\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)",
    "Президент Dr. Sayeh Kassaw назначен Минобразования 24.01.2024 (шестой президент); личный e-mail: Sayeh_kassaw@dmu.edu.et, тел. +251 58 771 1646",
    "Директорат международных связей в исследованиях и партнёрствах: директор Getnet Atenafu (PhD, доцент), тел. +251 912 080 282, личный gmail getnet.atenafu@gmail.com; официальный ящик директората — projectd.partnership@dmu.edu.et",
-   "prcd@dmu.edu.et — общий адрес в шапке сайта (по-видимому, директорат по связям с общественностью)"
+   "prcd@dmu.edu.et — общий адрес в шапке сайта (по-видимому, директорат по связям с общественностью)",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Директорат международных связей в исследованиях и партнёрствах",
   "addressee_name": "Dr. Getnet Atenafu",
   "addressee_title": "Директор по международным связям в исследованиях и партнёрствам",
   "salutation": "Dear Dr. Getnet,",
   "match_status": "ПРОВЕРИТЬ",
-  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",
+  "rank_webometrics": "4866"
  },
  {
   "country": "Ethiopia",
@@ -312,9 +326,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.wsu.edu.et/pages/pres_mess-sm-kk",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -322,20 +336,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.wsu.edu.et/; https://www.wsu.edu.et/pages/pres_mess-sm-kk; https://www.wsu.edu.et/pages/adm_pres-sm-kk; https://www.wsu.edu.et/news/3; https://www.wsu.edu.et/boardmembers",
+  "sources": "https://www.wsu.edu.et/; https://www.wsu.edu.et/pages/pres_mess-sm-kk; https://www.wsu.edu.et/pages/adm_pres-sm-kk; https://www.wsu.edu.et/news/3; https://www.wsu.edu.et/boardmembers\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)",
    "Президент Guchie Gulie Sulla (PhD) указан на странице 'Message from the President'; последнее датированное упоминание в новостях сайта — май 2024; более свежего подтверждения (2025–2026) не найдено",
    "Личный e-mail президента: guchie.gulie@wsu.edu.et",
-   "При офисе президента есть Директорат международных связей, но его e-mail и руководитель на сайте не опубликованы; использовать общий адрес wsu@wsu.edu.et"
+   "При офисе президента есть Директорат международных связей, но его e-mail и руководитель на сайте не опубликованы; использовать общий адрес wsu@wsu.edu.et",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "Dr. Guchie Gulie Sulla",
   "addressee_title": "Президент университета",
   "salutation": "Dear Dr. Guchie,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "5312"
  },
  {
   "country": "Ethiopia",
@@ -354,9 +370,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.wku.edu.et/index.php/en/component/content/article/2026-06-18-18-20-49?catid=12",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -371,14 +387,16 @@
    "Новый президент с июня 2026 г. (сменил Dr. Faris Delil, руководившего 6 лет); написание имени различается: Abdlmuhsin Hassen Alajib / Abdulemuhesin Hassen / Abdelmuhsin Hasen",
    "Университет отнесён МО к категории 'прикладных наук' (applied sciences)",
    "president.chiefhead@wku.edu.et — ящик руководителя офиса президента (Mr. Melesse Etifu Meranga, тел. +251 911 376 067); e-mail адреса декодированы из защищённой разметки сайта",
-   "Директор по исследованиям, международным связям и партнёрствам: Dr. Mitiku Tasisa Dinsa, тел. +251 913 835 518 (также mitiku1tasisa@gmail.com); тел. +251 11 322 0162 указан на странице офиса президента — проверить"
+   "Директор по исследованиям, международным связям и партнёрствам: Dr. Mitiku Tasisa Dinsa, тел. +251 913 835 518 (также mitiku1tasisa@gmail.com); тел. +251 11 322 0162 указан на странице офиса президента — проверить",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Директорат исследований, международных связей и партнёрств",
   "addressee_name": "Dr. Mitiku Tasisa Dinsa",
   "addressee_title": "Директор по исследованиям, международным связям и партнёрствам",
   "salutation": "Dear Dr. Mitiku,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Ethiopia",
@@ -397,8 +415,8 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://t.me/s/DTUniversity",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -415,7 +433,8 @@
    "Президент Dr. Solomon Abegaze упомянут как президент в посте от 25.09.2026; в марте 2025 СМИ называли президентом Anegagregn Gashaw — смена руководства",
    "Сентябрь 2026: идёт конкурс на должности вице-президентов",
    "Телефон, почтовый ящик и e-mail международного отдела не подтверждены; dtu@dtu.edu.et — официальный общий адрес, указанный в Telegram-канале",
-   "Перепроверка: 04.10.2026: сайт dtu.edu.et по-прежнему блокирует доступ; президент Dr. Solomon Abegaze повторно подтверждён в последних постах официального Telegram-канала (сентябрь 2026); телефон и международный e-mail не найдены."
+   "Перепроверка: 04.10.2026: сайт dtu.edu.et по-прежнему блокирует доступ; президент Dr. Solomon Abegaze повторно подтверждён в последних постах официального Telegram-канала (сентябрь 2026); телефон и международный e-mail не найдены.",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "Dr. Solomon Abegaze",
@@ -442,8 +461,8 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -459,7 +478,8 @@
    "Сайт ambou.edu.et недоступен (ошибка базы данных HTTP 500 на всех страницах, 04.10.2026) — контакты не проверены",
    "Поисковая выдача (на основе Википедии) называет президентом Dr. Bayissa Leta — НЕ подтверждено официальным источником, поле оставлено пустым",
    "Нужна повторная проверка сайта позже: страницы president-message и president-office-head существуют в поисковом индексе",
-   "Перепроверка: Сайт ambou.edu.et недоступен (ERR_ADDRESS_UNREACHABLE через reader-сервис, сброс соединения через прокси, 04.10.2026); данные не изменены."
+   "Перепроверка: Сайт ambou.edu.et недоступен (ERR_ADDRESS_UNREACHABLE через reader-сервис, сброс соединения через прокси, 04.10.2026); данные не изменены.",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -486,9 +506,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://mtu.edu.et/mizan-tepi-university-held-a-policy-briefing-on-may-17-2018/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -502,14 +522,16 @@
    "Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)",
    "Президент Dr. Wako Geda (PhD) упомянут в новости сайта, опубликованной 03.06.2026 (мероприятие 17.09.2018 по эфиопскому календарю ≈ май 2026); личный e-mail: wakogeda@mtu.edu.et",
    "Отдельный международный отдел и его e-mail на сайте не найдены; использовать info@mtu.edu.et",
-   "Кампус Тепи: P.O. Box 121, тел. +251 47 556 1837"
+   "Кампус Тепи: P.O. Box 121, тел. +251 47 556 1837",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "Dr. Wako Geda",
   "addressee_title": "Президент университета",
   "salutation": "Dear Dr. Wako,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Ethiopia",
@@ -528,9 +550,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://wldu.edu.et/presidents-message/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -544,14 +566,16 @@
    "Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)",
    "Президент Dr. Anegagregn Gashaw Ferede (PhD) — по странице послания президента (дата не указана); личный e-mail: anegagregng@wldu.edu.et",
    "Директорат исследований, международных связей и партнёрств (RIRP) создан при реорганизации 2024 г.; директор Dr. Fentaw Baye Adal, моб. +251 931 137 968",
-   "В исходном коде сайта встречается посторонний адрес admin@kingsteruni.edu (шаблон) — не использовать"
+   "В исходном коде сайта встречается посторонний адрес admin@kingsteruni.edu (шаблон) — не использовать",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Директорат исследований, международных связей и партнёрств",
   "addressee_name": "Dr. Fentaw Baye Adal",
   "addressee_title": "Директор по исследованиям, международным связям и партнёрствам",
   "salutation": "Dear Dr. Fentaw,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Ethiopia",
@@ -570,8 +594,8 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.gmu.edu.et/",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -589,7 +613,8 @@
    "По поисковой выдаче (старая версия сайта, не открылась): info@gmu.edu.et, тел. +251 47 551 1923 — НЕ подтверждено, в поля не внесено",
    "Существует Директорат исследований, международных связей и партнёрств, но его руководитель и e-mail не опубликованы",
    "Повторная проверка 04.10.2026: главная страница gmu.edu.et (©2026) по-прежнему называет президентом Dr. Diriba Eticha Tujuba; страницы President Office и Contact Us рендерятся JS без контактов — e-mail/телефон не подтверждены",
-   "Перепроверка: Президент повторно подтверждён на сайте (новости 2026), но официальных e-mail/телефона нет — уровень low сохранён"
+   "Перепроверка: Президент повторно подтверждён на сайте (новости 2026), но официальных e-mail/телефона нет — уровень low сохранён",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "Dr. Diriba Eticha Tujuba",
@@ -616,8 +641,8 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -634,7 +659,8 @@
    "Поисковая выдача называет президентом Dr. Teshome Nekatibeb (teshome.nekatibeb@kue.edu.et) — НЕ подтверждено открытой страницей; по другим данным, прежний президент Dr. Berhanemeskel Tena перешёл в Madda Walabu University",
    "name_native и city — по общепринятым данным; университет педагогический (бывш. Kotebe Metropolitan University)",
    "Повторная проверка 04.10.2026: kue.edu.et (страницы President's Message, Senate Members) — HTTP 500/сброс соединения; поисковая выдача по-прежнему указывает Dr. Teshome Nekatibeb как президента и Dr. Berhanemeskel Tena как основателя-президента 2021–2026",
-   "Перепроверка: Сайт kue.edu.et по-прежнему недоступен (HTTP 500/сброс, 04.10.2026); данные не изменены — президент (по выдаче Dr. Teshome Nekatibeb) не подтверждён"
+   "Перепроверка: Сайт kue.edu.et по-прежнему недоступен (HTTP 500/сброс, 04.10.2026); данные не изменены — президент (по выдаче Dr. Teshome Nekatibeb) не подтверждён",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -661,9 +687,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.inu.edu.et/president/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -677,14 +703,16 @@
    "Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)",
    "Президент Dr. Gardachew Worku (доцент) — на странице офиса президента; его имя встречается в новостях сайта май–июнь 2026",
    "Международными связями ведает Управление по связям с общественностью и международным отношениям (руководитель Belayneh Agumas, тел. +251 918 058 583, только личный gmail) — официального e-mail отдела нет; использовать общий адрес",
-   "Второй телефон: +251 58 227 1674; почтовый ящик не подтверждён (на странице контактов в поле 'Fax' указано '40')"
+   "Второй телефон: +251 58 227 1674; почтовый ящик не подтверждён (на странице контактов в поле 'Fax' указано '40')",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Общий адрес университета (офис президента)",
   "addressee_name": "Dr. Gardachew Worku Fekadu",
   "addressee_title": "Президент университета",
   "salutation": "Dear Dr. Gardachew,",
   "match_status": "ПРОВЕРИТЬ",
-  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Ethiopia",
@@ -703,8 +731,8 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://mwu.edu.et/administration/president",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -720,7 +748,8 @@
    "Сайт — SPA; его API (api.maddauni.online) возвращает 502, поэтому страницы президента, контактов и Директората исследований, интернационализации и партнёрств не открылись",
    "Президент Dr. Berhanemeskel Tena (PhD) — по поисковому индексу официальной страницы mwu.edu.et/administration/president и Википедии (назначен в 2024 г., ранее — основатель-президент Kotebe University of Education); сам текст страницы не просмотрен — проверить",
    "E-mail и телефон не подтверждены; в структуре сайта есть 'Research Internationalization and Partnership Directorate'",
-   "Перепроверка: Сайт mwu.edu.et (SPA) снова не отдал данные: API api.maddauni.online отвечает 502, в JS-бандле контактов нет; данные не изменены (04.10.2026)"
+   "Перепроверка: Сайт mwu.edu.et (SPA) снова не отдал данные: API api.maddauni.online отвечает 502, в JS-бандле контактов нет; данные не изменены (04.10.2026)",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "Dr. Berhanemeskel Tena",
@@ -747,8 +776,8 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://adu.edu.et/2026/06/20/; https://adu.edu.et/2026/07/ (official site news archives 06–07.2026, search snippets; site unreachable)",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -764,7 +793,8 @@
    "Университет в Тыграе; сайт adu.edu.et недоступен (503 / сброс соединения, повторно 04.10.2026); e-mail и телефон не найдены",
    "Президент Dr. Gebremichael Woldegabriel — по поисковой выдаче официального сайта (выпуск 524 студентов 20.06.2026, новости июля 2026); открытой страницей НЕ подтверждено",
    "Перед рассылкой учесть ситуацию с доступом/связью в Тыграе",
-   "Перепроверка: Сайт adu.edu.et по-прежнему недоступен; президент Dr. Gebremichael Woldegabriel внесён по выдаче официальных новостей сайта (06–07.2026), страницы не открыты — контакты не найдены"
+   "Перепроверка: Сайт adu.edu.et по-прежнему недоступен; президент Dr. Gebremichael Woldegabriel внесён по выдаче официальных новостей сайта (06–07.2026), страницы не открыты — контакты не найдены",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -791,9 +821,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://obu.edu.et/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -807,14 +837,16 @@
    "Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)",
    "Президент Prof. Muktar Mohammed (PhD) указан на главной странице сайта (окт. 2026); датированного подтверждения в новостях не найдено",
    "Есть Директорат по связям с общественностью и международным отношениям при президенте, но его e-mail/руководитель не опубликованы",
-   "Альтернативный телефон на странице президента: +251 930 313 005; name_native на языке оромо — по общепринятому написанию, не с сайта"
+   "Альтернативный телефон на странице президента: +251 930 313 005; name_native на языке оромо — по общепринятому написанию, не с сайта",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Общий официальный адрес университета",
   "addressee_name": "Prof. Muktar Mohammed",
   "addressee_title": "Президент университета",
   "salutation": "Dear Prof. Muktar,",
   "match_status": "ПРОВЕРИТЬ",
-  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Ethiopia",
@@ -833,9 +865,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://uok.edu.et/administration/president/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -850,14 +882,16 @@
    "Университет использует название 'University of Kabridahar' и домен uok.edu.et (kdu.edu.et перенаправляет туда)",
    "Президент Eng. Abdifetah Ahmed Rabi (abdifetah@uok.edu.et) — по странице президента, дата не указана; учёная степень не указана, обращение 'Eng.'",
    "email_international — личный адрес руководителя Управления по связям с общественностью и международным отношениям (Abdiladif Ahmed Olad); телефоны на странице контактов: +251 915 744 573, +251 911 303 733",
-   "name_native на сомалийском — по общепринятому написанию, на сайте не подтверждено"
+   "name_native на сомалийском — по общепринятому написанию, на сайте не подтверждено",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Управление по связям с общественностью и международным отношениям",
   "addressee_name": "Mr. Abdiladif Ahmed Olad",
   "addressee_title": "Руководитель управления по связям с общественностью и международным отношениям",
   "salutation": "Dear Mr. Abdiladif,",
   "match_status": "личный, совпало",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Ethiopia",
@@ -876,9 +910,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://api.aau.edu.et/leaderships/ (official AAU site data, record updated 2026-01-08; President since 2023)",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: 951–1000",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "ET-SAT (2U CubeSat by AAiT, pre-selected for QB50) — cancelled, never launched",
@@ -886,21 +920,23 @@
   "space_units": "Department of Physics (astrophysics / astronomy research stream); Addis Ababa Institute of Technology — School of Electrical & Computer Engineering (ELEDIA@AAiT research group, communication engineering)",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://api.aau.edu.et/leaderships/; https://api.aau.edu.et/contents/ (Office of Partnerships & Office of Communication pages, updated 2026-04-21); https://www.ena.et/web/eng/w/eng_6063594; https://www.fsxbusiness.com/aau-tops-east-africa-in-qs-rankings; https://www.nanosats.eu/sat/et-sat; nanosats.csv",
+  "sources": "https://api.aau.edu.et/leaderships/; https://api.aau.edu.et/contents/ (Office of Partnerships & Office of Communication pages, updated 2026-04-21); https://www.ena.et/web/eng/w/eng_6063594; https://www.fsxbusiness.com/aau-tops-east-africa-in-qs-rankings; https://www.nanosats.eu/sat/et-sat; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Ведущий университет страны; сайт aau.edu.et — JS-приложение, данные взяты из официального API api.aau.edu.et",
    "Международными связями ведает Office of Partnerships (подразделение AAU Global) при вице-президенте по партнёрству и коммуникациям; по ENA (фев. 2025) этот пост занимала Dr. Rahel Argaw, в текущем списке руководства на сайте её нет — не подтверждено на 2026",
    "Отдельного e-mail президента не опубликовано; email_general — Office of Communication (также в офисе президента, 6 Kilo)",
    "QS 2026: 851–900 (fsxbusiness); значение QS 2027 (по поисковой выдаче 951–1000) не подтверждено с открытой страницы — поле оставлено пустым. В THE 2027 по входным данным не ранжирован",
-   "Спутник ET-SAT (AAiT, QB50) отменён; запусков нет. Почтовый ящик P.O. Box 1176 подтверждён для подразделения AAU (ACEWM), общеуниверситетский P.O. Box стоит перепроверить"
+   "Спутник ET-SAT (AAiT, QB50) отменён; запусков нет. Почтовый ящик P.O. Box 1176 подтверждён для подразделения AAU (ACEWM), общеуниверситетский P.O. Box стоит перепроверить",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Офис партнёрств (Office of Partnerships / AAU Global) при вице-президенте по партнёрству и коммуникациям",
   "addressee_name": "",
   "addressee_title": "Директор Офиса партнёрств",
   "salutation": "Dear Director of the Office of Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "1109"
  },
  {
   "country": "Ethiopia",
@@ -919,9 +955,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.astu.edu.et/offices/president-office/president-offices (updated 8 June 2026)",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -929,20 +965,22 @@
   "space_units": "",
   "agency_partnerships": "Space Science and Geospatial Institute (SSGI) — agreement Apr 2024 on ASTU consultancy for the ETRSS-2 Earth-observation satellite project",
   "restricted_list": "",
-  "sources": "https://www.astu.edu.et; https://www.astu.edu.et/offices/president-office/president-offices; https://www.astu.edu.et/offices/president-office/internationalization-for-research-and-partnership; https://www.astu.edu.et/offices/president-office/public-and-international-relations; http://spaceinafrica.com/2024/04/11/ssgi-signs-agreement-with-adama-science-and-technology-university/",
+  "sources": "https://www.astu.edu.et; https://www.astu.edu.et/offices/president-office/president-offices; https://www.astu.edu.et/offices/president-office/internationalization-for-research-and-partnership; https://www.astu.edu.et/offices/president-office/public-and-international-relations; http://spaceinafrica.com/2024/04/11/ssgi-signs-agreement-with-adama-science-and-technology-university/\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "high",
   "notes_ru": [
    "Ведущий технический университет (одобрен как university of science and technology); соглашение с SSGI по проекту спутника ETRSS-2 (2024) — хороший контекст",
    "email_international — личный адрес директора Office of Internationalization and Partnership (страница обновлена фев. 2025); альтернативы: irccd@astu.edu.et (International Relations and Corporate Communications, контакт в подвале сайта) и pireo@astu.edu.et (Public and International Relations Executive, Mr. Girma Megersa Bedane)",
    "Отдельный e-mail президента не опубликован; Chief Executive Officer of President Office — Dr. Worku Jifara Sori",
-   "В QS 2027 и THE 2027 не найден"
+   "В QS 2027 и THE 2027 не найден",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Офис интернационализации и партнёрств (Office of Internationalization and Partnership)",
   "addressee_name": "Dr. Bedasa Abdisa Gonfa",
   "addressee_title": "Директор Офиса интернационализации и партнёрств",
   "salutation": "Dear Dr. Bedasa,",
   "match_status": "ПРОВЕРИТЬ",
-  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",
+  "rank_webometrics": "3948"
  },
  {
   "country": "Ethiopia",
@@ -961,9 +999,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.mu.edu.et (About / MU Contacts pages, © 2026); https://www.mu.edu.et/index.php/news/new-international-scientific-appointment",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1201–1400",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -971,21 +1009,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.mu.edu.et; https://www.mu.edu.et/index.php/about (MU Contacts); https://www.mu.edu.et/index.php/contact-us; https://www.mu.edu.et (International Affairs Office page); https://www.mu.edu.et/index.php/news/new-international-scientific-appointment; https://www.riotimesonline.com/ethiopia-tigray-university-students-reassigned-2026/; https://addisstandard.com/mekelle-university-asks-education-ministry-to-assign-students-says-six-of-its-seven-campuses-remain-operational/; THE 2027 (input)",
+  "sources": "https://www.mu.edu.et; https://www.mu.edu.et/index.php/about (MU Contacts); https://www.mu.edu.et/index.php/contact-us; https://www.mu.edu.et (International Affairs Office page); https://www.mu.edu.et/index.php/news/new-international-scientific-appointment; https://www.riotimesonline.com/ethiopia-tigray-university-students-reassigned-2026/; https://addisstandard.com/mekelle-university-asks-education-ministry-to-assign-students-says-six-of-its-seven-campuses-remain-operational/; THE 2027 (input)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "ВНИМАНИЕ: Тыграй. С 9 сент. 2026 Минобразования (министр Prof. Berhanu Nega) приостановило зачисление новых студентов в 4 университета Тыграя (Мэкэле, Аксум, Адыграт, Райя) и временно переводит их студентов в другие вузы из-за небезопасности; часть кампусов (Kuha campus MU) используется для размещения раненых военных. MU заявляет, что 6 из 7 кампусов работают",
    "Президент Dr. Fana Hagos Berhane (с апр. 2021) — в 2026 стала членом International Advisory Committee китайского China–BRICS New Era Science and Technology Innovation Incubation Park: очень благоприятный контекст для БРИКС-приглашения",
    "На сайте указан Provost for International Affairs and Global Collaboration — Dr. Shi Yongsheng (provost.office@mu.edu.et) — возможный дополнительный адресат",
    "Имя директора International Affairs Directorate на сайте не указано; адрес ia.director@mu.edu.et, тел. +251-344-410976, Ground Floor, Room A1-114",
-   "Космических проектов/спутников не найдено"
+   "Космических проектов/спутников не найдено",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Дирекция международных дел (International Affairs Directorate)",
   "addressee_name": "",
   "addressee_title": "Директор Дирекции международных дел",
   "salutation": "Dear Director of International Affairs,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "3375"
  },
  {
   "country": "Ethiopia",
@@ -1004,9 +1044,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.hu.edu.et/message-from-the-president; https://mylibrarianship.wordpress.com/2024/10/11/welcoming-hawassa-universitys-new-president-a-vision-in-action/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1014,20 +1054,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.hu.edu.et; https://www.hu.edu.et/message-from-the-president; https://www.hu.edu.et/public-and-international-relations-executive; https://www.hu.edu.et/president-office; https://www.hu.edu.et/contact-us; https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite); nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",
+  "sources": "https://www.hu.edu.et; https://www.hu.edu.et/message-from-the-president; https://www.hu.edu.et/public-and-international-relations-executive; https://www.hu.edu.et/president-office; https://www.hu.edu.et/contact-us; https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite); nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Отдельного общего e-mail/e-mail президента нет; ccmd@hu.edu.et — ящик Public and International Relations Executive (указан и в подвале сайта как основной)",
    "Глава офиса президента: Mr. Ayele Adato Yoma (только gmail, тел. +251 46 8871689)",
    "Президент Dr. Chirotaw Ayele назначен ~окт. 2024 (ранее президент Dilla University)",
-   "Спутниковых проектов не найдено (быстрая проверка)"
+   "Спутниковых проектов не найдено (быстрая проверка)",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Исполнительный офис по связям с общественностью и международным отношениям (Public and International Relations Executive)",
   "addressee_name": "Dr. Emebet Bekele Birkie",
   "addressee_title": "Исполнительный директор по связям с общественностью и международным отношениям",
   "salutation": "Dear Dr. Emebet,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "3144"
  },
  {
   "country": "Ethiopia",
@@ -1046,9 +1088,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.haramaya.edu.et/president-of-the-university/; https://www.haramaya.edu.et/haramaya-university-delegation-participates-in-qs-africa-forum-2026/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1056,20 +1098,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.haramaya.edu.et; https://www.haramaya.edu.et/president-of-the-university/; https://www.haramaya.edu.et/haramaya-universitys-presidential-competition-completed/; https://www.haramaya.edu.et/haramaya-university-delegation-participates-in-qs-africa-forum-2026/; Haramaya Public and International Relations Directorate page; https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite); nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",
+  "sources": "https://www.haramaya.edu.et; https://www.haramaya.edu.et/president-of-the-university/; https://www.haramaya.edu.et/haramaya-universitys-presidential-competition-completed/; https://www.haramaya.edu.et/haramaya-university-delegation-participates-in-qs-africa-forum-2026/; Haramaya Public and International Relations Directorate page; https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite); nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "high",
   "notes_ru": [
    "Президент с 27.12.2019 Dr. Jemal Yousuf Hassen; подтверждён в новости 2026 (QS Africa Forum 2026); личный e-mail на сайте — yahoo (jemaly2001@yahoo.com), тел. офиса +251 25 553 0319",
    "Официального ящика международного отдела нет; Public and International Relations Directorate — директор Mr. Alemishet (Alemeshet) Teshome, только личный yahoo (sportalem@yahoo.com) — поэтому письмо на общий адрес haramaya@haramaya.edu.et",
    "Активно сотрудничает с UAEU (ОАЭ, член БРИКС+) с 2023 г.",
-   "Город: кампус в г. Харамая (Восточный Харэр), почтовый ящик в Дыре-Дауэ; спутниковых проектов не найдено"
+   "Город: кампус в г. Харамая (Восточный Харэр), почтовый ящик в Дыре-Дауэ; спутниковых проектов не найдено",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations and Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "3035"
  },
  {
   "country": "Ethiopia",
@@ -1088,9 +1132,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://wu.edu.et/wollo-universitys-president-signs-the-2018-e-c-key-performance-indicators-kpis-with-the-university-management-members/ (Oct 22, 2025)",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1098,20 +1142,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://wu.edu.et; https://wu.edu.et/wollo-universitys-president-signs-the-2018-e-c-key-performance-indicators-kpis-with-the-university-management-members/; https://wu.edu.et/international-relation/ (empty page); https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite); nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",
+  "sources": "https://wu.edu.et; https://wu.edu.et/wollo-universitys-president-signs-the-2018-e-c-key-performance-indicators-kpis-with-the-university-management-members/; https://wu.edu.et/international-relation/ (empty page); https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite); nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Страницы President Office и International Relation на сайте пустые — имя руководителя международного отдела и отдельный e-mail не опубликованы; письмо на общий адрес info@wu.edu.et",
    "Номер почтового ящика (P.O. Box) на сайте не указан",
    "Регион Амхара — возможны проблемы с безопасностью/связью",
-   "Спутниковых проектов не найдено"
+   "Спутниковых проектов не найдено",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations and Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "4470"
  },
  {
   "country": "Ethiopia",
@@ -1130,9 +1176,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.ddu.edu.et/presidents-3/ (\"December 2020 — Present\"); https://www.ddu.edu.et/ddu-leadership-3/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1145,14 +1191,16 @@
   "notes_ru": [
    "Общий e-mail, телефон и P.O. Box на сайте не опубликованы (на странице контактов заглушки)",
    "Office of International Partnerships: директор Dawit Daniel (Asst. Prof.), личный адрес dawit.daniel@ddu.edu.et; отдельно есть International and Public Relations Directorate — директор Tensay Hailu (Asst. Prof.)",
-   "Университет переходит в статус University of Applied Sciences; спутниковых проектов не найдено"
+   "Университет переходит в статус University of Applied Sciences; спутниковых проектов не найдено",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Офис международных партнёрств (Office of International Partnerships)",
   "addressee_name": "Asst. Prof. Dawit Daniel",
   "addressee_title": "Директор по стратегическому партнёрству и интернационализации исследований",
   "salutation": "Dear Mr. Dawit,",
   "match_status": "ПРОВЕРИТЬ",
-  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Ethiopia",
@@ -1171,9 +1219,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.du.edu.et/contact/ (© 2026)",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1186,14 +1234,16 @@
   "notes_ru": [
    "Адрес президента опубликован как 'presidant@du.edu.et' (так на сайте, возможна опечатка — при недоставке использовать pirdir@du.edu.et)",
    "Public & International Relations: директор Habtamu Mesfin; на странице контактов у него указан drdir@du.edu.et, а в шапке сайта — pirdir@du.edu.et (выбран pirdir@ как основной ящик офиса)",
-   "Страницы Internationalization & Partnership и списка президентов пустые; спутниковых проектов не найдено"
+   "Страницы Internationalization & Partnership и списка президентов пустые; спутниковых проектов не найдено",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Дирекция по связям с общественностью и международным отношениям (Public & International Relations)",
   "addressee_name": "Mr. Habtamu Mesfin",
   "addressee_title": "Директор по связям с общественностью и международным отношениям",
   "salutation": "Dear Mr. Habtamu,",
   "match_status": "ПРОВЕРИТЬ",
-  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Ethiopia",
@@ -1212,9 +1262,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.dbu.edu.et/president_message; https://www.dbu.edu.et/dbu_contact (site with 2026 news)",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1222,19 +1272,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.dbu.edu.et; https://www.dbu.edu.et/dbu_contact; https://www.dbu.edu.et/president_message; https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite); nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",
+  "sources": "https://www.dbu.edu.et; https://www.dbu.edu.et/dbu_contact; https://www.dbu.edu.et/president_message; https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite); nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Международный отдел: International Relation and Partnership Director — Dr. Bethel Geremew Shefine (bethel@dbu.edu.et, моб. +251 919 396 017); дата страницы контактов не указана — актуальность на 2026 не подтверждена",
    "dbu@dbu.edu.et — ящик Executive Office of Public and International Relations (исполнительный директор Genzeb Atalay Nigatu, Asst. Prof.)",
-   "С 2020 г. — University of Applied Sciences; регион Амхара (возможны проблемы с безопасностью); спутниковых проектов не найдено"
+   "С 2020 г. — University of Applied Sciences; регион Амхара (возможны проблемы с безопасностью); спутниковых проектов не найдено",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Дирекция международных связей и партнёрств (International Relation and Partnership Directorate)",
   "addressee_name": "Dr. Bethel Geremew Shefine",
   "addressee_title": "Директор по международным связям и партнёрству",
   "salutation": "Dear Dr. Bethel,",
   "match_status": "личный, совпало",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "4631"
  },
  {
   "country": "Ethiopia",
@@ -1253,8 +1305,8 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -1269,7 +1321,8 @@
    "Официальный сайт jju.edu.et заблокирован для нашего IP (редирект на страницу блокировки хостинга) — контакты и руководство не проверены; требуется ручная проверка",
    "В Википедии (данные 2022 г.) президентом указан Dr. Bashir Abdulahi Mohamed — для 2026 не подтверждено, поэтому поле оставлено пустым",
    "Сомалийский регион; спутниковых проектов не найдено",
-   "Перепроверка: 04.10.2026: jju.edu.et по-прежнему перенаправляет на страницу блокировки хостинга (technobros.au/blocked.html); данные не изменены"
+   "Перепроверка: 04.10.2026: jju.edu.et по-прежнему перенаправляет на страницу блокировки хостинга (technobros.au/blocked.html); данные не изменены",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -1296,9 +1349,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://wollegauniversity.edu.et (homepage 'Message of the President', 2026); https://wollegauniversity.edu.et/index.php/about-us/president-message",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1311,14 +1364,16 @@
   "notes_ru": [
    "ВНИМАНИЕ: 14.09.2026 университет объявил конкурс на должности президента и двух вице-президентов (директива МинОбр № 1146/2018 E.C.) — вероятна смена руководства; Dr. Tesfaye Lemma (Associate Professor) — президент на момент проверки",
    "International Relations and Partnership Directorate (страница от 26.05.2026): тел. +251 917 660 150, Main Campus Administration Building; e-mail опубликован с опечаткой в домене — 'galatag@wollegauniveristy.edu.et' (и gmail galatagamachu1@gmail.com); имя директора не указано. Поэтому письмо — на info@wollegauniversity.edu.et",
-   "Оромия (западная часть) — возможны проблемы с безопасностью; спутниковых проектов не найдено"
+   "Оромия (западная часть) — возможны проблемы с безопасностью; спутниковых проектов не найдено",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations and Partnership,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Ethiopia",
@@ -1337,9 +1392,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.bhu.edu.et (President's message page, site © 2026); e-mail temesgendebelo@bhu.edu.et",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1352,14 +1407,16 @@
   "notes_ru": [
    "Research, International Relations and Partnership Directorate (RIRPD) создан в конце декабря (по сайту); директор Anteneh Fikrie (Asst. Prof.), также anteneh.fikrie@bhu.edu.et, тел. +251 922 46 51 29",
    "Президент публикует личный рабочий e-mail temesgendebelo@bhu.edu.et — можно поставить в копию",
-   "Регион Западный Гуджи (Оромия) — возможны проблемы с безопасностью; спутниковых проектов не найдено"
+   "Регион Западный Гуджи (Оромия) — возможны проблемы с безопасностью; спутниковых проектов не найдено",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Дирекция исследований, международных связей и партнёрств (RIRPD)",
   "addressee_name": "Asst. Prof. Anteneh Fikrie",
   "addressee_title": "Директор Дирекции исследований, международных связей и партнёрств",
   "salutation": "Dear Mr. Anteneh,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Ethiopia",
@@ -1378,9 +1435,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://su.edu.et (homepage President's message, news Sept 2026)",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1393,14 +1450,16 @@
   "notes_ru": [
    "Ящик международных партнёрств intlpartnership@su.edu.et опубликован в разделе 'Important contacts'; имя руководителя офиса на сайте не найдено",
    "Также опубликованы presidentoffice@su.edu.et (офис президента); телефон — мобильный номер, указанный на сайте",
-   "Регион Афар; есть Школа наук о Земле; спутниковых проектов не найдено"
+   "Регион Афар; есть Школа наук о Земле; спутниковых проектов не найдено",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Офис международных партнёрств (International Partnership Office)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations and Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Ethiopia",
@@ -1419,9 +1478,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://asu.edu.et/assosa-university-hosts-external-curriculum-validation-workshop/ (Aug 28, 2026)",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1434,14 +1493,16 @@
   "notes_ru": [
    "Единственный опубликованный институциональный ящик — pir@asu.edu.et (Public and International Relations Executive, тел. +251 57 887 5057); имя руководителя офиса на сайте не указано",
    "Президент Dr. Yared Mulu (на сайте личный gmail yaredmulugelaw@gmail.com, тел. +251 577 750 977)",
-   "Регион Бенишангуль-Гумуз (рядом плотина GERD); спутниковых проектов не найдено"
+   "Регион Бенишангуль-Гумуз (рядом плотина GERD); спутниковых проектов не найдено",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Исполнительный офис по связям с общественностью и международным отношениям (Public and International Relations Executive)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of Public and International Relations,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Ethiopia",
@@ -1460,8 +1521,8 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -1476,7 +1537,8 @@
    "Официальный сайт ecsu.edu.et недоступен (сброс соединения / 503) — контакты и руководство не проверены, нужна ручная проверка",
    "В Википедии упоминается также домен epsu.edu.et (возможно, переименование в Ethiopian Public Service University) и президент Nigus Tadese (PhD) — не подтверждено на 2026; домен epsu.edu.et тоже недоступен",
    "Вуз государственной службы (управление, политика, право) — низкая релевантность для спутниковой программы; спутниковых проектов не найдено",
-   "Перепроверка: Сайты ecsu.edu.et / epsu.edu.et по-прежнему недоступны (04.10.2026); в списке университетов на moe.gov.et вуз не значится; данные не изменены."
+   "Перепроверка: Сайты ecsu.edu.et / epsu.edu.et по-прежнему недоступны (04.10.2026); в списке университетов на moe.gov.et вуз не значится; данные не изменены.",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -1503,9 +1565,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.meu.edu.et/menu/president-office (President's Offices page; e-mail alemu.disasa@meu.edu.et)",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1519,14 +1581,16 @@
    "Официальное название — Mattu University; на сайте используются два почтовых домена: meu.edu.et и mau.edu.et (у mau.edu.et действующая MX-запись Microsoft 365)",
    "Директор Research, Internationalization Relations and Partnership Directorate — Dr. Tesfalem Atnafu (drtesfa@mau.edu.et, тел. +251 910 499 556); PIR Executive — Mr. Tegegn Demisse (pre@mau.edu.et)",
    "Дата страницы президента не указана — актуальность на 2026 не подтверждена датированной новостью",
-   "Спутниковых проектов не найдено"
+   "Спутниковых проектов не найдено",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Дирекция исследований, интернационализации и партнёрств",
   "addressee_name": "Dr. Tesfalem Atnafu",
   "addressee_title": "Директор Дирекции исследований, интернационализации и партнёрств",
   "salutation": "Dear Dr. Tesfalem,",
   "match_status": "ПРОВЕРИТЬ",
-  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Ethiopia",
@@ -1545,9 +1609,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://aku.edu.et/2026/09/14/9120/ (Sept 14, 2026); https://aku.edu.et/2026/05/29/aksum-university-signs-mou-with-imagine-1-day-for-leaders-in/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1561,14 +1625,16 @@
    "ВНИМАНИЕ: Тыграй. С 9 сент. 2026 МинОбр приостановило зачисление новых студентов и временно переводит студентов Аксумского университета в другие вузы (небезопасность; на главном кампусе размещены раненые военные). Руководство Аксума требовало отменить решение",
    "Public and International Relations Executive — Mr. Teklay Gebremicheal Teklu (только gmail: teklaygt21@gmail.com / aksumuniversity2025@gmail.com, тел. +251 980 103 118); International Team Leader — Mr. Gebre Welejewergis (+251 914 494 622)",
    "В подвале сайта ящик PIR опубликован обрезанным: 'PRD@mail.aku.edu.e' (вероятно PRD@mail.aku.edu.et, домен mail.aku.edu.et имеет MX Microsoft 365) — не подтверждён, поэтому письмо на info@mail.aku.edu.et",
-   "Номер P.O. Box на сайте не указан; спутниковых проектов не найдено"
+   "Номер P.O. Box на сайте не указан; спутниковых проектов не найдено",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of Public and International Relations,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Ethiopia",
@@ -1587,9 +1653,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.rayu.edu.et/message-from-president/; https://www.rayu.edu.et/wp-json/wp/v2/posts?search=President (news of Nov–Dec 2025 naming Prof. Tadesse Dejene as President)",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1604,14 +1670,16 @@
    "ВНИМАНИЕ: сайт, по-видимому, частично скомпрометирован — при запросе с некоторыми user-agent www.rayu.edu.et отдаёт индонезийский спам (онлайн-казино); с обычным браузером открывается нормальный сайт",
    "Public & International Relations Executive Officer — Dr. Gessesse Nigusse Abebe (gessessenigusse@rayu.edu.et, +251 934 979 939); ящик офиса PRD@rayu.edu.et (Block 04, F-01, R-104)",
    "Написание имени президента на сайте варьируется: Tadesse Dejenie / Dejene / Dejennie; глава офиса президента — Mr. HaileKiros Kebede (po@rayu.edu.et)",
-   "Спутниковых проектов не найдено"
+   "Спутниковых проектов не найдено",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Исполнительный офис по связям с общественностью и международным отношениям (Public & International Relations Executive Office)",
   "addressee_name": "Dr. Gessesse Nigusse Abebe",
   "addressee_title": "Исполнительный директор по связям с общественностью и международным отношениям",
   "salutation": "Dear Dr. Gessesse,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Ethiopia",
@@ -1630,9 +1698,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://ethiopianaviationuniversity.azurewebsites.net/newsdetail/eau-and-fdre-mesob-sign-strategic-memorandum-of-understanding (MoU signed 14 Aug 2026)",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1646,14 +1714,16 @@
    "Корпоративный университет авиакомпании Ethiopian Airlines Group (госкомпания), бывшая Ethiopian Aviation Academy; поле ownership условно — 'агентство/госпредприятие', не Минобразования",
    "Профильно близок к аэрокосмической тематике (техобслуживание ВС, УВД, тренажёры) — перспективный партнёр, хотя спутниковых проектов не найдено",
    "Отдельного международного офиса и его e-mail не опубликовано; общие адреса: InfoEAU@eau.edu.et и etauinfo@ethiopianairlines.com; страница руководства на сайте пока пустая",
-   "Почтовый адрес/P.O. Box на сайте не найден (кампус в Аддис-Абебе)"
+   "Почтовый адрес/P.O. Box на сайте не найден (кампус в Аддис-Абебе)",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations and Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Ethiopia",
@@ -1672,9 +1742,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://slu.edu.et (homepage President's Message, site news Aug–Sept 2026)",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1687,13 +1757,15 @@
   "notes_ru": [
    "Официальное написание на сайте — Salale University (SlU); город Фиче (Северная Шоа, Оромия)",
    "Executive for Public and International Relations — Dr. Yeshimebet Bogale (личный рабочий адрес yeshimebet_bogale@slu.edu.et, тел. +251 911 042 982); отдельного ящика международного офиса нет; также есть contact@slu.edu.et",
-   "Спутниковых проектов не найдено"
+   "Спутниковых проектов не найдено",
+   "Рейтинги: Национального рейтинга с местами нет: МинОбр Эфиопии делит гос. вузы на категории (research / applied science / general), мест не публикует."
   ],
   "mailbox_owner": "Исполнительный офис по связям с общественностью и международным отношениям",
   "addressee_name": "Dr. Yeshimebet Bogale",
   "addressee_title": "Исполнительный директор по связям с общественностью и международным отношениям",
   "salutation": "Dear Dr. Yeshimebet,",
   "match_status": "личный, совпало",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  }
 ]

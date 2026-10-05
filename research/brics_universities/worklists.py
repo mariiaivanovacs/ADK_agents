@@ -71,6 +71,7 @@ def import_filled(path):
         db[f] = json.load(open(p, encoding="utf-8"))
     idx = {key(r): r for rs in db.values() for r in rs}
     n = 0
+    confirmed = []
     for i in range(2, ws.max_row + 1):
         r = idx.get(v(ws, i, 1))
         if not r:
@@ -82,11 +83,15 @@ def import_filled(path):
                 if com:
                     r.setdefault("notes_ru", []).append("Рейтинги: " + com)
                 continue
-            if qs: r["rank_qs"] = qs
-            if the: r["rank_the"] = the
-            if web: r["rank_webometrics"] = web
-            if nname or nplace: r["rank_national"] = " ".join(x for x in (nname, nplace) if x)
+            if qs: r["rank_qs"] = "QS2027: " + qs
+            if the: r["rank_the"] = "THE2027: " + the
+            if web: r["rank_webometrics"] = "нет в опубл. списке" if web.startswith("нет") else web
+            if nname and nname.startswith("нет"):
+                r["rank_national"] = "нет общенационального рейтинга"
+            elif nname and nplace and nplace != "—":
+                r["rank_national"] = nname + ": " + nplace
             if src: add_src(r, src)
+            if com: r.setdefault("notes_ru", []).append("Рейтинги: " + com)
         else:
             (head, addr, em, emi, tel, who, title, sal, qs, the, web, nat, src, com) = [v(ws, i, c) for c in range(10, 24)]
             if not any([head, addr, em, emi, tel, who, qs, the, web, nat]):
@@ -104,12 +109,19 @@ def import_filled(path):
                 add_src(r, src)
                 r["head_verified_source"] = src
                 r["confidence"] = "high"
+                if head or emi or em:
+                    confirmed.append(key(r))
             if com:
                 r.setdefault("notes_ru", []).append("Ручная проверка: " + com)
         n += 1
     for f, rs in db.items():
         json.dump(rs, open(os.path.join(DATA, f + ".json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    print("updated", n)
+    if confirmed:
+        for k in confirmed:
+            KEYS.pop(k, None)
+        json.dump(KEYS, open(os.path.join(DATA, "not_confirmed_keys.json"), "w", encoding="utf-8"),
+                  ensure_ascii=False, indent=1)
+    print("updated", n, "moved to confirmed", len(confirmed))
 
 
 if __name__ == "__main__":

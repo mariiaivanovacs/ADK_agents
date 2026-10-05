@@ -16,9 +16,9 @@
   "head_title": "Vice-Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://iol.co.za/news/2026-03-26-i-am-supposed-to-graduate-next-week-cput-students-demand-vcs-suspension-amid-escalating-protests/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 6,
   "satellite_names": "ZACUBE-1 / TshepisoSat (2013); ZA-AeroSat (2017, co-built with Stellenbosch University, CPUT radios/antennas); ZACUBE-2 (2018); MDASat-1a (2022); MDASat-1b (2022); MDASat-1c (2022)",
   "sats_in_development": "",
@@ -26,21 +26,23 @@
   "space_units": "French South African Institute of Technology (F'SATI); Africa Space Innovation Centre (ASIC)",
   "agency_partnerships": "Department of Science and Innovation (DSI, MDASat-1 funding ~R20m); SANSA; QB50 (von Karman Institute)",
   "restricted_list": "",
-  "sources": "https://www.cput.ac.za/about-cput/university-leadership/vice-chancellor; https://iol.co.za/news/2026-03-26-i-am-supposed-to-graduate-next-week-cput-students-demand-vcs-suspension-amid-escalating-protests/; https://www.cput.ac.za/enquiries/enquiries-contact-details; https://www.cput.ac.za/research/sip/staff-and-contacts; https://www.cput.ac.za/newsroom/news/article/4201/maritime-domain-awareness-satellite-mission-launch-imminent; https://www.cput.ac.za/world-space-week; https://amsat-uk.org/2017/04/15/south-african-qb50-cubesats/; nanosats.csv",
+  "sources": "https://www.cput.ac.za/about-cput/university-leadership/vice-chancellor; https://iol.co.za/news/2026-03-26-i-am-supposed-to-graduate-next-week-cput-students-demand-vcs-suspension-amid-escalating-protests/; https://www.cput.ac.za/enquiries/enquiries-contact-details; https://www.cput.ac.za/research/sip/staff-and-contacts; https://www.cput.ac.za/newsroom/news/article/4201/maritime-domain-awareness-satellite-mission-launch-imminent; https://www.cput.ac.za/world-space-week; https://amsat-uk.org/2017/04/15/south-african-qb50-cubesats/; nanosats.csv\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Сайт cput.ac.za недоступен (503/таймаут) — данные получены из поисковой выдачи по официальным страницам",
    "Лидер ЮАР по CubeSat (F'SATI/ASIC) — приоритетный партнёр для VLEO-группировки",
    "Международные связи ведёт Strategic Initiatives, Internationalisation and Partnerships (SIIP): директор Dr Divinia Jithoo, тел. +27 21 959 5650; e-mail на сайте скрыт — рекомендуется адресовать письмо ей",
    "В марте 2026 г. студенты требовали отстранения ректора Nhlapo; по состоянию на июль 2026 он оставался в должности",
-   "ZA-AeroSat (QB50, термосфера 90–320 км) — совместно со Stellenbosch University"
+   "ZA-AeroSat (QB50, термосфера 90–320 км) — совместно со Stellenbosch University",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Общая справочная служба университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the International Office,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "1986"
  },
  {
   "country": "South Africa",
@@ -61,7 +63,7 @@
   "head_verified_source": "https://www.news.uct.ac.za/article/-2026-09-17-uct-spring-graduations-vcs-meet-and-greet",
   "rank_qs": "QS2027: 184",
   "rank_the": "THE2027: =147",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -69,20 +71,22 @@
   "space_units": "SpaceLab (Department of Electrical Engineering)",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.uct.ac.za/contact-us; https://uct.ac.za/international/international-staff; https://www.news.uct.ac.za/article/-2026-09-17-uct-spring-graduations-vcs-meet-and-greet; https://www.dailymaverick.co.za/article/2026-08-07-another-uct-leadership-crisis-34-complaints-secret-findings-and-a-vc-in-court/; https://www.researchgate.net/lab/SpaceLab-Peter-Martinez",
+  "sources": "https://www.uct.ac.za/contact-us; https://uct.ac.za/international/international-staff; https://www.news.uct.ac.za/article/-2026-09-17-uct-spring-graduations-vcs-meet-and-greet; https://www.dailymaverick.co.za/article/2026-08-07-another-uct-leadership-crisis-34-complaints-secret-findings-and-a-vc-in-court/; https://www.researchgate.net/lab/SpaceLab-Peter-Martinez\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "high",
   "notes_ru": [
    "Август 2026: ректор Moshabela оспаривает решения Совета университета в Высоком суде — возможна смена руководства, перед отправкой проверить",
    "Международный офис (IAPO) возглавляет и.о. директора — почётный профессор Danie Visser",
    "Партнёрства в IAPO курирует Ms Tracy Goslar (Deputy Director: Internationalisation)",
-   "Собственных запущенных спутников не найдено; есть SpaceLab (космические технологии)"
+   "Собственных запущенных спутников не найдено; есть SpaceLab (космические технологии)",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Офис международных академических программ (International Academic Programmes Office, IAPO)",
   "addressee_name": "Emeritus Prof. Danie Visser",
   "addressee_title": "Исполняющий обязанности директора Международного офиса",
   "salutation": "Dear Prof. Visser,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "277"
  },
  {
   "country": "South Africa",
@@ -118,7 +122,8 @@
    "E-mail isd@up.ac.za (International Cooperation Division) взят из факт-листа/выдачи — желательно перепроверить",
    "Ректор Petersen в должности с 1.10.2024",
    "Запущенных спутников не найдено",
-   "Глава отдела Mokoduwe подтверждён списком IEASA Directors Forum 2025; личный e-mail: setsipane.mokoduwe@up.ac.za"
+   "Глава отдела Mokoduwe подтверждён списком IEASA Directors Forum 2025; личный e-mail: setsipane.mokoduwe@up.ac.za",
+   "Ручная проверка: Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Отдел международного сотрудничества (International Cooperation Division)",
   "addressee_name": "Mr Setsipane Mokoduwe",
@@ -144,9 +149,9 @@
   "head_title": "Vice-Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://www.nwu.ac.za/vice-chancellor",
-  "rank_qs": "",
+  "rank_qs": "QS2027: 1001–1200",
   "rank_the": "THE2027: 801–1000",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -154,20 +159,22 @@
   "space_units": "Centre for Space Research (CSR; heliospheric physics, astrophysics; neutron monitors, Mahikeng Astronomical Observatory)",
   "agency_partnerships": "SANSA (training and research collaboration of CSR)",
   "restricted_list": "",
-  "sources": "https://www.nwu.ac.za/vice-chancellor; https://www.nwu.ac.za/content/nwu-contact-details; https://natural-sciences.nwu.ac.za/space-research; https://www.nwu.ac.za/sites/www.nwu.ac.za/files/files/i-international-students/Presentation-International-Students-web.pdf; https://ieasa.studysa.org/about-us/directors-forum/",
+  "sources": "https://www.nwu.ac.za/vice-chancellor; https://www.nwu.ac.za/content/nwu-contact-details; https://natural-sciences.nwu.ac.za/space-research; https://www.nwu.ac.za/sites/www.nwu.ac.za/files/files/i-international-students/Presentation-International-Students-web.pdf; https://ieasa.studysa.org/about-us/directors-forum/\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Общего e-mail нет; studies@nwu.ac.za — адрес для абитуриентов (единственный опубликованный общий)",
    "E-mail директора Global Engagement взят из списка Directors Forum IEASA 2025 (личный ящик)",
    "Город — Потчефструм (кампусы также в Махикенге и Вандербейлпарке)",
-   "Спутников нет, но есть сильный Центр космических исследований (CSR)"
+   "Спутников нет, но есть сильный Центр космических исследований (CSR)",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Офис глобального взаимодействия (Global Engagement Office)",
   "addressee_name": "Dr Shernice Soobramoney",
   "addressee_title": "Директор по глобальному взаимодействию (Director: Global Engagement)",
   "salutation": "Dear Dr Soobramoney,",
   "match_status": "личный, совпало",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "867"
  },
  {
   "country": "South Africa",
@@ -201,7 +208,8 @@
   "notes_ru": [
    "Сайт uj.ac.za блокирует автоматический доступ (403) — данные из поисковой выдачи",
    "Division for Internationalisation: старший директор Prof Ylva Rodny-Gumede (подтверждено списком IEASA 2025); личный e-mail: yrodny-gumede@uj.ac.za",
-   "Запущенных спутников не найдено"
+   "Запущенных спутников не найдено",
+   "Ручная проверка: Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Управление интернационализации (Division for Internationalisation)",
   "addressee_name": "Prof. Ylva Rodny-Gumede",
@@ -227,9 +235,9 @@
   "head_title": "Rector and Vice-Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://www.uwc.ac.za/news-and-announcements/news/watch-meet-the-university-of-the-western-capes-new-rector-and-vice-chancellor-prof-robert-balfour-8315",
-  "rank_qs": "",
+  "rank_qs": "QS2027: 1001–1200",
   "rank_the": "THE2027: 701–800",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -237,20 +245,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.uwc.ac.za/about/leadership; https://www.uwc.ac.za/about/international-relations/contact; https://www.uwc.ac.za/news-and-announcements/news/watch-meet-the-university-of-the-western-capes-new-rector-and-vice-chancellor-prof-robert-balfour-8315",
+  "sources": "https://www.uwc.ac.za/about/leadership; https://www.uwc.ac.za/about/international-relations/contact; https://www.uwc.ac.za/news-and-announcements/news/watch-meet-the-university-of-the-western-capes-new-rector-and-vice-chancellor-prof-robert-balfour-8315\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "high",
   "notes_ru": [
    "Ректор Balfour в должности с 1.01.2025 (в UWC должность называется Rector and Vice-Chancellor)",
    "Офис международных связей (IRO) также ведёт секретариат SANORD; общий адрес iro@uwc.ac.za встречается в поисковой выдаче, но на официальной странице не подтверждён",
    "Быстрая проверка: запущенных спутников не найдено",
-   "Сайт ограничивает частоту запросов (429)"
+   "Сайт ограничивает частоту запросов (429)",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Офис международных связей (International Relations Office)",
   "addressee_name": "Dr Tasmeera Singh",
   "addressee_title": "Директор по международным связям и SANORD",
   "salutation": "Dear Dr Singh,",
   "match_status": "личный, совпало",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "1059"
  },
  {
   "country": "South Africa",
@@ -269,9 +279,9 @@
   "head_title": "Vice-Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://www.unisa.ac.za/sites/corporate/default/About/Governance-&-management/Executive-management",
-  "rank_qs": "",
+  "rank_qs": "QS2027: 951–1000",
   "rank_the": "THE2027: 1201–1400",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -279,21 +289,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.unisa.ac.za/sites/corporate/default/About/Governance-&-management/Executive-management; https://www.unisa.ac.za/sites/corporate/default/About/Internationalisation/Contact-us; https://www.unisa.ac.za/sites/corporate/default/Contact-us; https://thestar.co.za/news/2026-02-12-unisa-charts-decisive-path-for-2026-as-vc-lenkabula-links-global-turbulence-to-local-action/; https://ieasa.studysa.org/about-us/directors-forum/",
+  "sources": "https://www.unisa.ac.za/sites/corporate/default/About/Governance-&-management/Executive-management; https://www.unisa.ac.za/sites/corporate/default/About/Internationalisation/Contact-us; https://www.unisa.ac.za/sites/corporate/default/Contact-us; https://thestar.co.za/news/2026-02-12-unisa-charts-decisive-path-for-2026-as-vc-lenkabula-links-global-turbulence-to-local-action/; https://ieasa.studysa.org/about-us/directors-forum/\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Крупнейший в Африке университет дистанционного обучения",
    "Ректор LenkaBula переназначена на второй срок с 1.01.2026; вокруг неё были обвинения группы «Save Unisa» — проверить перед отправкой",
    "Почтовый адрес и общий телефон на проверенных страницах не найдены — оставлены пустыми",
    "Директор по интернационализации Dr Angeline Magabane (magabm@unisa.ac.za), подтверждено IEASA 2025",
-   "Быстрая проверка: запущенных спутников не найдено"
+   "Быстрая проверка: запущенных спутников не найдено",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Управление интернационализации и партнёрств (Internationalisation & Partnerships)",
   "addressee_name": "Dr Angeline Magabane",
   "addressee_title": "Директор по интернационализации и партнёрствам",
   "salutation": "Dear Dr Magabane,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "745"
  },
  {
   "country": "South Africa",
@@ -312,9 +324,9 @@
   "head_title": "Vice-Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://www.mandela.ac.za/Leadership-and-Governance",
-  "rank_qs": "",
+  "rank_qs": "QS2027: 1401+",
   "rank_the": "THE2027: 1401–1600",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -322,20 +334,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.mandela.ac.za/Leadership-and-Governance; https://www.mandela.ac.za/Research,-Innovation-and-Internationalisation; https://international.mandela.ac.za; https://ieasa.studysa.org/about-us/directors-forum/; https://www.universityworldnews.com/post.php?story=20090918125617455",
+  "sources": "https://www.mandela.ac.za/Leadership-and-Governance; https://www.mandela.ac.za/Research,-Innovation-and-Internationalisation; https://international.mandela.ac.za; https://ieasa.studysa.org/about-us/directors-forum/; https://www.universityworldnews.com/post.php?story=20090918125617455\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Второй срок ректора Muthwa начался 30.03.2022",
    "International Office: старший директор Prof Judy Peter (IEASA 2025), личный e-mail Judy.Peter@mandela.ac.za",
    "Университет (тогда NMMU) поставил научный эксперимент на борт SumbandilaSat (2009) — это полезная нагрузка, а не собственный спутник",
-   "Адрес international@mandela.ac.za на сайте указан для запросов по учёбе за рубежом"
+   "Адрес international@mandela.ac.za на сайте указан для запросов по учёбе за рубежом",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Международный офис (International Office)",
   "addressee_name": "Prof. Judy Peter",
   "addressee_title": "Старший директор Международного офиса",
   "salutation": "Dear Prof. Peter,",
   "match_status": "ПРОВЕРИТЬ",
-  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",
+  "rank_webometrics": "1853"
  },
  {
   "country": "South Africa",
@@ -354,9 +368,9 @@
   "head_title": "Vice-Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://www.wsu.ac.za/en/home-wsu/governance-leadership-wsu/leadership",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1801–2000",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -364,20 +378,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.wsu.ac.za/en/home-wsu/governance-leadership-wsu/leadership; https://www.wsu.ac.za/en/contact-us; https://www.wsu.ac.za/en/internationalisation-partnerships-directorate",
+  "sources": "https://www.wsu.ac.za/en/home-wsu/governance-leadership-wsu/leadership; https://www.wsu.ac.za/en/contact-us; https://www.wsu.ac.za/en/internationalisation-partnerships-directorate\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "medium",
   "notes_ru": [
    "Во входном списке указано как «iYunivesithi Walter Sisulu» — это официальное брендовое название; английское — Walter Sisulu University",
    "Директор по интернационализации и партнёрствам — Dr Mzolisi Payi (отдельный e-mail не опубликован); рекомендуется адресовать письмо ему через enquiries@wsu.ac.za",
    "Кампусы: Мтата, Баттерворт, Ист-Лондон (Buffalo City), Комани",
-   "Быстрая проверка: спутников не найдено"
+   "Быстрая проверка: спутников не найдено",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Общая справочная служба университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the International Office,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "South Africa",
@@ -396,9 +412,9 @@
   "head_title": "Vice-Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://www.univen.ac.za/about/office-of-the-vc/",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1801–2000",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -406,14 +422,15 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.univen.ac.za/news/univen-opens-2026-academic-year-with-a-renewed-commitment-to-excellence-impact-and-student-success/; https://www.univen.ac.za/contact-us/; https://www.univen.ac.za/irp/study-at-univen/; https://ieasa.studysa.org/about-us/directors-forum/",
+  "sources": "https://www.univen.ac.za/news/univen-opens-2026-academic-year-with-a-renewed-commitment-to-excellence-impact-and-student-success/; https://www.univen.ac.za/contact-us/; https://www.univen.ac.za/irp/study-at-univen/; https://ieasa.studysa.org/about-us/directors-forum/\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "high",
   "notes_ru": [
    "Сайт univen.ac.za напрямую из нашей сети недоступен (ошибка TLS через прокси); страницы открыты через r.jina.ai 04.10.2026.",
    "Dr Olusegun Obadire — Director: International Relations and Partnerships (страница Director’s Profile). Личный e-mail директора (segun.obadire@univen.ac.za, из IEASA 2025) на сайте не опубликован — заменён на общий international.students@univen.ac.za.",
    "По вопросам научного сотрудничества и институциональных партнёрств сайт IRP указывает matome.mokoena@univen.ac.za; мобильность/Erasmus+ — nontlanhla.ntakana@univen.ac.za; WhatsApp IRP +27 60 677 0033.",
    "Быстрая проверка: спутников не найдено",
-   "Перепроверка: Сайт univen.ac.za открыт через reader-сервис 04.10.2026: VC Prof Bernard Nthambeleni, директор IRP Dr Olusegun Obadire (уже не «и.о.»), общий e-mail и телефоны IRP, адрес Private Bag X5050 подтверждены; e-mail international заменён на официальный общий ящик IRP."
+   "Перепроверка: Сайт univen.ac.za открыт через reader-сервис 04.10.2026: VC Prof Bernard Nthambeleni, директор IRP Dr Olusegun Obadire (уже не «и.о.»), общий e-mail и телефоны IRP, адрес Private Bag X5050 подтверждены; e-mail international заменён на официальный общий ящик IRP.",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Управление международных связей и партнёрств (IRP Directorate) — общий ящик",
   "addressee_name": "Dr Olusegun Obadire",
@@ -421,7 +438,8 @@
   "salutation": "Dear Dr Obadire,",
   "recheck_ru": "Сайт univen.ac.za открыт через reader-сервис 04.10.2026: VC Prof Bernard Nthambeleni, директор IRP Dr Olusegun Obadire (уже не «и.о.»), общий e-mail и телефоны IRP, адрес Private Bag X5050 подтверждены; e-mail international заменён на официальный общий ящик IRP.",
   "match_status": "ПРОВЕРИТЬ",
-  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "South Africa",
@@ -440,9 +458,9 @@
   "head_title": "Vice-Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://www.ufh.ac.za/about-us",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -456,14 +474,16 @@
    "Указан физический адрес кампуса Элис (почтовый ящик на проверенной странице не найден)",
    "Директор IAP Mr Lebethe Malefo, личный e-mail LMalefo@ufh.ac.za, тел. +27 43 704 7666; менеджер по партнёрствам Ms Quinter Onyango (QOnyango@ufh.ac.za)",
    "Исторический университет (выпускники — Нельсон Мандела и др.)",
-   "Быстрая проверка: спутников не найдено"
+   "Быстрая проверка: спутников не найдено",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Управление международных связей и партнёрств (International Affairs and Partnerships, IAP)",
   "addressee_name": "Mr Lebethe Malefo",
   "addressee_title": "Директор по международным связям и партнёрствам",
   "salutation": "Dear Mr Malefo,",
   "match_status": "ПРОВЕРИТЬ",
-  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "South Africa",
@@ -481,9 +501,9 @@
   "head_name": "Prof. Nokuthula Winfred Kunene",
   "head_title": "Vice-Chancellor",
   "party_secretary": "",
-  "head_verified_source": "https://usaf.ac.za/universities-south-africa-welcomes-a-new-cohort-of-vice-chancellors-in-2026/",
-  "rank_qs": "",
-  "rank_the": "",
+  "head_verified_source": "https://www.unizulu.ac.za/executive-management/; https://www.unizulu.ac.za/contact-us/",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -492,8 +512,8 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://witness.co.za/news/2025/09/18/unizulu-appoints-professor-kunene-as-its-new-vice-chancellor/; https://usaf.ac.za/universities-south-africa-welcomes-a-new-cohort-of-vice-chancellors-in-2026/; https://www.unizulu.ac.za/contact-us/; https://ieasa.studysa.org/about-us/directors-forum/",
-  "confidence": "low",
+  "sources": "https://witness.co.za/news/2025/09/18/unizulu-appoints-professor-kunene-as-its-new-vice-chancellor/; https://usaf.ac.za/universities-south-africa-welcomes-a-new-cohort-of-vice-chancellors-in-2026/; https://www.unizulu.ac.za/contact-us/; https://ieasa.studysa.org/about-us/directors-forum/\nhttps://www.unizulu.ac.za/executive-management/; https://www.unizulu.ac.za/contact-us/",
+  "confidence": "high",
   "notes_ru": [
    "Сайт unizulu.ac.za недоступен (503/таймаут) — данные из поисковой выдачи",
    "Prof Kunene назначена ректором с 2026 г. (Prof Mtose оставалась до 31.03.2026) — проверить вступление в должность",
@@ -501,12 +521,13 @@
    "Международный офис и его руководитель не установлены; в IEASA 2025 университет представляла Prof Nontokozo Mashiya (Director: VC's Office, MashiyaN@unizulu.ac.za)",
    "Быстрая проверка: спутников не найдено",
    "Повторная проверка 04.10.2026: официальных страниц международного офиса найти не удалось",
-   "Перепроверка: Сайт unizulu.ac.za недоступен по HTTPS, по HTTP — заглушка обновления LMS; данные не изменены"
+   "Перепроверка: Сайт unizulu.ac.za недоступен по HTTPS, по HTTP — заглушка обновления LMS; данные не изменены",
+   "Ручная проверка: Контакты прочитаны на официальном сайте 05.10.2026 (сессия с агентами). Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Приёмная комиссия (Admissions)",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Director of the International Office,",
+  "addressee_name": "Prof. Nokuthula Kunene",
+  "addressee_title": "Vice-Chancellor",
+  "salutation": "Dear Prof. Kunene,",
   "recheck_ru": "Сайт unizulu.ac.za недоступен по HTTPS, по HTTP — заглушка обновления LMS; данные не изменены",
   "match_status": "нет имени",
   "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
@@ -528,9 +549,9 @@
   "head_title": "Vice-Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://www.cut.ac.za/management",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -544,14 +565,16 @@
    "Университет технологий; общего e-mail нет (только портал Ask CUT)",
    "Centre for Global Engagement (CGE): старший директор Valindawo Dwayi (учёное звание/обращение не указано)",
    "profile_type указан как technical/aerospace по типу вуза (University of Technology); аэрокосмических подразделений не найдено",
-   "Быстрая проверка: спутников не найдено"
+   "Быстрая проверка: спутников не найдено",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Центр глобального взаимодействия (Centre for Global Engagement, CGE)",
   "addressee_name": "Valindawo Dwayi",
   "addressee_title": "Старший директор Центра глобального взаимодействия",
   "salutation": "Dear Senior Director Dwayi,",
   "match_status": "личный, совпало",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "South Africa",
@@ -570,9 +593,9 @@
   "head_title": "Vice-Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://www.ump.ac.za/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -585,14 +608,16 @@
   "notes_ru": [
    "Молодой университет (основан в 2014 г.), сильный аграрный профиль",
    "Директор International Partnerships & Networks — Mr Thabo Dikgale (с 1.03.2026), e-mail не опубликован; рекомендуется адресовать письмо ему через info@ump.ac.za",
-   "Быстрая проверка: спутников не найдено"
+   "Быстрая проверка: спутников не найдено",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Общая справочная служба университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the International Office,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "South Africa",
@@ -611,9 +636,9 @@
   "head_title": "Chief Executive Officer",
   "party_secretary": "",
   "head_verified_source": "https://www.csir.co.za/about-us/organisational-structure/our-leadership/group-executive-management",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -627,14 +652,16 @@
    "Не университет — национальный научный совет (включён намеренно)",
    "E-mail и телефон на сайте закодированы скриптом; расшифрованы: enquiries@csir.co.za, +27 12 841 2911",
    "Исторически CSIR создал Satellite Applications Centre в Хартбистхуке (ныне станция SANSA) и участвовал в программе SumbandilaSat (2009), но собственных спутников не строил",
-   "Международного офиса нет — писать через общий адрес"
+   "Международного офиса нет — писать через общий адрес",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Общая справочная служба (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the International Office,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "South Africa",
@@ -653,9 +680,9 @@
   "head_title": "Executive Director",
   "party_secretary": "",
   "head_verified_source": "https://aims.ac.za/team/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -669,14 +696,16 @@
    "Некоммерческий институт (часть панафриканской сети AIMS), а не университет — ownership «Частный» условно",
    "Учёное звание руководителя на сайте не указано — в обращении не использовать «Prof.» без проверки",
    "Телефон на официальной странице не опубликован",
-   "Спутниковой деятельности нет; интерес — AI/данные для обработки спутниковых данных"
+   "Спутниковой деятельности нет; интерес — AI/данные для обработки спутниковых данных",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Общая справочная служба (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the International Office,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "South Africa",
@@ -695,9 +724,9 @@
   "head_title": "Chief Executive Officer (CEO) - Principal",
   "party_secretary": "",
   "head_verified_source": "https://www.stadio.ac.za/about-stadio/leadership",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -711,14 +740,16 @@
    "Частный вуз (STADIO (Pty) Ltd, регистрация DHET 2008/HE07/004), в основном дистанционное обучение",
    "hello@stadio.ac.za — адрес поддержки абитуриентов (единственный опубликованный)",
    "Адрес головного офиса — со страницы STADIO Holdings",
-   "Космической деятельности нет — низкий приоритет для приглашения"
+   "Космической деятельности нет — низкий приоритет для приглашения",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Служба поддержки абитуриентов (Application Support)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the International Office,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "South Africa",
@@ -737,9 +768,9 @@
   "head_title": "Rector and Vice-Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://www.su.ac.za/en/about/governance/rector-and-vice-chancellor",
-  "rank_qs": "QS2027: 296",
+  "rank_qs": "QS2027: =296",
   "rank_the": "THE2027: 326–350",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 2,
   "satellite_names": "SUNSAT (1999); SumbandilaSat (2009)",
   "sats_in_development": "Dock-Sat (1U target + 2U, docking demonstration CubeSats; not launched)",
@@ -747,21 +778,23 @@
   "space_units": "Electronic Systems Laboratory (ESL), Department of Electrical and Electronic Engineering",
   "agency_partnerships": "CSIR (SumbandilaSat operations); SunSpace (spin-off, SumbandilaSat builder); NASA (SUNSAT experiments)",
   "restricted_list": "",
-  "sources": "https://www.su.ac.za/en/about/governance/rector-and-vice-chancellor; https://www.su.ac.za/en/contact-us; http://www.sun.ac.za/english/SUInternational/contact-us; https://eutopia-university.eu/2025/05/07/stellenbosch-university-advancing-sus-internationalisation-journey/; https://en.wikipedia.org/wiki/SUNSAT; https://en.wikipedia.org/wiki/SumbandilaSat; nanosats.csv; https://ieasa.studysa.org/about-us/directors-forum/",
+  "sources": "https://www.su.ac.za/en/about/governance/rector-and-vice-chancellor; https://www.su.ac.za/en/contact-us; http://www.sun.ac.za/english/SUInternational/contact-us; https://eutopia-university.eu/2025/05/07/stellenbosch-university-advancing-sus-internationalisation-journey/; https://en.wikipedia.org/wiki/SUNSAT; https://en.wikipedia.org/wiki/SumbandilaSat; nanosats.csv; https://ieasa.studysa.org/about-us/directors-forum/\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Сайт su.ac.za закрыт Cloudflare (403) — контакты взяты из сниппетов поиска официальных страниц, не открыты напрямую",
    "SUNSAT (1999) — первый спутник ЮАР, построен студентами SU; SumbandilaSat (2009) построен SunSpace по контракту с SU, оператор — SU",
    "Почтовый адрес изменён: старый Private Bag X1, Matieland 7602 упразднён; email-домен sun.ac.za может мигрировать на su.ac.za",
    "Ректор Prof. Deresh Ramjugernath с 1 апреля 2025 г.",
-   "Личный email старшего директора SU International Robert Kotzé: rk@sun.ac.za (подтверждён на сайте IEASA, 2025)"
+   "Личный email старшего директора SU International Robert Kotzé: rk@sun.ac.za (подтверждён на сайте IEASA, 2025)",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Stellenbosch University International (SU International)",
   "addressee_name": "Mr Robert Kotzé",
   "addressee_title": "Старший директор SU International (Senior Director: SU International)",
   "salutation": "Dear Mr Kotzé,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "1299"
  },
  {
   "country": "South Africa",
@@ -782,7 +815,7 @@
   "head_verified_source": "https://www.wits.ac.za/about-wits/contact-us/management-contacts/",
   "rank_qs": "QS2027: 302",
   "rank_the": "THE2027: 301–325",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -790,19 +823,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.wits.ac.za/about-wits/contact-us/management-contacts/; https://www.wits.ac.za/about-wits/office-of-the-vice-chancellor/; https://www.wits.ac.za/people/academic-a-z-listing/v/zeblonvilakaziwitsacza/; https://www.wits.ac.za/research/staff/; https://www.wits.ac.za/news/latest-news/general-news/2025/2025-11/advancing-meaningful-collaborations-for-wits-.html; https://www.wits.ac.za/internationalstudents/contact-us/; https://ieasa.studysa.org/about-us/directors-forum/",
+  "sources": "https://www.wits.ac.za/about-wits/contact-us/management-contacts/; https://www.wits.ac.za/about-wits/office-of-the-vice-chancellor/; https://www.wits.ac.za/people/academic-a-z-listing/v/zeblonvilakaziwitsacza/; https://www.wits.ac.za/research/staff/; https://www.wits.ac.za/news/latest-news/general-news/2025/2025-11/advancing-meaningful-collaborations-for-wits-.html; https://www.wits.ac.za/internationalstudents/contact-us/; https://ieasa.studysa.org/about-us/directors-forum/\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "high",
   "notes_ru": [
    "Общий email не опубликован; email_general — личный адрес ректора с официальной страницы (тел. +27 11 717 1102)",
    "Для партнёрств — Internationalisation and Strategic Partnerships Office (Dr Samia Chasi, с апреля 2025, тел. +27 11 717 9731); International Students Office (Ms Gita Patel, Gita.Patel@wits.ac.za) — студенческая мобильность",
-   "Собственных запущенных спутников не найдено"
+   "Собственных запущенных спутников не найдено",
+   "Рейтинги: QS: в таблице как «University of Witwatersrand»; THE: в таблице как «University of the Witwatersrand»; Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Офис интернационализации и стратегических партнёрств (Internationalisation and Strategic Partnerships Office)",
   "addressee_name": "Dr Samia Chasi",
   "addressee_title": "Руководитель Офиса интернационализации и стратегических партнёрств",
   "salutation": "Dear Dr Chasi,",
   "match_status": "личный, совпало",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "396"
  },
  {
   "country": "South Africa",
@@ -821,9 +856,9 @@
   "head_title": "Vice-Chancellor and Principal",
   "party_secretary": "",
   "head_verified_source": "https://ukzn.ac.za/vice-chancellor/",
-  "rank_qs": "QS2027: 600",
+  "rank_qs": "QS2027: =600",
   "rank_the": "THE2027: 501–550",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -831,20 +866,22 @@
   "space_units": "Aerospace Systems Research Institute (ASRI), School of Engineering — Phoenix hybrid sounding rockets, SAFFIRE orbital liquid rocket engine",
   "agency_partnerships": "SANSA (ASRI funding/support; SANSA payload flown on ASRI sounding rocket, Dec 2024); Department of Science, Technology and Innovation (DSTI)",
   "restricted_list": "",
-  "sources": "https://ukzn.ac.za/vice-chancellor/; https://ukzn.ac.za/general/; https://globalengagement.ukzn.ac.za/team/; https://globalengagement.ukzn.ac.za/; https://corporaterelations.ukzn.ac.za/international-relations/; https://aerospace.ukzn.ac.za/about/; https://www.sansa.org.za/2024/12/sansa-payload-takes-flight-at-south-africas-new-rocket-gantry/; https://businesstech.co.za/news/lifestyle/864277/south-africa-has-a-new-number-one-university-in-gauteng-second-only-to-uct-nationally/; https://corporaterelations.ukzn.ac.za/executive-director-3/; https://ieasa.studysa.org/about-us/directors-forum/",
+  "sources": "https://ukzn.ac.za/vice-chancellor/; https://ukzn.ac.za/general/; https://globalengagement.ukzn.ac.za/team/; https://globalengagement.ukzn.ac.za/; https://corporaterelations.ukzn.ac.za/international-relations/; https://aerospace.ukzn.ac.za/about/; https://www.sansa.org.za/2024/12/sansa-payload-takes-flight-at-south-africas-new-rocket-gantry/; https://businesstech.co.za/news/lifestyle/864277/south-africa-has-a-new-number-one-university-in-gauteng-second-only-to-uct-nationally/; https://corporaterelations.ukzn.ac.za/executive-director-3/; https://ieasa.studysa.org/about-us/directors-forum/\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Собственных спутников нет, но ASRI — ведущая в ЮАР группа по ракетным двигателям (суборбитальные ракеты Phoenix, двигатель SAFFIRE для орбитального носителя) — сильный партнёр по запуску",
    "Пост директора International Relations, по данным поиска, вакантен; UKZN в форуме директоров международных офисов IEASA (2025) представляет Executive Director: Corporate Relations Dr Normah Zondo (Zondon1@ukzn.ac.za). Оперативный контакт: координатор Global Engagement Nozipho Khumalo, Khumalon9@ukzn.ac.za, +27 31 260 3217; общий ящик CRD: corporaterelations@ukzn.ac.za",
    "Prof. Nana Poku — ректор с 24.06.2019, указан на текущем официальном сайте; дата продления срока не проверена",
-   "Обращение: на странице UKZN CRD — «Dr Normah Zondo», на сайте IEASA — «Ms»; использовано Dr"
+   "Обращение: на странице UKZN CRD — «Dr Normah Zondo», на сайте IEASA — «Ms»; использовано Dr",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Отдел корпоративных связей, включающий International Relations / Global Engagement (Corporate Relations Division)",
   "addressee_name": "Dr Normah Zondo",
   "addressee_title": "Исполнительный директор по корпоративным связям (Executive Director: Corporate Relations); представитель UKZN в форуме директоров IEASA",
   "salutation": "Dear Dr Zondo,",
   "match_status": "личный, совпало",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "593"
  },
  {
   "country": "South Africa",
@@ -863,9 +900,9 @@
   "head_title": "Vice-Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://www.ru.ac.za/latestnews/open_day_2026.html",
-  "rank_qs": "QS2027: 901-950",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: 901–950",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -873,20 +910,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.ru.ac.za/contactus/; https://www.ru.ac.za/internationalisation/contactus/; https://www.ru.ac.za/vice-chancellor/; https://www.ru.ac.za/latestnews/open_day_2026.html; https://businesstech.co.za/news/lifestyle/864277/south-africa-has-a-new-number-one-university-in-gauteng-second-only-to-uct-nationally/; https://ieasa.studysa.org/about-us/directors-forum/",
+  "sources": "https://www.ru.ac.za/contactus/; https://www.ru.ac.za/internationalisation/contactus/; https://www.ru.ac.za/vice-chancellor/; https://www.ru.ac.za/latestnews/open_day_2026.html; https://businesstech.co.za/news/lifestyle/864277/south-africa-has-a-new-number-one-university-in-gauteng-second-only-to-uct-nationally/; https://ieasa.studysa.org/about-us/directors-forum/\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "high",
   "notes_ru": [
    "Общий email не опубликован; communications@ru.ac.za — адрес отдела коммуникаций из футера официального сайта",
    "Не путать с Rhodes College (США), у которого есть CubeSat RHOK-SAT",
    "По данным поиска, студенты SANSA обучаются в Rhodes по MSc Space Science (страница research.sansa.org.za недоступна — не подтверждено)",
-   "Международный офис: тел. +27 46 603 8217; адрес Eden Grove Building, Lucas Avenue, Makhanda 6139"
+   "Международный офис: тел. +27 46 603 8217; адрес Eden Grove Building, Lucas Avenue, Makhanda 6139",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Международный офис (International Office / Global Engagement)",
   "addressee_name": "Ms Orla Quinlan",
   "addressee_title": "Директор по глобальному взаимодействию (Global Engagement Director)",
   "salutation": "Dear Ms Quinlan,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "1336"
  },
  {
   "country": "South Africa",
@@ -905,9 +944,9 @@
   "head_title": "Chief Executive Officer (CEO)",
   "party_secretary": "",
   "head_verified_source": "https://www.sansa.org.za/leadership/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "EOSat-1 (first South African Earth-observation satellite, design & development phase; main contractor Denel Dynamics Spaceteq; SA contribution to ARMC constellation)",
@@ -921,14 +960,16 @@
    "Космическое агентство ЮАР (не университет) — ключевой национальный партнёр; спутники сами не строит — ZACUBE-1/2 построены CPUT (F'SATI) при участии SANSA, поэтому satellites_launched = 0",
    "Отдельного международного офиса/email нет — использован общий ящик головного офиса; CEO Humbulani Mudau с 1 апреля 2023 г.",
    "Станция Hartebeesthoek уже является приёмной станцией группировки BRICS — возможна поддержка TT&C для VLEO-кубсатов",
-   "Тел.: головной офис +27 12 844 0500; Hartebeesthoek +27 12 334 5000 (spaceops-info@sansa.org.za); Hermanus +27 28 285 0000 (spacesci-info@sansa.org.za)"
+   "Тел.: головной офис +27 12 844 0500; Hartebeesthoek +27 12 334 5000 (spaceops-info@sansa.org.za); Hermanus +27 28 285 0000 (spacesci-info@sansa.org.za)",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Головной офис SANSA (общий ящик, Head Office)",
   "addressee_name": "Mr Humbulani Mudau",
   "addressee_title": "Генеральный директор (CEO) SANSA",
   "salutation": "Dear Mr Mudau,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "South Africa",
@@ -947,9 +988,9 @@
   "head_title": "Vice-Chancellor and Principal",
   "party_secretary": "",
   "head_verified_source": "https://www.dut.ac.za/senior_management_team/prof-mthembu/",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1201–1400",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -957,19 +998,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.dut.ac.za/contact/; https://www.dut.ac.za/international_education_and_partnerships/; https://www.dut.ac.za/senior_management_team/prof-mthembu/; https://www.dut.ac.za/vice-chancellor/; https://ieasa.studysa.org/about-us/directors-forum/",
+  "sources": "https://www.dut.ac.za/contact/; https://www.dut.ac.za/international_education_and_partnerships/; https://www.dut.ac.za/senior_management_team/prof-mthembu/; https://www.dut.ac.za/vice-chancellor/; https://ieasa.studysa.org/about-us/directors-forum/\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "high",
   "notes_ru": [
    "Университет технологий (UoT), ведущий среди шести UoT ЮАР; спутников не найдено (одна проверка)",
    "Офис International Education and Partnerships (IEP): ML Sultan Campus, D Block, 7–8 этаж; тел. директора +27 31 373 5474",
-   "Prof. Mthembu — ректор с октября 2016 г."
+   "Prof. Mthembu — ректор с октября 2016 г.",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Офис международного образования и партнёрств (International Education and Partnerships, IEP)",
   "addressee_name": "Dr Lavern Samuels",
   "addressee_title": "Директор офиса международного образования и партнёрств (IEP)",
   "salutation": "Dear Dr Samuels,",
   "match_status": "личный, совпало",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "1838"
  },
  {
   "country": "South Africa",
@@ -988,9 +1031,9 @@
   "head_title": "Vice-Chancellor and Principal",
   "party_secretary": "",
   "head_verified_source": "https://www.ufs.ac.za/about-the-ufs/governance/rectorate",
-  "rank_qs": "QS2027: 1001-1200",
+  "rank_qs": "QS2027: 1001–1200",
   "rank_the": "THE2027: 1201–1400",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -998,20 +1041,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.ufs.ac.za/contact-us; https://www.ufs.ac.za/international; https://www.ufs.ac.za/about-the-ufs/governance/rectorate; https://ieasa.studysa.org/about-us/directors-forum/; https://businesstech.co.za/news/lifestyle/864277/south-africa-has-a-new-number-one-university-in-gauteng-second-only-to-uct-nationally/",
+  "sources": "https://www.ufs.ac.za/contact-us; https://www.ufs.ac.za/international; https://www.ufs.ac.za/about-the-ufs/governance/rectorate; https://ieasa.studysa.org/about-us/directors-forum/; https://businesstech.co.za/news/lifestyle/864277/south-africa-has-a-new-number-one-university-in-gauteng-second-only-to-uct-nationally/\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Prof. Hester Klopper — ректор с 1 февраля 2025 г., первая женщина на этом посту",
    "Международное направление курирует DVC: Strategic Initiatives, International and Institutional Affairs Prof. Sam Tshehla (с 1 апреля 2026)",
    "Prof. Lynette Jacobs указана как исполняющая обязанности директора Office for International Affairs (данные IEASA за 2025 г.); с 2026 г. подразделение называется Directorate for International Partnerships and Relations — должность директора стоит перепроверить",
-   "Спутников не найдено (одна проверка)"
+   "Спутников не найдено (одна проверка)",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Директорат международных партнёрств и связей (Directorate for International Partnerships and Relations, ранее Office for International Affairs)",
   "addressee_name": "Prof. Lynette Jacobs",
   "addressee_title": "И. о. директора и руководитель исследовательского направления Офиса международных связей (Acting Director)",
   "salutation": "Dear Prof. Jacobs,",
   "match_status": "личный, совпало",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "1128"
  },
  {
   "country": "South Africa",
@@ -1030,9 +1075,9 @@
   "head_title": "Acting Vice-Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://www.smu.ac.za/explore-smu/who-we-are/executive-management/",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1401–1600",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1040,20 +1085,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.smu.ac.za/contacts/; https://www.smu.ac.za/explore-smu/who-we-are/executive-management/; https://www.smu.ac.za/explore-smu/departments/institutional-advancement-and-internationalisation/; https://ieasa.studysa.org/about-us/directors-forum/; https://www.dut.ac.za/; https://www.timeslive.co.za/news/south-africa/2026-06-18-smu-vice-chancellor-tandi-matsha-erasmus-has-died/",
+  "sources": "https://www.smu.ac.za/contacts/; https://www.smu.ac.za/explore-smu/who-we-are/executive-management/; https://www.smu.ac.za/explore-smu/departments/institutional-advancement-and-internationalisation/; https://ieasa.studysa.org/about-us/directors-forum/; https://www.dut.ac.za/; https://www.timeslive.co.za/news/south-africa/2026-06-18-smu-vice-chancellor-tandi-matsha-erasmus-has-died/\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "medium",
   "notes_ru": [
    "Медицинский университет — профиль слабо соответствует CubeSat-проекту; спутников не найдено",
    "Ректор Prof. Tandi Matsha-Erasmus скончалась в июне 2026 г.; обязанности ректора исполняет Prof. Dini Mawela (Acting Vice-Chancellor) — учесть деликатность в письме",
    "Общий email не опубликован (на сайте только форма обратной связи); телефон — регистратура (012) 521 5759",
-   "Международное направление курирует и. о. DVC Prof. Douglas Maleka (Research, Innovation and Internationalisation)"
+   "Международное направление курирует и. о. DVC Prof. Douglas Maleka (Research, Innovation and Internationalisation)",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Директорат интернационализации (Internationalisation Directorate)",
   "addressee_name": "Dr Carlien Jooste",
   "addressee_title": "Директор по интернационализации (Director: Internationalisation)",
   "salutation": "Dear Dr Jooste,",
   "match_status": "личный, совпало",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "South Africa",
@@ -1072,9 +1119,9 @@
   "head_title": "Vice-Chancellor and Principal",
   "party_secretary": "",
   "head_verified_source": "https://www.tut.ac.za/about/executive-management-committee/",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1801–2000",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1082,19 +1129,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.tut.ac.za/contact-us; https://www.tut.ac.za/about/executive-management-committee/; https://www.tut.ac.za/research--innovation/internationalisation/; https://www.tut.ac.za/international-office/international-office-contacts/; https://ieasa.studysa.org/about-us/directors-forum/; nanosats.csv",
+  "sources": "https://www.tut.ac.za/contact-us; https://www.tut.ac.za/about/executive-management-committee/; https://www.tut.ac.za/research--innovation/internationalisation/; https://www.tut.ac.za/international-office/international-office-contacts/; https://ieasa.studysa.org/about-us/directors-forum/; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "medium",
   "notes_ru": [
    "Спутников TUT в nanosats.csv не найдено; квота веб-поиска исчерпана до отдельной проверки (F'SATI исторически имеет узел в TUT — не проверено)",
    "Есть два международных подразделения: Internationalisation Office (партнёрства, Research & Innovation; менеджер Mr Caiphus Motadi, +27 12 382 4731) и International Students Office (internationaloffice@tut.ac.za, студенты)",
-   "Офис ректора: Elizma van der Linde, +27 12 382 4112, VanDerLindeME@tut.ac.za; в IEASA (2025) TUT представляет Dr Rita Raseleka, Director: Research & Innovation (raselekarm@tut.ac.za)"
+   "Офис ректора: Elizma van der Linde, +27 12 382 4112, VanDerLindeME@tut.ac.za; в IEASA (2025) TUT представляет Dr Rita Raseleka, Director: Research & Innovation (raselekarm@tut.ac.za)",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Офис интернационализации (Internationalisation Office, Research & Innovation)",
   "addressee_name": "Mr Caiphus Motadi",
   "addressee_title": "Менеджер офиса интернационализации (Manager: Internationalisation)",
   "salutation": "Dear Mr Motadi,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "South Africa",
@@ -1113,9 +1162,9 @@
   "head_title": "Vice-Chancellor and Principal",
   "party_secretary": "",
   "head_verified_source": "https://www.vut.ac.za/executive-management/",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1801–2000",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1123,19 +1172,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.vut.ac.za/contact-us/; https://www.vut.ac.za/international-office/; https://www.vut.ac.za/executive-management/; https://ieasa.studysa.org/about-us/directors-forum/; nanosats.csv",
+  "sources": "https://www.vut.ac.za/contact-us/; https://www.vut.ac.za/international-office/; https://www.vut.ac.za/executive-management/; https://ieasa.studysa.org/about-us/directors-forum/; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "medium",
   "notes_ru": [
    "Отдельного общего email нет; vutmedia@vut.ac.za — ящик, привязанный к блоку General Enquiries / медиа на странице контактов",
    "Директор International Office Mr Vido Kungune: тел. 016 950 9377, офис A009-18 (подтверждено также IEASA 2025)",
-   "Спутников в nanosats.csv не найдено; квота веб-поиска исчерпана до отдельной проверки"
+   "Спутников в nanosats.csv не найдено; квота веб-поиска исчерпана до отдельной проверки",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Международный офис (International Office)",
   "addressee_name": "Mr Vido Kungune",
   "addressee_title": "Директор международного офиса (Director: International Office)",
   "salutation": "Dear Mr Kungune,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "South Africa",
@@ -1154,9 +1205,9 @@
   "head_title": "Vice-Chancellor and Principal",
   "party_secretary": "",
   "head_verified_source": "https://www.ul.ac.za/about-us/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1170,14 +1221,16 @@
    "Общего email нет — enrolment@ul.ac.za (приём/общие контакты, +27 15 268 3332) указан на сайте как «General contacts»",
    "Ректор Dr Jeffrey Mabelebele — назван на сайте «новым» ректором; учёное звание — Dr (не Prof.)",
    "Директор Office of International Affairs — Prof. Nonceba Mbambo-Kekana по данным IEASA (2025); на сайте UL имя не найдено — перепроверить",
-   "Спутников в nanosats.csv не найдено; квота веб-поиска исчерпана до отдельной проверки"
+   "Спутников в nanosats.csv не найдено; квота веб-поиска исчерпана до отдельной проверки",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Офис международных связей (Office of International Affairs)",
   "addressee_name": "Prof. Nonceba Mbambo-Kekana",
   "addressee_title": "Директор по международным связям (Director: International Affairs)",
   "salutation": "Dear Prof. Mbambo-Kekana,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "South Africa",
@@ -1196,9 +1249,9 @@
   "head_title": "Interim Vice-Chancellor and Principal",
   "party_secretary": "",
   "head_verified_source": "https://www.mut.ac.za/about-mut/leadership-and-governance/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1211,14 +1264,16 @@
   "notes_ru": [
    "Отдельного международного офиса/email нет: интернационализация находится в директорате Marketing and Communications под кураторством ректора; ведущее лицо — Senior Director: Marketing and Communication (на сайте указан как «M Mkhize», учёное звание не указано)",
    "Ректор — временный (Interim VC) Prof. Rushiella Songca; офис ректора: тел. 031 907 7219, adsecretary@mut.ac.za",
-   "Спутников в nanosats.csv не найдено; квота веб-поиска исчерпана до отдельной проверки"
+   "Спутников в nanosats.csv не найдено; квота веб-поиска исчерпана до отдельной проверки",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Общий ящик / колл-центр университета (General enquiries); интернационализация — директорат Marketing and Communications",
   "addressee_name": "M Mkhize",
   "addressee_title": "Старший директор по маркетингу и коммуникациям, руководитель направления интернационализации (Senior Director: Marketing and Communication)",
   "salutation": "Dear Senior Director Mkhize,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "South Africa",
@@ -1237,9 +1292,9 @@
   "head_title": "Vice-Chancellor and Principal",
   "party_secretary": "",
   "head_verified_source": "https://www.spu.ac.za/index.php/spu-executive_management/ (открыта 04.10.2026)",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1254,7 +1309,8 @@
    "Молодой университет (осн. 2014) в Кимберли; для исследовательского партнёрства релевантен DVC: Research, Innovation and Postgraduate Affairs Prof. Jose Frantz",
    "Спутников в nanosats.csv не найдено; квота веб-поиска исчерпана до отдельной проверки",
    "04.10.2026 на сайте подтверждены: VC Prof. Debra Meyer (Executive Management), коммутатор +27 53 491 0000 и адрес Central Campus (страница Contact); общего e-mail и международного офиса на сайте по-прежнему нет",
-   "Перепроверка: Ректор, телефон и адрес подтверждены на сайте spu.ac.za 04.10.2026; общий e-mail/международный офис не опубликованы"
+   "Перепроверка: Ректор, телефон и адрес подтверждены на сайте spu.ac.za 04.10.2026; общий e-mail/международный офис не опубликованы",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Отдел набора студентов (Student Recruitment) — единственный опубликованный общий ящик",
   "addressee_name": "",
@@ -1262,7 +1318,8 @@
   "salutation": "Dear Director of the International Office,",
   "recheck_ru": "Ректор, телефон и адрес подтверждены на сайте spu.ac.za 04.10.2026; общий e-mail/международный офис не опубликованы",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "South Africa",
@@ -1281,9 +1338,9 @@
   "head_title": "Managing Director",
   "party_secretary": "",
   "head_verified_source": "https://www.sarao.ac.za/about/meet-the-team/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1297,14 +1354,16 @@
    "Национальная обсерватория (подразделение NRF), не университет; спутников не строит",
    "Станция лазерной локации спутников (SLR) и GNSS в Хартебеестхуке — потенциально полезны для точного определения орбит VLEO-спутников",
    "Ms Pontsho Maruping — Managing Director с 1 октября 2022 г.; отдельного международного офиса/email нет — использован общий ящик enquiries@sarao.ac.za",
-   "Квота веб-поиска исчерпана — партнёрства с космическими агентствами отдельно не проверялись"
+   "Квота веб-поиска исчерпана — партнёрства с космическими агентствами отдельно не проверялись",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Общий ящик SARAO (General enquiries), Cape Town Office",
   "addressee_name": "Ms Pontsho Maruping",
   "addressee_title": "Управляющий директор SARAO (Managing Director)",
   "salutation": "Dear Ms Maruping,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "South Africa",
@@ -1323,9 +1382,9 @@
   "head_title": "Director: SAAO",
   "party_secretary": "",
   "head_verified_source": "https://www.saao.ac.za/about/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1338,14 +1397,16 @@
   "notes_ru": [
    "Национальная оптическая обсерватория (подразделение NRF), не университет; спутников не строит",
    "Отдельного международного офиса нет — использован общий ящик enquiries@saao.ac.za; Sutherland: +27 23 571 2436",
-   "Квота веб-поиска исчерпана — космические проекты/партнёрства отдельно не проверялись"
+   "Квота веб-поиска исчерпана — космические проекты/партнёрства отдельно не проверялись",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Общий ящик SAAO (General enquiries)",
   "addressee_name": "Prof. Rosalind Skelton",
   "addressee_title": "Директор SAAO (Director)",
   "salutation": "Dear Prof. Skelton,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "South Africa",
@@ -1364,9 +1425,9 @@
   "head_title": "Campus Head (Ruimsig Johannesburg)",
   "party_secretary": "",
   "head_verified_source": "https://www.emeris.ac.za/campuses/ruimsig-johannesburg",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1379,13 +1440,15 @@
   "notes_ru": [
    "IIE MSA (бывший Monash South Africa) больше не существует как отдельный бренд: сайт iiemsa.co.za перенаправляет на Emeris — объединённый бренд IIE (Varsity College, IIE MSA, Vega, School of Hospitality); частный вуз, регистрация DHET 2007/HE07/002",
    "Нет ректора/вице-канцлера и международного офиса на уровне кампуса; указан руководитель кампуса Ruimsig (учёное звание не указано); ruimsig@emeris.ac.za — общий ящик кампуса",
-   "Частный вуз без инженерно-космического профиля; спутников нет; низкий приоритет для CubeSat-группировки"
+   "Частный вуз без инженерно-космического профиля; спутников нет; низкий приоритет для CubeSat-группировки",
+   "Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют."
   ],
   "mailbox_owner": "Общий ящик кампуса Emeris Ruimsig (General queries)",
   "addressee_name": "Andre Lubbe",
   "addressee_title": "Руководитель кампуса (Campus Head, Ruimsig Johannesburg)",
   "salutation": "Dear Mr Lubbe,",
   "match_status": "ПРОВЕРИТЬ",
-  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",
+  "rank_webometrics": "нет в опубл. списке"
  }
 ]

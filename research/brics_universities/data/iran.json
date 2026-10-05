@@ -34,7 +34,8 @@
    "Руководитель Управления международных связей не подтверждён: в выдержках фигурируют Mohsen Masihi (страница IA) и Prof. Hamed Sadeghi (Director of Academic and International Collaborations, страница Leadership) — уточнить.",
    "Спутники Sharif-Sat/Dousti на орбиту не выведены (запуск Dousti в 2019 г. неудачен), поэтому satellites_launched = 0.",
    "Телефон — приёмная президента; email_general — адрес канцелярии президента (president@sharif.edu).",
-   "ПРОВЕРИТЬ: у вуза есть проект Sharifsat — статус запуска не подтверждён, в таблице 0"
+   "ПРОВЕРИТЬ: у вуза есть проект Sharifsat — статус запуска не подтверждён, в таблице 0",
+   "Ручная проверка: Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Управление международных связей (International Affairs Office)",
   "addressee_name": "",
@@ -60,9 +61,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://en.wikipedia.org/wiki/Isfahan_University_of_Technology",
-  "rank_qs": "QS2027: 620",
+  "rank_qs": "QS2027: =620",
   "rank_the": "THE2027: 701–800",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — technical/industrial universities (دانشگاه‌های صنعتی): 5",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -70,7 +71,7 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.wikipedia.org/wiki/Isfahan_University_of_Technology; https://english.iut.ac.ir/; https://english.iut.ac.ir/node/1053; https://english.iut.ac.ir/international-centre; https://english.iut.ac.ir/contact-us; https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv; https://www.qianmu.org (QS2027 list, secondary)",
+  "sources": "https://en.wikipedia.org/wiki/Isfahan_University_of_Technology; https://english.iut.ac.ir/; https://english.iut.ac.ir/node/1053; https://english.iut.ac.ir/international-centre; https://english.iut.ac.ir/contact-us; https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv; https://www.qianmu.org (QS2027 list, secondary)\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент: Prof. S. Z. Kalantari (профессор физики) с 2025 г. по Wikipedia; предшественник — Prof. S. M. Abtahi (2019–2025). Официальный сайт напрямую недоступен — подтвердить по сайту.",
@@ -78,14 +79,16 @@
    "Общий email не найден; телефон — Международный центр (+98 31 3391 2505/2506, факс +98 31 3391 2511).",
    "Собственных спутников на орбите не найдено (спутник Kowsar создан частной компанией Omid Faza, не университетом).",
    "В санкционных списках US/EU/UK университет не найден, но общий санкционный режим против Ирана требует комплаенс-проверки.",
-   "QS2027: 620 — по вторичному источнику (китайский агрегатор рейтинга QS)."
+   "QS2027: 620 — по вторичному источнику (китайский агрегатор рейтинга QS).",
+   "Рейтинги: таблица «технические/промышленные университеты» (24 вузов в таблице)"
   ],
   "mailbox_owner": "Международный центр научного сотрудничества (International Scientific Cooperation Center)",
   "addressee_name": "Dr. Peiman Mosaddegh",
   "addressee_title": "Директор Международного центра научного сотрудничества",
   "salutation": "Dear Dr. Mosaddegh,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -104,9 +107,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://x.com/ModaresUni",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 2",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -114,20 +117,22 @@
   "space_units": "Aerospace Engineering Group, Faculty of Mechanical Engineering (MSc level)",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en-adm.modares.ac.ir/~intl-aff; https://en-adm.modares.ac.ir/index.jsp?pageid=8077; https://en.modares.ac.ir/index.jsp?pageid=6172; https://x.com/ModaresUni; https://en.wikipedia.org/wiki/Tarbiat_Modares_University; https://www.iranhavafaza.com/index/article/62",
+  "sources": "https://en-adm.modares.ac.ir/~intl-aff; https://en-adm.modares.ac.ir/index.jsp?pageid=8077; https://en.modares.ac.ir/index.jsp?pageid=6172; https://x.com/ModaresUni; https://en.wikipedia.org/wiki/Tarbiat_Modares_University; https://www.iranhavafaza.com/index/article/62\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент (Chancellor) Dr. Yousef Hojjat — по выдержкам (открытое письмо руководителям университетов мира, июнь 2025); официальный сайт напрямую недоступен.",
    "Директор по международным делам — Abdolamir Allameh (по странице International Affairs; учёное звание не подтверждено).",
    "Телефон — канцелярия ректора; международный офис: +98 21 8288 4118, +98 21 8288 3220.",
-   "Спутников не найдено. В санкционных списках US/EU/UK не найден (в списке ЕС упоминается лишь адрес научно-технологического парка Tarbiat Modares у другой организации)."
+   "Спутников не найдено. В санкционных списках US/EU/UK не найден (в списке ЕС упоминается лишь адрес научно-технологического парка Tarbiat Modares у другой организации).",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Управление международных связей (Office of International Affairs)",
   "addressee_name": "Dr. Abdolamir Allameh",
   "addressee_title": "Директор Управления международных связей",
   "salutation": "Dear Dr. Allameh,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "849"
  },
  {
   "country": "Iran",
@@ -146,7 +151,7 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://en.wikipedia.org/wiki/Shiraz_University_of_Medical_Sciences",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 651–700",
   "rank_national": "",
   "satellites_launched": 0,
@@ -163,7 +168,8 @@
    "Президент Seyed Basir Hashemi указан по en/fa-Википедии (обе совпадают), на официальном сайте не подтверждён — проверить перед рассылкой.",
    "Адрес — по профилю THE (Zand Blvd, 71348-1433).",
    "Медицинский вуз; спутников не ожидается, отдельная проверка не проводилась (исчерпан лимит поиска).",
-   "Перепроверка: 04.10.2026: sums.ac.ir по-прежнему недоступен из-за пределов Ирана (прокси и WebFetch — 503); данные не изменены"
+   "Перепроверка: 04.10.2026: sums.ac.ir по-прежнему недоступен из-за пределов Ирана (прокси и WebFetch — 503); данные не изменены",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -190,9 +196,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.muk.ac.ir/Page?pageId=229",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 701–800",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403: не в рейтинге",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -200,21 +206,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.muk.ac.ir/; https://www.muk.ac.ir/Page?pageId=229; https://www.muk.ac.ir/Page?pageId=543; https://www.muk.ac.ir/Page?pageId=547",
+  "sources": "https://www.muk.ac.ir/; https://www.muk.ac.ir/Page?pageId=229; https://www.muk.ac.ir/Page?pageId=543; https://www.muk.ac.ir/Page?pageId=547\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент — д-р Шоале Шахгейби (Shoaleh Shahgheibi), полный профессор (استاد تمام), акушер-гинеколог — по таблице «Президиум университета» на официальном сайте.",
    "Общий e-mail канцелярии ректора на сайте не опубликован; единственный адрес международного управления — foreign.students@muk.ac.ir (ориентирован на иностранных студентов).",
    "Телефон на сайте указан как 009833664645 (без кода города); код Сенендеджа 087 добавлен нами — проверить.",
    "Медицинский университет: космической деятельности не найдено; партнёрство по CubeSat маловероятно (можно предлагать медицинские/телемедицинские полезные нагрузки).",
-   "В санкционных списках не проверялся детально (быстрая проверка, LIGHT)."
+   "В санкционных списках не проверялся детально (быстрая проверка, LIGHT).",
+   "Рейтинги: Медицинский университет (Минздрав Ирана): отсутствует во всех таблицах ISC 1403 на ur.isc.ac, которые охватывают вузы Минобрнауки и др. ведомств, но не медицинские."
   ],
   "mailbox_owner": "Управление международных дел (مدیریت امور بین الملل)",
   "addressee_name": "Dr. Farzad Parvizpour",
   "addressee_title": "Директор Управления международных дел (доцент/استادیار, прикладные клеточные науки)",
   "salutation": "Dear Dr. Parvizpour,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -233,9 +241,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://uk.ac.ir/chairman",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1001–1200",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 12",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -243,20 +251,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://uk.ac.ir/; https://uk.ac.ir/chairman; https://en.wikipedia.org/wiki/Shahid_Bahonar_University_of_Kerman",
+  "sources": "https://uk.ac.ir/; https://uk.ac.ir/chairman; https://en.wikipedia.org/wiki/Shahid_Bahonar_University_of_Kerman\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент — Hossein Nezamabadi-pour (на сайте «دکتر»; звание профессора по общеизвестным данным, официальная страница его не указывает). Личный e-mail президента: nezam@uk.ac.ir.",
    "Сайт международного управления (intrelations.uk.ac.ir) недоступен — e-mail и директор международного офиса не установлены; письмо направлять на chancellor@uk.ac.ir.",
    "Факс: +98 34 3325 7165.",
-   "Спутников не найдено (одна быстрая проверка); есть публикации сотрудников по связи для LEO/CubeSat (Majlesi J., 2016)."
+   "Спутников не найдено (одна быстрая проверка); есть публикации сотрудников по связи для LEO/CubeSat (Majlesi J., 2016).",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Канцелярия президента университета",
   "addressee_name": "Prof. Hossein Nezamabadi-pour",
   "addressee_title": "Президент университета",
   "salutation": "Dear Prof. Nezamabadi-pour,",
   "match_status": "ПРОВЕРИТЬ",
-  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -275,9 +285,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://pgu.ac.ir/en/node",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1201–1400",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 28",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -285,20 +295,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://pgu.ac.ir/en/node; https://pgu.ac.ir/fa/contact; https://intl.pgu.ac.ir/contact; https://intl.pgu.ac.ir/staff; https://pgu.ac.ir/fa/staff/6677727",
+  "sources": "https://pgu.ac.ir/en/node; https://pgu.ac.ir/fa/contact; https://intl.pgu.ac.ir/contact; https://intl.pgu.ac.ir/staff; https://pgu.ac.ir/fa/staff/6677727\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент — Dr. Ahmad Shirzadi (подпись под обращением президента, сентябрь 2026); учёное звание не подтверждено.",
    "Телефон — канцелярия президента (دفتر رئیس دانشگاه). Общий e-mail не опубликован.",
    "intl.office@pgu.ac.ir на сайте помечен как адрес для подтверждения документов; лично директору: arash.khosravi@pgu.ac.ir (на сайте в виде «[at]»), тел. +98 77 3122 2581.",
-   "Спутников не найдено (быстрая проверка)."
+   "Спутников не найдено (быстрая проверка).",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Управление международных дел и иностранных студентов (مدیریت امور بین‌الملل و دانشجویان غیرایرانی)",
   "addressee_name": "Arash Khosravi",
   "addressee_title": "Директор Управления международных дел и глава консульской службы для иностранных студентов",
   "salutation": "Dear Mr. Khosravi,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -317,7 +329,7 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1201–1400",
   "rank_national": "",
   "satellites_launched": 0,
@@ -334,7 +346,8 @@
    "Президент не установлен: en-Википедия и таблица в fa-Википедии называют д-ра Хешматоллу Алинежада (с 2021/1400), а карточка fa-Википедии — д-ра Эбрахима Салехи Омрана; данные противоречат друг другу — уточнить.",
    "Адрес — по профилю THE (Pasdaran St., Babolsar, 47415).",
    "Проверка на спутники не проведена (исчерпан лимит поиска); в nanosats.csv вуз отсутствует.",
-   "Перепроверка: Сайты umz.ac.ir / en.umz.ac.ir / foreign.umz.ac.ir по-прежнему недоступны (04.10.2026, сброс соединения); данные не изменены."
+   "Перепроверка: Сайты umz.ac.ir / en.umz.ac.ir / foreign.umz.ac.ir по-прежнему недоступны (04.10.2026, сброс соединения); данные не изменены.",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -361,9 +374,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "http://chair.basu.ac.ir/",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1401–1600",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 23",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -371,21 +384,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://basu.ac.ir/; http://chair.basu.ac.ir/; https://intl.basu.ac.ir/; https://intl.basu.ac.ir/management-intl; https://basu.ac.ir/en; https://www.iranwatch.org/iranian-entities/bu-ali-sina-university",
+  "sources": "https://basu.ac.ir/; http://chair.basu.ac.ir/; https://intl.basu.ac.ir/; https://intl.basu.ac.ir/management-intl; https://basu.ac.ir/en; https://www.iranwatch.org/iranian-entities/bu-ali-sina-university\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент — Dr. Gholamhossein Majzoubi (по новостям сайта президентского офиса, 2026); звание не подтверждено.",
    "email_general — адрес службы связей с общественностью (public_relation@basu.ac.ir), отдельный адрес канцелярии не опубликован.",
    "Директор офиса научного и международного сотрудничества — д-р Хосейн Тарабзаде Хорасани (доцент/استادیار, геодезия), torabzadeh@basu.ac.ir, тел. +98 81 3140 7300.",
    "Университет фигурирует в базе Iran Watch (это не санкционный список); в US/EU/UK списках не проверялся детально.",
-   "Спутников не найдено (быстрая проверка; Sina-1 к университету не относится)."
+   "Спутников не найдено (быстрая проверка; Sina-1 к университету не относится).",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице); делит место с: دانشگاه قم"
   ],
   "mailbox_owner": "Управление научного и международного сотрудничества (اداره همکاری‌های علمی و بین‌المللی)",
   "addressee_name": "Dr. Hossein Torabzadeh Khorasani",
   "addressee_title": "Директор Управления научного и международного сотрудничества",
   "salutation": "Dear Dr. Torabzadeh Khorasani,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -404,9 +419,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://razi.ac.ir/chanceller",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1401–1600",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 8",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -414,19 +429,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://razi.ac.ir/; https://razi.ac.ir/chanceller; https://int.razi.ac.ir/; https://int.razi.ac.ir/%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D8%AF%D9%81%D8%AA%D8%B1",
+  "sources": "https://razi.ac.ir/; https://razi.ac.ir/chanceller; https://int.razi.ac.ir/; https://int.razi.ac.ir/%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D8%AF%D9%81%D8%AA%D8%B1\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "high",
   "notes_ru": [
    "Президент — д-р Джамаль Фатхоллахи (в должности с дек. 2024/دی ۱۴۰۳), e-mail: J.fathollahi@razi.ac.ir, тел. +98 83 3427 4501-2.",
    "Директор по международному научному сотрудничеству — Dr. Shahab Moradkhani (доцент, ELT), s.moradkhani@razi.ac.ir, тел. +98 83 3427 6167.",
-   "Спутников не найдено (быстрая проверка). Университет есть на сайте QS (topuniversities), конкретный ранг QS2027 не проверялся."
+   "Спутников не найдено (быстрая проверка). Университет есть на сайте QS (topuniversities), конкретный ранг QS2027 не проверялся.",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Управление международного научного сотрудничества и иностранных студентов",
   "addressee_name": "Dr. Shahab Moradkhani",
   "addressee_title": "Директор по международному научному сотрудничеству и делам иностранных студентов (доцент)",
   "salutation": "Dear Dr. Moradkhani,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -445,9 +462,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://araku.ac.ir/",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1601–1800",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 32",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -455,21 +472,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://araku.ac.ir/; https://araku.ac.ir/web/ic; https://araku.ac.ir/web/ic/contact-us; https://araku.ac.ir/web/pe; https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%A7%D8%B1%D8%A7%DA%A9",
+  "sources": "https://araku.ac.ir/; https://araku.ac.ir/web/ic; https://araku.ac.ir/web/ic/contact-us; https://araku.ac.ir/web/pe; https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%A7%D8%B1%D8%A7%DA%A9\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент — «д-р Садеги» (новости на официальном сайте, 2026); полное имя Hossein Sadeghi — по фа-Википедии; учёное звание не подтверждено.",
    "email_general — адрес электронного секретариата (e-dabir@araku.ac.ir); отдельный e-mail канцелярии ректора не опубликован. Телефон — руководитель аппарата президента (д-р Захра Раджаби), тел. 32621010.",
    "Офис научного и международного сотрудничества: специалист г-жа Марджани, +98 86 3262 1062, d-international@araku.ac.ir; имя директора офиса на сайте не указано.",
    "Почтовый индекс на сайте записан как «77584-38481» (RTL); в адресе приведён в порядке 38481-77584 — сверить.",
-   "Спутников не найдено (быстрая проверка)."
+   "Спутников не найдено (быстрая проверка).",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Офис научного и международного сотрудничества (دفتر همکاری‌های علمی بین‌المللی)",
   "addressee_name": "",
   "addressee_title": "Директор Офиса научного и международного сотрудничества",
   "salutation": "Dear Director of International Scientific Cooperation,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -488,9 +507,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://shahed.ac.ir/the-university-president-office/related-people/reis_daneshgah/",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1801–2000",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — universities of executive bodies (دانشگاه‌های دستگاه‌های اجرایی): 2",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -498,20 +517,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://shahed.ac.ir/; https://shahed.ac.ir/the-university-president-office/related-people/reis_daneshgah/; https://shahed.ac.ir/organigram/%d9%85%d8%af%db%8c%d8%b1%db%8c%d8%aa-%d9%87%d9%85%da%a9%d8%a7%d8%b1%db%8c-%d9%87%d8%a7%db%8c-%d8%b9%d9%84%d9%85%db%8c-%d8%a8%db%8c%d9%86-%d8%a7%d9%84%d9%85%d9%84%d9%84%db%8c/; https://en.shahed.ac.ir/",
+  "sources": "https://shahed.ac.ir/; https://shahed.ac.ir/the-university-president-office/related-people/reis_daneshgah/; https://shahed.ac.ir/organigram/%d9%85%d8%af%db%8c%d8%b1%db%8c%d8%aa-%d9%87%d9%85%da%a9%d8%a7%d8%b1%db%8c-%d9%87%d8%a7%db%8c-%d8%b9%d9%84%d9%85%db%8c-%d8%a8%db%8c%d9%86-%d8%a7%d9%84%d9%85%d9%84%d9%84%db%8c/; https://en.shahed.ac.ir/\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент — д-р Хамидреза Бахши, e-mail bakhshi@shahed.ac.ir; звание не подтверждено.",
    "Университет принимает студентов как по линии Минобрнауки, так и Минздрава (есть медицинский факультет); исторически связан с Фондом мучеников (Bonyad Shahid) — форма собственности указана упрощённо, проверить.",
    "Не путать с Shahed Aviation Industries (производитель БПЛА «Shahed», под санкциями ЕС/США) — к университету не относится; сам университет в санкционных списках при быстрой проверке не найден.",
-   "Спутников не найдено (быстрая проверка)."
+   "Спутников не найдено (быстрая проверка).",
+   "Рейтинги: таблица «университеты исполнительных ведомств» (не основные таблицы) (10 вузов в таблице); вуз подчинён не Минобрнауки, а другому ведомству"
   ],
   "mailbox_owner": "Управление международного научного сотрудничества (مدیریت همکاری‌های علمی بین‌المللی)",
   "addressee_name": "Dr. Babak Seif",
   "addressee_title": "Директор Управления международного научного сотрудничества",
   "salutation": "Dear Dr. Seif,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -530,7 +551,7 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027 Reporter (unranked)",
   "rank_national": "",
   "satellites_launched": 0,
@@ -547,7 +568,8 @@
    "fa-Википедия и поисковая выдача называют президентом Моджтабу Гударзи (مجتبی گودرزی) без даты — не подтверждено официальным источником, поле оставлено пустым. Есть официальный канал вуза в Eitaa (eitaa.com/ArakUTofficial) — для ручной проверки.",
    "THE2027: только статус Reporter (без ранга). Адрес — по профилю THE (Daneshgah St., Arak).",
    "Проверка на спутники не проведена; в nanosats.csv вуз отсутствует.",
-   "Перепроверка: Сайт недоступен; данные не изменены."
+   "Перепроверка: Сайт недоступен; данные не изменены.",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -565,16 +587,16 @@
   "ownership": "Государственный (Минобрнауки Ирана, MSRT)",
   "profile_type": "technical/aerospace",
   "main_fields": "Electrical engineering, Computer engineering, Mechanical engineering, Civil engineering, Chemical engineering, Industrial engineering",
-  "postal_address": "Qom University of Technology, Shahid Sardar Khodakaram Blvd., Old Qom–Tehran Road, Qom, Postal Code 151937195, Iran",
-  "email_general": "",
+  "postal_address": "Qom University of Technology, Shahid Sardar Khodakaram Blvd. (Old Qom-Tehran Road), Qom, Iran; P.O. Box 37195-1519; Postal Code 3718146645",
+  "email_general": "Info.admin@qut.ac.ir",
   "email_international": "",
-  "phone": "",
+  "phone": "+98 25 3616 9000",
   "website": "https://www.qut.ac.ir",
-  "head_name": "",
+  "head_name": "Dr. Jafar Ghanbari",
   "head_title": "President",
   "party_secretary": "",
-  "head_verified_source": "",
-  "rank_qs": "",
+  "head_verified_source": "https://www.qut.ac.ir/en/presidency/index; https://www.qut.ac.ir/fa/main/contact-us; https://www.qut.ac.ir/en/main/index",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027 Reporter (unranked)",
   "rank_national": "",
   "satellites_launched": 0,
@@ -584,14 +606,15 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.wikipedia.org/wiki/Qom_University_of_Technology; https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%B5%D9%86%D8%B9%D8%AA%DB%8C_%D9%82%D9%85; https://www.timeshighereducation.com/world-university-rankings/qom-university-technology",
-  "confidence": "low",
+  "sources": "https://en.wikipedia.org/wiki/Qom_University_of_Technology; https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%B5%D9%86%D8%B9%D8%AA%DB%8C_%D9%82%D9%85; https://www.timeshighereducation.com/world-university-rankings/qom-university-technology\nhttps://www.qut.ac.ir/en/presidency/index; https://www.qut.ac.ir/fa/main/contact-us; https://www.qut.ac.ir/en/main/index",
+  "confidence": "high",
   "notes_ru": [
    "Официальный сайт qut.ac.ir недоступен из нашей сети — контакты не проверены.",
    "fa-Википедия указывает президентом Джалала Резаи-Нура «с 24 тира 1397» (2018) — сведения могут быть устаревшими, поле оставлено пустым.",
    "THE2027: только статус Reporter. Адрес и индекс — по профилю THE (индекс 151937195 выглядит неполным — сверить).",
    "Проверка на спутники не проведена (исчерпан лимит поиска).",
-   "Перепроверка: Сайт qut.ac.ir (и en.) недоступен из нашей сети (curl/WebFetch 503) 04.10.2026; данные не изменены."
+   "Перепроверка: Сайт qut.ac.ir (и en.) недоступен из нашей сети (curl/WebFetch 503) 04.10.2026; данные не изменены.",
+   "Ручная проверка: Контакты прочитаны на официальном сайте 05.10.2026 (сессия с агентами). Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -599,7 +622,8 @@
   "salutation": "Dear Director of International Scientific Cooperation,",
   "recheck_ru": "Сайт qut.ac.ir (и en.) недоступен из нашей сети (curl/WebFetch 503) 04.10.2026; данные не изменены.",
   "match_status": "нет ящика",
-  "match_action": "Найти e-mail международного отдела или канцелярии"
+  "match_action": "Найти e-mail международного отдела или канцелярии",
+  "outreach_email_new": "Info.admin@qut.ac.ir"
  },
  {
   "country": "Iran",
@@ -609,17 +633,17 @@
   "ownership": "Государственный (Минобрнауки Ирана, MSRT)",
   "profile_type": "classical",
   "main_fields": "Agriculture, Engineering, Water & environmental engineering, Basic sciences, Veterinary medicine, Humanities",
-  "postal_address": "Shahid Chamran University of Ahvaz, Golestan Blvd., Ahvaz, Khuzestan Province, Iran",
-  "email_general": "",
-  "email_international": "",
-  "phone": "",
+  "postal_address": "Shahid Chamran University of Ahvaz, Golestan Blvd., Ahvaz, Khuzestan, Iran, postal code 61357-83151",
+  "email_general": "chancellor@scu.ac.ir",
+  "email_international": "oisc@scu.ac.ir",
+  "phone": "+98 61 3322 6708 (Office of International Scientific Cooperation); +98 61 3333 2041 (Chancellor's office)",
   "website": "https://scu.ac.ir",
-  "head_name": "Dr. Ali-Hossein Hosseinzadeh",
+  "head_name": "Prof. Ali Hossein Hosseinzadeh",
   "head_title": "Acting President",
   "party_secretary": "",
-  "head_verified_source": "https://en.wikipedia.org/wiki/Shahid_Chamran_University_of_Ahvaz",
-  "rank_qs": "",
-  "rank_the": "",
+  "head_verified_source": "https://scu.ac.ir/en/administration; https://scu.ac.ir/en/office-of-international-scientific-cooperation; https://scu.ac.ir/en/about",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -628,22 +652,24 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.wikipedia.org/wiki/Shahid_Chamran_University_of_Ahvaz; https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%B4%D9%87%DB%8C%D8%AF_%DA%86%D9%85%D8%B1%D8%A7%D9%86_%D8%A7%D9%87%D9%88%D8%A7%D8%B2; https://www.timeshighereducation.com/world-university-rankings/shahid-chamran-university-ahvaz",
-  "confidence": "low",
+  "sources": "https://en.wikipedia.org/wiki/Shahid_Chamran_University_of_Ahvaz; https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%B4%D9%87%DB%8C%D8%AF_%DA%86%D9%85%D8%B1%D8%A7%D9%86_%D8%A7%D9%87%D9%88%D8%A7%D8%B2; https://www.timeshighereducation.com/world-university-rankings/shahid-chamran-university-ahvaz\nhttps://scu.ac.ir/en/administration; https://scu.ac.ir/en/office-of-international-scientific-cooperation; https://scu.ac.ir/en/about",
+  "confidence": "high",
   "notes_ru": [
    "Официальный сайт scu.ac.ir недоступен (антибот-заглушка) — контакты не проверены.",
    "Али-Хосейн Хосейнзаде — исполняющий обязанности президента (سرپرست) с 20 эсфанда 1403 (март 2025) по en/fa-Википедии со ссылкой на сайт вуза; мог быть утверждён или заменён — проверить.",
    "Во входных данных ранг THE2027 не указан; адрес — по профилю THE (Golestan Blvd, Ahvaz).",
    "Проверка на спутники не проведена (исчерпан лимит поиска).",
-   "Перепроверка: 04.10.2026: scu.ac.ir недоступен (сброс соединения); поиск по-прежнему указывает А.-Х. Хосейнзаде как и.о. президента — данные не изменены."
+   "Перепроверка: 04.10.2026: scu.ac.ir недоступен (сброс соединения); поиск по-прежнему указывает А.-Х. Хосейнзаде как и.о. президента — данные не изменены.",
+   "Ручная проверка: Контакты прочитаны на официальном сайте 05.10.2026 (сессия с агентами). Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
-  "addressee_name": "",
-  "addressee_title": "Директор по международному научному сотрудничеству",
-  "salutation": "Dear Director of International Scientific Cooperation,",
+  "addressee_name": "Prof. Sayyed Rahim Moosavinia",
+  "addressee_title": "Директор Управления международного научного сотрудничества (OISC)",
+  "salutation": "Dear Prof. Moosavinia,",
   "recheck_ru": "04.10.2026: scu.ac.ir недоступен (сброс соединения); поиск по-прежнему указывает А.-Х. Хосейнзаде как и.о. президента — данные не изменены.",
   "match_status": "нет ящика",
-  "match_action": "Найти e-mail международного отдела или канцелярии"
+  "match_action": "Найти e-mail международного отдела или канцелярии",
+  "outreach_email_new": "oisc@scu.ac.ir"
  },
  {
   "country": "Iran",
@@ -662,9 +688,9 @@
   "head_title": "Acting President (سرپرست دانشگاه)",
   "party_secretary": "",
   "head_verified_source": "https://malayeru.ac.ir/ (новости мехр 1405 / сентябрь–октябрь 2026); https://malayeru.ac.ir/portal/home/?person/1430/33245/32806/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 55",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -672,14 +698,15 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://malayeru.ac.ir/; https://malayeru.ac.ir/en/; https://malayeru.ac.ir/portal/home/?person/1430/33245/32806/; https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
+  "sources": "https://malayeru.ac.ir/; https://malayeru.ac.ir/en/; https://malayeru.ac.ir/portal/home/?person/1430/33245/32806/; https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D9%85%D9%84%D8%A7%DB%8C%D8%B1\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Руководитель исправлен: официальный сайт в новостях сентября–октября 2026 г. называет д-ра Мохаммада Баширгонбада «сرپرست» (и.о. руководителя) университета; ранее указанный д-р Хосров Сайванд (фа-Википедия) на сайте не упоминается.",
    "email_general — адрес службы связей с общественностью (pr@malayeru.ac.ir, на сайте в виде pr[at]malayeru.ac.ir); у Бюро международных связей и иностранных студентов (اداره روابط بین الملل و دانشجویان غیرایرانی) e-mail не опубликован.",
    "Почтовый индекс на сайте записан «84621-65741» (RTL) — в нормальном порядке 65741-84621.",
    "Спутников не найдено (быстрая проверка).",
-   "Перепроверка: Сайт открыт через reader-сервис 04.10.2026: руководитель исправлен — и.о. президента (سرپرست) д-р Мохаммад Баширгонбад (новости сайта, мехр 1405 = сент.–окт. 2026); pr@malayeru.ac.ir, телефоны и адрес подтверждены на странице контактов (дата страницы 2019)."
+   "Перепроверка: Сайт открыт через reader-сервис 04.10.2026: руководитель исправлен — и.о. президента (سرپرست) д-р Мохаммад Баширгонбад (новости сайта, мехр 1405 = сент.–окт. 2026); pr@malayeru.ac.ir, телефоны и адрес подтверждены на странице контактов (дата страницы 2019).",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Канцелярия президента и служба связей с общественностью (دفتر ریاست و روابط عمومی)",
   "addressee_name": "",
@@ -687,7 +714,8 @@
   "salutation": "Dear Director of International Relations,",
   "recheck_ru": "Сайт открыт через reader-сервис 04.10.2026: руководитель исправлен — и.о. президента (سرپرست) д-р Мохаммад Баширгонбад (новости сайта, мехр 1405 = сент.–окт. 2026); pr@malayeru.ac.ir, телефоны и адрес подтверждены на странице контактов (дата страницы 2019).",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -706,9 +734,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.sru.ac.ir/%d8%ad%d9%88%d8%b2%d9%87-%d8%b1%db%8c%d8%a7%d8%b3%d8%aa/%d8%b1%db%8c%d8%a7%d8%b3%d8%aa-%d8%af%d8%a7%d9%86%d8%b4%da%af%d8%a7%d9%87/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "ISC University Ranking 1403 — universities of executive bodies (دانشگاه‌های دستگاه‌های اجرایی): 4",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -716,20 +744,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.sru.ac.ir/; https://www.sru.ac.ir/%d8%ad%d9%88%d8%b2%d9%87-%d8%b1%db%8c%d8%a7%d8%b3%d8%aa/%d8%b1%db%8c%d8%a7%d8%b3%d8%aa-%d8%af%d8%a7%d9%86%d8%b4%da%af%d8%a7%d9%87/; https://www.sru.ac.ir/%D8%AD%D9%88%D8%B2%D9%87-%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA/%D8%A7%D9%85%D9%88%D8%B1-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84/; http://www.sru.ac.ir/en",
+  "sources": "https://www.sru.ac.ir/; https://www.sru.ac.ir/%d8%ad%d9%88%d8%b2%d9%87-%d8%b1%db%8c%d8%a7%d8%b3%d8%aa/%d8%b1%db%8c%d8%a7%d8%b3%d8%aa-%d8%af%d8%a7%d9%86%d8%b4%da%af%d8%a7%d9%87/; https://www.sru.ac.ir/%D8%AD%D9%88%D8%B2%D9%87-%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA/%D8%A7%D9%85%D9%88%D8%B1-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84/; http://www.sru.ac.ir/en\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент — проф. Али Пуркамали Анараки (механика, «استاد»), e-mail president@sru.ac.ir; назначается министром образования по согласованию с МСРТ.",
    "Международный офис (دفتر همکاری های علمی و امور بین الملل): тел. +98 21 2297 0029, факс +98 21 2297 0033; имя руководителя на открытых страницах не указано (поисковик называет д-ра Моджтабу Горбани — не подтверждено).",
    "Англоязычный сайт использует также домен srttu.edu (sru@srttu.edu).",
-   "Спутников не найдено (быстрая проверка)."
+   "Спутников не найдено (быстрая проверка).",
+   "Рейтинги: таблица «университеты исполнительных ведомств» (не основные таблицы) (10 вузов в таблице); вуз подчинён не Минобрнауки, а другому ведомству"
   ],
   "mailbox_owner": "Офис научного сотрудничества и международных дел",
   "addressee_name": "",
   "addressee_title": "Руководитель Офиса научного сотрудничества и международных дел",
   "salutation": "Dear Director of International Scientific Cooperation,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -748,9 +778,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_امیرکبیر",
-  "rank_qs": "QS2027: 483",
+  "rank_qs": "QS2027: =483",
   "rank_the": "THE2027: 401–450",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — technical/industrial universities (دانشگاه‌های صنعتی): 3",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "Payam-e Amirkabir (AUTSAT-1), ~90 kg remote-sensing microsatellite — launch attempt on Simorgh 15.01.2019 failed (3rd stage), did not reach orbit",
@@ -758,7 +788,7 @@
   "space_units": "Faculty of Aerospace Engineering (دانشکده مهندسی هوافضا)",
   "agency_partnerships": "Iranian Space Agency / Iranian Space Research Center — named (with IUST and Sharif) as hub for BRICS+ space-education courses (Middle East Space Monitor, June 2025)",
   "restricted_list": "",
-  "sources": "https://en.wikipedia.org/wiki/Amirkabir_University_of_Technology; https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_امیرکبیر; https://aut.ac.ir/content/162/Contact-US; https://aut.ac.ir/content/95/Office-of-the-President; https://aut.ac.ir/persons.php; https://space.skyrocket.de/doc_sdat/payam-e-amirkabir.htm; https://middleeastspacemonitor.substack.com/p/middle-east-space-roundup-2-to-8-d62; https://www.timeshighereducation.com/world-university-rankings/amirkabir-university-technology; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://www.ecfr.gov (15 CFR 744 Supp. 4 Entity List); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslistservice.ofac.treas.gov (SDN); https://www.qianmu.org/ranking/1528.htm",
+  "sources": "https://en.wikipedia.org/wiki/Amirkabir_University_of_Technology; https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_امیرکبیر; https://aut.ac.ir/content/162/Contact-US; https://aut.ac.ir/content/95/Office-of-the-President; https://aut.ac.ir/persons.php; https://space.skyrocket.de/doc_sdat/payam-e-amirkabir.htm; https://middleeastspacemonitor.substack.com/p/middle-east-space-roundup-2-to-8-d62; https://www.timeshighereducation.com/world-university-rankings/amirkabir-university-technology; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://www.ecfr.gov (15 CFR 744 Supp. 4 Entity List); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslistservice.ofac.treas.gov (SDN); https://www.qianmu.org/ranking/1528.htm\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка",
@@ -766,14 +796,16 @@
    "Президент: Аббас Соруш с 1404 г. (2025) по fa.wikipedia; предшественник — Алиреза Рахаи (1402–1404)",
    "Спутник Payam-e Amirkabir (AUTSAT) был запущен в 2019 г., но не вышел на орбиту — в satellites_launched не засчитан",
    "Руководитель отдела научного и международного сотрудничества не подтверждён: в справочнике aut.ac.ir указан д-р Турадж Тагихани (тел. +98 21 6454 3532), в англ. сниппете — «T. Goudarzi»; уточнить перед отправкой",
-   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/сброс соединения); контакты взяты из поисковых сниппетов официальных страниц и профиля THE — требуют перепроверки"
+   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/сброс соединения); контакты взяты из поисковых сниппетов официальных страниц и профиля THE — требуют перепроверки",
+   "Рейтинги: таблица «технические/промышленные университеты» (24 вузов в таблице)"
   ],
   "mailbox_owner": "Управление международного научного сотрудничества (Office of International Affairs)",
   "addressee_name": "",
   "addressee_title": "Руководитель управления научного и международного сотрудничества",
   "salutation": "Dear Director of International Scientific Cooperation,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "1025"
  },
  {
   "country": "Iran",
@@ -809,7 +841,8 @@
    "В санкционных списках США/ЕС/Великобритании не найден",
    "Афшарифар (проф. фитопатологии) назначен и.о. президента (سرپرست) 20 фарвардина 1404 (09.04.2025); fa.wikipedia указывает его как действующего президента",
    "Ранее руководителем Отдела академ. и междунар. сотрудничества значился д-р Сейед Рашид Фаллах Шамси (international@shirazu.ac.ir) — данные устаревшие, не подтверждены на 2025–2026",
-   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/сброс соединения); контакты взяты из поисковых сниппетов официальных страниц и профиля THE — требуют перепроверки"
+   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/сброс соединения); контакты взяты из поисковых сниппетов официальных страниц и профиля THE — требуют перепроверки",
+   "Ручная проверка: Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Управление международных связей (Shiraz University International Relations Office)",
   "addressee_name": "",
@@ -853,7 +886,8 @@
    "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка",
    "Президент: С. Махмудреза Агамири — и.о. с 26 абана 1401 (нояб. 2022), утверждён президентом в хордаде 1402; актуальность на 2026 по fa.wikipedia",
    "int-re@sbu.ac.ir — ящик Управления международного научного сотрудничества (по сниппету); для иностранных студентов — int.education@sbu.ac.ir",
-   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/сброс соединения); контакты взяты из поисковых сниппетов официальных страниц и профиля THE — требуют перепроверки"
+   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/сброс соединения); контакты взяты из поисковых сниппетов официальных страниц и профиля THE — требуют перепроверки",
+   "Ручная проверка: Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Управление международного научного сотрудничества",
   "addressee_name": "",
@@ -879,9 +913,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_نوشیروانی_بابل",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 701–800",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — technical/industrial universities (دانشگاه‌های صنعتی): 7",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -889,7 +923,7 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.wikipedia.org/wiki/Babol_Noshirvani_University_of_Technology; https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_نوشیروانی_بابل; https://nit.ac.ir/en/page/738/presidential-office; https://nit.ac.ir/en/page/681/contact-us; https://int.nit.ac.ir/en/contactus",
+  "sources": "https://en.wikipedia.org/wiki/Babol_Noshirvani_University_of_Technology; https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_نوشیروانی_بابل; https://nit.ac.ir/en/page/738/presidential-office; https://nit.ac.ir/en/page/681/contact-us; https://int.nit.ac.ir/en/contactus\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент: проф. Сейед Махмуд Рабии (биомед. инженерия), в должности с 1403/2024–2025 (en/fa Wikipedia, новостные сниппеты)",
@@ -898,14 +932,16 @@
    "Быстрая проверка спутников: собственных спутников на орбите не найдено",
    "Иран под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка",
    "Санкционная проверка (кэш CSL США/SDN, ЕС, UK от 04.10.2026): университет не найден; restricted_list пуст",
-   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой"
+   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой",
+   "Рейтинги: таблица «технические/промышленные университеты» (24 вузов в таблице)"
   ],
   "mailbox_owner": "Управление международного научного сотрудничества",
   "addressee_name": "",
   "addressee_title": "Директор по международному научному сотрудничеству",
   "salutation": "Dear Director of International Scientific Cooperation,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -924,9 +960,9 @@
   "head_title": "Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://www.semums.ac.ir/رئیس-دانشگاه",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 701–800",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403: не в рейтинге",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -934,7 +970,7 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.wikipedia.org/wiki/Semnan_University_of_Medical_Sciences; https://fa.wikipedia.org/wiki/دانشگاه_علوم_پزشکی_سمنان; https://www.semums.ac.ir/رئیس-دانشگاه; https://en.semums.ac.ir/Contact-Us; https://en.semums.ac.ir/Vice–Chancellor-of-International-Affairs",
+  "sources": "https://en.wikipedia.org/wiki/Semnan_University_of_Medical_Sciences; https://fa.wikipedia.org/wiki/دانشگاه_علوم_پزشکی_سمنان; https://www.semums.ac.ir/رئیس-دانشگاه; https://en.semums.ac.ir/Contact-Us; https://en.semums.ac.ir/Vice–Chancellor-of-International-Affairs\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Медицинский университет (Минздрав) — профиль далёк от космической тематики; приоритет низкий",
@@ -943,14 +979,16 @@
    "Быстрая проверка спутников: не найдено (в поиске только Семнанский космодром, к университету не относится)",
    "Иран под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка",
    "Санкционная проверка (кэш CSL США/SDN, ЕС, UK от 04.10.2026): университет не найден; restricted_list пуст",
-   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой"
+   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой",
+   "Рейтинги: Медицинский университет (Минздрав Ирана): отсутствует во всех таблицах ISC 1403 на ur.isc.ac, которые охватывают вузы Минобрнауки и др. ведомств, но не медицинские."
   ],
   "mailbox_owner": "Проректорат по международным делам",
   "addressee_name": "Dr. Marziye Kamankesh",
   "addressee_title": "Проректор по международным делам",
   "salutation": "Dear Dr. Kamankesh,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -969,9 +1007,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://kashanu.ac.ir/fa/news/24353",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1001–1200",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 21",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -979,7 +1017,7 @@
   "space_units": "University of Kashan Observatory; student CanSat team «Shahab» (призёр Iran CanSat Competition)",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.wikipedia.org/wiki/University_of_Kashan; https://fa.wikipedia.org/wiki/دانشگاه_کاشان; https://kashanu.ac.ir/fa/news/24326; https://kashanu.ac.ir/fa/news/24353; https://intl.kashanu.ac.ir/en; https://kashanu.ac.ir/en/contactus; https://kashanu.ac.ir/en/news/6681/university-of-kashan-satellite-team-ranked-2nd-in-iran-cansat-competition; https://uko.kashanu.ac.ir/en/page/3406/introduce",
+  "sources": "https://en.wikipedia.org/wiki/University_of_Kashan; https://fa.wikipedia.org/wiki/دانشگاه_کاشان; https://kashanu.ac.ir/fa/news/24326; https://kashanu.ac.ir/fa/news/24353; https://intl.kashanu.ac.ir/en; https://kashanu.ac.ir/en/contactus; https://kashanu.ac.ir/en/news/6681/university-of-kashan-satellite-team-ranked-2nd-in-iran-cansat-competition; https://uko.kashanu.ac.ir/en/page/3406/introduce\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент: д-р Бехзад Солтани (доцент, машиностроение) — назначен сначала и.о. (سرپرست), церемония вступления 13 шахривара 1403 (сент. 2024); утверждение ВСКР не проверено",
@@ -987,14 +1025,16 @@
    "int.office@kashanu.ac.ir — International Scientific Cooperation Office; имя директора не подтверждено",
    "Иран под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка",
    "Санкционная проверка (кэш CSL США/SDN, ЕС, UK от 04.10.2026): университет не найден; restricted_list пуст",
-   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой"
+   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Управление международного научного сотрудничества",
   "addressee_name": "",
   "addressee_title": "Директор по международному научному сотрудничеству",
   "salutation": "Dear Director of International Scientific Cooperation,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -1004,16 +1044,16 @@
   "ownership": "Государственный (Минобрнауки Ирана, MSRT)",
   "profile_type": "technical/aerospace",
   "main_fields": "Chemical and Petroleum Engineering, Mining Engineering, Materials Engineering, Mechanical Engineering, Electrical Engineering, Polymer Engineering",
-  "postal_address": "Sahand University of Technology, New Sahand Town, P.O. Box 51335-1996, Tabriz, East Azerbaijan, Iran",
+  "postal_address": "Sahand University of Technology (Tabriz University of Technology), New Sahand Town, P.O. Box 51335-1996, Tabriz, East Azerbaijan, Iran; postal code 5331817634",
   "email_general": "",
-  "email_international": "",
+  "email_international": "intl.office@sut.ac.ir",
   "phone": "+98 41 3345 8233",
   "website": "https://sut.ac.ir/en",
   "head_name": "Dr. Esmaeil Fatehifar",
   "head_title": "President",
   "party_secretary": "",
-  "head_verified_source": "https://www.mehrnews.com/news/6945922/",
-  "rank_qs": "",
+  "head_verified_source": "https://sut.ac.ir/fa/page/3; https://sut.ac.ir/ias/en/page/353/directors-message; https://sut.ac.ir/ias/en/person/category/168/people; https://sut.ac.ir/en/person/75/Shaghayegh%20Teimouri?language=en&subdomain=ias",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1201–1400",
   "rank_national": "",
   "satellites_launched": 0,
@@ -1023,8 +1063,8 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.wikipedia.org/wiki/Sahand_University_of_Technology; https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_تبریز; https://sut.ac.ir/en; https://sut.ac.ir/en/page/378/about-sut; https://www.mehrnews.com/news/6945922/; https://ana.ir/fa/news/1082407/",
-  "confidence": "low",
+  "sources": "https://en.wikipedia.org/wiki/Sahand_University_of_Technology; https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_تبریز; https://sut.ac.ir/en; https://sut.ac.ir/en/page/378/about-sut; https://www.mehrnews.com/news/6945922/; https://ana.ir/fa/news/1082407/\nhttps://sut.ac.ir/fa/page/3; https://sut.ac.ir/ias/en/page/353/directors-message; https://sut.ac.ir/ias/en/person/category/168/people; https://sut.ac.ir/en/person/75/Shaghayegh%20Teimouri?language=en&subdomain=ias",
+  "confidence": "high",
   "notes_ru": [
    "Англоязычный сайт и en/fa Wikipedia теперь используют название «Tabriz University of Technology» (дан. صنعتی تبریز); персидский сайт — «دانشگاه صنعتی سهند». В письме указать оба названия",
    "Президент: д-р Эсмаил Фатехифар — «переназначен на 4 года» (Mehr/ANA, новости «رئیس دانشگاه صنعتی سهند ابقا شد»); fa Wikipedia в карточке указывает А. Мостафа Гарабаги (вероятно, устаревшие данные) — перепроверить",
@@ -1033,15 +1073,17 @@
    "Иран под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка",
    "Санкционная проверка (кэш CSL США/SDN, ЕС, UK от 04.10.2026): университет не найден; restricted_list пуст",
    "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой",
-   "Перепроверка: Сайты *.ac.ir (sut.ac.ir, en.sut.ac.ir, msrt.ir) по-прежнему недоступны 04.10.2026; данные не изменены"
+   "Перепроверка: Сайты *.ac.ir (sut.ac.ir, en.sut.ac.ir, msrt.ir) по-прежнему недоступны 04.10.2026; данные не изменены",
+   "Ручная проверка: Контакты прочитаны на официальном сайте 05.10.2026 (сессия с агентами). Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Director of International Scientific Cooperation,",
+  "addressee_name": "Dr. Seyed Shahab Tabatabaei Moradi",
+  "addressee_title": "Директор Управления международного научного сотрудничества (Director of International Office)",
+  "salutation": "Dear Dr. Tabatabaei Moradi,",
   "recheck_ru": "Сайты *.ac.ir (sut.ac.ir, en.sut.ac.ir, msrt.ir) по-прежнему недоступны 04.10.2026; данные не изменены",
   "match_status": "нет ящика",
-  "match_action": "Найти e-mail международного отдела или канцелярии"
+  "match_action": "Найти e-mail международного отдела или канцелярии",
+  "outreach_email_new": "intl.office@sut.ac.ir"
  },
  {
   "country": "Iran",
@@ -1060,7 +1102,7 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://uma.ac.ir/index.php?gsmp=86-fa",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1201–1400",
   "rank_national": "",
   "satellites_launched": 0,
@@ -1078,7 +1120,8 @@
    "Быстрая проверка спутников: не найдено",
    "Иран под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка",
    "Санкционная проверка (кэш CSL США/SDN, ЕС, UK от 04.10.2026): университет не найден; restricted_list пуст",
-   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой"
+   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Управление международных связей",
   "addressee_name": "Dr. Mohammad Taghi Alebrahim",
@@ -1096,15 +1139,15 @@
   "profile_type": "classical",
   "main_fields": "Agriculture, Engineering, Basic Sciences, Veterinary Medicine, Humanities, Entrepreneurship and Rural Development",
   "postal_address": "Ilam University, Pazhoohesh Blvd., Ilam, Iran",
-  "email_general": "",
+  "email_general": "info@ilam.ac.ir",
   "email_international": "",
-  "phone": "",
+  "phone": "+98 84 5924 1000",
   "website": "https://ilam.ac.ir/en",
   "head_name": "Dr. Homayoun Moradnezhadi",
   "head_title": "President",
   "party_secretary": "",
-  "head_verified_source": "https://www.kurdpress.com/news/2782100/",
-  "rank_qs": "",
+  "head_verified_source": "https://ilam.ac.ir/; https://ilam.ac.ir/page/?ihwffufyy-رييس-دانشگاه; https://ilam.ac.ir/en/page/?ihwfsywsz-International-Scientific-Cooperation-Office",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1401–1600",
   "rank_national": "",
   "satellites_launched": 0,
@@ -1114,8 +1157,8 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.wikipedia.org/wiki/Ilam_University; https://fa.wikipedia.org/wiki/دانشگاه_ایلام; https://www.kurdpress.com/news/2782100/; https://snn.ir/fa/news/1402853/; https://cert.ilam.ac.ir/en/contact-us/",
-  "confidence": "low",
+  "sources": "https://en.wikipedia.org/wiki/Ilam_University; https://fa.wikipedia.org/wiki/دانشگاه_ایلام; https://www.kurdpress.com/news/2782100/; https://snn.ir/fa/news/1402853/; https://cert.ilam.ac.ir/en/contact-us/\nhttps://ilam.ac.ir/; https://ilam.ac.ir/page/?ihwffufyy-رييس-دانشگاه; https://ilam.ac.ir/en/page/?ihwfsywsz-International-Scientific-Cooperation-Office",
+  "confidence": "high",
   "notes_ru": [
    "Президент: д-р Хомаюн Морадне́жади (доцент, предпринимательство и сельское развитие) — назначен 19 эсфанда 1403 (март 2025), упоминается как президент и в новостях 1404–1405",
    "E-mail и телефон центральной канцелярии/международного отдела не найдены (найден только ящик центра APA cert@ilam.ac.ir — не подходит). Не путать с Ilam University of Medical Sciences (medilam.ac.ir)",
@@ -1123,7 +1166,8 @@
    "Иран под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка",
    "Санкционная проверка (кэш CSL США/SDN, ЕС, UK от 04.10.2026): университет не найден; restricted_list пуст",
    "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой",
-   "Перепроверка: Сайт ilam.ac.ir недоступен (04.10.2026, все варианты); официальный Telegram-канал не найден; данные не изменены"
+   "Перепроверка: Сайт ilam.ac.ir недоступен (04.10.2026, все варианты); официальный Telegram-канал не найден; данные не изменены",
+   "Ручная проверка: Контакты прочитаны на официальном сайте 05.10.2026 (сессия с агентами). Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -1131,7 +1175,8 @@
   "salutation": "Dear Director of International Scientific Cooperation,",
   "recheck_ru": "Сайт ilam.ac.ir недоступен (04.10.2026, все варианты); официальный Telegram-канал не найден; данные не изменены",
   "match_status": "нет ящика",
-  "match_action": "Найти e-mail международного отдела или канцелярии"
+  "match_action": "Найти e-mail международного отдела или канцелярии",
+  "outreach_email_new": "info@ilam.ac.ir"
  },
  {
   "country": "Iran",
@@ -1150,7 +1195,7 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://fa.wikipedia.org/wiki/دانشگاه_شهرکرد",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1401–1600",
   "rank_national": "",
   "satellites_launched": 0,
@@ -1169,7 +1214,8 @@
    "Иран под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка",
    "Санкционная проверка (кэш CSL США/SDN, ЕС, UK от 04.10.2026): университет не найден; restricted_list пуст",
    "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой",
-   "Перепроверка: Сайт sku.ac.ir (http/https, en.) недоступен (503 / сброс соединения) — данные не изменены (04.10.2026)"
+   "Перепроверка: Сайт sku.ac.ir (http/https, en.) недоступен (503 / сброс соединения) — данные не изменены (04.10.2026)",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Общая канцелярия университета",
   "addressee_name": "",
@@ -1196,9 +1242,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://fa.wikipedia.org/wiki/دانشگاه_قم",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1601–1800",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 23",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1206,7 +1252,7 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.wikipedia.org/wiki/University_of_Qom; https://fa.wikipedia.org/wiki/دانشگاه_قم; https://en.qom.ac.ir/; https://en.qom.ac.ir/Admission; https://www.mehrnews.com/tag/احمد+حسین+شریفی",
+  "sources": "https://en.wikipedia.org/wiki/University_of_Qom; https://fa.wikipedia.org/wiki/دانشگاه_قم; https://en.qom.ac.ir/; https://en.qom.ac.ir/Admission; https://www.mehrnews.com/tag/احمد+حسین+شریفی\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент: Ходжат-оль-эслам д-р Ахмад Хосейн Шарифи (священнослужитель, философ) — по en/fa Wikipedia и новостям 1404",
@@ -1215,14 +1261,16 @@
    "Быстрая проверка спутников: не найдено",
    "Иран под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка",
    "Санкционная проверка (кэш CSL США/SDN, ЕС, UK от 04.10.2026): университет не найден; restricted_list пуст",
-   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой"
+   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице); делит место с: دانشگاه بوعلی سینا"
   ],
   "mailbox_owner": "Общая канцелярия университета",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Scientific Cooperation,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -1241,7 +1289,7 @@
   "head_title": "Acting President",
   "party_secretary": "",
   "head_verified_source": "https://snn.ir/fa/news/1373426/",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1801–2000",
   "rank_national": "",
   "satellites_launched": 0,
@@ -1259,7 +1307,8 @@
    "Быстрая проверка спутников: не найдено",
    "Иран под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка",
    "Санкционная проверка (кэш CSL США/SDN, ЕС, UK от 04.10.2026): университет не найден; restricted_list пуст",
-   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой"
+   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Управление международного сотрудничества",
   "addressee_name": "",
@@ -1276,17 +1325,17 @@
   "ownership": "Государственный (Минобрнауки Ирана, MSRT)",
   "profile_type": "classical",
   "main_fields": "Engineering, Agriculture, Basic Sciences, Humanities",
-  "postal_address": "",
-  "email_general": "",
-  "email_international": "",
-  "phone": "",
+  "postal_address": "Fasa University, Bulvar Moheb, Ostad Mohammad Bahmanbeygi Square, Fasa, Fars, Iran (Postal Code 74616-86131)",
+  "email_general": "info@fasau.ac.ir",
+  "email_international": "info@fasau.ac.ir",
+  "phone": "+98 71 5315 0000; факс +98 71 5315 1000; офис президента/международный: +98 71 5315 1111",
   "website": "https://fasau.ac.ir",
   "head_name": "Dr. Hojjatollah Badehian",
   "head_title": "President",
   "party_secretary": "",
-  "head_verified_source": "https://fa.wikipedia.org/wiki/دانشگاه_فسا",
-  "rank_qs": "",
-  "rank_the": "",
+  "head_verified_source": "http://fasau.ac.ir/fa/page/308/; https://fasau.ac.ir/fa/contactus; https://fasau.ac.ir/en/page/751/introducing-the-international-office; https://fasau.ac.ir/en/page/752/members-of-international-office",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: Reporter (в списке, без места)",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -1295,8 +1344,8 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.wikipedia.org/wiki/Fasa_University; https://fa.wikipedia.org/wiki/دانشگاه_فسا; https://www.mehrnews.com/news/6441051/; https://www.msrt.ir/fa/grid/224/",
-  "confidence": "low",
+  "sources": "https://en.wikipedia.org/wiki/Fasa_University; https://fa.wikipedia.org/wiki/دانشگاه_فسا; https://www.mehrnews.com/news/6441051/; https://www.msrt.ir/fa/grid/224/\nhttp://fasau.ac.ir/fa/page/308/; https://fasau.ac.ir/fa/contactus; https://fasau.ac.ir/en/page/751/introducing-the-international-office; https://fasau.ac.ir/en/page/752/members-of-international-office",
+  "confidence": "high",
   "notes_ru": [
    "THE2027: статус Reporter (без ранга) — rank_the оставлен пустым",
    "Президент: д-р Ходжатолла Бадехиян — назначен и.о. (Mehr: «سرپرستان دانشگاه‌های ارومیه و فسا منصوب شدند», 2025), затем утверждён (по fa Wikipedia); en Wikipedia указывает устаревшего А. Зареи; список MSRT упоминает Джамаля Фатхоллахи — расхождение, перепроверить",
@@ -1305,7 +1354,8 @@
    "Иран под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка",
    "Санкционная проверка (кэш CSL США/SDN, ЕС, UK от 04.10.2026): университет не найден; restricted_list пуст",
    "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой",
-   "Перепроверка: Сайт fasau.ac.ir и mehrnews.com по-прежнему недоступны; расхождение по руководителю (Бадехиян / Зареи / Фатхоллахи) не разрешено — данные не изменены"
+   "Перепроверка: Сайт fasau.ac.ir и mehrnews.com по-прежнему недоступны; расхождение по руководителю (Бадехиян / Зареи / Фатхоллахи) не разрешено — данные не изменены",
+   "Ручная проверка: Контакты прочитаны на официальном сайте 05.10.2026 (сессия с агентами). Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -1313,7 +1363,8 @@
   "salutation": "Dear Director of International Scientific Cooperation,",
   "recheck_ru": "Сайт fasau.ac.ir и mehrnews.com по-прежнему недоступны; расхождение по руководителю (Бадехиян / Зареи / Фатхоллахи) не разрешено — данные не изменены",
   "match_status": "нет ящика",
-  "match_action": "Найти e-mail международного отдела или канцелярии"
+  "match_action": "Найти e-mail международного отдела или канцелярии",
+  "outreach_email_new": "info@fasau.ac.ir"
  },
  {
   "country": "Iran",
@@ -1332,8 +1383,8 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://fa.wikipedia.org/wiki/دانشگاه_بناب",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: Reporter (в списке, без места)",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -1351,7 +1402,8 @@
    "Быстрая проверка спутников: не найдено",
    "Иран под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка",
    "Санкционная проверка (кэш CSL США/SDN, ЕС, UK от 04.10.2026): университет не найден; restricted_list пуст",
-   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой"
+   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Управление международных дел",
   "addressee_name": "",
@@ -1377,9 +1429,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.mehrnews.com/news/6665614/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "ISC University Ranking 1403 — technical/industrial universities (دانشگاه‌های صنعتی): 6",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1387,7 +1439,7 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.wikipedia.org/wiki/Shahrood_University_of_Technology; https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_شاهرود; https://www.mehrnews.com/news/6665614/; https://snn.ir/fa/news/1335070/; https://shahroodut.ac.ir/en/sec/index.php?id=44; http://international.shahroodut.ac.ir/post/36/Contact-Us; https://www.iranwatch.org/iranian-entities/shahrood-university-technology-sut",
+  "sources": "https://en.wikipedia.org/wiki/Shahrood_University_of_Technology; https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_شاهرود; https://www.mehrnews.com/news/6665614/; https://snn.ir/fa/news/1335070/; https://shahroodut.ac.ir/en/sec/index.php?id=44; http://international.shahroodut.ac.ir/post/36/Contact-Us; https://www.iranwatch.org/iranian-entities/shahrood-university-technology-sut\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент: д-р Мортеза Изадифард — переназначен министром науки на 4 года (Mehr «رئیس دانشگاه صنعتی شاهرود ابقا شد», SNN); один сниппет называл М. М. Фатеха — устаревшие данные",
@@ -1396,14 +1448,16 @@
    "Быстрая проверка спутников: не найдено",
    "Иран под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка",
    "Санкционная проверка (кэш CSL США/SDN, ЕС, UK от 04.10.2026): университет не найден; restricted_list пуст",
-   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой"
+   "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой",
+   "Рейтинги: таблица «технические/промышленные университеты» (24 вузов в таблице)"
   ],
   "mailbox_owner": "Управление научного и международного сотрудничества",
   "addressee_name": "",
   "addressee_title": "Директор по научному и международному сотрудничеству",
   "salutation": "Dear Director of International Scientific Cooperation,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -1416,14 +1470,14 @@
   "postal_address": "Daneshjoo St., Yasuj 75918-74934, Kohgiluyeh and Boyer-Ahmad Province, Iran",
   "email_general": "pr@yu.ac.ir",
   "email_international": "",
-  "phone": "",
+  "phone": "+98 74 3100 1000 (president's office); International Scientific Cooperation: +98 74 3100 1008 / 1108",
   "website": "https://yu.ac.ir/en",
-  "head_name": "Dr. Mahdi Nouripour",
+  "head_name": "Prof. Mehdi Nooripoor",
   "head_title": "President",
   "party_secretary": "",
-  "head_verified_source": "https://fa.wikipedia.org/wiki/دانشگاه_یاسوج",
-  "rank_qs": "",
-  "rank_the": "",
+  "head_verified_source": "https://yu.ac.ir/en/main/content/2879; https://yu.ac.ir/en/main/content/3690; https://yu.ac.ir/president/fa/node/2369; https://yu.ac.ir/fa/node/2364",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -1432,8 +1486,8 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.wikipedia.org/wiki/Yasouj_University; https://fa.wikipedia.org/wiki/دانشگاه_یاسوج; https://yu.ac.ir/en/main/content/2907; http://president.yu.ac.ir/fa/node/2427",
-  "confidence": "low",
+  "sources": "https://en.wikipedia.org/wiki/Yasouj_University; https://fa.wikipedia.org/wiki/دانشگاه_یاسوج; https://yu.ac.ir/en/main/content/2907; http://president.yu.ac.ir/fa/node/2427\nhttps://yu.ac.ir/en/main/content/2879; https://yu.ac.ir/en/main/content/3690; https://yu.ac.ir/president/fa/node/2369; https://yu.ac.ir/fa/node/2364",
+  "confidence": "high",
   "notes_ru": [
    "Президент: д-р Махди Нурипур (fa Wikipedia, сниппет 1404); дата назначения не подтверждена",
    "pr@yu.ac.ir — ящик службы по связям с общественностью (единственный найденный общий адрес); ящик Управления международного научного сотрудничества не найден",
@@ -1442,12 +1496,13 @@
    "Иран под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка",
    "Санкционная проверка (кэш CSL США/SDN, ЕС, UK от 04.10.2026): университет не найден; restricted_list пуст",
    "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой",
-   "Перепроверка: 04.10.2026: yu.ac.ir по-прежнему недоступен (503); данные не изменены"
+   "Перепроверка: 04.10.2026: yu.ac.ir по-прежнему недоступен (503); данные не изменены",
+   "Ручная проверка: Контакты прочитаны на официальном сайте 05.10.2026 (сессия с агентами). Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Служба по связям с общественностью",
-  "addressee_name": "",
-  "addressee_title": "",
-  "salutation": "Dear Director of International Scientific Cooperation,",
+  "addressee_name": "Dr. Hojjatollah Latifmanesh",
+  "addressee_title": "Руководитель группы международного научного сотрудничества и иностранных студентов",
+  "salutation": "Dear Dr. Latifmanesh,",
   "recheck_ru": "04.10.2026: yu.ac.ir по-прежнему недоступен (503); данные не изменены",
   "match_status": "нет имени",
   "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
@@ -1469,8 +1524,8 @@
   "head_title": "Acting President",
   "party_secretary": "",
   "head_verified_source": "https://www.mehrnews.com/news/6927510/",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -1489,7 +1544,8 @@
    "Иран под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка",
    "Санкционная проверка (кэш CSL США/SDN, ЕС, UK от 04.10.2026): университет не найден; restricted_list пуст",
    "Официальный сайт (*.ac.ir) недоступен из нашей сети (503/таймаут); контакты взяты из поисковых сниппетов официальных страниц — требуют перепроверки перед рассылкой",
-   "Перепроверка: Сайты mazust.ac.ir / en.mazust.ac.ir по-прежнему недоступны (04.10.2026, сброс соединения); данные не изменены."
+   "Перепроверка: Сайты mazust.ac.ir / en.mazust.ac.ir по-прежнему недоступны (04.10.2026, сброс соединения); данные не изменены.",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -1534,7 +1590,8 @@
    "Спутники: Navid (2012, Safir-1B) и Zafar-2 (28.12.2025, Союз-2.1б с Восточного) выведены на орбиту; Zafar-1 — авария РН (2020).",
    "28.03.2026 кампус IUST пострадал от удара Израиля (по Wikipedia/AA/AP) — возможны перебои в работе.",
    "Основной сайт www.iust.ac.ir недоступен извне (страница входа); контакты взяты с international.iust.ac.ir. Общий e-mail канцелярии президента не найден; телефон — Управления международного научного сотрудничества.",
-   "Руководитель международного офиса Dr. Reza Golshan Khavas указан на странице Director & Staff; повторное назначение в 1404 г. — по поисковой выдержке, не проверено по первоисточнику."
+   "Руководитель международного офиса Dr. Reza Golshan Khavas указан на странице Director & Staff; повторное назначение в 1404 г. — по поисковой выдержке, не проверено по первоисточнику.",
+   "Ручная проверка: Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Управление (вице-президентство) международного научного сотрудничества",
   "addressee_name": "Dr. Reza Golshan Khavas",
@@ -1575,7 +1632,8 @@
   "notes_ru": [
    "Президент д-р (проф.) Мохаммадтаги Аълами подтверждён новостью сайта университета от 9 мехра 1405 (1 окт. 2026); страница Chancellor содержит его личный e-mail mtaalami@tabrizu.ac.ir (используется как email_general) и телефон приёмной +98 41 3334 1300.",
    "Директор по научному и международному сотрудничеству д-р Saeid Shojaei, тел. +98 41 3339 3941, указан на int.tabrizu.ac.ir/en/contact-us по поисковой выдержке (страница отдаёт 503) — проверить; его личный адрес — gmail, поэтому использован офисный international@tabrizu.ac.ir.",
-   "Космических проектов/спутников не найдено (одна быстрая проверка); в санкционных списках ЕС/UK/США университет не найден, но действуют общие санкции против Ирана — нужна комплаенс-проверка."
+   "Космических проектов/спутников не найдено (одна быстрая проверка); в санкционных списках ЕС/UK/США университет не найден, но действуют общие санкции против Ирана — нужна комплаенс-проверка.",
+   "Ручная проверка: Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Управление международного научного сотрудничества (International Academic Collaborations Directorate)",
   "addressee_name": "Dr. Saeid Shojaei",
@@ -1601,9 +1659,9 @@
   "head_title": "Acting President (Chancellor)",
   "party_secretary": "",
   "head_verified_source": "https://www.kums.ac.ir/fa/contact",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 401–450",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403: не в рейтинге",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1611,19 +1669,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.kums.ac.ir/fa/contact; https://www.kums.ac.ir/fa/boss/boss; https://ia.kums.ac.ir/fa/contactus-تماس-با-ما; https://ia.kums.ac.ir/fa/iahead/head-مدیر-امور-بین-الملل; https://fa.wikipedia.org/wiki/دانشگاه_علوم_پزشکی_کرمانشاه; nanosats.csv",
+  "sources": "https://www.kums.ac.ir/fa/contact; https://www.kums.ac.ir/fa/boss/boss; https://ia.kums.ac.ir/fa/contactus-تماس-با-ما; https://ia.kums.ac.ir/fa/iahead/head-مدیر-امور-بین-الملل; https://fa.wikipedia.org/wiki/دانشگاه_علوم_پزشکی_کرمانشاه; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Руководитель — д-р Али Сорууш в статусе «сарпараст» (исполняющий обязанности президента) по странице «Связь с руководством» сайта KUMS (2026).",
    "Международный офис — Управление по международным делам (ia.kums.ac.ir), директор д-р Эльхам Аркан (фото на странице от сентября 2025); тел. +98 83 3839 7091.",
-   "Медицинский вуз Минздрава; космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана). В санкционных списках не найден; общие санкции против Ирана — нужна комплаенс-проверка."
+   "Медицинский вуз Минздрава; космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана). В санкционных списках не найден; общие санкции против Ирана — нужна комплаенс-проверка.",
+   "Рейтинги: Медицинский университет (Минздрав Ирана): отсутствует во всех таблицах ISC 1403 на ur.isc.ac, которые охватывают вузы Минобрнауки и др. ведомств, но не медицинские."
   ],
   "mailbox_owner": "Управление по международным делам (Directorate of International Affairs)",
   "addressee_name": "Dr. Elham Arkan",
   "addressee_title": "Директор Управления по международным делам",
   "salutation": "Dear Dr. Arkan,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -1642,9 +1702,9 @@
   "head_title": "President (Chancellor)",
   "party_secretary": "",
   "head_verified_source": "http://pr.bpums.ac.ir/Fa/News-43234.htm",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 701–800",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403: не в рейтинге",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1652,19 +1712,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://bpums.ac.ir/Fa/DynPages-965.htm; http://pr.bpums.ac.ir/Fa/News-43234.htm; https://pr.bpums.ac.ir/Fa/DynPages-9542.htm; https://bpums.ac.ir/En/; https://fa.wikipedia.org/wiki/دانشگاه_علوم_پزشکی_بوشهر; nanosats.csv",
+  "sources": "https://bpums.ac.ir/Fa/DynPages-965.htm; http://pr.bpums.ac.ir/Fa/News-43234.htm; https://pr.bpums.ac.ir/Fa/DynPages-9542.htm; https://bpums.ac.ir/En/; https://fa.wikipedia.org/wiki/دانشگاه_علوم_پزشکی_بوشهر; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент д-р Аллахкарам Ахлаги подтверждён новостью сайта (28 ордибехешта 1405 / май 2026).",
    "На сайте не опубликован ни общий, ни международный e-mail; международными связями ведает Управление по связям с общественностью и международным делам (pr.bpums.ac.ir) — адрес нужно запросить; телефон центрального офиса +98 77 3332 2081-5, факс +98 77 3332 3123.",
-   "Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана); в санкционных списках не найден; общие санкции против Ирана."
+   "Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана); в санкционных списках не найден; общие санкции против Ирана.",
+   "Рейтинги: Медицинский университет (Минздрав Ирана): отсутствует во всех таблицах ISC 1403 на ur.isc.ac, которые охватывают вузы Минобрнауки и др. ведомств, но не медицинские."
   ],
   "mailbox_owner": "Управление по связям с общественностью и международным делам",
   "addressee_name": "",
   "addressee_title": "Директор по связям с общественностью и международным делам",
   "salutation": "Dear Director of Public Relations and International Affairs,",
   "match_status": "нет ящика",
-  "match_action": "Найти e-mail международного отдела или канцелярии"
+  "match_action": "Найти e-mail международного отдела или канцелярии",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -1683,9 +1745,9 @@
   "head_title": "President (Chancellor)",
   "party_secretary": "",
   "head_verified_source": "https://urmia.ac.ir/fa",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 801–1000",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 14",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1693,20 +1755,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://urmia.ac.ir/fa; https://urmia.ac.ir/en; https://urmia.ac.ir/en/content/353/international-affairs; https://urmia.ac.ir/en/page/331/office-address-in-pardis-international-campus-of-urmia-university; https://fa.wikipedia.org/wiki/دانشگاه_ارومیه; nanosats.csv",
+  "sources": "https://urmia.ac.ir/fa; https://urmia.ac.ir/en; https://urmia.ac.ir/en/content/353/international-affairs; https://urmia.ac.ir/en/page/331/office-address-in-pardis-international-campus-of-urmia-university; https://fa.wikipedia.org/wiki/دانشگاه_ارومیه; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент «д-р Резазад» упомянут в новости главной страницы от 4 мехра 1405 (сент. 2026); полное имя Махмуд Резазадбари — по fa.wikipedia (англ. Wikipedia устарела: Ahmad Alijanpour).",
    "Отдельный e-mail Управления международных связей не опубликован (только форма); использовать info@urmia.ac.ir; тел./факс международного кампуса +98 44 3345 6505.",
    "Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана).",
-   "В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка."
+   "В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка.",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Канцелярия президента и связи с общественностью (общий ящик)",
   "addressee_name": "",
   "addressee_title": "Директор Управления международных связей",
   "salutation": "Dear Director of International Relations,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -1725,9 +1789,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "http://www.hsu.ac.ir/ریاست-دانشگاه/",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1201–1400",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 31",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1735,20 +1799,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.hsu.ac.ir; http://www.hsu.ac.ir/ریاست-دانشگاه/; https://www.hsu.ac.ir/ir/; https://fa.wikipedia.org/wiki/دانشگاه_حکیم_سبزواری; nanosats.csv",
+  "sources": "https://www.hsu.ac.ir; http://www.hsu.ac.ir/ریاست-دانشگاه/; https://www.hsu.ac.ir/ir/; https://fa.wikipedia.org/wiki/دانشگاه_حکیم_سبزواری; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент д-р Али Тасними (доцент, персидская литература) — по странице «Президент университета» официального сайта; англ. Wikipedia устарела.",
    "Есть Управление научного и международного сотрудничества и иностранных студентов (hsu.ac.ir/ir), но e-mail/руководитель на странице не указаны; использован общий ящик hakim@hsu.ac.ir (канцелярия президента), факс +98 51 4441 0300.",
    "Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана).",
-   "В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка."
+   "В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка.",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Канцелярия президента (общий ящик)",
   "addressee_name": "",
   "addressee_title": "Директор Управления научного и международного сотрудничества",
   "salutation": "Dear Director of Scientific and International Cooperation,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -1769,7 +1835,7 @@
   "head_verified_source": "https://ui.ac.ir",
   "rank_qs": "QS2027: 1201–1400",
   "rank_the": "THE2027: 1201–1400",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 7",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1777,21 +1843,23 @@
   "space_units": "",
   "agency_partnerships": "BRICS Network University (BRICS-NU) member (per Global Engagement section of ui.ac.ir); Silk-road Universities Network (SUN); UNITWIN",
   "restricted_list": "",
-  "sources": "https://ui.ac.ir; https://ui.ac.ir/en/Contact-Us; https://ui.ac.ir/دفتر-همکاریهای-علمی-و-بین-المللی; https://ui.ac.ir/en/Global-Engagement; https://fa.wikipedia.org/wiki/دانشگاه_اصفهان; https://www.qianmu.org (QS2027 list, secondary); nanosats.csv",
+  "sources": "https://ui.ac.ir; https://ui.ac.ir/en/Contact-Us; https://ui.ac.ir/دفتر-همکاریهای-علمی-و-بین-المللی; https://ui.ac.ir/en/Global-Engagement; https://fa.wikipedia.org/wiki/دانشگاه_اصفهان; https://www.qianmu.org (QS2027 list, secondary); nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент д-р Расул Рокнизаде подтверждён новостью главной страницы ui.ac.ir (2026).",
    "Директор Управления научного и международного сотрудничества — д-р Мохаммад Амирюсефи (советник президента по международным делам), личный e-mail m.amiryousefi@fgn.ui.ac.ir, тел. +98 31 3793 2040.",
    "Университет указан на сайте как участник Сетевого университета БРИКС (BRICS-NU) — удобная зацепка для приглашения.",
    "Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана).",
-   "В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка."
+   "В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка.",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Управление научного и международного сотрудничества",
   "addressee_name": "Dr. Mohammad Amiryousefi",
   "addressee_title": "Директор Управления научного и международного сотрудничества",
   "salutation": "Dear Dr. Amiryousefi,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -1810,9 +1878,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "http://yazd.ac.ir/president/home/introduction",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1201–1400",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 17",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1820,20 +1888,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://yazd.ac.ir/en; http://yazd.ac.ir/president/home/introduction; https://yazd.ac.ir/en/international/isco; https://yazd.ac.ir/en/international/isco/group; https://fa.wikipedia.org/wiki/دانشگاه_یزد; nanosats.csv",
+  "sources": "https://yazd.ac.ir/en; http://yazd.ac.ir/president/home/introduction; https://yazd.ac.ir/en/international/isco; https://yazd.ac.ir/en/international/isco/group; https://fa.wikipedia.org/wiki/دانشگاه_یزد; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент д-р Сейед Хейдар Мирфахраддини — по странице «Представление президента» сайта (дата обновления не указана); Wikipedia указывает предшественника (Аббас Калантари) — перепроверить.",
    "Международный ящик isco@offices.yazd.ac.ir — Управление научного и международного сотрудничества (ISCO), тел./факс +98 35 3820 0149; имя директора на сайте не найдено.",
    "Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана).",
-   "В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка."
+   "В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка.",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Управление научного и международного сотрудничества (ISCO)",
   "addressee_name": "",
   "addressee_title": "Директор Управления научного и международного сотрудничества",
   "salutation": "Dear Director of International Scientific Cooperation,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -1852,9 +1922,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://iasbs.ac.ir",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1401–1600",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 9",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1862,21 +1932,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://iasbs.ac.ir; https://iasbs.ac.ir/about-IASBS; https://iasbs.ac.ir/sections/international/; https://en.wikipedia.org/wiki/Institute_for_Advanced_Studies_in_Basic_Sciences; nanosats.csv",
+  "sources": "https://iasbs.ac.ir; https://iasbs.ac.ir/about-IASBS; https://iasbs.ac.ir/sections/international/; https://en.wikipedia.org/wiki/Institute_for_Advanced_Studies_in_Basic_Sciences; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент проф. Саадолла Насири Гейдари — по новости главной страницы iasbs.ac.ir (2025–2026).",
    "Международный офис — Office for Scientific and International Collaboration (OSIC), директор д-р Мохсен Хушманд (кафедра наук о Земле), тел. +98 24 3315 3898.",
    "email_general — ящик службы по связям с общественностью (publicrelations@iasbs.ac.ir); отдельный ящик канцелярии президента не найден.",
    "Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана).",
-   "В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка."
+   "В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка.",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Управление научного и международного сотрудничества (OSIC)",
   "addressee_name": "Dr. Mohsen Hooshmand",
   "addressee_title": "Директор Управления научного и международного сотрудничества (OSIC)",
   "salutation": "Dear Dr. Hooshmand,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -1895,7 +1967,7 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://guilan.ac.ir/officials (по поисковому индексу, 04.10.2026; страница не открыта)",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1401–1600",
   "rank_national": "",
   "satellites_launched": 0,
@@ -1912,7 +1984,8 @@
    "Руководитель — Dr. Ali Basti: по поисковому индексу официальной страницы «رؤسا و معاونین» в должности с мордада 1404 (08.2025); в новостях вуза упоминается как «سرپرست» (врио) — уточнить статус (президент или исполняющий обязанности).",
    "Космических проектов не выявлено (проверка только по nanosats.csv).",
    "В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка.",
-   "Перепроверка: Сайт недоступен; руководитель Али Басти внесён по поисковому индексу официальной страницы (с 08.2025, возможно врио), контакты не найдены."
+   "Перепроверка: Сайт недоступен; руководитель Али Басти внесён по поисковому индексу официальной страницы (с 08.2025, возможно врио), контакты не найдены.",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -1939,7 +2012,7 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1601–1800",
   "rank_national": "",
   "satellites_launched": 0,
@@ -1956,7 +2029,8 @@
    "Wikipedia противоречива: en — Gholamreza Rezaei, fa — Gholamreza Zamanian; президент не подтверждён.",
    "Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана).",
    "В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка.",
-   "Перепроверка: Сайт usb.ac.ir (и en.) недоступен из нашей сети (curl/WebFetch 503) 04.10.2026; данные не изменены."
+   "Перепроверка: Сайт usb.ac.ir (и en.) недоступен из нашей сети (curl/WebFetch 503) 04.10.2026; данные не изменены.",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -1983,7 +2057,7 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 2001+",
   "rank_national": "",
   "satellites_launched": 0,
@@ -2002,7 +2076,8 @@
    "Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана).",
    "В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка.",
    "Повторный поиск (10.2026) даёт противоречивые сведения о руководителе (Амин Наджи / Али Пулади Ришехри) — поле руководителя оставлено пустым",
-   "Перепроверка: 04.10.2026: pnu.ac.ir недоступен (сброс соединения); руководитель не подтверждён — данные не изменены."
+   "Перепроверка: 04.10.2026: pnu.ac.ir недоступен (сброс соединения); руководитель не подтверждён — данные не изменены.",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -2029,8 +2104,8 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: Reporter (в списке, без места)",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -2047,7 +2122,8 @@
    "По Wikipedia президент — Хосейн Мохеби (ссылка на старую новость MSRT); не подтверждено.",
    "Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана).",
    "В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка.",
-   "Перепроверка: Сайт kgut.ac.ir (www и без www) недоступен — ERR_CONNECTION_REFUSED через reader-сервис, сброс через прокси (04.10.2026); данные не изменены."
+   "Перепроверка: Сайт kgut.ac.ir (www и без www) недоступен — ERR_CONNECTION_REFUSED через reader-сервис, сброс через прокси (04.10.2026); данные не изменены.",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -2067,15 +2143,15 @@
   "main_fields": "Humanities, Engineering, Basic Sciences, Arts, Social Sciences",
   "postal_address": "University of Hazrate Masoumeh, Al-Ghadir Blvd., opposite Yadegar-e Emam Stadium, Qom 3736175515 (P.O. Box 37115-145), Iran",
   "email_general": "info@hmu.ac.ir",
-  "email_international": "",
+  "email_international": "info@hmu.ac.ir",
   "phone": "+98 25 32012",
   "website": "https://hmu.ac.ir",
   "head_name": "Dr. Seyedeh Fatemeh Faghihi",
   "head_title": "Acting President",
   "party_secretary": "",
-  "head_verified_source": "https://hmu.ac.ir",
-  "rank_qs": "",
-  "rank_the": "",
+  "head_verified_source": "https://hmu.ac.ir/; https://int.hmu.ac.ir",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: Reporter (в списке, без места)",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -2084,8 +2160,8 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://hmu.ac.ir; https://hmu.ac.ir/Category/Content/article/en/17934/2259; nanosats.csv",
-  "confidence": "low",
+  "sources": "https://hmu.ac.ir; https://hmu.ac.ir/Category/Content/article/en/17934/2259; nanosats.csv\nhttps://hmu.ac.ir/; https://int.hmu.ac.ir",
+  "confidence": "high",
   "notes_ru": [
    "THE2027: Reporter (не ранжирован).",
    "Руководитель: на персидской главной странице (новости 2026) — д-р Сейеде Фатеме Факихи, «сарпараст» (и.о. президента); английская страница President устарела (Maryam Bordbar).",
@@ -2093,7 +2169,8 @@
    "Женский университет (только для студенток).",
    "Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана).",
    "В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка.",
-   "Перепроверка: Сайт hmu.ac.ir (включая en.) по-прежнему недоступен 04.10.2026; данные не изменены"
+   "Перепроверка: Сайт hmu.ac.ir (включая en.) по-прежнему недоступен 04.10.2026; данные не изменены",
+   "Ручная проверка: Контакты прочитаны на официальном сайте 05.10.2026 (сессия с агентами). Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Общий ящик университета (канцелярия)",
   "addressee_name": "",
@@ -2101,7 +2178,8 @@
   "salutation": "Dear Director of International Scientific Cooperation,",
   "recheck_ru": "Сайт hmu.ac.ir (включая en.) по-прежнему недоступен 04.10.2026; данные не изменены",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "outreach_email_new": "info@hmu.ac.ir"
  },
  {
   "country": "Iran",
@@ -2120,9 +2198,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://hut.ac.ir/رئیس-دانشگاه1",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "ISC University Ranking 1403 — technical/industrial universities (دانشگاه‌های صنعتی): 17",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -2130,20 +2208,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://hut.ac.ir; https://hut.ac.ir/رئیس-دانشگاه1; https://hut.ac.ir/اداره-همکاری-های-علمی-بین-المللی; https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_همدان; nanosats.csv",
+  "sources": "https://hut.ac.ir; https://hut.ac.ir/رئیس-دانشگاه1; https://hut.ac.ir/اداره-همکاری-های-علمی-بین-المللی; https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_همدان; nanosats.csv\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "high",
   "notes_ru": [
    "Президент д-р Махмуд Парипур (с ордибехешта 1404 / мая 2025), личный e-mail paripour@hut.ac.ir.",
    "Международный ящик isco@hut.ac.ir — Отдел научного и международного сотрудничества, руководитель д-р Хасан Башири.",
    "Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана).",
-   "В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка."
+   "В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка.",
+   "Рейтинги: таблица «технические/промышленные университеты» (24 вузов в таблице); делит место с: دانشگاه صنعتی خاتم الانبیاء بهبهان"
   ],
   "mailbox_owner": "Отдел научного и международного сотрудничества",
   "addressee_name": "Dr. Hassan Bashiri",
   "addressee_title": "Руководитель Отдела научного и международного сотрудничества",
   "salutation": "Dear Dr. Bashiri,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -2162,9 +2242,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://ujiroft.ac.ir/fa/page/215/ریاست",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 61",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -2172,20 +2252,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://ujiroft.ac.ir/fa; https://ujiroft.ac.ir/fa/page/215/ریاست; https://ujiroft.ac.ir/fa/page/218/حوزه-ریاست-روابط-عمومی-و-امور-بین-الملل; https://ujiroft.ac.ir/en; nanosats.csv",
+  "sources": "https://ujiroft.ac.ir/fa; https://ujiroft.ac.ir/fa/page/215/ریاست; https://ujiroft.ac.ir/fa/page/218/حوزه-ریاست-روابط-عمومی-و-امور-بین-الملل; https://ujiroft.ac.ir/en; nanosats.csv\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент д-р Омидали Эсмаилипур (личный e-mail omid.esmaeilipour@ujiroft.ac.ir) — по странице «Президент» сайта; дата обновления не указана.",
    "Международные дела объединены с канцелярией президента и PR: руководитель д-р Мослем Могбели Даманэ; email_international — его личный адрес (отдельного ящика нет). Общий info@ujiroft.ac.ir указан на англ. сайте.",
    "Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана).",
-   "В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка."
+   "В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка.",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Управление канцелярии президента, связей с общественностью и международных дел",
   "addressee_name": "Dr. Moslem Moghbeli Damaneh",
   "addressee_title": "Руководитель канцелярии президента, PR и международных дел",
   "salutation": "Dear Dr. Moghbeli Damaneh,",
   "match_status": "личный, совпало",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -2204,7 +2286,7 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://kntu.ac.ir/%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%871",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1001–1200",
   "rank_national": "",
   "satellites_launched": 0,
@@ -2222,7 +2304,8 @@
    "Общий e-mail и e-mail международного отдела на сайте не опубликованы (только телефон +98 21 8888 1003); сайт ia.kntu.ac.ir недоступен. Рекомендуется найти адрес через канал CONNECT или запрос по телефону.",
    "Данные о выведенных на орбиту спутниках KNTU не подтверждены (Saar — только планы, источник без ссылки); в nanosats.csv KNTU нет.",
    "Прямой доступ к сайтам .ac.ir заблокирован, данные получены через r.jina.ai-зеркало официальных страниц; web search был недоступен (исчерпан лимит).",
-   "Дополнительные сайты: https://en.kntu.ac.ir"
+   "Дополнительные сайты: https://en.kntu.ac.ir",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Управление международных связей (International Affairs Office)",
   "addressee_name": "Dr. Hadi Aliakbarian",
@@ -2265,7 +2348,8 @@
    "email_general — адрес отдела по связям с общественностью (pr@um.ac.ir), опубликован на странице президента; адрес Управления международного научного сотрудничества (intr.um.ac.ir) получить не удалось — сайт недоступен.",
    "Страница президента опубликована в 2021 г., но на 10.2026 по-прежнему указывает проф. Джаван-Джафари Боджнорди; на главной новости 2026 г. упоминают «президента университета» без имени — желательно перепроверить.",
    "Космическая деятельность (спутники, наземные станции) по доступным источникам не выявлена; углублённая проверка невозможна — web search исчерпан, en.um.ac.ir недоступен.",
-   "Дополнительные сайты: https://en.um.ac.ir"
+   "Дополнительные сайты: https://en.um.ac.ir",
+   "Ручная проверка: Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Отдел по связям с общественностью (Public Relations Office); письмо просить переслать в Управление международного научного сотрудничества",
   "addressee_name": "",
@@ -2291,9 +2375,9 @@
   "head_title": "Chancellor (President)",
   "party_secretary": "",
   "head_verified_source": "https://en.tums.ac.ir/en/page/824/message-from-the-chancellor",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 501–550",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403: не в рейтинге",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -2301,7 +2385,7 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.tums.ac.ir/; https://en.tums.ac.ir/en/page/824/message-from-the-chancellor; https://en.tums.ac.ir/en/contactus; https://en.tums.ac.ir/en/content/289/international; https://en.tums.ac.ir/dir/en/content/1152/colleagues; https://en.wikipedia.org/wiki/Tehran_University_of_Medical_Sciences",
+  "sources": "https://en.tums.ac.ir/; https://en.tums.ac.ir/en/page/824/message-from-the-chancellor; https://en.tums.ac.ir/en/contactus; https://en.tums.ac.ir/en/content/289/international; https://en.tums.ac.ir/dir/en/content/1152/colleagues; https://en.wikipedia.org/wiki/Tehran_University_of_Medical_Sciences\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения.",
@@ -2309,14 +2393,16 @@
    "email_general (Gsia@tums.ac.ir) — общий контакт английского сайта; e-mail международного отдела — tums-intl-relations@tums.ac.ir (Directorate of International Relations, тел. +98 21 8880 0332).",
    "Руководитель Директората международных связей Dr. Marjan Yaghmaie указан на странице, обновлённой 12.09.2023 — актуальность на 2026 г. не подтверждена.",
    "Ректор Dr. Seyed Reza Raeeskarami — страница обновлена 05.01.2026.",
-   "Дополнительные сайты: https://en.tums.ac.ir"
+   "Дополнительные сайты: https://en.tums.ac.ir",
+   "Рейтинги: Медицинский университет (Минздрав Ирана): отсутствует во всех таблицах ISC 1403 на ur.isc.ac, которые охватывают вузы Минобрнауки и др. ведомств, но не медицинские."
   ],
   "mailbox_owner": "Директорат международных связей (Directorate of International Relations)",
   "addressee_name": "Dr. Marjan Yaghmaie",
   "addressee_title": "Директор Директората международных связей",
   "salutation": "Dear Dr. Yaghmaie,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "487"
  },
  {
   "country": "Iran",
@@ -2335,9 +2421,9 @@
   "head_title": "Chancellor (President)",
   "party_secretary": "",
   "head_verified_source": "https://chancellor.iums.ac.ir/",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 701–800",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403: не в рейтинге",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -2345,21 +2431,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://iums.ac.ir/; https://chancellor.iums.ac.ir/; https://en.iums.ac.ir/; https://en.iums.ac.ir/Vice-President-for-International-Affairs; https://en.iums.ac.ir/Staff-of-the-Office-of-Vice-President-for-International-Affairs; https://fa.wikipedia.org/wiki/دانشگاه_علوم_پزشکی_ایران",
+  "sources": "https://iums.ac.ir/; https://chancellor.iums.ac.ir/; https://en.iums.ac.ir/; https://en.iums.ac.ir/Vice-President-for-International-Affairs; https://en.iums.ac.ir/Staff-of-the-Office-of-Vice-President-for-International-Affairs; https://fa.wikipedia.org/wiki/دانشگاه_علوم_پزشکی_ایران\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения.",
    "Медицинский университет (Минздрав) — профиль далёк от космической тематики.",
    "Ректор Dr. Nader Tavakoli подтверждён на сайте канцелярии ректора (chancellor.iums.ac.ir, новости 2026 г.); англ. Википедия (Abdolreza Pazouki) устарела.",
    "Проректор по международным делам Mehdi Moghtadaei, MD указан на странице с фото 2023 г. — актуальность на 2026 г. не подтверждена. Телефон +98 21 8670 2030 — международный офис; коммутатор 021-86709.",
-   "Дополнительные сайты: https://en.iums.ac.ir"
+   "Дополнительные сайты: https://en.iums.ac.ir",
+   "Рейтинги: Медицинский университет (Минздрав Ирана): отсутствует во всех таблицах ISC 1403 на ur.isc.ac, которые охватывают вузы Минобрнауки и др. ведомств, но не медицинские."
   ],
   "mailbox_owner": "Офис проректора по международным делам (Office of Vice President for International Affairs)",
   "addressee_name": "Dr. Mehdi Moghtadaei",
   "addressee_title": "Проректор по международным делам, декан Международного кампуса",
   "salutation": "Dear Dr. Moghtadaei,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "1001"
  },
  {
   "country": "Iran",
@@ -2378,7 +2466,7 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://fa.wikipedia.org/wiki/دانشگاه_علوم_کشاورزی_و_منابع_طبیعی_گرگان (infobox: since 30.11.1403 / Feb 2025; official site unreachable)",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1001–1200",
   "rank_national": "",
   "satellites_launched": 0,
@@ -2397,7 +2485,8 @@
    "Телефон в uniRank/Википедии в старом формате (0171-222 0028 / 0171-2220320) — номер в новом 8-значном формате не подтверждён, поэтому поле phone пустое. E-mail не найдены.",
    "Для проекта VLEO-CubeSat интересен как потенциальный пользователь данных ДЗЗ (лесное хозяйство, водосборы).",
    "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0.",
-   "Перепроверка: Сайт gau.ac.ir недоступен (503 / сброс соединения) — данные не изменены (04.10.2026)"
+   "Перепроверка: Сайт gau.ac.ir недоступен (503 / сброс соединения) — данные не изменены (04.10.2026)",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Управление международного научного сотрудничества (International Scientific Cooperation Office)",
   "addressee_name": "",
@@ -2424,7 +2513,7 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://t.me/s/ikiu_ac (official IKIU Telegram channel: posts 20–27.09.2026 name Dr. Hamid Taheri as university president); https://www.ikiu.ac.ir/en/web/news_portal/ (official news, search snippet: acting from 10.02.1404 / 30.04.2025, confirmed by Supreme Council of Cultural Revolution 12.05.1404 / 03.08.2025)",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1201–1400",
   "rank_national": "",
   "satellites_launched": 0,
@@ -2442,7 +2531,8 @@
    "Президент Dr. Hamid Taheri (д-р персидской литературы): и.о. с 30.04.2025, утверждён Высшим советом культурной революции 03.08.2025; действующий по официальному Telegram-каналу @ikiu_ac (посты 20–27.09.2026).",
    "Телефон uniRank в старом формате ((281) 378 0021) — не используется. Общий/международный e-mail не найден (в Telegram-канале только адреса фестивалей: festival.intl@pst.ikiu.ac.ir).",
    "Быстрая проверка спутников: в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0.",
-   "Перепроверка: Президент д-р Хамид Тахери подтверждён официальным Telegram-каналом IKIU (сентябрь 2026; утверждён ВСКР 03.08.2025); сайт по-прежнему недоступен — e-mail и телефон не найдены"
+   "Перепроверка: Президент д-р Хамид Тахери подтверждён официальным Telegram-каналом IKIU (сентябрь 2026; утверждён ВСКР 03.08.2025); сайт по-прежнему недоступен — e-mail и телефон не найдены",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Управление международного научного сотрудничества (International Scientific Cooperation Office)",
   "addressee_name": "",
@@ -2469,9 +2559,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.tasnimnews.ir/fa/news/1405/06/02/3678978/ (Tasnim, 24.08.2026)",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1201–1400",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 19",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -2479,21 +2569,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.tasnimnews.ir/fa/news/1405/06/02/3678978/; https://en.wikipedia.org/wiki/University_of_Kurdistan_(Iran); https://fa.wikipedia.org/wiki/دانشگاه_کردستان; https://www.unirank.org/ir/uni/university-of-kurdistan/",
+  "sources": "https://www.tasnimnews.ir/fa/news/1405/06/02/3678978/; https://en.wikipedia.org/wiki/University_of_Kurdistan_(Iran); https://fa.wikipedia.org/wiki/دانشگاه_کردستان; https://www.unirank.org/ir/uni/university-of-kurdistan/\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения.",
    "Официальный сайт uok.ac.ir недоступен (ошибка HTTP/3); президент Dr. Adel Siosemardeh подтверждён новостью агентства Tasnim от 02.06.1405 (24.08.2026).",
    "Не путать с University of Kurdistan Hewlêr (Эрбиль, Ирак) и Kurdistan University of Medical Sciences.",
    "Телефон uniRank в старом формате ((873) 366 4600-8) — не используется. E-mail не найдены.",
-   "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0."
+   "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0.",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Управление международного научного сотрудничества (International Scientific Cooperation Office)",
   "addressee_name": "",
   "addressee_title": "Директор Управления международного научного сотрудничества",
   "salutation": "Dear Director of International Scientific Cooperation,",
   "match_status": "нет ящика",
-  "match_action": "Найти e-mail международного отдела или канцелярии"
+  "match_action": "Найти e-mail международного отдела или канцелярии",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -2512,7 +2604,7 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://fa.wikipedia.org/wiki/دانشگاه_علامه_طباطبائی (infobox; official site unreachable)",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1401–1600",
   "rank_national": "",
   "satellites_launched": 0,
@@ -2532,7 +2624,8 @@
    "Телефон +98 21 4839 0000 — по uniRank (вторичный источник). E-mail не найдены.",
    "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0.",
    "Перепроверка: 04.10.2026: atu.ac.ir / en.atu.ac.ir по-прежнему недоступны (503 / нет соединения); данные не изменены",
-   "Дополнительные сайты: https://en.atu.ac.ir"
+   "Дополнительные сайты: https://en.atu.ac.ir",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Управление международного научного сотрудничества (International Scientific Cooperation Office)",
   "addressee_name": "",
@@ -2578,7 +2671,8 @@
    "Для приглашения, вероятно, разумнее адресоваться к конкретному филиалу с инженерным/аэрокосмическим профилем (например, Science and Research Branch, Тегеран) — не проверено.",
    "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0.",
    "Перепроверка: Сайты iau.ir / iau.ac.ir по-прежнему недоступны (04.10.2026, сброс соединения); сайт MSRT также недоступен; данные не изменены.",
-   "Дополнительные сайты: https://intl.iau.ir"
+   "Дополнительные сайты: https://intl.iau.ir",
+   "Ручная проверка: Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Управление международного научного сотрудничества (International Office, intl.iau.ir)",
   "addressee_name": "",
@@ -2605,9 +2699,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.znu.ac.ir/ (homepage notice 28-6-1405 / Sept 2026: «پیام تبریک دکتر جلال صبا ریاست محترم دانشگاه زنجان»)",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1401–1600",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 29",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -2615,20 +2709,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.znu.ac.ir/; https://www.znu.ac.ir/en; https://www.znu.ac.ir/about/president; https://isco.znu.ac.ir/; https://en.wikipedia.org/wiki/University_of_Zanjan; https://fa.wikipedia.org/wiki/دانشگاه_زنجان",
+  "sources": "https://www.znu.ac.ir/; https://www.znu.ac.ir/en; https://www.znu.ac.ir/about/president; https://isco.znu.ac.ir/; https://en.wikipedia.org/wiki/University_of_Zanjan; https://fa.wikipedia.org/wiki/دانشگاه_زنجان\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения.",
    "Президент — Dr. Jalal Saba (на главной сайте сентябрь 2026 г. «ریاست محترم»; в фа-Википедии указан как «сарпараст»). Страница /about/president устарела (2021, Dr. Jalal Bazargan) — не использовать.",
    "email_general — отдел по связям с общественностью (znu_pr@znu.ac.ir); international@znu.ac.ir — с английской версии сайта (Группа международного научного сотрудничества, isco.znu.ac.ir). Имя руководителя группы не найдено.",
-   "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0."
+   "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0.",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Группа международного научного сотрудничества (International Scientific Cooperation Group)",
   "addressee_name": "",
   "addressee_title": "Руководитель группы международного научного сотрудничества",
   "salutation": "Dear Director of International Scientific Cooperation,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -2647,9 +2743,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://presidency.du.ac.ir/fa/page/336",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1801–2000",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 40",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -2657,7 +2753,7 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://presidency.du.ac.ir/fa/page/336; https://du.ac.ir/en/page/227/contact-us; https://du.ac.ir/en/album/112/director-of-international-affairs; https://du.ac.ir/fa; https://en.wikipedia.org/wiki/Damghan_University",
+  "sources": "https://presidency.du.ac.ir/fa/page/336; https://du.ac.ir/en/page/227/contact-us; https://du.ac.ir/en/album/112/director-of-international-affairs; https://du.ac.ir/fa; https://en.wikipedia.org/wiki/Damghan_University\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "high",
   "notes_ru": [
    "САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения.",
@@ -2665,14 +2761,16 @@
    "Международный отдел: intl@du.ac.ir, тел. +98 23 3117 6666 (обновлено 16.09.2025). Имя директора международного отдела на странице дано только в фото (имя файла «dr-kolahi-azar») — текстом не подтверждено, поэтому addressee не заполнен.",
    "Почтовый индекс в оригинале записан как 45667-36716 (персидская запись справа налево) — нормализован как 36716-45667; уточнить.",
    "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0.",
-   "Дополнительные сайты: https://du.ac.ir/en"
+   "Дополнительные сайты: https://du.ac.ir/en",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Управление международных связей (Office of International Affairs)",
   "addressee_name": "",
   "addressee_title": "Директор Управления международных связей",
   "salutation": "Dear Director of International Affairs,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -2691,9 +2789,9 @@
   "head_title": "Acting President (Сарпараст)",
   "party_secretary": "",
   "head_verified_source": "https://birjand.ac.ir/isc/fa/news/34286/",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 2001+",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 34",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -2701,7 +2799,7 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://birjand.ac.ir/isc/fa; https://birjand.ac.ir/isc/fa/news/34286/; https://en.birjand.ac.ir/fa/contactus; https://birjand.ac.ir/chief/fa; https://en.wikipedia.org/wiki/University_of_Birjand",
+  "sources": "https://birjand.ac.ir/isc/fa; https://birjand.ac.ir/isc/fa/news/34286/; https://en.birjand.ac.ir/fa/contactus; https://birjand.ac.ir/chief/fa; https://en.wikipedia.org/wiki/University_of_Birjand\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения.",
@@ -2709,14 +2807,16 @@
    "E-mail на сайте выводится картинкой (защита от спама) — адреса извлечь не удалось. Тел. Управления международного научного сотрудничества: +98 56 3102 1040 (факс +98 56 3220 2009).",
    "Имя директора Управления международного научного сотрудничества на доступных страницах не указано.",
    "Быстрая проверка спутников: web search исчерпан; в nanosats.csv и Википедии (ISA) университет не упоминается — 0.",
-   "Дополнительные сайты: https://en.birjand.ac.ir"
+   "Дополнительные сайты: https://en.birjand.ac.ir",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Управление международного научного сотрудничества (International Scientific Cooperation Office)",
   "addressee_name": "",
   "addressee_title": "Директор Управления международного научного сотрудничества",
   "salutation": "Dear Director of International Scientific Cooperation,",
   "match_status": "нет ящика",
-  "match_action": "Найти e-mail международного отдела или канцелярии"
+  "match_action": "Найти e-mail международного отдела или канцелярии",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -2735,9 +2835,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://kut.ac.ir/en/university-president",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: Reporter",
+  "rank_national": "ISC University Ranking 1403 — technical/industrial universities (دانشگاه‌های صنعتی): 14",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -2745,7 +2845,7 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://kut.ac.ir/en; https://kut.ac.ir/en/university-president; https://kut.ac.ir/contacts-2/; https://kut.ac.ir/ (دفتر ریاست، روابط عمومی و امور بین الملل page); https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_کرمانشاه",
+  "sources": "https://kut.ac.ir/en; https://kut.ac.ir/en/university-president; https://kut.ac.ir/contacts-2/; https://kut.ac.ir/ (دفتر ریاست، روابط عمومی و امور بین الملل page); https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_کرمانشاه\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения.",
@@ -2754,14 +2854,16 @@
    "Международные дела объединены с офисом президента и PR: «دفتر ریاست، روابط عمومی و امور بین الملل», руководитель — Dr. Sajjad Rasaei; отдельного e-mail международного отдела нет, используется info@kut.ac.ir.",
    "profile_type «technical/aerospace» означает технический университет; аэрокосмических подразделений не выявлено.",
    "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0.",
-   "Дополнительные сайты: https://kut.ac.ir/en"
+   "Дополнительные сайты: https://kut.ac.ir/en",
+   "Рейтинги: таблица «технические/промышленные университеты» (24 вузов в таблице)"
   ],
   "mailbox_owner": "Офис президента, по связям с общественностью и международным делам",
   "addressee_name": "Dr. Sajjad Rasaei",
   "addressee_title": "Руководитель Офиса президента, по связям с общественностью и международным делам",
   "salutation": "Dear Dr. Rasaei,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -2780,9 +2882,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://en.usc.ac.ir/contact-us/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: Reporter",
+  "rank_national": "ISC University Ranking 1403 — non-governmental non-profit universities (دانشگاه‌های غیرانتفاعی): 2",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -2790,7 +2892,7 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.usc.ac.ir/; https://en.usc.ac.ir/contact-us/; https://international.usc.ac.ir/en/; https://en.wikipedia.org/wiki/University_of_Science_and_Culture",
+  "sources": "https://en.usc.ac.ir/; https://en.usc.ac.ir/contact-us/; https://international.usc.ac.ir/en/; https://en.wikipedia.org/wiki/University_of_Science_and_Culture\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения.",
@@ -2798,14 +2900,16 @@
    "Негосударственный некоммерческий университет, учреждённый Академическим центром образования, культуры и исследований (ACECR); научные учёные звания президента и директора не указаны — используется «Dr.»",
    "Отдельный e-mail международного офиса не найден; Генеральный директорат международного сотрудничества — директор Ali Saadollah (вн. тел. 618 по справочнику сайта). Письмо на info@usc.ac.ir с просьбой переадресовать.",
    "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0.",
-   "Дополнительные сайты: https://en.usc.ac.ir"
+   "Дополнительные сайты: https://en.usc.ac.ir",
+   "Рейтинги: таблица «негосударственные некоммерческие университеты» (не основные таблицы) (21 вузов в таблице); в ISC значится с пометкой (غیردولتی غیرانتفاعی)"
   ],
   "mailbox_owner": "Общий ящик университета; адресат — Генеральный директорат международного сотрудничества",
   "addressee_name": "Dr. Ali Saadollah",
   "addressee_title": "Генеральный директор по международному сотрудничеству",
   "salutation": "Dear Dr. Saadollah,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -2824,9 +2928,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://ana.ir/fa/news/1081221 (08.09.2026: reappointed for 4 years by the Minister of Science)",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "ISC University Ranking 1403 — technical/industrial universities (دانشگاه‌های صنعتی): 22",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -2834,7 +2938,7 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://birjandut.ac.ir/en/page/120/about; https://birjandut.ac.ir/fa; https://isc.birjandut.ac.ir/; https://ana.ir/fa/news/1081221; https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_بیرجند",
+  "sources": "https://birjandut.ac.ir/en/page/120/about; https://birjandut.ac.ir/fa; https://isc.birjandut.ac.ir/; https://ana.ir/fa/news/1081221; https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_بیرجند\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения.",
@@ -2842,14 +2946,16 @@
    "Есть Офис международного научного сотрудничества (isc.birjandut.ac.ir), но e-mail и руководитель не опубликованы; использовать info@birjandut.ac.ir. Индекс: 9719866981 (англ. страница) / 9719866989 (перс. страница) — уточнить.",
    "main_fields составлены по списку групп/кафедр из фа-Википедии и сайта — уровень уверенности средний.",
    "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0.",
-   "Дополнительные сайты: https://birjandut.ac.ir/en"
+   "Дополнительные сайты: https://birjandut.ac.ir/en",
+   "Рейтинги: таблица «технические/промышленные университеты» (24 вузов в таблице)"
   ],
   "mailbox_owner": "Общий ящик университета; адресат — Офис международного научного сотрудничества",
   "addressee_name": "",
   "addressee_title": "Директор Офиса международного научного сотрудничества",
   "salutation": "Dear Director of International Scientific Cooperation,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -2868,8 +2974,8 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -2887,7 +2993,8 @@
    "Телефон +98 54 3532 0020 и индекс 9971756499 — по uniRank (вторичный источник). E-mail не найдены.",
    "Рядом строится Чабахарский космодром (National Satellite Launch Base) — возможный контекст для сотрудничества, но связь университета с ним не подтверждена.",
    "Быстрая проверка спутников: в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0.",
-   "Перепроверка: Сайт и иранские источники недоступны; данные не изменены."
+   "Перепроверка: Сайт и иранские источники недоступны; данные не изменены.",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Управление международного научного сотрудничества (International Scientific Cooperation Office)",
   "addressee_name": "",
@@ -2914,8 +3021,8 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -2931,7 +3038,8 @@
    "Данные практически не найдены: статьи в Википедии нет, предполагаемые домены (ershad.ac.ir, edu.ershad.ac.ir) не резолвятся, web search исчерпан. Персидское название (институт высшего образования «Эршад Дамаванд») и город (Тегеран) — не подтверждены официальным источником.",
    "Негосударственный вуз небольшого размера, без инженерно-космического профиля (по косвенным данным) — низкий приоритет для рассылки.",
    "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0.",
-   "Перепроверка: Официальный сайт по-прежнему не найден; данные не изменены."
+   "Перепроверка: Официальный сайт по-прежнему не найден; данные не изменены.",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -2958,9 +3066,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://ut.ac.ir/en/page/9240/president",
-  "rank_qs": "QS2027: 367",
+  "rank_qs": "QS2027: =367",
   "rank_the": "THE2027: 451–500",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 1",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -2968,7 +3076,7 @@
   "space_units": "Faculty of Aerospace Engineering (Aerospace Systems), College of Interdisciplinary Science and Technology",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://ut.ac.ir/en/page/9240/president; https://ut.ac.ir/en/page/6897/contact-us; https://international.ut.ac.ir/fa/page/12079/معاون-بین-الملل; https://ut.ac.ir/en/page/6661/about-the-university-of-tehran; https://fa.wikipedia.org/wiki/دانشگاه_تهران; https://en.wikipedia.org/wiki/University_of_Tehran; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://www.qianmu.org/ranking/1528.htm (QS2027 full list, secondary); https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)",
+  "sources": "https://ut.ac.ir/en/page/9240/president; https://ut.ac.ir/en/page/6897/contact-us; https://international.ut.ac.ir/fa/page/12079/معاون-بین-الملل; https://ut.ac.ir/en/page/6661/about-the-university-of-tehran; https://fa.wikipedia.org/wiki/دانشگاه_تهران; https://en.wikipedia.org/wiki/University_of_Tehran; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://www.qianmu.org/ranking/1528.htm (QS2027 full list, secondary); https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент — проф. Мохаммад Хосейн Омид, назначен министром MSRT 7 мая 2025 г. (официальная страница).",
@@ -2976,14 +3084,16 @@
    "Общий e-mail на странице контактов отображается картинкой и не извлечён; для приглашения использовать International@ut.ac.ir (Управление международных связей).",
    "Собственных спутников, выведенных на орбиту, не найдено; есть факультет аэрокосмической инженерии. Лимит веб-поиска исчерпан — космические данные проверены только по Википедии, Gunter's Space Page и nanosats.csv.",
    "В US Entity List, EU/UK санкционных списках и OFAC SDN университет как организация не найден (проверка по локальным выгрузкам списков).",
-   "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки."
+   "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки.",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Управление (вице-президентство) по международным делам",
   "addressee_name": "Dr. Saeed Hamzeh",
   "addressee_title": "Вице-президент по международным делам (доцент)",
   "salutation": "Dear Dr. Hamzeh,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "351"
  },
  {
   "country": "Iran",
@@ -3002,8 +3112,8 @@
   "head_title": "Head",
   "party_secretary": "",
   "head_verified_source": "",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 3,
   "satellite_names": "Mahda (2024); Pars-1 (2024); Nahid-2 (2025)",
@@ -3020,7 +3130,8 @@
    "Официальный сайт isrc.ac.ir недоступен (ошибка 504, повторно 04.10.2026) — адрес, телефон, e-mail и руководитель не подтверждены. По Википедии и.о. руководителя с 2022 г. — Хасан Саларие (одновременно глава Иранского космического агентства); актуальность на 2025–2026 гг. не подтверждена.",
    "Спутники: Pars-1 и Nahid-2 — подрядчик ISRC (Gunter's Space Page), запуски на Союз-2.1б с Восточного; Mahda (запуск на «Симорге», 2024) — по Википедии. Nahid-1 потерян при неудачном пуске Qaem-100 04.03.2023.",
    "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки.",
-   "Перепроверка: Сайт isrc.ac.ir недоступен (504 Gateway Timeout, в т.ч. через reader-сервис, 04.10.2026); данные не изменены."
+   "Перепроверка: Сайт isrc.ac.ir недоступен (504 Gateway Timeout, в т.ч. через reader-сервис, 04.10.2026); данные не изменены.",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -3047,9 +3158,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://sutech.ac.ir/حوزه-ریاست; https://en.sutech.ac.ir/chancellor/",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 551–600",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — technical/industrial universities (دانشگاه‌های صنعتی): 9",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -3057,19 +3168,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.sutech.ac.ir/chancellor/; https://sutech.ac.ir/حوزه-ریاست; https://en.sutech.ac.ir/contact-us/; https://en.sutech.ac.ir/head-international-scientific-relations-office/; https://sutech.ac.ir/گروه-همکاری-های-علمی-و-بین-المللی-2; https://en.sutech.ac.ir/about-sutech/; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)",
+  "sources": "https://en.sutech.ac.ir/chancellor/; https://sutech.ac.ir/حوزه-ریاست; https://en.sutech.ac.ir/contact-us/; https://en.sutech.ac.ir/head-international-scientific-relations-office/; https://sutech.ac.ir/گروه-همکاری-های-علمی-و-بین-المللی-2; https://en.sutech.ac.ir/about-sutech/; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "high",
   "notes_ru": [
    "email_general — личный адрес президента (dehghani@sutech.ac.ir), общего ящика на сайте нет; email_international — личный адрес руководителя группы научного и международного сотрудничества.",
    "Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's: спутников не найдено (лимит веб-поиска исчерпан).",
-   "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки."
+   "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки.",
+   "Рейтинги: таблица «технические/промышленные университеты» (24 вузов в таблице)"
   ],
   "mailbox_owner": "Группа научного и международного сотрудничества",
   "addressee_name": "Dr. Omid Bushehrian",
   "addressee_title": "Руководитель группы научного и международного сотрудничества",
   "salutation": "Dear Dr. Bushehrian,",
   "match_status": "личный, совпало",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -3088,9 +3201,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 701–800",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403: не в рейтинге",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -3098,20 +3211,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://mui.ac.ir/en/contact-us; https://international.mui.ac.ir/fa/مدیر-بین-الملل; https://mui.ac.ir/ریاست; https://en.wikipedia.org/wiki/Isfahan_University_of_Medical_Sciences; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)",
+  "sources": "https://mui.ac.ir/en/contact-us; https://international.mui.ac.ir/fa/مدیر-بین-الملل; https://mui.ac.ir/ریاست; https://en.wikipedia.org/wiki/Isfahan_University_of_Medical_Sciences; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Имя президента не подтверждено: страница «ریاست» на сайте рендерится без текста (изображения). В Википедии указан Шахин Ширани — актуальность на 2025–2026 гг. не проверена.",
    "Страница директора Управления международных дел не показывает имя (фото); на ней указаны international@mui.ac.ir, тел. +98 31 3668 6974 и личный адрес сотрудника azamseyyedan@yahoo.com (не использовать как официальный).",
    "Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся).",
-   "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки."
+   "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки.",
+   "Рейтинги: Медицинский университет (Минздрав Ирана): отсутствует во всех таблицах ISC 1403 на ur.isc.ac, которые охватывают вузы Минобрнауки и др. ведомств, но не медицинские."
   ],
   "mailbox_owner": "Управление международных дел (Directorate of International Affairs)",
   "addressee_name": "",
   "addressee_title": "Директор Управления международных дел",
   "salutation": "Dear Director of International Affairs,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "1305"
  },
  {
   "country": "Iran",
@@ -3130,9 +3245,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://semnan.ac.ir/ریاست-دانشگاه",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1001–1200",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 15",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -3140,20 +3255,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://semnan.ac.ir/; https://semnan.ac.ir/ریاست-دانشگاه; https://semnan.ac.ir/مدیر-همکاری‌های-علمی-و-بین‌المللی; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)",
+  "sources": "https://semnan.ac.ir/; https://semnan.ac.ir/ریاست-دانشگاه; https://semnan.ac.ir/مدیر-همکاری‌های-علمی-و-بین‌المللی; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "high",
   "notes_ru": [
    "Адреса на сайте записаны в обфусцированном виде («[at]», «{@}») — восстановлены как president@semnan.ac.ir и Intr.Office@semnan.ac.ir.",
    "Учёное звание президента (PhD, химическая инженерия — нефть) на странице не указано, поэтому «Dr.»; в Википедии указан прежний президент (Сейфолла Саадеддин) — устарело.",
    "Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся).",
-   "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки."
+   "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки.",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Управление научного и международного сотрудничества",
   "addressee_name": "Dr. Mohammad Najjarzadeh",
   "addressee_title": "Директор Управления научного и международного сотрудничества",
   "salutation": "Dear Dr. Najjarzadeh,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -3172,9 +3289,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://chancellor.khu.ac.ir/page/22643/",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1201–1400",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 10",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -3182,21 +3299,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.khu.ac.ir/; https://chancellor.khu.ac.ir/page/22643/; https://iro.khu.ac.ir/; https://iro.khu.ac.ir/persons.php?ppup=1&slc_lang=fa&sid=68&prsn_id=86; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)",
+  "sources": "https://en.khu.ac.ir/; https://chancellor.khu.ac.ir/page/22643/; https://iro.khu.ac.ir/; https://iro.khu.ac.ir/persons.php?ppup=1&slc_lang=fa&sid=68&prsn_id=86; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Отдельного e-mail Центра международных связей на сайте нет (используется info@khu.ac.ir). Личный адрес руководителя показан в обфусцированном виде «ali.tahaeikhu.ac.ir» — вероятно ali.tahaei@khu.ac.ir (не подтверждено, в поле не внесён).",
    "Д-р Али Тахаи — «سرپرست» (и.о. руководителя) Центра международных связей, доктор материаловедения; в новостях 2026 г. фигурирует как директор центра.",
    "Бывший Tarbiat Moallem University (переименован в Kharazmi University).",
    "Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся).",
-   "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки."
+   "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки.",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Общий ящик университета (info@khu.ac.ir); адресат — Центр международных связей",
   "addressee_name": "Dr. Ali Tahaei",
   "addressee_title": "И.о. руководителя Центра международных связей",
   "salutation": "Dear Dr. Tahaei,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -3215,7 +3334,7 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1201–1400",
   "rank_national": "",
   "satellites_launched": 0,
@@ -3233,7 +3352,8 @@
    "Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся).",
    "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки.",
    "По поисковой выдаче (страница maragheh.ac.ir/Page/3 и СМИ) руководитель — д-р Расул Маруфи-Азар (سرپرست/рئیس, доцент, мех. инженерия) — официальную страницу открыть не удалось, в head_name не внесено",
-   "Перепроверка: 04.10.2026: maragheh.ac.ir недоступен (сброс соединения); найдено вероятное имя руководителя (Р. Маруфи-Азар) только в поисковой выдаче — поля не изменены."
+   "Перепроверка: 04.10.2026: maragheh.ac.ir недоступен (сброс соединения); найдено вероятное имя руководителя (Р. Маруфи-Азар) только в поисковой выдаче — поля не изменены.",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Общий ящик университета (info@maragheh.ac.ir)",
   "addressee_name": "",
@@ -3260,7 +3380,7 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1401–1600",
   "rank_national": "",
   "satellites_launched": 0,
@@ -3277,7 +3397,8 @@
    "Адрес взят из Википедии, официальной страницей не подтверждён. Офис международного сотрудничества: http://en.azaruniv.ac.ir/?PageID=137 (не открылся).",
    "Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся).",
    "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки.",
-   "Перепроверка: Сайты azaruniv.ac.ir и en.azaruniv.ac.ir недоступны (таймаут через прокси и reader-сервис, 04.10.2026); данные не изменены."
+   "Перепроверка: Сайты azaruniv.ac.ir и en.azaruniv.ac.ir недоступны (таймаут через прокси и reader-сервис, 04.10.2026); данные не изменены.",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -3304,9 +3425,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://msr.lu.ac.ir/en/president/introduction/introduction-to-the-university-presidency/",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1401–1600",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 36",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -3314,20 +3435,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.lu.ac.ir/en/; https://www.lu.ac.ir/en/contact-us/; https://msr.lu.ac.ir/en/president/introduction/introduction-to-the-university-presidency/; https://international-relations.lu.ac.ir/en/; https://msr.lu.ac.ir/en/president/sub-units/international-scientific-cooperation-group/; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)",
+  "sources": "https://www.lu.ac.ir/en/; https://www.lu.ac.ir/en/contact-us/; https://msr.lu.ac.ir/en/president/introduction/introduction-to-the-university-presidency/; https://international-relations.lu.ac.ir/en/; https://msr.lu.ac.ir/en/president/sub-units/international-scientific-cooperation-group/; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Президент — проф. Мехрдад Дадсетани (профессор физики конденсированного состояния), личный e-mail dadsetani.m@lu.ac.ir; страница обновлена 25.02.2026.",
    "Отдельного e-mail Группы международного научного сотрудничества не найдено; используется ящик канцелярии президента (Chancellor@lu.ac.ir, также LUChancellor@lu.ac.ir). Руководитель группы не указан на открытых страницах.",
    "Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся).",
-   "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки."
+   "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки.",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Канцелярия президента (Office of the President)",
   "addressee_name": "",
   "addressee_title": "Руководитель Группы международного научного сотрудничества",
   "salutation": "Dear Director of International Scientific Cooperation,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -3346,9 +3469,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://alzahra.ac.ir/رئیس-دانشگاه-الزهرا",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1601–1800",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — comprehensive universities (دانشگاه‌های جامع): 25",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -3356,7 +3479,7 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.alzahra.ac.ir/; https://alzahra.ac.ir/رئیس-دانشگاه-الزهرا; https://intl.alzahra.ac.ir/مدیریت; https://intl.alzahra.ac.ir/تماس-با-ما1; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)",
+  "sources": "https://www.alzahra.ac.ir/; https://alzahra.ac.ir/رئیس-دانشگاه-الزهرا; https://intl.alzahra.ac.ir/مدیریت; https://intl.alzahra.ac.ir/تماس-با-ما1; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "high",
   "notes_ru": [
    "Женский университет.",
@@ -3364,14 +3487,16 @@
    "Управление международного научного сотрудничества: Kharazmi Building, 7th floor, тел. +98 21 8569 2225 / 8805 8925, почтовый индекс 1993891176; директор — д-р Надия Махмуди Хатир (доцент, нанофизика), n.khatir@alzahra.ac.ir.",
    "Транслитерация имени президента (زهرا ناظم بکائی) — уточнить написание латиницей.",
    "Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся).",
-   "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки."
+   "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки.",
+   "Рейтинги: таблица «комплексные университеты» (69 вузов в таблице)"
   ],
   "mailbox_owner": "Управление международного научного сотрудничества",
   "addressee_name": "Dr. Nadia Mahmoudi Khatir",
   "addressee_title": "Директор Управления международного научного сотрудничества (доцент)",
   "salutation": "Dear Dr. Mahmoudi Khatir,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -3390,9 +3515,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://sanru.ac.ir/رئیس-دانشگاه/",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1801–2000",
-  "rank_national": "",
+  "rank_national": "ISC University Ranking 1403 — agricultural sciences universities (دانشگاه‌های علوم کشاورزی): 2",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -3400,20 +3525,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.sanru.ac.ir/; https://en.sanru.ac.ir/international-scientific-cooperation-office/; https://en.sanru.ac.ir/about-us/; https://sanru.ac.ir/رئیس-دانشگاه/; https://sanru.ac.ir/اطلاعات-تماس-دانشگاه/; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)",
+  "sources": "https://en.sanru.ac.ir/; https://en.sanru.ac.ir/international-scientific-cooperation-office/; https://en.sanru.ac.ir/about-us/; https://sanru.ac.ir/رئیس-دانشگاه/; https://sanru.ac.ir/اطلاعات-تماس-دانشگاه/; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "high",
   "notes_ru": [
    "Директор ISCO д-р Саджад Киани указывает личный адрес kiani.sajad@gmail.com; официальный ящик офиса — isco@sanru.ac.ir (тел./факс +98 11 3368 7548).",
    "Учёное звание президента на странице не указано однозначно — «Dr.».",
    "Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся).",
-   "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки."
+   "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки.",
+   "Рейтинги: таблица «аграрные университеты» (не основные таблицы) (4 вузов в таблице)"
   ],
   "mailbox_owner": "Управление международного научного сотрудничества (ISCO)",
   "addressee_name": "Dr. Sajad Kiani",
   "addressee_title": "Директор Управления международного научного сотрудничества",
   "salutation": "Dear Dr. Kiani,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -3426,13 +3553,13 @@
   "postal_address": "Amol University of Special Modern Technologies, Central Building, Abazar 35, Taleghani St., Amol, Mazandaran, Iran (Postal Code 4615664616)",
   "email_general": "",
   "email_international": "",
-  "phone": "+98 11 4444 2135",
+  "phone": "+98 11 4444 2137",
   "website": "https://ausmt.ac.ir",
-  "head_name": "",
+  "head_name": "Dr. Bahram Jafari",
   "head_title": "President",
   "party_secretary": "",
-  "head_verified_source": "",
-  "rank_qs": "",
+  "head_verified_source": "https://ausmt.ac.ir/p/%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87; https://ausmt.ac.ir/; https://www.javanonline.ir/fa/news/1379339/",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: Reporter (unranked)",
   "rank_national": "",
   "satellites_launched": 0,
@@ -3442,8 +3569,8 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://ausmt.ac.ir/; https://ausmt.ac.ir/p/ریاست-دانشگاه; https://ausmt.ac.ir/sub/jahani; https://ausmt.ac.ir/sub/pr; https://ausmt.ac.ir/p/تماس-با-ما; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)",
-  "confidence": "low",
+  "sources": "https://ausmt.ac.ir/; https://ausmt.ac.ir/p/ریاست-دانشگاه; https://ausmt.ac.ir/sub/jahani; https://ausmt.ac.ir/sub/pr; https://ausmt.ac.ir/p/تماس-با-ما; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)\nhttps://ausmt.ac.ir/p/%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87; https://ausmt.ac.ir/; https://www.javanonline.ir/fa/news/1379339/",
+  "confidence": "high",
   "notes_ru": [
    "Университет возглавляет «سرپرست» (и.о. руководителя) — имя на открытых страницах не указано (резюме доступно только ссылкой); не подтверждено.",
    "Международные связи объединены с канцелярией президента и PR: «Офис президента, по связям с общественностью и международным отношениям»; и.о. руководителя — д-р Сомайе Рахаи (назначена 08.02.1405 = 28.04.2026, по новостям сайта).",
@@ -3451,12 +3578,13 @@
    "Член Союза государственных университетов и НИИ прикаспийских стран (CASPIAN union, с 2025 г., по новостям сайта).",
    "Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся).",
    "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки.",
-   "Перепроверка: Сайт ausmt.ac.ir по-прежнему недоступен 04.10.2026; данные не изменены"
+   "Перепроверка: Сайт ausmt.ac.ir по-прежнему недоступен 04.10.2026; данные не изменены",
+   "Ручная проверка: Контакты прочитаны на официальном сайте 05.10.2026 (сессия с агентами). Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Офис президента, по связям с общественностью и международным отношениям",
-  "addressee_name": "Dr. Somayeh Rahaei",
-  "addressee_title": "И.о. руководителя Офиса президента, PR и международных отношений",
-  "salutation": "Dear Dr. Rahaei,",
+  "addressee_name": "Dr. Bahram Jafari",
+  "addressee_title": "Президент университета",
+  "salutation": "Dear Dr. Jafari,",
   "recheck_ru": "Сайт ausmt.ac.ir по-прежнему недоступен 04.10.2026; данные не изменены",
   "match_status": "нет ящика",
   "match_action": "Найти e-mail международного отдела или канцелярии"
@@ -3478,9 +3606,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://put.ac.ir/fa-IR/put/5009",
-  "rank_qs": "",
-  "rank_the": "THE2027: Reporter (unranked)",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: Reporter",
+  "rank_national": "ISC University Ranking 1403 — universities of executive bodies (دانشگاه‌های دستگاه‌های اجرایی): 8",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -3488,21 +3616,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://put.ac.ir/; https://put.ac.ir/fa-IR/put/5009; https://put.ac.ir/fa-IR/put/7577; https://put.ac.ir/fa-IR/put/7362/page/بین-الملل-و-آموزش-های-تخصصی-و-کاربردی; https://en.wikipedia.org/wiki/Petroleum_University_of_Technology; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)",
+  "sources": "https://put.ac.ir/; https://put.ac.ir/fa-IR/put/5009; https://put.ac.ir/fa-IR/put/7577; https://put.ac.ir/fa-IR/put/7362/page/بین-الملل-و-آموزش-های-تخصصی-و-کاربردی; https://en.wikipedia.org/wiki/Petroleum_University_of_Technology; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Подчиняется Министерству нефти Ирана (не MSRT); факультеты в Абадане, Ахвазе, Тегеране и Махмудабаде; центральный адрес — Абадан.",
    "Есть «Вице-президентство по международным делам и специализированному/прикладному обучению» (тел. +98 21 4424 9754, Тегеран), но e-mail и имя руководителя не найдены.",
    "Нефтяной сектор Ирана находится под отдельными санкциями США/ЕС — повышенный комплаенс-риск.",
    "Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся).",
-   "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки."
+   "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки.",
+   "Рейтинги: таблица «университеты исполнительных ведомств» (не основные таблицы) (10 вузов в таблице); вуз подчинён не Минобрнауки, а другому ведомству"
   ],
   "mailbox_owner": "Общий ящик университета (info@put.ac.ir)",
   "addressee_name": "",
   "addressee_title": "Вице-президент по международным делам",
   "salutation": "Dear Vice President for International Affairs,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -3521,9 +3651,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://uut.ac.ir/page/66",
-  "rank_qs": "",
-  "rank_the": "THE2027: Reporter (unranked)",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: Reporter",
+  "rank_national": "ISC University Ranking 1403 — technical/industrial universities (دانشگاه‌های صنعتی): 11",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -3531,21 +3661,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.uut.ac.ir/; https://uut.ac.ir/; https://uut.ac.ir/page/66; https://uut.ac.ir/phones; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)",
+  "sources": "https://en.uut.ac.ir/; https://uut.ac.ir/; https://uut.ac.ir/page/66; https://uut.ac.ir/phones; https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking; https://sanctionslist.ofac.treas.gov (SDN); https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List); https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list); https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv; https://www.nanosats.eu (local export nanosats.csv)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://ur.isc.ac/fa/Home/RankHome",
   "confidence": "medium",
   "notes_ru": [
    "Прямая связь с президентом: po@uut.ac.ir; личный e-mail президента y.pourasad@uut.ac.ir; тел. приёмной +98 44 3198 0203.",
    "Подразделение «امور بین الملل» (международные дела) есть, но его страница пуста — e-mail и руководитель не найдены.",
    "Основные направления указаны по общему профилю технического университета (на открытых страницах список факультетов не проверен).",
    "Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся).",
-   "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки."
+   "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки.",
+   "Рейтинги: таблица «технические/промышленные университеты» (24 вузов в таблице)"
   ],
   "mailbox_owner": "Общий ящик университета (info@uut.ac.ir)",
   "addressee_name": "",
   "addressee_title": "Руководитель Управления международных дел",
   "salutation": "Dear Director of International Affairs,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Iran",
@@ -3564,8 +3696,8 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://t.me/s/tafreshu (официальный Telegram-канал вуза, посты 19.11.2024 и 26.11.2024)",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -3582,7 +3714,8 @@
    "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки.",
    "Сайт tafreshu.ac.ir недоступен (04.10.2026). Глава вуза д-р Сохейль Вашегани Фарахани назван «رئیس دانشگاه» в официальном Telegram-канале @tafreshu (ноябрь 2024); в постах 2025–2026 имя не встречается — актуальность не подтверждена. Указанный в Википедии д-р Махмудреза Шахверди, по-видимому, устарел",
    "Контактов (e-mail/телефон/адрес) по-прежнему нет",
-   "Перепроверка: Через официальный Telegram-канал найден глава вуза (д-р Вашегани Фарахани, данные 11.2024, требуют проверки); сайт недоступен, контакты не найдены"
+   "Перепроверка: Через официальный Telegram-канал найден глава вуза (д-р Вашегани Фарахани, данные 11.2024, требуют проверки); сайт недоступен, контакты не найдены",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -3609,8 +3742,8 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -3626,7 +3759,8 @@
    "Основные направления указаны по названию/профилю (морской университет), официальной страницей не подтверждены.",
    "Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся).",
    "Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки.",
-   "Перепроверка: Сайт kmsu.ac.ir (с www и без) недоступен (503 / сброс соединения) — данные не изменены (04.10.2026)"
+   "Перепроверка: Сайт kmsu.ac.ir (с www и без) недоступен (503 / сброс соединения) — данные не изменены (04.10.2026)",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",

@@ -18,7 +18,7 @@
   "head_verified_source": "https://news.ksu.edu.sa/en",
   "rank_qs": "QS2027: 107",
   "rank_the": "THE2027: 216",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 1,
   "satellite_names": "KSU CubeSat (2021)",
   "sats_in_development": "KSU CubeSat-2 (second satellite approved in 2021; current status unverified)",
@@ -26,20 +26,22 @@
   "space_units": "College of Engineering – KSU CubeSat project team",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://ksu.edu.sa/en/contact-us; https://ksu.edu.sa/en; https://news.ksu.edu.sa/en; https://news.ksu.edu.sa/en/node/145600; https://geo.ksu.edu.sa/en/content/our-team; https://chairs.ksu.edu.sa/en/node/113; https://www.arabnews.com/node/1836141/saudi-arabia; https://saudigazette.com.sa/article/604671; nanosats.csv",
+  "sources": "https://ksu.edu.sa/en/contact-us; https://ksu.edu.sa/en; https://news.ksu.edu.sa/en; https://news.ksu.edu.sa/en/node/145600; https://geo.ksu.edu.sa/en/content/our-team; https://chairs.ksu.edu.sa/en/node/113; https://www.arabnews.com/node/1836141/saudi-arabia; https://saudigazette.com.sa/article/604671; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "high",
   "notes_ru": [
    "Ректор — исполняющий обязанности (Acting President) с июня 2025 г.; упоминается в новостях KSU от 30.09.2026",
    "KSU CubeSat (1U) запущен 22.03.2021 на «Союз-2» с Байконура — первый спутник саудовского университета; сошёл с орбиты",
    "Почта po@ksu.edu.sa — офис ректора; icstd@ksu.edu.sa — Global Engagement Office (مكتب الشراكات العالمية), тел. +966 11 469 7398",
-   "Дата последнего обновления страницы с руководителем GEO не указана"
+   "Дата последнего обновления страницы с руководителем GEO не указана",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Офис глобального взаимодействия (Global Engagement Office)",
   "addressee_name": "Dr. Mezyad Alterkawi",
   "addressee_title": "Руководитель Офиса глобального взаимодействия",
   "salutation": "Dear Dr. Alterkawi,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "188"
  },
  {
   "country": "Saudi Arabia",
@@ -60,7 +62,7 @@
   "head_verified_source": "https://uqu.edu.sa/en/rect/92736",
   "rank_qs": "QS2027: 741–750",
   "rank_the": "THE2027: 451–500",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 1,
   "satellite_names": "SARI-1 (Ufuq) (2025)",
   "sats_in_development": "",
@@ -68,20 +70,22 @@
   "space_units": "Student team 'Ufuq' (SARI competition)",
   "agency_partnerships": "Saudi Space Agency (SARI student satellite competition)",
   "restricted_list": "",
-  "sources": "https://uqu.edu.sa/en/rect; https://uqu.edu.sa/en/icu/App/Contact; https://uqu.edu.sa/en/App/News/86053; https://uqu.edu.sa/en/rect/92736; https://spa.gov.sa/en/N2455914; https://www.nanosats.eu/sat/sari-1; nanosats.csv",
+  "sources": "https://uqu.edu.sa/en/rect; https://uqu.edu.sa/en/icu/App/Contact; https://uqu.edu.sa/en/App/News/86053; https://uqu.edu.sa/en/rect/92736; https://spa.gov.sa/en/N2455914; https://www.nanosats.eu/sat/sari-1; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Ректор назначен королевским указом в октябре 2020 г.; актуальность на 2026 г. подтверждена только CV на официальном сайте (дата обновления не видна)",
    "SARI-1 (Ufuq, PocketQube 1p) — победитель конкурса SARI Саудовского космического агентства; запуск 28.11.2025 (Transporter-15, через Alba Orbital), статус на орбите неизвестен",
    "E-mail на сайте показаны картинками: rect@uqu.edu.sa (офис ректора), icu@uqu.edu.sa (Unit of International Cooperation)",
-   "Имя текущего руководителя подразделения международного сотрудничества не подтверждено"
+   "Имя текущего руководителя подразделения международного сотрудничества не подтверждено",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Отдел международного сотрудничества (Local and International Partnership Unit)",
   "addressee_name": "",
   "addressee_title": "Генеральный руководитель отдела международного сотрудничества",
   "salutation": "Dear General Supervisor of the International Cooperation Unit,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "836"
  },
  {
   "country": "Saudi Arabia",
@@ -102,7 +106,7 @@
   "head_verified_source": "https://www.kfupm.edu.sa/about-us/our-story/leadership",
   "rank_qs": "QS2027: 63",
   "rank_the": "THE2027: =176",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "Opti-K 6U CubeSat with optical transmitter (with Astrolight); dual 8U Earth-observation satellite mission (GomSpace MoU, Sep 2026); high-altitude balloon CubeSat platform",
@@ -110,20 +114,22 @@
   "space_units": "Interdisciplinary Research Center for Aviation & Space Exploration (IRC-ASE), Director Dr. Ayman Abdallah, irc-ase@kfupm.edu.sa",
   "agency_partnerships": "GomSpace (MoU, 2026); Astrolight (Opti-K)",
   "restricted_list": "",
-  "sources": "https://www.kfupm.edu.sa/about-us/our-story/leadership; https://www.kfupm.edu.sa/about-us/connect/contact-us; https://global.kfupm.edu.sa/about-us/meet-our-team/; https://global.kfupm.edu.sa/about-us/advisors-message/; https://ri.kfupm.edu.sa/irc-ase/contact-us; https://ri.kfupm.edu.sa/research-highlights/pioneering-the-future-of-space-communication; https://gomspace.com/gomspace-and-kfupm-sign-mou-to-explore-strategic-cooperation-in-space-technology/",
+  "sources": "https://www.kfupm.edu.sa/about-us/our-story/leadership; https://www.kfupm.edu.sa/about-us/connect/contact-us; https://global.kfupm.edu.sa/about-us/meet-our-team/; https://global.kfupm.edu.sa/about-us/advisors-message/; https://ri.kfupm.edu.sa/irc-ase/contact-us; https://ri.kfupm.edu.sa/research-highlights/pioneering-the-future-of-space-communication; https://gomspace.com/gomspace-and-kfupm-sign-mou-to-explore-strategic-cooperation-in-space-technology/\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "high",
   "notes_ru": [
    "Спутников на орбите нет; активная космическая программа через IRC-ASE (создан в 2022 г.)",
    "Сентябрь 2026: MoU с GomSpace о двойной 8U миссии ДЗЗ — приоритетный кандидат для партнёрства по CubeSat",
    "Global Engagement (создан в 2024 г.) возглавляет советник ректора; учёная степень адресата на сайте не указана — в обращении используется полное имя",
-   "Для партнёрств по космосу дополнительно: irc-ase@kfupm.edu.sa, +966 13 860 5400"
+   "Для партнёрств по космосу дополнительно: irc-ase@kfupm.edu.sa, +966 13 860 5400",
+   "Рейтинги: QS: в таблице как «KFUPM»; THE: в таблице как «KFUPM»; Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Офис глобального взаимодействия (KFUPM Global Engagement)",
   "addressee_name": "Husameddin S. AlMadani",
   "addressee_title": "Советник ректора, руководитель Global Engagement",
   "salutation": "Dear Husameddin AlMadani,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "580"
  },
  {
   "country": "Saudi Arabia",
@@ -142,8 +148,8 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.spa.gov.sa/en/N2509965",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 17,
   "satellite_names": "SaudiSat-1A (2000); SaudiSat-1B (2000); SaudiSat-1C (2002); SaudiSat-2 (2004); SaudiComsat-1 (2004); SaudiComsat-2 (2004); SaudiSat-3 (2007); SaudiComsat-3 (2007); SaudiComsat-4 (2007); SaudiComsat-5 (2007); SaudiComsat-6 (2007); SaudiComsat-7 (2007); SaudiSat-4 (2014); SaudiSat-5A (2018); SaudiSat-5B (2018); SGS-1 (2019); Shaheen Sat (2021)",
@@ -159,7 +165,8 @@
    "Президент в ранге министра; подтверждён в новости SPA от 11.02.2026",
    "17 спутников за 2000–2021 гг. (Saudipedia); SGS-1 (2019) — геостационарный спутник связи, изготовлен совместно с Lockheed Martin",
    "Международный e-mail int_coop@kacst.edu.sa (страница IAF) — на устаревшем домене kacst.edu.sa, не подтверждён",
-   "Член IAF; не университет — партнёрство через агентство/институт"
+   "Член IAF; не университет — партнёрство через агентство/институт",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Медиа-центр / общий адрес KACST",
   "addressee_name": "",
@@ -187,7 +194,7 @@
   "head_verified_source": "https://www.alfaisal.edu",
   "rank_qs": "QS2027: 801–850",
   "rank_the": "THE2027: 501–550",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -195,20 +202,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.alfaisal.edu; https://www.alfaisal.edu/en/contact; https://advancement.alfaisal.edu; https://advancement.alfaisal.edu/contact; https://oise.alfaisal.edu/",
+  "sources": "https://www.alfaisal.edu; https://www.alfaisal.edu/en/contact; https://advancement.alfaisal.edu; https://advancement.alfaisal.edu/contact; https://oise.alfaisal.edu/\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "medium",
   "notes_ru": [
    "Частный некоммерческий университет (основан фондом короля Фейсала)",
    "Космической программы и спутников не найдено (одна проверка)",
    "Партнёрствами занимается Department of External Relations and Advancement (advancement@alfaisal.edu, +966 11 215 7985); курирует вице-президент Dr. Maha bint Mishari AlSaud; имя директора департамента на сайте не указано",
-   "Office of International Students & Exchange (oise.alfaisal.edu) ориентирован на студентов"
+   "Office of International Students & Exchange (oise.alfaisal.edu) ориентирован на студентов",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Департамент внешних связей и развития (External Relations and Advancement)",
   "addressee_name": "",
   "addressee_title": "Директор департамента внешних связей и развития",
   "salutation": "Dear Director of External Relations and Advancement,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -229,7 +238,7 @@
   "head_verified_source": "https://www.kku.edu.sa/en/portfolio/The-university-president",
   "rank_qs": "QS2027: 514",
   "rank_the": "THE2027: 301–325",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -237,20 +246,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.kku.edu.sa/en; https://www.kku.edu.sa/en/portfolio/The-university-president; https://www.kku.edu.sa/en/portfolio/president-office; https://www.kku.edu.sa/en/portfolio/local-and-international-cooperation; https://www.kku.edu.sa/en/contact; https://www.qianmu.org/2027QS世界大学排名; nanosats.csv",
+  "sources": "https://www.kku.edu.sa/en; https://www.kku.edu.sa/en/portfolio/The-university-president; https://www.kku.edu.sa/en/portfolio/president-office; https://www.kku.edu.sa/en/portfolio/local-and-international-cooperation; https://www.kku.edu.sa/en/contact; https://www.qianmu.org/2027QS世界大学排名; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Ректор занимает пост с июня 2016 г.; официальная страница (обновлена 2026) указывает «June 2016 – Present»",
    "Спутников не найдено (nanosats.csv и один поиск)",
    "Общий e-mail kkurector@kku.edu.sa — офис ректора; отдельного общего адреса отдела международного сотрудничества на сайте нет — указан личный e-mail руководителя отдела (msalshehri@kku.edu.sa)",
-   "QS2027 по таблице qianmu.org (вторичный источник)"
+   "QS2027 по таблице qianmu.org (вторичный источник)",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Управление местного и международного сотрудничества (Local and International Cooperation Administration)",
   "addressee_name": "Dr. Mohammed bin Salem Al-Shugeibi",
   "addressee_title": "Руководитель (супервайзер) управления местного и международного сотрудничества",
   "salutation": "Dear Dr. Al-Shugeibi,",
   "match_status": "ПРОВЕРИТЬ",
-  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",
+  "rank_webometrics": "680"
  },
  {
   "country": "Saudi Arabia",
@@ -269,9 +280,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.psau.edu.sa/en/presidents-message",
-  "rank_qs": "QS2027: 677",
+  "rank_qs": "QS2027: =677",
   "rank_the": "THE2027: 401–450",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -279,19 +290,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.psau.edu.sa/en; https://www.psau.edu.sa/en/presidents-message; https://www.psau.edu.sa/en/contact-us-beneficiary-services; https://psau.edu.sa/dicss/en/contact-directory; https://psau.edu.sa/dicss/en/directors-message; https://www.qianmu.org/2027QS世界大学排名; nanosats.csv",
+  "sources": "https://www.psau.edu.sa/en; https://www.psau.edu.sa/en/presidents-message; https://www.psau.edu.sa/en/contact-us-beneficiary-services; https://psau.edu.sa/dicss/en/contact-directory; https://psau.edu.sa/dicss/en/directors-message; https://www.qianmu.org/2027QS世界大学排名; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "high",
   "notes_ru": [
    "Общий номер телефона на сайте не найден (только телефонный справочник/добавочные); добавочный директора отдела — 4460",
    "Спутников не найдено (nanosats.csv и один поиск)",
-   "Отдел международного сотрудничества: DICCR@psau.edu.sa; директор — s.alabdulaziz@psau.edu.sa (страница обновлена 24.08.2026)"
+   "Отдел международного сотрудничества: DICCR@psau.edu.sa; директор — s.alabdulaziz@psau.edu.sa (страница обновлена 24.08.2026)",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Департамент международного сотрудничества и культурных связей",
   "addressee_name": "Ms. Sara bint Ahmed Al-Abdulaziz",
   "addressee_title": "Директор департамента международного сотрудничества и культурных связей",
   "salutation": "Dear Ms. Al-Abdulaziz,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "996"
  },
  {
   "country": "Saudi Arabia",
@@ -312,7 +325,7 @@
   "head_verified_source": "https://www.al-jazirahonline.com/2026/09/21/536508/",
   "rank_qs": "QS2027: =567",
   "rank_the": "THE2027: 551–600",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -320,21 +333,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.kfu.edu.sa/en; https://www.kfu.edu.sa/en/Departments/knowledgeExchange/Pages/Home-new.aspx; https://www.al-jazirahonline.com/2026/09/21/536508/; https://x.com/KFUniversity/status/2026752115150840169; https://www.qianmu.org/2027QS世界大学排名; nanosats.csv",
+  "sources": "https://www.kfu.edu.sa/en; https://www.kfu.edu.sa/en/Departments/knowledgeExchange/Pages/Home-new.aspx; https://www.al-jazirahonline.com/2026/09/21/536508/; https://x.com/KFUniversity/status/2026752115150840169; https://www.qianmu.org/2027QS世界大学排名; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Президент (с октября 2024 г.) подтверждён по газете Al-Jazirah от 21.09.2026, на сайте университета страница ректора не открылась (меню на JavaScript)",
    "Телефон 920002366 — единый номер (внутри КСА); отдел международного сотрудничества: +966 13 589 5298",
    "Спутников не найдено (nanosats.csv и один поиск)",
    "Имя руководителя отдела международного сотрудничества на сайте не указано",
-   "Профиль: исторически аграрно-ветеринарный университет, ныне многопрофильный"
+   "Профиль: исторически аграрно-ветеринарный университет, ныне многопрофильный",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Управление международного сотрудничества и партнёрств (International Cooperation and Knowledge Exchange)",
   "addressee_name": "",
   "addressee_title": "Директор управления международного сотрудничества и партнёрств",
   "salutation": "Dear Director of International Cooperation and Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "1114"
  },
  {
   "country": "Saudi Arabia",
@@ -355,7 +370,7 @@
   "head_verified_source": "https://www.spa.gov.sa/en/N2625933",
   "rank_qs": "QS2027: 791–800",
   "rank_the": "THE2027: 601–650",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -363,7 +378,7 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://imamu.edu.sa/en; https://imamu.edu.sa/en/about-university/president-office; https://www.spa.gov.sa/en/N2625933; https://units.imamu.edu.sa/administrations/International_Cooperation/Pages/default.aspx; https://www.qianmu.org/2027QS世界大学排名; nanosats.csv",
+  "sources": "https://imamu.edu.sa/en; https://imamu.edu.sa/en/about-university/president-office; https://www.spa.gov.sa/en/N2625933; https://units.imamu.edu.sa/administrations/International_Cooperation/Pages/default.aspx; https://www.qianmu.org/2027QS世界大学排名; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Президент подтверждён по новости SPA (июль 2026 г.); учёное звание в источнике не указано",
@@ -371,7 +386,8 @@
    "Сайт в основном на JavaScript, часть страниц (contact-us) блокируется WAF; почтовый адрес (P.O. Box) на открытых страницах не найден",
    "Есть Генеральное управление международного сотрудничества и коммуникаций (الإدارة العامة للتعاون والتواصل الدولي), но e-mail и руководитель на странице не отображаются",
    "Спутников не найдено; в поиске упоминается проект KN-Sat1 (ResearchGate), связь с IMSIU и запуск не подтверждены",
-   "Перепроверка: Повторный доступ к imamu.edu.sa блокируется WAF (страница «IMAMU Support», 04.10.2026) — обход не выполнялся; уровень повышен до medium на основании ранее подтверждённых данных (президент — SPA, июль 2026; e-mail офиса президента — официальный сайт), данные не изменены."
+   "Перепроверка: Повторный доступ к imamu.edu.sa блокируется WAF (страница «IMAMU Support», 04.10.2026) — обход не выполнялся; уровень повышен до medium на основании ранее подтверждённых данных (президент — SPA, июль 2026; e-mail офиса президента — официальный сайт), данные не изменены.",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Офис президента университета",
   "addressee_name": "Ahmed Alaameri",
@@ -379,7 +395,8 @@
   "salutation": "Dear President Alaameri,",
   "recheck_ru": "Повторный доступ к imamu.edu.sa блокируется WAF (страница «IMAMU Support», 04.10.2026) — обход не выполнялся; уровень повышен до medium на основании ранее подтверждённых данных (президент — SPA, июль 2026; e-mail офиса президента — официальный сайт), данные не изменены.",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "1332"
  },
  {
   "country": "Saudi Arabia",
@@ -400,7 +417,7 @@
   "head_verified_source": "https://www.ut.edu.sa/en/about-ut/who-we-are/university-leaders",
   "rank_qs": "QS2027: 1001–1200",
   "rank_the": "THE2027: 651–700",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -408,19 +425,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.ut.edu.sa/en; https://www.ut.edu.sa/en/contact-us/contact-university; https://www.ut.edu.sa/en/about-ut/who-we-are/university-leaders; https://www.ut.edu.sa/en/graduate-studies-and-scientific-research/international-partnerships-and-cooperation-unit; https://www.qianmu.org/2027QS世界大学排名; nanosats.csv",
+  "sources": "https://www.ut.edu.sa/en; https://www.ut.edu.sa/en/contact-us/contact-university; https://www.ut.edu.sa/en/about-ut/who-we-are/university-leaders; https://www.ut.edu.sa/en/graduate-studies-and-scientific-research/international-partnerships-and-cooperation-unit; https://www.qianmu.org/2027QS世界大学排名; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "medium",
   "notes_ru": [
    "Почтовый адрес (P.O. Box) на сайте не указан — только «Kingdom of Saudi Arabia - Tabuk»",
    "Есть International Partnerships and Cooperation Unit (при проректорате по аспирантуре и науке), но контакты и руководитель на странице не опубликованы — письмо направлять на ut@ut.edu.sa",
-   "Спутников не найдено; сотрудники кафедры электротехники публикуют работы по системам питания CubeSat (Scientific Reports, 2026)"
+   "Спутников не найдено; сотрудники кафедры электротехники публикуют работы по системам питания CubeSat (Scientific Reports, 2026)",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Общая почта университета (канцелярия)",
   "addressee_name": "",
   "addressee_title": "Руководитель отдела международных партнёрств и сотрудничества",
   "salutation": "Dear Head of International Partnerships and Cooperation,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -441,7 +460,7 @@
   "head_verified_source": "https://iu.edu.sa/university/CVofPresident",
   "rank_qs": "QS2027: 1001–1200",
   "rank_the": "THE2027: 701–800",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -449,20 +468,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://iu.edu.sa; https://iu.edu.sa/university; https://iu.edu.sa/university/CVofPresident; https://iu.edu.sa/Departments/CorporateKnowledgeExchangeCenter; https://www.qianmu.org/2027QS世界大学排名; nanosats.csv",
+  "sources": "https://iu.edu.sa; https://iu.edu.sa/university; https://iu.edu.sa/university/CVofPresident; https://iu.edu.sa/Departments/CorporateKnowledgeExchangeCenter; https://www.qianmu.org/2027QS世界大学排名; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "medium",
   "notes_ru": [
    "Президент с мая 2024 г. (официальная CV на сайте); латинская транслитерация фамилии (العقلا) — наша, на сайте только по-арабски",
    "care@iu.edu.sa — служба по работе с обращениями (единственный опубликованный общий e-mail); телефон 920022042 — единый номер внутри КСА",
    "Партнёрствами занимается Центр партнёрств и обмена знаниями (مركز الشراكات والتبادل المعرفي); e-mail и руководитель не опубликованы",
-   "Профиль преимущественно исламские/гуманитарные науки; спутников не найдено"
+   "Профиль преимущественно исламские/гуманитарные науки; спутников не найдено",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Служба обращений (Beneficiary Care) — общий канал университета",
   "addressee_name": "",
   "addressee_title": "Директор Центра партнёрств и обмена знаниями",
   "salutation": "Dear Director of the Partnerships and Knowledge Exchange Center,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -481,7 +502,7 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://convention.bio.org/2026-sessions-and-courses/king-saud-bin-abdulaziz-university-for-health-sciences",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 701–800",
   "rank_national": "",
   "satellites_launched": 0,
@@ -499,7 +520,8 @@
    "Университет подчиняется Министерству национальной гвардии (не Минобразования); президент одновременно CEO медицинских служб нацгвардии (MNGHA); подтверждён по программе BIO 2026",
    "Медицинский профиль; спутников не найдено (проверка только по nanosats.csv)",
    "Имя руководителя по международным партнёрствам не найдено; есть портал соглашений и стратегических партнёрств",
-   "Перепроверка: Сайт ksau-hs.edu.sa по-прежнему не открывается (устаревший TLS и неполная цепочка сертификатов); данные не изменены"
+   "Перепроверка: Сайт ksau-hs.edu.sa по-прежнему не открывается (устаревший TLS и неполная цепочка сертификатов); данные не изменены",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Деканат приёма и регистрации (общий канал)",
   "addressee_name": "",
@@ -528,7 +550,7 @@
   "head_verified_source": "https://www.tu.edu.sa/En/Taif-University/News/26147/TU-President-and-Community-Congratulate-HRH-Prince-Khalid-Al-Faisal",
   "rank_qs": "QS2027: 851–900",
   "rank_the": "THE2027: 701–800",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -536,20 +558,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.tu.edu.sa/En; https://www.tu.edu.sa/En/University/Pages/20291/Contact-Us; https://www.tu.edu.sa/En/Taif-University/News/26147/TU-President-and-Community-Congratulate-HRH-Prince-Khalid-Al-Faisal; https://www.tu.edu.sa/En/Units/264/Strategic-Partnerships-and-Initiatives-Unit; https://www.tu.edu.sa/En/Administrations/262/Contracting-and-international-cooperation-management; https://www.astesj.com/v07/i06/p12/; https://www.qianmu.org/2027QS世界大学排名; nanosats.csv",
+  "sources": "https://www.tu.edu.sa/En; https://www.tu.edu.sa/En/University/Pages/20291/Contact-Us; https://www.tu.edu.sa/En/Taif-University/News/26147/TU-President-and-Community-Congratulate-HRH-Prince-Khalid-Al-Faisal; https://www.tu.edu.sa/En/Units/264/Strategic-Partnerships-and-Initiatives-Unit; https://www.tu.edu.sa/En/Administrations/262/Contracting-and-international-cooperation-management; https://www.astesj.com/v07/i06/p12/; https://www.qianmu.org/2027QS世界大学排名; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Президент подтверждён новостью сайта от 20.09.2026",
    "Единственный опубликованный e-mail — websupport@tu.edu.sa (техподдержка сайта); лучше использовать платформу партнёрств webapps1.tu.edu.sa/partnership",
    "Есть Управление контрактов и международного сотрудничества и Отдел стратегических партнёрств и инициатив (руководитель Dr. Abdullah bin Hasan Al-Shahri; e-mail не опубликован)",
-   "Спутников не найдено; кафедра компьютерной инженерии вела работы по CubeSat-прототипу для управления толпой (испытание на высоте 15 м, 2022)"
+   "Спутников не найдено; кафедра компьютерной инженерии вела работы по CubeSat-прототипу для управления толпой (испытание на высоте 15 м, 2022)",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Техподдержка сайта (общий канал); партнёрства — Отдел стратегических партнёрств и инициатив",
   "addressee_name": "Dr. Abdullah bin Hasan Al-Shahri",
   "addressee_title": "Руководитель отдела стратегических партнёрств и инициатив",
   "salutation": "Dear Dr. Al-Shahri,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "919"
  },
  {
   "country": "Saudi Arabia",
@@ -568,9 +592,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://portal.nu.edu.sa:443/en/home/-/asset_publisher/vzkp/content/president-of-najran-university-congratulates-the-supreme-leadership-on-the-occasion-of-national-day/maximized",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 801–1000",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -578,20 +602,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.nu.edu.sa/en; https://portal.nu.edu.sa/contact-us; https://portal.nu.edu.sa:443/en/home/-/asset_publisher/vzkp/content/president-of-najran-university-congratulates-the-supreme-leadership-on-the-occasion-of-national-day/maximized; https://www.laboasis.org/organization/nu-najran-university/; https://www.wipo.int/tisc/en/search/details.jsp?id=12374; nanosats.csv",
+  "sources": "https://www.nu.edu.sa/en; https://portal.nu.edu.sa/contact-us; https://portal.nu.edu.sa:443/en/home/-/asset_publisher/vzkp/content/president-of-najran-university-congratulates-the-supreme-leadership-on-the-occasion-of-national-day/maximized; https://www.laboasis.org/organization/nu-najran-university/; https://www.wipo.int/tisc/en/search/details.jsp?id=12374; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "medium",
   "notes_ru": [
    "Президент подтверждён новостью сайта к Нацдню (сентябрь 2026)",
    "care@nu.edu.sa — центр обслуживания обращений (официальная страница «Связаться с нами»); info@nu.edu.sa, адрес и телефон — из вторичного каталога LabOasis",
    "noip@nu.edu.sa (каталог WIPO TISC) относится к офису интеллектуальной собственности, не к международному отделу",
-   "Международный отдел и его руководитель на сайте не найдены; спутников не найдено"
+   "Международный отдел и его руководитель на сайте не найдены; спутников не найдено",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Центр обслуживания обращений (общий канал)",
   "addressee_name": "",
   "addressee_title": "Директор по международному сотрудничеству",
   "salutation": "Dear Director of International Affairs,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -612,7 +638,7 @@
   "head_verified_source": "https://www.qu.edu.sa/en/university-president/cv/",
   "rank_qs": "QS2027: 781–790",
   "rank_the": "THE2027: 801–1000",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -620,19 +646,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://qu.edu.sa/en; https://www.qu.edu.sa/en/university-president/cv/; https://www.qu.edu.sa/en/contact-us/; https://www.qu.edu.sa/contact?lang=en; https://www.qianmu.org/2027QS世界大学排名; nanosats.csv",
+  "sources": "https://qu.edu.sa/en; https://www.qu.edu.sa/en/university-president/cv/; https://www.qu.edu.sa/en/contact-us/; https://www.qu.edu.sa/contact?lang=en; https://www.qianmu.org/2027QS世界大学排名; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Президент — профессор электротехники (PhD, Ohio University); страница CV на официальном сайте, дата назначения не указана",
    "cir@qu.edu.sa (тел. +966 16 302 0768) в официальном справочнике значится за «Управлением обмена знаниями и научных мероприятий» (إدارة التبادل المعرفي والفعاليات العلمية); по поисковой выдаче — Центр международного сотрудничества и обмена знаниями; имя руководителя не найдено",
-   "Спутников не найдено (nanosats.csv и один поиск)"
+   "Спутников не найдено (nanosats.csv и один поиск)",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Центр международного сотрудничества и обмена знаниями",
   "addressee_name": "",
   "addressee_title": "Директор центра международного сотрудничества и обмена знаниями",
   "salutation": "Dear Director of International Cooperation and Knowledge Exchange,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "1143"
  },
  {
   "country": "Saudi Arabia",
@@ -653,7 +681,7 @@
   "head_verified_source": "https://www.taibahu.edu.sa/en/administration-of-media-and-communication/media-center/news-53",
   "rank_qs": "QS2027: 1201–1400",
   "rank_the": "THE2027: 1001–1200",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -661,21 +689,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.taibahu.edu.sa/en/contact-us; https://www.taibahu.edu.sa/en/administration-of-media-and-communication/media-center/news-53; https://www.taibahu.edu.sa/en/the-university/resources-and-information/partnerships; https://saudigazette.com.sa/article/637292; https://www.qianmu.org/2027QS世界大学排名; nanosats.csv",
+  "sources": "https://www.taibahu.edu.sa/en/contact-us; https://www.taibahu.edu.sa/en/administration-of-media-and-communication/media-center/news-53; https://www.taibahu.edu.sa/en/the-university/resources-and-information/partnerships; https://saudigazette.com.sa/article/637292; https://www.qianmu.org/2027QS世界大学排名; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Президент — первая женщина-ректор саудовского университета (с ноября 2023 г.); подтверждена новостью сайта от 07.04.2026",
    "tu@taibahu.edu.sa — официальный адрес для официальной переписки; tawasul@taibahu.edu.sa — общие запросы",
    "Сайт с curl недоступен (таймаут/503), данные получены через WebFetch",
    "Отдельный международный отдел и его руководитель на сайте не указаны (есть программа стратегических партнёрств)",
-   "Спутников не найдено (проверка только по nanosats.csv — лимит веб-поиска исчерпан)"
+   "Спутников не найдено (проверка только по nanosats.csv — лимит веб-поиска исчерпан)",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Официальная канцелярия университета",
   "addressee_name": "",
   "addressee_title": "Руководитель по стратегическим партнёрствам",
   "salutation": "Dear Director of International Affairs,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "1432"
  },
  {
   "country": "Saudi Arabia",
@@ -694,9 +724,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.uj.edu.sa/en/senior-leadership",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1001–1200",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -704,19 +734,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.uj.edu.sa/en; https://www.uj.edu.sa/en/senior-leadership; https://www.uj.edu.sa/en/contact-us; https://www.uj.edu.sa/en/global-partnerships; https://dgs.uj.edu.sa/; nanosats.csv",
+  "sources": "https://www.uj.edu.sa/en; https://www.uj.edu.sa/en/senior-leadership; https://www.uj.edu.sa/en/contact-us; https://www.uj.edu.sa/en/global-partnerships; https://dgs.uj.edu.sa/; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "medium",
   "notes_ru": [
    "Международное сотрудничество ведёт Деканат аспирантуры и международного сотрудничества (dgs@uj.edu.sa); есть также вице-декан по стипендиям/обучению dgs-vdean.sic@uj.edu.sa",
    "Декан — Dr. Faten bint Mohammed Ali Zainalabdeen Zaini (по новости на сайте деканата, дата публикации не указана); вице-декан женского отделения и межд. сотрудничества — Dr. Samar Al-Jahdali",
-   "Спутников не найдено (проверка только по nanosats.csv — лимит веб-поиска исчерпан)"
+   "Спутников не найдено (проверка только по nanosats.csv — лимит веб-поиска исчерпан)",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Деканат аспирантуры и международного сотрудничества",
   "addressee_name": "Dr. Faten Zaini",
   "addressee_title": "Декан деканата аспирантуры и международного сотрудничества",
   "salutation": "Dear Dr. Zaini,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -735,9 +767,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://seu.edu.sa/en/university-presidency/",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1201–1400",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -745,20 +777,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://seu.edu.sa/en/; https://seu.edu.sa/en/university-presidency/; https://seu.edu.sa/en/about/location/; https://seu.edu.sa/external/; https://seu.edu.sa/en/administrations/partnerships-and-international-cooperation-administration/; nanosats.csv",
+  "sources": "https://seu.edu.sa/en/; https://seu.edu.sa/en/university-presidency/; https://seu.edu.sa/en/about/location/; https://seu.edu.sa/external/; https://seu.edu.sa/en/administrations/partnerships-and-international-cooperation-administration/; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "medium",
   "notes_ru": [
    "Электронный (дистанционно-смешанный) университет с филиалами в 17 городах; инженерного/космического профиля нет",
    "Общий e-mail на сайте не опубликован — обращения через форму «Contact Us» (seu.edu.sa/external) и X @SEU_Care",
    "Есть Управление партнёрств и международного сотрудничества (при проректорате по аспирантуре и науке), но контакты и руководитель не указаны",
-   "Спутников не найдено (проверка только по nanosats.csv — лимит веб-поиска исчерпан)"
+   "Спутников не найдено (проверка только по nanosats.csv — лимит веб-поиска исчерпан)",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Управление партнёрств и международного сотрудничества (через форму обратной связи)",
   "addressee_name": "",
   "addressee_title": "Директор управления партнёрств и международного сотрудничества",
   "salutation": "Dear Director of Partnerships and International Cooperation,",
   "match_status": "нет ящика",
-  "match_action": "Найти e-mail международного отдела или канцелярии"
+  "match_action": "Найти e-mail международного отдела или канцелярии",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -777,9 +811,9 @@
   "head_title": "Dean",
   "party_secretary": "",
   "head_verified_source": "https://bmc.edu.sa/en/About-BMC/Message-from-the-Dean",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1401–1600",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -787,20 +821,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://bmc.edu.sa/en/; https://bmc.edu.sa/en/About-BMC/Message-from-the-Dean; https://bmc.edu.sa/en/Business-Development/Contact-Us; https://bmc.edu.sa/en/International-Student-Office; nanosats.csv",
+  "sources": "https://bmc.edu.sa/en/; https://bmc.edu.sa/en/About-BMC/Message-from-the-Dean; https://bmc.edu.sa/en/Business-Development/Contact-Us; https://bmc.edu.sa/en/International-Student-Office; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "medium",
   "notes_ru": [
    "Частный медицинский колледж (кампусы в Джидде, Асире и Даммаме); руководитель — декан (Dean), а не президент",
    "bd@bmc.edu.sa — отдел развития бизнеса/партнёрств; International Student Office ориентирован на студентов",
    "Телефон 920033923 — единый номер (на сайте также в формате +966 920033923)",
-   "Медицинский профиль; спутников не найдено (проверка только по nanosats.csv)"
+   "Медицинский профиль; спутников не найдено (проверка только по nanosats.csv)",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Отдел развития бизнеса и партнёрств (Business Development)",
   "addressee_name": "",
   "addressee_title": "Руководитель отдела развития бизнеса и партнёрств",
   "salutation": "Dear Director of Business Development,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -819,9 +855,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.dah.edu.sa/en/about/Pages/President.aspx",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -835,14 +871,16 @@
    "Частный некоммерческий женский университет (Джидда)",
    "communications@dah.edu.sa — отдел маркетинга и коммуникаций (отдельного общего/ректорского адреса нет); единый номер +966 9200 16965",
    "Партнёрствами (местными и международными) занимается Collaboration Unit при президенте — директор Dr. Ahlam Alaki, e-mail отдела не опубликован; BusinessDevelopment@dah.edu.sa — Business Development & Consultancy",
-   "Космического профиля нет; спутников не найдено (проверка только по nanosats.csv)"
+   "Космического профиля нет; спутников не найдено (проверка только по nanosats.csv)",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Отдел развития бизнеса и консалтинга (Business Development & Consultancy)",
   "addressee_name": "Dr. Ahlam Alaki",
   "addressee_title": "Директор отдела сотрудничества (Collaboration Unit)",
   "salutation": "Dear Dr. Alaki,",
   "match_status": "ПРОВЕРИТЬ",
-  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -861,9 +899,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.arabou.edu.sa/about/Pages/default.aspx (открыта 04.10.2026)",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -879,7 +917,8 @@
    "Филиалы: Даммам/Эль-Хаса (Dr. Mohammad Alsaif), Джидда (Dr. Osamah Alzaid), Медина (Dr. Abdullah AlGhamdi)",
    "Инженерного/космического профиля нет; спутников не найдено (проверка только по nanosats.csv)",
    "04.10.2026: страница About (сайт активно обновляется, новости до 30.09.2026) по-прежнему называет президентом Prof. Dr. Ali bin Mohammed Al-Shahrani; адрес, info@arabou.edu.sa и телефоны подтверждены. В новостях 2026 г. («رئيس الجامعة…», 26.08.2026) имя президента не указано — дата назначения не подтверждена",
-   "Перепроверка: Президент, адрес, e-mail и телефоны подтверждены на сайте arabou.edu.sa 04.10.2026 (страница без даты, сайт обновляется в 2026)"
+   "Перепроверка: Президент, адрес, e-mail и телефоны подтверждены на сайте arabou.edu.sa 04.10.2026 (страница без даты, сайт обновляется в 2026)",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Общая почта университета",
   "addressee_name": "",
@@ -887,7 +926,8 @@
   "salutation": "Dear Director of International Relations,",
   "recheck_ru": "Президент, адрес, e-mail и телефоны подтверждены на сайте arabou.edu.sa 04.10.2026 (страница без даты, сайт обновляется в 2026)",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -906,9 +946,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.riyadh.edu.sa/about",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -922,14 +962,16 @@
    "Частный университет медико-стоматологического профиля (бывш. Riyadh Colleges of Dentistry and Pharmacy)",
    "Президент указан на сайте по-арабски (фото загружено 29.10.2025); латинская транслитерация — наша",
    "Международного отдела/контактов на сайте нет (только раздел для иностранных студентов) — использовать info@riyadh.edu.sa",
-   "Космического профиля нет; спутников не найдено (проверка только по nanosats.csv)"
+   "Космического профиля нет; спутников не найдено (проверка только по nanosats.csv)",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Общая почта университета",
   "addressee_name": "",
   "addressee_title": "Директор по международному сотрудничеству",
   "salutation": "Dear Director of International Affairs,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -948,9 +990,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.upm.edu.sa/en",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -965,14 +1007,16 @@
    "Профиль — компьютерные науки, кибербезопасность, инженерия (выбран technical, не аэрокосмический в узком смысле)",
    "Отдельного международного отдела нет; vrbd@upm.edu.sa — Проректорат по развитию бизнеса (партнёрства); исследования/партнёрства в науке — srgs@upm.edu.sa",
    "Телефон 920000238 — единый номер (на сайте в формате +966920000238)",
-   "Спутников не найдено (проверка только по nanosats.csv)"
+   "Спутников не найдено (проверка только по nanosats.csv)",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Проректорат по развитию бизнеса (Vice Rectorate for Business Development)",
   "addressee_name": "",
   "addressee_title": "Проректор по развитию бизнеса",
   "salutation": "Dear Vice Rector for Business Development,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -991,8 +1035,8 @@
   "head_title": "Managing Director",
   "party_secretary": "",
   "head_verified_source": "",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -1008,7 +1052,8 @@
    "Колледж Королевской комиссии по Джубайлю и Янбу (не Минобразования); прикладной инженерно-технологический профиль; должность руководителя (Managing Director) не подтверждена",
    "Спутников не найдено (проверка только по nanosats.csv)",
    "Требуется ручная доработка перед рассылкой",
-   "Перепроверка: Домен www.jic.edu.sa не разрешается, jic.edu.sa и rcjy.gov.sa недоступны (502 / сброс соединения) — данные не изменены (04.10.2026)"
+   "Перепроверка: Домен www.jic.edu.sa не разрешается, jic.edu.sa и rcjy.gov.sa недоступны (502 / сброс соединения) — данные не изменены (04.10.2026)",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -1035,9 +1080,9 @@
   "head_title": "President & Chief Academic Officer",
   "party_secretary": "",
   "head_verified_source": "https://www.kaust.edu.sa/en/about/administration/president",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: Reporter",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 1,
   "satellite_names": "KAUSTSat (Lemur-2 ONREFLECTION, 6U, with Spire Global) (2023)",
   "sats_in_development": "",
@@ -1045,21 +1090,23 @@
   "space_units": "Climate and Livability Initiative / Hydrology, Agriculture and Land Observation group (Prof. Matthew McCabe) — KAUSTSat mission",
   "agency_partnerships": "Spire Global (KAUSTSat platform, launch on SpaceX Transporter-7)",
   "restricted_list": "",
-  "sources": "https://www.kaust.edu.sa/en/about/administration/president; https://www.kaust.edu.sa/en/contact; https://www.kaust.edu.sa/en/news/kaust-satellite-to-deliver-earth-observation-data; https://admissions.kaust.edu.sa/info-and-contact/partnerships; https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EA004729; nanosats.csv",
+  "sources": "https://www.kaust.edu.sa/en/about/administration/president; https://www.kaust.edu.sa/en/contact; https://www.kaust.edu.sa/en/news/kaust-satellite-to-deliver-earth-observation-data; https://admissions.kaust.edu.sa/info-and-contact/partnerships; https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EA004729; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Общий e-mail не опубликован; global.pr@kaust.edu.sa — ящик медиа/PR (Global PR and in-Kingdom inquiries), используется как единственный неадмиссионный адрес",
    "Отдел партнёрств (Partnerships Office, >40 международных соглашений) упомянут на сайте, но e-mail и руководитель не опубликованы",
    "THE2027: статус Reporter (не ранжирован); в QS2027 (топ-500) не найден — KAUST как магистерско-докторский вуз в QS не участвует",
    "KAUSTSat построен на платформе Spire Global (подписочная модель), полезная нагрузка — гиперспектральная камера KAUST; работал ~14 месяцев, сошёл с орбиты",
-   "Телефон на официальной странице контактов не опубликован"
+   "Телефон на официальной странице контактов не опубликован",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Отдел глобальных связей с общественностью и СМИ (Global PR)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of Global Communications,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "406"
  },
  {
   "country": "Saudi Arabia",
@@ -1078,9 +1125,9 @@
   "head_title": "President (Rector)",
   "party_secretary": "",
   "head_verified_source": "https://en.wikipedia.org/wiki/Prince_Sultan_University",
-  "rank_qs": "QS2027: 488",
+  "rank_qs": "QS2027: =488",
   "rank_the": "THE2027: 376–400",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 1,
   "satellite_names": "Rawdat Scoop (SARI-2, PocketQube 1p) (2025)",
   "sats_in_development": "",
@@ -1088,19 +1135,21 @@
   "space_units": "",
   "agency_partnerships": "Saudi Space Agency (SARI student small-satellite competition — PSU design selected for flight, launched Nov 2025)",
   "restricted_list": "",
-  "sources": "https://en.wikipedia.org/wiki/Prince_Sultan_University; https://www.wipo.int/tisc/en/search/details.jsp?id=12475; https://www.arabnews.com/node/2624459/saudi-arabia; nanosats.csv",
+  "sources": "https://en.wikipedia.org/wiki/Prince_Sultan_University; https://www.wipo.int/tisc/en/search/details.jsp?id=12475; https://www.arabnews.com/node/2624459/saudi-arabia; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "medium",
   "notes_ru": [
    "Официальный сайт psu.edu.sa недоступен (HTTP 503 / ошибка TLS) — контакты взяты из справочника WIPO TISC, ФИО ректора — из Википедии; рекомендуется перепроверить",
    "Спутник Rawdat Scoop (SARI-2) спроектирован студентами PSU в рамках конкурса SARI Саудовского космического агентства и запущен в ноябре 2025; статус на орбите неизвестен",
-   "E-mail международного отдела не найден"
+   "E-mail международного отдела не найден",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Sir or Madam,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -1121,7 +1170,7 @@
   "head_verified_source": "https://en.wikipedia.org/wiki/Tareef_bin_Yousuf_Alaama",
   "rank_qs": "QS2027: 200",
   "rank_the": "THE2027: 401–450",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1129,20 +1178,22 @@
   "space_units": "Astronomy programme (Faculty of Science) — KAU offers astronomy, meteorology and marine science courses",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://kau.edu.sa/en/page/contact-us; https://kau.edu.sa/en/page/global-and-external-engagement; https://kau.edu.sa/en/page/important-links; https://www.wipo.int/tisc/en/search/details.jsp?id=11353; https://en.wikipedia.org/wiki/Tareef_bin_Yousuf_Alaama; https://en.wikipedia.org/wiki/King_Abdulaziz_University",
+  "sources": "https://kau.edu.sa/en/page/contact-us; https://kau.edu.sa/en/page/global-and-external-engagement; https://kau.edu.sa/en/page/important-links; https://www.wipo.int/tisc/en/search/details.jsp?id=11353; https://en.wikipedia.org/wiki/Tareef_bin_Yousuf_Alaama; https://en.wikipedia.org/wiki/King_Abdulaziz_University\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Ректор (с февраля 2024) подтверждён по Википедии; на официальном сайте страница ректора не найдена (сайт на JS)",
    "ic@kau.edu.sa — Управление глобального и внешнего взаимодействия (Department of International Cooperation Agreements, подчиняется ректору); руководитель не указан",
    "Бесплатный номер: 800 116 9528; основной +966 12 640 0000 (WIPO TISC, сайт КАУ)",
-   "Спутников, построенных КАУ, не найдено"
+   "Спутников, построенных КАУ, не найдено",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Управление глобального и внешнего взаимодействия (международные соглашения)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of Global and External Engagement,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "411"
  },
  {
   "country": "Saudi Arabia",
@@ -1161,9 +1212,9 @@
   "head_title": "Chief Executive Officer (Acting CEO per April 2026 SPA statement)",
   "party_secretary": "",
   "head_verified_source": "https://www.arabnews.com/node/2638870/saudi-arabia",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 1,
   "satellite_names": "Shams (Space Weather CubeSat-1, SWC-1, 12U) (2026)",
   "sats_in_development": "",
@@ -1178,14 +1229,16 @@
    "Сайт ssa.gov.sa рендерится через JS — контактный e-mail не удалось прочитать; по поисковой выдаче общий адрес Info@ssa.gov.sa (в справочнике Eye of Riyadh — устаревший Info@ssc.gov.sa) — НЕ подтверждено, проверить перед отправкой",
    "Адрес и телефон — из карточки члена IAF",
    "Д-р Мохаммед ат-Тамими в апреле 2026 назван исполняющим обязанности CEO; с мая 2025 он также губернатор Национального агентства по ЧС",
-   "Спутник Shams (SWC-1) разработан в КСА, выведен 01.04.2026 в рамках Artemis II на высокоэллиптическую орбиту ~500–70 000 км (не VLEO)"
+   "Спутник Shams (SWC-1) разработан в КСА, выведен 01.04.2026 в рамках Artemis II на высокоэллиптическую орбиту ~500–70 000 км (не VLEO)",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Sir or Madam,",
   "match_status": "нет ящика",
-  "match_action": "Найти e-mail международного отдела или канцелярии"
+  "match_action": "Найти e-mail международного отдела или канцелярии",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -1220,7 +1273,8 @@
    "Официальный сайт iau.edu.sa недоступен из-за геоблокировки (HTTP 503 / сброс соединения); контакты — из справочника WIPO TISC",
    "Ректор проф. Фахад аль-Харби назначен королевским указом (новость IAU, июль 2025); в Википедии также упоминается прежний ректор Абдулла ар-Рубаиш — использовать аль-Харби",
    "cm.dir@iau.edu.sa — Управление коммуникаций центральной администрации; по поисковой выдаче также info@iau.edu.sa и тел. +966 13 333 0000 (не подтверждено)",
-   "E-mail международного отдела не найден; космических проектов не найдено"
+   "E-mail международного отдела не найден; космических проектов не найдено",
+   "Ручная проверка: Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Управление коммуникаций центральной администрации",
   "addressee_name": "",
@@ -1248,7 +1302,7 @@
   "head_verified_source": "https://icesco.org/en/2025/09/10/strategic-partnership-between-icesco-and-prince-mohammad-bin-fahd-university-in-saudi-arabia/",
   "rank_qs": "QS2027: 421",
   "rank_the": "THE2027: 401–450",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1256,20 +1310,22 @@
   "space_units": "Space Research Center (listed among PMU research centers)",
   "agency_partnerships": "ICESCO (strategic partnership incl. space sciences; proposed CanSat training workshop, Sept 2025)",
   "restricted_list": "",
-  "sources": "https://www.pmu.edu.sa/About/Contact_Us.aspx; https://www.pmu.edu.sa/global-engagement/; https://www.pmu.edu.sa/global-engagement/about/organizational-chart.aspx; https://icesco.org/en/2025/09/10/strategic-partnership-between-icesco-and-prince-mohammad-bin-fahd-university-in-saudi-arabia/; nanosats.csv",
+  "sources": "https://www.pmu.edu.sa/About/Contact_Us.aspx; https://www.pmu.edu.sa/global-engagement/; https://www.pmu.edu.sa/global-engagement/about/organizational-chart.aspx; https://icesco.org/en/2025/09/10/strategic-partnership-between-icesco-and-prince-mohammad-bin-fahd-university-in-saudi-arabia/; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "medium",
   "notes_ru": [
    "E-mail международного отдела (Department of International Affairs) не опубликован; использован адрес офиса президента President@pmu.edu.sa (также есть Info@pmu.edu.sa)",
    "На старой оргсхеме директором International Affairs указана Mrs. Rania Sinno, но в текущем справочнике она числится директором Institutional Planning and Research — не использовано",
    "В университете есть Space Research Center; спутников в nanosats.csv нет; в 2025 г. подписано партнёрство с ICESCO в т.ч. по космическим наукам (CanSat)",
-   "Рейтинг QS2027: 421 по одному источнику, 422 по другому"
+   "Рейтинг QS2027: 421 по одному источнику, 422 по другому",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Офис президента университета",
   "addressee_name": "Dr. Issa Al Ansari",
   "addressee_title": "Президент (ректор) университета",
   "salutation": "Dear Dr. Al Ansari,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -1290,7 +1346,7 @@
   "head_verified_source": "https://pnu.edu.sa/en/AboutUniversity/pages/home.aspx; https://pnu.edu.sa/en/MediaCenter/News/Pages/NewsDetails.aspx?RequestID=399",
   "rank_qs": "QS2027: 801–850",
   "rank_the": "THE2027: 451–500",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1298,20 +1354,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.pnu.edu.sa/en/Pages/ContactUsForm.aspx; https://pnu.edu.sa/en/AboutUniversity/pages/home.aspx; https://pnu.edu.sa/en/MediaCenter/News/Pages/NewsDetails.aspx?RequestID=399; http://www.qianmu.org/2027QS世界大学排名; nanosats.csv",
+  "sources": "https://www.pnu.edu.sa/en/Pages/ContactUsForm.aspx; https://pnu.edu.sa/en/AboutUniversity/pages/home.aspx; https://pnu.edu.sa/en/MediaCenter/News/Pages/NewsDetails.aspx?RequestID=399; http://www.qianmu.org/2027QS世界大学排名; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "Женский университет (крупнейший женский университет страны) — учитывать при приглашении",
    "E-mail международного отдела не найден на сайте; используется общий info@pnu.edu.sa (также pnu-tawasul@pnu.edu.sa — канал обращений)",
    "Почтовый адрес на сайте не опубликован в текстовом виде — не заполнен",
-   "Спутников в nanosats.csv и в быстрой проверке не найдено"
+   "Спутников в nanosats.csv и в быстрой проверке не найдено",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Sir or Madam,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "867"
  },
  {
   "country": "Saudi Arabia",
@@ -1330,9 +1388,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.effatuniversity.edu.sa/English/About/Governance/President/Pages/default.aspx",
-  "rank_qs": "",
+  "rank_qs": "QS2027: 901–950",
   "rank_the": "THE2027: 601–650",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1340,19 +1398,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.effatuniversity.edu.sa/English/Pages/default.aspx; https://www.effatuniversity.edu.sa/English/About/Contact-Us/Pages/default.aspx; https://www.effatuniversity.edu.sa/English/About/Governance/President/Pages/default.aspx; https://www.effatuniversity.edu.sa/English/About/Impact/Pages/contact-us.aspx; nanosats.csv",
+  "sources": "https://www.effatuniversity.edu.sa/English/Pages/default.aspx; https://www.effatuniversity.edu.sa/English/About/Contact-Us/Pages/default.aspx; https://www.effatuniversity.edu.sa/English/About/Governance/President/Pages/default.aspx; https://www.effatuniversity.edu.sa/English/About/Impact/Pages/contact-us.aspx; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "medium",
   "notes_ru": [
    "Частный женский университет (учредитель — King Faisal Foundation)",
    "Общий e-mail и e-mail международного отдела на сайте не опубликованы (есть только Effat.PACCE@effatuniversity.edu.sa — непрерывное образование); связь через форму Tawasul или единый номер 920003331",
-   "Спутников не найдено; студенты участвовали в космическом лагере в Нью-Йорке (2024)"
+   "Спутников не найдено; студенты участвовали в космическом лагере в Нью-Йорке (2024)",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Sir or Madam,",
   "match_status": "нет ящика",
-  "match_action": "Найти e-mail международного отдела или канцелярии"
+  "match_action": "Найти e-mail международного отдела или канцелярии",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -1373,7 +1433,7 @@
   "head_verified_source": "https://www.ju.edu.sa/en/He-President-Jouf-University-launches-ai-course",
   "rank_qs": "QS2027: 951–1000",
   "rank_the": "THE2027: 651–700",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1381,19 +1441,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.ju.edu.sa/en; https://www.ju.edu.sa/en/He-President-Jouf-University-launches-ai-course; https://www.ju.edu.sa/en/president-meets-partnerships-agreements-team; http://www.qianmu.org/2027QS世界大学排名; nanosats.csv",
+  "sources": "https://www.ju.edu.sa/en; https://www.ju.edu.sa/en/He-President-Jouf-University-launches-ai-course; https://www.ju.edu.sa/en/president-meets-partnerships-agreements-team; http://www.qianmu.org/2027QS世界大学排名; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",
   "confidence": "medium",
   "notes_ru": [
    "E-mail международного отдела не найден; используется общий contact@ju.edu.sa (колл-центр 014 654 4444)",
    "Почтовый индекс/а/я не опубликованы на главной странице — адрес неполный",
-   "Спутников не найдено (nanosats.csv, сайт)"
+   "Спутников не найдено (nanosats.csv, сайт)",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Общий адрес университета (контакт-центр)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Sir or Madam,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "1416"
  },
  {
   "country": "Saudi Arabia",
@@ -1412,9 +1474,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.um.edu.sa/en/%D9%83%D9%84%D9%85%D8%A9-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-2/",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 701–800",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1422,20 +1484,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.um.edu.sa/en; https://www.um.edu.sa/en/%D9%83%D9%84%D9%85%D8%A9-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-2/; nanosats.csv",
+  "sources": "https://www.um.edu.sa/en; https://www.um.edu.sa/en/%D9%83%D9%84%D9%85%D8%A9-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-2/; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "medium",
   "notes_ru": [
    "Частный университет медицинского профиля — низкая релевантность для спутниковой программы",
    "E-mail международного отдела не найден; общий info@um.edu.sa; единый номер 920011909",
    "Страница президента не датирована — актуальность ФИО подтверждена только текущим сайтом",
-   "Спутников не найдено"
+   "Спутников не найдено",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Sir or Madam,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -1454,7 +1518,7 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://spa.gov.sa/en/N2566500 (Saudi Press Agency, 21.04.2026); https://www.jazanu.edu.sa/en/president (search snippet: in office since 17.05.2024)",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 701–800",
   "rank_national": "",
   "satellites_launched": 0,
@@ -1471,7 +1535,8 @@
    "Президент исправлен: Dr. Mohammad AbuRasain (Mohammed bin Hassan AbuRasain), с 17.05.2024 — подтверждено Saudi Press Agency 21.04.2026; ранее в строке ошибочно был указан Prof. Mar'ei bin Hussein Al-Qahtani (бывший президент)",
    "E-mail международного отдела не найден; используется адрес офиса президента president@jazanu.edu.sa (в письме требуется указать полное имя и мобильный номер)",
    "Спутников в nanosats.csv не найдено; отдельная проверка по космосу не проводилась из-за блокировки сайта",
-   "Перепроверка: ИСПРАВЛЕНО: президент — д-р Мохаммад Абурасаин (SPA, 21.04.2026; в должности с 17.05.2024), а не Al-Qahtani; контакты по-прежнему не открыты (сайт 403)"
+   "Перепроверка: ИСПРАВЛЕНО: президент — д-р Мохаммад Абурасаин (SPA, 21.04.2026; в должности с 17.05.2024), а не Al-Qahtani; контакты по-прежнему не открыты (сайт 403)",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Офис президента университета",
   "addressee_name": "Dr. Mohammad AbuRasain",
@@ -1498,7 +1563,7 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://en.wikipedia.org/wiki/Majmaah_University",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 701–800",
   "rank_national": "",
   "satellites_launched": 0,
@@ -1514,7 +1579,8 @@
    "Сайт mu.edu.sa (и m.mu.edu.sa) недоступен из нашей сети (HTTP 403) — e-mail и адрес не проверены, не заполнены",
    "ФИО президента — по Википедии (данные 2026 г.); учёное звание «Prof.» не подтверждено официальным сайтом; телефон — по поисковой выдаче (my.gov.sa), перепроверить",
    "Спутников в nanosats.csv не найдено",
-   "Перепроверка: 04.10.2026: mu.edu.sa (в т.ч. /en через WebFetch) и каталог my.gov.sa по-прежнему отдают 403; данные не изменены"
+   "Перепроверка: 04.10.2026: mu.edu.sa (в т.ч. /en через WebFetch) и каталог my.gov.sa по-прежнему отдают 403; данные не изменены",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -1543,7 +1609,7 @@
   "head_verified_source": "https://www.uoh.edu.sa/Ar/About/Pages/President.aspx; https://www.uoh.edu.sa/En/About/Pages/President.aspx",
   "rank_qs": "QS2027: 1001–1200",
   "rank_the": "THE2027: 701–800",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1551,20 +1617,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.uoh.edu.sa/; https://www.uoh.edu.sa/Ar/Pages/Contacts.aspx; https://www.uoh.edu.sa/Ar/About/Pages/President.aspx; http://www.qianmu.org/2027QS世界大学排名; nanosats.csv",
+  "sources": "https://www.uoh.edu.sa/; https://www.uoh.edu.sa/Ar/Pages/Contacts.aspx; https://www.uoh.edu.sa/Ar/About/Pages/President.aspx; http://www.qianmu.org/2027QS世界大学排名; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "medium",
   "notes_ru": [
    "E-mail международного отдела не найден; общий info@uoh.edu.sa",
    "На сайте телефон указан с опечаткой «+996 165109200» — исправлено на +966",
    "Почтовый адрес на сайте только «Хаиль — Университетский городок», без индекса",
-   "Спутников не найдено (nanosats.csv, сайт)"
+   "Спутников не найдено (nanosats.csv, сайт)",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Sir or Madam,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -1585,7 +1653,7 @@
   "head_verified_source": "https://www.nbu.edu.sa/university-administration/university-manager",
   "rank_qs": "QS2027: 1001–1200",
   "rank_the": "THE2027: 801–1000",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1593,19 +1661,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.nbu.edu.sa/; https://www.nbu.edu.sa/university-administration/university-manager; https://www.nbu.edu.sa/university-administration/president-office/contact-us; http://www.qianmu.org/2027QS世界大学排名; nanosats.csv",
+  "sources": "https://www.nbu.edu.sa/; https://www.nbu.edu.sa/university-administration/university-manager; https://www.nbu.edu.sa/university-administration/president-office/contact-us; http://www.qianmu.org/2027QS世界大学排名; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "medium",
   "notes_ru": [
    "ФИО президента на сайте только по-арабски (الأستاذ الدكتور أحمد بن علي الرميح) — латинская транслитерация наша",
    "E-mail международного отдела не найден; используется адрес офиса президента opu@nbu.edu.sa (факс +966 14 662 0771)",
-   "Спутников не найдено (nanosats.csv, сайт)"
+   "Спутников не найдено (nanosats.csv, сайт)",
+   "Рейтинги: QS: в таблице как «Northern Borders University»; Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Офис президента университета",
   "addressee_name": "Prof. Dr. Ahmed bin Ali Al-Rumaih",
   "addressee_title": "Президент университета",
   "salutation": "Dear Prof. Al-Rumaih,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -1624,9 +1694,9 @@
   "head_title": "Acting President",
   "party_secretary": "",
   "head_verified_source": "https://www.su.edu.sa/en",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 801–1000",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1634,20 +1704,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.su.edu.sa/en; https://www.su.edu.sa/en/contact/form; https://www.su.edu.sa/en/news/su-times-ranking-2027; nanosats.csv",
+  "sources": "https://www.su.edu.sa/en; https://www.su.edu.sa/en/contact/form; https://www.su.edu.sa/en/news/su-times-ranking-2027; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "medium",
   "notes_ru": [
    "Руководитель — исполняющий обязанности президента (Acting President) — должность может смениться",
    "E-mail международного отдела не найден; общий info@su.edu.sa (факс +966 11 647 7762)",
    "Полный почтовый адрес на сайте не указан — только «Шакра»",
-   "Спутников не найдено (nanosats.csv, сайт)"
+   "Спутников не найдено (nanosats.csv, сайт)",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Sir or Madam,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -1666,9 +1738,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.uhb.edu.sa/ar",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1001–1200",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1676,19 +1748,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.uhb.edu.sa/en; https://www.uhb.edu.sa/ar; https://www.uhb.edu.sa/en/contact/form; nanosats.csv",
+  "sources": "https://www.uhb.edu.sa/en; https://www.uhb.edu.sa/ar; https://www.uhb.edu.sa/en/contact/form; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "medium",
   "notes_ru": [
    "ФИО президента взято из новости на арабской главной странице (أ.د. خالد بن باني الحربي, начало 1448 г.х. / 2026) — латиница наша",
    "E-mail международного отдела не найден; общий info@uhb.edu.sa (факс +966 13 720 4931)",
-   "Спутников не найдено (nanosats.csv, сайт)"
+   "Спутников не найдено (nanosats.csv, сайт)",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Sir or Madam,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -1707,7 +1781,7 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://en.wikipedia.org/wiki/Al_Baha_University; https://bu.edu.sa/en/web/office-of-the-president (via search index)",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1201–1400",
   "rank_national": "",
   "satellites_launched": 0,
@@ -1724,7 +1798,8 @@
    "По той же выдаче директор офиса президента — Mr. Abdullah Alzahrani",
    "Главный кампус — в Аль-Акике (~25 км от г. Эль-Баха); почтовый адрес не проверен",
    "Спутников в nanosats.csv не найдено",
-   "Перепроверка: Сайт bu.edu.sa по-прежнему недоступен (04.10.2026: сброс соединения, WebFetch — 503); данные не изменены."
+   "Перепроверка: Сайт bu.edu.sa по-прежнему недоступен (04.10.2026: сброс соединения, WebFetch — 503); данные не изменены.",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Общий адрес университета / офис президента",
   "addressee_name": "",
@@ -1751,9 +1826,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://ubapi.ub.edu.sa/api/cms/news (official news feed of ub.edu.sa, Oct 2026)",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1201–1400",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1761,14 +1836,15 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.ub.edu.sa/; https://www.ub.edu.sa/university-president (assets/university-president-Du7USWOi.js); https://ubapi.ub.edu.sa/api/cms/news; nanosats.csv",
+  "sources": "https://www.ub.edu.sa/; https://www.ub.edu.sa/university-president (assets/university-president-Du7USWOi.js); https://ubapi.ub.edu.sa/api/cms/news; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "high",
   "notes_ru": [
    "Новый сайт ub.edu.sa — SPA; e-mail president_office@ub.edu.sa и телефон +966 17 623 8093 заданы в коде официальной страницы «Президент университета» (проверено 04.10.2026); ccm@ub.edu.sa — общий ящик из подвала сайта",
    "Президент подтверждён новостью официального сайта за октябрь 2026 (أ.د. محمد بن محسن صفحي)",
    "Почтовый адрес не найден (страница контактов подгружает данные динамически); e-mail международного отдела не найден",
    "Спутников не найдено (nanosats.csv, новости сайта)",
-   "Перепроверка: Добавлены e-mail и телефон офиса президента с официальной страницы президента (04.10.2026); президент подтверждён новостями сайта 10.2026."
+   "Перепроверка: Добавлены e-mail и телефон офиса президента с официальной страницы президента (04.10.2026); президент подтверждён новостями сайта 10.2026.",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Office of the President (president_office@ub.edu.sa); общий ящик коммуникаций — ccm@ub.edu.sa",
   "addressee_name": "Prof. Dr. Mohammed bin Mohsen Safhi",
@@ -1776,7 +1852,8 @@
   "salutation": "Dear Professor Safhi,",
   "recheck_ru": "Добавлены e-mail и телефон офиса президента с официальной страницы президента (04.10.2026); президент подтверждён новостями сайта 10.2026.",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -1795,9 +1872,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://mobileapp.ubt.edu.sa/UBTWebsiteAPI/api/Faculty/get/president (data source of https://www.ubt.edu.sa/about/ubtpresident)",
-  "rank_qs": "",
-  "rank_the": "THE2027: Reporter (unranked)",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: Reporter",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1805,20 +1882,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.ubt.edu.sa/; https://www.ubt.edu.sa/about/ubtpresident; https://mobileapp.ubt.edu.sa/UBTWebsiteAPI/api/Faculty/get/president; nanosats.csv",
+  "sources": "https://www.ubt.edu.sa/; https://www.ubt.edu.sa/about/ubtpresident; https://mobileapp.ubt.edu.sa/UBTWebsiteAPI/api/Faculty/get/president; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
   "confidence": "medium",
   "notes_ru": [
    "Частный университет бизнес-профиля (есть инженерный колледж и программы ИИ); низкая релевантность для спутниковой программы",
    "В вузе есть подразделение International Partnership Affairs, но его e-mail/руководитель не опубликованы; используется общий info@ubt.edu.sa",
    "Президент — Dr. Weam Husni Tunsi (по данным API официального сайта; учёное звание — доцент/Associate Professor)",
-   "В THE 2027 — только статус Reporter (без места); спутников не найдено"
+   "В THE 2027 — только статус Reporter (без места); спутников не найдено",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Sir or Madam,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -1837,9 +1916,9 @@
   "head_title": "Acting President",
   "party_secretary": "",
   "head_verified_source": "https://yu.edu.sa/global-engagement-office/ (news item dated May 8, 2026)",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1853,14 +1932,16 @@
    "Частный университет (бизнес, инженерия, право); есть кампус в Эль-Хобаре",
    "Global Engagement Office: директор Dr. Mashhour Mourad (m_mourad@yu.edu.sa, доб. 3001); менеджер по международным партнёрствам Ms. Raghad Balkhi (r_balkhi@yu.edu.sa, доб. 3043)",
    "Руководитель — исполняющий обязанности президента (Acting President), данные мая 2026",
-   "Не входит в THE2027/QS2027; спутников не найдено"
+   "Не входит в THE2027/QS2027; спутников не найдено",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Офис глобального взаимодействия (Global Engagement Office)",
   "addressee_name": "Dr. Mashhour Mourad",
   "addressee_title": "Директор по глобальному взаимодействию",
   "salutation": "Dear Dr. Mourad,",
   "match_status": "личный, совпало",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -1879,9 +1960,9 @@
   "head_title": "Acting President",
   "party_secretary": "",
   "head_verified_source": "https://dau.edu.sa/احتفال-الجامعة-بـ-اليوم-الوطني-السعود/ (news of 22 Sept 2026)",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1895,14 +1976,16 @@
    "Частный университет (медицина, стоматология, инженерия, право, бизнес)",
    "Руководитель — исполняющий обязанности президента (رئيس الجامعة المكلف) с сентября 2026: أ.د. حسام بن محمد رمضان (латиница наша); до этого президентом был Prof. Dr. Khalid bin Abdulrahman Al-Hamoudi",
    "E-mail международного отдела не найден; общий info@dau.edu.sa, факс +966 11 494 9490; почтовый индекс/а-я не найдены",
-   "Спутников не найдено"
+   "Спутников не найдено",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Sir or Madam,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -1921,9 +2004,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.fbsu.edu.sa/All/Pages/About-Us/University-President",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1937,14 +2020,16 @@
    "Частный университет в Табуке (с 2004 г.); 4 инженерные программы аккредитованы ABET",
    "E-mail международного отдела не найден; общий info@fbsu.edu.sa",
    "Страница президента не датирована — актуальность ФИО подтверждена только текущим сайтом",
-   "Спутников не найдено"
+   "Спутников не найдено",
+   "Рейтинги: Есть только национальная классификация ETEC «Saqr» (صقر), 1-я редакция 2023/24 (итоги 02.2025): 4 уровня (Excellence/Progress/Launch/Preparation), без мест; результаты рассылались вузам индивидуально, публичного списка нет."
   ],
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Sir or Madam,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "Saudi Arabia",
@@ -1963,8 +2048,8 @@
   "head_title": "",
   "party_secretary": "",
   "head_verified_source": "",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -1980,7 +2065,8 @@
    "Сайт указывает расположение академии в Джидде и отдельную регистрацию для сотрудников Saudia — подтверждает принадлежность к группе Saudia",
    "Руководитель, e-mail, телефон, почтовый адрес НЕ найдены на официальных страницах — требуется ручная доработка",
    "Профиль main_fields — общий для авиационной академии, не проверен; спутников в nanosats.csv нет",
-   "Перепроверка: Официальный сайт psaa.com.sa (SPA) открыт 04.10.2026: из его кода подтверждены расположение в Джидде и связь с Saudia (отдельная регистрация для сотрудников Saudia); руководитель, e-mail, телефон и адрес на сайте не опубликованы."
+   "Перепроверка: Официальный сайт psaa.com.sa (SPA) открыт 04.10.2026: из его кода подтверждены расположение в Джидде и связь с Saudia (отдельная регистрация для сотрудников Saudia); руководитель, e-mail, телефон и адрес на сайте не опубликованы.",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -2007,8 +2093,8 @@
   "head_title": "Managing Director",
   "party_secretary": "",
   "head_verified_source": "",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -2026,7 +2112,8 @@
    "Актуальный официальный сайт — раздел портала Royal Commission Education (rcjy.edu.sa); yic.edu.sa и rcyci.edu.sa не открываются",
    "Руководитель — Managing Director (по оргструктуре на rcjy.edu.sa), имя на открытых страницах не указано; по поиску — Dr. Ahmed Al-Ghamdi (не подтверждено)",
    "Опубликованного e-mail нет: обращения через веб-форму https://rcjy.edu.sa/en/contact-us/ (выбор «Yanbu Industrial College»)",
-   "Перепроверка: 04.10.2026: найден официальный раздел колледжа на rcjy.edu.sa (сайт обновлён); имя руководителя и e-mail там не опубликованы — остаётся low."
+   "Перепроверка: 04.10.2026: найден официальный раздел колледжа на rcjy.edu.sa (сайт обновлён); имя руководителя и e-mail там не опубликованы — остаётся low.",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",

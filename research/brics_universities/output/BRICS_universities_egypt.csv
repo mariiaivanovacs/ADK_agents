@@ -1,10 +1,10 @@
-﻿№,Страна,Город,Вуз (англ.),Вуз (ориг.),Профиль,Гос. / частный,Основные направления обучения,Почтовый адрес,E-mail для рассылки (рекомендуемый),Адресат (владелец рекомендуемого e-mail),Стыковка e-mail и адресата,E-mail (международный отдел),E-mail (общий / ректорат),Телефон,Сайт,Ректор / президент,Должность,Рейтинг QS,Рейтинг THE,Национальный рейтинг,Запущено КА (спутников),Названия запущенных КА (год),КА в разработке,Наземная станция,Космические подразделения,Партнёрства в космической сфере,Санкционные / ограничительные списки (США),Космический индекс (0–100),Волна рассылки,Проверка домена e-mail (MX),Достоверность,Примечания,Источники,Дата проверки,"Секретарь парткома (справочно, Китай)"
+﻿№,Страна,Город,Вуз (англ.),Вуз (ориг.),Профиль,Гос. / частный,Основные направления обучения,Почтовый адрес,E-mail для рассылки (рекомендуемый),Адресат (владелец рекомендуемого e-mail),Стыковка e-mail и адресата,E-mail (международный отдел),E-mail (общий / ректорат),Телефон,Сайт,Ректор / президент,Должность,Рейтинг QS,Рейтинг THE,Национальный рейтинг,Рейтинг Webometrics (мир),Запущено КА (спутников),Названия запущенных КА (год),КА в разработке,Наземная станция,Космические подразделения,Партнёрства в космической сфере,Санкционные / ограничительные списки (США),Космический индекс (0–100),Волна рассылки,Проверка домена e-mail (MX),Достоверность,Примечания,Источники,Дата проверки,"Секретарь парткома (справочно, Китай)"
 1,Египет,Каир,National Authority for Remote Sensing and Space Sciences (NARSS),الهيئة القومية للاستشعار من البعد وعلوم الفضاء,НИИ / научный центр,Государственный (агентство),"• Remote Sensing
 • Space Technology (satellite subsystems)
 • GIS & Geomatics
 • Agricultural/Environmental Applications
 • Geology & Mineral Resources
-• Marine & Coastal Studies","23 Joseph Tito Street, El-Nozha El-Gedida, Cairo, Egypt; P.O. Box 1564 Alf-Maskan, Cairo",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,+20 2 26251200,https://www.narss.sci.eg,Prof. Abdelaziz Ballal,Acting Chairman (President),,,,3,"• EgyptSat-1 (2007)
+• Marine & Coastal Studies","23 Joseph Tito Street, El-Nozha El-Gedida, Cairo, Egypt; P.O. Box 1564 Alf-Maskan, Cairo",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,+20 2 26251200,https://www.narss.sci.eg,Prof. Abdelaziz Ballal,Acting Chairman (President),QS2027: не в рейтинге,THE2027: не в рейтинге,,,3,"• EgyptSat-1 (2007)
 • NARSSCube-2 (2019)
 • NARSSCube-1 (2019)",6U agricultural monitoring CubeSat (announced 2023),Satellite data receiving station in Aswan (X-band; Landsat/SPOT reception),Space Technology Division,"• Egyptian Space Agency (EgSA)
 • African Space Agency (host country Egypt)
@@ -12,7 +12,8 @@
 • Cooperation protocols with Egyptian universities (e.g., Beni-Suef National University)",,90,1A,,средняя,"• Руководитель — и.о. председателя Prof. Abdelaziz Ballal (назначен 3 июня 2026 г.; ранее — Prof. Islam Abou El-Magd)
 • Сайт narss.sci.eg недоступен (503)
 • Официальный общий/международный e-mail не найден (в каталоге WIPO указан только личный адрес сотрудника)
-• EgyptSat-1 создан совместно с КБ «Южное» (Украина); EgyptSat-2 не учтён (построен РКК «Энергия», позже передан EgSA)","• Https://www.elwatannews.com/news/details/8295289
+• EgyptSat-1 создан совместно с КБ «Южное» (Украина); EgyptSat-2 не учтён (построен РКК «Энергия», позже передан EgSA)
+• Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено","• Https://www.elwatannews.com/news/details/8295289
 • Https://spaceinafrica.com/2023/08/02/bridging-science-and-society-narsss-impact-on-egypts-development-and-technological-progress/
 • Https://www.wipo.int/tisc/en/search/details.jsp?id=10029
 • Https://en.wikipedia.org/wiki/EgyptSat_1
@@ -25,7 +26,7 @@
 • Space education","Kilo 6 Middle Ring Road, 5th Settlement (in front of Al-Fattah Al-Alim Mosque, behind Madinaty), Egyptian Space City, PO Box 130, Cairo, Egypt",info@egsa.gov.eg,"Dr. Eng. Majed Ismail
 Генеральный директор (CEO) Египетского космического агентства
 Общий ящик агентства (General inbox)
-Обращение: Dear Dr. Ismail,",ящик общий,,info@egsa.gov.eg,+20 2 21297950,https://www.egsa.gov.eg,Dr. Eng. Majed Ismail,CEO,,,,3,"• MisrSat-2 (2023)
+Обращение: Dear Dr. Ismail,",ящик общий,,info@egsa.gov.eg,+20 2 21297950,https://www.egsa.gov.eg,Dr. Eng. Majed Ismail,CEO,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,3,"• MisrSat-2 (2023)
 • NExSat-1 (2024)
 • SPNeX (2025)",,EgSA ground control station at Egyptian Space City (MisrSat-2 ground segment),"• Satellite Assembly, Integration and Testing Center (AITC)
 • Egyptian Space City
@@ -38,7 +39,8 @@
 • China Meteorological Administration (talks, Sep 2026)",,75,1A,да,средняя,"• Агентство, не университет; сайт egsa.gov.eg — SPA, контактные данные подгружаются из API (недоступен); адрес/e-mail/телефон с iafastro.org и WIPO TISC
 • CEO д-р инж. Маджид Исмаил назначен 19.08.2025 на 1 год; в сентябре 2026 продолжает исполнять обязанности (новости youm7/elbalad) — проверить продление
 • В подсчёт включены спутники, созданные/собранные EgSA: MisrSat-2 (совместно с Китаем, сборка в AITC), NExSat-1 (с Berlin Space Technologies), SPNeX (6U, полностью египетский). Horus-1/2 (2023), EgyptSat-A, TIBA-1 и др. — закупленные/иностранного производства, не учтены
-• Отдельный e-mail международного отдела не найден — использовать info@egsa.gov.eg","• Https://www.iafastro.org/membership/all-members/egyptian-space-agency-egsa.html
+• Отдельный e-mail международного отдела не найден — использовать info@egsa.gov.eg
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://www.iafastro.org/membership/all-members/egyptian-space-agency-egsa.html
 • Https://www.wipo.int/tisc/en/search/details.jsp?id=11051
 • Https://spaceinafrica.com/2025/08/19/dr-majed-ismail-appointed-as-ceo-of-egyptian-space-agency/
 • Https://www.youm7.com/story/2026/9/21/x/7553478
@@ -58,15 +60,18 @@
 • Basic Sciences","P.O. Box 179, New Borg El-Arab City, Postal Code 21934, Alexandria, Egypt",international.affairs@ejust.edu.eg,"Prof. Shuji Hashimoto
 Первый вице-президент по региональным и международным связям
 Управление региональных и международных связей (Regional and International Affairs Office)
-Обращение: Dear Prof. Hashimoto,",ящик общий,international.affairs@ejust.edu.eg,,+20 3 4599855,https://www.ejust.edu.eg,Prof. Ahmed El-Sabbagh,President,,THE2027: 801–1000,,0,,"EgSA educational satellite model (lab satellite for communication, remote sensing and space-environment applications)","Ground station simulation unit (educational, supplied under EgSA agreement)","EgSA educational satellite laboratory (satellite model, operation/testing simulators, ground-station simulator)","• Egyptian Space Agency (EgSA) – executive agreement on educational satellite lab, 2021
+Обращение: Dear Prof. Hashimoto,",ящик общий,international.affairs@ejust.edu.eg,,+20 3 4599855,https://www.ejust.edu.eg,Prof. Ahmed El-Sabbagh,President,QS2027: 801–850,THE2027: 801–1000,нет общенационального рейтинга,нет в опубл. списке,0,,"EgSA educational satellite model (lab satellite for communication, remote sensing and space-environment applications)","Ground station simulation unit (educational, supplied under EgSA agreement)","EgSA educational satellite laboratory (satellite model, operation/testing simulators, ground-station simulator)","• Egyptian Space Agency (EgSA) – executive agreement on educational satellite lab, 2021
 • EgSA cooperation protocol with universities, 2021
 • JICA / Japanese partner universities consortium",,51,1B,да,средняя,"• Президент сменился: Prof. Ahmed El-Sabbagh с 1 июля 2026 г. (вместо Prof. Amr Adly)
 • Сайт ejust.edu.eg недоступен (503) — контакты Управления международных связей взяты из поисковой выдержки официальной страницы
 • Также опубликован адрес overseas@ejust.edu.eg
-• Спутников на орбите нет; есть учебная спутниковая лаборатория EgSA","• Https://ejust.edu.eg/get/news/details/215
+• Спутников на орбите нет; есть учебная спутниковая лаборатория EgSA
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://ejust.edu.eg/get/news/details/215
 • Https://eng.pressbee.net/show4898887.html
 • Https://www.ejust.edu.eg/regional-international-affairs
-• Https://spaceinafrica.com/2021/03/09/egsa-signs-agreement-with-egypt-japan-university-of-science-and-technology/",2026-10-05,
+• Https://spaceinafrica.com/2021/03/09/egsa-signs-agreement-with-egypt-japan-university-of-science-and-technology/
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 4,Египет,Бени-Суэф,Beni-Suef University (BSU),جامعة بني سويف,Классический,Государственный (Минвысшобразования Египта),"• Medicine and Pharmacy
 • Science
 • Engineering
@@ -75,19 +80,22 @@
 • Commerce","Salah Salem Street, Beni Suef, Beni Suef Governorate, Egypt",info_intoffice@bsu.edu.eg,"Dr. Ayman Ghoneim
 Исполнительный директор Администрации по делам иностранных студентов
 Администрация по делам иностранных студентов (International Students Administration)
-Обращение: Dear Dr. Ghoneim,",ящик общий,info_intoffice@bsu.edu.eg,info@bsu.edu.eg,+20 82 2356845,https://www.bsu.edu.eg,Prof. Tarek Ali,Acting President,QS2027: 1201–1400,THE2027: 1201–1400,,0,,Educational CubeSat supplied by EgSA under 2021 executive agreement (student training),"AI-powered autonomous optical satellite-tracking ground station (student graduation project, telescope-based)","• Faculty of Navigation Science and Space Technology (est. 2016
+Обращение: Dear Dr. Ghoneim,",ящик общий,info_intoffice@bsu.edu.eg,info@bsu.edu.eg,+20 82 2356845,https://www.bsu.edu.eg,Prof. Tarek Ali,Acting President,QS2027: 1201–1400,THE2027: 1201–1400,нет общенационального рейтинга,нет в опубл. списке,0,,Educational CubeSat supplied by EgSA under 2021 executive agreement (student training),"AI-powered autonomous optical satellite-tracking ground station (student graduation project, telescope-based)","• Faculty of Navigation Science and Space Technology (est. 2016
 • Depts. of Space Navigation, Space Science, Space Communications)","• Egyptian Space Agency (EgSA) — executive agreement on educational satellite (Feb 2021)
 • NARSS (student visits)",,48,1B,да,средняя,"• Prof. Tarek Ali — исполняющий обязанности президента (القائم بأعمال رئيس الجامعة), не постоянный президент
 • Единственный в Египте профильный факультет навигации и космических технологий; декан — Prof. Osama Shalabiea (أسامة شلبية)
 • Международный ящик принадлежит Администрации иностранных студентов; профиль партнёрств может быть ограничен
-• Факультет дал интервью китайскому CGTN (сен. 2026) — интерес к сотрудничеству с Китаем/БРИКС","• Https://www.bsu.edu.eg/ContentSide.aspx?section_id=14&cat_id=1
+• Факультет дал интервью китайскому CGTN (сен. 2026) — интерес к сотрудничеству с Китаем/БРИКС
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://www.bsu.edu.eg/ContentSide.aspx?section_id=14&cat_id=1
 • Https://www.bsu.edu.eg/NewsDetails_New.aspx?NID=167895&cat_id=1&lang=ar
 • Https://www.bsu.edu.eg/NewsDetails_New.aspx?NID=167323&cat_id=1&lang=en
 • Https://www.bsu.edu.eg/Content.aspx?section_id=2889&cat_id=53&lang=en
 • Https://www.spacescien.bsu.edu.eg/
 • Https://spaceinafrica.com/2021/02/26/egsa-agreement-beni-suef-university-educational-satellite/
 • Https://www.bsu.edu.eg/NewsDetails_New.aspx?NID=167508&cat_id=1&lang=en
-• Https://www.universityworldnews.com/post.php?story=20210406120310615",2026-10-05,
+• Https://www.universityworldnews.com/post.php?story=20210406120310615
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 5,Египет,Гиза,Cairo University,جامعة القاهرة,Классический,Государственный (Минвысшобразования Египта),"• Engineering (incl. Aerospace Engineering)
 • Medicine
 • Natural Sciences
@@ -96,14 +104,15 @@
 • Law","1 Gamaa Street, Giza 12613, Egypt",info@iro.cu.edu.eg,"Assoc. Prof. Heidi Bayoumy
 Директор Управления международных связей
 Управление международных связей (International Relations Office)
-Обращение: Dear Dr. Bayoumy,",ящик общий,info@iro.cu.edu.eg,,+20 2 35676352,https://cu.edu.eg,Prof. Mohamed Sami Abdel-Sadek,President,QS2027: 363,THE2027: 801–1000,,0,,"• CU-CubeSat (1U student pico-satellite, Aerospace Dept. graduation project
+Обращение: Dear Dr. Bayoumy,",ящик общий,info@iro.cu.edu.eg,,+20 2 35676352,https://cu.edu.eg,Prof. Mohamed Sami Abdel-Sadek,President,QS2027: 363,THE2027: 801–1000,,,0,,"• CU-CubeSat (1U student pico-satellite, Aerospace Dept. graduation project
 • Launch not confirmed)",,"• Faculty of Engineering, Department of Aerospace Engineering
 • Space System Technology Laboratory (SSTLab)
 • Space Science Center (listed on cu.edu.eg)
 • EgSA-supported educational satellite laboratory at Faculty of Engineering","Egyptian Space Agency (EgSA) – agreement on educational satellite laboratory (Egyptian Space Technology Educational Platform), 2022",,45,1B,да,средняя,"• Сайты cu.edu.eg и iro.cu.edu.eg недоступны (503/бот-защита) — контакты взяты из поисковых выдержек официальных страниц, требуют перепроверки
 • Общий e-mail канцелярии президента не найден
 • Директор Управления международных связей (Heidi Bayoumy) указан на странице IRO без даты — актуальность на 2026 г. не подтверждена
-• Собственных спутников на орбите не найдено; CU-CubeSat — учебный проект","• Https://cu.edu.eg
+• Собственных спутников на орбите не найдено; CU-CubeSat — учебный проект
+• Ручная проверка: Webometrics: webometrics.info не открывается (DNS) — не заполнено","• Https://cu.edu.eg
 • Https://iro.cu.edu.eg/contact-us
 • Https://spaceinafrica.com/2022/01/05/egsa-signs-agreement-with-the-university-of-cairo-to-develop-an-educational-satellite-laboratory/
 • Https://scholar.cu.edu.eg/sites/default/files/2nd_iteration_cairo_university_cube-satellite_2_1.pdf
@@ -116,17 +125,21 @@
 • Computer Science","AUC Avenue, P.O. Box 74, New Cairo 11835, Egypt",ipso@aucegypt.edu,"Jonathan French
 Старший директор IPSO
 Управление международных программ и услуг (International Programs and Services Office, IPSO)
-Обращение: Dear Mr. French,",ящик общий,ipso@aucegypt.edu,officeofthepresident@aucegypt.edu,+20 2 2615 1000,https://www.aucegypt.edu,Prof. Ahmad S. Dallal,President,QS2027: 390,THE2027: 701–800,,0,,"• AUC CubeSat (student surface-imaging CubeSat project, 2013
+Обращение: Dear Mr. French,",ящик общий,ipso@aucegypt.edu,officeofthepresident@aucegypt.edu,+20 2 2615 1000,https://www.aucegypt.edu,Prof. Ahmad S. Dallal,President,QS2027: =390,THE2027: 701–800,нет общенационального рейтинга,1221,0,,"• AUC CubeSat (student surface-imaging CubeSat project, 2013
 • Current status unknown)",,"• Astronomical Observatory (School of Sciences and Engineering)
 • AUC CubeSat student team (2013)",Study visits of ECE department to Egyptian Space Agency (EgSA),,45,1B,да,высокая,"• Частный американский некоммерческий вуз (аккредитация в США); представительство в Нью-Йорке: 420 Lexington Ave., Suite 1644
 • Студенческий проект AUC CubeSat (2013) — запуск не подтверждён
 • Офис президента: Executive Director Enas Fallal (enas.fallal@aucegypt.edu)
-• Менеджер по международным партнёрствам: Iman Nabil (iman.kamel@aucegypt.edu)","• Https://www.aucegypt.edu/about/leadership
+• Менеджер по международным партнёрствам: Iman Nabil (iman.kamel@aucegypt.edu)
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://www.aucegypt.edu/about/leadership
 • Https://www.aucegypt.edu/about/leadership/president/office
 • Https://www.aucegypt.edu/academics/international-programs-and-services-office
 • Https://amsat-uk.org/2013/05/26/the-american-university-in-cairo-auc-cubesat/
 • Https://sse.aucegypt.edu/news/visit-egyptian-space-agency-egsa
-• Qianmu.org QS2027 list",2026-10-05,
+• Qianmu.org QS2027 list
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking
+https://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",2026-10-05,
 7,Египет,Каир,National Research Institute of Astronomy and Geophysics (NRIAG),المعهد القومي للبحوث الفلكية والجيوفيزيقية,НИИ / научный центр,Государственный (агентство),"• Astronomy & Astrophysics
 • Solar & Space Research
 • Seismology
@@ -134,7 +147,7 @@
 • Geodynamics & Geodesy","1 El Marsad Street, Helwan, Cairo 11421, Egypt (P.O. Box 138)",President@nriag.sci.eg,"Prof. Bassem Nabawy
 Президент института
 Канцелярия президента института (President's Office)
-Обращение: Dear Prof. Nabawy,",ящик общий,,President@nriag.sci.eg,+20 2 25541100,https://www.nriag.sci.eg,Prof. Bassem Nabawy,President,,,,0,,,Helwan Satellite Laser Ranging (SLR) station (ILRS network); Kottamia Astronomical Observatory,"• Solar & Space Department (Solar Lab
+Обращение: Dear Prof. Nabawy,",ящик общий,,President@nriag.sci.eg,+20 2 25541100,https://www.nriag.sci.eg,Prof. Bassem Nabawy,President,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,Helwan Satellite Laser Ranging (SLR) station (ILRS network); Kottamia Astronomical Observatory,"• Solar & Space Department (Solar Lab
 • Space Lab)
 • Kottamia Center of Scientific Excellence in Astronomy and Space Sciences
 • Egyptian National Seismic Network","• Czech Technical University (FNSPE) – Helwan SLR station
@@ -142,7 +155,8 @@
 • Swedish embassy cooperation talks (2026)",,30,1B,да,высокая,"• Отдельного e-mail международного отдела нет; есть раздел «International Relation and Training»
 • Письмо направлять на President@nriag.sci.eg
 • На сайте NRIAG обнаружены спам-ссылки (вероятно, сайт скомпрометирован) — на контакты это не влияет
-• Спутников не создавал; имеет станцию лазерной дальнометрии спутников в Хелуане","• Https://www.nriag.sci.eg/
+• Спутников не создавал; имеет станцию лазерной дальнометрии спутников в Хелуане
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://www.nriag.sci.eg/
 • Https://www.nriag.sci.eg/contact-us/
 • Https://www.nriag.sci.eg/space-research-lab/
 • Https://www.nriag.sci.eg/training/
@@ -155,17 +169,19 @@
 • Energy and Environmental Engineering","Juhayna Square, 26th of July Corridor, El Sheikh Zayed, Giza, Egypt",int.affairs@nu.edu.eg,"Sahar A. Khamis
 Исполнительный директор Управления международных связей
 Управление международных связей (Office of International Affairs)
-Обращение: Dear Ms. Khamis,",ящик общий,int.affairs@nu.edu.eg,,+20 2 3854 1734,https://nu.edu.eg,Prof. Ahmed Elghazouli,President,,THE2027: 1801–2000,,0,,,,"• Wireless Intelligent Networks Center (WINC)
+Обращение: Dear Ms. Khamis,",ящик общий,int.affairs@nu.edu.eg,,+20 2 3854 1734,https://nu.edu.eg,Prof. Ahmed Elghazouli,President,QS2027: не в рейтинге,THE2027: 1801–2000,нет общенационального рейтинга,нет в опубл. списке,0,,,,"• Wireless Intelligent Networks Center (WINC)
 • Nanoelectronics Integrated Systems Center (NISC)",MoU with Tan Kah Kee High Technology Research Institute (China-BRICS Science and Innovation Incubation Park),,28,2,да,средняя,"• Первый национальный некоммерческий университет Египта (self-described)
 • Общий e-mail офиса президента не опубликован; горячая линия 16453
 • Космических проектов (спутники, наземная станция) не найдено
 • Есть партнёрство с China-BRICS SIIP — удобная зацепка для БРИКС-приглашения
-• В QS2027 не найден","• Https://nu.edu.eg/
+• В QS2027 не найден
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://nu.edu.eg/
 • Https://nu.edu.eg/nu-president
 • Https://nu.edu.eg/office-international-affairs
 • Https://nu.edu.eg/contact-us
 • Https://nu.edu.eg/about/nu-glance
-• Https://www.nu.edu.eg/news/nile-university-forges-strategic-partnership-china-brics-siip-drive-global-innovation",2026-10-05,
+• Https://www.nu.edu.eg/news/nile-university-forges-strategic-partnership-china-brics-siip-drive-global-innovation
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 9,Египет,Исмаилия,Suez Canal University (SCU),جامعة قناة السويس,Классический,Государственный (Минвысшобразования Египта),"• Medicine
 • Engineering
 • Agriculture
@@ -174,11 +190,13 @@
 • Tourism and Hotels","4.5 Km the Ring Road, Ismailia, Egypt",President_office@suez.edu.eg,"Prof. Naser Saeed Mandor
 Президент университета
 Офис президента университета (President's Office)
-Обращение: Dear Prof. Mandor,",ящик общий,,President_office@suez.edu.eg,+20 64 3223007,https://suez.edu.eg,Prof. Naser Saeed Mandor,President,,THE2027: 1201–1400,,0,,"Educational CubeSat supplied by EgSA (executive agreement, ~2021)",,,Egyptian Space Agency (EgSA) — educational CubeSat agreement (2021),,28,1B,да,средняя,"• Отдельного e-mail международного отдела на сайте не найдено — писать в офис президента (President_office@suez.edu.eg); также опубликован тел. +20 2 22621217
+Обращение: Dear Prof. Mandor,",ящик общий,,President_office@suez.edu.eg,+20 64 3223007,https://suez.edu.eg,Prof. Naser Saeed Mandor,President,QS2027: не в рейтинге,THE2027: 1201–1400,нет общенационального рейтинга,нет в опубл. списке,0,,"Educational CubeSat supplied by EgSA (executive agreement, ~2021)",,,Egyptian Space Agency (EgSA) — educational CubeSat agreement (2021),,28,1B,да,средняя,"• Отдельного e-mail международного отдела на сайте не найдено — писать в офис президента (President_office@suez.edu.eg); также опубликован тел. +20 2 22621217
 • Участник программы EgSA по образовательным кубсатам (2021); запусков собственного спутника не найдено
-• В QS2027 не найден","• Https://suez.edu.eg/ar/en/
+• В QS2027 не найден
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://suez.edu.eg/ar/en/
 • Https://suez.edu.eg/ar/en/contact-us/
-• Https://www.universityworldnews.com/post.php?story=20210406120310615",2026-10-05,
+• Https://www.universityworldnews.com/post.php?story=20210406120310615
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 10,Египет,Каир,Ain Shams University,جامعة عين شمس,Классический,Государственный (Минвысшобразования Египта),"• Medicine & Health Sciences
 • Engineering
 • Natural Sciences
@@ -187,17 +205,20 @@
 • Education","El-Khalyfa El-Mamoun Street, Abbasya, Cairo, Egypt",iro@asu.edu.eg,"Dr. Kamal Khaled Obaid
 Директор Управления международных связей
 Управление международных связей (International Relations Office)
-Обращение: Dear Dr. Obaid,",ящик общий,iro@asu.edu.eg,President@asu.edu.eg,+20 2 26831231,https://www.asu.edu.eg,Prof. Mohamed Diaa Zain El-Abedeen,President,QS2027: 551,THE2027: 1001–1200,,0,,,,Space innovation laboratory at Faculty of Engineering (EgSA 'Space Keys' educational satellite programme),"• Egyptian Space Agency (EgSA) — cooperation protocol
+Обращение: Dear Dr. Obaid,",ящик общий,iro@asu.edu.eg,President@asu.edu.eg,+20 2 26831231,https://www.asu.edu.eg,Prof. Mohamed Diaa Zain El-Abedeen,President,QS2027: =551,THE2027: 1001–1200,нет общенационального рейтинга,нет в опубл. списке,0,,,,Space innovation laboratory at Faculty of Engineering (EgSA 'Space Keys' educational satellite programme),"• Egyptian Space Agency (EgSA) — cooperation protocol
 • Space Keys educational satellite project (EgSA / ASRT)",,26,3,да,высокая,"• Руководитель Управления международных связей (IRO) указан на странице IRAC без даты — сверить актуальность
 • Международным сотрудничеством в целом руководит исполнительный директор сектора IRAC проф. Шервит Эль-Ахмади (irac@asu.edu.eg) — можно поставить в копию
-• Запущенных спутников не найдено; участвует в программе учебных спутников EgSA","• Https://www.asu.edu.eg/en/38/page/contact-us
+• Запущенных спутников не найдено; участвует в программе учебных спутников EgSA
+• Рейтинги: QS: в таблице как «Ain Shams University in Cairo (ASU, Cairo)»; Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://www.asu.edu.eg/en/38/page/contact-us
 • Https://www.asu.edu.eg/en
 • Https://www.asu.edu.eg/en/10573/news/ain-shams-university-president-universities-must-establish-governance-frameworks-for-the-use-of-artificial-intelligence
 • Https://irac.asu.edu.eg/?p=21136
 • Http://iroms.asu.edu.eg/
 • Https://spaceinafrica.com/2021/09/29/egypt-space-agency-enters-cooperation-protocol-with-local-universities/
 • Https://spaceinafrica.com/2022/01/04/egsa-celebrates-the-delivery-of-the-first-three-educational-satellites-to-the-egyptian-universities/
-• Https://www.qianmu.org/ranking/1528.htm (2027 QS list, qianmu.org)",2026-10-05,
+• Https://www.qianmu.org/ranking/1528.htm (2027 QS list, qianmu.org)
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 11,Египет,Александрия,Alexandria University,جامعة الإسكندرية,Классический,Государственный (Минвысшобразования Египта),"• Medicine & Health Sciences
 • Engineering
 • Natural Sciences
@@ -205,15 +226,19 @@
 • Humanities & Law
 • Business","22 El-Guish Road, El-Shatby, Alexandria 21526, Egypt",int.office@alexu.edu.eg,"ФИО не найдено
 Управление международных связей (International Relations Office)
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,int.office@alexu.edu.eg,info@alexu.edu.eg,+20 3 5921675,https://alexu.edu.eg,Prof. Ahmed Adel Abdel Hakim,Acting President,QS2027: 801–850,THE2027: 801–1000,,0,,,,"Educational satellite laboratory (agreement with EgSA, April 2021)","Egyptian Space Agency (EgSA) — cooperation protocol (2021), educational satellite lab",,26,3,да,средняя,"• Официальный сайт alexu.edu.eg выдаёт ошибку 500 (октябрь 2026); адрес/телефон/info@ взяты из справочника universitiesegypt.com — сверить
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,int.office@alexu.edu.eg,info@alexu.edu.eg,+20 3 5921675,https://alexu.edu.eg,Prof. Ahmed Adel Abdel Hakim,Acting President,QS2027: 801–850,THE2027: 801–1000,нет общенационального рейтинга,702,0,,,,"Educational satellite laboratory (agreement with EgSA, April 2021)","Egyptian Space Agency (EgSA) — cooperation protocol (2021), educational satellite lab",,26,3,да,средняя,"• Официальный сайт alexu.edu.eg выдаёт ошибку 500 (октябрь 2026); адрес/телефон/info@ взяты из справочника universitiesegypt.com — сверить
 • Президент проф. Абдель Азиз Кансуа с февраля 2026 — министр высшего образования; университет возглавляет и.о. президента проф. Ахмед Адель Абдель Хаким (сентябрь 2026)
 • В поисковой выдаче официального сайта фигурирует president@alexu.edu.eg (страницу открыть не удалось) — можно поставить в копию
-• Запущенных спутников не найдено; есть протокол с EgSA о создании учебной спутниковой лаборатории (2021)","• Https://internationaloffice.alexu.edu.eg/contact-us/
+• Запущенных спутников не найдено; есть протокол с EgSA о создании учебной спутниковой лаборатории (2021)
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://internationaloffice.alexu.edu.eg/contact-us/
 • Https://www.elwatannews.com/news/details/8361274
 • Https://en.wikipedia.org/wiki/Abdul_Aziz_Qansouh
 • Https://www.universitiesegypt.com/alexandria-university/contacts
 • Https://spaceinafrica.com/2021/09/29/egypt-space-agency-enters-cooperation-protocol-with-local-universities/
-• Https://www.qianmu.org/ranking/1528.htm (2027 QS list, qianmu.org)",2026-10-05,
+• Https://www.qianmu.org/ranking/1528.htm (2027 QS list, qianmu.org)
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking
+https://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",2026-10-05,
 12,Египет,Александрия,"Arab Academy for Science, Technology and Maritime Transport (AASTMT)",الأكاديمية العربية للعلوم والتكنولوجيا والنقل البحري,Морской / океанографический,Межгосударственный (Лига арабских государств),"• Maritime Transport & Technology
 • Engineering & Technology
 • Computing & IT
@@ -221,17 +246,20 @@
 • Artificial Intelligence
 • Pharmacy & Dentistry","Abu Kir campus, P.O. Box 1029, Alexandria, Egypt",Public.relations@aast.edu,"ФИО не найдено
 Отдел протокола и связей с общественностью (Protocol & Public Relations Affairs)
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,Public.relations@aast.edu,+20 3 5622366; +20 3 5622388,https://aast.edu,Prof. Ismail Abdel Ghafar Ismail Farag,President,QS2027: 1001–1200,THE2027: 801–1000,,0,,,,"Space innovation lab with EgSA 'Space Keys' educational satellite (College of Engineering, Cairo-Sheraton branch)","• Egyptian Space Agency (EgSA) – cooperation protocol (2021), agreement to receive educational CubeSats, 'Space Keys' satellite delivered Jan 2022
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,Public.relations@aast.edu,+20 3 5622366; +20 3 5622388,https://aast.edu,Prof. Ismail Abdel Ghafar Ismail Farag,President,QS2027: 1001–1200,THE2027: 801–1000,нет общенационального рейтинга,нет в опубл. списке,0,,,,"Space innovation lab with EgSA 'Space Keys' educational satellite (College of Engineering, Cairo-Sheraton branch)","• Egyptian Space Agency (EgSA) – cooperation protocol (2021), agreement to receive educational CubeSats, 'Space Keys' satellite delivered Jan 2022
 • EgSA CEO met AASTMT President on training/expertise exchange (Sep 2026)",,26,3,да,средняя,"• Общий e-mail — отдела протокола и связей с общественностью (Public.relations@aast.edu); адрес международного отдела на сайте не найден
 • Академия Лиги арабских государств, кампусы в Александрии, Каире, Порт-Саиде, Асуане, Эль-Аламейне, Латакии, Шардже
-• Сентябрь 2026: встреча главы EgSA с президентом AASTMT — удобный повод для упоминания в письме","• Https://aast.edu/en/index.php
+• Сентябрь 2026: встреча главы EgSA с президентом AASTMT — удобный повод для упоминания в письме
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://aast.edu/en/index.php
 • Https://aast.edu/en/about/
 • Https://aast.edu/en/contacts/contact-us.php
 • Https://spaceinafrica.com/2021/09/29/egypt-space-agency-enters-cooperation-protocol-with-local-universities/
 • Https://www.universityworldnews.com/post.php?story=20210406120310615
 • Https://satelliteprome.com/news/egsa-produces-educational-satellites-for-egyptian-universities/
 • Https://ahlmasrnews.com/news/egypt-news/12898084/
-• Https://www.masrawy.com/news/news_egypt/details/2026/9/23/3052657/",2026-10-05,
+• Https://www.masrawy.com/news/news_egypt/details/2026/9/23/3052657/
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 13,Египет,Каир,Capital University (formerly Helwan University),جامعة العاصمة,Классический,Государственный (Минвысшобразования Египта),"• Engineering
 • Science
 • Applied & Fine Arts
@@ -240,12 +268,15 @@
 • Commerce & Business","Helwan Sharkeya, Helwan, Cairo Governorate 4037120, Egypt",iroffice@hq.helwan.edu.eg,"Prof. Mohamed Shimi
 Директор Управления международных связей
 Управление международных связей (International Relations Office)
-Обращение: Dear Prof. Shimi,",ящик общий,iroffice@hq.helwan.edu.eg,President@capu.edu.eg,+20 2 28162061; +20 2 28162062,https://www.capu.edu.eg,Prof. El-Sayed Ibrahim Kandil,President,QS2027: 1201–1400,THE2027: 1601–1800,,0,,,,Space innovation lab (EgSA 'Space Keys' educational satellite kit),"Egyptian Space Agency (EgSA) – cooperation protocol (2021), educational CubeSat agreement, 'Space Keys' kit delivered Jan 2022",,23,3,да,высокая,"• ДУБЛИКАТ: это тот же вуз, что и 'Helwan University' в этом списке (переименован в Capital University); отправлять одно письмо
-• Рейтинг THE2027 1601–1800 указан во входных данных для Capital University","• Https://www.capu.edu.eg/index.php/en/
+Обращение: Dear Prof. Shimi,",ящик общий,iroffice@hq.helwan.edu.eg,President@capu.edu.eg,+20 2 28162061; +20 2 28162062,https://www.capu.edu.eg,Prof. El-Sayed Ibrahim Kandil,President,QS2027: 1201–1400,THE2027: 1601–1800,нет общенационального рейтинга,нет в опубл. списке,0,,,,Space innovation lab (EgSA 'Space Keys' educational satellite kit),"Egyptian Space Agency (EgSA) – cooperation protocol (2021), educational CubeSat agreement, 'Space Keys' kit delivered Jan 2022",,23,3,да,высокая,"• ДУБЛИКАТ: это тот же вуз, что и 'Helwan University' в этом списке (переименован в Capital University); отправлять одно письмо
+• Рейтинг THE2027 1601–1800 указан во входных данных для Capital University
+• Рейтинги: QS: в таблице как «Capital University – Egypt»; Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://www.capu.edu.eg/index.php/en/
 • Https://www.capu.edu.eg/index.php/en/president-leaders-en
 • Https://www.capu.edu.eg/index.php/en/contact-en
 • Https://www.capu.edu.eg/index.php/en/about-en/agreements-and-partnerships/international-relations-office
-• Https://spaceinafrica.com/2021/09/29/egypt-space-agency-enters-cooperation-protocol-with-local-universities/",2026-10-05,
+• Https://spaceinafrica.com/2021/09/29/egypt-space-agency-enters-cooperation-protocol-with-local-universities/
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 14,Египет,Бадр (Каир),Egyptian Russian University,الجامعة المصرية الروسية,Другое,Частный,"• Pharmacy
 • Dentistry
 • Engineering
@@ -254,12 +285,14 @@
 • Languages (Al-Alsun) & Arts","Cairo–Suez Road, Badr City, Cairo 11829, Egypt",info@eru.edu.eg,"Prof. Sherif Fakhry
 Президент университета
 Общая приёмная университета (General Inquiries)
-Обращение: Dear Prof. Fakhry,",ящик общий,,info@eru.edu.eg,+20 2 28609114,https://eru.edu.eg,Prof. Sherif Fakhry,President,,THE2027: 1601–1800,,0,,,,Educational satellite laboratory at Faculty of Engineering (provided by EgSA),Egyptian Space Agency (EgSA) – cooperation protocol and educational satellite lab (2021),,23,3,да,высокая,"• Вуз ориентирован на сотрудничество с Россией — удобный партнёр для российской стороны
+Обращение: Dear Prof. Fakhry,",ящик общий,,info@eru.edu.eg,+20 2 28609114,https://eru.edu.eg,Prof. Sherif Fakhry,President,QS2027: не в рейтинге,THE2027: 1601–1800,нет общенационального рейтинга,нет в опубл. списке,0,,,,Educational satellite laboratory at Faculty of Engineering (provided by EgSA),Egyptian Space Agency (EgSA) – cooperation protocol and educational satellite lab (2021),,23,3,да,высокая,"• Вуз ориентирован на сотрудничество с Россией — удобный партнёр для российской стороны
 • Есть учебная спутниковая лаборатория EgSA на инженерном факультете; собственных спутников нет
-• Отдельный e-mail международного отдела не опубликован","• Https://eru.edu.eg/
+• Отдельный e-mail международного отдела не опубликован
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://eru.edu.eg/
 • Https://eru.edu.eg/explore-eru/
 • Https://eru.edu.eg/inauguration-of-a-satellite-laboratory-at-the-egyptian-russian-university/
-• Https://spaceinafrica.com/2021/09/29/egypt-space-agency-enters-cooperation-protocol-with-local-universities/",2026-10-05,
+• Https://spaceinafrica.com/2021/09/29/egypt-space-agency-enters-cooperation-protocol-with-local-universities/
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 15,Египет,Каир,Al-Azhar University,جامعة الأزهر,Классический,Государственный (Минвысшобразования Египта),"• Islamic Studies & Arabic
 • Medicine
 • Engineering
@@ -268,14 +301,18 @@
 • Commerce","Nasr City, Cairo, Egypt",info@azhar.edu.eg,"Prof. Mahmoud Siddiq Hassan
 Исполняющий обязанности президента университета
 Общий ящик университета (General inbox)
-Обращение: Dear Prof. Siddiq,",ящик общий,,info@azhar.edu.eg,+20 2 22611404,https://azhar.edu.eg,Prof. Mahmoud Siddiq Hassan,Acting President,QS2027: 1001–1200,THE2027: 801–1000,,0,,,,,Egyptian Space Agency (EgSA) — cooperation protocol,,16,3,да,средняя,"• Подчиняется Аль-Азхару (Шейх аль-Азхар), а не напрямую Минвысшобразования; форма собственности — государственный
+Обращение: Dear Prof. Siddiq,",ящик общий,,info@azhar.edu.eg,+20 2 22611404,https://azhar.edu.eg,Prof. Mahmoud Siddiq Hassan,Acting President,QS2027: 1001–1200,THE2027: 801–1000,нет общенационального рейтинга,1180,0,,,,,Egyptian Space Agency (EgSA) — cooperation protocol,,16,3,да,средняя,"• Подчиняется Аль-Азхару (Шейх аль-Азхар), а не напрямую Минвысшобразования; форма собственности — государственный
 • С 1 августа 2026 обязанности президента временно исполняет проф. Махмуд Сыддык Хасан (вице-президент по аспирантуре и науке) до назначения нового президента
 • Сайт международного отдела international.azu.edu.eg — только JS-приложение регистрации; e-mail международного отдела не найден — использовать info@azhar.edu.eg
-• Полный почтовый адрес на сайте не указан (только «Каир, Насср-Сити»)","• Https://azhar.edu.eg/
+• Полный почтовый адрес на сайте не указан (только «Каир, Насср-Сити»)
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://azhar.edu.eg/
 • Https://azhar.edu.eg/2026/07/27/%d8%b4%d9%8a%d8%ae-%d8%a7%d9%84%d8%a3%d8%b2%d9%87%d8%b1-%d9%8a%d9%83%d9%84%d9%81-%d8%a7%d9%84%d8%af%d9%83%d8%aa%d9%88%d8%b1-%d9%85%d8%ad%d9%85%d9%88%d8%af-%d8%b5%d8%af%d9%8a%d9%82-%d9%86%d8%a7%d8%a6/
 • Https://www.youm7.com/story/2026/9/13/x/7544963
 • Https://spaceinafrica.com/2021/09/29/egypt-space-agency-enters-cooperation-protocol-with-local-universities/
-• Https://www.qianmu.org/ranking/1528.htm (2027 QS list, qianmu.org)",2026-10-05,
+• Https://www.qianmu.org/ranking/1528.htm (2027 QS list, qianmu.org)
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking
+https://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",2026-10-05,
 16,Египет,Мансура,Mansoura University,جامعة المنصورة,Классический,Государственный (Минвысшобразования Египта),"• Medicine
 • Engineering
 • Agriculture
@@ -284,11 +321,15 @@
 • Education","Elgomhouria St., Mansoura City 35516, Egypt",president@mans.edu.eg,"Prof. Cherif Yousef Khater
 Президент университета
 Офис президента университета
-Обращение: Dear Prof. Khater,",ящик общий,,president@mans.edu.eg,+20 50 2383781; +20 50 2397055,https://www.mans.edu.eg,Prof. Cherif Yousef Khater,President,QS2027: 1001–1200,THE2027: 801–1000,,0,,,,,Egyptian Space Agency (EgSA) – cooperation protocol (2021),,16,3,да,средняя,"• Сайт международного отдела (muiro.mans.edu.eg) недоступен (503) — e-mail отдела не установлен
-• Спутников не найдено (одна быстрая проверка)","• Https://www.mans.edu.eg/en
+Обращение: Dear Prof. Khater,",ящик общий,,president@mans.edu.eg,+20 50 2383781; +20 50 2397055,https://www.mans.edu.eg,Prof. Cherif Yousef Khater,President,QS2027: 1001–1200,THE2027: 801–1000,нет общенационального рейтинга,797,0,,,,,Egyptian Space Agency (EgSA) – cooperation protocol (2021),,16,3,да,средняя,"• Сайт международного отдела (muiro.mans.edu.eg) недоступен (503) — e-mail отдела не установлен
+• Спутников не найдено (одна быстрая проверка)
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://www.mans.edu.eg/en
 • Https://www.mans.edu.eg/en/about/contact-info
 • Https://www.mans.edu.eg/en/about/history-and-facts/president-s-speech
-• Https://spaceinafrica.com/2021/09/29/egypt-space-agency-enters-cooperation-protocol-with-local-universities/",2026-10-05,
+• Https://spaceinafrica.com/2021/09/29/egypt-space-agency-enters-cooperation-protocol-with-local-universities/
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking
+https://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",2026-10-05,
 17,Египет,Асьют,Assiut University,جامعة أسيوط,Классический,Государственный (Минвысшобразования Египта),"• Medicine
 • Engineering
 • Agriculture
@@ -296,13 +337,17 @@
 • Pharmacy
 • Veterinary Medicine","Assiut University, Assiut 71515, Egypt",complaints@aun.edu.eg,"ФИО не найдено
 Общая приёмная (обращения граждан)
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,complaints@aun.edu.eg,+20 88 2354130; +20 88 2354166,https://www.aun.edu.eg,Prof. Ahmed Mohamed El-Menshawy,President,QS2027: 1001–1200,THE2027: 1201–1400,,0,,,,,Egyptian Space Agency (EgSA) – cooperation protocol (2021),,13,3,да,средняя,"• Единственный общий e-mail на странице контактов — complaints@aun.edu.eg (обращения/жалобы); офис президента e-mail не публикует
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,complaints@aun.edu.eg,+20 88 2354130; +20 88 2354166,https://www.aun.edu.eg,Prof. Ahmed Mohamed El-Menshawy,President,QS2027: 1001–1200,THE2027: 1201–1400,нет общенационального рейтинга,1149,0,,,,,Egyptian Space Agency (EgSA) – cooperation protocol (2021),,13,3,да,средняя,"• Единственный общий e-mail на странице контактов — complaints@aun.edu.eg (обращения/жалобы); офис президента e-mail не публикует
 • Auiro@aun.edu.eg — это офис международных академических рейтингов, а не международных связей; e-mail отдела международных связей не найден
-• Космическая проверка не выполнена через поиск (исчерпан лимит); спутников по nanosats.csv нет","• Https://www.aun.edu.eg/main/
+• Космическая проверка не выполнена через поиск (исчерпан лимит); спутников по nanosats.csv нет
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://www.aun.edu.eg/main/
 • Https://www.aun.edu.eg/main/contact
 • Https://www.aun.edu.eg/main/node/85606
 • Https://www.aun.edu.eg/AUIRO/ar/Office-Team
-• Https://spaceinafrica.com/2021/09/29/egypt-space-agency-enters-cooperation-protocol-with-local-universities/",2026-10-05,
+• Https://spaceinafrica.com/2021/09/29/egypt-space-agency-enters-cooperation-protocol-with-local-universities/
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking
+https://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",2026-10-05,
 18,Египет,Асуан,Aswan University,جامعة أسوان,Классический,Государственный (Минвысшобразования Египта),"• Engineering
 • Energy Engineering
 • Medicine
@@ -311,12 +356,14 @@
 • Humanities & African Studies","Sahari City, Airport Road, P.O. Box 81528, Aswan, Egypt",info@aswu.edu.eg,"Prof. Ashraf Imam Abdel Radi
 Исполняющий обязанности президента университета
 Общий ящик университета (General inbox)
-Обращение: Dear Prof. Abdel Radi,",ящик общий,,info@aswu.edu.eg,+20 97 3480901,https://aswu.edu.eg,Prof. Ashraf Imam Abdel Radi,Acting President,,THE2027: 1001–1200,,0,,,,,Egyptian Space Agency (EgSA) — cooperation protocol,,13,3,да,средняя,"• Университет возглавляет и.о. президента проф. Ашраф Имам Абдель Ради (также вице-президент по общественной работе)
+Обращение: Dear Prof. Abdel Radi,",ящик общий,,info@aswu.edu.eg,+20 97 3480901,https://aswu.edu.eg,Prof. Ashraf Imam Abdel Radi,Acting President,QS2027: не в рейтинге,THE2027: 1001–1200,нет общенационального рейтинга,нет в опубл. списке,0,,,,,Egyptian Space Agency (EgSA) — cooperation protocol,,13,3,да,средняя,"• Университет возглавляет и.о. президента проф. Ашраф Имам Абдель Ради (также вице-президент по общественной работе)
 • Адрес/телефон/info@ на официальном сайте не отображаются (подгружаются скриптом) — взяты из справочника universitiesegypt.com; отдельного e-mail международного отдела нет
-• Управление научных и культурных связей: и.о. генерального директора Махмуд Мохамед Абдель Мутталиб (e-mail не опубликован)","• Https://aswu.edu.eg/about/key-facts/leadership-team/
+• Управление научных и культурных связей: и.о. генерального директора Махмуд Мохамед Абдель Мутталиб (e-mail не опубликован)
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://aswu.edu.eg/about/key-facts/leadership-team/
 • Https://www.universitiesegypt.com/aswan-university/contacts
 • Https://www.wipo.int/tisc/en/search/details.jsp?id=10034
-• Https://spaceinafrica.com/2021/09/29/egypt-space-agency-enters-cooperation-protocol-with-local-universities/",2026-10-05,
+• Https://spaceinafrica.com/2021/09/29/egypt-space-agency-enters-cooperation-protocol-with-local-universities/
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 19,Египет,Гиза,October University for Modern Sciences and Arts (MSA),جامعة أكتوبر للعلوم الحديثة والآداب,Классический,Частный,"• Engineering
 • Computer Science
 • Pharmacy
@@ -324,11 +371,13 @@
 • Business Administration
 • Mass Communication","26 July Mehwar Road intersection with Wahat Road, 6th of October City, Giza 12451, Egypt",info@msa.edu.eg,"ФИО не найдено
 Общая приёмная университета
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@msa.edu.eg,+20 2 38371113; +20 2 38371115,https://msa.edu.eg/msauniversity,Prof. Nader Elbokle,President,,THE2027: 1801–2000,,0,,,,,Egyptian Space Agency (EgSA) – cooperation protocol (2021),,13,3,да,средняя,"• Есть 'UK Quality Assurance & International Partnerships Unit' (партнёрства с британскими вузами, напр. Greenwich), но отдельный e-mail не опубликован
-• Горячая линия 16672","• Https://msa.edu.eg/msauniversity/
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@msa.edu.eg,+20 2 38371113; +20 2 38371115,https://msa.edu.eg/msauniversity,Prof. Nader Elbokle,President,QS2027: не в рейтинге,THE2027: 1801–2000,нет общенационального рейтинга,нет в опубл. списке,0,,,,,Egyptian Space Agency (EgSA) – cooperation protocol (2021),,13,3,да,средняя,"• Есть 'UK Quality Assurance & International Partnerships Unit' (партнёрства с британскими вузами, напр. Greenwich), но отдельный e-mail не опубликован
+• Горячая линия 16672
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://msa.edu.eg/msauniversity/
 • Https://msa.edu.eg/msauniversity/university-president/
 • Https://msa.edu.eg/msauniversity/contact/
-• Https://spaceinafrica.com/2021/09/29/egypt-space-agency-enters-cooperation-protocol-with-local-universities/",2026-10-05,
+• Https://spaceinafrica.com/2021/09/29/egypt-space-agency-enters-cooperation-protocol-with-local-universities/
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 20,Египет,Порт-Саид,Port Said University,جامعة بورسعيد,Классический,Государственный (Минвысшобразования Египта),"• Engineering
 • Medicine
 • Science
@@ -337,13 +386,15 @@
 • Arts","Port Fouad, Port Said Governorate 42526, Egypt",portal@psu.edu.eg,"Prof. Sherif Youssef Saleh
 Президент университета
 Центральный веб-портал университета
-Обращение: Dear Prof. Saleh,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",,portal@psu.edu.eg,,https://psu.edu.eg,Prof. Sherif Youssef Saleh,President,,THE2027: 1401–1600,,0,,,,,Egyptian Space Agency (EgSA) – cooperation protocol (2021),,13,3,да,средняя,"• Общий e-mail — адрес веб-портала (portal@psu.edu.eg); e-mail отдела культурных/международных связей не найден
+Обращение: Dear Prof. Saleh,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",,portal@psu.edu.eg,,https://psu.edu.eg,Prof. Sherif Youssef Saleh,President,QS2027: не в рейтинге,THE2027: 1401–1600,нет общенационального рейтинга,нет в опубл. списке,0,,,,,Egyptian Space Agency (EgSA) – cooperation protocol (2021),,13,3,да,средняя,"• Общий e-mail — адрес веб-портала (portal@psu.edu.eg); e-mail отдела культурных/международных связей не найден
 • Президент ранее возглавлял сектор культурных связей и командировок Минвысшобразования — релевантно для международного сотрудничества
-• Есть партнёрство с IIT Gandhinagar (Индия, БРИКС) и Ghent University","• Https://psu.edu.eg/
+• Есть партнёрство с IIT Gandhinagar (Индия, БРИКС) и Ghent University
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://psu.edu.eg/
 • Https://psu.edu.eg/university-admin-ar/
 • Https://psu.edu.eg/about-ar/
 • Https://psu.edu.eg/en/home-en/
-• Https://spaceinafrica.com/2021/09/29/egypt-space-agency-enters-cooperation-protocol-with-local-universities/",2026-10-05,
+• Https://spaceinafrica.com/2021/09/29/egypt-space-agency-enters-cooperation-protocol-with-local-universities/
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 21,Египет,Сохаг,Sohag University,جامعة سوهاج,Классический,Государственный (Минвысшобразования Египта),"• Medicine & Dentistry
 • Engineering
 • Natural Sciences
@@ -352,35 +403,41 @@
 • Humanities & Law","Sohag University Street, Nasser City, Sohag, Egypt",president@sohag.edu.eg,"Prof. Hassan El-Nomany
 Президент университета
 Канцелярия президента университета (President's Office)
-Обращение: Dear Prof. El-Nomany,",ящик общий,,president@sohag.edu.eg,+20 93 4570000,https://www.sohag-univ.edu.eg,Prof. Hassan El-Nomany,President,,THE2027: 1401–1600,,0,,,,,Egyptian Space Agency (EgSA) — cooperation protocol,,13,3,да,средняя,"• Имя президента в латинице дано в транслитерации (حسان النعماني) — проверить написание
+Обращение: Dear Prof. El-Nomany,",ящик общий,,president@sohag.edu.eg,+20 93 4570000,https://www.sohag-univ.edu.eg,Prof. Hassan El-Nomany,President,QS2027: не в рейтинге,THE2027: 1401–1600,нет общенационального рейтинга,нет в опубл. списке,0,,,,,Egyptian Space Agency (EgSA) — cooperation protocol,,13,3,да,средняя,"• Имя президента в латинице дано в транслитерации (حسان النعماني) — проверить написание
 • Адрес по справочнику universitiesegypt.com; телефон и e-mail совпадают с официальным сайтом
 • Отдельного e-mail международного отдела не найдено — используется ящик президента
-• Запущенных спутников не найдено; есть протокол сотрудничества с EgSA (2021)","• Https://www.sohag-univ.edu.eg/ar/home/
+• Запущенных спутников не найдено; есть протокол сотрудничества с EgSA (2021)
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://www.sohag-univ.edu.eg/ar/home/
 • Https://www.universitiesegypt.com/sohag-university/contacts
-• Https://spaceinafrica.com/2021/09/29/egypt-space-agency-enters-cooperation-protocol-with-local-universities/",2026-10-05,
+• Https://spaceinafrica.com/2021/09/29/egypt-space-agency-enters-cooperation-protocol-with-local-universities/
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 22,Египет,Гиза,"Zewail City of Science, Technology and Innovation",مدينة زويل للعلوم والتكنولوجيا والابتكار,Технический / аэрокосмический,Государственный (Минвысшобразования Египта),"• Engineering (incl. Aerospace Engineering)
 • Nanoscience
 • Physical sciences
 • Biomedical sciences
 • Computational sciences
-• Business","Ahmed Zewail Road, October Gardens, 6th of October City, Giza, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,"17742 (hotline, Egypt only)",https://zewailcity.edu.eg,Prof. Wael Akl,"Acting Executive President (Zewail City); University President (UST, acting): Prof. Ibrahim El Sherbiny",,THE2027: 1401–1600,,0,,,,Aerospace Engineering programme (UST),,,13,2,,средняя,"• Руководство: и.о. исполнительного президента Prof. Wael Akl; и.о. президента университета (UST) Prof. Ibrahim El Sherbiny; председатель попечительского совета — министр высшего образования Abdelaziz Konsowa
+• Business","Ahmed Zewail Road, October Gardens, 6th of October City, Giza, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,"17742 (hotline, Egypt only)",https://zewailcity.edu.eg,Prof. Wael Akl,"Acting Executive President (Zewail City); University President (UST, acting): Prof. Ibrahim El Sherbiny",QS2027: не в рейтинге,THE2027: 1401–1600,нет общенационального рейтинга,нет в опубл. списке,0,,,,Aerospace Engineering programme (UST),,,13,2,,средняя,"• Руководство: и.о. исполнительного президента Prof. Wael Akl; и.о. президента университета (UST) Prof. Ibrahim El Sherbiny; председатель попечительского совета — министр высшего образования Abdelaziz Konsowa
 • На сайте не опубликованы e-mail (ни общий, ни международного отдела) — только горячая линия 17742 и форма; требуется уточнение контакта
 • Собственных спутников не найдено; есть программа аэрокосмической инженерии; Zewail City посещали астронавты ОАЭ (MBRSC) — формального соглашения не найдено
-• Тип собственности: государственная некоммерческая структура по особому закону (не классический госуниверситет) — проверить формулировку","• Https://zewailcity.edu.eg/
+• Тип собственности: государственная некоммерческая структура по особому закону (не классический госуниверситет) — проверить формулировку
+• Рейтинги: THE: в таблице как «Zewail City of Science and Technology»; Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://zewailcity.edu.eg/
 • Https://zewailcity.edu.eg/leadership
 • Https://zewailcity.edu.eg/contact-us
-• Https://zewailcity.edu.eg/ar",2026-10-05,
+• Https://zewailcity.edu.eg/ar
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 23,Египет,Луксор,Luxor University,جامعة الأقصر,Классический,Государственный (Минвысшобразования Египта),,"University Administration Building, El-Awamia, Luxor, Egypt",info@luxor.edu.eg,"Prof. Sabreen Abdel Galil
 Президент университета
 Общий ящик университета (General inbox)
-Обращение: Dear Prof. Abdel Galil,",ящик общий,,info@luxor.edu.eg,+20 95 2287244,https://luxor.edu.eg,Prof. Sabreen Abdel Galil,President,,,,0,,,,,Beijing Institute of Technology (BIT) — cooperation visits (Jan 2026),,10,3,да,средняя,"• Сайт — SPA; контакты и новости взяты из официального API сайта (luxoruniversityar.runasp.net)
+Обращение: Dear Prof. Abdel Galil,",ящик общий,,info@luxor.edu.eg,+20 95 2287244,https://luxor.edu.eg,Prof. Sabreen Abdel Galil,President,QS2027: не в рейтинге,THE2027: Reporter,нет общенационального рейтинга,нет в опубл. списке,0,,,,,Beijing Institute of Technology (BIT) — cooperation visits (Jan 2026),,10,3,да,средняя,"• Сайт — SPA; контакты и новости взяты из официального API сайта (luxoruniversityar.runasp.net)
 • Президент — проф. Сабрин Абдель Галиль (женщина; новость от 28.01.2026); при обращении использовать «Dear Prof. Abdel Galil»
 • В январе 2026 принимала делегацию Пекинского технологического института (BIT) — возможная точка входа для космической тематики
 • Отдельного e-mail международного отдела нет; космическая активность поиском не проверялась (лимит поиска исчерпан)
-• В THE 2027 — статус Reporter (без ранга)","• Https://luxor.edu.eg/
+• В THE 2027 — статус Reporter (без ранга)
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://luxor.edu.eg/
 • Https://luxoruniversityar.runasp.net/api/v1/contacts/getall
 • Https://luxoruniversityar.runasp.net/api/v1/posts/getall
-• Https://www.universitiesegypt.com/luxor-university/contacts",2026-10-05,
+• Https://www.universitiesegypt.com/luxor-university/contacts
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 24,Египет,Каир,Future University in Egypt (FUE),جامعة المستقبل,Классический,Частный,"• Oral and Dental Medicine
 • Pharmacy
 • Engineering and Technology
@@ -389,12 +446,16 @@
 • Economics and Political Science","End of 90th St., Fifth Settlement, New Cairo, Egypt",info@fue.edu.eg,"Prof. Ebada Sarhan
 Президент университета
 Общий ящик университета (Office of the President / General Inquiries)
-Обращение: Dear Prof. Sarhan,",ящик общий,,info@fue.edu.eg,+20 2 2618 6100,https://www.fue.edu.eg,Prof. Ebada Sarhan,President,QS2027: 951–1000,THE2027: 801–1000,,0,,,,,,,6,3,да,средняя,"• Отдельного e-mail международного отдела не опубликовано (International Support Center обслуживает только иностранных студентов) — писать на info@fue.edu.eg
+Обращение: Dear Prof. Sarhan,",ящик общий,,info@fue.edu.eg,+20 2 2618 6100,https://www.fue.edu.eg,Prof. Ebada Sarhan,President,QS2027: 951–1000,THE2027: 801–1000,нет общенационального рейтинга,972,0,,,,,,,6,3,да,средняя,"• Отдельного e-mail международного отдела не опубликовано (International Support Center обслуживает только иностранных студентов) — писать на info@fue.edu.eg
 • Горячая линия 16383; факс +20 2 2618 6111
-• Космической активности не найдено","• Https://www.fue.edu.eg/contacts
+• Космической активности не найдено
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://www.fue.edu.eg/contacts
 • Https://www.fue.edu.eg/about_fue/fue_people/top_management
 • Https://www.fue.edu.eg/international_support_center
-• Qianmu.org QS2027 list",2026-10-05,
+• Qianmu.org QS2027 list
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking
+https://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",2026-10-05,
 25,Египет,Загазиг,Zagazig University,جامعة الزقازيق,Классический,Государственный (Минвысшобразования Египта),"• Medicine & Health Sciences
 • Engineering
 • Agriculture
@@ -402,11 +463,15 @@
 • Commerce
 • Law","Zagazig University, Zagazig, Sharkia Governorate 44519, Egypt",culture@zu.edu.eg,"ФИО не найдено
 Управление культурных связей (General Administration of Scientific and Cultural Relations)
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,culture@zu.edu.eg,president@zu.edu.eg,+20 55 2302926,https://www.zu.edu.eg,Prof. Khaled Ali El-Derandaly,President,,THE2027: 801–1000,,0,,,,,,,6,3,да,высокая,"• Имя президента транслитерировано с арабского (أ.د/ خالد على الدرندلى) — уточнить латинское написание
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,culture@zu.edu.eg,president@zu.edu.eg,+20 55 2302926,https://www.zu.edu.eg,Prof. Khaled Ali El-Derandaly,President,QS2027: 1201–1400,THE2027: 801–1000,нет общенационального рейтинга,1066,0,,,,,,,6,3,да,высокая,"• Имя президента транслитерировано с арабского (أ.د/ خالد على الدرندلى) — уточнить латинское написание
 • Culture@zu.edu.eg — ящик Управления культурных связей (конференции и международные контакты); канцелярия президента: presidency@zu.edu.eg, тел. 055 2302926
-• Спутниковой активности не найдено (1 поиск)","• Https://www.zu.edu.eg/
+• Спутниковой активности не найдено (1 поиск)
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://www.zu.edu.eg/
 • Https://www.zu.edu.eg/Contents/Index/20
-• Https://www.zu.edu.eg/Contents/Section/1086",2026-10-05,
+• Https://www.zu.edu.eg/Contents/Section/1086
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking
+https://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",2026-10-05,
 26,Египет,Каир,Badr University in Cairo (BUC),جامعة بدر بالقاهرة,Другое,Частный,"• Pharmacy & Medical Sciences
 • Engineering
 • Computer Science
@@ -414,12 +479,14 @@
 • Political Science & International Relations
 • Arts & Design","Entertainment Area, Badr City, Cairo, Egypt",info@buc.edu.eg,"ФИО не найдено
 Общая приёмная университета (General Inquiries)
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@buc.edu.eg,,https://buc.edu.eg,Prof. Ashraf Mohamed El-Shihy,President,,THE2027: 1401–1600,,0,,,,,,,3,3,да,средняя,"• Президент — бывший министр высшего образования Египта
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@buc.edu.eg,,https://buc.edu.eg,Prof. Ashraf Mohamed El-Shihy,President,QS2027: не в рейтинге,THE2027: 1401–1600,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,3,3,да,средняя,"• Президент — бывший министр высшего образования Египта
 • Телефон: только горячая линия 19592 (без кода страны)
 • E-mail международного отдела не опубликован; использовать info@buc.edu.eg
-• Спутниковой активности не найдено","• Https://buc.edu.eg/
+• Спутниковой активности не найдено
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://buc.edu.eg/
 • Https://buc.edu.eg/contact-us/
-• Https://buc.edu.eg/board-profiles/prof-dr-ashraf-mohamed-el-shihy/",2026-10-05,
+• Https://buc.edu.eg/board-profiles/prof-dr-ashraf-mohamed-el-shihy/
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 27,Египет,Бенха,Benha University,جامعة بنها,Классический,Государственный (Минвысшобразования Египта),"• Medicine & Health Sciences
 • Engineering
 • Agriculture
@@ -428,12 +495,15 @@
 • Commerce","Fareed Nada Street, Benha, Qalyubia Governorate 13518, Egypt",iro@bu.edu.eg,"Prof. Abdelfattah Selim
 Исполнительный директор Управления международных связей
 Управление международных связей (International Relations Office)
-Обращение: Dear Prof. Selim,",ящик общий,iro@bu.edu.eg,info@bu.edu.eg,+20 13 3231011,https://bu.edu.eg,Prof. Nasser El-Gizawy,President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,высокая,"• Президент назначен президентским указом в сентябре 2023 г
+Обращение: Dear Prof. Selim,",ящик общий,iro@bu.edu.eg,info@bu.edu.eg,+20 13 3231011,https://bu.edu.eg,Prof. Nasser El-Gizawy,President,QS2027: 1401+,THE2027: 1201–1400,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,3,3,да,высокая,"• Президент назначен президентским указом в сентябре 2023 г
 • Международный офис: тел. +20 13 3223213 доб. 1206, индекс 13511
-• Спутниковой активности не найдено","• Https://bu.edu.eg/univ_info/president.php
+• Спутниковой активности не найдено
+• Рейтинги: QS: в таблице как «Benha University - Egypt»; Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://bu.edu.eg/univ_info/president.php
 • Https://bu.edu.eg/univ_info/contact.php
 • Https://iro.bu.edu.eg/en/team
-• Https://iro.bu.edu.eg/en/contact",2026-10-05,
+• Https://iro.bu.edu.eg/en/contact
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 28,Египет,Даманхур,Damanhour University,جامعة دمنهور,Классический,Государственный (Минвысшобразования Египта),"• Agriculture
 • Natural Sciences
 • Engineering
@@ -442,16 +512,19 @@
 • Arts","27 Galal Koraytem Square (behind Damanhour Stadium), Damanhour, Beheira Governorate, Egypt",info.portal@dmu.edu.eg,"Prof. Elhamy Trabees
 Президент университета
 Общий ящик университета (General inbox)
-Обращение: Dear Prof. Trabees,",ящик общий,,info.portal@dmu.edu.eg,+20 45 3368069,https://damanhour.dmu.edu.eg,Prof. Elhamy Trabees,President,,THE2027: 1401–1600,,0,,,,,,,3,3,да,средняя,"• Адрес из справочника universitiesegypt.com (телефон и e-mail совпадают с официальным сайтом)
+Обращение: Dear Prof. Trabees,",ящик общий,,info.portal@dmu.edu.eg,+20 45 3368069,https://damanhour.dmu.edu.eg,Prof. Elhamy Trabees,President,QS2027: не в рейтинге,THE2027: 1401–1600,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,3,3,да,средняя,"• Адрес из справочника universitiesegypt.com (телефон и e-mail совпадают с официальным сайтом)
 • Отдельного e-mail международного отдела не найдено — использовать info.portal@dmu.edu.eg
-• Космическая активность поиском не проверялась (лимит поиска исчерпан); в nanosats.csv спутников нет","• Https://damanhour.dmu.edu.eg/pages/default.aspx/
-• Https://www.universitiesegypt.com/damanhour-university/contacts",2026-10-05,
+• Космическая активность поиском не проверялась (лимит поиска исчерпан); в nanosats.csv спутников нет
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://damanhour.dmu.edu.eg/pages/default.aspx/
+• Https://www.universitiesegypt.com/damanhour-university/contacts
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 29,Египет,Думьят,Damietta University,جامعة دمياط,Классический,Государственный (Минвысшобразования Египта),,"Talkha – Damietta Road, New Damietta City, Kafr Saad, Damietta Governorate, Egypt",info@du.edu.eg,"ФИО не найдено
 Общий ящик университета (General inbox)
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@du.edu.eg,+20 57 2412376,https://du.edu.eg,Prof. Hamdan Rabie (أ.د. حمدان ربيع),President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,низкая,"• Официальный сайт du.edu.eg недоступен (503 / обрыв соединения, октябрь 2026); контакты из справочника universitiesegypt.com — требуют сверки
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@du.edu.eg,+20 57 2412376,https://du.edu.eg,Prof. Hamdan Rabie (أ.د. حمدان ربيع),President,QS2027: не в рейтинге,THE2027: 1201–1400,,,0,,,,,,,3,3,да,низкая,"• Официальный сайт du.edu.eg недоступен (503 / обрыв соединения, октябрь 2026); контакты из справочника universitiesegypt.com — требуют сверки
 • Космическая активность не проверялась поиском (лимит исчерпан); в nanosats.csv спутников нет
 • Президент д-р Хамдан Рабиа (حمدان ربيع) — подтверждён публикациями СМИ сентября–октября 2026 г. (Sada El-Omma, Al-Dostor); на официальном сайте не проверен (du.edu.eg и med.du.edu.eg недоступны 04.10.2026)
-• Перепроверка: Сайт по-прежнему недоступен; по СМИ 10.2026 добавлен президент д-р Хамдан Рабиа; контакты не перепроверены","• Https://www.universitiesegypt.com/damietta-university/contacts
+• Перепроверка: Сайт по-прежнему недоступен; по СМИ 10.2026 добавлен президент д-р Хамдан Рабиа; контакты не перепроверены
+• Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено","• Https://www.universitiesegypt.com/damietta-university/contacts
 • Https://ar.wikipedia.org/wiki/جامعة_دمياط",2026-10-05,
 30,Египет,Гамаса,Delta University for Science and Technology,جامعة الدلتا للعلوم والتكنولوجيا,Классический,Частный,"• Engineering
 • Pharmacy
@@ -461,15 +534,18 @@
 • Computer Science","International Coastal Road (in front of Industrial Area), Gamasa, Dakahlia Governorate, Egypt",info@deltauniv.edu.eg,"Dr. Yehia El-Meshad
 Президент университета
 Общий ящик университета (General Inquiries)
-Обращение: Dear Dr. El-Meshad,",ящик общий,,info@deltauniv.edu.eg,"15955 (hotline, official site); +20 50 2770140",https://new.deltauniv.edu.eg,Dr. Yehia El-Meshad,President,QS2027: 1201–1400,THE2027: 1001–1200,,0,,,,,,,3,3,да,средняя,"• Официальный сайт new.deltauniv.edu.eg рендерится через JavaScript (навигация через JS, страница «президент» отсутствует) — руководство и международный отдел на сайте проверить не удалось; info@deltauniv.edu.eg и горячая линия 15955 подтверждены на сайте 04.10.2026
+Обращение: Dear Dr. El-Meshad,",ящик общий,,info@deltauniv.edu.eg,"15955 (hotline, official site); +20 50 2770140",https://new.deltauniv.edu.eg,Dr. Yehia El-Meshad,President,QS2027: 1201–1400,THE2027: 1001–1200,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,3,3,да,средняя,"• Официальный сайт new.deltauniv.edu.eg рендерится через JavaScript (навигация через JS, страница «президент» отсутствует) — руководство и международный отдел на сайте проверить не удалось; info@deltauniv.edu.eg и горячая линия 15955 подтверждены на сайте 04.10.2026
 • Президент (Dr. Yehia El-Meshad / يحيى المشد) подтверждён только СМИ (июнь 2026); председатель совета попечителей — Dr. Mohamed Rabie
 • Телефон +20 50 2770140 и адрес — со стороннего справочника egyptianeducation.com
 • Не путать с Delta Technological University (جامعة الدلتا التكنولوجية)
 • Отдельного международного e-mail не найдено
-• Перепроверка: Общий e-mail и горячая линия подтверждены на официальном сайте 04.10.2026; президент — по СМИ 06.2026, на сайте не найден","• Https://new.deltauniv.edu.eg/EN/aboutdu/index
+• Перепроверка: Общий e-mail и горячая линия подтверждены на официальном сайте 04.10.2026; президент — по СМИ 06.2026, на сайте не найден
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://new.deltauniv.edu.eg/EN/aboutdu/index
 • Https://www.egyptianeducation.com/delta-university-science-technology/contacts
 • Https://taleemalyoum.com/ (news 2026-06-08)
-• Qianmu.org QS2027 list",2026-10-05,
+• Qianmu.org QS2027 list
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 31,Египет,Эль-Файюм,Fayoum University,جامعة الفيوم,Классический,Государственный (Минвысшобразования Египта),"• Medicine
 • Engineering
 • Agriculture
@@ -478,23 +554,30 @@
 • Computers and Artificial Intelligence","Fayoum University, University Administration Building, Al-Mashtal Street, Fayoum 63514, Egypt",presd@fayoum.edu.eg,"Prof. Sherif Mohamed Sabry El-Attar
 Исполняющий обязанности президента университета
 Офис президента университета (Office of the University President)
-Обращение: Dear Prof. El-Attar,",ящик общий,,presd@fayoum.edu.eg,+20 84 2114087,https://www.fayoum.edu.eg,Prof. Sherif Mohamed Sabry El-Attar,Acting President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,средняя,"• Prof. Sherif El-Attar — исполняющий обязанности президента (с 01.08.2026), специальность — архитектура; личный e-mail sma00@fayoum.edu.eg
+Обращение: Dear Prof. El-Attar,",ящик общий,,presd@fayoum.edu.eg,+20 84 2114087,https://www.fayoum.edu.eg,Prof. Sherif Mohamed Sabry El-Attar,Acting President,QS2027: не в рейтинге,THE2027: 1201–1400,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,3,3,да,средняя,"• Prof. Sherif El-Attar — исполняющий обязанности президента (с 01.08.2026), специальность — архитектура; личный e-mail sma00@fayoum.edu.eg
 • Presd@fayoum.edu.eg — ящик офиса президента; факс +20 84 2114095
 • Управление международных связей (International Relations Office, создано 2022) существует, но его e-mail на открытых страницах не опубликован (в поисковике фигурирует iro@fayoum.edu.eg — не проверено); тел. офиса +20 84 2114059
-• В QS2027 не найден; космической активности не найдено","• Https://www.fayoum.edu.eg/en/EnterpriseSettings/UniversityPresident
+• В QS2027 не найден; космической активности не найдено
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://www.fayoum.edu.eg/en/EnterpriseSettings/UniversityPresident
 • Https://www.fayoum.edu.eg/en/EnterpriseSettings/presidentoffice
-• Https://www.fayoum.edu.eg/en/Faculty/TabContent/5095",2026-10-05,
+• Https://www.fayoum.edu.eg/en/Faculty/TabContent/5095
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 32,Египет,Эль-Галяля (Суэц),Galala University,جامعة الجلالة,Классический,Государственный национальный (некоммерческий),"• Engineering
 • Computer Science
 • Medicine & Dentistry
 • Pharmacy & Physical Therapy
 • Business/Administrative Sciences
-• Mass Media","Galala City, Galala Plateau, Suez Governorate, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://www.gu.edu.eg,Prof. Dr. Mohamed El-Shinawi,President,,THE2027: 1001–1200,,0,,,,,,,3,3,,низкая,"• Официальный сайт gu.edu.eg недоступен из нашей сети (503 / ошибка TLS, повторно 04.10.2026) — контакты не верифицированы; требуется ручная проверка
+• Mass Media","Galala Plateau, Attaka, Suez, Egypt",info@gu.edu.eg,"ФИО не найдено
+Обращение: Dear Director of International Relations,",нет ящика: Найти e-mail международного отдела или канцелярии,,info@gu.edu.eg,"15888 (горячая линия, внутри Египта)",https://www.gu.edu.eg,Prof. Dr. Mohamed El-Shinawi,President,QS2027: не в рейтинге,THE2027: 1001–1200,,,0,,,,,,,3,3,да,высокая,"• Официальный сайт gu.edu.eg недоступен из нашей сети (503 / ошибка TLS, повторно 04.10.2026) — контакты не верифицированы; требуется ручная проверка
 • Президент Prof. Dr. Mohamed El-Shinawi (проф. хирургии Ain Shams) — по официальным новостям gu.edu.eg 2026 г., видимым в поисковой выдаче
 • Партнёрство с Arizona State University (двойные дипломы); спутниковых проектов не найдено
-• Перепроверка: Президент проф. Mohamed El-Shinawi подтверждается официальными новостями gu.edu.eg (06.2026) по поисковой выдаче; сайт по-прежнему недоступен — контакты не найдены","• Https://www.timeshighereducation.com/world-university-rankings/galala-university
+• Перепроверка: Президент проф. Mohamed El-Shinawi подтверждается официальными новостями gu.edu.eg (06.2026) по поисковой выдаче; сайт по-прежнему недоступен — контакты не найдены
+• Ручная проверка: Контакты прочитаны на официальном сайте 05.10.2026 (сессия с агентами). Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено","• Https://www.timeshighereducation.com/world-university-rankings/galala-university
 • Https://en.wikipedia.org/wiki/Galala_University
-• Https://www.gu.edu.eg/2026/06/galala-university-president-speaks-at-international-conference-in-madrid-on-strengthening-public-private-collaboration-in-higher-education (snippet)",2026-10-05,
+• Https://www.gu.edu.eg/2026/06/galala-university-president-speaks-at-international-conference-in-madrid-on-strengthening-public-private-collaboration-in-higher-education (snippet)
+https://www.gu.edu.eg/contact/
+• Https://www.gu.edu.eg/president/
+• Https://www.gu.edu.eg/international-students/",2026-10-05,
 33,Египет,Каир,German University in Cairo (GUC),الجامعة الألمانية بالقاهرة,Технический / аэрокосмический,Частный,"• Engineering
 • Information Engineering & Technology
 • Pharmacy & Biotechnology
@@ -502,12 +585,14 @@
 • Applied Arts","Main Entrance El-Tagamoa El-Khames, New Cairo City, Cairo, Egypt",frank.gunzer@guc.edu.eg,"Prof. Dr. Frank Gunzer
 Вице-президент по международным делам
 Вице-президент по международным делам (Vice President for International Affairs)
-Обращение: Dear Prof. Gunzer,","личный, совпало",frank.gunzer@guc.edu.eg,yasser.higazi@guc.edu.eg,+20 2 27589990,https://www.guc.edu.eg,Prof. Dr. Yasser Hegazy,President,QS2027: 1401+,,,0,,,,,,,3,3,да,высокая,"• Ящик международного направления — персональный адрес вице-президента по международным делам проф. Франка Гюнцера
+Обращение: Dear Prof. Gunzer,","личный, совпало",frank.gunzer@guc.edu.eg,yasser.higazi@guc.edu.eg,+20 2 27589990,https://www.guc.edu.eg,Prof. Dr. Yasser Hegazy,President,QS2027: 1401+,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,3,3,да,высокая,"• Ящик международного направления — персональный адрес вице-президента по международным делам проф. Франка Гюнцера
 • У президента два варианта адреса на странице (yasser.higazi@ и yasser.higazy@guc.edu.eg); в поле указан первый, отображаемый под его именем
-• Горячая линия 16482; космическая активность поиском не проверялась (лимит поиска исчерпан), в nanosats.csv спутников нет","• Https://guc.edu.eg/
+• Горячая линия 16482; космическая активность поиском не проверялась (лимит поиска исчерпан), в nanosats.csv спутников нет
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://guc.edu.eg/
 • Https://guc.edu.eg/en/about_guc/trustees_council_deans/president_cabinet.aspx
 • Https://guc.edu.eg/en/contact.aspx
-• Https://www.qianmu.org/ranking/1528.htm (2027 QS list, qianmu.org)",2026-10-05,
+• Https://www.qianmu.org/ranking/1528.htm (2027 QS list, qianmu.org)
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)",2026-10-05,
 34,Египет,Новая Дамиетта,Horus University – Egypt (HUE),جامعة حورس - مصر,Медицинский,Частный,"• Medicine
 • Dentistry
 • Pharmacy
@@ -515,22 +600,25 @@
 • Engineering
 • Artificial Intelligence & Informatics","International Coastal Road, New Damietta, Damietta, Egypt",info@horus.edu.eg,"ФИО не найдено
 Общая приёмная университета
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@horus.edu.eg,+20 11 44455582; +20 57 392000,https://horus.edu.eg,Prof. El Said Abdel Hady,President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,средняя,"• Есть Управление международных связей (IRO-HUE), но отдельный e-mail и руководитель не опубликованы — используется info@horus.edu.eg
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@horus.edu.eg,+20 11 44455582; +20 57 392000,https://horus.edu.eg,Prof. El Said Abdel Hady,President,QS2027: не в рейтинге,THE2027: 1201–1400,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,3,3,да,средняя,"• Есть Управление международных связей (IRO-HUE), но отдельный e-mail и руководитель не опубликованы — используется info@horus.edu.eg
 • Председатель попечительского совета — Prof. Ibrahim Saber
-• Спутников нет (проверка по сайту и nanosats.csv; веб-поиск исчерпан)","• Https://horus.edu.eg/
+• Спутников нет (проверка по сайту и nanosats.csv; веб-поиск исчерпан)
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://horus.edu.eg/
 • Https://horus.edu.eg/contact-us/
-• Https://horus.edu.eg/international-relations-office-iro-hue/",2026-10-05,
+• Https://horus.edu.eg/international-relations-office-iro-hue/
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 35,Египет,Шибин-эль-Ком,Menoufia University,جامعة المنوفية,Классический,Государственный (Минвысшобразования Египта),"• Medicine
 • Engineering
 • Electronic Engineering
 • Agriculture
 • Science
-• Commerce","Gamal Abdel Nasser Street, Shebin El-Kom, Menoufia Governorate, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://www.menofia.edu.eg,Prof. Ahmed Farag El-Kased,President,,THE2027: 1401–1600,,0,,,,,,,3,3,,низкая,"• Официальный сайт menofia.edu.eg недоступен из среды (блокировка прокси/DNS) — контакты не проверены
+• Commerce","Gamal Abdel Nasser Street, Shebin El-Kom, Menoufia Governorate, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://www.menofia.edu.eg,Prof. Ahmed Farag El-Kased,President,QS2027: не в рейтинге,THE2027: 1401–1600,,,0,,,,,,,3,3,,низкая,"• Официальный сайт menofia.edu.eg недоступен из среды (блокировка прокси/DNS) — контакты не проверены
 • ВАЖНО: в сент. 2026 Высший совет университетов объявил конкурс на пост президента (приём заявок с 10.10.2026) — руководитель может смениться в ближайшие месяцы; проверить перед отправкой
 • Непроверенные (из поисковой выдачи) адреса: president@menofia.edu.eg, menofia@menofia.edu.eg; телефоны из справочников: +20 48 2224216 (edarabia), +20 48 232 9094 (WIPO TISC)
 • Адрес — по справочнику WIPO TISC
 • В QS2027 не найден; космической активности не найдено
-• Перепроверка: 04.10.2026: menofia.edu.eg недоступен (503/сброс), портал Высшего совета университетов scu.eg не отдаёт данные без JS — данные не изменены","• Https://alkhabaralyoum.com/2026/09/26/ (news)
+• Перепроверка: 04.10.2026: menofia.edu.eg недоступен (503/сброс), портал Высшего совета университетов scu.eg не отдаёт данные без JS — данные не изменены
+• Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено","• Https://alkhabaralyoum.com/2026/09/26/ (news)
 • Https://www.cairomubasher.com/235786
 • Https://www.wipo.int/tisc/en/search/details.jsp?id=12548",2026-10-05,
 36,Египет,Минья,Minia University,جامعة المنيا,Классический,Государственный (Минвысшобразования Египта),"• Medicine & Health Sciences
@@ -541,10 +629,11 @@
 • Education","Minia University, Minya City, Minya Governorate, Egypt",president@mu.edu.eg,"Prof. Essam El-Din Sadek Farhat
 Президент университета
 Канцелярия президента университета (President's Office)
-Обращение: Dear Prof. Farhat,",ящик общий,,president@mu.edu.eg,,https://www.minia.edu.eg,Prof. Essam El-Din Sadek Farhat,President,,THE2027: 1001–1200,,0,,,,,,,3,3,да,средняя,"• Сайт minia.edu.eg недоступен (DNS) — e-mail президента (president@mu.edu.eg, также presid.office@mu.edu.eg) взят из поисковой выдержки официальной страницы
+Обращение: Dear Prof. Farhat,",ящик общий,,president@mu.edu.eg,,https://www.minia.edu.eg,Prof. Essam El-Din Sadek Farhat,President,QS2027: не в рейтинге,THE2027: 1001–1200,,,0,,,,,,,3,3,да,средняя,"• Сайт minia.edu.eg недоступен (DNS) — e-mail президента (president@mu.edu.eg, также presid.office@mu.edu.eg) взят из поисковой выдержки официальной страницы
 • Почтовый индекс и телефон не подтверждены
 • E-mail международного отдела не найден
-• Спутниковой активности не найдено","• Https://www.minia.edu.eg/minia/Engmail.aspx
+• Спутниковой активности не найдено
+• Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено","• Https://www.minia.edu.eg/minia/Engmail.aspx
 • Https://www.minia.edu.eg/Minia/Econtact.aspx
 • Https://www.maspero.eg/our-reporters/2026/09/20/990867/",2026-10-05,
 37,Египет,Гиза,Misr University for Science and Technology (MUST),جامعة مصر للعلوم والتكنولوجيا,Медицинский,Частный,"• Medicine
@@ -555,22 +644,25 @@
 • Information Technology","Al Motamayez District, 6th of October City, Giza, Egypt",info@must.edu.eg,"Prof. Hala El-Menoufy
 Исполняющая обязанности президента университета
 Общий ящик университета (General Inquiries)
-Обращение: Dear Prof. El-Menoufy,",ящик общий,,info@must.edu.eg,,https://must.edu.eg,Prof. Hala El-Menoufy,Acting President,,THE2027: 1801–2000,,0,,,,,,,3,3,да,средняя,"• Prof. Hala El-Menoufy — исполняющая обязанности президента (Acting President)
+Обращение: Dear Prof. El-Menoufy,",ящик общий,,info@must.edu.eg,,https://must.edu.eg,Prof. Hala El-Menoufy,Acting President,QS2027: не в рейтинге,THE2027: 1801–2000,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,3,3,да,средняя,"• Prof. Hala El-Menoufy — исполняющая обязанности президента (Acting President)
 • Опубликован только короткий номер 16878; полного телефона с +20 на сайте нет
 • Есть сектор по делам иностранных студентов (International Students Affairs Sector), но отдельного e-mail нет — писать на info@must.edu.eg
 • Профиль преимущественно медико-фармацевтический; космической активности на сайте не найдено (поисковая проверка не выполнена — исчерпана квота поиска)
-• В QS2027 не найден","• Https://must.edu.eg/
+• В QS2027 не найден
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://must.edu.eg/
 • Https://must.edu.eg/about-must/president/
 • Https://must.edu.eg/contact/
-• Https://must.edu.eg/sectors/international-students-affairs-sector/",2026-10-05,
+• Https://must.edu.eg/sectors/international-students-affairs-sector/
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 38,Египет,Эль-Харга,New Valley University,جامعة الوادي الجديد,Классический,Государственный (Минвысшобразования Египта),"• Agriculture
 • Science
 • Education
 • Arts
 • Engineering
-• Medicine","Dakhla Road, El-Kharga 71511, New Valley Governorate, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,+20 92 7602010,https://nvu.edu.eg,Prof. Abdelaziz Tantawi,President,,THE2027: 1201–1400,,0,,,,,,,3,3,,средняя,"• Сайт nvu.edu.eg недоступен — официальный общий и международный e-mail не подтверждены (в агрегаторах встречается portal@nvu.edu.eg)
+• Medicine","Dakhla Road, El-Kharga 71511, New Valley Governorate, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,+20 92 7602010,https://nvu.edu.eg,Prof. Abdelaziz Tantawi,President,QS2027: не в рейтинге,THE2027: 1201–1400,,,0,,,,,,,3,3,,средняя,"• Сайт nvu.edu.eg недоступен — официальный общий и международный e-mail не подтверждены (в агрегаторах встречается portal@nvu.edu.eg)
 • В СМИ сообщалось о судебном разбирательстве с участием президента университета (дело об исполнении судебного решения) — учесть при обращении
-• Спутниковой активности не найдено","• Https://www.youm7.com/story/2026/9/16/7548695
+• Спутниковой активности не найдено
+• Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено","• Https://www.youm7.com/story/2026/9/16/7548695
 • Https://www.wipo.int/tisc/en/search/details.jsp?id=11058
 • Https://nvu.edu.eg/leaderstop.php",2026-10-05,
 39,Египет,Гиза,October 6 University,جامعة 6 أكتوبر,Классический,Частный,"• Medicine & Dentistry
@@ -580,12 +672,14 @@
 • Applied Medical Sciences
 • Business","6th of October City, Giza Governorate, Egypt",ilca@o6u.edu.eg,"ФИО не найдено
 Управление международных и местных культурных связей (Admin of International & Local Cultural Affairs)
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,ilca@o6u.edu.eg,President-office@o6u.edu.eg,+20 2 38355275,https://o6u.edu.eg,Prof. Gamal Samy,President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,средняя,"• Имя президента (проф. Гамаль Сами) подтверждено новостью сайта 2024 г. и Википедией; подтверждения 2025–2026 не найдено — сверить
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,ilca@o6u.edu.eg,President-office@o6u.edu.eg,+20 2 38355275,https://o6u.edu.eg,Prof. Gamal Samy,President,QS2027: не в рейтинге,THE2027: 1201–1400,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,3,3,да,средняя,"• Имя президента (проф. Гамаль Сами) подтверждено новостью сайта 2024 г. и Википедией; подтверждения 2025–2026 не найдено — сверить
 • Ilca@o6u.edu.eg — Управление международных и местных культурных связей (Admin of International & Local Cultural Affairs); руководитель не указан
-• Космическая активность поиском не проверялась (лимит поиска исчерпан); в nanosats.csv спутников нет","• Https://o6u.edu.eg/dpagesuni.aspx?FactId=0&id=935
+• Космическая активность поиском не проверялась (лимит поиска исчерпан); в nanosats.csv спутников нет
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://o6u.edu.eg/dpagesuni.aspx?FactId=0&id=935
 • Https://o6u.edu.eg/default.aspx?id=70
 • Https://o6u.edu.eg/UniversityNewsDetailes.aspx?FactId=0&News=22067
-• Https://en.wikipedia.org/wiki/October_6_University",2026-10-05,
+• Https://en.wikipedia.org/wiki/October_6_University
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 40,Египет,Александрия,Pharos University in Alexandria,جامعة فاروس بالإسكندرية,Классический,Частный,"• Pharmacy
 • Dentistry
 • Engineering
@@ -593,12 +687,14 @@
 • Applied Health Sciences
 • Business & Languages","Pharos University in Alexandria, Canal El Mahmoudia Street, beside Green Plaza Complex, Smouha, Alexandria, Egypt",info@pua.edu.eg,"ФИО не найдено
 Общий ящик университета (General inbox)
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@pua.edu.eg,+20 3 3877700,https://www.pua.edu.eg,Prof. Mahmoud Mohy El-Din,President,,THE2027: 1601–1800,,0,,,,,,,3,3,да,высокая,"• Сайт pua.edu.eg снова доступен (04.10.2026): президент, общий e-mail, телефон и адрес подтверждены; прежний номер +20 3 3877000 из справочника был неверным — исправлен на +20 3 3877700
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@pua.edu.eg,+20 3 3877700,https://www.pua.edu.eg,Prof. Mahmoud Mohy El-Din,President,QS2027: не в рейтинге,THE2027: 1601–1800,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,3,3,да,высокая,"• Сайт pua.edu.eg снова доступен (04.10.2026): президент, общий e-mail, телефон и адрес подтверждены; прежний номер +20 3 3877000 из справочника был неверным — исправлен на +20 3 3877700
 • На сайте есть ящик International.Students@pua.edu.eg (тел. +20 3 3877872 / 3877886) — офис регистрации иностранных студентов, не отдел партнёрств; отдельный e-mail международного отдела не найден
 • Космическая активность поиском не проверялась (лимит поиска исчерпан); в nanosats.csv спутников нет
-• Перепроверка: Президент проф. Махмуд Мохи Эль-Дин, info@pua.edu.eg, телефон и адрес подтверждены на pua.edu.eg 04.10.2026; телефон исправлен","• Https://www.pua.edu.eg/
+• Перепроверка: Президент проф. Махмуд Мохи Эль-Дин, info@pua.edu.eg, телефон и адрес подтверждены на pua.edu.eg 04.10.2026; телефон исправлен
+• Рейтинги: THE: в таблице как «Pharos University»; Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://www.pua.edu.eg/
 • Https://www.pua.edu.eg/about-pua/message-from-the-president-of-pharos-university/
-• Https://en.wikipedia.org/wiki/Pharos_University_in_Alexandria",2026-10-05,
+• Https://en.wikipedia.org/wiki/Pharos_University_in_Alexandria
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 41,Египет,Кена,Qena University,جامعة قنا,Классический,Государственный (Минвысшобразования Египта),"• Medicine & Health Sciences
 • Engineering
 • Agriculture
@@ -606,22 +702,25 @@
 • Education
 • Computers & Information","6 Kilo, Safaga Road, Qena 83523, Egypt",info@svu.edu.eg,"ФИО не найдено
 Общая приёмная университета (General Inquiries)
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@svu.edu.eg,+20 96 5211279,https://www.svu.edu.eg,Prof. Ahmed Akkawy,President,,THE2027: 1401–1600,,0,,,,,,,3,3,да,средняя,"• Qena University — новое название South Valley University (جامعة جنوب الوادي); в списке также есть строка «South Valley University» — это ДУБЛЬ одного и того же вуза, отправлять одно письмо
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@svu.edu.eg,+20 96 5211279,https://www.svu.edu.eg,Prof. Ahmed Akkawy,President,QS2027: не в рейтинге,THE2027: 1401–1600,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,3,3,да,средняя,"• Qena University — новое название South Valley University (جامعة جنوب الوادي); в списке также есть строка «South Valley University» — это ДУБЛЬ одного и того же вуза, отправлять одно письмо
 • Адрес, телефон и info@svu.edu.eg взяты из справочников/поисковых выдержек, на официальной странице не подтверждены
 • E-mail международного отдела не найден
-• Спутниковой активности не найдено","• Https://www.svu.edu.eg/en/
+• Спутниковой активности не найдено
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://www.svu.edu.eg/en/
 • Https://www.youm7.com/story/2026/6/4/7437439
 • Https://en.wikipedia.org/wiki/Qena_University
-• Https://www.wipo.int/tisc/en/search/details.jsp?id=10024",2026-10-05,
+• Https://www.wipo.int/tisc/en/search/details.jsp?id=10024
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 42,Египет,Суэц,Suez University,جامعة السويس,Классический,Государственный (Минвысшобразования Египта),"• Petroleum & Mining Engineering
 • Engineering
 • Science
 • Commerce
 • Education
-• Industrial Education","1 Cairo – Suez Road, Suez, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://www.suezuni.edu.eg,,President,,THE2027: 1201–1400,,0,,,,,,,3,3,,низкая,"• Официальный сайт недоступен из нашей сети (503/таймаут), поиск исчерпан — контакты и руководитель не верифицированы; требуется ручная проверка
+• Industrial Education","1 Cairo – Suez Road, Suez, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://www.suezuni.edu.eg,,President,QS2027: не в рейтинге,THE2027: 1201–1400,,,0,,,,,,,3,3,,низкая,"• Официальный сайт недоступен из нашей сети (503/таймаут), поиск исчерпан — контакты и руководитель не верифицированы; требуется ручная проверка
 • По Википедии (не верифицировано) президент — Abdul Azim Al-Sharkawy
 • Не путать с Suez Canal University (Исмаилия), которая подписала протокол с EgSA в 2021 г
-• Перепроверка: 04.10.2026: сайт suezuni.edu.eg по-прежнему недоступен (curl — нет соединения, WebFetch — 503); данные не изменены","• Https://www.timeshighereducation.com/world-university-rankings/suez-university
+• Перепроверка: 04.10.2026: сайт suezuni.edu.eg по-прежнему недоступен (curl — нет соединения, WebFetch — 503); данные не изменены
+• Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено","• Https://www.timeshighereducation.com/world-university-rankings/suez-university
 • Https://en.wikipedia.org/wiki/Suez_University",2026-10-05,
 43,Египет,Танта,Tanta University,جامعة طنطا,Классический,Государственный (Минвысшобразования Египта),"• Medicine & Pharmacy
 • Engineering
@@ -631,12 +730,16 @@
 • Commerce","El-Geish Street, Tanta, Gharbia, Egypt",tanta_unv@unv.tanta.edu.eg,"Prof. Mohamed Hussein Mahmoud
 Президент университета
 Общий ящик университета (General inbox)
-Обращение: Dear Prof. Mahmoud,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",,tanta_unv@unv.tanta.edu.eg,+20 40 3317928,https://tanta.edu.eg,Prof. Mohamed Hussein Mahmoud,President,QS2027: 1401+,THE2027: 1001–1200,,0,,,,,,,3,3,да,средняя,"• Президент проф. Мохамед Хусейн Махмуд назначен президентским указом с 26.03.2025
+Обращение: Dear Prof. Mahmoud,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",,tanta_unv@unv.tanta.edu.eg,+20 40 3317928,https://tanta.edu.eg,Prof. Mohamed Hussein Mahmoud,President,QS2027: 1401+,THE2027: 1001–1200,нет общенационального рейтинга,1175,0,,,,,,,3,3,да,средняя,"• Президент проф. Мохамед Хусейн Махмуд назначен президентским указом с 26.03.2025
 • Есть только ящик офиса иностранных студентов international_std@unv.tanta.edu.eg (приём студентов) — можно поставить в копию; отдельного ящика по международному сотрудничеству не найдено
-• Запущенных спутников не найдено (быстрая проверка)","• Https://tanta.edu.eg/
+• Запущенных спутников не найдено (быстрая проверка)
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://tanta.edu.eg/
 • Https://tanta.edu.eg/President.aspx
 • Https://international-students.tanta.edu.eg/
-• Https://www.qianmu.org/ranking/1528.htm (2027 QS list, qianmu.org)",2026-10-05,
+• Https://www.qianmu.org/ranking/1528.htm (2027 QS list, qianmu.org)
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking
+https://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",2026-10-05,
 44,Египет,Каир,The British University in Egypt (BUE),الجامعة البريطانية في مصر,Классический,Частный,"• Engineering
 • Business Administration
 • Pharmacy
@@ -645,15 +748,18 @@
 • Energy and Environmental Engineering","El Sherouk City, Suez Desert Road, P.O. Box 43, Cairo 11837, Egypt",info@bue.edu.eg,"Prof. Mohamed Loutfi
 Президент и вице-канцлер
 Общий ящик университета (General Inquiries)
-Обращение: Dear Prof. Loutfi,",ящик общий,,info@bue.edu.eg,+20 19283,https://www.bue.edu.eg,Prof. Mohamed Loutfi,President and Vice-Chancellor,QS2027: 1201–1400,THE2027: 1401–1600,,0,,,,,,,3,3,да,средняя,"• Некоммерческий частный вуз, созданный по межправительственному соглашению Египта и Великобритании; дипломы валидируются британскими вузами
+Обращение: Dear Prof. Loutfi,",ящик общий,,info@bue.edu.eg,+20 19283,https://www.bue.edu.eg,Prof. Mohamed Loutfi,President and Vice-Chancellor,QS2027: 1201–1400,THE2027: 1401–1600,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,3,3,да,средняя,"• Некоммерческий частный вуз, созданный по межправительственному соглашению Египта и Великобритании; дипломы валидируются британскими вузами
 • Отдельного международного офиса/e-mail нет; отдел «Students Recruitment and Partnerships» (studentrecruitment@bue.edu.eg) ориентирован на абитуриентов — писать на info@bue.edu.eg
 • Телефон 19283 — горячая линия (короткий номер)
 • Председатель совета попечителей — Ms Farida Mohamed Farid Khamis
-• Космической активности на сайте не найдено (поисковая проверка не выполнена — исчерпана квота поиска)","• Https://www.bue.edu.eg/
+• Космической активности на сайте не найдено (поисковая проверка не выполнена — исчерпана квота поиска)
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://www.bue.edu.eg/
 • Https://www.bue.edu.eg/leadership-structure
 • Https://www.bue.edu.eg/contact-us
 • Https://www.bue.edu.eg/administrative-departments/the-students-recruitment-and-partnerships-bue
-• Qianmu.org QS2027 list",2026-10-05,
+• Qianmu.org QS2027 list
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 45,Египет,Садат-Сити,University of Sadat City (USC),جامعة مدينة السادات,Классический,Государственный (Минвысшобразования Египта),"• Veterinary Medicine
 • Genetic Engineering and Biotechnology
 • Environmental Studies
@@ -662,13 +768,14 @@
 • Computer Science and Artificial Intelligence","Central Service Center, Sadat City, Menoufia Governorate, Egypt",info@usc.edu.eg,"Prof. Nasser Abdel-Bary
 Президент университета
 Общий ящик университета (General Inquiries)
-Обращение: Dear Prof. Abdel-Bary,",ящик общий,,info@usc.edu.eg,+20 48 2603205,https://usc.edu.eg,Prof. Nasser Abdel-Bary,President,,THE2027: 1001–1200,,0,,,,,,,3,3,да,низкая,"• Официальный сайт usc.edu.eg недоступен (блокировка прокси / DNS) — данные из WHED, справочника и СМИ
+Обращение: Dear Prof. Abdel-Bary,",ящик общий,,info@usc.edu.eg,+20 48 2603205,https://usc.edu.eg,Prof. Nasser Abdel-Bary,President,QS2027: не в рейтинге,THE2027: 1001–1200,,,0,,,,,,,3,3,да,низкая,"• Официальный сайт usc.edu.eg недоступен (блокировка прокси / DNS) — данные из WHED, справочника и СМИ
 • Президент Dr. Nasser Abdel-Bary (ناصر عبد الباري) подтверждён СМИ за сен. 2026; в WHED указан устаревший и.о. Ahmed Azab; учёное звание Prof. не проверено
 • Директор Центра интернационализации (по WHED): Nashwa Suleiman — e-mail не найден
 • E-mail info@usc.edu.eg и телефон — со стороннего справочника universitiesegypt.com
 • В QS2027 не найден
 • Сайт Минвысобразования Египта (mohesr.gov.eg, 30.08.2025) называл президентом д-р Шаден Муавия (شادن معاوية); СМИ фев. и сен. 2026 — Nasser Abdel-Bary, т.е. вероятна смена руководителя; официального решения о назначении не найдено
-• Перепроверка: Сайт usc.edu.eg по-прежнему недоступен (curl/WebFetch 503); на сайте Минвысобразования найдено, что в авг. 2025 президентом была д-р Шаден Муавия — текущий президент Nasser Abdel-Bary (СМИ 2026) официально не подтверждён; контакты не изменены","• Https://whed.net/institutions/IAU-020464
+• Перепроверка: Сайт usc.edu.eg по-прежнему недоступен (curl/WebFetch 503); на сайте Минвысобразования найдено, что в авг. 2025 президентом была д-р Шаден Муавия — текущий президент Nasser Abdel-Bary (СМИ 2026) официально не подтверждён; контакты не изменены
+• Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено","• Https://whed.net/institutions/IAU-020464
 • Https://www.universitiesegypt.com/university-sadat-city/contacts
 • Https://alkhabaralyoum.com/2026/09/27/ (news)
 • Https://www.youm7.com/story/2026/2/26/7320365",2026-10-05,
@@ -679,26 +786,34 @@
 • Mass Communication
 • Business Administration","Banks Complex Street, Fourth Industrial Zone, 6th of October City, Giza, Egypt",info@acu.edu.eg,"ФИО не найдено
 Общая приёмная университета (General Inquiries)
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@acu.edu.eg,"19228 (hotline, Egypt)",https://acu.edu.eg,Prof. Ahmed Mohamed Anani (أ.د. أحمد محمد عناني),President,,,,0,,,,,,,0,3,да,высокая,"• THE2027: только статус Reporter (без ранга)
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@acu.edu.eg,"19228 (hotline, Egypt)",https://acu.edu.eg,Prof. Ahmed Mohamed Anani (أ.د. أحمد محمد عناني),President,QS2027: не в рейтинге,THE2027: Reporter,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,высокая,"• THE2027: только статус Reporter (без ранга)
 • Сайт www.acu.edu.eg отдаёт 403, но acu.edu.eg (без www) доступен
 • Ранее указанный телефон +20 2 38333078 на официальном сайте не найден — заменён горячей линией 19228; отдельный e-mail международного отдела не опубликован (есть раздел «Международные партнёрства»)
 • Председатель совета попечителей — проф. Мохамед Фаиз Фархат (глава Al-Ahram)
 • Спутниковой активности не найдено
-• Перепроверка: Сайт открылся по адресу без www (acu.edu.eg) 04.10.2026: президент — проф. Ахмед Мохамед Анани (страница руководства + новость 19.07.2026), прежнее имя Amal Fawzy Ahmed исправлено; адрес, info@acu.edu.eg и горячая линия 19228 подтверждены на странице контактов","• Https://acu.edu.eg/about-the-council/university-leaders
+• Перепроверка: Сайт открылся по адресу без www (acu.edu.eg) 04.10.2026: президент — проф. Ахмед Мохамед Анани (страница руководства + новость 19.07.2026), прежнее имя Amal Fawzy Ahmed исправлено; адрес, info@acu.edu.eg и горячая линия 19228 подтверждены на странице контактов
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://acu.edu.eg/about-the-council/university-leaders
 • Https://acu.edu.eg/en/contact-us
 • Https://acu.edu.eg/news
-• Https://english.ahram.org.eg/NewsContent/1/2/569449/Egypt/Society/Ahram-Canadian-University-achieves-new-milestone-i.aspx",2026-10-05,
+• Https://english.ahram.org.eg/NewsContent/1/2/569449/Egypt/Society/Ahram-Canadian-University-achieves-new-milestone-i.aspx
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 47,Египет,Эль-Аламейн,Alamein International University (AIU),جامعة العلمين الدولية,Классический,Государственный национальный (некоммерческий),"• Pharmacy
 • Biomedical Engineering
 • Artificial Intelligence & Cyber Security
 • Law
 • Tourism
-• Mass Media","New Alamein City, Matrouh Governorate, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://aiu.edu.eg,,President,,,,0,,,,,,,0,3,,низкая,"• Официальный сайт aiu.edu.eg (http/https, www) по-прежнему недоступен из нашей сети (503/таймаут, в т.ч. через WebFetch) — контакты и руководитель не верифицированы; требуется ручная проверка
+• Mass Media","District ED1 on the C4B Road, Southern Eastern Region, New Alamein City, Matrouh Governorate, Egypt",info@Aiu.edu.eg,"Prof. Dr. Essam ElKordi
+President
+Обращение: Dear Prof. ElKordi,",нет ящика: Найти e-mail международного отдела или канцелярии,,info@Aiu.edu.eg,,https://aiu.edu.eg,Prof. Dr. Essam Ahmed ElKordi,President,QS2027: не в рейтинге,THE2027: не в рейтинге,,,0,,,,,,,0,3,да,высокая,"• Официальный сайт aiu.edu.eg (http/https, www) по-прежнему недоступен из нашей сети (503/таймаут, в т.ч. через WebFetch) — контакты и руководитель не верифицированы; требуется ручная проверка
 • По Википедии и поисковой выдаче (без даты/официального источника) президент — Prof. Dr. Essam Elkordi (عصام الكردي); председатель совета — Dr. Ahmed Mahmoud — не подтверждено, в поля не внесено
 • Вуз активен в международной работе (участие в EAIE 2026, Глазго — по СМИ)
 • Арабское название не сверено с официальным сайтом
-• Перепроверка: Сайт недоступен; данные не изменены (президент Essam Elkordi — только по вторичным источникам)","• Https://www.timeshighereducation.com/world-university-rankings/alamein-international-university
-• Https://en.wikipedia.org/wiki/Alamein_International_University",2026-10-05,
+• Перепроверка: Сайт недоступен; данные не изменены (президент Essam Elkordi — только по вторичным источникам)
+• Ручная проверка: Контакты прочитаны на официальном сайте 05.10.2026 (сессия с агентами). Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено","• Https://www.timeshighereducation.com/world-university-rankings/alamein-international-university
+• Https://en.wikipedia.org/wiki/Alamein_International_University
+https://aiu.edu.eg/aiu-president/
+• Https://aiu.edu.eg/contact-us/
+• Https://aiu.edu.eg/international-collaboration/",2026-10-05,
 48,Египет,Александрия,Alexandria National University,جامعة الإسكندرية الأهلية,Классический,Государственный национальный (некоммерческий),"• Engineering
 • Medicine & Health Sciences
 • Computer Science & AI
@@ -706,10 +821,11 @@
 • Science
 • Agriculture","Alexandria University Campus, Abis, Alexandria, Egypt",info@anu.edu.eg,"ФИО не найдено
 Общая приёмная университета (General Inquiries)
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@anu.edu.eg,+20 122 885 8407,https://anu.edu.eg,Prof. Ahmed Adel Abdel Hakim,President,,,,0,,,,,,,0,3,да,средняя,"• Национальный (ахлия) университет при Alexandria University; руководство — и.о. (Ahmed Adel Abdel Hakim, он же и.о. президента Alexandria University по данным СМИ, сентябрь 2026)
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@anu.edu.eg,+20 122 885 8407,https://anu.edu.eg,Prof. Ahmed Adel Abdel Hakim,President,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,средняя,"• Национальный (ахлия) университет при Alexandria University; руководство — и.о. (Ahmed Adel Abdel Hakim, он же и.о. президента Alexandria University по данным СМИ, сентябрь 2026)
 • Спутниковой активности не найдено
 • Сайт anu.edu.eg доступен (04.10.2026): страница «Meet The President» называет Prof. Dr. Ahmed Adel Abdel Hakim президентом; контакты (адрес, info@anu.edu.eg, +201228858407) — на странице Contact; страницы без даты
-• Перепроверка: Сайт открылся 04.10.2026: президент, адрес, e-mail info@anu.edu.eg подтверждены, добавлен телефон +20 122 885 8407 (страницы без даты)","• Https://anu.edu.eg/en/contact
+• Перепроверка: Сайт открылся 04.10.2026: президент, адрес, e-mail info@anu.edu.eg подтверждены, добавлен телефон +20 122 885 8407 (страницы без даты)
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://anu.edu.eg/en/contact
 • Https://www.dostor.org/5708804
 • Https://www.youm7.com/story/2026/9/20/7552597
 • Https://anu.edu.eg/en/president
@@ -717,12 +833,14 @@
 49,Египет,Эль-Ариш,Arish University,جامعة العريش,Классический,Государственный (Минвысшобразования Египта),,"Al-Arish, North Sinai Governorate, Egypt",info@aru.edu.eg,"Prof. Ayman Abdel Meguid El-Shebeiny
 Президент университета
 Общий ящик университета (General inbox)
-Обращение: Dear Prof. El-Shebeiny,",ящик общий,,info@aru.edu.eg,+20 68 3320523,https://aru.edu.eg,Prof. Ayman Abdel Meguid El-Shebeiny,President,,,,0,,,,,,,0,3,да,средняя,"• Имя президента (أيمن عبد المجيد الشبيني) — со страницы «Слово президента» без даты; латинская транслитерация условная — сверить
+Обращение: Dear Prof. El-Shebeiny,",ящик общий,,info@aru.edu.eg,+20 68 3320523,https://aru.edu.eg,Prof. Ayman Abdel Meguid El-Shebeiny,President,QS2027: не в рейтинге,THE2027: Reporter,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,средняя,"• Имя президента (أيمن عبد المجيد الشبيني) — со страницы «Слово президента» без даты; латинская транслитерация условная — сверить
 • Полный почтовый адрес на сайте не указан (только «Эль-Ариш, Северный Синай»); отдельного e-mail международного отдела нет
 • Космическая активность поиском не проверялась (лимит поиска исчерпан); в nanosats.csv спутников нет
-• В THE 2027 — статус Reporter (без ранга)","• Https://aru.edu.eg/ar
+• В THE 2027 — статус Reporter (без ранга)
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://aru.edu.eg/ar
 • Https://aru.edu.eg/ar/contact
-• Https://aru.edu.eg/ar/page/head-word",2026-10-05,
+• Https://aru.edu.eg/ar/page/head-word
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 50,Египет,Эль-Обур,Benha National University (BNU),جامعة بنها الأهلية,Классический,Государственный национальный (некоммерческий),"• Medicine
 • Dentistry
 • Physical Therapy
@@ -731,20 +849,23 @@
 • Applied Health Sciences Technology","Entertainment District, Main El Obour Axis, El Obour City, Qalyubia Governorate, Egypt",info@bnu.edu.eg,"Prof. Tamer Samir Mahmoud
 Президент университета
 Общий ящик университета (General Inquiries)
-Обращение: Dear Prof. Mahmoud,",ящик общий,,info@bnu.edu.eg,+20 120 522 3222,https://bnu.edu.eg,Prof. Tamer Samir Mahmoud,President,,THE2027 Reporter (unranked),,0,,,,,,,0,3,да,средняя,"• Национальный (ахлия) некоммерческий университет при Benha University, создан указом президента №369 от 2022 г.; 10 факультетов
+Обращение: Dear Prof. Mahmoud,",ящик общий,,info@bnu.edu.eg,+20 120 522 3222,https://bnu.edu.eg,Prof. Tamer Samir Mahmoud,President,QS2027: не в рейтинге,THE2027: Reporter,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,средняя,"• Национальный (ахлия) некоммерческий университет при Benha University, создан указом президента №369 от 2022 г.; 10 факультетов
 • В THE2027 только в статусе Reporter (без ранга)
 • Опубликован только мобильный номер; международного отдела/e-mail нет — писать на info@bnu.edu.eg
-• Космической активности на сайте не найдено (поисковая проверка не выполнена — исчерпана квота поиска)","• Https://bnu.edu.eg/page/about
+• Космической активности на сайте не найдено (поисковая проверка не выполнена — исчерпана квота поиска)
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://bnu.edu.eg/page/about
 • Https://bnu.edu.eg/en/page/academic_leaders
-• Https://bnu.edu.eg/page/contact",2026-10-05,
+• Https://bnu.edu.eg/page/contact
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 51,Египет,Новый Борг-эль-Араб (Александрия),Borg El Arab Technological University,جامعة برج العرب التكنولوجية,Технический / аэрокосмический,,,"New Borg El Arab, Alexandria Governorate, Egypt",contact@batechu.com,"Prof. Dr. Mohamed Morsi El-Gohary
 President, Borg El Arab Technological University
 Общий ящик университета (General inbox)
-Обращение: Dear Professor El-Gohary,",ящик общий,,contact@batechu.com,,https://batechu.com,Prof. Dr. Mohamed Morsi El-Gohary (محمد مرسي الجوهري),President,,,,0,,,,,,,0,3,да,средняя,"• Официальный сайт batechu.com (не в зоне .edu.eg); e-mail contact@batechu.com подтверждён на странице Contact Us; телефон и полный почтовый адрес на сайте не опубликованы
+Обращение: Dear Professor El-Gohary,",ящик общий,,contact@batechu.com,,https://batechu.com,Prof. Dr. Mohamed Morsi El-Gohary (محمد مرسي الجوهري),President,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,средняя,"• Официальный сайт batechu.com (не в зоне .edu.eg); e-mail contact@batechu.com подтверждён на странице Contact Us; телефон и полный почтовый адрес на сайте не опубликованы
 • Президент проф. д-р Мохамед Мурси аль-Гохари — по обращению президента на главной странице официального сайта (подвал © 2026); дата назначения не указана
 • Форма собственности не подтверждена (технологический университет; в Википедии — «National university»)
 • Космическая активность поиском не проверялась (лимит поиска исчерпан); в nanosats.csv спутников нет
-• Перепроверка: 04.10.2026: президент и e-mail подтверждены на официальном сайте batechu.com; телефон и адрес не опубликованы","• Https://batechu.com/
+• Перепроверка: 04.10.2026: президент и e-mail подтверждены на официальном сайте batechu.com; телефон и адрес не опубликованы
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://batechu.com/
 • Https://batechu.com/contact-us
 • Https://en.wikipedia.org/wiki/Borg_El_Arab_Technological_University",2026-10-05,
 52,Египет,Каир,Canadian International College (CIC) – Cairo Campus of Cape Breton University,,Технический / аэрокосмический,Частный,"• Engineering
@@ -753,27 +874,32 @@ President, Borg El Arab Technological University
 • Business Technology
 • Mass Communication","Khaled Ibn El Waleed Street, Services Area #6, South of Police Academy, New Cairo, Cairo 11835, Egypt",Socialmedia@cic-cairo.com,"ФИО не найдено
 Отдел сотрудничества (Collaborations)
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,Socialmedia@cic-cairo.com,Info@cic-cairo.com,16242 (hotline),https://www.cic-cairo.edu.eg,Prof. Mamdouh Elkady,President,,THE2027 Reporter (unranked),,0,,,,,,,0,3,да,средняя,"• Info@ помечен на сайте как контакт для новых студентов; Socialmedia@cic-cairo.com — указан как контакт 'Collaborations' (сотрудничество)
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,Socialmedia@cic-cairo.com,Info@cic-cairo.com,16242 (hotline),https://www.cic-cairo.edu.eg,Prof. Mamdouh Elkady,President,QS2027: не в рейтинге,THE2027: Reporter,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,средняя,"• Info@ помечен на сайте как контакт для новых студентов; Socialmedia@cic-cairo.com — указан как контакт 'Collaborations' (сотрудничество)
 • Частный колледж (не университет) с канадскими дипломами Cape Breton University; второй кампус — Sheikh Zayed
 • Официальное арабское название на сайте не найдено (встречается 'المعهد الكندى العالى' — возможно, другое юрлицо)
-• Profile_type условный (инженерия/ИТ/бизнес)","• Https://www.cic-cairo.edu.eg/
+• Profile_type условный (инженерия/ИТ/бизнес)
+• Рейтинги: THE: в таблице как «Canadian International College – Cairo Campus of Cape Breton University Canada»; Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://www.cic-cairo.edu.eg/
 • Https://www.cic-cairo.edu.eg/about/
-• Https://www.timeshighereducation.com/world-university-rankings/canadian-international-college-cairo-campus-cape-breton-university-canada",2026-10-05,
+• Https://www.timeshighereducation.com/world-university-rankings/canadian-international-college-cairo-campus-cape-breton-university-canada
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 53,Египет,Новая Минья,Deraya University,جامعة دراية,Медицинский,Частный,"• Pharmacy
 • Dentistry
 • Physical Therapy
 • Business","Deraya Square, New Minya, Minya Governorate, Egypt",student.admission@deraya.edu.eg,"ФИО не найдено
 Приёмная комиссия (Admissions Office)
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,student.admission@deraya.edu.eg,+20 86 2110026,https://deraya.edu.eg,Prof. Sherif Refaat,Acting President,,,,0,,,,,,,0,3,да,средняя,"• THE2027: только статус Reporter (без ранга)
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,student.admission@deraya.edu.eg,+20 86 2110026,https://deraya.edu.eg,Prof. Sherif Refaat,Acting President,QS2027: не в рейтинге,THE2027: Reporter,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,средняя,"• THE2027: только статус Reporter (без ранга)
 • Общий e-mail не опубликован — указан e-mail приёмной комиссии (student.admission@); есть также registrar@deraya.edu.eg; горячая линия 16283
 • Руководитель — исполняющий обязанности президента
-• Профиль медицинский/фармацевтический — низкая релевантность для спутниковой программы","• Https://deraya.edu.eg/
+• Профиль медицинский/фармацевтический — низкая релевантность для спутниковой программы
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://deraya.edu.eg/
 • Https://deraya.edu.eg/?page_id=1853
-• Https://deraya.edu.eg/contact/",2026-10-05,
-54,Египет,Порт-Саид,East Port Said National University,جامعة شرق بورسعيد الأهلية,Другое,Государственный национальный (некоммерческий),,,,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,,,President,,,,0,,,,,,,0,3,,низкая,"• Официальный сайт не найден (epsnu.edu.eg недоступен), лимит веб-поиска исчерпан — все контактные поля требуют ручного заполнения
+• Https://deraya.edu.eg/contact/
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
+54,Египет,Порт-Саид,East Port Said National University,جامعة شرق بورسعيد الأهلية,Другое,Государственный национальный (некоммерческий),,,,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,,,President,QS2027: не в рейтинге,THE2027: не в рейтинге,,,0,,,,,,,0,3,,низкая,"• Официальный сайт не найден (epsnu.edu.eg недоступен), лимит веб-поиска исчерпан — все контактные поля требуют ручного заполнения
 • Национальный (ахлия) университет, созданный при государственном Порт-Саидском университете (по арабской Википедии)
 • Космическая активность не проверялась; в nanosats.csv спутников нет
-• Перепроверка: Домены epsnu.edu.eg недоступны (04.10.2026); на сайте Порт-Саидского университета (psu.edu.eg) ссылки на национальный университет не найдено; данные не изменены",Https://ar.wikipedia.org/wiki/جامعة_شرق_بورسعيد_الأهلية,2026-10-05,
+• Перепроверка: Домены epsnu.edu.eg недоступны (04.10.2026); на сайте Порт-Саидского университета (psu.edu.eg) ссылки на национальный университет не найдено; данные не изменены
+• Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено",Https://ar.wikipedia.org/wiki/جامعة_شرق_بورسعيد_الأهلية,2026-10-05,
 55,Египет,Новая административная столица,Egypt University of Informatics (EUI),جامعة مصر للمعلوماتية,Технический / аэрокосмический,Государственный национальный (некоммерческий),"• Computing and Information Sciences
 • Engineering
 • Business Informatics
@@ -781,34 +907,39 @@ President, Borg El Arab Technological University
 • Artificial Intelligence","Knowledge City, New Administrative Capital, Egypt",contact@eui.edu.eg,"Prof. Ahmed Mohamed Hamad
 Исполняющий обязанности президента университета
 Общий ящик университета (General Inquiries)
-Обращение: Dear Prof. Hamad,",ящик общий,,contact@eui.edu.eg,+20 103 008 0940,https://eui.edu.eg,Prof. Ahmed Mohamed Hamad,Acting President,,THE2027 Reporter (unranked),,0,,,,,,,0,3,да,средняя,"• Создан Министерством связи и ИТ совместно с Минвысшобразования (начал работу в 2021/22); форма собственности указана как национальный некоммерческий — уточнить
+Обращение: Dear Prof. Hamad,",ящик общий,,contact@eui.edu.eg,+20 103 008 0940,https://eui.edu.eg,Prof. Ahmed Mohamed Hamad,Acting President,QS2027: не в рейтинге,THE2027: Reporter,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,средняя,"• Создан Министерством связи и ИТ совместно с Минвысшобразования (начал работу в 2021/22); форма собственности указана как национальный некоммерческий — уточнить
 • Prof. Ahmed Mohamed Hamad — исполняющий обязанности президента; основатель-президент — Prof. Reem Bahgat
 • Опубликованы только телефоны приёмной комиссии (+20 103 008 0940 / +20 103 009 0509)
 • Раздел International Relations есть, но отдельного e-mail нет — писать на contact@eui.edu.eg
-• Космической активности на сайте не найдено (поисковая проверка не выполнена — исчерпана квота поиска)","• Https://eui.edu.eg/
+• Космической активности на сайте не найдено (поисковая проверка не выполнена — исчерпана квота поиска)
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://eui.edu.eg/
 • Https://eui.edu.eg/who-we-are
 • Https://eui.edu.eg/top-management
-• Https://eui.edu.eg/contact-us",2026-10-05,
+• Https://eui.edu.eg/contact-us
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 56,Египет,Каир,Egyptian Chinese University,الجامعة المصرية الصينية,Другое,Частный,"• Engineering & Technology
 • Pharmacy & Drug Technology
 • Physical Therapy
-• Economics & International Trade","Gesr El Suez Street (behind El-Tagneed Bridge), Cairo, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://www.ecu.edu.eg,Prof. Dr. Rasha El-Kholy,President,,,,0,,,,,,,0,3,,низкая,"• Официальный сайт ecu.edu.eg блокирует автоматический доступ (403, Cloudflare, повторно 04.10.2026); e-mail и телефон не найдены — найти вручную
+• Economics & International Trade","Gesr El Suez Street (behind El-Tagneed Bridge), Cairo, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://www.ecu.edu.eg,Prof. Dr. Rasha El-Kholy,President,QS2027: не в рейтинге,"THE2027: Reporter (в списке, без места)",,,0,,,,,,,0,3,,низкая,"• Официальный сайт ecu.edu.eg блокирует автоматический доступ (403, Cloudflare, повторно 04.10.2026); e-mail и телефон не найдены — найти вручную
 • Президент Prof. Dr. Rasha El-Kholy — по поисковой выдаче официальных страниц ECU (University President’s Message) и интервью на портале Belt and Road; дата назначения не установлена (предыдущий президент Ashraf El-Shihy, 2017–2023) — перепроверить
 • Адрес и профиль — только по арабской Википедии
 • Космическая активность поиском не проверялась; в nanosats.csv спутников нет
 • В THE 2027 — статус Reporter (без ранга)
-• Перепроверка: Сайт ecu.edu.eg по-прежнему 403 (Cloudflare); президент проф. Rasha El-Kholy внесена по выдаче официальных страниц ECU и портала Belt and Road (дата не установлена) — контакты не найдены","• Https://ar.wikipedia.org/wiki/الجامعة_المصرية_الصينية
+• Перепроверка: Сайт ecu.edu.eg по-прежнему 403 (Cloudflare); президент проф. Rasha El-Kholy внесена по выдаче официальных страниц ECU и портала Belt and Road (дата не установлена) — контакты не найдены
+• Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено","• Https://ar.wikipedia.org/wiki/الجامعة_المصرية_الصينية
 • Https://ecu.edu.eg/about-ecu/university-presidents-message/ (snippet)",2026-10-05,
 57,Египет,Каир,Elsewedy University of Technology (SUTech) – Polytechnic of Egypt,,Технический / аэрокосмический,Частный,"• Engineering Technology
 • Applied Technology
 • Arts & Design Technology
 • Smart Business Technology","Km 51, Cairo – Ismailia Road, Cairo, Egypt",info@sut.edu.eg,"ФИО не найдено
 Общая приёмная университета
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@sut.edu.eg,+20 10 70919636; +20 10 70966547 (hotline 15755),https://sut.edu.eg,Dr. Ahmed Hassan Yousef,President,,THE2027 Reporter (unranked),,0,,,,,,,0,3,да,средняя,"• Первый политехнический университет Египта (B.Tech), связан с группой Elsewedy Electric
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@sut.edu.eg,+20 10 70919636; +20 10 70966547 (hotline 15755),https://sut.edu.eg,Dr. Ahmed Hassan Yousef,President,QS2027: не в рейтинге,THE2027: Reporter,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,средняя,"• Первый политехнический университет Египта (B.Tech), связан с группой Elsewedy Electric
 • Арабское официальное название на сайте не найдено
-• Спутников не найдено","• Https://sut.edu.eg/
+• Спутников не найдено
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://sut.edu.eg/
 • Https://sut.edu.eg/about-sutech/president/
-• Https://sut.edu.eg/contact-us/",2026-10-05,
+• Https://sut.edu.eg/contact-us/
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 58,Египет,Каир,Heliopolis University,جامعة هليوبوليس,Другое,Частный,"• Engineering
 • Pharmacy
 • Business & Economics
@@ -816,23 +947,26 @@ President, Borg El Arab Technological University
 • Organic Agriculture
 • Physical Therapy",,iro@hu.edu.eg,"ФИО не найдено
 Управление международных связей (International Relations Office)
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,iro@hu.edu.eg,admission@hu.edu.eg,16418 (hotline),https://hu.edu.eg,Prof. Dr. Gouda Helal,President,,,,0,,,,,,,0,3,да,средняя,"• Частный университет устойчивого развития (основан при SEKEM, председатель попечительского совета — Хельми Абулейш)
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,iro@hu.edu.eg,admission@hu.edu.eg,16418 (hotline),https://hu.edu.eg,Prof. Dr. Gouda Helal,President,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,средняя,"• Частный университет устойчивого развития (основан при SEKEM, председатель попечительского совета — Хельми Абулейш)
 • Общий ящик опубликован только для приёма (admission@hu.edu.eg) — иного общего адреса нет; телефон — короткая горячая линия 16418
 • Почтовый адрес на сайте не найден; руководитель международного отдела (IRO) не указан
-• Космическая активность поиском не проверялась (лимит поиска исчерпан); в nanosats.csv спутников нет","• Https://hu.edu.eg/
+• Космическая активность поиском не проверялась (лимит поиска исчерпан); в nanosats.csv спутников нет
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://hu.edu.eg/
 • Https://hu.edu.eg/about-us/
 • Https://hu.edu.eg/heliopolis-university-international-relations/",2026-10-05,
-59,Египет,Каир,Helwan National University (HNU),جامعة حلوان الأهلية,Классический,Государственный национальный (некоммерческий),,"Helwan, Cairo Governorate, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://hnu.edu.eg,,President,,,,0,,,,,,,0,3,,низкая,"• Официальный сайт hnu.edu.eg недоступен (503 / сброс соединения, проверка 04.10.2026) — руководство и контакты HNU НЕ проверены
+59,Египет,Каир,Helwan National University (HNU),جامعة حلوان الأهلية,Классический,Государственный национальный (некоммерческий),,"Helwan, Cairo Governorate, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://hnu.edu.eg,,President,QS2027: не в рейтинге,THE2027: не в рейтинге,,,0,,,,,,,0,3,,низкая,"• Официальный сайт hnu.edu.eg недоступен (503 / сброс соединения, проверка 04.10.2026) — руководство и контакты HNU НЕ проверены
 • Национальный (ахлия) некоммерческий университет, выделен из Helwan University; материнский вуз переименован в Capital University (جامعة العاصمة, capu.edu.eg). На capu.edu.eg (новость 30.09.2026) подтверждено: президент Capital University — проф. Эль-Сайед Кандиль, он курирует проекты HNU (учебная больница HNU); генеральный секретарь (أمين) HNU — Сайед Атта. Имя президента HNU не найдено
 • Возможный канал связи — Офис международных отношений Capital University (capu.edu.eg): директор проф. Мохамед Шими, iroffice@hq.helwan.edu.eg, тел. +20 2 2556 9067 / +20 2 2555 5021 (это контакты материнского вуза, не HNU)
 • Космической активности не проверено
-• Перепроверка: Сайт hnu.edu.eg недоступен; по capu.edu.eg уточнены связь с Capital University и контакты его международного офиса, руководитель HNU не найден","• Https://www.wikidata.org/wiki/Q105600196
+• Перепроверка: Сайт hnu.edu.eg недоступен; по capu.edu.eg уточнены связь с Capital University и контакты его международного офиса, руководитель HNU не найден
+• Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено","• Https://www.wikidata.org/wiki/Q105600196
 • Https://ar.wikipedia.org/wiki/جامعة_حلوان_الأهلية
 • Https://www.capu.edu.eg/index.php/ar/
 • Https://capu.edu.eg/index.php/ar/about-ar/agreements-and-partnerships/office-of-international-relations",2026-10-05,
-60,Египет,Хургада,Hurghada University,جامعة الغردقة,Классический,Государственный (Минвысшобразования Египта),,,,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,,,President,,,,0,,,,,,,0,3,,низкая,"• Официальный сайт не найден/недоступен; веб-поиск исчерпан — все контакты требуют ручной проверки
+60,Египет,Хургада,Hurghada University,جامعة الغردقة,Классический,Государственный (Минвысшобразования Египта),,,,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,,,President,QS2027: не в рейтинге,THE2027: не в рейтинге,,,0,,,,,,,0,3,,низкая,"• Официальный сайт не найден/недоступен; веб-поиск исчерпан — все контакты требуют ручной проверки
 • Создан в 2020–2021 на базе филиала South Valley University в Хургаде (по арабской Википедии)
-• Перепроверка: Официальный домен не найден (варианты hurghada.edu.eg, hurghadauniv.edu.eg и др. недоступны); сайт Минвысобразования (mohesr.gov.eg, 30.08.2025) подтверждает существование вуза (утверждение фирменного стиля Хургадского университета Высшим советом университетов), но руководителя и контактов не даёт; данные не изменены",Https://ar.wikipedia.org/wiki/جامعة_الغردقة,2026-10-05,
+• Перепроверка: Официальный домен не найден (варианты hurghada.edu.eg, hurghadauniv.edu.eg и др. недоступны); сайт Минвысобразования (mohesr.gov.eg, 30.08.2025) подтверждает существование вуза (утверждение фирменного стиля Хургадского университета Высшим советом университетов), но руководителя и контактов не даёт; данные не изменены
+• Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено",Https://ar.wikipedia.org/wiki/جامعة_الغردقة,2026-10-05,
 61,Египет,Кафр-эш-Шейх,Kafrelsheikh University,جامعة كفر الشيخ,Классический,Государственный (Минвысшобразования Египта),"• Agriculture
 • Veterinary Medicine
 • Medicine
@@ -841,12 +975,14 @@ President, Borg El Arab Technological University
 • Education","El-Geish Street, Kafrelsheikh, Egypt",president@kfs.edu.eg,"Prof. Yehia Zakaria Ahmed Eid
 Президент университета
 Офис президента университета
-Обращение: Dear Prof. Eid,",ящик общий,,president@kfs.edu.eg,+20 47 3109590; +20 47 3109591,https://www.kfs.edu.eg,Prof. Yehia Zakaria Ahmed Eid,President,,,,0,,,,,,,0,3,да,средняя,"• Отдельного e-mail международного офиса нет; президентский e-mail указан как основной контакт
+Обращение: Dear Prof. Eid,",ящик общий,,president@kfs.edu.eg,+20 47 3109590; +20 47 3109591,https://www.kfs.edu.eg,Prof. Yehia Zakaria Ahmed Eid,President,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,1605,0,,,,,,,0,3,да,средняя,"• Отдельного e-mail международного офиса нет; президентский e-mail указан как основной контакт
 • Директор Управления международных связей — Prof. Reda Abdel-Monsef Ahmed (أ.د. رضا عبدالمنصف أحمد), дата страницы не указана — можно поставить в копию через президента
-• Main_fields — по типичному профилю; на сайте детальный список факультетов не сверялся","• Https://www.kfs.edu.eg/
+• Main_fields — по типичному профилю; на сайте детальный список факультетов не сверялся
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://www.kfs.edu.eg/
 • Http://www.kfs.edu.eg/interoffice/
 • Http://www.kfs.edu.eg/interoffice/display.aspx?topic=100438
-• Https://www.timeshighereducation.com/world-university-rankings/kafrelsheikh-university",2026-10-05,
+• Https://www.timeshighereducation.com/world-university-rankings/kafrelsheikh-university
+https://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",2026-10-05,
 62,Египет,Рас-Судр (Южный Синай),King Salman International University,جامعة الملك سلمان الدولية,Другое,Государственный национальный (некоммерческий),"• Engineering
 • Computer Science & AI
 • Medicine & Health Sciences
@@ -854,38 +990,44 @@ President, Borg El Arab Technological University
 • Business
 • Arts & Design","Obour Street, Ras Sudr, South Sinai Governorate, Egypt (campuses also in El Tor and Sharm El Sheikh)",info@ksiu.edu.eg,"ФИО не найдено
 Общая приёмная университета (General Inquiries)
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@ksiu.edu.eg,,https://ksiu.edu.eg,Prof. Ashraf S. Hussein,President,,,,0,,,,,,,0,3,да,низкая,"• THE2027: только статус Reporter (без ранга)
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@ksiu.edu.eg,+20 16949 (hotline),https://ksiu.edu.eg,Prof. Ashraf S. Hussein,President,QS2027: не в рейтинге,"THE2027: Reporter (в списке, без места)",,,0,,,,,,,0,3,да,высокая,"• THE2027: только статус Reporter (без ранга)
 • Сайт ksiu.edu.eg недоступен (503); данные из поисковых выдержек официального сайта, дата не подтверждена
 • Персональный e-mail президента по выдержке: ashraf@ksiu.edu.eg; горячая линия 16949
 • Спутниковой активности не найдено
-• Перепроверка: 04.10.2026: ksiu.edu.eg недоступен (ошибка TLS-цепочки, en.-поддомен — 502); по поиску президент проф. Ashraf Hussein указан на сайте — данные не изменены","• Https://ksiu.edu.eg/
+• Перепроверка: 04.10.2026: ksiu.edu.eg недоступен (ошибка TLS-цепочки, en.-поддомен — 502); по поиску президент проф. Ashraf Hussein указан на сайте — данные не изменены
+• Ручная проверка: Контакты прочитаны на официальном сайте 05.10.2026 (сессия с агентами). Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено","• Https://ksiu.edu.eg/
 • Https://ksiu.edu.eg/contact/
-• Https://ksiu.edu.eg/teams/prof-ashraf-s-hussein/",2026-10-05,
+• Https://ksiu.edu.eg/teams/prof-ashraf-s-hussein/
+https://ksiu.edu.eg/contact-information/
+• Https://ksiu.edu.eg/about-university/",2026-10-05,
 63,Египет,Мансура,Mansoura National University (MNU),جامعة المنصورة الأهلية,Классический,Государственный национальный (некоммерческий),"• Medicine
 • Oral and Dental Medicine
 • Clinical Pharmacy
 • Engineering
-• Computer Science","International Coastal Road, New Mansoura City, Dakahlia Governorate, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://www.mansnu.edu.eg,,President,,THE2027 Reporter (unranked),,0,,,,,,,0,3,,низкая,"• Официальный сайт mansnu.edu.eg недоступен (503 / блокировка прокси); поисковая квота исчерпана — руководство и контакты НЕ проверены
+• Computer Science","International Coastal Road, New Mansoura City, Dakahlia Governorate, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://www.mansnu.edu.eg,,President,QS2027: не в рейтинге,THE2027 Reporter (unranked),,,0,,,,,,,0,3,,низкая,"• Официальный сайт mansnu.edu.eg недоступен (503 / блокировка прокси); поисковая квота исчерпана — руководство и контакты НЕ проверены
 • Национальный (ахлия) некоммерческий университет при Mansoura University (кампус 42 федданa в Новой Мансуре); обычно возглавляется президентом Mansoura University — уточнить
 • Перечень факультетов частичный (по арабской Википедии)
 • Космической активности не проверено
-• Перепроверка: Сайт mansnu.edu.eg (www и без www) недоступен — таймаут через curl и reader-сервис 04.10.2026; данные не изменены","• Https://www.wikidata.org/wiki/Q114817413
+• Перепроверка: Сайт mansnu.edu.eg (www и без www) недоступен — таймаут через curl и reader-сервис 04.10.2026; данные не изменены
+• Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено","• Https://www.wikidata.org/wiki/Q114817413
 • Https://ar.wikipedia.org/wiki/جامعة_المنصورة_الأهلية",2026-10-05,
 64,Египет,Мерса-Матрух,Matrouh University,جامعة مطروح,Классический,Государственный (Минвысшобразования Египта),"• Agriculture & Desert Studies
 • Education
 • Nursing
 • Physical Education
 • Computers & Information
-• Tourism","Matrouh University, New University Campus, Km 9, Marsa Matrouh, Matrouh Governorate, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,+20 46 4948489,https://www.mau.edu.eg,Prof. Amr Ahmed El-Masry,President,,,,0,,,,,,,0,3,,средняя,"• Сайт mau.edu.eg (Blazor, рендер JS) открыт через reader-сервис 04.10.2026: на сайте нет e-mail и телефонов (в т.ч. на странице International Relations) — официальный общий и международный e-mail не найдены (в каталоге WIPO только личный адрес сотрудника)
+• Tourism","Matrouh University, New University Campus, Km 9, Marsa Matrouh, Matrouh Governorate, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,+20 46 4948489,https://www.mau.edu.eg,Prof. Amr Ahmed El-Masry,President,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,,средняя,"• Сайт mau.edu.eg (Blazor, рендер JS) открыт через reader-сервис 04.10.2026: на сайте нет e-mail и телефонов (в т.ч. на странице International Relations) — официальный общий и международный e-mail не найдены (в каталоге WIPO только личный адрес сотрудника)
 • Президент назван «President» (новость 01.10.2026) и «Acting President» (сентябрь 2025/2026) — статус и.о. мог измениться после конкурса (собеседования ноябрь 2025)
 • Телефон +20 46 4948489 взят ранее из стороннего источника, на официальном сайте не подтверждён. Генеральный секретарь — Walid Yahya
 • Спутниковой активности не найдено
-• Перепроверка: Президент Prof. Amr Ahmed El-Masry и адрес кампуса (Km 9) подтверждены на mau.edu.eg 04.10.2026 (новость от 01.10.2026); e-mail на сайте не опубликован; адрес исправлен (было «Km 4»)","• Https://www.maspero.eg/our-reporters/2026/09/17/990072/
+• Перепроверка: Президент Prof. Amr Ahmed El-Masry и адрес кампуса (Km 9) подтверждены на mau.edu.eg 04.10.2026 (новость от 01.10.2026); e-mail на сайте не опубликован; адрес исправлен (было «Km 4»)
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://www.maspero.eg/our-reporters/2026/09/17/990072/
 • Https://www.wipo.int/tisc/en/search/details.jsp?id=11055",2026-10-05,
-65,Египет,Менуфия,Menoufia National University,,Классический,Государственный национальный (некоммерческий),,"70 KM Alexandria Agricultural Road, Menoufia Governorate, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://mnu.menofia.education,,President,,THE2027 Reporter (unranked),,0,,,,,,,0,3,,низкая,"• Официальный сайт недоступен из нашей сети (503/таймаут), поиск исчерпан — контакты и руководитель не верифицированы; требуется ручная проверка
+65,Египет,Менуфия,Menoufia National University,,Классический,Государственный национальный (некоммерческий),,"70 KM Alexandria Agricultural Road, Menoufia Governorate, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://mnu.menofia.education,,President,QS2027: не в рейтинге,THE2027 Reporter (unranked),,,0,,,,,,,0,3,,низкая,"• Официальный сайт недоступен из нашей сети (503/таймаут), поиск исчерпан — контакты и руководитель не верифицированы; требуется ручная проверка
 • Описание в профиле THE скопировано с государственного Menoufia University — не использовать его для профиля
 • Национальный (ахлия) университет при Menoufia University — проверить точное название и руководство
-• Перепроверка: Сайты mnu.menofia.education, mnu.edu.eg и menofia.edu.eg недоступны (04.10.2026, сброс соединения); данные не изменены",Https://www.timeshighereducation.com/world-university-rankings/menoufia-national-university,2026-10-05,
+• Перепроверка: Сайты mnu.menofia.education, mnu.edu.eg и menofia.edu.eg недоступны (04.10.2026, сброс соединения); данные не изменены
+• Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено",Https://www.timeshighereducation.com/world-university-rankings/menoufia-national-university,2026-10-05,
 66,Египет,Каир,Misr International University,جامعة مصر الدولية,Другое,Частный,"• Pharmacy
 • Oral & Dental Medicine
 • Engineering (Architecture, Electronics)
@@ -893,13 +1035,15 @@ President, Borg El Arab Technological University
 • Business Administration
 • Mass Communication","KM 28 Cairo–Ismailia Road, Ahmed Orabi District, Cairo, Egypt",miu@miuegypt.edu.eg,"ФИО не найдено
 Общая приёмная университета (General Inquiries)
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,miu@miuegypt.edu.eg,,https://www.miuegypt.edu.eg,Prof. Mahasen Farghaly,Acting President,,,,0,,,,,,,0,3,да,высокая,"• THE2027: только статус Reporter (без ранга)
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,miu@miuegypt.edu.eg,,https://www.miuegypt.edu.eg,Prof. Mahasen Farghaly,Acting President,QS2027: не в рейтинге,THE2027: Reporter,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,высокая,"• THE2027: только статус Reporter (без ранга)
 • Руководитель — и.о. президента (июль 2026); председатель попечительского совета — Mohamed El Rashidi
 • Есть раздел International office, но отдельный e-mail не опубликован; горячая линия 19648
-• Спутниковой активности не найдено","• Https://www.miuegypt.edu.eg/
+• Спутниковой активности не найдено
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://www.miuegypt.edu.eg/
 • Https://www.miuegypt.edu.eg/contact-us/
 • Https://www.miuegypt.edu.eg/international-partners/
-• Https://www.miuegypt.edu.eg/computer-science-graduation-projects-expo-2026/",2026-10-05,
+• Https://www.miuegypt.edu.eg/computer-science-graduation-projects-expo-2026/
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 67,Египет,Каир,Modern University for Technology and Information (MTI),الجامعة الحديثة للتكنولوجيا والمعلومات,Другое,Частный,"• Engineering
 • Computer Science
 • Management & Business Intelligence
@@ -907,10 +1051,11 @@ President, Borg El Arab Technological University
 • Pharmacy
 • Physical Therapy","El-Hadaba El-Wosta, 5th District, Mokattam, Cairo, Egypt",Info@mti.edu.eg,"ФИО не найдено
 Общая приёмная университета (General Inquiries)
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,Info@mti.edu.eg,,https://www.mti.edu.eg,Prof. Olfat Kamel,President,,,,0,,,,,,,0,3,да,средняя,"• Президент указан на текущем арабском портале (послание президента), но англ. страница датирована 2015 г. — актуальность желательно подтвердить
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,Info@mti.edu.eg,,https://www.mti.edu.eg,Prof. Olfat Kamel,President,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,средняя,"• Президент указан на текущем арабском портале (послание президента), но англ. страница датирована 2015 г. — актуальность желательно подтвердить
 • Телефон: только горячая линия 19041
 • E-mail международного отдела не опубликован
-• Спутниковой активности не найдено","• Https://mti.edu.eg/default1.aspx
+• Спутниковой активности не найдено
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://mti.edu.eg/default1.aspx
 • Https://mti.edu.eg/629748
 • Https://mti.edu.eg/president
 • Https://ar.mti.edu.eg/default.aspx",2026-10-05,
@@ -919,17 +1064,19 @@ President, Borg El Arab Technological University
 • Pharmacy
 • Engineering
 • Computer Science
-• Business Administration","Mror Road, East Nile (Sharq El Nil), Beni Suef, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,+20 19206,https://www.nub.edu.eg,Prof. Hossam El-Malahy,President,,,,0,,,,,,,0,3,,средняя,"• E-mail на сайте не опубликован (только веб-форма); телефон — короткий номер 19206, факс +20 82 2284688
+• Business Administration","Mror Road, East Nile (Sharq El Nil), Beni Suef, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,+20 19206,https://www.nub.edu.eg,Prof. Hossam El-Malahy,President,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,,средняя,"• E-mail на сайте не опубликован (только веб-форма); телефон — короткий номер 19206, факс +20 82 2284688
 • Президент Prof. Hossam El-Malahy — советник Президента Египта по высшему образованию и науке, член Сената; одновременно президент Badya University — влиятельный адресат
 • Космической активности на сайте не найдено (поисковая проверка не выполнена — исчерпана квота поиска); в QS2027/THE2027 не найден
-• Арабское название (جامعة النهضة) не подтверждено на сайте","• Https://www.nub.edu.eg/
+• Арабское название (جامعة النهضة) не подтверждено на сайте
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://www.nub.edu.eg/
 • Https://www.nub.edu.eg/about/office-of-the-president/
 • Https://www.nub.edu.eg/contact/",2026-10-05,
-69,Египет,Каир,New Cairo Technological University (NCTU),جامعة القاهرة الجديدة التكنولوجية,Технический / аэрокосмический,Государственный (Минвысшобразования Египта),Industry and Energy Technology,"New Cairo, Cairo Governorate, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://nctu.edu.eg,Dr. Tarek Abdel Malak (د. طارق عبد الملاك),President,,,,0,,,,,,,0,3,,низкая,"• Государственный технологический университет (прикладное технологическое образование); подтверждён только факультет технологий промышленности и энергетики (по арабской Википедии)
+69,Египет,Каир,New Cairo Technological University (NCTU),جامعة القاهرة الجديدة التكنولوجية,Технический / аэрокосмический,Государственный (Минвысшобразования Египта),Industry and Energy Technology,"New Cairo, Cairo Governorate, Egypt",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://nctu.edu.eg,Dr. Tarek Abdel Malak (د. طارق عبد الملاك),President,QS2027: не в рейтинге,THE2027: не в рейтинге,,,0,,,,,,,0,3,,низкая,"• Государственный технологический университет (прикладное технологическое образование); подтверждён только факультет технологий промышленности и энергетики (по арабской Википедии)
 • Космической активности не проверено
 • Сайт nctu.edu.eg по-прежнему недоступен (04.10.2026) — контакты не найдены
 • Президент д-р Тарек Абдель Малак (طارق عبد الملاك) — по статье Masrawy от 18.09.2026 (выпуск 2025/2026); на официальном сайте не проверен
-• Перепроверка: Сайт недоступен; по СМИ 09.2026 добавлен президент д-р Тарек Абдель Малак; контактов по-прежнему нет","• Https://www.wikidata.org/wiki/Q100257877
+• Перепроверка: Сайт недоступен; по СМИ 09.2026 добавлен президент д-р Тарек Абдель Малак; контактов по-прежнему нет
+• Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено","• Https://www.wikidata.org/wiki/Q100257877
 • Https://ar.wikipedia.org/wiki/جامعة_القاهرة_الجديدة_التكنولوجية",2026-10-05,
 70,Египет,Гиза,Newgiza University (NGU),جامعة نيو جيزة,Классический,Частный,"• Medicine
 • Pharmacy
@@ -939,12 +1086,13 @@ President, Borg El Arab Technological University
 • Economics and Political Science
 • Information Technology","New Giza, Km 22 Cairo-Alexandria Desert Road, Giza, Egypt",enrollment@ngu.edu.eg,"ФИО не найдено
 Приёмная комиссия (Enrollment Office)
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,enrollment@ngu.edu.eg,+20 106 829 4242,https://ngu.edu.eg,Prof. A. Sameh Farid,President,,,,0,,,,,,,0,3,да,средняя,"• Общего e-mail / e-mail офиса президента нет; указан ящик приёмной комиссии enrollment@ngu.edu.eg (единственный, кроме careers@) — лучше дополнительно связаться по телефону
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,enrollment@ngu.edu.eg,+20 106 829 4242,https://ngu.edu.eg,Prof. A. Sameh Farid,President,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,средняя,"• Общего e-mail / e-mail офиса президента нет; указан ящик приёмной комиссии enrollment@ngu.edu.eg (единственный, кроме careers@) — лучше дополнительно связаться по телефону
 • Президент-основатель Prof. A. Sameh Farid — бывший министр здравоохранения Египта (2011)
 • Горячая линия 16623; «международный номер» +20 106 829 4242
 • Партнёрства с UCL и King's College London
 • Космической активности на сайте не найдено (поисковая проверка не выполнена — исчерпана квота поиска); в рейтингах QS2027/THE2027 не найден
-• Арабское название (جامعة نيو جيزة) не подтверждено на сайте","• Https://ngu.edu.eg/
+• Арабское название (جامعة نيو جيزة) не подтверждено на сайте
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://ngu.edu.eg/
 • Https://ngu.edu.eg/about-ngu/
 • Https://ngu.edu.eg/contact",2026-10-05,
 71,Египет,Эль-Обур,Obour University for Science & Technology (OUST),جامعة العبور للعلوم والتكنولوجيا,Технический / аэрокосмический,,"• Engineering & Technology
@@ -953,12 +1101,14 @@ President, Borg El Arab Technological University
 • Business & Entrepreneurship","Rd. 21 Cairo–Belbeis, Egypt",info@oust.edu.eg,"Prof. Ramadan El-Domany
 Президент университета
 Общий ящик университета (General inbox)
-Обращение: Dear Prof. El-Domany,",ящик общий,,info@oust.edu.eg,16308 (hotline),https://oust.edu.eg,Prof. Ramadan El-Domany,President,,,,0,,,,,,,0,3,да,средняя,"• Форма собственности на сайте не указана (вероятно частный — не подтверждено), поле оставлено пустым
+Обращение: Dear Prof. El-Domany,",ящик общий,,info@oust.edu.eg,16308 (hotline),https://oust.edu.eg,Prof. Ramadan El-Domany,President,QS2027: не в рейтинге,THE2027: Reporter,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,средняя,"• Форма собственности на сайте не указана (вероятно частный — не подтверждено), поле оставлено пустым
 • На сайте указан только короткий номер горячей линии 16308 (без +20) и адрес «Rd. 21 Cairo-Belbeis» (вероятно, 21-й км шоссе Каир–Бильбейс)
 • Отдельного e-mail международного отдела нет; космическая активность поиском не проверялась (лимит поиска исчерпан)
-• В THE 2027 — статус Reporter (без ранга)","• Https://oust.edu.eg/en
+• В THE 2027 — статус Reporter (без ранга)
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://oust.edu.eg/en
 • Https://oust.edu.eg/en/pages/about-oust
-• Https://oust.edu.eg/en/posts/prof-dr-ramadan-el-domany-university-president-joined-a-tour-with-the-student-welfare-department-to-follow-up-on-student-activities-and-interact-with-students",2026-10-05,
+• Https://oust.edu.eg/en/posts/prof-dr-ramadan-el-domany-university-president-joined-a-tour-with-the-student-welfare-department-to-follow-up-on-student-activities-and-interact-with-students
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 72,Египет,Эль-Ариш,Sinai University,,Классический,Частный,"• Engineering
 • Pharmacy
 • Dentistry
@@ -966,9 +1116,10 @@ President, Borg El Arab Technological University
 • Business Administration
 • Mass Communication","El Arish 3, Arish El Masaid, North Sinai, Egypt (second campus: El Qantara East)",Info@su.edu.eg,"ФИО не найдено
 Общая приёмная университета
-Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,Info@su.edu.eg,,https://www.su.edu.eg,Prof. Gehan Fekry,President,,,,0,,,,,,,0,3,да,средняя,"• Есть Centre for International Cooperation and Foreign Relations (ICFR), но его e-mail/руководитель не найдены
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,Info@su.edu.eg,,https://www.su.edu.eg,Prof. Gehan Fekry,President,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,средняя,"• Есть Centre for International Cooperation and Foreign Relations (ICFR), но его e-mail/руководитель не найдены
 • Два кампуса: Эль-Ариш и Эль-Кантара (Восточная)
-• Арабское официальное название на сайте не сверено","• Https://www.su.edu.eg/
+• Арабское официальное название на сайте не сверено
+• Рейтинги: Национального рейтинга с местами нет: Минвуз/Высший совет университетов Египта собственного рейтинга не публикуют (ориентируются на QS/THE/ARWU и региональный Arab Ranking — исключены)","• Https://www.su.edu.eg/
 • Https://www.su.edu.eg/su_glance/
 • Https://www.su.edu.eg/board_of_trustees/
 • Https://www.timeshighereducation.com/world-university-rankings/sinai-university",2026-10-05,
@@ -978,12 +1129,13 @@ President, Borg El Arab Technological University
 • Health Sciences
 • Engineering","Regional Service Zone, New Assiut City, Assiut Governorate, Egypt",Info@Sphinx.edu.eg,"ФИО не найдено
 Общий ящик университета (General Inquiries)
-Обращение: Dear President,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,Info@Sphinx.edu.eg,"17090 (короткий номер, Египет)",https://sphinx.edu.eg,,President,,THE2027 Reporter (unranked),,0,,,,,,,0,3,да,низкая,"• Частный университет в Новом Асьюте, создан указом президента №36 от 2019 г
+Обращение: Dear President,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,Info@Sphinx.edu.eg,"17090 (короткий номер, Египет)",https://sphinx.edu.eg,,President,QS2027: не в рейтинге,THE2027 Reporter (unranked),,,0,,,,,,,0,3,да,низкая,"• Частный университет в Новом Асьюте, создан указом президента №36 от 2019 г
 • Сайт почти пустой (JS, без страниц руководства/контактов) — президент не установлен; поисковая проверка невозможна (исчерпана квота поиска)
 • Опубликован только короткий номер 17090
 • Международного отдела не найдено; космической активности не найдено
 • Точный почтовый адрес (улица) не опубликован
 • Повторная проверка 04.10.2026: на сайте нет страниц руководства; по поисковой выдаче (СМИ, не официальный источник) и.о. президента — д-р Мансур Каббаш (منصور كباش) — не подтверждено, в поля не внесено
-• Перепроверка: Сайт открылся 04.10.2026: подтверждены только Info@Sphinx.edu.eg, номер 17090 и адрес «Regional service zone, New Assiut»; президент на сайте не указан","• Https://sphinx.edu.eg/en/home/index
+• Перепроверка: Сайт открылся 04.10.2026: подтверждены только Info@Sphinx.edu.eg, номер 17090 и адрес «Regional service zone, New Assiut»; президент на сайте не указан
+• Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено","• Https://sphinx.edu.eg/en/home/index
 • Https://ar.wikipedia.org/wiki/جامعة_سفنكس
 • Https://sphinx.edu.eg/en/home/index",2026-10-05,

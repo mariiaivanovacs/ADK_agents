@@ -18,7 +18,7 @@
   "head_verified_source": "https://www.ku.ac.ae/university-leadership",
   "rank_qs": "QS2027: 147",
   "rank_the": "THE2027: =235",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 4,
   "satellite_names": "MYSAT-1 (2018); MeznSat (2020); DhabiSat / MYSAT-2 (2021); Light-1 (2021)",
   "sats_in_development": "6U CubeSat с собственной экологичной HTP-двигательной установкой (совместно с UAE Space Agency, запуск ожидался к концу 2026)",
@@ -26,21 +26,23 @@
   "space_units": "Khalifa University Space Technology and Innovation Center (KUSTIC); Khalifa University Space Technology and Innovation Lab (KUSTIL); Yahsat Space Lab (YSL); thermal vacuum chamber & cleanroom",
   "agency_partnerships": "UAE Space Agency; Yahsat (Al Yah Satellite Communications); National Space Science Agency of Bahrain (NSSA); JAXA (Light-1 deployment); NYU Abu Dhabi; American University of Ras Al Khaimah (MeznSat)",
   "restricted_list": "",
-  "sources": "https://www.ku.ac.ae/university-leadership; https://www.ku.ac.ae/contact-us; https://www.ku.ac.ae/research-centers/khalifa-university-space-technology-and-innovation-center/impact; https://www.ku.ac.ae/research-centers/khalifa-university-space-technology-and-innovation-group/facilities; https://www.ku.ac.ae/kustil/news; https://satelliteprome.com/news/uae-entities-partner-to-establish-khalifa-university-space-technology-and-innovation-centre/; nanosats.csv",
+  "sources": "https://www.ku.ac.ae/university-leadership; https://www.ku.ac.ae/contact-us; https://www.ku.ac.ae/research-centers/khalifa-university-space-technology-and-innovation-center/impact; https://www.ku.ac.ae/research-centers/khalifa-university-space-technology-and-innovation-group/facilities; https://www.ku.ac.ae/kustil/news; https://satelliteprome.com/news/uae-entities-partner-to-establish-khalifa-university-space-technology-and-innovation-centre/; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "high",
   "notes_ru": [
    "Председатель Попечительского совета — Шейх Хамед бин Заед Аль Нахайян (H.H. Sheikh Hamed bin Zayed Al Nahyan); исполнительный глава — президент Prof. Ebrahim Al Hajri.",
    "Отдельный e-mail международного офиса не опубликован; isso@ku.ac.ae и studyabroad@ku.ac.ae — студенческие службы. Для партнёрства — info@ku.ac.ae; профильный руководитель — Dr. Ashraf Al Najdawi, Vice President, External Relations.",
    "MeznSat формально Masdar Institute (ныне в составе KU) + AURAK; Light-1 — совместно с NYUAD и NSSA (Бахрейн).",
    "Наиболее сильный космический профиль среди вузов ОАЭ — приоритетный партнёр для CubeSat-группировки.",
-   "QS2027 по зеркалу списка QS (qianmu.org, со ссылкой на topuniversities.com)"
+   "QS2027 по зеркалу списка QS (qianmu.org, со ссылкой на topuniversities.com)",
+   "Рейтинги: QS: в таблице как «Khalifa University»; THE: в таблице как «Khalifa University»; Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1. Этот вуз — в Group 1 (Outstanding), места внутри групп нет."
   ],
   "mailbox_owner": "Общий почтовый ящик университета (info@ku.ac.ae)",
   "addressee_name": "Dr. Ashraf Al Najdawi",
   "addressee_title": "Вице-президент по внешним связям (Vice President, External Relations)",
   "salutation": "Dear Dr. Al Najdawi,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "751"
  },
  {
   "country": "United Arab Emirates",
@@ -59,9 +61,9 @@
   "head_title": "Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://www.sharjah.ac.ae/en/Discover-UoS/Senior-Administration",
-  "rank_qs": "QS2027: 283",
+  "rank_qs": "QS2027: =283",
   "rank_the": "THE2027: 301–325",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 2,
   "satellite_names": "Sharjah-Sat-1 (2023); Sharjah-Sat-2 (2026)",
   "sats_in_development": "",
@@ -69,21 +71,23 @@
   "space_units": "Sharjah Academy for Astronomy, Space Sciences and Technology (SAASST)",
   "agency_partnerships": "Innovative Solutions in Space (ISISpace, Нидерланды) — Sharjah-Sat-2; Sharjah Municipality; Sharjah Department of Planning and Survey; Sharjah Electricity, Water and Gas Authority; SpaceX (запуски)",
   "restricted_list": "",
-  "sources": "https://www.sharjah.ac.ae/en/Discover-UoS/Senior-Administration; https://www.sharjah.ac.ae/en/Discover-UoS/Contact-Us; https://www.sharjah.ac.ae/Services/Departments/The-Office-of-International-Relations; https://www.sharjah.ac.ae/News/SAASST-Establishes-S-Band-Ground-Station-for; https://spacetech-gulf.com/2026/04/sharjahsat-2-successfully-launched-strengthening-uaes-earth-observation-capabilities/; https://www.thenationalnews.com/news/uae/2025/12/20/sharjah-mini-satellite-primed-to-boost-disaster-response-begins-final-tests-for-2026-launch/; nanosats.csv",
+  "sources": "https://www.sharjah.ac.ae/en/Discover-UoS/Senior-Administration; https://www.sharjah.ac.ae/en/Discover-UoS/Contact-Us; https://www.sharjah.ac.ae/Services/Departments/The-Office-of-International-Relations; https://www.sharjah.ac.ae/News/SAASST-Establishes-S-Band-Ground-Station-for; https://spacetech-gulf.com/2026/04/sharjahsat-2-successfully-launched-strengthening-uaes-earth-observation-capabilities/; https://www.thenationalnews.com/news/uae/2025/12/20/sharjah-mini-satellite-primed-to-boost-disaster-response-begins-final-tests-for-2026-launch/; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "high",
   "notes_ru": [
    "Президент (учредитель) университета — Шейх д-р Султан бин Мухаммад аль-Касими, правитель Шарджи; исполнительный глава — канцлер Prof. Esameldin Agamy.",
    "Тип собственности указан как «эмират Шарджа» (вне стандартного списка) — университет учреждён правителем Шарджи.",
    "Телефон Office of International Relations: +971 6 505 0529. Действующий директор OIR на сайте не указан (в каталоге 2023–2024 — Dr. Tarek Merabtene, не подтверждено на 2025–2026).",
    "Sharjah-Sat-2 запущен 30.03.2026 (Falcon 9, Transporter-16).",
-   "QS2027 по зеркалу списка QS (qianmu.org, со ссылкой на topuniversities.com)"
+   "QS2027 по зеркалу списка QS (qianmu.org, со ссылкой на topuniversities.com)",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Офис международных связей (Office of International Relations)",
   "addressee_name": "",
   "addressee_title": "Директор Офиса международных связей",
   "salutation": "Dear Director of International Relations,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "793"
  },
  {
   "country": "United Arab Emirates",
@@ -102,9 +106,9 @@
   "head_title": "Vice Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://nyuad.nyu.edu/en/about/leadership-and-people/office-of-the-vice-chancellor.html",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 1,
   "satellite_names": "Light-1 (2021) — полезная нагрузка RAAD (совместно с Khalifa University)",
   "sats_in_development": "",
@@ -112,21 +116,23 @@
   "space_units": "Center for Astrophysics and Space Science (CASS); PhD program in Astrophysics and Space Systems (с 2025)",
   "agency_partnerships": "UAE Space Agency (соглашение 2026 по данным Emirates Mars Mission); Khalifa University; National Space Science Agency of Bahrain (Light-1)",
   "restricted_list": "",
-  "sources": "https://nyuad.nyu.edu/en/about/leadership-and-people/office-of-the-vice-chancellor.html; https://nyuad.nyu.edu/en/research/facilities-and-support/participate-in-research-studies/contacts-and-locations.html; https://nyuad.nyu.edu/en/news/latest-news/science-and-technology/2026/june/nyuad-and-uae-space-agency-cooperation-mars-mission.html; https://nyuad.nyu.edu/en/news/latest-news/science-and-technology/2022/february/cubesat-launch-iss.html; https://www.ku.ac.ae/kustil/news",
+  "sources": "https://nyuad.nyu.edu/en/about/leadership-and-people/office-of-the-vice-chancellor.html; https://nyuad.nyu.edu/en/research/facilities-and-support/participate-in-research-studies/contacts-and-locations.html; https://nyuad.nyu.edu/en/news/latest-news/science-and-technology/2026/june/nyuad-and-uae-space-agency-cooperation-mars-mission.html; https://nyuad.nyu.edu/en/news/latest-news/science-and-technology/2022/february/cubesat-launch-iss.html; https://www.ku.ac.ae/kustil/news\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "Кампус Нью-Йоркского университета (США); NYUAD не ранжируется QS/THE отдельно (рейтинг у NYU в целом).",
    "Prof. Fabio Piano — Vice Chancellor с 06.08.2026 (ранее провост 2010–2020).",
    "Light-1: NYUAD разработал научную нагрузку RAAD, платформу собирал Khalifa University — спутник засчитан как совместный.",
    "Отдельный e-mail международного/партнёрского офиса не найден; использован e-mail офиса вице-канцлера. По поиску: общий nyuad@nyu.edu и тел. +971 2 628 4000 (на открытых страницах не подтверждено).",
-   "Американское юрлицо материнского вуза — возможны ограничения экспортного контроля США при космическом сотрудничестве."
+   "Американское юрлицо материнского вуза — возможны ограничения экспортного контроля США при космическом сотрудничестве.",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1. Этот вуз — в Group 1 (Outstanding), места внутри групп нет."
   ],
   "mailbox_owner": "Офис вице-канцлера (Office of the Vice Chancellor)",
   "addressee_name": "Prof. Fabio Piano",
   "addressee_title": "Вице-канцлер (исполнительный глава NYU Abu Dhabi)",
   "salutation": "Dear Professor Piano,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "1155"
  },
  {
   "country": "United Arab Emirates",
@@ -145,9 +151,9 @@
   "head_title": "President & CEO",
   "party_secretary": "",
   "head_verified_source": "https://hct.ac.ae/en/about-hct/president-ceos-message/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 2,
   "satellite_names": "HCT-SAT 1 (2025); HCT-SAT 2 (2025)",
   "sats_in_development": "",
@@ -155,21 +161,23 @@
   "space_units": "",
   "agency_partnerships": "Mohammed Bin Rashid Space Centre (MBRSC)",
   "restricted_list": "",
-  "sources": "https://hct.ac.ae/en/about-hct/president-ceos-message/; https://hct.ac.ae/en/about-hct/hct-leadership/; https://hct.ac.ae/en/contact-us/; https://db.satnogs.org/satellite/98470/; https://www.khaleejtimes.com/space/uae-made-mbz-sat-to-blast-off-in-january-2025-from-california; nanosats.csv",
+  "sources": "https://hct.ac.ae/en/about-hct/president-ceos-message/; https://hct.ac.ae/en/about-hct/hct-leadership/; https://hct.ac.ae/en/contact-us/; https://db.satnogs.org/satellite/98470/; https://www.khaleejtimes.com/space/uae-made-mbz-sat-to-blast-off-in-january-2025-from-california; nanosats.csv\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "Канцлер — H.E. Dr. Ahmad Belhoul Al Falasi (министр спорта ОАЭ); исполнительный глава — President & CEO Dr. Faisal Alayyan.",
    "HCT-SAT 1/2 — 1U CubeSat, построены студентами HCT совместно с MBRSC (MBRSC — сборка, испытания, запуск и связь). HCT-SAT 1 (Transporter-12, 14.01.2025) — по nanosats.csv сигнала нет; HCT-SAT 2 — 28.11.2025, работает.",
    "Сеть колледжей с кампусами в нескольких эмиратах; на сайте указан только P.O. Box 25026 без эмирата; город (Абу-Даби, центральный офис) — проверить.",
    "Международного офиса/e-mail не найдено; партнёрства ведёт Partnerships Management Department; использован общий communication@hct.ac.ae.",
-   "Телефон — бесплатная линия ОАЭ 800 663428 (из-за рубежа может не работать)."
+   "Телефон — бесплатная линия ОАЭ 800 663428 (из-за рубежа может не работать).",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Общий ящик коммуникаций HCT (communication@hct.ac.ae)",
   "addressee_name": "",
   "addressee_title": "Руководитель управления партнёрствами",
   "salutation": "Dear Director of International Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "2441"
  },
  {
   "country": "United Arab Emirates",
@@ -188,8 +196,8 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://en.wikipedia.org/wiki/Mohamed_bin_Zayed_University_of_Artificial_Intelligence",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -205,7 +213,8 @@
    "По поисковой выдаче страницы mbzuai.ac.ae/about/contact: info@mbzuai.ac.ae, тел. +971 2 811 3333 (не подтверждено открытием страницы).",
    "Председатель Попечительского совета — Khaldoon Khalifa Al Mubarak; президент — Prof. Eric Xing (с 2021).",
    "Космических проектов не найдено; интерес — ИИ для обработки спутниковых данных/автономия бортовых систем.",
-   "Узкопрофильный вуз (только ИИ), profile_type условно technical."
+   "Узкопрофильный вуз (только ИИ), profile_type условно technical.",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Офис президента (Office of the President)",
   "addressee_name": "Prof. Eric Xing",
@@ -233,7 +242,7 @@
   "head_verified_source": "https://www.wscuc.org/institutions/abu-dhabi-university/",
   "rank_qs": "QS2027: 348",
   "rank_the": "THE2027: 301–325",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -241,7 +250,7 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.wscuc.org/institutions/abu-dhabi-university/; https://www.mediaoffice.abudhabi/en/education/hamdan-bin-zayed-chairs-1st-abu-dhabi-university-board-of-trustees-meeting-in-2026/; nanosats.csv",
+  "sources": "https://www.wscuc.org/institutions/abu-dhabi-university/; https://www.mediaoffice.abudhabi/en/education/hamdan-bin-zayed-chairs-1st-abu-dhabi-university-board-of-trustees-meeting-in-2026/; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "Сайт adu.ac.ae рендерится JavaScript — контакты сняты с WSCUC (аккредитатор) и поисковой выдачи.",
@@ -249,14 +258,16 @@
    "Председатель Попечительского совета — шейх Хамдан бин Заед Аль Нахайян; исполнительный глава — канцлер Prof. Ghassan Aouad.",
    "Телефон +971 2 501 5717 — из записи WSCUC (может быть не основной номер).",
    "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено.",
-   "QS2027 по зеркалу списка QS (qianmu.org, со ссылкой на topuniversities.com)"
+   "QS2027 по зеркалу списка QS (qianmu.org, со ссылкой на topuniversities.com)",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Офис международных связей (International Relations Office) — e-mail не подтверждён",
   "addressee_name": "",
   "addressee_title": "Директор офиса международных связей",
   "salutation": "Dear Director of International Partnerships,",
   "match_status": "нет ящика",
-  "match_action": "Найти e-mail международного отдела или канцелярии"
+  "match_action": "Найти e-mail международного отдела или канцелярии",
+  "rank_webometrics": "1747"
  },
  {
   "country": "United Arab Emirates",
@@ -277,7 +288,7 @@
   "head_verified_source": "https://aau.ac.ae/en/about-aau/senior-management",
   "rank_qs": "QS2027: 559",
   "rank_the": "THE2027: 401–450",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -285,21 +296,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://aau.ac.ae/en/contact-us; https://aau.ac.ae/en/about-aau/senior-management; https://aau.ac.ae/en/; nanosats.csv",
+  "sources": "https://aau.ac.ae/en/contact-us; https://aau.ac.ae/en/about-aau/senior-management; https://aau.ac.ae/en/; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "Общий e-mail и e-mail международного офиса на сайте не опубликованы (только формы); формат адресов сотрудников — имя.фамилия@aau.ac.ae.",
    "Не путать со спутником Al Ain Sat-1 (AlAinSat-1) — это проект UAE University (NSSTC), а не Al Ain University.",
    "Абу-Дабийский кампус: тел. +971 2 613 3555.",
    "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено.",
-   "QS2027 по зеркалу списка QS (qianmu.org, со ссылкой на topuniversities.com)"
+   "QS2027 по зеркалу списка QS (qianmu.org, со ссылкой на topuniversities.com)",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Офис президента (President's Office) — e-mail не опубликован",
   "addressee_name": "Prof. Amer Mohammad Jaser Qasem",
   "addressee_title": "Президент университета",
   "salutation": "Dear Professor Qasem,",
   "match_status": "нет ящика",
-  "match_action": "Найти e-mail международного отдела или канцелярии"
+  "match_action": "Найти e-mail международного отдела или канцелярии",
+  "rank_webometrics": "2251"
  },
  {
   "country": "United Arab Emirates",
@@ -318,9 +331,9 @@
   "head_title": "Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://gmu.ac.ae/aboutgmu/office-of-the-chancellor/",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: 1001–1200",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -328,21 +341,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://gmu.ac.ae/contact-us/; https://gmu.ac.ae/aboutgmu/office-of-the-chancellor/; https://gmu.ac.ae/aboutgmu/partner-with-us/; nanosats.csv",
+  "sources": "https://gmu.ac.ae/contact-us/; https://gmu.ac.ae/aboutgmu/office-of-the-chancellor/; https://gmu.ac.ae/aboutgmu/partner-with-us/; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "high",
   "notes_ru": [
    "Частный медицинский университет группы Thumbay (Thumbay Group).",
    "Отдельного e-mail международного офиса нет; есть страница «Regional and International Partners». Использован e-mail офиса канцлера.",
    "Город Аджман указан в русской транскрипции (вне примеров брифа).",
    "Медицинский профиль — для CubeSat-проекта релевантна разве что космическая медицина/биология.",
-   "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено."
+   "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено.",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Офис канцлера (Office of the Chancellor)",
   "addressee_name": "Prof. Manda Venkatramana",
   "addressee_title": "Канцлер университета",
   "salutation": "Dear Professor Venkatramana,",
   "match_status": "ПРОВЕРИТЬ",
-  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",
+  "rank_webometrics": "3309"
  },
  {
   "country": "United Arab Emirates",
@@ -361,7 +376,7 @@
   "head_title": "President & CEO",
   "party_secretary": "",
   "head_verified_source": "https://en.wikipedia.org/wiki/American_University_in_the_Emirates",
-  "rank_qs": "",
+  "rank_qs": "QS2027: не в рейтинге",
   "rank_the": "THE2027: Reporter (unranked)",
   "rank_national": "",
   "satellites_launched": 0,
@@ -380,7 +395,8 @@
    "Председатель Попечительского совета — ген.-майор Ahmed Nasser Al-Raisi (по Википедии).",
    "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено.",
    "По поиску на aue.ae есть страница President's Message (aue.ae/presidents-message/) — открыть не удалось (403)",
-   "Перепроверка: 04.10.2026: aue.ae по-прежнему 403; президент Prof. Muthanna G. Abdul Razzaq подтверждается только поиском — данные не изменены."
+   "Перепроверка: 04.10.2026: aue.ae по-прежнему 403; президент Prof. Muthanna G. Abdul Razzaq подтверждается только поиском — данные не изменены.",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026. Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Общий почтовый ящик университета (info@aue.ae)",
   "addressee_name": "",
@@ -407,9 +423,9 @@
   "head_title": "",
   "party_secretary": "",
   "head_verified_source": "",
-  "rank_qs": "",
-  "rank_the": "THE2027: Reporter (unranked)",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: Reporter",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -417,7 +433,7 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://dmu.ae/home/contact-us/; https://dmu.ae/home/vca-message/; https://dmu.ae/home/board-of-trustees/; https://en.wikipedia.org/wiki/Dubai_Medical_University; nanosats.csv",
+  "sources": "https://dmu.ae/home/contact-us/; https://dmu.ae/home/vca-message/; https://dmu.ae/home/board-of-trustees/; https://en.wikipedia.org/wiki/Dubai_Medical_University; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "Бывший Dubai Medical College for Girls; официальный сайт — dmu.ae (НЕ dmu.ac.ae — это De Montfort University Dubai).",
@@ -425,14 +441,16 @@
    "На странице Board of Trustees первым указан H.E. Lt. Gen. Dhahi Khalfan Tamim (роль председатель/зампред — уточнить).",
    "THE2027: в статусе Reporter (не ранжирован).",
    "Телефон — бесплатная линия ОАЭ, из-за рубежа может не работать.",
-   "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено."
+   "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено.",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Общий почтовый ящик университета (info@dmu.ae)",
   "addressee_name": "Prof. Sherief Khalifa",
   "addressee_title": "Вице-канцлер по академическим вопросам",
   "salutation": "Dear Professor Khalifa,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "United Arab Emirates",
@@ -451,9 +469,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.ra.ac.ae/en/about-rabdan/leadership-team",
-  "rank_qs": "",
-  "rank_the": "THE2027: Reporter (unranked)",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: Reporter",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -461,21 +479,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.ra.ac.ae/en/about-rabdan/leadership-team; https://www.ra.ac.ae/en/contact-us; https://www.ra.ac.ae/; nanosats.csv",
+  "sources": "https://www.ra.ac.ae/en/about-rabdan/leadership-team; https://www.ra.ac.ae/en/contact-us; https://www.ra.ac.ae/; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "high",
   "notes_ru": [
    "Академия безопасности, обороны и кризисного управления; учреждена Законом № 7 от 2013 г. (шейх Халифа бин Заед) — тип собственности «эмират Абу-Даби» — проверить.",
    "Учёная степень/титул президента на странице не указаны — обращение без «Prof./Dr.».",
    "Оборонно-силовой профиль — учитывать чувствительность сотрудничества.",
    "THE2027: в статусе Reporter (не ранжирован).",
-   "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено."
+   "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено.",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Общий почтовый ящик академии (info@ra.ac.ae)",
   "addressee_name": "",
   "addressee_title": "Руководитель по стратегическим партнёрствам",
   "salutation": "Dear Director of International Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "United Arab Emirates",
@@ -494,9 +514,9 @@
   "head_title": "Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://www.sorbonne.ae/about-us/governance/university-leadership",
-  "rank_qs": "",
-  "rank_the": "THE2027: Reporter (unranked)",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: Reporter",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -504,21 +524,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.sorbonne.ae/about-us/governance/university-leadership; https://www.sorbonne.ae/contact-us; https://www.sorbonne.ae/; nanosats.csv",
+  "sources": "https://www.sorbonne.ae/about-us/governance/university-leadership; https://www.sorbonne.ae/contact-us; https://www.sorbonne.ae/; nanosats.csv\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "Кампус французских университетов (Sorbonne Université, Université Paris Cité и др.), финансируется правительством Абу-Даби — тип «кампус иностранного вуза» условен.",
    "E-mail на сайте не опубликован (только формы); второй телефон +971 2 656 9555.",
    "Есть магистратура «International Law, Spaces and Sovereignty» — возможная точка входа по космическому праву.",
    "THE2027: в статусе Reporter (не ранжирован).",
-   "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено."
+   "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено.",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Офис канцлера — e-mail не опубликован",
   "addressee_name": "Prof. Nathalie Martial-Braz",
   "addressee_title": "Канцлер университета",
   "salutation": "Dear Professor Martial-Braz,",
   "match_status": "нет ящика",
-  "match_action": "Найти e-mail международного отдела или канцелярии"
+  "match_action": "Найти e-mail международного отдела или канцелярии",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "United Arab Emirates",
@@ -538,8 +560,8 @@
   "party_secretary": "",
   "head_verified_source": "https://ud.ac.ae/leadership/",
   "rank_qs": "QS2027: 781–790",
-  "rank_the": "THE2027: Reporter (unranked)",
-  "rank_national": "",
+  "rank_the": "THE2027: Reporter",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -547,21 +569,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://ud.ac.ae/leadership/; https://ud.ac.ae/about-us/external-and-international-relations-eir/; https://ud.ac.ae/contact/; nanosats.csv",
+  "sources": "https://ud.ac.ae/leadership/; https://ud.ac.ae/about-us/external-and-international-relations-eir/; https://ud.ac.ae/contact/; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "high",
   "notes_ru": [
    "Связан с Dubai Chamber; президент Dr. Eesa Al Bastaki — инженер связи, бывший профессор UAEU, почётный председатель IEEE (UAE).",
    "Руководитель офиса EIR поимённо не указан; на странице EIR приведены обращения президента и провоста (Prof. Hussain Al Ahmad).",
    "THE2027: в статусе Reporter (не ранжирован).",
    "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено.",
-   "QS2027 по зеркалу списка QS (qianmu.org, со ссылкой на topuniversities.com)"
+   "QS2027 по зеркалу списка QS (qianmu.org, со ссылкой на topuniversities.com)",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Офис внешних и международных связей (External and International Relations, EIR)",
   "addressee_name": "",
   "addressee_title": "Директор офиса внешних и международных связей",
   "salutation": "Dear Director of International Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "United Arab Emirates",
@@ -580,9 +604,9 @@
   "head_title": "Provost and Vice-Principal (Dubai)",
   "party_secretary": "",
   "head_verified_source": "https://www.hw.ac.uk/dubai/about/provost-and-vice-principal",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -590,21 +614,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.hw.ac.uk/dubai/about; https://www.hw.ac.uk/dubai/about/provost-and-vice-principal; nanosats.csv",
+  "sources": "https://www.hw.ac.uk/dubai/about; https://www.hw.ac.uk/dubai/about/provost-and-vice-principal; nanosats.csv\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "Кампус британского Heriot-Watt University (Эдинбург); в рейтингах QS/THE учитывается в составе головного вуза (Великобритания), отдельно не ранжируется.",
    "Общий e-mail на сайте не опубликован (только формы) — рекомендуется обращение через Provost.",
    "Профиль: инженерия/энергетика, профиль_type условно technical.",
    "Решения о партнёрствах могут требовать согласования с головным вузом в Великобритании.",
-   "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено."
+   "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено.",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Офис провоста (Provost and Vice-Principal) — e-mail не опубликован",
   "addressee_name": "Prof. Dame Heather McGregor",
   "addressee_title": "Провост и вице-принципал Heriot-Watt University Dubai",
   "salutation": "Dear Professor Dame Heather McGregor,",
   "match_status": "нет ящика",
-  "match_action": "Найти e-mail международного отдела или канцелярии"
+  "match_action": "Найти e-mail международного отдела или канцелярии",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "United Arab Emirates",
@@ -623,9 +649,9 @@
   "head_title": "Director",
   "party_secretary": "",
   "head_verified_source": "https://en.wikipedia.org/wiki/Birla_Institute_of_Technology_and_Science,_Pilani_%E2%80%93_Dubai_Campus",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "MAHASAT — студенческая программа пикоспутников (2023: испытания 5 пикоспутников на дроне-«носителе», не орбитальные)",
@@ -633,21 +659,23 @@
   "space_units": "Centre for Satellite Communications; MAHASAT student pico-satellite programme (рук. Mylswamy Annadurai, экс-директор URSC ISRO)",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.bits-pilani.ac.in/dubai/; https://en.wikipedia.org/wiki/Birla_Institute_of_Technology_and_Science,_Pilani_%E2%80%93_Dubai_Campus; https://gulfnews.com/uae/education/bits-pilani-dubai-campus-appoints-new-director-1.81511128; nanosats.csv",
+  "sources": "https://www.bits-pilani.ac.in/dubai/; https://en.wikipedia.org/wiki/Birla_Institute_of_Technology_and_Science,_Pilani_%E2%80%93_Dubai_Campus; https://gulfnews.com/uae/education/bits-pilani-dubai-campus-appoints-new-director-1.81511128; nanosats.csv\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "Кампус индийского BITS Pilani; name_native дан на английском (официальное наименование), арабского официального названия не найдено.",
    "Директор Prof. Souri Banerjee (назначен в 2024 г., сменил Prof. Srinivasan Madapusi, ныне Pro VC Amity Dubai) — подтверждено Википедией и пресс-релизами, на сайте кампуса имя не найдено.",
    "E-mail международного офиса не найден; использован e-mail офиса регистратора. Доп. тел. +971 4 275 3711.",
    "Есть интерес к малым спутникам (MAHASAT, связь с экс-руководством ISRO) — перспективный кандидат при наличии индийских связей.",
-   "Поисковая квота исчерпана — орбитальные запуски MAHASAT после 2023 г. не проверены (в nanosats.csv отсутствуют)."
+   "Поисковая квота исчерпана — орбитальные запуски MAHASAT после 2023 г. не проверены (в nanosats.csv отсутствуют).",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Офис регистратора (Office of the Registrar)",
   "addressee_name": "Prof. Souri Banerjee",
   "addressee_title": "Директор кампуса",
   "salutation": "Dear Professor Banerjee,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "United Arab Emirates",
@@ -666,9 +694,9 @@
   "head_title": "President & Vice-Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://www.cud.ac.ae/about/senior-management",
-  "rank_qs": "QS2027: 616",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: =616",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -676,20 +704,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.cud.ac.ae/contact; https://www.cud.ac.ae/about/senior-management; https://www.cud.ac.ae/community-outreach/partnerships; nanosats.csv",
+  "sources": "https://www.cud.ac.ae/contact; https://www.cud.ac.ae/about/senior-management; https://www.cud.ac.ae/community-outreach/partnerships; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "high",
   "notes_ru": [
    "engagement@cud.ac.ae — ящик Community Outreach Office для новых коллабораций (тел. +971 4 709 6145); отдельного международного офиса нет.",
    "Руководитель Community Outreach Office поимённо не указан.",
    "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено.",
-   "QS2027 по зеркалу списка QS (qianmu.org, со ссылкой на topuniversities.com)"
+   "QS2027 по зеркалу списка QS (qianmu.org, со ссылкой на topuniversities.com)",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Офис по связям с общественностью и партнёрствам (Community Outreach Office)",
   "addressee_name": "",
   "addressee_title": "Руководитель офиса по партнёрствам",
   "salutation": "Dear Director of International Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "United Arab Emirates",
@@ -708,9 +738,9 @@
   "head_title": "Vice Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://www.ecae.ac.ae/en/about-us/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -718,7 +748,7 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://en.wikipedia.org/wiki/Emirates_College_for_Advanced_Education; nanosats.csv",
+  "sources": "https://en.wikipedia.org/wiki/Emirates_College_for_Advanced_Education; nanosats.csv\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "Сайт ecae.ac.ae напрямую из нашей сети недоступен; страницы (главная, About us, Contact us) открыты через r.jina.ai 04.10.2026. Кампусы также в Аль-Айне и Аджмане (здания Teacher Training Institution Минобразования).",
@@ -726,7 +756,8 @@
    "Название на арабском дано по общепринятому написанию — проверить.",
    "Педагогический колледж (подготовка учителей) — релевантен только для образовательной/просветительской части проекта.",
    "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено.",
-   "Перепроверка: Сайт ecae.ac.ae открыт через reader-сервис 04.10.2026: Vice Chancellor Dr. May Laith Al Taee, info@ecae.ac.ae, тел. +971 2 509 9888 и адрес кампуса (Khalifa City, Абу-Даби) подтверждены; дата страницы руководства не указана."
+   "Перепроверка: Сайт ecae.ac.ae открыт через reader-сервис 04.10.2026: Vice Chancellor Dr. May Laith Al Taee, info@ecae.ac.ae, тел. +971 2 509 9888 и адрес кампуса (Khalifa City, Абу-Даби) подтверждены; дата страницы руководства не указана.",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Общий ящик колледжа",
   "addressee_name": "Dr. May Laith Al Taee",
@@ -734,7 +765,8 @@
   "salutation": "Dear Dr. Al Taee,",
   "recheck_ru": "Сайт ecae.ac.ae открыт через reader-сервис 04.10.2026: Vice Chancellor Dr. May Laith Al Taee, info@ecae.ac.ae, тел. +971 2 509 9888 и адрес кампуса (Khalifa City, Абу-Даби) подтверждены; дата страницы руководства не указана.",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "United Arab Emirates",
@@ -753,9 +785,9 @@
   "head_title": "Vice Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://amityuniversity.ae/about-amity/leadership-team/senior-leadership",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -763,21 +795,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://amityuniversity.ae/contact-us; https://amityuniversity.ae/about-amity/leadership-team/senior-leadership; https://amityuniversity.ae/about-amity/vice-chancellor-s-message; https://www.amityuniversity.ae/; nanosats.csv",
+  "sources": "https://amityuniversity.ae/contact-us; https://amityuniversity.ae/about-amity/leadership-team/senior-leadership; https://amityuniversity.ae/about-amity/vice-chancellor-s-message; https://www.amityuniversity.ae/; nanosats.csv\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "high",
   "notes_ru": [
    "Кампус индийской Amity University; в UAE лицензирован CAA.",
    "Есть бакалавриат Aerospace Engineering (B.Tech/BSc) — релевантная база для CubeSat-сотрудничества.",
    "Pro Vice Chancellor Prof. Madapusi Srinivasan курирует, в т.ч., международные партнёрства (по его биографии) — альтернативный адресат.",
    "Отдельного e-mail международного офиса нет; использован info@.",
-   "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено."
+   "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено.",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Общий почтовый ящик университета (info@amityuniversity.ae)",
   "addressee_name": "Prof. Madapusi Srinivasan",
   "addressee_title": "Проректор (Pro Vice Chancellor)",
   "salutation": "Dear Professor Srinivasan,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "United Arab Emirates",
@@ -796,8 +830,8 @@
   "head_title": "Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://www.alqasimia.ac.ae/en/AboutAQU/Pages/BOT.aspx; https://www.alqasimia.ac.ae/en/AboutAQU/Pages/UniversityChancellor.aspx",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -814,7 +848,8 @@
    "Гуманитарно-исламский профиль — низкая релевантность для CubeSat-проекта.",
    "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено.",
    "Повторная проверка 04.10.2026: страница Board of Trustees называет канцлером HE Prof. Awad Husain AlKhalaf (без даты); председатель попечительского совета — HE Jamal Salim AL Turaifi. Страницы Contact us и External Cooperation пусты; в настройках сайта только шаблонные заглушки (12345, business@support.com) — не использовать",
-   "Перепроверка: Канцлер подтверждён на странице попечительского совета (без даты); контакты на сайте по-прежнему не опубликованы — уровень low сохранён"
+   "Перепроверка: Канцлер подтверждён на странице попечительского совета (без даты); контакты на сайте по-прежнему не опубликованы — уровень low сохранён",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "Prof. Awad Husain AlKhalaf",
@@ -841,9 +876,9 @@
   "head_title": "Pro Vice Chancellor – MAHE Dubai",
   "party_secretary": "",
   "head_verified_source": "https://www.manipaldubai.com/leadership",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -851,21 +886,23 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.manipaldubai.com/; https://www.manipaldubai.com/contact-us; https://www.manipaldubai.com/leadership; https://www.manipaldubai.com/international-collaborations; nanosats.csv",
+  "sources": "https://www.manipaldubai.com/; https://www.manipaldubai.com/contact-us; https://www.manipaldubai.com/leadership; https://www.manipaldubai.com/international-collaborations; nanosats.csv\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "high",
   "notes_ru": [
    "Кампус индийской Manipal Academy of Higher Education (MAHE); Vice Chancellor MAHE — Dr. Sharath Kumar Rao K (Индия).",
    "Сайт прямо указывает: по академическим/институциональным вопросам обращаться к Dr. Sudhindra — sudhindra.shamanna@manipaldubai.com.",
    "name_native дан на английском (официальное название); арабского официального не найдено.",
    "Dr. Sudhindra — отставной полковник индийской армии (EME), PhD IIT Madras.",
-   "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено."
+   "Космическая активность: по nanosats.csv (ОАЭ) и быстрому поиску спутников не найдено.",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1.; Кампус MAHE в Дубае; глобальные рейтинги ранжируют MAHE (Индия) целиком"
   ],
   "mailbox_owner": "Общий почтовый ящик кампуса (info@manipaldubai.com); прямой контакт руководителя — sudhindra.shamanna@manipaldubai.com",
   "addressee_name": "Dr. S. Sudhindra",
   "addressee_title": "Проректор (Pro Vice Chancellor), руководитель кампуса MAHE Dubai",
   "salutation": "Dear Dr. Sudhindra,",
   "match_status": "ящик общий",
-  "match_action": ""
+  "match_action": "",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "United Arab Emirates",
@@ -886,7 +923,7 @@
   "head_verified_source": "https://www.uaeu.ac.ae/en/vc/index.shtml",
   "rank_qs": "QS2027: 217",
   "rank_the": "THE2027: =235",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 2,
   "satellite_names": "ALainSat-1 (2025); LEONAV-1 (2026)",
   "sats_in_development": "813 Satellite (Arab Satellite 813, EO, Arab cooperation project)",
@@ -894,20 +931,22 @@
   "space_units": "National Space Science and Technology Center (NSSTC)",
   "agency_partnerships": "UAE Space Agency (NSSTC co-founder); Telecommunications and Digital Government Regulatory Authority (ICT Fund, NSSTC co-founder); IEEE GRSS (AlAinSat-1 payloads)",
   "restricted_list": "",
-  "sources": "https://www.uaeu.ac.ae/en/contact/index.shtml; https://www.uaeu.ac.ae/en/vc/index.shtml; https://www.uaeu.ac.ae/en/about/chancellor/index.shtml; https://nsstc.uaeu.ac.ae/en/index.shtml; https://nsstc.uaeu.ac.ae/en/ground-segment.shtml; https://nsstc.uaeu.ac.ae/en/alainsat-1.shtml; https://nsstc.uaeu.ac.ae/en/about/index.shtml; https://www.emirates247.com/uae/uaeu-announces-successful-launch-of-leonav-1-satellite/3485",
+  "sources": "https://www.uaeu.ac.ae/en/contact/index.shtml; https://www.uaeu.ac.ae/en/vc/index.shtml; https://www.uaeu.ac.ae/en/about/chancellor/index.shtml; https://nsstc.uaeu.ac.ae/en/index.shtml; https://nsstc.uaeu.ac.ae/en/ground-segment.shtml; https://nsstc.uaeu.ac.ae/en/alainsat-1.shtml; https://nsstc.uaeu.ac.ae/en/about/index.shtml; https://www.emirates247.com/uae/uaeu-announces-successful-launch-of-leonav-1-satellite/3485\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "high",
   "notes_ru": [
    "Канцлер (Chancellor) — H.E. Zaki Anwar Nusseibeh; исполнительный руководитель — вице-канцлер Prof. Ahmed Ali Alraeesi",
    "Отдельный e-mail международного офиса на сайте не найден; servicedesk@uaeu.ac.ae — общий сервис-деск. Для космической тематики лучше параллельно писать в NSSTC: nsstc@uaeu.ac.ae",
    "NSSTC — ключевой контакт: ALainSat-1 (запуск 14.01.2025, Transporter-12, совместно с IEEE GRSS), LEONAV-1 (07.07.2026, Transporter-17, навигационный демонстратор); GNSSaS A/B отменены",
-   "MeznSat (2020) построен Khalifa University и AURAK, не UAEU"
+   "MeznSat (2020) построен Khalifa University и AURAK, не UAEU",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1. Этот вуз — в Group 1 (Outstanding), места внутри групп нет."
   ],
   "mailbox_owner": "Сервис-деск университета (общий канал обращений)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "678"
  },
  {
   "country": "United Arab Emirates",
@@ -926,9 +965,9 @@
   "head_title": "Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://www.aus.edu/leadership-cabinet/tod-a-laursen",
-  "rank_qs": "QS2027: 258",
+  "rank_qs": "QS2027: =258",
   "rank_the": "THE2027: 501–550",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 1,
   "satellite_names": "Nayif-1 (2017)",
   "sats_in_development": "",
@@ -936,20 +975,22 @@
   "space_units": "",
   "agency_partnerships": "Mohammed Bin Rashid Space Centre (MBRSC) — Nayif-1 partner and MoU",
   "restricted_list": "",
-  "sources": "https://www.aus.edu/contact-us; https://www.aus.edu/leadership-cabinet/tod-a-laursen; https://www.aus.edu/about/leadership/office-of-the-chancellor/chancellors-staff; https://www.aus.edu/academics/international-study-and-exchange/contact-department-of-international-studies; https://www.aus.edu/the-road-to-launching-nayif-1-the-uaes-first-nanosatellite; https://www.mbrsc.ae/satellites/",
+  "sources": "https://www.aus.edu/contact-us; https://www.aus.edu/leadership-cabinet/tod-a-laursen; https://www.aus.edu/about/leadership/office-of-the-chancellor/chancellors-staff; https://www.aus.edu/academics/international-study-and-exchange/contact-department-of-international-studies; https://www.aus.edu/the-road-to-launching-nayif-1-the-uaes-first-nanosatellite; https://www.mbrsc.ae/satellites/\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "high",
   "notes_ru": [
    "Основатель и президент университета — Его Высочество шейх д-р Султан бин Мухаммед Аль-Касими, правитель Шарджи; исполнительный руководитель — канцлер Dr. Tod A. Laursen",
    "Nayif-1 (2017) — первый наноспутник ОАЭ, построен студентами AUS совместно с MBRSC и ISIS; наземная станция на кампусе AUS",
    "Общий e-mail не опубликован (только формат name@aus.edu); канцелярия канцлера: Chief of Staff Dr. Daniel Lincoln, dlincoln@aus.edu",
-   "ixo@aus.edu — International Exchange Office (студенческие обмены); руководитель офиса на сайте не указан (указаны Advisor Grace Morales, Coordinator Lillie De Guzman)"
+   "ixo@aus.edu — International Exchange Office (студенческие обмены); руководитель офиса на сайте не указан (указаны Advisor Grace Morales, Coordinator Lillie De Guzman)",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1. Этот вуз — в Group 1 (Outstanding), места внутри групп нет."
   ],
   "mailbox_owner": "Офис международного обмена (International Exchange Office, IXO)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Exchange,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "1535"
  },
  {
   "country": "United Arab Emirates",
@@ -968,9 +1009,9 @@
   "head_title": "Director General",
   "party_secretary": "",
   "head_verified_source": "https://www.mbrsc.ae/about/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 12,
   "satellite_names": "DubaiSat-1 (2009); DubaiSat-2 (2013); Nayif-1 (2017); KhalifaSat (2018); Hope Probe / Emirates Mars Mission (2020); DMSat-1 (2021); PHI-Demo (2023); MBZ-SAT (2025); HCT-SAT 1 (2025); Etihad-SAT (2025); PHI-1 (2025); HCT-SAT 2 (2025)",
   "sats_in_development": "PHI-2…PHI-5 (12U, Payload Hosting Initiative, with NanoAvionics); Emirates Airlock for NASA Lunar Gateway; Rashid rover programme",
@@ -978,20 +1019,22 @@
   "space_units": "Satellite Development Programme; UAE Astronaut Programme; Emirates Lunar Mission; Payload Hosting Initiative (PHI)",
   "agency_partnerships": "UNOOSA (PHI, 'Access to Space for All'); NASA (astronaut training, Lunar Gateway Emirates Airlock); Roscosmos, ESA, JAXA (ISS experiments); Bahrain Space Agency (AMAN payload on PHI-1); Antarikchya Pratisthan Nepal (PHI-1); Satrec Initiative (DubaiSat, Etihad-SAT)",
   "restricted_list": "",
-  "sources": "https://www.mbrsc.ae/contact-us/; https://www.mbrsc.ae/about/; https://www.mbrsc.ae/satellites/; https://www.mbrsc.ae/missions-and-projects/; https://www.mbrsc.ae/lunar-gateway/; nanosats.csv",
+  "sources": "https://www.mbrsc.ae/contact-us/; https://www.mbrsc.ae/about/; https://www.mbrsc.ae/satellites/; https://www.mbrsc.ae/missions-and-projects/; https://www.mbrsc.ae/lunar-gateway/; nanosats.csv\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "high",
   "notes_ru": [
    "Не университет, а государственное космическое агентство эмирата Дубай (включено намеренно); председатель — H.E. Hamad Obaid Al Mansoori",
    "E-mail на официальном сайте не опубликован; сторонние источники (Bayut и др.) указывают info@mbrsc.ae — не проверено на официальной странице",
    "Программа PHI (UNOOSA) — готовый механизм размещения полезных нагрузок партнёров на 12U-платформе; уже принимала нагрузки Бахрейна и Непала — естественная точка входа для сотрудничества",
-   "Etihad-SAT: на сайте MBRSC указан запуск в марте 2025; HCT-SAT 2 и PHI-Demo — по nanosats.csv; Hope Probe — марсианский орбитальный аппарат (не CubeSat)"
+   "Etihad-SAT: на сайте MBRSC указан запуск в марте 2025; HCT-SAT 2 и PHI-Demo — по nanosats.csv; Hope Probe — марсианский орбитальный аппарат (не CubeSat)",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Partnerships,",
   "match_status": "нет ящика",
-  "match_action": "Найти e-mail международного отдела или канцелярии"
+  "match_action": "Найти e-mail международного отдела или канцелярии",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "United Arab Emirates",
@@ -1010,9 +1053,9 @@
   "head_title": "Vice-Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://mediaoffice.ae/en/news/2025/july/01-07/emirates-aviation-university-marks-35-years",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1020,20 +1063,22 @@
   "space_units": "Department of Aerospace Engineering",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.eau.ac.ae/contact-us; https://mediaoffice.ae/en/news/2025/july/01-07/emirates-aviation-university-marks-35-years; https://ieeexplore.ieee.org/document/5966842/",
+  "sources": "https://www.eau.ac.ae/contact-us; https://mediaoffice.ae/en/news/2025/july/01-07/emirates-aviation-university-marks-35-years; https://ieeexplore.ieee.org/document/5966842/\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "Университет принадлежит Emirates Group (государственная группа Дубая); канцлер — шейх Ахмед бин Саид Аль Мактум (председатель Emirates Airline & Group); исполнительный руководитель — вице-канцлер Prof. Ahmad Al Ali",
    "Общий адрес почты на домене emirates.com (eau.info@emirates.com); международный офис на сайте не найден",
    "Ранее (как Emirates Aviation College) вёлся учебный проект 1U CubeSat (статья IEEE, ~2011); сведений о запуске нет",
-   "Сайт динамический — страницы руководства не читаются автоматически; руководство подтверждено через Dubai Media Office (июль 2025)"
+   "Сайт динамический — страницы руководства не читаются автоматически; руководство подтверждено через Dubai Media Office (июль 2025)",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Общий информационный ящик университета (General Information)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "United Arab Emirates",
@@ -1052,9 +1097,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://aurak.ac.ae/about/leadership/leadership-team",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: =608",
+  "rank_the": "THE2027: Reporter",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 1,
   "satellite_names": "MeznSat (2020)",
   "sats_in_development": "",
@@ -1062,20 +1107,22 @@
   "space_units": "AURAK Space Lab (School of Engineering)",
   "agency_partnerships": "UAE Space Agency (MeznSat sponsor/supervisor); Khalifa University (MeznSat partner)",
   "restricted_list": "",
-  "sources": "https://aurak.ac.ae/contact; https://aurak.ac.ae/about/leadership/leadership-team; https://aurak.ac.ae/en/aurak-news-sept-28-2020; nanosats.csv",
+  "sources": "https://aurak.ac.ae/contact; https://aurak.ac.ae/about/leadership/leadership-team; https://aurak.ac.ae/en/aurak-news-sept-28-2020; nanosats.csv\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "THE2027: Reporter (без ранга); в QS2027 топ-500 отсутствует",
    "MeznSat (3U, 28.09.2020, Союз/Плесецк) построен 16 студентами AURAK (руководитель Dr. Abdul-Halim Jallad) совместно с Khalifa University под эгидой UAE Space Agency; в nanosats.csv записан на Masdar Institute",
    "Международный офис не идентифицирован (OIAER/OISE — расшифровка не подтверждена); прямой e-mail президента: bassam.alameddine@aurak.ac.ae",
-   "Сайт защищён капчей — данные получены через WebFetch"
+   "Сайт защищён капчей — данные получены через WebFetch",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Общий ящик запросов (General Inquiries)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "United Arab Emirates",
@@ -1096,7 +1143,7 @@
   "head_verified_source": "https://www.ajman.ac.ae/en/about/message-from-the-chancellor",
   "rank_qs": "QS2027: 397",
   "rank_the": "THE2027: 376–400",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1104,18 +1151,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.ajman.ac.ae/en/contact-us; https://www.ajman.ac.ae/en/about/message-from-the-chancellor; https://www.ajman.ac.ae/en/directory/staff/victoria-joy-winter; https://oiaa.ajman.ac.ae/en/",
+  "sources": "https://www.ajman.ac.ae/en/contact-us; https://www.ajman.ac.ae/en/about/message-from-the-chancellor; https://www.ajman.ac.ae/en/directory/staff/victoria-joy-winter; https://oiaa.ajman.ac.ae/en/\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "Есть Office of International Academic Affairs (OIAA, oiaa.ajman.ac.ae); директор — Victoria Joy Winter (Director of International Academic Affairs, по справочнику сотрудников), e-mail офиса на сайте не опубликован",
-   "Космических проектов/спутников не найдено (поиск + nanosats.csv)"
+   "Космических проектов/спутников не найдено (поиск + nanosats.csv)",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Общий ящик университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "1438"
  },
  {
   "country": "United Arab Emirates",
@@ -1134,9 +1183,9 @@
   "head_title": "President & CEO",
   "party_secretary": "",
   "head_verified_source": "https://cheknews.ca/former-uvic-president-kevin-hall-named-ceo-of-university-in-dubai-abu-dhabi-1282755/",
-  "rank_qs": "",
+  "rank_qs": "QS2027: =588",
   "rank_the": "THE2027: 501–550",
-  "rank_national": "",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1144,20 +1193,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.zu.ac.ae/main/en/contact_us/index; https://cheknews.ca/former-uvic-president-kevin-hall-named-ceo-of-university-in-dubai-abu-dhabi-1282755/; https://x.com/Zayed_U/status/1975551341188554950",
+  "sources": "https://www.zu.ac.ae/main/en/contact_us/index; https://cheknews.ca/former-uvic-president-kevin-hall-named-ceo-of-university-in-dubai-abu-dhabi-1282755/; https://x.com/Zayed_U/status/1975551341188554950\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "Два кампуса: Абу-Даби и Дубай (тел. Дубай +971 4 402 1111)",
    "Dr. Kevin Hall назначен President & CEO с 01.11.2025 (бывший президент University of Victoria); председатель совета попечителей — Shamma bint Sohail Al Mazrui (по данным поиска)",
    "QS2027: в топ-500 отсутствует (точная позиция не проверена)",
-   "Международный офис на сайте не найден; спутников не найдено"
+   "Международный офис на сайте не найден; спутников не найдено",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Общий ящик университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "1642"
  },
  {
   "country": "United Arab Emirates",
@@ -1176,9 +1227,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.aud.edu/university-overview/aud-leadership/office-of-the-president/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: =620",
+  "rank_the": "THE2027: Reporter",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1186,19 +1237,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.aud.edu/get-in-touch/; https://www.aud.edu/university-overview/aud-leadership/office-of-the-president/",
+  "sources": "https://www.aud.edu/get-in-touch/; https://www.aud.edu/university-overview/aud-leadership/office-of-the-president/\nhttps://www.topuniversities.com/world-university-rankings (QS WUR 2027)\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "THE2027: Reporter (без ранга)",
    "На сайте есть раздел International Mobility Opportunities, но отдельного e-mail международного офиса нет",
-   "Спутников не найдено"
+   "Спутников не найдено",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Общий ящик университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "United Arab Emirates",
@@ -1217,9 +1270,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://cu.ac.ae/about-us/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: Reporter",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1227,20 +1280,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://cu.ac.ae/contact-us/; https://cu.ac.ae/about-us/",
+  "sources": "https://cu.ac.ae/contact-us/; https://cu.ac.ae/about-us/\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "THE2027: Reporter (без ранга)",
    "Председатель совета попечителей — шейх Рашид бин Хумаид Аль Нуайми; президент — Mr. Imran Khan (без учёной степени на сайте)",
    "Официальное арабское название на сайте не найдено",
-   "Космической активности нет; nanosats.csv (UAE): записей нет"
+   "Космической активности нет; nanosats.csv (UAE): записей нет",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Общий ящик университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "United Arab Emirates",
@@ -1259,8 +1314,8 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.education-uae.com/liwa-university-al-ain-campus-launch/",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: Reporter (в списке, без места)",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -1276,7 +1331,8 @@
    "main_fields — ориентировочно, не проверены по сайту",
    "THE2027: Reporter (без ранга); nanosats.csv (UAE): записей нет",
    "Сайт lu.ac.ae по-прежнему за Cloudflare (403, 04.10.2026). По поисковому индексу официальных страниц (lu.ac.ae/our-leadership, профиль вуза): президент Prof. Mohamed Mahjoub Dhiaf, адрес Baniyas Tower B, Al Danah, P.O. Box 41009, Abu Dhabi, тел. 600 500606; e-mail в сниппете скрыт — не внесён (старый info@lc.ac.ae из Википедии не использовать без проверки)",
-   "Перепроверка: Сайт закрыт Cloudflare; по поисковому индексу официальных страниц уточнены полное имя президента и адрес; e-mail не подтверждён"
+   "Перепроверка: Сайт закрыт Cloudflare; по поисковому индексу официальных страниц уточнены полное имя президента и адрес; e-mail не подтверждён",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -1303,9 +1359,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.rakmhsu.ac.ae/university-leadership",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: Reporter",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1313,19 +1369,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.rakmhsu.ac.ae/contact; https://www.rakmhsu.ac.ae/university-leadership; https://www.rakmhsu.ac.ae/about",
+  "sources": "https://www.rakmhsu.ac.ae/contact; https://www.rakmhsu.ac.ae/university-leadership; https://www.rakmhsu.ac.ae/about\nhttps://www.timeshighereducation.com/world-university-rankings/2027/world-ranking\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "Основан в 2006 г. под патронатом правителя Рас-эль-Хаймы шейха Сауда бин Сакра Аль-Касими; форма собственности на сайте явно не указана",
    "THE2027: Reporter (без ранга)",
-   "Медицинский профиль — космическая тематика маловероятна; nanosats.csv (UAE): записей нет"
+   "Медицинский профиль — космическая тематика маловероятна; nanosats.csv (UAE): записей нет",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Общий ящик университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "United Arab Emirates",
@@ -1344,8 +1402,8 @@
   "head_title": "Vice-Chancellor",
   "party_secretary": "",
   "head_verified_source": "https://mediaoffice.ae/en/news/2026/april/30-04/the-community-development-authority-in-dubai-and-the-british-university-in-dubai-sign",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: Reporter (в списке, без места)",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -1359,7 +1417,8 @@
   "notes_ru": [
    "Сайт buid.ac.ae блокирует автоматический доступ (403); контакты взяты из Undergraduate Student Handbook (сент. 2026)",
    "Канцлер — шейх Ахмед бин Саид Аль Мактум",
-   "THE2027: Reporter (без ранга); nanosats.csv (UAE): записей нет"
+   "THE2027: Reporter (без ранга); nanosats.csv (UAE): записей нет",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "Общий ящик университета (General Enquiries)",
   "addressee_name": "",
@@ -1385,9 +1444,9 @@
   "head_title": "Chief Executive Officer",
   "party_secretary": "",
   "head_verified_source": "https://www.tii.ae/about-us",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1395,19 +1454,21 @@
   "space_units": "Propulsion and Space Research Center (Chief Researcher Dr. Elias Tsoutsanis)",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.tii.ae/contact-us; https://www.tii.ae/about-us; https://www.tii.ae/insights/abu-dhabi-test-launches-first-fully-uae-built-hybrid-rocket-milestone-space-ambitions; https://www.mediaoffice.abudhabi/en/technology/technology-innovation-institute-launches-abu-dhabi-quantum-optical-ground-station/",
+  "sources": "https://www.tii.ae/contact-us; https://www.tii.ae/about-us; https://www.tii.ae/insights/abu-dhabi-test-launches-first-fully-uae-built-hybrid-rocket-milestone-space-ambitions; https://www.mediaoffice.abudhabi/en/technology/technology-innovation-institute-launches-abu-dhabi-quantum-optical-ground-station/\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "Не университет — исследовательский центр при ATRC (Advanced Technology Research Council) Абу-Даби, включён намеренно",
    "E-mail и телефон на сайте не опубликованы (только веб-форма)",
-   "Космос: собственных спутников нет; в 2026 г. испытан первый в ОАЭ гибридный суборбитальный ракетный двигатель/ракета; оптическая квантовая наземная станция ADQOGS — потенциальный интерес для связи с CubeSat"
+   "Космос: собственных спутников нет; в 2026 г. испытан первый в ОАЭ гибридный суборбитальный ракетный двигатель/ракета; оптическая квантовая наземная станция ADQOGS — потенциальный интерес для связи с CubeSat",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Partnerships,",
   "match_status": "нет ящика",
-  "match_action": "Найти e-mail международного отдела или канцелярии"
+  "match_action": "Найти e-mail международного отдела или канцелярии",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "United Arab Emirates",
@@ -1426,8 +1487,8 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.uow.edu.au/the-stand/2025/branching-out-growing-uows-global-reach-in-dubai.php",
-  "rank_qs": "",
-  "rank_the": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
   "rank_national": "",
   "satellites_launched": 0,
   "satellite_names": "",
@@ -1442,7 +1503,8 @@
    "Сайт uowdubai.ac.ae блокирует автоматический доступ (403) — e-mail, телефон и P.O. Box не проверены",
    "Автономный кампус University of Wollongong (Австралия), президент с 2015 г.",
    "main_fields — ориентировочно; nanosats.csv (UAE): записей нет",
-   "Перепроверка: uowdubai.ac.ae (главная, /contact-us, sitemap) и WebFetch возвращают 403 — данные не изменены (04.10.2026)"
+   "Перепроверка: uowdubai.ac.ae (главная, /contact-us, sitemap) и WebFetch возвращают 403 — данные не изменены (04.10.2026)",
+   "Ручная проверка: Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено."
   ],
   "mailbox_owner": "",
   "addressee_name": "",
@@ -1469,9 +1531,9 @@
   "head_title": "Provost and Director",
   "party_secretary": "",
   "head_verified_source": "https://www.mdx.ac.ae/about-us/our-people",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1479,18 +1541,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.mdx.ac.ae/contact-us; https://www.mdx.ac.ae/about-us/our-people",
+  "sources": "https://www.mdx.ac.ae/contact-us; https://www.mdx.ac.ae/about-us/our-people\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "Кампус британского Middlesex University (Лондон); партнёрские решения могут требовать согласования с головным вузом",
-   "main_fields — ориентировочно; nanosats.csv (UAE): записей нет"
+   "main_fields — ориентировочно; nanosats.csv (UAE): записей нет",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Общий ящик университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "United Arab Emirates",
@@ -1509,9 +1573,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.mbru.ac.ae/about-mbru/our-leadership/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1519,20 +1583,22 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.mbru.ac.ae/contact-us/; https://www.mbru.ac.ae/about-mbru/our-leadership/; https://www.mbru.ac.ae/about-mbru/",
+  "sources": "https://www.mbru.ac.ae/contact-us/; https://www.mbru.ac.ae/about-mbru/our-leadership/; https://www.mbru.ac.ae/about-mbru/\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "Входит в Dubai Health (государственная академическая система здравоохранения Дубая); канцлер — шейх Ахмед бин Саид Аль Мактум",
    "Есть Vice President - Partnerships: Isabel Jennings (e-mail не опубликован) — логичный адресат по партнёрствам",
    "Телефон опубликован только как бесплатный номер 800 MBRU (6278)",
-   "Медицинский профиль; nanosats.csv (UAE): записей нет"
+   "Медицинский профиль; nanosats.csv (UAE): записей нет",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1. Этот вуз — в Group 1 (Outstanding), места внутри групп нет."
   ],
   "mailbox_owner": "Общий ящик университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "United Arab Emirates",
@@ -1551,9 +1617,9 @@
   "head_title": "President",
   "party_secretary": "",
   "head_verified_source": "https://www.rit.edu/dubai/board-directors",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1561,19 +1627,21 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.rit.edu/dubai/; https://www.rit.edu/dubai/about-rit; https://www.rit.edu/dubai/board-directors",
+  "sources": "https://www.rit.edu/dubai/; https://www.rit.edu/dubai/about-rit; https://www.rit.edu/dubai/board-directors\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "Глобальный кампус RIT (Рочестер, США), отчитывается перед RIT NY; совет директоров включает представителей Dubai Silicon Oasis Authority",
    "Сведения о спутниках RIT Dubai не найдены; nanosats.csv (UAE): записей нет",
-   "Арабское официальное название на сайте не найдено"
+   "Арабское официальное название на сайте не найдено",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Общий ящик университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "United Arab Emirates",
@@ -1592,9 +1660,9 @@
   "head_title": "Dean and Academic President",
   "party_secretary": "",
   "head_verified_source": "https://www.murdochuniversitydubai.com/explore/about/",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1602,18 +1670,20 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.murdochuniversitydubai.com/; https://www.murdochuniversitydubai.com/explore/about/",
+  "sources": "https://www.murdochuniversitydubai.com/; https://www.murdochuniversitydubai.com/explore/about/\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "Кампус австралийского Murdoch University (Перт)",
-   "main_fields — ориентировочно; nanosats.csv (UAE): записей нет"
+   "main_fields — ориентировочно; nanosats.csv (UAE): записей нет",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Общий ящик университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Partnerships,",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  },
  {
   "country": "United Arab Emirates",
@@ -1632,9 +1702,9 @@
   "head_title": "",
   "party_secretary": "",
   "head_verified_source": "",
-  "rank_qs": "",
-  "rank_the": "",
-  "rank_national": "",
+  "rank_qs": "QS2027: не в рейтинге",
+  "rank_the": "THE2027: не в рейтинге",
+  "rank_national": "нет общенационального рейтинга",
   "satellites_launched": 0,
   "satellite_names": "",
   "sats_in_development": "",
@@ -1642,14 +1712,15 @@
   "space_units": "",
   "agency_partnerships": "",
   "restricted_list": "",
-  "sources": "https://www.fchs.ac.ae/contact-us; https://www.fchs.ac.ae/; https://www.fchs.ac.ae/api/campuses",
+  "sources": "https://www.fchs.ac.ae/contact-us; https://www.fchs.ac.ae/; https://www.fchs.ac.ae/api/campuses\nhttps://www.moe.gov.ae/En/MediaCenter/News/pages/heis-classification.aspx",
   "confidence": "medium",
   "notes_ru": [
    "Учреждён в 2006 г. в системе ACTVET (Abu Dhabi Centre for Technical and Vocational Education and Training)",
    "Кампусы (официальный сайт): Абу-Даби (Al Mafraq, +971 2 507 8765, info@fchs.ac.ae), Эль-Айн (Al Maqam, +971 3 703 5555, alain@fchs.ac.ae), Аль-Дафра (Madinat Zayed, +971 2 898 6915, aldhafra@fchs.ac.ae), Аджман (+971 6 701 7200, ajman@fchs.ac.ae)",
    "Руководитель колледжа (декан/директор) на сайте не указан; main_fields — ориентировочно",
    "Медицинский колледж; nanosats.csv (UAE): записей нет",
-   "Перепроверка: Общий e-mail info@fchs.ac.ae, телефон и кампусы подтверждены через официальный API сайта fchs.ac.ae (обновл. 06.2026); руководитель не найден"
+   "Перепроверка: Общий e-mail info@fchs.ac.ae, телефон и кампусы подтверждены через официальный API сайта fchs.ac.ae (обновл. 06.2026); руководитель не найден",
+   "Рейтинги: Есть только National HEI Classification Framework (МинОбр ОАЭ, 06.2024): 4 группы без мест; публично названы лишь вузы Group 1."
   ],
   "mailbox_owner": "Fatima College of Health Sciences (general inbox, Abu Dhabi campus)",
   "addressee_name": "",
@@ -1657,6 +1728,7 @@
   "salutation": "Dear Director of International Partnerships,",
   "recheck_ru": "Общий e-mail info@fchs.ac.ae, телефон и кампусы подтверждены через официальный API сайта fchs.ac.ae (обновл. 06.2026); руководитель не найден",
   "match_status": "нет имени",
-  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта",
+  "rank_webometrics": "нет в опубл. списке"
  }
 ]

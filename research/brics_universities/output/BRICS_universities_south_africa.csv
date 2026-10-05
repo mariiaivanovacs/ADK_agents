@@ -1,4 +1,4 @@
-﻿№,Страна,Город,Вуз (англ.),Вуз (ориг.),Профиль,Гос. / частный,Основные направления обучения,Почтовый адрес,E-mail для рассылки (рекомендуемый),Адресат (владелец рекомендуемого e-mail),Стыковка e-mail и адресата,E-mail (международный отдел),E-mail (общий / ректорат),Телефон,Сайт,Ректор / президент,Должность,Рейтинг QS,Рейтинг THE,Национальный рейтинг,Запущено КА (спутников),Названия запущенных КА (год),КА в разработке,Наземная станция,Космические подразделения,Партнёрства в космической сфере,Санкционные / ограничительные списки (США),Космический индекс (0–100),Волна рассылки,Проверка домена e-mail (MX),Достоверность,Примечания,Источники,Дата проверки,"Секретарь парткома (справочно, Китай)"
+﻿№,Страна,Город,Вуз (англ.),Вуз (ориг.),Профиль,Гос. / частный,Основные направления обучения,Почтовый адрес,E-mail для рассылки (рекомендуемый),Адресат (владелец рекомендуемого e-mail),Стыковка e-mail и адресата,E-mail (международный отдел),E-mail (общий / ректорат),Телефон,Сайт,Ректор / президент,Должность,Рейтинг QS,Рейтинг THE,Национальный рейтинг,Рейтинг Webometrics (мир),Запущено КА (спутников),Названия запущенных КА (год),КА в разработке,Наземная станция,Космические подразделения,Партнёрства в космической сфере,Санкционные / ограничительные списки (США),Космический индекс (0–100),Волна рассылки,Проверка домена e-mail (MX),Достоверность,Примечания,Источники,Дата проверки,"Секретарь парткома (справочно, Китай)"
 1,ЮАР,Стелленбош,Stellenbosch University,Stellenbosch University,Классический,"Государственный (публичный университет, DHET)","• Engineering
 • Natural Sciences
 • AgriSciences
@@ -7,7 +7,7 @@
 • Arts and Social Sciences","Stellenbosch University, Private Bag X1, Stellenbosch 7599, South Africa",interoff@sun.ac.za,"Mr Robert Kotzé
 Старший директор SU International (Senior Director: SU International)
 Stellenbosch University International (SU International)
-Обращение: Dear Mr Kotzé,",ящик общий,interoff@sun.ac.za,info@sun.ac.za,+27 21 808 9111,https://www.su.ac.za,Prof. Deresh Ramjugernath,Rector and Vice-Chancellor,QS2027: 296,THE2027: 326–350,,2,"• SUNSAT (1999)
+Обращение: Dear Mr Kotzé,",ящик общий,interoff@sun.ac.za,info@sun.ac.za,+27 21 808 9111,https://www.su.ac.za,Prof. Deresh Ramjugernath,Rector and Vice-Chancellor,QS2027: =296,THE2027: 326–350,нет общенационального рейтинга,1299,2,"• SUNSAT (1999)
 • SumbandilaSat (2009)","• Dock-Sat (1U target + 2U, docking demonstration CubeSats
 • Not launched)",,"Electronic Systems Laboratory (ESL), Department of Electrical and Electronic Engineering","• CSIR (SumbandilaSat operations)
 • SunSpace (spin-off, SumbandilaSat builder)
@@ -15,14 +15,18 @@ Stellenbosch University International (SU International)
 • SUNSAT (1999) — первый спутник ЮАР, построен студентами SU; SumbandilaSat (2009) построен SunSpace по контракту с SU, оператор — SU
 • Почтовый адрес изменён: старый Private Bag X1, Matieland 7602 упразднён; email-домен sun.ac.za может мигрировать на su.ac.za
 • Ректор Prof. Deresh Ramjugernath с 1 апреля 2025 г
-• Личный email старшего директора SU International Robert Kotzé: rk@sun.ac.za (подтверждён на сайте IEASA, 2025)","• Https://www.su.ac.za/en/about/governance/rector-and-vice-chancellor
+• Личный email старшего директора SU International Robert Kotzé: rk@sun.ac.za (подтверждён на сайте IEASA, 2025)
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.su.ac.za/en/about/governance/rector-and-vice-chancellor
 • Https://www.su.ac.za/en/contact-us
 • Http://www.sun.ac.za/english/SUInternational/contact-us
 • Https://eutopia-university.eu/2025/05/07/stellenbosch-university-advancing-sus-internationalisation-journey/
 • Https://en.wikipedia.org/wiki/SUNSAT
 • Https://en.wikipedia.org/wiki/SumbandilaSat
 • Nanosats.csv
-• Https://ieasa.studysa.org/about-us/directors-forum/",2026-10-05,
+• Https://ieasa.studysa.org/about-us/directors-forum/
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking
+https://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",2026-10-05,
 2,ЮАР,Кейптаун,Cape Peninsula University of Technology,Cape Peninsula University of Technology,Технический / аэрокосмический,"Государственный (публичный университет, DHET)","• Engineering
 • Applied Sciences
 • Business and Management Sciences
@@ -30,7 +34,7 @@ Stellenbosch University International (SU International)
 • Health and Wellness Sciences
 • Education","PO Box 1906, Bellville 7535, Cape Town, South Africa",info@cput.ac.za,"ФИО не найдено
 Общая справочная служба университета (General Enquiries)
-Обращение: Dear Director of the International Office,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@cput.ac.za,+27 21 959 6767,https://www.cput.ac.za,Prof. Chris Nhlapo,Vice-Chancellor,,,,6,"• ZACUBE-1 / TshepisoSat (2013)
+Обращение: Dear Director of the International Office,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@cput.ac.za,+27 21 959 6767,https://www.cput.ac.za,Prof. Chris Nhlapo,Vice-Chancellor,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,1986,6,"• ZACUBE-1 / TshepisoSat (2013)
 • ZA-AeroSat (2017, co-built with Stellenbosch University, CPUT radios/antennas)
 • ZACUBE-2 (2018)
 • MDASat-1a (2022)
@@ -42,21 +46,23 @@ Stellenbosch University International (SU International)
 • Лидер ЮАР по CubeSat (F'SATI/ASIC) — приоритетный партнёр для VLEO-группировки
 • Международные связи ведёт Strategic Initiatives, Internationalisation and Partnerships (SIIP): директор Dr Divinia Jithoo, тел. +27 21 959 5650; e-mail на сайте скрыт — рекомендуется адресовать письмо ей
 • В марте 2026 г. студенты требовали отстранения ректора Nhlapo; по состоянию на июль 2026 он оставался в должности
-• ZA-AeroSat (QB50, термосфера 90–320 км) — совместно со Stellenbosch University","• Https://www.cput.ac.za/about-cput/university-leadership/vice-chancellor
+• ZA-AeroSat (QB50, термосфера 90–320 км) — совместно со Stellenbosch University
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.cput.ac.za/about-cput/university-leadership/vice-chancellor
 • Https://iol.co.za/news/2026-03-26-i-am-supposed-to-graduate-next-week-cput-students-demand-vcs-suspension-amid-escalating-protests/
 • Https://www.cput.ac.za/enquiries/enquiries-contact-details
 • Https://www.cput.ac.za/research/sip/staff-and-contacts
 • Https://www.cput.ac.za/newsroom/news/article/4201/maritime-domain-awareness-satellite-mission-launch-imminent
 • Https://www.cput.ac.za/world-space-week
 • Https://amsat-uk.org/2017/04/15/south-african-qb50-cubesats/
-• Nanosats.csv",2026-10-05,
+• Nanosats.csv
+https://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",2026-10-05,
 3,ЮАР,Претория,South African National Space Agency (SANSA),South African National Space Agency,НИИ / научный центр,Государственный (агентство / научный совет),"• Earth Observation
 • Space Operations (TT&C)
 • Space Science and Space Weather
 • Space Engineering","SANSA Head Office, PO Box 484, Silverton 0127, Gauteng, South Africa; physical: Enterprise Building, Mark Shuttleworth Street, Innovation Hub, Pretoria 0087",information@sansa.org.za,"Mr Humbulani Mudau
 Генеральный директор (CEO) SANSA
 Головной офис SANSA (общий ящик, Head Office)
-Обращение: Dear Mr Mudau,",ящик общий,,information@sansa.org.za,+27 12 844 0500,https://www.sansa.org.za,Mr Humbulani Mudau,Chief Executive Officer (CEO),,,,0,,"• EOSat-1 (first South African Earth-observation satellite, design & development phase
+Обращение: Dear Mr Mudau,",ящик общий,,information@sansa.org.za,+27 12 844 0500,https://www.sansa.org.za,Mr Humbulani Mudau,Chief Executive Officer (CEO),QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,"• EOSat-1 (first South African Earth-observation satellite, design & development phase
 • Main contractor Denel Dynamics Spaceteq
 • SA contribution to ARMC constellation)","SANSA Space Operations, Hartebeesthoek (TT&C; S, C, X, Ku bands; BRICS remote-sensing constellation receiving station); planned deep-space ground complex at Matjiesfontein (MTJ); SANSA Space Science, Hermanus (Space Weather Centre)","• SANSA Earth Observation
 • SANSA Space Operations (Hartebeesthoek)
@@ -68,7 +74,8 @@ Stellenbosch University International (SU International)
 • NASA/JPL TT&C heritage",,50,1B,да,высокая,"• Космическое агентство ЮАР (не университет) — ключевой национальный партнёр; спутники сами не строит — ZACUBE-1/2 построены CPUT (F'SATI) при участии SANSA, поэтому satellites_launched = 0
 • Отдельного международного офиса/email нет — использован общий ящик головного офиса; CEO Humbulani Mudau с 1 апреля 2023 г
 • Станция Hartebeesthoek уже является приёмной станцией группировки BRICS — возможна поддержка TT&C для VLEO-кубсатов
-• Тел.: головной офис +27 12 844 0500; Hartebeesthoek +27 12 334 5000 (spaceops-info@sansa.org.za); Hermanus +27 28 285 0000 (spacesci-info@sansa.org.za)","• Https://www.sansa.org.za/leadership/
+• Тел.: головной офис +27 12 844 0500; Hartebeesthoek +27 12 334 5000 (spaceops-info@sansa.org.za); Hermanus +27 28 285 0000 (spacesci-info@sansa.org.za)
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.sansa.org.za/leadership/
 • Https://www.sansa.org.za/get-in-touch/
 • Https://www.sansa.org.za/contact-us/
 • Https://www.sansa.org.za/space-operations/
@@ -84,12 +91,13 @@ Stellenbosch University International (SU International)
 • Aerospace propulsion","University of KwaZulu-Natal, Westville Campus, University Road, Westville, Private Bag X54001, Durban 4000, South Africa",Zondon1@ukzn.ac.za,"Dr Normah Zondo
 Исполнительный директор по корпоративным связям (Executive Director: Corporate Relations); представитель UKZN в форуме директоров IEASA
 Отдел корпоративных связей, включающий International Relations / Global Engagement (Corporate Relations Division)
-Обращение: Dear Dr Zondo,","личный, совпало",Zondon1@ukzn.ac.za,enquiries@ukzn.ac.za,+27 31 260 1111,https://ukzn.ac.za,Prof. Nana Poku,Vice-Chancellor and Principal,QS2027: 600,THE2027: 501–550,,0,,,"Rocket launch gantry at Denel Overberg Test Range, Arniston (built/implemented by ASRI, unveiled 2024; suborbital)","Aerospace Systems Research Institute (ASRI), School of Engineering — Phoenix hybrid sounding rockets, SAFFIRE orbital liquid rocket engine","• SANSA (ASRI funding/support
+Обращение: Dear Dr Zondo,","личный, совпало",Zondon1@ukzn.ac.za,enquiries@ukzn.ac.za,+27 31 260 1111,https://ukzn.ac.za,Prof. Nana Poku,Vice-Chancellor and Principal,QS2027: =600,THE2027: 501–550,нет общенационального рейтинга,593,0,,,"Rocket launch gantry at Denel Overberg Test Range, Arniston (built/implemented by ASRI, unveiled 2024; suborbital)","Aerospace Systems Research Institute (ASRI), School of Engineering — Phoenix hybrid sounding rockets, SAFFIRE orbital liquid rocket engine","• SANSA (ASRI funding/support
 • SANSA payload flown on ASRI sounding rocket, Dec 2024)
 • Department of Science, Technology and Innovation (DSTI)",,36,1B,да,средняя,"• Собственных спутников нет, но ASRI — ведущая в ЮАР группа по ракетным двигателям (суборбитальные ракеты Phoenix, двигатель SAFFIRE для орбитального носителя) — сильный партнёр по запуску
 • Пост директора International Relations, по данным поиска, вакантен; UKZN в форуме директоров международных офисов IEASA (2025) представляет Executive Director: Corporate Relations Dr Normah Zondo (Zondon1@ukzn.ac.za). Оперативный контакт: координатор Global Engagement Nozipho Khumalo, Khumalon9@ukzn.ac.za, +27 31 260 3217; общий ящик CRD: corporaterelations@ukzn.ac.za
 • Prof. Nana Poku — ректор с 24.06.2019, указан на текущем официальном сайте; дата продления срока не проверена
-• Обращение: на странице UKZN CRD — «Dr Normah Zondo», на сайте IEASA — «Ms»; использовано Dr","• Https://ukzn.ac.za/vice-chancellor/
+• Обращение: на странице UKZN CRD — «Dr Normah Zondo», на сайте IEASA — «Ms»; использовано Dr
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://ukzn.ac.za/vice-chancellor/
 • Https://ukzn.ac.za/general/
 • Https://globalengagement.ukzn.ac.za/team/
 • Https://globalengagement.ukzn.ac.za/
@@ -98,7 +106,10 @@ Stellenbosch University International (SU International)
 • Https://www.sansa.org.za/2024/12/sansa-payload-takes-flight-at-south-africas-new-rocket-gantry/
 • Https://businesstech.co.za/news/lifestyle/864277/south-africa-has-a-new-number-one-university-in-gauteng-second-only-to-uct-nationally/
 • Https://corporaterelations.ukzn.ac.za/executive-director-3/
-• Https://ieasa.studysa.org/about-us/directors-forum/",2026-10-05,
+• Https://ieasa.studysa.org/about-us/directors-forum/
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking
+https://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",2026-10-05,
 5,ЮАР,Потчефструм,North-West University,North-West University,Классический,"Государственный (публичный университет, DHET)","• Natural and Agricultural Sciences
 • Engineering
 • Economic and Management Sciences
@@ -107,26 +118,31 @@ Stellenbosch University International (SU International)
 • Law","North-West University, Private Bag X1290, Potchefstroom 2520, South Africa",shernice.soobramoney@nwu.ac.za,"Dr Shernice Soobramoney
 Директор по глобальному взаимодействию (Director: Global Engagement)
 Офис глобального взаимодействия (Global Engagement Office)
-Обращение: Dear Dr Soobramoney,","личный, совпало",shernice.soobramoney@nwu.ac.za,studies@nwu.ac.za,+27 18 299 1111,https://www.nwu.ac.za,Prof. Mzubanzi Bismark Tyobeka,Vice-Chancellor,,THE2027: 801–1000,,0,,,,"• Centre for Space Research (CSR
+Обращение: Dear Dr Soobramoney,","личный, совпало",shernice.soobramoney@nwu.ac.za,studies@nwu.ac.za,+27 18 299 1111,https://www.nwu.ac.za,Prof. Mzubanzi Bismark Tyobeka,Vice-Chancellor,QS2027: 1001–1200,THE2027: 801–1000,нет общенационального рейтинга,867,0,,,,"• Centre for Space Research (CSR
 • Heliospheric physics, astrophysics
 • Neutron monitors, Mahikeng Astronomical Observatory)",SANSA (training and research collaboration of CSR),,26,3,да,средняя,"• Общего e-mail нет; studies@nwu.ac.za — адрес для абитуриентов (единственный опубликованный общий)
 • E-mail директора Global Engagement взят из списка Directors Forum IEASA 2025 (личный ящик)
 • Город — Потчефструм (кампусы также в Махикенге и Вандербейлпарке)
-• Спутников нет, но есть сильный Центр космических исследований (CSR)","• Https://www.nwu.ac.za/vice-chancellor
+• Спутников нет, но есть сильный Центр космических исследований (CSR)
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.nwu.ac.za/vice-chancellor
 • Https://www.nwu.ac.za/content/nwu-contact-details
 • Https://natural-sciences.nwu.ac.za/space-research
 • Https://www.nwu.ac.za/sites/www.nwu.ac.za/files/files/i-international-students/Presentation-International-Students-web.pdf
-• Https://ieasa.studysa.org/about-us/directors-forum/",2026-10-05,
+• Https://ieasa.studysa.org/about-us/directors-forum/
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking
+https://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",2026-10-05,
 6,ЮАР,Кейптаун,South African Astronomical Observatory (SAAO),South African Astronomical Observatory,НИИ / научный центр,Государственный (агентство / научный совет),"• Optical and Infrared Astronomy
 • Astronomical Instrumentation
 • Telescope Operations (SALT, Sutherland)
 • Astronomy for Development","South African Astronomical Observatory, Observatory Road, Observatory 7925, Cape Town, South Africa (street address; PO box not published on site)",enquiries@saao.ac.za,"Prof. Rosalind Skelton
 Директор SAAO (Director)
 Общий ящик SAAO (General enquiries)
-Обращение: Dear Prof. Skelton,",ящик общий,,enquiries@saao.ac.za,+27 21 447 0025,https://www.saao.ac.za,Prof. Rosalind Skelton,Director: SAAO,,,,0,,,,"• Sutherland observing station (SALT and other optical telescopes), Northern Cape
+Обращение: Dear Prof. Skelton,",ящик общий,,enquiries@saao.ac.za,+27 21 447 0025,https://www.saao.ac.za,Prof. Rosalind Skelton,Director: SAAO,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,,"• Sutherland observing station (SALT and other optical telescopes), Northern Cape
 • Instrumentation division","IAU Office of Astronomy for Development (IAU OAD, hosted at SAAO)",,20,3,да,средняя,"• Национальная оптическая обсерватория (подразделение NRF), не университет; спутников не строит
 • Отдельного международного офиса нет — использован общий ящик enquiries@saao.ac.za; Sutherland: +27 23 571 2436
-• Квота веб-поиска исчерпана — космические проекты/партнёрства отдельно не проверялись","• Https://www.saao.ac.za/about/
+• Квота веб-поиска исчерпана — космические проекты/партнёрства отдельно не проверялись
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.saao.ac.za/about/
 • Https://www.saao.ac.za/contact/
 • Https://www.saao.ac.za/
 • Nanosats.csv",2026-10-05,
@@ -137,10 +153,11 @@ Stellenbosch University International (SU International)
 • SKA/MeerKAT","SARAO, Liesbeek House, River Park, Gloucester Road, Mowbray, Cape Town 7700, South Africa",enquiries@sarao.ac.za,"Ms Pontsho Maruping
 Управляющий директор SARAO (Managing Director)
 Общий ящик SARAO (General enquiries), Cape Town Office
-Обращение: Dear Ms Maruping,",ящик общий,,enquiries@sarao.ac.za,+27 21 506 7300,https://www.sarao.ac.za,Ms Pontsho Maruping,Managing Director,,,,0,,,"SARAO Hartebeesthoek site (former HartRAO): 26 m and 15 m radio telescopes (astronomy and geodesy), Satellite Laser Ranger (SLR), GNSS receivers (GPS, GLONASS, Galileo); MeerKAT / SKA-Mid site in the Karoo (Northern Cape)","Hartebeesthoek space geodesy (SLR, VLBI, GNSS)",,,20,1B,да,средняя,"• Национальная обсерватория (подразделение NRF), не университет; спутников не строит
+Обращение: Dear Ms Maruping,",ящик общий,,enquiries@sarao.ac.za,+27 21 506 7300,https://www.sarao.ac.za,Ms Pontsho Maruping,Managing Director,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,"SARAO Hartebeesthoek site (former HartRAO): 26 m and 15 m radio telescopes (astronomy and geodesy), Satellite Laser Ranger (SLR), GNSS receivers (GPS, GLONASS, Galileo); MeerKAT / SKA-Mid site in the Karoo (Northern Cape)","Hartebeesthoek space geodesy (SLR, VLBI, GNSS)",,,20,1B,да,средняя,"• Национальная обсерватория (подразделение NRF), не университет; спутников не строит
 • Станция лазерной локации спутников (SLR) и GNSS в Хартебеестхуке — потенциально полезны для точного определения орбит VLEO-спутников
 • Ms Pontsho Maruping — Managing Director с 1 октября 2022 г.; отдельного международного офиса/email нет — использован общий ящик enquiries@sarao.ac.za
-• Квота веб-поиска исчерпана — партнёрства с космическими агентствами отдельно не проверялись","• Https://www.sarao.ac.za/contact/
+• Квота веб-поиска исчерпана — партнёрства с космическими агентствами отдельно не проверялись
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.sarao.ac.za/contact/
 • Https://www.sarao.ac.za/about/meet-the-team/
 • Https://www.sarao.ac.za/about/hartrao/
 • Nanosats.csv",2026-10-05,
@@ -152,14 +169,18 @@ Stellenbosch University International (SU International)
 • Law","University of Cape Town, Private Bag X3, Rondebosch 7701, South Africa",iapo@uct.ac.za,"Emeritus Prof. Danie Visser
 Исполняющий обязанности директора Международного офиса
 Офис международных академических программ (International Academic Programmes Office, IAPO)
-Обращение: Dear Prof. Visser,",ящик общий,iapo@uct.ac.za,,+27 21 650 9111,https://www.uct.ac.za,Prof. Mosa Moshabela,Vice-Chancellor,QS2027: 184,THE2027: =147,,0,,,,SpaceLab (Department of Electrical Engineering),,,20,3,да,высокая,"• Август 2026: ректор Moshabela оспаривает решения Совета университета в Высоком суде — возможна смена руководства, перед отправкой проверить
+Обращение: Dear Prof. Visser,",ящик общий,iapo@uct.ac.za,,+27 21 650 9111,https://www.uct.ac.za,Prof. Mosa Moshabela,Vice-Chancellor,QS2027: 184,THE2027: =147,нет общенационального рейтинга,277,0,,,,SpaceLab (Department of Electrical Engineering),,,20,3,да,высокая,"• Август 2026: ректор Moshabela оспаривает решения Совета университета в Высоком суде — возможна смена руководства, перед отправкой проверить
 • Международный офис (IAPO) возглавляет и.о. директора — почётный профессор Danie Visser
 • Партнёрства в IAPO курирует Ms Tracy Goslar (Deputy Director: Internationalisation)
-• Собственных запущенных спутников не найдено; есть SpaceLab (космические технологии)","• Https://www.uct.ac.za/contact-us
+• Собственных запущенных спутников не найдено; есть SpaceLab (космические технологии)
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.uct.ac.za/contact-us
 • Https://uct.ac.za/international/international-staff
 • Https://www.news.uct.ac.za/article/-2026-09-17-uct-spring-graduations-vcs-meet-and-greet
 • Https://www.dailymaverick.co.za/article/2026-08-07-another-uct-leadership-crisis-34-complaints-secret-findings-and-a-vc-in-court/
-• Https://www.researchgate.net/lab/SpaceLab-Peter-Martinez",2026-10-05,
+• Https://www.researchgate.net/lab/SpaceLab-Peter-Martinez
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking
+https://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",2026-10-05,
 9,ЮАР,Претория,Council for Scientific and Industrial Research (CSIR),Council for Scientific and Industrial Research (CSIR),НИИ / научный центр,Государственный (агентство / научный совет),"• Defence and Security (incl. Aerospace, Radar, Optronics)
 • Advanced Manufacturing
 • Chemicals and Materials
@@ -167,11 +188,12 @@ Stellenbosch University International (SU International)
 • Mining
 • ICT and High Performance Computing","PO Box 395, Pretoria 0001, South Africa",enquiries@csir.co.za,"ФИО не найдено
 Общая справочная служба (General Enquiries)
-Обращение: Dear Director of the International Office,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,enquiries@csir.co.za,+27 12 841 2911,https://www.csir.co.za,Dr. Thulani Dlamini,Chief Executive Officer,,,,0,,,,"• Defence and Security cluster — Aerospace
+Обращение: Dear Director of the International Office,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,enquiries@csir.co.za,+27 12 841 2911,https://www.csir.co.za,Dr. Thulani Dlamini,Chief Executive Officer,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,,"• Defence and Security cluster — Aerospace
 • Centre for High Performance Computing (CHPC)",,,10,3,да,высокая,"• Не университет — национальный научный совет (включён намеренно)
 • E-mail и телефон на сайте закодированы скриптом; расшифрованы: enquiries@csir.co.za, +27 12 841 2911
 • Исторически CSIR создал Satellite Applications Centre в Хартбистхуке (ныне станция SANSA) и участвовал в программе SumbandilaSat (2009), но собственных спутников не строил
-• Международного офиса нет — писать через общий адрес","• Https://www.csir.co.za/about-us/organisational-structure/our-leadership/group-executive-management
+• Международного офиса нет — писать через общий адрес
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.csir.co.za/about-us/organisational-structure/our-leadership/group-executive-management
 • Https://www.csir.co.za/connect-and-visit/contact-us
 • Https://en.wikipedia.org/wiki/SumbandilaSat",2026-10-05,
 10,ЮАР,Йоханнесбург,University of Johannesburg,University of Johannesburg,Классический,"Государственный (публичный университет, DHET)","• Engineering and the Built Environment
@@ -182,9 +204,10 @@ Stellenbosch University International (SU International)
 • Law","PO Box 524, Auckland Park 2006, Johannesburg, South Africa",international@uj.ac.za,"Prof. Ylva Rodny-Gumede
 Старший директор Управления интернационализации
 Управление интернационализации (Division for Internationalisation)
-Обращение: Dear Prof. Rodny-Gumede,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",international@uj.ac.za,,+27 11 559 4555,https://www.uj.ac.za,Prof. Letlhokwa George Mpedi,Vice-Chancellor,QS2027: 292,THE2027: 351–375,,0,,,,,,,10,3,да,средняя,"• Сайт uj.ac.za блокирует автоматический доступ (403) — данные из поисковой выдачи
+Обращение: Dear Prof. Rodny-Gumede,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",international@uj.ac.za,,+27 11 559 4555,https://www.uj.ac.za,Prof. Letlhokwa George Mpedi,Vice-Chancellor,QS2027: 292,THE2027: 351–375,,,0,,,,,,,10,3,да,средняя,"• Сайт uj.ac.za блокирует автоматический доступ (403) — данные из поисковой выдачи
 • Division for Internationalisation: старший директор Prof Ylva Rodny-Gumede (подтверждено списком IEASA 2025); личный e-mail: yrodny-gumede@uj.ac.za
-• Запущенных спутников не найдено","• Https://news.uj.ac.za/news/vice-chancellor-message-24-july-2026/
+• Запущенных спутников не найдено
+• Ручная проверка: Webometrics: webometrics.info не открывается (DNS) — не заполнено","• Https://news.uj.ac.za/news/vice-chancellor-message-24-july-2026/
 • Https://www.uj.ac.za/about/message-from-the-senior-director/
 • Https://www.uj.ac.za/member-categories/internationalisation/
 • Https://www.uj.ac.za/about/global-engagement/partnership-networks/
@@ -198,11 +221,12 @@ Stellenbosch University International (SU International)
 • Law","University of Pretoria, Private Bag X20, Hatfield 0028, Pretoria, South Africa",isd@up.ac.za,"Mr Setsipane Mokoduwe
 Руководитель отдела международного сотрудничества (Head: International Cooperation)
 Отдел международного сотрудничества (International Cooperation Division)
-Обращение: Dear Mr Mokoduwe,",ящик общий,isd@up.ac.za,,+27 12 420 3111,https://www.up.ac.za,Prof. Francis Petersen,Vice-Chancellor,QS2027: 326,THE2027: 451–500,,0,,,,,,,10,3,да,средняя,"• Сайт up.ac.za блокирует автоматический доступ (403) — данные из поисковой выдачи по официальным страницам
+Обращение: Dear Mr Mokoduwe,",ящик общий,isd@up.ac.za,,+27 12 420 3111,https://www.up.ac.za,Prof. Francis Petersen,Vice-Chancellor,QS2027: 326,THE2027: 451–500,,,0,,,,,,,10,3,да,средняя,"• Сайт up.ac.za блокирует автоматический доступ (403) — данные из поисковой выдачи по официальным страницам
 • E-mail isd@up.ac.za (International Cooperation Division) взят из факт-листа/выдачи — желательно перепроверить
 • Ректор Petersen в должности с 1.10.2024
 • Запущенных спутников не найдено
-• Глава отдела Mokoduwe подтверждён списком IEASA Directors Forum 2025; личный e-mail: setsipane.mokoduwe@up.ac.za","• Https://www.up.ac.za/news/post_3231965-prof-francis-petersen-appointed-as-vice-chancellor-and-principal-of-the-university-of-pretoria
+• Глава отдела Mokoduwe подтверждён списком IEASA Directors Forum 2025; личный e-mail: setsipane.mokoduwe@up.ac.za
+• Ручная проверка: Webometrics: webometrics.info не открывается (DNS) — не заполнено","• Https://www.up.ac.za/news/post_3231965-prof-francis-petersen-appointed-as-vice-chancellor-and-principal-of-the-university-of-pretoria
 • Https://www.up.ac.za/vice-chancellor-and-principal
 • Https://www.up.ac.za/international-cooperation-division/article/2878567/staff
 • Https://www.up.ac.za/online-application/article/2462950/contact-us
@@ -216,15 +240,19 @@ Stellenbosch University International (SU International)
 • Mining","University of the Witwatersrand, Private Bag X3, Wits 2050, Johannesburg, South Africa; physical: 1 Jan Smuts Avenue, Braamfontein 2000, Johannesburg",Samia.Chasi@wits.ac.za,"Dr Samia Chasi
 Руководитель Офиса интернационализации и стратегических партнёрств
 Офис интернационализации и стратегических партнёрств (Internationalisation and Strategic Partnerships Office)
-Обращение: Dear Dr Chasi,","личный, совпало",Samia.Chasi@wits.ac.za,Zeblon.Vilakazi@wits.ac.za,+27 11 717 1000,https://www.wits.ac.za,Prof. Zeblon Vilakazi,Vice-Chancellor and Principal,QS2027: 302,THE2027: 301–325,,0,,,,,,,10,3,да,высокая,"• Общий email не опубликован; email_general — личный адрес ректора с официальной страницы (тел. +27 11 717 1102)
+Обращение: Dear Dr Chasi,","личный, совпало",Samia.Chasi@wits.ac.za,Zeblon.Vilakazi@wits.ac.za,+27 11 717 1000,https://www.wits.ac.za,Prof. Zeblon Vilakazi,Vice-Chancellor and Principal,QS2027: 302,THE2027: 301–325,нет общенационального рейтинга,396,0,,,,,,,10,3,да,высокая,"• Общий email не опубликован; email_general — личный адрес ректора с официальной страницы (тел. +27 11 717 1102)
 • Для партнёрств — Internationalisation and Strategic Partnerships Office (Dr Samia Chasi, с апреля 2025, тел. +27 11 717 9731); International Students Office (Ms Gita Patel, Gita.Patel@wits.ac.za) — студенческая мобильность
-• Собственных запущенных спутников не найдено","• Https://www.wits.ac.za/about-wits/contact-us/management-contacts/
+• Собственных запущенных спутников не найдено
+• Рейтинги: QS: в таблице как «University of Witwatersrand»; THE: в таблице как «University of the Witwatersrand»; Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.wits.ac.za/about-wits/contact-us/management-contacts/
 • Https://www.wits.ac.za/about-wits/office-of-the-vice-chancellor/
 • Https://www.wits.ac.za/people/academic-a-z-listing/v/zeblonvilakaziwitsacza/
 • Https://www.wits.ac.za/research/staff/
 • Https://www.wits.ac.za/news/latest-news/general-news/2025/2025-11/advancing-meaningful-collaborations-for-wits-.html
 • Https://www.wits.ac.za/internationalstudents/contact-us/
-• Https://ieasa.studysa.org/about-us/directors-forum/",2026-10-05,
+• Https://ieasa.studysa.org/about-us/directors-forum/
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking
+https://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",2026-10-05,
 13,ЮАР,Маханда (Грэмстаун),Rhodes University,Rhodes University,Классический,"Государственный (публичный университет, DHET)","• Science
 • Humanities
 • Commerce
@@ -233,94 +261,19 @@ Stellenbosch University International (SU International)
 • Education","Rhodes University, PO Box 94, Makhanda (Grahamstown) 6140, Eastern Cape, South Africa; physical: Drosty Road, Makhanda 6139",internationaloffice@ru.ac.za,"Ms Orla Quinlan
 Директор по глобальному взаимодействию (Global Engagement Director)
 Международный офис (International Office / Global Engagement)
-Обращение: Dear Ms Quinlan,",ящик общий,internationaloffice@ru.ac.za,communications@ru.ac.za,+27 46 603 8111,https://www.ru.ac.za,Prof. Sizwe Mabizela,Vice-Chancellor,QS2027: 901-950,,,0,,,,,,,6,3,да,высокая,"• Общий email не опубликован; communications@ru.ac.za — адрес отдела коммуникаций из футера официального сайта
+Обращение: Dear Ms Quinlan,",ящик общий,internationaloffice@ru.ac.za,communications@ru.ac.za,+27 46 603 8111,https://www.ru.ac.za,Prof. Sizwe Mabizela,Vice-Chancellor,QS2027: 901–950,THE2027: не в рейтинге,нет общенационального рейтинга,1336,0,,,,,,,6,3,да,высокая,"• Общий email не опубликован; communications@ru.ac.za — адрес отдела коммуникаций из футера официального сайта
 • Не путать с Rhodes College (США), у которого есть CubeSat RHOK-SAT
 • По данным поиска, студенты SANSA обучаются в Rhodes по MSc Space Science (страница research.sansa.org.za недоступна — не подтверждено)
-• Международный офис: тел. +27 46 603 8217; адрес Eden Grove Building, Lucas Avenue, Makhanda 6139","• Https://www.ru.ac.za/contactus/
+• Международный офис: тел. +27 46 603 8217; адрес Eden Grove Building, Lucas Avenue, Makhanda 6139
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.ru.ac.za/contactus/
 • Https://www.ru.ac.za/internationalisation/contactus/
 • Https://www.ru.ac.za/vice-chancellor/
 • Https://www.ru.ac.za/latestnews/open_day_2026.html
 • Https://businesstech.co.za/news/lifestyle/864277/south-africa-has-a-new-number-one-university-in-gauteng-second-only-to-uct-nationally/
-• Https://ieasa.studysa.org/about-us/directors-forum/",2026-10-05,
-14,ЮАР,Кейптаун,University of the Western Cape,University of the Western Cape,Классический,"Государственный (публичный университет, DHET)","• Natural Sciences
-• Community and Health Sciences
-• Dentistry
-• Economic and Management Sciences
-• Law
-• Education","University of the Western Cape, Robert Sobukwe Road, Bellville 7535, South Africa",trsingh@uwc.ac.za,"Dr Tasmeera Singh
-Директор по международным связям и SANORD
-Офис международных связей (International Relations Office)
-Обращение: Dear Dr Singh,","личный, совпало",trsingh@uwc.ac.za,info@uwc.ac.za,+27 21 959 2911,https://www.uwc.ac.za,Prof. Robert John Balfour,Rector and Vice-Chancellor,,THE2027: 701–800,,0,,,,,,,6,3,да,высокая,"• Ректор Balfour в должности с 1.01.2025 (в UWC должность называется Rector and Vice-Chancellor)
-• Офис международных связей (IRO) также ведёт секретариат SANORD; общий адрес iro@uwc.ac.za встречается в поисковой выдаче, но на официальной странице не подтверждён
-• Быстрая проверка: запущенных спутников не найдено
-• Сайт ограничивает частоту запросов (429)","• Https://www.uwc.ac.za/about/leadership
-• Https://www.uwc.ac.za/about/international-relations/contact
-• Https://www.uwc.ac.za/news-and-announcements/news/watch-meet-the-university-of-the-western-capes-new-rector-and-vice-chancellor-prof-robert-balfour-8315",2026-10-05,
-15,ЮАР,Дурбан,Durban University of Technology,Durban University of Technology,Технический / аэрокосмический,"Государственный (публичный университет, DHET)","• Engineering and the Built Environment
-• Applied Sciences
-• Accounting and Informatics
-• Health Sciences
-• Management Sciences
-• Arts and Design","Durban University of Technology, PO Box 1334, Durban 4000, South Africa",samuelsl@dut.ac.za,"Dr Lavern Samuels
-Директор офиса международного образования и партнёрств (IEP)
-Офис международного образования и партнёрств (International Education and Partnerships, IEP)
-Обращение: Dear Dr Samuels,","личный, совпало",samuelsl@dut.ac.za,info@dut.ac.za,+27 31 373 2000,https://www.dut.ac.za,Prof. Thandwa Zizwe Mthembu,Vice-Chancellor and Principal,,THE2027: 1201–1400,,0,,,,,,,3,3,да,высокая,"• Университет технологий (UoT), ведущий среди шести UoT ЮАР; спутников не найдено (одна проверка)
-• Офис International Education and Partnerships (IEP): ML Sultan Campus, D Block, 7–8 этаж; тел. директора +27 31 373 5474
-• Prof. Mthembu — ректор с октября 2016 г","• Https://www.dut.ac.za/contact/
-• Https://www.dut.ac.za/international_education_and_partnerships/
-• Https://www.dut.ac.za/senior_management_team/prof-mthembu/
-• Https://www.dut.ac.za/vice-chancellor/
-• Https://ieasa.studysa.org/about-us/directors-forum/",2026-10-05,
-16,ЮАР,Гкеберха (Порт-Элизабет),Nelson Mandela University,Nelson Mandela University,Классический,"Государственный (публичный университет, DHET)","• Engineering
-• The Built Environment and Technology
-• Science
-• Business and Economic Sciences
-• Health Sciences
-• Law
-• Humanities","PO Box 77000, Nelson Mandela University, Gqeberha 6031, South Africa",international@mandela.ac.za,"Prof. Judy Peter
-Старший директор Международного офиса
-Международный офис (International Office)
-Обращение: Dear Prof. Peter,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",international@mandela.ac.za,info@mandela.ac.za,+27 41 504 1111,https://www.mandela.ac.za,Prof. Sibongile Muthwa,Vice-Chancellor,,THE2027: 1401–1600,,0,,,,,,,3,3,да,средняя,"• Второй срок ректора Muthwa начался 30.03.2022
-• International Office: старший директор Prof Judy Peter (IEASA 2025), личный e-mail Judy.Peter@mandela.ac.za
-• Университет (тогда NMMU) поставил научный эксперимент на борт SumbandilaSat (2009) — это полезная нагрузка, а не собственный спутник
-• Адрес international@mandela.ac.za на сайте указан для запросов по учёбе за рубежом","• Https://www.mandela.ac.za/Leadership-and-Governance
-• Https://www.mandela.ac.za/Research,-Innovation-and-Internationalisation
-• Https://international.mandela.ac.za
 • Https://ieasa.studysa.org/about-us/directors-forum/
-• Https://www.universityworldnews.com/post.php?story=20090918125617455",2026-10-05,
-17,ЮАР,Претория (Га-Ранкува),Sefako Makgatho Health Sciences University,Sefako Makgatho Health Sciences University,Медицинский,"Государственный (публичный университет, DHET)","• Medicine
-• Dentistry
-• Pharmacy
-• Health Care Sciences
-• Science and Technology","Sefako Makgatho Health Sciences University, Registry, PO Box 60, Medunsa 0204, South Africa; physical: Molotlegi Street, Ga-Rankuwa, Pretoria, Gauteng",carlien.jooste@smu.ac.za,"Dr Carlien Jooste
-Директор по интернационализации (Director: Internationalisation)
-Директорат интернационализации (Internationalisation Directorate)
-Обращение: Dear Dr Jooste,","личный, совпало",carlien.jooste@smu.ac.za,,+27 12 521 5759,https://www.smu.ac.za,Prof. Dini Mawela,Acting Vice-Chancellor,,THE2027: 1401–1600,,0,,,,,,,3,3,да,средняя,"• Медицинский университет — профиль слабо соответствует CubeSat-проекту; спутников не найдено
-• Ректор Prof. Tandi Matsha-Erasmus скончалась в июне 2026 г.; обязанности ректора исполняет Prof. Dini Mawela (Acting Vice-Chancellor) — учесть деликатность в письме
-• Общий email не опубликован (на сайте только форма обратной связи); телефон — регистратура (012) 521 5759
-• Международное направление курирует и. о. DVC Prof. Douglas Maleka (Research, Innovation and Internationalisation)","• Https://www.smu.ac.za/contacts/
-• Https://www.smu.ac.za/explore-smu/who-we-are/executive-management/
-• Https://www.smu.ac.za/explore-smu/departments/institutional-advancement-and-internationalisation/
-• Https://ieasa.studysa.org/about-us/directors-forum/
-• Https://www.dut.ac.za/
-• Https://www.timeslive.co.za/news/south-africa/2026-06-18-smu-vice-chancellor-tandi-matsha-erasmus-has-died/",2026-10-05,
-18,ЮАР,Претория,Tshwane University of Technology,Tshwane University of Technology,Технический / аэрокосмический,"Государственный (публичный университет, DHET)","• Engineering and the Built Environment
-• Information and Communication Technology
-• Science
-• Management Sciences
-• Economics and Finance
-• Arts and Design","Tshwane University of Technology, Staatsartillerie Road, Pretoria West, Pretoria 0183, South Africa (physical address of Internationalisation Office, Building 4-236; postal box not verified)",Internationalisation@tut.ac.za,"Mr Caiphus Motadi
-Менеджер офиса интернационализации (Manager: Internationalisation)
-Офис интернационализации (Internationalisation Office, Research & Innovation)
-Обращение: Dear Mr Motadi,",ящик общий,Internationalisation@tut.ac.za,general@tut.ac.za,+27 86 110 2421,https://www.tut.ac.za,Prof. Tinyiko Maluleke,Vice-Chancellor and Principal,,THE2027: 1801–2000,,0,,,,,,,3,3,да,средняя,"• Спутников TUT в nanosats.csv не найдено; квота веб-поиска исчерпана до отдельной проверки (F'SATI исторически имеет узел в TUT — не проверено)
-• Есть два международных подразделения: Internationalisation Office (партнёрства, Research & Innovation; менеджер Mr Caiphus Motadi, +27 12 382 4731) и International Students Office (internationaloffice@tut.ac.za, студенты)
-• Офис ректора: Elizma van der Linde, +27 12 382 4112, VanDerLindeME@tut.ac.za; в IEASA (2025) TUT представляет Dr Rita Raseleka, Director: Research & Innovation (raselekarm@tut.ac.za)","• Https://www.tut.ac.za/contact-us
-• Https://www.tut.ac.za/about/executive-management-committee/
-• Https://www.tut.ac.za/research--innovation/internationalisation/
-• Https://www.tut.ac.za/international-office/international-office-contacts/
-• Https://ieasa.studysa.org/about-us/directors-forum/
-• Nanosats.csv",2026-10-05,
-19,ЮАР,Претория,University of South Africa,University of South Africa,Классический,"Государственный (публичный университет, DHET)","• Distance education
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",2026-10-05,
+14,ЮАР,Претория,University of South Africa,University of South Africa,Классический,"Государственный (публичный университет, DHET)","• Distance education
 • Economic and Management Sciences
 • Education
 • Human Sciences
@@ -329,15 +282,112 @@ Stellenbosch University International (SU International)
 • Engineering and Technology",,intpartners@unisa.ac.za,"Dr Angeline Magabane
 Директор по интернационализации и партнёрствам
 Управление интернационализации и партнёрств (Internationalisation & Partnerships)
-Обращение: Dear Dr Magabane,",ящик общий,intpartners@unisa.ac.za,enquire@unisa.ac.za,,https://www.unisa.ac.za,Prof. Puleng LenkaBula,Vice-Chancellor,,THE2027: 1201–1400,,0,,,,,,,3,3,да,средняя,"• Крупнейший в Африке университет дистанционного обучения
+Обращение: Dear Dr Magabane,",ящик общий,intpartners@unisa.ac.za,enquire@unisa.ac.za,,https://www.unisa.ac.za,Prof. Puleng LenkaBula,Vice-Chancellor,QS2027: 951–1000,THE2027: 1201–1400,нет общенационального рейтинга,745,0,,,,,,,6,3,да,средняя,"• Крупнейший в Африке университет дистанционного обучения
 • Ректор LenkaBula переназначена на второй срок с 1.01.2026; вокруг неё были обвинения группы «Save Unisa» — проверить перед отправкой
 • Почтовый адрес и общий телефон на проверенных страницах не найдены — оставлены пустыми
 • Директор по интернационализации Dr Angeline Magabane (magabm@unisa.ac.za), подтверждено IEASA 2025
-• Быстрая проверка: запущенных спутников не найдено","• Https://www.unisa.ac.za/sites/corporate/default/About/Governance-&-management/Executive-management
+• Быстрая проверка: запущенных спутников не найдено
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.unisa.ac.za/sites/corporate/default/About/Governance-&-management/Executive-management
 • Https://www.unisa.ac.za/sites/corporate/default/About/Internationalisation/Contact-us
 • Https://www.unisa.ac.za/sites/corporate/default/Contact-us
 • Https://thestar.co.za/news/2026-02-12-unisa-charts-decisive-path-for-2026-as-vc-lenkabula-links-global-turbulence-to-local-action/
-• Https://ieasa.studysa.org/about-us/directors-forum/",2026-10-05,
+• Https://ieasa.studysa.org/about-us/directors-forum/
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking
+https://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",2026-10-05,
+15,ЮАР,Кейптаун,University of the Western Cape,University of the Western Cape,Классический,"Государственный (публичный университет, DHET)","• Natural Sciences
+• Community and Health Sciences
+• Dentistry
+• Economic and Management Sciences
+• Law
+• Education","University of the Western Cape, Robert Sobukwe Road, Bellville 7535, South Africa",trsingh@uwc.ac.za,"Dr Tasmeera Singh
+Директор по международным связям и SANORD
+Офис международных связей (International Relations Office)
+Обращение: Dear Dr Singh,","личный, совпало",trsingh@uwc.ac.za,info@uwc.ac.za,+27 21 959 2911,https://www.uwc.ac.za,Prof. Robert John Balfour,Rector and Vice-Chancellor,QS2027: 1001–1200,THE2027: 701–800,нет общенационального рейтинга,1059,0,,,,,,,6,3,да,высокая,"• Ректор Balfour в должности с 1.01.2025 (в UWC должность называется Rector and Vice-Chancellor)
+• Офис международных связей (IRO) также ведёт секретариат SANORD; общий адрес iro@uwc.ac.za встречается в поисковой выдаче, но на официальной странице не подтверждён
+• Быстрая проверка: запущенных спутников не найдено
+• Сайт ограничивает частоту запросов (429)
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.uwc.ac.za/about/leadership
+• Https://www.uwc.ac.za/about/international-relations/contact
+• Https://www.uwc.ac.za/news-and-announcements/news/watch-meet-the-university-of-the-western-capes-new-rector-and-vice-chancellor-prof-robert-balfour-8315
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking
+https://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",2026-10-05,
+16,ЮАР,Дурбан,Durban University of Technology,Durban University of Technology,Технический / аэрокосмический,"Государственный (публичный университет, DHET)","• Engineering and the Built Environment
+• Applied Sciences
+• Accounting and Informatics
+• Health Sciences
+• Management Sciences
+• Arts and Design","Durban University of Technology, PO Box 1334, Durban 4000, South Africa",samuelsl@dut.ac.za,"Dr Lavern Samuels
+Директор офиса международного образования и партнёрств (IEP)
+Офис международного образования и партнёрств (International Education and Partnerships, IEP)
+Обращение: Dear Dr Samuels,","личный, совпало",samuelsl@dut.ac.za,info@dut.ac.za,+27 31 373 2000,https://www.dut.ac.za,Prof. Thandwa Zizwe Mthembu,Vice-Chancellor and Principal,QS2027: не в рейтинге,THE2027: 1201–1400,нет общенационального рейтинга,1838,0,,,,,,,3,3,да,высокая,"• Университет технологий (UoT), ведущий среди шести UoT ЮАР; спутников не найдено (одна проверка)
+• Офис International Education and Partnerships (IEP): ML Sultan Campus, D Block, 7–8 этаж; тел. директора +27 31 373 5474
+• Prof. Mthembu — ректор с октября 2016 г
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.dut.ac.za/contact/
+• Https://www.dut.ac.za/international_education_and_partnerships/
+• Https://www.dut.ac.za/senior_management_team/prof-mthembu/
+• Https://www.dut.ac.za/vice-chancellor/
+• Https://ieasa.studysa.org/about-us/directors-forum/
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking
+https://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",2026-10-05,
+17,ЮАР,Гкеберха (Порт-Элизабет),Nelson Mandela University,Nelson Mandela University,Классический,"Государственный (публичный университет, DHET)","• Engineering
+• The Built Environment and Technology
+• Science
+• Business and Economic Sciences
+• Health Sciences
+• Law
+• Humanities","PO Box 77000, Nelson Mandela University, Gqeberha 6031, South Africa",international@mandela.ac.za,"Prof. Judy Peter
+Старший директор Международного офиса
+Международный офис (International Office)
+Обращение: Dear Prof. Peter,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",international@mandela.ac.za,info@mandela.ac.za,+27 41 504 1111,https://www.mandela.ac.za,Prof. Sibongile Muthwa,Vice-Chancellor,QS2027: 1401+,THE2027: 1401–1600,нет общенационального рейтинга,1853,0,,,,,,,3,3,да,средняя,"• Второй срок ректора Muthwa начался 30.03.2022
+• International Office: старший директор Prof Judy Peter (IEASA 2025), личный e-mail Judy.Peter@mandela.ac.za
+• Университет (тогда NMMU) поставил научный эксперимент на борт SumbandilaSat (2009) — это полезная нагрузка, а не собственный спутник
+• Адрес international@mandela.ac.za на сайте указан для запросов по учёбе за рубежом
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.mandela.ac.za/Leadership-and-Governance
+• Https://www.mandela.ac.za/Research,-Innovation-and-Internationalisation
+• Https://international.mandela.ac.za
+• Https://ieasa.studysa.org/about-us/directors-forum/
+• Https://www.universityworldnews.com/post.php?story=20090918125617455
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking
+https://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",2026-10-05,
+18,ЮАР,Претория (Га-Ранкува),Sefako Makgatho Health Sciences University,Sefako Makgatho Health Sciences University,Медицинский,"Государственный (публичный университет, DHET)","• Medicine
+• Dentistry
+• Pharmacy
+• Health Care Sciences
+• Science and Technology","Sefako Makgatho Health Sciences University, Registry, PO Box 60, Medunsa 0204, South Africa; physical: Molotlegi Street, Ga-Rankuwa, Pretoria, Gauteng",carlien.jooste@smu.ac.za,"Dr Carlien Jooste
+Директор по интернационализации (Director: Internationalisation)
+Директорат интернационализации (Internationalisation Directorate)
+Обращение: Dear Dr Jooste,","личный, совпало",carlien.jooste@smu.ac.za,,+27 12 521 5759,https://www.smu.ac.za,Prof. Dini Mawela,Acting Vice-Chancellor,QS2027: не в рейтинге,THE2027: 1401–1600,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,3,3,да,средняя,"• Медицинский университет — профиль слабо соответствует CubeSat-проекту; спутников не найдено
+• Ректор Prof. Tandi Matsha-Erasmus скончалась в июне 2026 г.; обязанности ректора исполняет Prof. Dini Mawela (Acting Vice-Chancellor) — учесть деликатность в письме
+• Общий email не опубликован (на сайте только форма обратной связи); телефон — регистратура (012) 521 5759
+• Международное направление курирует и. о. DVC Prof. Douglas Maleka (Research, Innovation and Internationalisation)
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.smu.ac.za/contacts/
+• Https://www.smu.ac.za/explore-smu/who-we-are/executive-management/
+• Https://www.smu.ac.za/explore-smu/departments/institutional-advancement-and-internationalisation/
+• Https://ieasa.studysa.org/about-us/directors-forum/
+• Https://www.dut.ac.za/
+• Https://www.timeslive.co.za/news/south-africa/2026-06-18-smu-vice-chancellor-tandi-matsha-erasmus-has-died/
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
+19,ЮАР,Претория,Tshwane University of Technology,Tshwane University of Technology,Технический / аэрокосмический,"Государственный (публичный университет, DHET)","• Engineering and the Built Environment
+• Information and Communication Technology
+• Science
+• Management Sciences
+• Economics and Finance
+• Arts and Design","Tshwane University of Technology, Staatsartillerie Road, Pretoria West, Pretoria 0183, South Africa (physical address of Internationalisation Office, Building 4-236; postal box not verified)",Internationalisation@tut.ac.za,"Mr Caiphus Motadi
+Менеджер офиса интернационализации (Manager: Internationalisation)
+Офис интернационализации (Internationalisation Office, Research & Innovation)
+Обращение: Dear Mr Motadi,",ящик общий,Internationalisation@tut.ac.za,general@tut.ac.za,+27 86 110 2421,https://www.tut.ac.za,Prof. Tinyiko Maluleke,Vice-Chancellor and Principal,QS2027: не в рейтинге,THE2027: 1801–2000,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,3,3,да,средняя,"• Спутников TUT в nanosats.csv не найдено; квота веб-поиска исчерпана до отдельной проверки (F'SATI исторически имеет узел в TUT — не проверено)
+• Есть два международных подразделения: Internationalisation Office (партнёрства, Research & Innovation; менеджер Mr Caiphus Motadi, +27 12 382 4731) и International Students Office (internationaloffice@tut.ac.za, студенты)
+• Офис ректора: Elizma van der Linde, +27 12 382 4112, VanDerLindeME@tut.ac.za; в IEASA (2025) TUT представляет Dr Rita Raseleka, Director: Research & Innovation (raselekarm@tut.ac.za)
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.tut.ac.za/contact-us
+• Https://www.tut.ac.za/about/executive-management-committee/
+• Https://www.tut.ac.za/research--innovation/internationalisation/
+• Https://www.tut.ac.za/international-office/international-office-contacts/
+• Https://ieasa.studysa.org/about-us/directors-forum/
+• Nanosats.csv
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 20,ЮАР,Тохояндоу,University of Venda,University of Venda,Классический,"Государственный (публичный университет, DHET)","• Agriculture
 • Environmental Sciences
 • Health Sciences
@@ -347,14 +397,16 @@ Stellenbosch University International (SU International)
 • Humanities and Education","University of Venda, Private Bag X5050, Thohoyandou 0950, Limpopo, South Africa",international.students@univen.ac.za,"Dr Olusegun Obadire
 Директор Управления международных связей и партнёрств (Director: International Relations and Partnerships)
 Управление международных связей и партнёрств (IRP Directorate) — общий ящик
-Обращение: Dear Dr Obadire,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",international.students@univen.ac.za,,+27 15 962 9347 / 9348 (IRP); +27 15 962 8000 (коммутатор),https://www.univen.ac.za,Prof. Bernard Nthambeleni,Vice-Chancellor,,THE2027: 1801–2000,,0,,,,,,,3,3,да,высокая,"• Сайт univen.ac.za напрямую из нашей сети недоступен (ошибка TLS через прокси); страницы открыты через r.jina.ai 04.10.2026
+Обращение: Dear Dr Obadire,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",international.students@univen.ac.za,,+27 15 962 9347 / 9348 (IRP); +27 15 962 8000 (коммутатор),https://www.univen.ac.za,Prof. Bernard Nthambeleni,Vice-Chancellor,QS2027: не в рейтинге,THE2027: 1801–2000,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,3,3,да,высокая,"• Сайт univen.ac.za напрямую из нашей сети недоступен (ошибка TLS через прокси); страницы открыты через r.jina.ai 04.10.2026
 • Dr Olusegun Obadire — Director: International Relations and Partnerships (страница Director’s Profile). Личный e-mail директора (segun.obadire@univen.ac.za, из IEASA 2025) на сайте не опубликован — заменён на общий international.students@univen.ac.za
 • По вопросам научного сотрудничества и институциональных партнёрств сайт IRP указывает matome.mokoena@univen.ac.za; мобильность/Erasmus+ — nontlanhla.ntakana@univen.ac.za; WhatsApp IRP +27 60 677 0033
 • Быстрая проверка: спутников не найдено
-• Перепроверка: Сайт univen.ac.za открыт через reader-сервис 04.10.2026: VC Prof Bernard Nthambeleni, директор IRP Dr Olusegun Obadire (уже не «и.о.»), общий e-mail и телефоны IRP, адрес Private Bag X5050 подтверждены; e-mail international заменён на официальный общий ящик IRP","• Https://www.univen.ac.za/news/univen-opens-2026-academic-year-with-a-renewed-commitment-to-excellence-impact-and-student-success/
+• Перепроверка: Сайт univen.ac.za открыт через reader-сервис 04.10.2026: VC Prof Bernard Nthambeleni, директор IRP Dr Olusegun Obadire (уже не «и.о.»), общий e-mail и телефоны IRP, адрес Private Bag X5050 подтверждены; e-mail international заменён на официальный общий ящик IRP
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.univen.ac.za/news/univen-opens-2026-academic-year-with-a-renewed-commitment-to-excellence-impact-and-student-success/
 • Https://www.univen.ac.za/contact-us/
 • Https://www.univen.ac.za/irp/study-at-univen/
-• Https://ieasa.studysa.org/about-us/directors-forum/",2026-10-05,
+• Https://ieasa.studysa.org/about-us/directors-forum/
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 21,ЮАР,Блумфонтейн,University of the Free State,University of the Free State,Классический,"Государственный (публичный университет, DHET)","• Natural and Agricultural Sciences
 • Health Sciences
 • Humanities
@@ -363,27 +415,33 @@ Stellenbosch University International (SU International)
 • Education","University of the Free State, PO Box 339, Bloemfontein 9300, South Africa; physical: 205 Nelson Mandela Drive, Park West, Bloemfontein",jacobsl@ufs.ac.za,"Prof. Lynette Jacobs
 И. о. директора и руководитель исследовательского направления Офиса международных связей (Acting Director)
 Директорат международных партнёрств и связей (Directorate for International Partnerships and Relations, ранее Office for International Affairs)
-Обращение: Dear Prof. Jacobs,","личный, совпало",jacobsl@ufs.ac.za,info@ufs.ac.za,+27 51 401 9111,https://www.ufs.ac.za,Prof. Hester C. Klopper,Vice-Chancellor and Principal,QS2027: 1001-1200,THE2027: 1201–1400,,0,,,,,,,3,3,да,средняя,"• Prof. Hester Klopper — ректор с 1 февраля 2025 г., первая женщина на этом посту
+Обращение: Dear Prof. Jacobs,","личный, совпало",jacobsl@ufs.ac.za,info@ufs.ac.za,+27 51 401 9111,https://www.ufs.ac.za,Prof. Hester C. Klopper,Vice-Chancellor and Principal,QS2027: 1001–1200,THE2027: 1201–1400,нет общенационального рейтинга,1128,0,,,,,,,3,3,да,средняя,"• Prof. Hester Klopper — ректор с 1 февраля 2025 г., первая женщина на этом посту
 • Международное направление курирует DVC: Strategic Initiatives, International and Institutional Affairs Prof. Sam Tshehla (с 1 апреля 2026)
 • Prof. Lynette Jacobs указана как исполняющая обязанности директора Office for International Affairs (данные IEASA за 2025 г.); с 2026 г. подразделение называется Directorate for International Partnerships and Relations — должность директора стоит перепроверить
-• Спутников не найдено (одна проверка)","• Https://www.ufs.ac.za/contact-us
+• Спутников не найдено (одна проверка)
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.ufs.ac.za/contact-us
 • Https://www.ufs.ac.za/international
 • Https://www.ufs.ac.za/about-the-ufs/governance/rectorate
 • Https://ieasa.studysa.org/about-us/directors-forum/
-• Https://businesstech.co.za/news/lifestyle/864277/south-africa-has-a-new-number-one-university-in-gauteng-second-only-to-uct-nationally/",2026-10-05,
+• Https://businesstech.co.za/news/lifestyle/864277/south-africa-has-a-new-number-one-university-in-gauteng-second-only-to-uct-nationally/
+https://www.topuniversities.com/world-university-rankings (QS WUR 2027)
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking
+https://figshare.com/articles/preprint/Ranking_Web_of_Universities_webometrics_info_July_2026_edition/33062150",2026-10-05,
 22,ЮАР,Вандербейлпарк,Vaal University of Technology,Vaal University of Technology,Технический / аэрокосмический,"Государственный (публичный университет, DHET)","• Engineering and Technology
 • Applied and Computer Sciences
 • Management Sciences
 • Human Sciences","Vaal University of Technology, Private Bag X021, Andries Potgieter Blvd, Vanderbijlpark 1911, South Africa",vidok@vut.ac.za,"Mr Vido Kungune
 Директор международного офиса (Director: International Office)
 Международный офис (International Office)
-Обращение: Dear Mr Kungune,",ящик общий,vidok@vut.ac.za,vutmedia@vut.ac.za,+27 16 950 9000,https://www.vut.ac.za,Prof. Khehla Ndlovu,Vice-Chancellor and Principal,,THE2027: 1801–2000,,0,,,,,,,3,3,да,средняя,"• Отдельного общего email нет; vutmedia@vut.ac.za — ящик, привязанный к блоку General Enquiries / медиа на странице контактов
+Обращение: Dear Mr Kungune,",ящик общий,vidok@vut.ac.za,vutmedia@vut.ac.za,+27 16 950 9000,https://www.vut.ac.za,Prof. Khehla Ndlovu,Vice-Chancellor and Principal,QS2027: не в рейтинге,THE2027: 1801–2000,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,3,3,да,средняя,"• Отдельного общего email нет; vutmedia@vut.ac.za — ящик, привязанный к блоку General Enquiries / медиа на странице контактов
 • Директор International Office Mr Vido Kungune: тел. 016 950 9377, офис A009-18 (подтверждено также IEASA 2025)
-• Спутников в nanosats.csv не найдено; квота веб-поиска исчерпана до отдельной проверки","• Https://www.vut.ac.za/contact-us/
+• Спутников в nanosats.csv не найдено; квота веб-поиска исчерпана до отдельной проверки
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.vut.ac.za/contact-us/
 • Https://www.vut.ac.za/international-office/
 • Https://www.vut.ac.za/executive-management/
 • Https://ieasa.studysa.org/about-us/directors-forum/
-• Nanosats.csv",2026-10-05,
+• Nanosats.csv
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 23,ЮАР,Мтата,Walter Sisulu University,iYunivesithi Walter Sisulu (Walter Sisulu University),Классический,"Государственный (публичный университет, DHET)","• Medicine and Health Sciences
 • Engineering
 • Built Environment and IT
@@ -393,22 +451,25 @@ Stellenbosch University International (SU International)
 • Law
 • Humanities and Social Sciences","Walter Sisulu University, Private Bag X1, UNITRA 5117, Mthatha, South Africa",enquiries@wsu.ac.za,"ФИО не найдено
 Общая справочная служба университета (General Enquiries)
-Обращение: Dear Director of the International Office,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,enquiries@wsu.ac.za,+27 47 502 2100,https://www.wsu.ac.za,Dr. Thandi Mgwebi,Vice-Chancellor,,THE2027: 1801–2000,,0,,,,,,,3,3,да,средняя,"• Во входном списке указано как «iYunivesithi Walter Sisulu» — это официальное брендовое название; английское — Walter Sisulu University
+Обращение: Dear Director of the International Office,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,enquiries@wsu.ac.za,+27 47 502 2100,https://www.wsu.ac.za,Dr. Thandi Mgwebi,Vice-Chancellor,QS2027: не в рейтинге,THE2027: 1801–2000,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,3,3,да,средняя,"• Во входном списке указано как «iYunivesithi Walter Sisulu» — это официальное брендовое название; английское — Walter Sisulu University
 • Директор по интернационализации и партнёрствам — Dr Mzolisi Payi (отдельный e-mail не опубликован); рекомендуется адресовать письмо ему через enquiries@wsu.ac.za
 • Кампусы: Мтата, Баттерворт, Ист-Лондон (Buffalo City), Комани
-• Быстрая проверка: спутников не найдено","• Https://www.wsu.ac.za/en/home-wsu/governance-leadership-wsu/leadership
+• Быстрая проверка: спутников не найдено
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.wsu.ac.za/en/home-wsu/governance-leadership-wsu/leadership
 • Https://www.wsu.ac.za/en/contact-us
-• Https://www.wsu.ac.za/en/internationalisation-partnerships-directorate",2026-10-05,
+• Https://www.wsu.ac.za/en/internationalisation-partnerships-directorate
+https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",2026-10-05,
 24,ЮАР,Кейптаун,African Institute for Mathematical Sciences (AIMS South Africa),African Institute for Mathematical Sciences (AIMS South Africa),НИИ / научный центр,Частный,"• Mathematical Sciences
 • Data Science
 • Artificial Intelligence
 • Physics
 • Mathematics Education","AIMS South Africa, 6 Melrose Road, Muizenberg 7945, Cape Town, South Africa",info@aims.ac.za,"ФИО не найдено
 Общая справочная служба (General Enquiries)
-Обращение: Dear Director of the International Office,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@aims.ac.za,,https://aims.ac.za,Karin-Therese Howell,Executive Director,,,,0,,,,,,,0,3,да,средняя,"• Некоммерческий институт (часть панафриканской сети AIMS), а не университет — ownership «Частный» условно
+Обращение: Dear Director of the International Office,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@aims.ac.za,,https://aims.ac.za,Karin-Therese Howell,Executive Director,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,средняя,"• Некоммерческий институт (часть панафриканской сети AIMS), а не университет — ownership «Частный» условно
 • Учёное звание руководителя на сайте не указано — в обращении не использовать «Prof.» без проверки
 • Телефон на официальной странице не опубликован
-• Спутниковой деятельности нет; интерес — AI/данные для обработки спутниковых данных","• Https://aims.ac.za/contact/
+• Спутниковой деятельности нет; интерес — AI/данные для обработки спутниковых данных
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://aims.ac.za/contact/
 • Https://aims.ac.za/team/",2026-10-05,
 25,ЮАР,Блумфонтейн,"Central University of Technology, Free State","Central University of Technology, Free State",Технический / аэрокосмический,"Государственный (публичный университет, DHET)","• Engineering
 • Built Environment and Information Technology
@@ -417,10 +478,11 @@ Stellenbosch University International (SU International)
 • Humanities","Central University of Technology, Free State, Private Bag X20539, Bloemfontein 9300, South Africa",vmdwayi@cut.ac.za,"Valindawo Dwayi
 Старший директор Центра глобального взаимодействия
 Центр глобального взаимодействия (Centre for Global Engagement, CGE)
-Обращение: Dear Senior Director Dwayi,","личный, совпало",vmdwayi@cut.ac.za,,+27 51 507 3911,https://www.cut.ac.za,Prof. Pamela Zibuyile Dube,Vice-Chancellor,,,,0,,,,,,,0,3,да,средняя,"• Университет технологий; общего e-mail нет (только портал Ask CUT)
+Обращение: Dear Senior Director Dwayi,","личный, совпало",vmdwayi@cut.ac.za,,+27 51 507 3911,https://www.cut.ac.za,Prof. Pamela Zibuyile Dube,Vice-Chancellor,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,средняя,"• Университет технологий; общего e-mail нет (только портал Ask CUT)
 • Centre for Global Engagement (CGE): старший директор Valindawo Dwayi (учёное звание/обращение не указано)
 • Profile_type указан как technical/aerospace по типу вуза (University of Technology); аэрокосмических подразделений не найдено
-• Быстрая проверка: спутников не найдено","• Https://www.cut.ac.za/
+• Быстрая проверка: спутников не найдено
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.cut.ac.za/
 • Https://www.cut.ac.za/management
 • Https://www.cut.ac.za/cge
 • Https://www.cut.ac.za/contact-details-by-category",2026-10-05,
@@ -431,9 +493,10 @@ Stellenbosch University International (SU International)
 • Hospitality","Emeris Ruimsig Johannesburg campus, 144 Peter Road, Ruimsig, Roodepoort 1724, South Africa",ruimsig@emeris.ac.za,"Andre Lubbe
 Руководитель кампуса (Campus Head, Ruimsig Johannesburg)
 Общий ящик кампуса Emeris Ruimsig (General queries)
-Обращение: Dear Mr Lubbe,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",,ruimsig@emeris.ac.za,+27 11 950 4000,https://www.emeris.ac.za,Andre Lubbe,Campus Head (Ruimsig Johannesburg),,,,0,,,,,,,0,3,да,средняя,"• IIE MSA (бывший Monash South Africa) больше не существует как отдельный бренд: сайт iiemsa.co.za перенаправляет на Emeris — объединённый бренд IIE (Varsity College, IIE MSA, Vega, School of Hospitality); частный вуз, регистрация DHET 2007/HE07/002
+Обращение: Dear Mr Lubbe,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",,ruimsig@emeris.ac.za,+27 11 950 4000,https://www.emeris.ac.za,Andre Lubbe,Campus Head (Ruimsig Johannesburg),QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,средняя,"• IIE MSA (бывший Monash South Africa) больше не существует как отдельный бренд: сайт iiemsa.co.za перенаправляет на Emeris — объединённый бренд IIE (Varsity College, IIE MSA, Vega, School of Hospitality); частный вуз, регистрация DHET 2007/HE07/002
 • Нет ректора/вице-канцлера и международного офиса на уровне кампуса; указан руководитель кампуса Ruimsig (учёное звание не указано); ruimsig@emeris.ac.za — общий ящик кампуса
-• Частный вуз без инженерно-космического профиля; спутников нет; низкий приоритет для CubeSat-группировки","• Https://www.emeris.ac.za/campuses/ruimsig-johannesburg
+• Частный вуз без инженерно-космического профиля; спутников нет; низкий приоритет для CubeSat-группировки
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.emeris.ac.za/campuses/ruimsig-johannesburg
 • Https://www.emeris.ac.za/about
 • Https://www.iiemsa.co.za/ (redirects to emeris.ac.za)",2026-10-05,
 27,ЮАР,Дурбан (Умлази),Mangosuthu University of Technology,Mangosuthu University of Technology,Технический / аэрокосмический,"Государственный (публичный университет, DHET)","• Engineering (Civil, Chemical, Electrical, Mechanical)
@@ -443,9 +506,10 @@ Stellenbosch University International (SU International)
 • ICT","Mangosuthu University of Technology, PO Box 12363, Jacobs 4026, South Africa; physical: 511 Griffiths Mxenge Highway, Umlazi, Durban 4031",info@mut.ac.za,"M Mkhize
 Старший директор по маркетингу и коммуникациям, руководитель направления интернационализации (Senior Director: Marketing and Communication)
 Общий ящик / колл-центр университета (General enquiries); интернационализация — директорат Marketing and Communications
-Обращение: Dear Senior Director Mkhize,",ящик общий,,info@mut.ac.za,+27 31 907 7111,https://www.mut.ac.za,Prof. Rushiella Songca,Interim Vice-Chancellor and Principal,,,,0,,,,,,,0,3,да,средняя,"• Отдельного международного офиса/email нет: интернационализация находится в директорате Marketing and Communications под кураторством ректора; ведущее лицо — Senior Director: Marketing and Communication (на сайте указан как «M Mkhize», учёное звание не указано)
+Обращение: Dear Senior Director Mkhize,",ящик общий,,info@mut.ac.za,+27 31 907 7111,https://www.mut.ac.za,Prof. Rushiella Songca,Interim Vice-Chancellor and Principal,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,средняя,"• Отдельного международного офиса/email нет: интернационализация находится в директорате Marketing and Communications под кураторством ректора; ведущее лицо — Senior Director: Marketing and Communication (на сайте указан как «M Mkhize», учёное звание не указано)
 • Ректор — временный (Interim VC) Prof. Rushiella Songca; офис ректора: тел. 031 907 7219, adsecretary@mut.ac.za
-• Спутников в nanosats.csv не найдено; квота веб-поиска исчерпана до отдельной проверки","• Https://www.mut.ac.za/contact-us/
+• Спутников в nanosats.csv не найдено; квота веб-поиска исчерпана до отдельной проверки
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.mut.ac.za/contact-us/
 • Https://www.mut.ac.za/about-mut/leadership-and-governance/
 • Https://www.mut.ac.za/mut-internationalisation/
 • Nanosats.csv",2026-10-05,
@@ -457,10 +521,11 @@ Stellenbosch University International (SU International)
 • Policing and Law Enforcement
 • Engineering and Architecture","The Village Square, Office 101, Cnr Queen & Oxford Street, Durbanville, Cape Town 7550, South Africa",hello@stadio.ac.za,"ФИО не найдено
 Служба поддержки абитуриентов (Application Support)
-Обращение: Dear Director of the International Office,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,hello@stadio.ac.za,+27 87 158 5000,https://www.stadio.ac.za,Dr. Stanislaus Alexander du Plessis,Chief Executive Officer (CEO) - Principal,,,,0,,,,,,,0,3,да,средняя,"• Частный вуз (STADIO (Pty) Ltd, регистрация DHET 2008/HE07/004), в основном дистанционное обучение
+Обращение: Dear Director of the International Office,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,hello@stadio.ac.za,+27 87 158 5000,https://www.stadio.ac.za,Dr. Stanislaus Alexander du Plessis,Chief Executive Officer (CEO) - Principal,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,средняя,"• Частный вуз (STADIO (Pty) Ltd, регистрация DHET 2008/HE07/004), в основном дистанционное обучение
 • Hello@stadio.ac.za — адрес поддержки абитуриентов (единственный опубликованный)
 • Адрес головного офиса — со страницы STADIO Holdings
-• Космической деятельности нет — низкий приоритет для приглашения","• Https://www.stadio.ac.za/about-stadio/leadership
+• Космической деятельности нет — низкий приоритет для приглашения
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.stadio.ac.za/about-stadio/leadership
 • Https://www.stadio.ac.za/contact-us
 • Https://stadio.co.za/contact-us/",2026-10-05,
 29,ЮАР,Кимберли,Sol Plaatje University,Sol Plaatje University,Классический,"Государственный (публичный университет, DHET)","• Education
@@ -468,11 +533,12 @@ Stellenbosch University International (SU International)
 • Humanities
 • Natural and Applied Sciences (incl. Data Science)","Sol Plaatje University, Central Campus, 24-26 Scanlan Street, New Park, Kimberley 8301, South Africa (physical; postal box not published)",studentrecruitment@spu.ac.za,"ФИО не найдено
 Отдел набора студентов (Student Recruitment) — единственный опубликованный общий ящик
-Обращение: Dear Director of the International Office,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,studentrecruitment@spu.ac.za,+27 53 491 0000,https://www.spu.ac.za,Prof. Debra Meyer,Vice-Chancellor and Principal,,,,0,,,,,,,0,3,да,средняя,"• Общий email и международный офис на сайте не опубликованы; studentrecruitment@spu.ac.za — ящик набора студентов (единственный общий адрес) — лучше звонить на коммутатор +27 53 491 0000 и запросить адрес офиса ректора
+Обращение: Dear Director of the International Office,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,studentrecruitment@spu.ac.za,+27 53 491 0000,https://www.spu.ac.za,Prof. Debra Meyer,Vice-Chancellor and Principal,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,средняя,"• Общий email и международный офис на сайте не опубликованы; studentrecruitment@spu.ac.za — ящик набора студентов (единственный общий адрес) — лучше звонить на коммутатор +27 53 491 0000 и запросить адрес офиса ректора
 • Молодой университет (осн. 2014) в Кимберли; для исследовательского партнёрства релевантен DVC: Research, Innovation and Postgraduate Affairs Prof. Jose Frantz
 • Спутников в nanosats.csv не найдено; квота веб-поиска исчерпана до отдельной проверки
 • 04.10.2026 на сайте подтверждены: VC Prof. Debra Meyer (Executive Management), коммутатор +27 53 491 0000 и адрес Central Campus (страница Contact); общего e-mail и международного офиса на сайте по-прежнему нет
-• Перепроверка: Ректор, телефон и адрес подтверждены на сайте spu.ac.za 04.10.2026; общий e-mail/международный офис не опубликованы","• Https://www.spu.ac.za/index.php/contact-spu/
+• Перепроверка: Ректор, телефон и адрес подтверждены на сайте spu.ac.za 04.10.2026; общий e-mail/международный офис не опубликованы
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.spu.ac.za/index.php/contact-spu/
 • Https://www.spu.ac.za/index.php/leadership-and-governance/
 • Https://www.spu.ac.za/index.php/spu-executive_management/
 • Nanosats.csv",2026-10-05,
@@ -484,10 +550,11 @@ Stellenbosch University International (SU International)
 • Health Sciences","University of Fort Hare, Alice Campus, Ring Road, Dikeni (Alice) 5700, Eastern Cape, South Africa",international@ufh.ac.za,"Mr Lebethe Malefo
 Директор по международным связям и партнёрствам
 Управление международных связей и партнёрств (International Affairs and Partnerships, IAP)
-Обращение: Dear Mr Malefo,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",international@ufh.ac.za,info@ufh.ac.za,+27 40 602 2011,https://www.ufh.ac.za,Prof. Sakhela Buhlungu,Vice-Chancellor,,,,0,,,,,,,0,3,да,высокая,"• Указан физический адрес кампуса Элис (почтовый ящик на проверенной странице не найден)
+Обращение: Dear Mr Malefo,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",international@ufh.ac.za,info@ufh.ac.za,+27 40 602 2011,https://www.ufh.ac.za,Prof. Sakhela Buhlungu,Vice-Chancellor,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,высокая,"• Указан физический адрес кампуса Элис (почтовый ящик на проверенной странице не найден)
 • Директор IAP Mr Lebethe Malefo, личный e-mail LMalefo@ufh.ac.za, тел. +27 43 704 7666; менеджер по партнёрствам Ms Quinter Onyango (QOnyango@ufh.ac.za)
 • Исторический университет (выпускники — Нельсон Мандела и др.)
-• Быстрая проверка: спутников не найдено","• Https://www.ufh.ac.za/about-us
+• Быстрая проверка: спутников не найдено
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.ufh.ac.za/about-us
 • Https://www.ufh.ac.za/international-affairs-and-partnerships
 • Https://www.ufh.ac.za/international-affairs-and-partnerships/about-iap",2026-10-05,
 31,ЮАР,Полокване (Манквенг),University of Limpopo,University of Limpopo,Классический,"Государственный (публичный университет, DHET)","• Health Sciences
@@ -496,10 +563,11 @@ Stellenbosch University International (SU International)
 • Management and Law","University of Limpopo, The Registrar, Private Bag X1106, Sovenga 0727, South Africa; physical: C/O R71 Tzaneen Road and University Street, Mankweng Township, Polokwane, Limpopo",internationaloffice@ul.ac.za,"Prof. Nonceba Mbambo-Kekana
 Директор по международным связям (Director: International Affairs)
 Офис международных связей (Office of International Affairs)
-Обращение: Dear Prof. Mbambo-Kekana,",ящик общий,internationaloffice@ul.ac.za,enrolment@ul.ac.za,+27 15 268 9111,https://www.ul.ac.za,Dr Jeffrey Mabelebele,Vice-Chancellor and Principal,,,,0,,,,,,,0,3,да,средняя,"• Общего email нет — enrolment@ul.ac.za (приём/общие контакты, +27 15 268 3332) указан на сайте как «General contacts»
+Обращение: Dear Prof. Mbambo-Kekana,",ящик общий,internationaloffice@ul.ac.za,enrolment@ul.ac.za,+27 15 268 9111,https://www.ul.ac.za,Dr Jeffrey Mabelebele,Vice-Chancellor and Principal,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,средняя,"• Общего email нет — enrolment@ul.ac.za (приём/общие контакты, +27 15 268 3332) указан на сайте как «General contacts»
 • Ректор Dr Jeffrey Mabelebele — назван на сайте «новым» ректором; учёное звание — Dr (не Prof.)
 • Директор Office of International Affairs — Prof. Nonceba Mbambo-Kekana по данным IEASA (2025); на сайте UL имя не найдено — перепроверить
-• Спутников в nanosats.csv не найдено; квота веб-поиска исчерпана до отдельной проверки","• Https://www.ul.ac.za/contact-us/
+• Спутников в nanosats.csv не найдено; квота веб-поиска исчерпана до отдельной проверки
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.ul.ac.za/contact-us/
 • Https://www.ul.ac.za/about-us/
 • Https://www.ul.ac.za/admissions/international-students/
 • Https://www.ul.ac.za/university-of-limpopo-hosts-continental-dialogue-on-internationalisation-human-mobility/
@@ -512,24 +580,29 @@ Stellenbosch University International (SU International)
 • ICT
 • Hospitality","University of Mpumalanga, Mbombela Campus, Cnr R40 and D725 Roads, Mbombela 1200, South Africa",info@ump.ac.za,"ФИО не найдено
 Общая справочная служба университета (General Enquiries)
-Обращение: Dear Director of the International Office,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@ump.ac.za,+27 13 002 0001,https://www.ump.ac.za,Prof. Thenjiwe Meyiwa,Vice-Chancellor,,,,0,,,,,,,0,3,да,средняя,"• Молодой университет (основан в 2014 г.), сильный аграрный профиль
+Обращение: Dear Director of the International Office,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@ump.ac.za,+27 13 002 0001,https://www.ump.ac.za,Prof. Thenjiwe Meyiwa,Vice-Chancellor,QS2027: не в рейтинге,THE2027: не в рейтинге,нет общенационального рейтинга,нет в опубл. списке,0,,,,,,,0,3,да,средняя,"• Молодой университет (основан в 2014 г.), сильный аграрный профиль
 • Директор International Partnerships & Networks — Mr Thabo Dikgale (с 1.03.2026), e-mail не опубликован; рекомендуется адресовать письмо ему через info@ump.ac.za
-• Быстрая проверка: спутников не найдено","• Https://www.ump.ac.za/
+• Быстрая проверка: спутников не найдено
+• Рейтинги: Национального рейтинга нет: DHET и CHE вузы не ранжируют","• Https://www.ump.ac.za/
 • Https://www.ump.ac.za/Research-and-Innovation/Partnerships-(1).aspx",2026-10-05,
 33,ЮАР,Квадлангезва (Эмпангени),University of Zululand,University of Zululand,Классический,"Государственный (публичный университет, DHET)","• Science
 • Agriculture and Engineering
 • Commerce
 • Administration and Law
 • Education
-• Humanities and Social Sciences","University of Zululand, Private Bag X1001, KwaDlangezwa 3886, KwaZulu-Natal, South Africa",admissions@unizulu.ac.za,"ФИО не найдено
+• Humanities and Social Sciences","University of Zululand, Private Bag X1001, KwaDlangezwa 3886, KwaZulu-Natal, South Africa",admissions@unizulu.ac.za,"Prof. Nokuthula Kunene
+Vice-Chancellor
 Приёмная комиссия (Admissions)
-Обращение: Dear Director of the International Office,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,admissions@unizulu.ac.za,+27 35 902 6000,https://www.unizulu.ac.za,Prof. Nokuthula Winfred Kunene,Vice-Chancellor,,,,0,,,,,,,0,3,да,низкая,"• Сайт unizulu.ac.za недоступен (503/таймаут) — данные из поисковой выдачи
+Обращение: Dear Prof. Kunene,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,admissions@unizulu.ac.za,+27 35 902 6000,https://www.unizulu.ac.za,Prof. Nokuthula Winfred Kunene,Vice-Chancellor,QS2027: не в рейтинге,THE2027: не в рейтинге,,,0,,,,,,,0,3,да,высокая,"• Сайт unizulu.ac.za недоступен (503/таймаут) — данные из поисковой выдачи
 • Prof Kunene назначена ректором с 2026 г. (Prof Mtose оставалась до 31.03.2026) — проверить вступление в должность
 • Общего e-mail не найдено; admissions@unizulu.ac.za — адрес приёмной комиссии
 • Международный офис и его руководитель не установлены; в IEASA 2025 университет представляла Prof Nontokozo Mashiya (Director: VC's Office, MashiyaN@unizulu.ac.za)
 • Быстрая проверка: спутников не найдено
 • Повторная проверка 04.10.2026: официальных страниц международного офиса найти не удалось
-• Перепроверка: Сайт unizulu.ac.za недоступен по HTTPS, по HTTP — заглушка обновления LMS; данные не изменены","• Https://witness.co.za/news/2025/09/18/unizulu-appoints-professor-kunene-as-its-new-vice-chancellor/
+• Перепроверка: Сайт unizulu.ac.za недоступен по HTTPS, по HTTP — заглушка обновления LMS; данные не изменены
+• Ручная проверка: Контакты прочитаны на официальном сайте 05.10.2026 (сессия с агентами). Рейтинги: QS 2027 — официальный файл данных topuniversities.com (qs-rankings-data/en/4153156.txt), сверка 05.10.2026; THE 2027 — список THE World University Rankings 2027 (data/sources/the2027.json). Webometrics: webometrics.info не открывается (DNS) — не заполнено","• Https://witness.co.za/news/2025/09/18/unizulu-appoints-professor-kunene-as-its-new-vice-chancellor/
 • Https://usaf.ac.za/universities-south-africa-welcomes-a-new-cohort-of-vice-chancellors-in-2026/
 • Https://www.unizulu.ac.za/contact-us/
-• Https://ieasa.studysa.org/about-us/directors-forum/",2026-10-05,
+• Https://ieasa.studysa.org/about-us/directors-forum/
+https://www.unizulu.ac.za/executive-management/
+• Https://www.unizulu.ac.za/contact-us/",2026-10-05,
