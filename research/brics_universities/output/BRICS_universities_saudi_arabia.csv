@@ -1,4 +1,4 @@
-﻿№,Страна,Город,Вуз (англ.),Вуз (ориг.),Профиль,Гос. / частный,Основные направления обучения,Почтовый адрес,E-mail для рассылки (рекомендуемый),Адресат (владелец рекомендуемого e-mail),E-mail (международный отдел),E-mail (общий / ректорат),Телефон,Сайт,Ректор / президент,Должность,Рейтинг QS,Рейтинг THE,Национальный рейтинг,Запущено КА (спутников),Названия запущенных КА (год),КА в разработке,Наземная станция,Космические подразделения,Партнёрства в космической сфере,Санкционные / ограничительные списки (США),Космический индекс (0–100),Волна рассылки,Проверка домена e-mail (MX),Достоверность,Примечания,Источники,Дата проверки,"Секретарь парткома (справочно, Китай)"
+﻿№,Страна,Город,Вуз (англ.),Вуз (ориг.),Профиль,Гос. / частный,Основные направления обучения,Почтовый адрес,E-mail для рассылки (рекомендуемый),Адресат (владелец рекомендуемого e-mail),Стыковка e-mail и адресата,E-mail (международный отдел),E-mail (общий / ректорат),Телефон,Сайт,Ректор / президент,Должность,Рейтинг QS,Рейтинг THE,Национальный рейтинг,Запущено КА (спутников),Названия запущенных КА (год),КА в разработке,Наземная станция,Космические подразделения,Партнёрства в космической сфере,Санкционные / ограничительные списки (США),Космический индекс (0–100),Волна рассылки,Проверка домена e-mail (MX),Достоверность,Примечания,Источники,Дата проверки,"Секретарь парткома (справочно, Китай)"
 1,Саудовская Аравия,Эр-Рияд,King Saud University,جامعة الملك سعود,Классический,Государственный (Минобразования КСА),"• Engineering
 • Medicine & Health Sciences
 • Natural Sciences
@@ -7,7 +7,7 @@
 • Humanities","King Saud University, P.O. Box 2454, Riyadh 11451, Saudi Arabia",icstd@ksu.edu.sa,"Dr. Mezyad Alterkawi
 Руководитель Офиса глобального взаимодействия
 Офис глобального взаимодействия (Global Engagement Office)
-Обращение: Dear Dr. Alterkawi,",icstd@ksu.edu.sa,po@ksu.edu.sa,+966 11 467 0000,https://ksu.edu.sa,Prof. Ali bin Mohammed Masmali,Acting President,QS2027: 107,THE2027: 216,,1,KSU CubeSat (2021),"• KSU CubeSat-2 (second satellite approved in 2021
+Обращение: Dear Dr. Alterkawi,",ящик общий,icstd@ksu.edu.sa,po@ksu.edu.sa,+966 11 467 0000,https://ksu.edu.sa,Prof. Ali bin Mohammed Masmali,Acting President,QS2027: 107,THE2027: 216,,1,KSU CubeSat (2021),"• KSU CubeSat-2 (second satellite approved in 2021
 • Current status unverified)",Satellite ground station at the College of Engineering (built during KSU CubeSat project),College of Engineering – KSU CubeSat project team,,,80,1A,да,высокая,"• Ректор — исполняющий обязанности (Acting President) с июня 2025 г.; упоминается в новостях KSU от 30.09.2026
 • KSU CubeSat (1U) запущен 22.03.2021 на «Союз-2» с Байконура — первый спутник саудовского университета; сошёл с орбиты
 • Почта po@ksu.edu.sa — офис ректора; icstd@ksu.edu.sa — Global Engagement Office (مكتب الشراكات العالمية), тел. +966 11 469 7398
@@ -19,7 +19,7 @@
 • Https://chairs.ksu.edu.sa/en/node/113
 • Https://www.arabnews.com/node/1836141/saudi-arabia
 • Https://saudigazette.com.sa/article/604671
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 2,Саудовская Аравия,Эр-Рияд,King Abdulaziz City for Science and Technology (KACST),مدينة الملك عبدالعزيز للعلوم والتقنية,НИИ / научный центр,Государственный (агентство),"• Space & Aeronautics
 • Information & Communication Technologies
 • Energy & Water
@@ -27,7 +27,7 @@
 • Health & Biotechnology
 • Semiconductors","King Abdullah Road, Al-Raed, Riyadh 12354; P.O. Box 6086, Riyadh 11442, Saudi Arabia",media@kacst.gov.sa,"ФИО не найдено
 Медиа-центр / общий адрес KACST
-Обращение: Dear Director of International Cooperation,",,media@kacst.gov.sa,+966 11 488 3555,https://kacst.gov.sa,Dr. Munir M. Eldesouki,President,,,,17,"• SaudiSat-1A (2000)
+Обращение: Dear Director of International Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,media@kacst.gov.sa,+966 11 488 3555,https://kacst.gov.sa,Dr. Munir M. Eldesouki,President,,,,17,"• SaudiSat-1A (2000)
 • SaudiSat-1B (2000)
 • SaudiSat-1C (2002)
 • SaudiSat-2 (2004)
@@ -56,7 +56,7 @@
 • Https://www.spa.gov.sa/en/N2509965
 • Https://futureforum.kaust.edu.sa/speakers/detail/eldesouki
 • Https://kacst.gov.sa/en/contact
-• Https://www.iafastro.org/membership/all-members/king-abdulaziz-city-for-science-and-technology-kacst.html",2026-10-04,
+• Https://www.iafastro.org/membership/all-members/king-abdulaziz-city-for-science-and-technology-kacst.html",2026-10-05,
 3,Саудовская Аравия,Мекка,Umm Al-Qura University,جامعة أم القرى,Классический,Государственный (Минобразования КСА),"• Sharia & Islamic Studies
 • Arabic Language
 • Engineering & Islamic Architecture
@@ -65,7 +65,7 @@
 • Education","Umm Al-Qura University, Al-Abdiyah Campus, Makkah, Saudi Arabia (National Address: MDAA3581)",icu@uqu.edu.sa,"ФИО не найдено
 Генеральный руководитель отдела международного сотрудничества
 Отдел международного сотрудничества (Local and International Partnership Unit)
-Обращение: Dear General Supervisor of the International Cooperation Unit,",icu@uqu.edu.sa,rect@uqu.edu.sa,+966 12 528 0347,https://uqu.edu.sa,Prof. Moaddi bin Muhammad Aal Madh-hab,President,QS2027: 741–750,THE2027: 451–500,,1,SARI-1 (Ufuq) (2025),,,Student team 'Ufuq' (SARI competition),Saudi Space Agency (SARI student satellite competition),,65,1A,да,средняя,"• Ректор назначен королевским указом в октябре 2020 г.; актуальность на 2026 г. подтверждена только CV на официальном сайте (дата обновления не видна)
+Обращение: Dear General Supervisor of the International Cooperation Unit,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,icu@uqu.edu.sa,rect@uqu.edu.sa,+966 12 528 0347,https://uqu.edu.sa,Prof. Moaddi bin Muhammad Aal Madh-hab,President,QS2027: 741–750,THE2027: 451–500,,1,SARI-1 (Ufuq) (2025),,,Student team 'Ufuq' (SARI competition),Saudi Space Agency (SARI student satellite competition),,65,1A,да,средняя,"• Ректор назначен королевским указом в октябре 2020 г.; актуальность на 2026 г. подтверждена только CV на официальном сайте (дата обновления не видна)
 • SARI-1 (Ufuq, PocketQube 1p) — победитель конкурса SARI Саудовского космического агентства; запуск 28.11.2025 (Transporter-15, через Alba Orbital), статус на орбите неизвестен
 • E-mail на сайте показаны картинками: rect@uqu.edu.sa (офис ректора), icu@uqu.edu.sa (Unit of International Cooperation)
 • Имя текущего руководителя подразделения международного сотрудничества не подтверждено","• Https://uqu.edu.sa/en/rect
@@ -74,7 +74,7 @@
 • Https://uqu.edu.sa/en/rect/92736
 • Https://spa.gov.sa/en/N2455914
 • Https://www.nanosats.eu/sat/sari-1
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 4,Саудовская Аравия,Тувал,King Abdullah University of Science and Technology (KAUST),جامعة الملك عبدالله للعلوم والتقنية,Технический / аэрокосмический,Частный (некоммерческий),"• Computer
 • Electrical and Mathematical Science and Engineering
 • Physical Science and Engineering
@@ -83,7 +83,7 @@
 • Biomedical Sciences
 • Earth System Science and Remote Sensing","4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Kingdom of Saudi Arabia",global.pr@kaust.edu.sa,"ФИО не найдено
 Отдел глобальных связей с общественностью и СМИ (Global PR)
-Обращение: Dear Head of Global Communications,",,global.pr@kaust.edu.sa,,https://www.kaust.edu.sa,Prof. Sir Edward Byrne AC,President & Chief Academic Officer,,,,1,"KAUSTSat (Lemur-2 ONREFLECTION, 6U, with Spire Global) (2023)",,,"Climate and Livability Initiative / Hydrology, Agriculture and Land Observation group (Prof. Matthew McCabe) — KAUSTSat mission","Spire Global (KAUSTSat platform, launch on SpaceX Transporter-7)",,55,1A,да,средняя,"• Общий e-mail не опубликован; global.pr@kaust.edu.sa — ящик медиа/PR (Global PR and in-Kingdom inquiries), используется как единственный неадмиссионный адрес
+Обращение: Dear Head of Global Communications,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,global.pr@kaust.edu.sa,,https://www.kaust.edu.sa,Prof. Sir Edward Byrne AC,President & Chief Academic Officer,,,,1,"KAUSTSat (Lemur-2 ONREFLECTION, 6U, with Spire Global) (2023)",,,"Climate and Livability Initiative / Hydrology, Agriculture and Land Observation group (Prof. Matthew McCabe) — KAUSTSat mission","Spire Global (KAUSTSat platform, launch on SpaceX Transporter-7)",,55,1A,да,средняя,"• Общий e-mail не опубликован; global.pr@kaust.edu.sa — ящик медиа/PR (Global PR and in-Kingdom inquiries), используется как единственный неадмиссионный адрес
 • Отдел партнёрств (Partnerships Office, >40 международных соглашений) упомянут на сайте, но e-mail и руководитель не опубликованы
 • THE2027: статус Reporter (не ранжирован); в QS2027 (топ-500) не найден — KAUST как магистерско-докторский вуз в QS не участвует
 • KAUSTSat построен на платформе Spire Global (подписочная модель), полезная нагрузка — гиперспектральная камера KAUST; работал ~14 месяцев, сошёл с орбиты
@@ -92,7 +92,7 @@
 • Https://www.kaust.edu.sa/en/news/kaust-satellite-to-deliver-earth-observation-data
 • Https://admissions.kaust.edu.sa/info-and-contact/partnerships
 • Https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EA004729
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 5,Саудовская Аравия,Дахран,King Fahd University of Petroleum and Minerals (KFUPM),جامعة الملك فهد للبترول والمعادن,Технический / аэрокосмический,Государственный (Минобразования КСА),"• Petroleum & Chemical Engineering
 • Electrical & Computer Engineering
 • Mechanical & Aerospace Engineering
@@ -101,7 +101,7 @@
 • Business","King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",global@kfupm.edu.sa,"Husameddin S. AlMadani
 Советник ректора, руководитель Global Engagement
 Офис глобального взаимодействия (KFUPM Global Engagement)
-Обращение: Dear Husameddin AlMadani,",global@kfupm.edu.sa,info@kfupm.edu.sa,+966 13 860 0000,https://www.kfupm.edu.sa,Dr. Muhammad M. Al-Saggaf,President,QS2027: 63,THE2027: =176,,0,,"• Opti-K 6U CubeSat with optical transmitter (with Astrolight)
+Обращение: Dear Husameddin AlMadani,",ящик общий,global@kfupm.edu.sa,info@kfupm.edu.sa,+966 13 860 0000,https://www.kfupm.edu.sa,Dr. Muhammad M. Al-Saggaf,President,QS2027: 63,THE2027: =176,,0,,"• Opti-K 6U CubeSat with optical transmitter (with Astrolight)
 • Dual 8U Earth-observation satellite mission (GomSpace MoU, Sep 2026)
 • High-altitude balloon CubeSat platform","Student-built ground station (IRC-ASE); Optical Ground Station with 360° tracking (Opti-K, in development)","Interdisciplinary Research Center for Aviation & Space Exploration (IRC-ASE), Director Dr. Ayman Abdallah, irc-ase@kfupm.edu.sa","• GomSpace (MoU, 2026)
 • Astrolight (Opti-K)",,55,1B,да,высокая,"• Спутников на орбите нет; активная космическая программа через IRC-ASE (создан в 2022 г.)
@@ -113,7 +113,7 @@
 • Https://global.kfupm.edu.sa/about-us/advisors-message/
 • Https://ri.kfupm.edu.sa/irc-ase/contact-us
 • Https://ri.kfupm.edu.sa/research-highlights/pioneering-the-future-of-space-communication
-• Https://gomspace.com/gomspace-and-kfupm-sign-mou-to-explore-strategic-cooperation-in-space-technology/",2026-10-04,
+• Https://gomspace.com/gomspace-and-kfupm-sign-mou-to-explore-strategic-cooperation-in-space-technology/",2026-10-05,
 6,Саудовская Аравия,Эр-Рияд,Prince Sultan University,جامعة الأمير سلطان,Классический,Частный (некоммерческий),"• Engineering
 • Computer and Information Sciences
 • Business Administration
@@ -121,18 +121,18 @@
 • Law
 • Humanities and Sciences","Rafha Street, Salah Al-Din District, Riyadh 11586, Saudi Arabia",info@psu.edu.sa,"ФИО не найдено
 Общий адрес университета
-Обращение: Dear Sir or Madam,",,info@psu.edu.sa,+966 11 494 8000,https://www.psu.edu.sa,Dr. Ahmed S. Yamani,President (Rector),QS2027: 488,THE2027: 376–400,,1,"Rawdat Scoop (SARI-2, PocketQube 1p) (2025)",,,,"Saudi Space Agency (SARI student small-satellite competition — PSU design selected for flight, launched Nov 2025)",,55,1A,да,средняя,"• Официальный сайт psu.edu.sa недоступен (HTTP 503 / ошибка TLS) — контакты взяты из справочника WIPO TISC, ФИО ректора — из Википедии; рекомендуется перепроверить
+Обращение: Dear Sir or Madam,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@psu.edu.sa,+966 11 494 8000,https://www.psu.edu.sa,Dr. Ahmed S. Yamani,President (Rector),QS2027: 488,THE2027: 376–400,,1,"Rawdat Scoop (SARI-2, PocketQube 1p) (2025)",,,,"Saudi Space Agency (SARI student small-satellite competition — PSU design selected for flight, launched Nov 2025)",,55,1A,да,средняя,"• Официальный сайт psu.edu.sa недоступен (HTTP 503 / ошибка TLS) — контакты взяты из справочника WIPO TISC, ФИО ректора — из Википедии; рекомендуется перепроверить
 • Спутник Rawdat Scoop (SARI-2) спроектирован студентами PSU в рамках конкурса SARI Саудовского космического агентства и запущен в ноябре 2025; статус на орбите неизвестен
 • E-mail международного отдела не найден","• Https://en.wikipedia.org/wiki/Prince_Sultan_University
 • Https://www.wipo.int/tisc/en/search/details.jsp?id=12475
 • Https://www.arabnews.com/node/2624459/saudi-arabia
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 7,Саудовская Аравия,Эр-Рияд,Saudi Space Agency,وكالة الفضاء السعودية,НИИ / научный центр,Государственный (агентство),"• Space policy and regulation
 • Space science and exploration
 • Space weather
 • Human spaceflight
 • Satellite missions
-• Space education and capacity building","8461 Ushba – Al Shohda Dist., 13241–3512 Riyadh, Saudi Arabia",,,,,+966 11 244 3999,https://ssa.gov.sa,Dr. Mohammed bin Saud Al-Tamimi,Chief Executive Officer (Acting CEO per April 2026 SPA statement),,,,1,"Shams (Space Weather CubeSat-1, SWC-1, 12U) (2026)",,,"• Saudi Human Spaceflight (HSF) Program
+• Space education and capacity building","8461 Ushba – Al Shohda Dist., 13241–3512 Riyadh, Saudi Arabia",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,+966 11 244 3999,https://ssa.gov.sa,Dr. Mohammed bin Saud Al-Tamimi,Chief Executive Officer (Acting CEO per April 2026 SPA statement),,,,1,"Shams (Space Weather CubeSat-1, SWC-1, 12U) (2026)",,,"• Saudi Human Spaceflight (HSF) Program
 • Shams space-weather mission
 • SARI student small-satellite competition
 • Madak competition
@@ -149,7 +149,7 @@
 • Https://www.arabnews.com/node/2627837/amp
 • Https://www.arabnews.com/node/2624459/saudi-arabia
 • Https://spa.gov.sa/en/N2318158
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 8,Саудовская Аравия,Эль-Хобар,Prince Mohammad Bin Fahd University,جامعة الأمير محمد بن فهد,Классический,Частный,"• Engineering
 • Computer Engineering and Sciences
 • Business Administration
@@ -158,7 +158,7 @@
 • Medicine","Prince Mohammad Bin Fahd University, P.O. Box 1664, Al Khobar 31952, Kingdom of Saudi Arabia",President@pmu.edu.sa,"Dr. Issa Al Ansari
 Президент (ректор) университета
 Офис президента университета
-Обращение: Dear Dr. Al Ansari,",,President@pmu.edu.sa,+966 13 849 8880,https://www.pmu.edu.sa,Dr. Issa Al Ansari,President (Rector),QS2027: 421,THE2027: 401–450,,0,,,,Space Research Center (listed among PMU research centers),"• ICESCO (strategic partnership incl. space sciences
+Обращение: Dear Dr. Al Ansari,",ящик общий,,President@pmu.edu.sa,+966 13 849 8880,https://www.pmu.edu.sa,Dr. Issa Al Ansari,President (Rector),QS2027: 421,THE2027: 401–450,,0,,,,Space Research Center (listed among PMU research centers),"• ICESCO (strategic partnership incl. space sciences
 • Proposed CanSat training workshop, Sept 2025)",,35,2,да,средняя,"• E-mail международного отдела (Department of International Affairs) не опубликован; использован адрес офиса президента President@pmu.edu.sa (также есть Info@pmu.edu.sa)
 • На старой оргсхеме директором International Affairs указана Mrs. Rania Sinno, но в текущем справочнике она числится директором Institutional Planning and Research — не использовано
 • В университете есть Space Research Center; спутников в nanosats.csv нет; в 2025 г. подписано партнёрство с ICESCO в т.ч. по космическим наукам (CanSat)
@@ -166,7 +166,7 @@
 • Https://www.pmu.edu.sa/global-engagement/
 • Https://www.pmu.edu.sa/global-engagement/about/organizational-chart.aspx
 • Https://icesco.org/en/2025/09/10/strategic-partnership-between-icesco-and-prince-mohammad-bin-fahd-university-in-saudi-arabia/
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 9,Саудовская Аравия,Джидда,King Abdulaziz University,جامعة الملك عبدالعزيز,Классический,Государственный (Минобразования КСА),"• Engineering
 • Medicine and Health Sciences
 • Marine Sciences
@@ -174,7 +174,7 @@
 • Computing and Information Technology
 • Economics and Administration","King Abdulaziz University, P.O. Box 80200, Jeddah 21589, Saudi Arabia",ic@kau.edu.sa,"ФИО не найдено
 Управление глобального и внешнего взаимодействия (международные соглашения)
-Обращение: Dear Director of Global and External Engagement,",ic@kau.edu.sa,cic@kau.edu.sa,+966 12 640 0000,https://www.kau.edu.sa,Dr. Tareef bin Yousuf Alaama,President,QS2027: 200,THE2027: 401–450,,0,,,,"Astronomy programme (Faculty of Science) — KAU offers astronomy, meteorology and marine science courses",,,20,3,да,средняя,"• Ректор (с февраля 2024) подтверждён по Википедии; на официальном сайте страница ректора не найдена (сайт на JS)
+Обращение: Dear Director of Global and External Engagement,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,ic@kau.edu.sa,cic@kau.edu.sa,+966 12 640 0000,https://www.kau.edu.sa,Dr. Tareef bin Yousuf Alaama,President,QS2027: 200,THE2027: 401–450,,0,,,,"Astronomy programme (Faculty of Science) — KAU offers astronomy, meteorology and marine science courses",,,20,3,да,средняя,"• Ректор (с февраля 2024) подтверждён по Википедии; на официальном сайте страница ректора не найдена (сайт на JS)
 • Ic@kau.edu.sa — Управление глобального и внешнего взаимодействия (Department of International Cooperation Agreements, подчиняется ректору); руководитель не указан
 • Бесплатный номер: 800 116 9528; основной +966 12 640 0000 (WIPO TISC, сайт КАУ)
 • Спутников, построенных КАУ, не найдено","• Https://kau.edu.sa/en/page/contact-us
@@ -182,7 +182,7 @@
 • Https://kau.edu.sa/en/page/important-links
 • Https://www.wipo.int/tisc/en/search/details.jsp?id=11353
 • Https://en.wikipedia.org/wiki/Tareef_bin_Yousuf_Alaama
-• Https://en.wikipedia.org/wiki/King_Abdulaziz_University",2026-10-04,
+• Https://en.wikipedia.org/wiki/King_Abdulaziz_University",2026-10-05,
 10,Саудовская Аравия,Даммам,Imam Abdulrahman Bin Faisal University,جامعة الإمام عبد الرحمن بن فيصل,Классический,Государственный (Минобразования КСА),"• Medicine and Health Sciences
 • Engineering
 • Architecture and Planning
@@ -190,12 +190,12 @@
 • Business Administration
 • Science","P.O. Box 1982, King Faisal bin Abdulaziz Road, Dammam 31441 (national address: Dammam 34221), Saudi Arabia",cm.dir@iau.edu.sa,"ФИО не найдено
 Управление коммуникаций центральной администрации
-Обращение: Dear Director of Communications,",,cm.dir@iau.edu.sa,+966 13 333 0030,https://www.iau.edu.sa,Prof. Dr. Fahad bin Ahmed Alharbi,President,QS2027: 474,THE2027: 651–700,,0,,,,,,,10,3,да,средняя,"• Официальный сайт iau.edu.sa недоступен из-за геоблокировки (HTTP 503 / сброс соединения); контакты — из справочника WIPO TISC
+Обращение: Dear Director of Communications,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,cm.dir@iau.edu.sa,+966 13 333 0030,https://www.iau.edu.sa,Prof. Dr. Fahad bin Ahmed Alharbi,President,QS2027: 474,THE2027: 651–700,,0,,,,,,,10,3,да,средняя,"• Официальный сайт iau.edu.sa недоступен из-за геоблокировки (HTTP 503 / сброс соединения); контакты — из справочника WIPO TISC
 • Ректор проф. Фахад аль-Харби назначен королевским указом (новость IAU, июль 2025); в Википедии также упоминается прежний ректор Абдулла ар-Рубаиш — использовать аль-Харби
 • Cm.dir@iau.edu.sa — Управление коммуникаций центральной администрации; по поисковой выдаче также info@iau.edu.sa и тел. +966 13 333 0000 (не подтверждено)
 • E-mail международного отдела не найден; космических проектов не найдено","• Https://www.wipo.int/tisc/en/search/details.jsp?id=11748
 • Https://en.wikipedia.org/wiki/Imam_Abdulrahman_Bin_Faisal_University
-• Https://www.iau.edu.sa/en/news/professor-dr-fahd-al-harbi-president-of-imam-abdulrahman-bin-faisal-university",2026-10-04,
+• Https://www.iau.edu.sa/en/news/professor-dr-fahd-al-harbi-president-of-imam-abdulrahman-bin-faisal-university",2026-10-05,
 11,Саудовская Аравия,Абха,King Khalid University,جامعة الملك خالد,Классический,Государственный (Минобразования КСА),"• Medicine & Health Sciences
 • Engineering
 • Computer Science
@@ -204,7 +204,7 @@
 • Business","King Khalid University, P.O. Box 418, Abha 61411, Saudi Arabia",msalshehri@kku.edu.sa,"Dr. Mohammed bin Salem Al-Shugeibi
 Руководитель (супервайзер) управления местного и международного сотрудничества
 Управление местного и международного сотрудничества (Local and International Cooperation Administration)
-Обращение: Dear Dr. Al-Shugeibi,",msalshehri@kku.edu.sa,kkurector@kku.edu.sa,+966 17 241 8000,https://www.kku.edu.sa,Prof. Falleh R. M. Al-Solamy,President,QS2027: 514,THE2027: 301–325,,0,,,,,,,10,3,да,средняя,"• Ректор занимает пост с июня 2016 г.; официальная страница (обновлена 2026) указывает «June 2016 – Present»
+Обращение: Dear Dr. Al-Shugeibi,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",msalshehri@kku.edu.sa,kkurector@kku.edu.sa,+966 17 241 8000,https://www.kku.edu.sa,Prof. Falleh R. M. Al-Solamy,President,QS2027: 514,THE2027: 301–325,,0,,,,,,,10,3,да,средняя,"• Ректор занимает пост с июня 2016 г.; официальная страница (обновлена 2026) указывает «June 2016 – Present»
 • Спутников не найдено (nanosats.csv и один поиск)
 • Общий e-mail kkurector@kku.edu.sa — офис ректора; отдельного общего адреса отдела международного сотрудничества на сайте нет — указан личный e-mail руководителя отдела (msalshehri@kku.edu.sa)
 • QS2027 по таблице qianmu.org (вторичный источник)","• Https://www.kku.edu.sa/en
@@ -213,7 +213,7 @@
 • Https://www.kku.edu.sa/en/portfolio/local-and-international-cooperation
 • Https://www.kku.edu.sa/en/contact
 • Https://www.qianmu.org/2027QS世界大学排名
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 12,Саудовская Аравия,Эль-Хардж,Prince Sattam bin Abdulaziz University,جامعة الأمير سطام بن عبدالعزيز,Классический,Государственный (Минобразования КСА),"• Engineering
 • Computer Engineering & Sciences
 • Medicine & Health Sciences
@@ -222,7 +222,7 @@
 • Science & Humanities","Prince Sattam bin Abdulaziz University, P.O. Box 173, Al Kharj 11942, Saudi Arabia",DICCR@psau.edu.sa,"Ms. Sara bint Ahmed Al-Abdulaziz
 Директор департамента международного сотрудничества и культурных связей
 Департамент международного сотрудничества и культурных связей
-Обращение: Dear Ms. Al-Abdulaziz,",DICCR@psau.edu.sa,rector.office@psau.edu.sa,,https://www.psau.edu.sa,Prof. Abdullah Abdulaziz Altameem,President,QS2027: 677,THE2027: 401–450,,0,,,,,,,10,3,да,высокая,"• Общий номер телефона на сайте не найден (только телефонный справочник/добавочные); добавочный директора отдела — 4460
+Обращение: Dear Ms. Al-Abdulaziz,",ящик общий,DICCR@psau.edu.sa,rector.office@psau.edu.sa,,https://www.psau.edu.sa,Prof. Abdullah Abdulaziz Altameem,President,QS2027: 677,THE2027: 401–450,,0,,,,,,,10,3,да,высокая,"• Общий номер телефона на сайте не найден (только телефонный справочник/добавочные); добавочный директора отдела — 4460
 • Спутников не найдено (nanosats.csv и один поиск)
 • Отдел международного сотрудничества: DICCR@psau.edu.sa; директор — s.alabdulaziz@psau.edu.sa (страница обновлена 24.08.2026)","• Https://www.psau.edu.sa/en
 • Https://www.psau.edu.sa/en/presidents-message
@@ -230,7 +230,7 @@
 • Https://psau.edu.sa/dicss/en/contact-directory
 • Https://psau.edu.sa/dicss/en/directors-message
 • Https://www.qianmu.org/2027QS世界大学排名
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 13,Саудовская Аравия,Эр-Рияд,Princess Nourah bint Abdulrahman University,جامعة الأميرة نورة بنت عبدالرحمن,Классический,Государственный (Минобразования КСА),"• Computer and Information Sciences
 • Engineering
 • Science
@@ -238,14 +238,14 @@
 • Health Sciences
 • Sports Science",,info@pnu.edu.sa,"ФИО не найдено
 Общий адрес университета
-Обращение: Dear Sir or Madam,",,info@pnu.edu.sa,+966 11 822 0000,https://www.pnu.edu.sa,Prof. Einas bint Suleiman Al-Eisa,President,QS2027: 801–850,THE2027: 451–500,,0,,,,,,,10,3,да,средняя,"• Женский университет (крупнейший женский университет страны) — учитывать при приглашении
+Обращение: Dear Sir or Madam,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@pnu.edu.sa,+966 11 822 0000,https://www.pnu.edu.sa,Prof. Einas bint Suleiman Al-Eisa,President,QS2027: 801–850,THE2027: 451–500,,0,,,,,,,10,3,да,средняя,"• Женский университет (крупнейший женский университет страны) — учитывать при приглашении
 • E-mail международного отдела не найден на сайте; используется общий info@pnu.edu.sa (также pnu-tawasul@pnu.edu.sa — канал обращений)
 • Почтовый адрес на сайте не опубликован в текстовом виде — не заполнен
 • Спутников в nanosats.csv и в быстрой проверке не найдено","• Https://www.pnu.edu.sa/en/Pages/ContactUsForm.aspx
 • Https://pnu.edu.sa/en/AboutUniversity/pages/home.aspx
 • Https://pnu.edu.sa/en/MediaCenter/News/Pages/NewsDetails.aspx?RequestID=399
 • Http://www.qianmu.org/2027QS世界大学排名
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 14,Саудовская Аравия,Эр-Рияд,AlMaarefa University,جامعة المعرفة,Медицинский,Частный,"• Medicine
 • Pharmacy
 • Applied Health Sciences
@@ -253,12 +253,12 @@
 • Computer Science and Information Systems
 • Business","AlMaarefa University, P.O. Box 71666, Riyadh 11597, Kingdom of Saudi Arabia",info@um.edu.sa,"ФИО не найдено
 Общий адрес университета
-Обращение: Dear Sir or Madam,",,info@um.edu.sa,+966 11 253 2828,https://www.um.edu.sa,Prof. Abdulrahman Abdullah Alsughayir,President,,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• Частный университет медицинского профиля — низкая релевантность для спутниковой программы
+Обращение: Dear Sir or Madam,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@um.edu.sa,+966 11 253 2828,https://www.um.edu.sa,Prof. Abdulrahman Abdullah Alsughayir,President,,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• Частный университет медицинского профиля — низкая релевантность для спутниковой программы
 • E-mail международного отдела не найден; общий info@um.edu.sa; единый номер 920011909
 • Страница президента не датирована — актуальность ФИО подтверждена только текущим сайтом
 • Спутников не найдено","• Https://www.um.edu.sa/en
 • Https://www.um.edu.sa/en/%D9%83%D9%84%D9%85%D8%A9-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-2/
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 15,Саудовская Аравия,Эр-Рияд,Alfaisal University,جامعة الفيصل,Классический,Частный (некоммерческий),"• Medicine
 • Pharmacy
 • Engineering
@@ -267,26 +267,26 @@
 • Law & International Relations","Alfaisal University, P.O. Box 50927, Riyadh 11533, Saudi Arabia",advancement@alfaisal.edu,"ФИО не найдено
 Директор департамента внешних связей и развития
 Департамент внешних связей и развития (External Relations and Advancement)
-Обращение: Dear Director of External Relations and Advancement,",advancement@alfaisal.edu,info@alfaisal.edu,+966 11 215 7777,https://www.alfaisal.edu,H.E. Dr. Mohammed Al Hayaza,President,QS2027: 801–850,THE2027: 501–550,,0,,,,,,,6,3,да,средняя,"• Частный некоммерческий университет (основан фондом короля Фейсала)
+Обращение: Dear Director of External Relations and Advancement,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,advancement@alfaisal.edu,info@alfaisal.edu,+966 11 215 7777,https://www.alfaisal.edu,H.E. Dr. Mohammed Al Hayaza,President,QS2027: 801–850,THE2027: 501–550,,0,,,,,,,6,3,да,средняя,"• Частный некоммерческий университет (основан фондом короля Фейсала)
 • Космической программы и спутников не найдено (одна проверка)
 • Партнёрствами занимается Department of External Relations and Advancement (advancement@alfaisal.edu, +966 11 215 7985); курирует вице-президент Dr. Maha bint Mishari AlSaud; имя директора департамента на сайте не указано
 • Office of International Students & Exchange (oise.alfaisal.edu) ориентирован на студентов","• Https://www.alfaisal.edu
 • Https://www.alfaisal.edu/en/contact
 • Https://advancement.alfaisal.edu
 • Https://advancement.alfaisal.edu/contact
-• Https://oise.alfaisal.edu/",2026-10-04,
+• Https://oise.alfaisal.edu/",2026-10-05,
 16,Саудовская Аравия,Джидда,Effat University,جامعة عفت,Классический,Частный (некоммерческий),"• Engineering
 • Architecture and Design
 • Business
 • Humanities and Social Sciences
 • Computer Science
-• Psychology","Effat University, Building No. 8482, Qasr Khuzam Street (Secondary No. 3362), An Nazlah Al Yamaniyah District, Jeddah 22332, Kingdom of Saudi Arabia (P.O. Box 34689, Jeddah 21478)",,,,,920003331 (unified number),https://www.effatuniversity.edu.sa,Dr. Haifa Reda Jamal Al-Lail,President,,THE2027: 601–650,,0,,,,,,,6,3,,средняя,"• Частный женский университет (учредитель — King Faisal Foundation)
+• Psychology","Effat University, Building No. 8482, Qasr Khuzam Street (Secondary No. 3362), An Nazlah Al Yamaniyah District, Jeddah 22332, Kingdom of Saudi Arabia (P.O. Box 34689, Jeddah 21478)",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,920003331 (unified number),https://www.effatuniversity.edu.sa,Dr. Haifa Reda Jamal Al-Lail,President,,THE2027: 601–650,,0,,,,,,,6,3,,средняя,"• Частный женский университет (учредитель — King Faisal Foundation)
 • Общий e-mail и e-mail международного отдела на сайте не опубликованы (есть только Effat.PACCE@effatuniversity.edu.sa — непрерывное образование); связь через форму Tawasul или единый номер 920003331
 • Спутников не найдено; студенты участвовали в космическом лагере в Нью-Йорке (2024)","• Https://www.effatuniversity.edu.sa/English/Pages/default.aspx
 • Https://www.effatuniversity.edu.sa/English/About/Contact-Us/Pages/default.aspx
 • Https://www.effatuniversity.edu.sa/English/About/Governance/President/Pages/default.aspx
 • Https://www.effatuniversity.edu.sa/English/About/Impact/Pages/contact-us.aspx
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 17,Саудовская Аравия,Эр-Рияд,Imam Mohammad Ibn Saud Islamic University (IMSIU),جامعة الإمام محمد بن سعود الإسلامية,Гуманитарный,Государственный (Минобразования КСА),"• Sharia & Islamic Studies
 • Arabic Language
 • Social Sciences
@@ -295,7 +295,7 @@
 • Engineering","Imam Mohammad Ibn Saud Islamic University, Riyadh, Saudi Arabia",op@imamu.edu.sa,"Ahmed Alaameri
 Президент университета
 Офис президента университета
-Обращение: Dear President Alaameri,",,op@imamu.edu.sa,+966 11 258 5214,https://imamu.edu.sa,Ahmed Alaameri,President,QS2027: 791–800,THE2027: 601–650,,0,,,,,,,6,3,да,средняя,"• Президент подтверждён по новости SPA (июль 2026 г.); учёное звание в источнике не указано
+Обращение: Dear President Alaameri,",ящик общий,,op@imamu.edu.sa,+966 11 258 5214,https://imamu.edu.sa,Ahmed Alaameri,President,QS2027: 791–800,THE2027: 601–650,,0,,,,,,,6,3,да,средняя,"• Президент подтверждён по новости SPA (июль 2026 г.); учёное звание в источнике не указано
 • Op@imamu.edu.sa — e-mail для записи на приём к президенту (офис президента); телефоны офиса: 011 259 8762, 011 258 5214
 • Сайт в основном на JavaScript, часть страниц (contact-us) блокируется WAF; почтовый адрес (P.O. Box) на открытых страницах не найден
 • Есть Генеральное управление международного сотрудничества и коммуникаций (الإدارة العامة للتعاون والتواصل الدولي), но e-mail и руководитель на странице не отображаются
@@ -305,7 +305,7 @@
 • Https://www.spa.gov.sa/en/N2625933
 • Https://units.imamu.edu.sa/administrations/International_Cooperation/Pages/default.aspx
 • Https://www.qianmu.org/2027QS世界大学排名
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 18,Саудовская Аравия,Медина,Islamic University of Madinah,الجامعة الإسلامية بالمدينة المنورة,Гуманитарный,Государственный (Минобразования КСА),"• Sharia
 • Quran & Islamic Studies
 • Hadith
@@ -314,7 +314,7 @@
 • Engineering & Computer Science","Abu Bakr Al-Siddiq Rd, Al-Jamiah, Madinah 42351, Saudi Arabia (National Address: DMMC3515)",care@iu.edu.sa,"ФИО не найдено
 Директор Центра партнёрств и обмена знаниями
 Служба обращений (Beneficiary Care) — общий канал университета
-Обращение: Dear Director of the Partnerships and Knowledge Exchange Center,",,care@iu.edu.sa,920022042,https://iu.edu.sa,Dr. Saleh bin Ali Al-Oqla (د. صالح بن علي العقلا),President,QS2027: 1001–1200,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• Президент с мая 2024 г. (официальная CV на сайте); латинская транслитерация фамилии (العقلا) — наша, на сайте только по-арабски
+Обращение: Dear Director of the Partnerships and Knowledge Exchange Center,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,care@iu.edu.sa,920022042,https://iu.edu.sa,Dr. Saleh bin Ali Al-Oqla (د. صالح بن علي العقلا),President,QS2027: 1001–1200,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• Президент с мая 2024 г. (официальная CV на сайте); латинская транслитерация фамилии (العقلا) — наша, на сайте только по-арабски
 • Care@iu.edu.sa — служба по работе с обращениями (единственный опубликованный общий e-mail); телефон 920022042 — единый номер внутри КСА
 • Партнёрствами занимается Центр партнёрств и обмена знаниями (مركز الشراكات والتبادل المعرفي); e-mail и руководитель не опубликованы
 • Профиль преимущественно исламские/гуманитарные науки; спутников не найдено","• Https://iu.edu.sa
@@ -322,7 +322,7 @@
 • Https://iu.edu.sa/university/CVofPresident
 • Https://iu.edu.sa/Departments/CorporateKnowledgeExchangeCenter
 • Https://www.qianmu.org/2027QS世界大学排名
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 19,Саудовская Аравия,Джизан,Jazan University,جامعة جازان,Классический,Государственный (Минобразования КСА),"• Engineering
 • Computer Science and Information Technology
 • Medicine and Health Sciences
@@ -331,7 +331,7 @@
 • Business","Jazan University - President's Office, 6809, Jazan 82817-2820, Kingdom of Saudi Arabia",president@jazanu.edu.sa,"Dr. Mohammad AbuRasain
 President
 Офис президента университета
-Обращение: Dear Dr. AbuRasain,",,president@jazanu.edu.sa,+966 17 329 5000,https://www.jazanu.edu.sa,Dr. Mohammad AbuRasain (Mohammed bin Hassan AbuRasain),President,,THE2027: 701–800,,0,,,,,,,6,3,да,низкая,"• Сайт jazanu.edu.sa недоступен из нашей сети (HTTP 403 / сброс соединения) — e-mail president@jazanu.edu.sa, телефон и адрес взяты из поисковой выдачи по официальным страницам, НЕ открытым напрямую; обязательно перепроверить
+Обращение: Dear Dr. AbuRasain,",ящик общий,,president@jazanu.edu.sa,+966 17 329 5000,https://www.jazanu.edu.sa,Dr. Mohammad AbuRasain (Mohammed bin Hassan AbuRasain),President,,THE2027: 701–800,,0,,,,,,,6,3,да,низкая,"• Сайт jazanu.edu.sa недоступен из нашей сети (HTTP 403 / сброс соединения) — e-mail president@jazanu.edu.sa, телефон и адрес взяты из поисковой выдачи по официальным страницам, НЕ открытым напрямую; обязательно перепроверить
 • Президент исправлен: Dr. Mohammad AbuRasain (Mohammed bin Hassan AbuRasain), с 17.05.2024 — подтверждено Saudi Press Agency 21.04.2026; ранее в строке ошибочно был указан Prof. Mar'ei bin Hussein Al-Qahtani (бывший президент)
 • E-mail международного отдела не найден; используется адрес офиса президента president@jazanu.edu.sa (в письме требуется указать полное имя и мобильный номер)
 • Спутников в nanosats.csv не найдено; отдельная проверка по космосу не проводилась из-за блокировки сайта
@@ -339,7 +339,7 @@ President
 • Site blocked)
 • Https://www.jazanu.edu.sa/en/administration/departments/university-president
 • Nanosats.csv
-• Https://spa.gov.sa/en/N2566500",2026-10-04,
+• Https://spa.gov.sa/en/N2566500",2026-10-05,
 20,Саудовская Аравия,Сакака,Jouf University,جامعة الجوف,Классический,Государственный (Минобразования КСА),"• Engineering
 • Computer and Information Sciences
 • Medicine and Health Sciences
@@ -347,13 +347,13 @@ President
 • Education
 • Business","Jouf University, King Khalid Road, Sakaka, Al-Jouf, Kingdom of Saudi Arabia",contact@ju.edu.sa,"ФИО не найдено
 Общий адрес университета (контакт-центр)
-Обращение: Dear Sir or Madam,",,contact@ju.edu.sa,+966 14 654 4444,https://www.ju.edu.sa,Prof. Mohammed bin Abdullah Al-Shaya,President,QS2027: 951–1000,THE2027: 651–700,,0,,,,,,,6,3,да,средняя,"• E-mail международного отдела не найден; используется общий contact@ju.edu.sa (колл-центр 014 654 4444)
+Обращение: Dear Sir or Madam,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,contact@ju.edu.sa,+966 14 654 4444,https://www.ju.edu.sa,Prof. Mohammed bin Abdullah Al-Shaya,President,QS2027: 951–1000,THE2027: 651–700,,0,,,,,,,6,3,да,средняя,"• E-mail международного отдела не найден; используется общий contact@ju.edu.sa (колл-центр 014 654 4444)
 • Почтовый индекс/а/я не опубликованы на главной странице — адрес неполный
 • Спутников не найдено (nanosats.csv, сайт)","• Https://www.ju.edu.sa/en
 • Https://www.ju.edu.sa/en/He-President-Jouf-University-launches-ai-course
 • Https://www.ju.edu.sa/en/president-meets-partnerships-agreements-team
 • Http://www.qianmu.org/2027QS世界大学排名
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 21,Саудовская Аравия,Эль-Хаса (Хуфуф),King Faisal University,جامعة الملك فيصل,Аграрный / экологический,Государственный (Минобразования КСА),"• Agriculture & Food Sciences
 • Veterinary Medicine
 • Medicine & Health Sciences
@@ -362,7 +362,7 @@ President
 • Business","King Faisal University, P.O. Box 400, Al-Ahsa 31982, Eastern Province, Saudi Arabia (National Short Address FHDB7057)",ickea.info@kfu.edu.sa,"ФИО не найдено
 Директор управления международного сотрудничества и партнёрств
 Управление международного сотрудничества и партнёрств (International Cooperation and Knowledge Exchange)
-Обращение: Dear Director of International Cooperation and Partnerships,",ickea.info@kfu.edu.sa,info@kfu.edu.sa,920002366,https://www.kfu.edu.sa,Prof. Adel bin Mohammed Abuzenadah,President,QS2027: =567,THE2027: 551–600,,0,,,,,,,6,3,да,средняя,"• Президент (с октября 2024 г.) подтверждён по газете Al-Jazirah от 21.09.2026, на сайте университета страница ректора не открылась (меню на JavaScript)
+Обращение: Dear Director of International Cooperation and Partnerships,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,ickea.info@kfu.edu.sa,info@kfu.edu.sa,920002366,https://www.kfu.edu.sa,Prof. Adel bin Mohammed Abuzenadah,President,QS2027: =567,THE2027: 551–600,,0,,,,,,,6,3,да,средняя,"• Президент (с октября 2024 г.) подтверждён по газете Al-Jazirah от 21.09.2026, на сайте университета страница ректора не открылась (меню на JavaScript)
 • Телефон 920002366 — единый номер (внутри КСА); отдел международного сотрудничества: +966 13 589 5298
 • Спутников не найдено (nanosats.csv и один поиск)
 • Имя руководителя отдела международного сотрудничества на сайте не указано
@@ -371,7 +371,7 @@ President
 • Https://www.al-jazirahonline.com/2026/09/21/536508/
 • Https://x.com/KFUniversity/status/2026752115150840169
 • Https://www.qianmu.org/2027QS世界大学排名
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 22,Саудовская Аравия,Эр-Рияд,King Saud bin Abdulaziz University for Health Sciences (KSAU-HS),جامعة الملك سعود بن عبدالعزيز للعلوم الصحية,Медицинский,Государственный (агентство),"• Medicine
 • Nursing
 • Pharmacy
@@ -380,7 +380,7 @@ President
 • Public Health & Health Informatics","King Saud bin Abdulaziz University for Health Sciences, P.O. Box 3660, Riyadh 11481, Saudi Arabia",ask_dar@ksau-hs.edu.sa,"ФИО не найдено
 Директор по международным связям и партнёрствам
 Деканат приёма и регистрации (общий канал)
-Обращение: Dear Director of International Affairs,",,ask_dar@ksau-hs.edu.sa,+966 11 429 9999,https://www.ksau-hs.edu.sa,Prof. Bandar Al-Knawy,President,,THE2027: 701–800,,0,,,,,,,6,3,да,низкая,"• Сайт ksau-hs.edu.sa не открывается (устаревший TLS — unsafe legacy renegotiation); адрес, телефон и e-mail взяты из поисковой выдачи официальной страницы контактов, не проверены вручную
+Обращение: Dear Director of International Affairs,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,ask_dar@ksau-hs.edu.sa,+966 11 429 9999,https://www.ksau-hs.edu.sa,Prof. Bandar Al-Knawy,President,,THE2027: 701–800,,0,,,,,,,6,3,да,низкая,"• Сайт ksau-hs.edu.sa не открывается (устаревший TLS — unsafe legacy renegotiation); адрес, телефон и e-mail взяты из поисковой выдачи официальной страницы контактов, не проверены вручную
 • Ask_dar@ksau-hs.edu.sa — e-mail деканата приёма и регистрации (другого общего адреса не найдено)
 • Университет подчиняется Министерству национальной гвардии (не Минобразования); президент одновременно CEO медицинских служб нацгвардии (MNGHA); подтверждён по программе BIO 2026
 • Медицинский профиль; спутников не найдено (проверка только по nanosats.csv)
@@ -388,18 +388,18 @@ President
 • Перепроверка: Сайт ksau-hs.edu.sa по-прежнему не открывается (устаревший TLS и неполная цепочка сертификатов); данные не изменены","• Https://convention.bio.org/2026-sessions-and-courses/king-saud-bin-abdulaziz-university-for-health-sciences
 • Https://www.ksau-hs.edu.sa/English/About-Us/Pages/ContactKSAU.aspx
 • Https://ksau-hs.edu.sa/English/About-Us/Pages/PresidentWelcome.aspx
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 23,Саудовская Аравия,Эль-Маджмаа,Majmaah University,جامعة المجمعة,Классический,Государственный (Минобразования КСА),"• Engineering
 • Computer and Information Sciences
 • Medicine and Applied Medical Sciences
 • Science and Humanities
 • Education
-• Business Administration",,,,,,+966 16 404 4444,https://www.mu.edu.sa,Prof. Khaled bin Saad Al-Muqrin,President,,THE2027: 701–800,,0,,,,,,,6,3,,низкая,"• Сайт mu.edu.sa (и m.mu.edu.sa) недоступен из нашей сети (HTTP 403) — e-mail и адрес не проверены, не заполнены
+• Business Administration",,,,нет ящика: Найти e-mail международного отдела или канцелярии,,,+966 16 404 4444,https://www.mu.edu.sa,Prof. Khaled bin Saad Al-Muqrin,President,,THE2027: 701–800,,0,,,,,,,6,3,,низкая,"• Сайт mu.edu.sa (и m.mu.edu.sa) недоступен из нашей сети (HTTP 403) — e-mail и адрес не проверены, не заполнены
 • ФИО президента — по Википедии (данные 2026 г.); учёное звание «Prof.» не подтверждено официальным сайтом; телефон — по поисковой выдаче (my.gov.sa), перепроверить
 • Спутников в nanosats.csv не найдено
 • Перепроверка: 04.10.2026: mu.edu.sa (в т.ч. /en через WebFetch) и каталог my.gov.sa по-прежнему отдают 403; данные не изменены","• Https://en.wikipedia.org/wiki/Majmaah_University
 • Https://my.gov.sa/en/agencies/17441 (via search index)
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 24,Саудовская Аравия,Наджран,Najran University,جامعة نجران,Классический,Государственный (Минобразования КСА),"• Medicine & Health Sciences
 • Engineering
 • Computer Science & Information Systems
@@ -408,7 +408,7 @@ President
 • Sharia & Languages","Najran University, King Abdulaziz Road, P.O. Box 1988, Najran, Saudi Arabia",care@nu.edu.sa,"ФИО не найдено
 Директор по международному сотрудничеству
 Центр обслуживания обращений (общий канал)
-Обращение: Dear Director of International Affairs,",,care@nu.edu.sa,+966 17 542 8888,https://www.nu.edu.sa,Dr. Abdulrahman bin Ibrahim Al-Khodairi,President,,THE2027: 801–1000,,0,,,,,,,6,3,да,средняя,"• Президент подтверждён новостью сайта к Нацдню (сентябрь 2026)
+Обращение: Dear Director of International Affairs,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,care@nu.edu.sa,+966 17 542 8888,https://www.nu.edu.sa,Dr. Abdulrahman bin Ibrahim Al-Khodairi,President,,THE2027: 801–1000,,0,,,,,,,6,3,да,средняя,"• Президент подтверждён новостью сайта к Нацдню (сентябрь 2026)
 • Care@nu.edu.sa — центр обслуживания обращений (официальная страница «Связаться с нами»); info@nu.edu.sa, адрес и телефон — из вторичного каталога LabOasis
 • Noip@nu.edu.sa (каталог WIPO TISC) относится к офису интеллектуальной собственности, не к международному отделу
 • Международный отдел и его руководитель на сайте не найдены; спутников не найдено","• Https://www.nu.edu.sa/en
@@ -416,7 +416,7 @@ President
 • Https://portal.nu.edu.sa:443/en/home/-/asset_publisher/vzkp/content/president-of-najran-university-congratulates-the-supreme-leadership-on-the-occasion-of-national-day/maximized
 • Https://www.laboasis.org/organization/nu-najran-university/
 • Https://www.wipo.int/tisc/en/search/details.jsp?id=12374
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 25,Саудовская Аравия,Арар,Northern Border University,جامعة الحدود الشمالية,Классический,Государственный (Минобразования КСА),"• Engineering
 • Computing and Information Technology
 • Medicine
@@ -425,13 +425,13 @@ President
 • Business Administration","Northern Border University, Office of the President, P.O. Box 1321, Arar 91431, Kingdom of Saudi Arabia",opu@nbu.edu.sa,"Prof. Dr. Ahmed bin Ali Al-Rumaih
 Президент университета
 Офис президента университета
-Обращение: Dear Prof. Al-Rumaih,",,opu@nbu.edu.sa,+966 14 661 4005,https://www.nbu.edu.sa,Prof. Dr. Ahmed bin Ali Al-Rumaih,President,QS2027: 1001–1200,THE2027: 801–1000,,0,,,,,,,6,3,да,средняя,"• ФИО президента на сайте только по-арабски (الأستاذ الدكتور أحمد بن علي الرميح) — латинская транслитерация наша
+Обращение: Dear Prof. Al-Rumaih,",ящик общий,,opu@nbu.edu.sa,+966 14 661 4005,https://www.nbu.edu.sa,Prof. Dr. Ahmed bin Ali Al-Rumaih,President,QS2027: 1001–1200,THE2027: 801–1000,,0,,,,,,,6,3,да,средняя,"• ФИО президента на сайте только по-арабски (الأستاذ الدكتور أحمد بن علي الرميح) — латинская транслитерация наша
 • E-mail международного отдела не найден; используется адрес офиса президента opu@nbu.edu.sa (факс +966 14 662 0771)
 • Спутников не найдено (nanosats.csv, сайт)","• Https://www.nbu.edu.sa/
 • Https://www.nbu.edu.sa/university-administration/university-manager
 • Https://www.nbu.edu.sa/university-administration/president-office/contact-us
 • Http://www.qianmu.org/2027QS世界大学排名
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 26,Саудовская Аравия,Бурайда,Qassim University,جامعة القصيم,Классический,Государственный (Минобразования КСА),"• Engineering
 • Medicine & Health Sciences
 • Agriculture & Veterinary Medicine
@@ -440,14 +440,14 @@ President
 • Business & Economics","Qassim University, Al-Jamea District, P.O. Box 52571, Buraidah, Al-Qassim, Saudi Arabia",cir@qu.edu.sa,"ФИО не найдено
 Директор центра международного сотрудничества и обмена знаниями
 Центр международного сотрудничества и обмена знаниями
-Обращение: Dear Director of International Cooperation and Knowledge Exchange,",cir@qu.edu.sa,info@qu.edu.sa,+966 16 301 1111,https://www.qu.edu.sa,Prof. Mohammed bin Fahd Al Sharikh,President,QS2027: 781–790,THE2027: 801–1000,,0,,,,,,,6,3,да,средняя,"• Президент — профессор электротехники (PhD, Ohio University); страница CV на официальном сайте, дата назначения не указана
+Обращение: Dear Director of International Cooperation and Knowledge Exchange,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,cir@qu.edu.sa,info@qu.edu.sa,+966 16 301 1111,https://www.qu.edu.sa,Prof. Mohammed bin Fahd Al Sharikh,President,QS2027: 781–790,THE2027: 801–1000,,0,,,,,,,6,3,да,средняя,"• Президент — профессор электротехники (PhD, Ohio University); страница CV на официальном сайте, дата назначения не указана
 • Cir@qu.edu.sa (тел. +966 16 302 0768) в официальном справочнике значится за «Управлением обмена знаниями и научных мероприятий» (إدارة التبادل المعرفي والفعاليات العلمية); по поисковой выдаче — Центр международного сотрудничества и обмена знаниями; имя руководителя не найдено
 • Спутников не найдено (nanosats.csv и один поиск)","• Https://qu.edu.sa/en
 • Https://www.qu.edu.sa/en/university-president/cv/
 • Https://www.qu.edu.sa/en/contact-us/
 • Https://www.qu.edu.sa/contact?lang=en
 • Https://www.qianmu.org/2027QS世界大学排名
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 27,Саудовская Аравия,Шакра,Shaqra University,جامعة شقراء,Классический,Государственный (Минобразования КСА),"• Engineering
 • Computing and Information Technology
 • Medicine and Applied Medical Sciences
@@ -455,13 +455,13 @@ President
 • Education
 • Business","Shaqra University, Shaqra, Riyadh Region, Kingdom of Saudi Arabia",info@su.edu.sa,"ФИО не найдено
 Общий адрес университета
-Обращение: Dear Sir or Madam,",,info@su.edu.sa,+966 11 647 5075,https://www.su.edu.sa,Prof. Dr. Badr Saleh Elmehemed,Acting President,,THE2027: 801–1000,,0,,,,,,,6,3,да,средняя,"• Руководитель — исполняющий обязанности президента (Acting President) — должность может смениться
+Обращение: Dear Sir or Madam,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@su.edu.sa,+966 11 647 5075,https://www.su.edu.sa,Prof. Dr. Badr Saleh Elmehemed,Acting President,,THE2027: 801–1000,,0,,,,,,,6,3,да,средняя,"• Руководитель — исполняющий обязанности президента (Acting President) — должность может смениться
 • E-mail международного отдела не найден; общий info@su.edu.sa (факс +966 11 647 7762)
 • Полный почтовый адрес на сайте не указан — только «Шакра»
 • Спутников не найдено (nanosats.csv, сайт)","• Https://www.su.edu.sa/en
 • Https://www.su.edu.sa/en/contact/form
 • Https://www.su.edu.sa/en/news/su-times-ranking-2027
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 28,Саудовская Аравия,Таиф,Taif University,جامعة الطائف,Классический,Государственный (Минобразования КСА),"• Medicine & Health Sciences
 • Engineering
 • Computers & Information Technology
@@ -470,7 +470,7 @@ President
 • Business Administration","Taif University, P.O. Box 11099, Taif 21944, Saudi Arabia",websupport@tu.edu.sa,"Dr. Abdullah bin Hasan Al-Shahri
 Руководитель отдела стратегических партнёрств и инициатив
 Техподдержка сайта (общий канал); партнёрства — Отдел стратегических партнёрств и инициатив
-Обращение: Dear Dr. Al-Shahri,",,websupport@tu.edu.sa,+966 12 727 2020,https://www.tu.edu.sa,Prof. Yousef bin Abdu Asiri,President,QS2027: 851–900,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• Президент подтверждён новостью сайта от 20.09.2026
+Обращение: Dear Dr. Al-Shahri,",ящик общий,,websupport@tu.edu.sa,+966 12 727 2020,https://www.tu.edu.sa,Prof. Yousef bin Abdu Asiri,President,QS2027: 851–900,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• Президент подтверждён новостью сайта от 20.09.2026
 • Единственный опубликованный e-mail — websupport@tu.edu.sa (техподдержка сайта); лучше использовать платформу партнёрств webapps1.tu.edu.sa/partnership
 • Есть Управление контрактов и международного сотрудничества и Отдел стратегических партнёрств и инициатив (руководитель Dr. Abdullah bin Hasan Al-Shahri; e-mail не опубликован)
 • Спутников не найдено; кафедра компьютерной инженерии вела работы по CubeSat-прототипу для управления толпой (испытание на высоте 15 м, 2022)","• Https://www.tu.edu.sa/En
@@ -480,7 +480,7 @@ President
 • Https://www.tu.edu.sa/En/Administrations/262/Contracting-and-international-cooperation-management
 • Https://www.astesj.com/v07/i06/p12/
 • Https://www.qianmu.org/2027QS世界大学排名
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 29,Саудовская Аравия,Хаиль,University of Ha'il,جامعة حائل,Классический,Государственный (Минобразования КСА),"• Engineering
 • Computer Science and Engineering
 • Medicine and Health Sciences
@@ -488,14 +488,14 @@ President
 • Education
 • Business Administration","University of Ha'il, University City, Ha'il, Kingdom of Saudi Arabia",info@uoh.edu.sa,"ФИО не найдено
 Общий адрес университета
-Обращение: Dear Sir or Madam,",,info@uoh.edu.sa,+966 16 510 9200,https://www.uoh.edu.sa,Dr. Badr bin Shujaa Al-Harbi,President,QS2027: 1001–1200,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• E-mail международного отдела не найден; общий info@uoh.edu.sa
+Обращение: Dear Sir or Madam,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@uoh.edu.sa,+966 16 510 9200,https://www.uoh.edu.sa,Dr. Badr bin Shujaa Al-Harbi,President,QS2027: 1001–1200,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• E-mail международного отдела не найден; общий info@uoh.edu.sa
 • На сайте телефон указан с опечаткой «+996 165109200» — исправлено на +966
 • Почтовый адрес на сайте только «Хаиль — Университетский городок», без индекса
 • Спутников не найдено (nanosats.csv, сайт)","• Https://www.uoh.edu.sa/
 • Https://www.uoh.edu.sa/Ar/Pages/Contacts.aspx
 • Https://www.uoh.edu.sa/Ar/About/Pages/President.aspx
 • Http://www.qianmu.org/2027QS世界大学排名
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 30,Саудовская Аравия,Табук,University of Tabuk,جامعة تبوك,Классический,Государственный (Минобразования КСА),"• Medicine & Health Sciences
 • Engineering
 • Computers & Information Technology
@@ -504,14 +504,14 @@ President
 • Education & Arts","University of Tabuk, Tabuk, Kingdom of Saudi Arabia",ut@ut.edu.sa,"ФИО не найдено
 Руководитель отдела международных партнёрств и сотрудничества
 Общая почта университета (канцелярия)
-Обращение: Dear Head of International Partnerships and Cooperation,",,ut@ut.edu.sa,+966 14 456 8000,https://www.ut.edu.sa,Prof. Dr. Abdulaziz bin Salem Al-Ghamdi,President,QS2027: 1001–1200,THE2027: 651–700,,0,,,,,,,6,3,да,средняя,"• Почтовый адрес (P.O. Box) на сайте не указан — только «Kingdom of Saudi Arabia - Tabuk»
+Обращение: Dear Head of International Partnerships and Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,ut@ut.edu.sa,+966 14 456 8000,https://www.ut.edu.sa,Prof. Dr. Abdulaziz bin Salem Al-Ghamdi,President,QS2027: 1001–1200,THE2027: 651–700,,0,,,,,,,6,3,да,средняя,"• Почтовый адрес (P.O. Box) на сайте не указан — только «Kingdom of Saudi Arabia - Tabuk»
 • Есть International Partnerships and Cooperation Unit (при проректорате по аспирантуре и науке), но контакты и руководитель на странице не опубликованы — письмо направлять на ut@ut.edu.sa
 • Спутников не найдено; сотрудники кафедры электротехники публикуют работы по системам питания CubeSat (Scientific Reports, 2026)","• Https://www.ut.edu.sa/en
 • Https://www.ut.edu.sa/en/contact-us/contact-university
 • Https://www.ut.edu.sa/en/about-ut/who-we-are/university-leaders
 • Https://www.ut.edu.sa/en/graduate-studies-and-scientific-research/international-partnerships-and-cooperation-unit
 • Https://www.qianmu.org/2027QS世界大学排名
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 31,Саудовская Аравия,Эль-Баха,Al-Baha University,جامعة الباحة,Классический,Государственный (Минобразования КСА),"• Engineering
 • Computer Science and Information Technology
 • Medicine and Applied Medical Sciences
@@ -519,14 +519,14 @@ President
 • Education
 • Business Administration",,contact@bu.edu.sa,"ФИО не найдено
 Общий адрес университета / офис президента
-Обращение: Dear Sir or Madam,",,contact@bu.edu.sa,+966 17 725 7700,https://www.bu.edu.sa,Prof. Dr. Abdullah Alhussain,President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,низкая,"• Сайт bu.edu.sa недоступен из нашей сети (HTTP 503/обрыв соединения) — e-mail contact@bu.edu.sa, телефон (+966 17 725 7700, доб. 15005; факс +966 17 725 7777) и ФИО взяты из поисковой выдачи по странице офиса президента и Википедии; перепроверить
+Обращение: Dear Sir or Madam,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,contact@bu.edu.sa,+966 17 725 7700,https://www.bu.edu.sa,Prof. Dr. Abdullah Alhussain,President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,низкая,"• Сайт bu.edu.sa недоступен из нашей сети (HTTP 503/обрыв соединения) — e-mail contact@bu.edu.sa, телефон (+966 17 725 7700, доб. 15005; факс +966 17 725 7777) и ФИО взяты из поисковой выдачи по странице офиса президента и Википедии; перепроверить
 • По той же выдаче директор офиса президента — Mr. Abdullah Alzahrani
 • Главный кампус — в Аль-Акике (~25 км от г. Эль-Баха); почтовый адрес не проверен
 • Спутников в nanosats.csv не найдено
 • Перепроверка: Сайт bu.edu.sa по-прежнему недоступен (04.10.2026: сброс соединения, WebFetch — 503); данные не изменены","• Https://bu.edu.sa/en/web/office-of-the-president (via search index
 • Site blocked)
 • Https://en.wikipedia.org/wiki/Al_Baha_University
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 32,Саудовская Аравия,Джидда,Batterjee Medical College (BMC),كليات البترجي الطبية,Медицинский,Частный,"• Medicine
 • Dentistry
 • Pharmacy
@@ -535,19 +535,19 @@ President
 • Health Management","Batterjee Medical College, P.O. Box 6231, North Obhur, Jeddah 21442, Saudi Arabia",bd@bmc.edu.sa,"ФИО не найдено
 Руководитель отдела развития бизнеса и партнёрств
 Отдел развития бизнеса и партнёрств (Business Development)
-Обращение: Dear Director of Business Development,",bd@bmc.edu.sa,info@bmc.edu.sa,920033923,https://bmc.edu.sa,Prof. Mohammed Shaikh,Dean,,THE2027: 1401–1600,,0,,,,,,,3,3,да,средняя,"• Частный медицинский колледж (кампусы в Джидде, Асире и Даммаме); руководитель — декан (Dean), а не президент
+Обращение: Dear Director of Business Development,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,bd@bmc.edu.sa,info@bmc.edu.sa,920033923,https://bmc.edu.sa,Prof. Mohammed Shaikh,Dean,,THE2027: 1401–1600,,0,,,,,,,3,3,да,средняя,"• Частный медицинский колледж (кампусы в Джидде, Асире и Даммаме); руководитель — декан (Dean), а не президент
 • Bd@bmc.edu.sa — отдел развития бизнеса/партнёрств; International Student Office ориентирован на студентов
 • Телефон 920033923 — единый номер (на сайте также в формате +966 920033923)
 • Медицинский профиль; спутников не найдено (проверка только по nanosats.csv)","• Https://bmc.edu.sa/en/
 • Https://bmc.edu.sa/en/About-BMC/Message-from-the-Dean
 • Https://bmc.edu.sa/en/Business-Development/Contact-Us
 • Https://bmc.edu.sa/en/International-Student-Office
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 33,Саудовская Аравия,Эр-Рияд,Saudi Electronic University,الجامعة السعودية الإلكترونية,Другое,Государственный (Минобразования КСА),"• Computing & Informatics
 • Administrative & Financial Sciences
 • Health Sciences
 • Science & Theoretical Studies
-• E-learning","Saudi Electronic University, Abu Bakr Al Siddiq Road (intersection with Prince Mohammed bin Salman Road), Riyadh, Saudi Arabia",,,,,+966 11 500 0333,https://seu.edu.sa,Prof. Mohammed Yahya Mardi,President,,THE2027: 1201–1400,,0,,,,,,,3,3,,средняя,"• Электронный (дистанционно-смешанный) университет с филиалами в 17 городах; инженерного/космического профиля нет
+• E-learning","Saudi Electronic University, Abu Bakr Al Siddiq Road (intersection with Prince Mohammed bin Salman Road), Riyadh, Saudi Arabia",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,+966 11 500 0333,https://seu.edu.sa,Prof. Mohammed Yahya Mardi,President,,THE2027: 1201–1400,,0,,,,,,,3,3,,средняя,"• Электронный (дистанционно-смешанный) университет с филиалами в 17 городах; инженерного/космического профиля нет
 • Общий e-mail на сайте не опубликован — обращения через форму «Contact Us» (seu.edu.sa/external) и X @SEU_Care
 • Есть Управление партнёрств и международного сотрудничества (при проректорате по аспирантуре и науке), но контакты и руководитель не указаны
 • Спутников не найдено (проверка только по nanosats.csv — лимит веб-поиска исчерпан)","• Https://seu.edu.sa/en/
@@ -555,7 +555,7 @@ President
 • Https://seu.edu.sa/en/about/location/
 • Https://seu.edu.sa/external/
 • Https://seu.edu.sa/en/administrations/partnerships-and-international-cooperation-administration/
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 34,Саудовская Аравия,Медина,Taibah University,جامعة طيبة,Классический,Государственный (Минобразования КСА),"• Medicine & Health Sciences
 • Engineering
 • Computer Science & Engineering
@@ -564,7 +564,7 @@ President
 • Business Administration","Taibah University, Prince Nayef Road (formerly Universities Road), Madinah 42353, Saudi Arabia (Short Address: DMMC 6967)",tu@taibahu.edu.sa,"ФИО не найдено
 Руководитель по стратегическим партнёрствам
 Официальная канцелярия университета
-Обращение: Dear Director of International Affairs,",,tu@taibahu.edu.sa,+966 14 861 8888,https://www.taibahu.edu.sa,Dr. Nawal bint Mohammed Al-Rasheed,President,QS2027: 1201–1400,THE2027: 1001–1200,,0,,,,,,,3,3,да,средняя,"• Президент — первая женщина-ректор саудовского университета (с ноября 2023 г.); подтверждена новостью сайта от 07.04.2026
+Обращение: Dear Director of International Affairs,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,tu@taibahu.edu.sa,+966 14 861 8888,https://www.taibahu.edu.sa,Dr. Nawal bint Mohammed Al-Rasheed,President,QS2027: 1201–1400,THE2027: 1001–1200,,0,,,,,,,3,3,да,средняя,"• Президент — первая женщина-ректор саудовского университета (с ноября 2023 г.); подтверждена новостью сайта от 07.04.2026
 • Tu@taibahu.edu.sa — официальный адрес для официальной переписки; tawasul@taibahu.edu.sa — общие запросы
 • Сайт с curl недоступен (таймаут/503), данные получены через WebFetch
 • Отдельный международный отдел и его руководитель на сайте не указаны (есть программа стратегических партнёрств)
@@ -573,7 +573,7 @@ President
 • Https://www.taibahu.edu.sa/en/the-university/resources-and-information/partnerships
 • Https://saudigazette.com.sa/article/637292
 • Https://www.qianmu.org/2027QS世界大学排名
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 35,Саудовская Аравия,Биша,University of Bisha,جامعة بيشة,Классический,Государственный (Минобразования КСА),"• Engineering
 • Computing and Information Technology
 • Medicine and Applied Medical Sciences
@@ -582,14 +582,14 @@ President
 • Business",,president_office@ub.edu.sa,"Prof. Dr. Mohammed bin Mohsen Safhi
 President of the University
 Office of the President (president_office@ub.edu.sa); общий ящик коммуникаций — ccm@ub.edu.sa
-Обращение: Dear Professor Safhi,",,president_office@ub.edu.sa,+966 17 623 8093 (President's Office),https://www.ub.edu.sa,Prof. Dr. Mohammed bin Mohsen Safhi,President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,высокая,"• Новый сайт ub.edu.sa — SPA; e-mail president_office@ub.edu.sa и телефон +966 17 623 8093 заданы в коде официальной страницы «Президент университета» (проверено 04.10.2026); ccm@ub.edu.sa — общий ящик из подвала сайта
+Обращение: Dear Professor Safhi,",ящик общий,,president_office@ub.edu.sa,+966 17 623 8093 (President's Office),https://www.ub.edu.sa,Prof. Dr. Mohammed bin Mohsen Safhi,President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,высокая,"• Новый сайт ub.edu.sa — SPA; e-mail president_office@ub.edu.sa и телефон +966 17 623 8093 заданы в коде официальной страницы «Президент университета» (проверено 04.10.2026); ccm@ub.edu.sa — общий ящик из подвала сайта
 • Президент подтверждён новостью официального сайта за октябрь 2026 (أ.د. محمد بن محسن صفحي)
 • Почтовый адрес не найден (страница контактов подгружает данные динамически); e-mail международного отдела не найден
 • Спутников не найдено (nanosats.csv, новости сайта)
 • Перепроверка: Добавлены e-mail и телефон офиса президента с официальной страницы президента (04.10.2026); президент подтверждён новостями сайта 10.2026","• Https://www.ub.edu.sa/
 • Https://www.ub.edu.sa/university-president (assets/university-president-Du7USWOi.js)
 • Https://ubapi.ub.edu.sa/api/cms/news
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 36,Саудовская Аравия,Хафр-эль-Батин,University of Hafr Al Batin,جامعة حفر الباطن,Классический,Государственный (Минобразования КСА),"• Engineering
 • Computer Science and Engineering
 • Science
@@ -597,12 +597,12 @@ Office of the President (president_office@ub.edu.sa); общий ящик ком
 • Education
 • Business Administration","University of Hafr Al Batin, Al Jamiah District, Hafar Al Batin 39524, Kingdom of Saudi Arabia",info@uhb.edu.sa,"ФИО не найдено
 Общий адрес университета
-Обращение: Dear Sir or Madam,",,info@uhb.edu.sa,+966 13 720 4828,https://www.uhb.edu.sa,Prof. Dr. Khalid bin Bani Al-Harbi,President,,THE2027: 1001–1200,,0,,,,,,,3,3,да,средняя,"• ФИО президента взято из новости на арабской главной странице (أ.د. خالد بن باني الحربي, начало 1448 г.х. / 2026) — латиница наша
+Обращение: Dear Sir or Madam,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@uhb.edu.sa,+966 13 720 4828,https://www.uhb.edu.sa,Prof. Dr. Khalid bin Bani Al-Harbi,President,,THE2027: 1001–1200,,0,,,,,,,3,3,да,средняя,"• ФИО президента взято из новости на арабской главной странице (أ.د. خالد بن باني الحربي, начало 1448 г.х. / 2026) — латиница наша
 • E-mail международного отдела не найден; общий info@uhb.edu.sa (факс +966 13 720 4931)
 • Спутников не найдено (nanosats.csv, сайт)","• Https://www.uhb.edu.sa/en
 • Https://www.uhb.edu.sa/ar
 • Https://www.uhb.edu.sa/en/contact/form
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 37,Саудовская Аравия,Джидда,University of Jeddah,جامعة جدة,Классический,Государственный (Минобразования КСА),"• Engineering
 • Computer Science & Engineering
 • Science
@@ -611,14 +611,14 @@ Office of the President (president_office@ub.edu.sa); общий ящик ком
 • Languages & Translation","University of Jeddah, Asfan Road, Jeddah 23890, Saudi Arabia",dgs@uj.edu.sa,"Dr. Faten Zaini
 Декан деканата аспирантуры и международного сотрудничества
 Деканат аспирантуры и международного сотрудничества
-Обращение: Dear Dr. Zaini,",dgs@uj.edu.sa,info@uj.edu.sa,+966 12 233 4443,https://www.uj.edu.sa,Prof. Obaid bin Ali Atiyan Al-Mudhaff,President,,THE2027: 1001–1200,,0,,,,,,,3,3,да,средняя,"• Международное сотрудничество ведёт Деканат аспирантуры и международного сотрудничества (dgs@uj.edu.sa); есть также вице-декан по стипендиям/обучению dgs-vdean.sic@uj.edu.sa
+Обращение: Dear Dr. Zaini,",ящик общий,dgs@uj.edu.sa,info@uj.edu.sa,+966 12 233 4443,https://www.uj.edu.sa,Prof. Obaid bin Ali Atiyan Al-Mudhaff,President,,THE2027: 1001–1200,,0,,,,,,,3,3,да,средняя,"• Международное сотрудничество ведёт Деканат аспирантуры и международного сотрудничества (dgs@uj.edu.sa); есть также вице-декан по стипендиям/обучению dgs-vdean.sic@uj.edu.sa
 • Декан — Dr. Faten bint Mohammed Ali Zainalabdeen Zaini (по новости на сайте деканата, дата публикации не указана); вице-декан женского отделения и межд. сотрудничества — Dr. Samar Al-Jahdali
 • Спутников не найдено (проверка только по nanosats.csv — лимит веб-поиска исчерпан)","• Https://www.uj.edu.sa/en
 • Https://www.uj.edu.sa/en/senior-leadership
 • Https://www.uj.edu.sa/en/contact-us
 • Https://www.uj.edu.sa/en/global-partnerships
 • Https://dgs.uj.edu.sa/
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 38,Саудовская Аравия,Эр-Рияд,Al Yamamah University,جامعة اليمامة,Другое,Частный,"• Business Administration
 • Engineering (Software, Network, Industrial)
 • Architecture
@@ -626,13 +626,13 @@ Office of the President (president_office@ub.edu.sa); общий ящик ком
 • Cyber Security","Al Yamamah University, King Fahd Road, Al Qairawan District, P.O. Box 45180, Riyadh 11512, Kingdom of Saudi Arabia",m_mourad@yu.edu.sa,"Dr. Mashhour Mourad
 Директор по глобальному взаимодействию
 Офис глобального взаимодействия (Global Engagement Office)
-Обращение: Dear Dr. Mourad,",m_mourad@yu.edu.sa,info@yu.edu.sa,+966 11 224 2222,https://yu.edu.sa,Dr. Yazeed Al-Suhaibani,Acting President,,,,0,,,,,,,0,3,да,высокая,"• Частный университет (бизнес, инженерия, право); есть кампус в Эль-Хобаре
+Обращение: Dear Dr. Mourad,","личный, совпало",m_mourad@yu.edu.sa,info@yu.edu.sa,+966 11 224 2222,https://yu.edu.sa,Dr. Yazeed Al-Suhaibani,Acting President,,,,0,,,,,,,0,3,да,высокая,"• Частный университет (бизнес, инженерия, право); есть кампус в Эль-Хобаре
 • Global Engagement Office: директор Dr. Mashhour Mourad (m_mourad@yu.edu.sa, доб. 3001); менеджер по международным партнёрствам Ms. Raghad Balkhi (r_balkhi@yu.edu.sa, доб. 3043)
 • Руководитель — исполняющий обязанности президента (Acting President), данные мая 2026
 • Не входит в THE2027/QS2027; спутников не найдено","• Https://yu.edu.sa/global-engagement-office/
 • Https://yu.edu.sa/about/about-yu/locate-us/
 • Https://yu.edu.sa/academics/college-of-law/
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 39,Саудовская Аравия,Эр-Рияд,Arab Open University - Saudi Arabia (AOU-KSA),الجامعة العربية المفتوحة - المملكة العربية السعودية,Другое,Частный (некоммерческий),"• Business Studies
 • Computer Studies (IT)
 • Education
@@ -640,7 +640,7 @@ Office of the President (president_office@ub.edu.sa); общий ящик ком
 • Applied College programs","Arab Open University - KSA, Prince Faisal Ibn Abdulrahman St, Hittin, P.O. Box 84901, Riyadh 11681, Saudi Arabia",info@arabou.edu.sa,"ФИО не найдено
 Руководитель отдела местных и международных связей
 Общая почта университета
-Обращение: Dear Director of International Relations,",,info@arabou.edu.sa,+966 11 401 7878,https://www.arabou.edu.sa,Prof. Dr. Ali bin Mohammed Al-Shahrani,President,,,,0,,,,,,,0,3,да,средняя,"• Саудовское отделение некоммерческого Арабского открытого университета (штаб-квартира в Кувейте), смешанное/дистанционное обучение; партнёр Open University (UK)
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@arabou.edu.sa,+966 11 401 7878,https://www.arabou.edu.sa,Prof. Dr. Ali bin Mohammed Al-Shahrani,President,,,,0,,,,,,,0,3,да,средняя,"• Саудовское отделение некоммерческого Арабского открытого университета (штаб-квартира в Кувейте), смешанное/дистанционное обучение; партнёр Open University (UK)
 • Есть раздел Local and International Relations, но отдельного e-mail/руководителя нет — использовать info@arabou.edu.sa; второй телефон +966 11 274 2696
 • Филиалы: Даммам/Эль-Хаса (Dr. Mohammad Alsaif), Джидда (Dr. Osamah Alzaid), Медина (Dr. Abdullah AlGhamdi)
 • Инженерного/космического профиля нет; спутников не найдено (проверка только по nanosats.csv)
@@ -649,7 +649,7 @@ Office of the President (president_office@ub.edu.sa); общий ящик ком
 • Https://www.arabou.edu.sa/about
 • Https://www.arabou.edu.sa/about/Pages/international-relations.aspx
 • Https://www.arabou.edu.sa/about/Pages/branch-regional-centers-directors.aspx
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 40,Саудовская Аравия,Эр-Рияд,Dar Al Uloom University,جامعة دار العلوم,Другое,Частный,"• Medicine
 • Dentistry
 • Pharmacy and Applied Medical Sciences
@@ -657,13 +657,13 @@ Office of the President (president_office@ub.edu.sa); общий ящик ком
 • Law
 • Business","Dar Al Uloom University, Riyadh, Kingdom of Saudi Arabia",info@dau.edu.sa,"ФИО не найдено
 Общий адрес университета
-Обращение: Dear Sir or Madam,",,info@dau.edu.sa,+966 11 494 9000,https://dau.edu.sa,Prof. Dr. Hossam bin Mohammed Ramadan,Acting President,,,,0,,,,,,,0,3,да,средняя,"• Частный университет (медицина, стоматология, инженерия, право, бизнес)
+Обращение: Dear Sir or Madam,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@dau.edu.sa,+966 11 494 9000,https://dau.edu.sa,Prof. Dr. Hossam bin Mohammed Ramadan,Acting President,,,,0,,,,,,,0,3,да,средняя,"• Частный университет (медицина, стоматология, инженерия, право, бизнес)
 • Руководитель — исполняющий обязанности президента (رئيس الجامعة المكلف) с сентября 2026: أ.د. حسام بن محمد رمضان (латиница наша); до этого президентом был Prof. Dr. Khalid bin Abdulrahman Al-Hamoudi
 • E-mail международного отдела не найден; общий info@dau.edu.sa, факс +966 11 494 9490; почтовый индекс/а-я не найдены
 • Спутников не найдено","• Https://dau.edu.sa/
 • Https://dau.edu.sa/عن-الجامعة/اتصل-بنا-2/
 • Https://dau.edu.sa/احتفال-الجامعة-بـ-اليوم-الوطني-السعود/
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 41,Саудовская Аравия,Джидда,Dar Al-Hekma University,جامعة دار الحكمة,Другое,Частный (некоммерческий),"• Design & Architecture
 • Business & Law
 • Computer Science & Engineering
@@ -672,46 +672,46 @@ Office of the President (president_office@ub.edu.sa); общий ящик ком
 • Languages & Translation","Dar Al-Hekma University, 6702 Prince Majed - Al Faiha, Unit No. 2, Jeddah 22246-4872, Saudi Arabia",BusinessDevelopment@dah.edu.sa,"Dr. Ahlam Alaki
 Директор отдела сотрудничества (Collaboration Unit)
 Отдел развития бизнеса и консалтинга (Business Development & Consultancy)
-Обращение: Dear Dr. Alaki,",BusinessDevelopment@dah.edu.sa,communications@dah.edu.sa,+966 12 630 3333,https://www.dah.edu.sa,Dr. Abeer Abdulaziz Aldoghaither,President,,,,0,,,,,,,0,3,да,средняя,"• Частный некоммерческий женский университет (Джидда)
+Обращение: Dear Dr. Alaki,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",BusinessDevelopment@dah.edu.sa,communications@dah.edu.sa,+966 12 630 3333,https://www.dah.edu.sa,Dr. Abeer Abdulaziz Aldoghaither,President,,,,0,,,,,,,0,3,да,средняя,"• Частный некоммерческий женский университет (Джидда)
 • Communications@dah.edu.sa — отдел маркетинга и коммуникаций (отдельного общего/ректорского адреса нет); единый номер +966 9200 16965
 • Партнёрствами (местными и международными) занимается Collaboration Unit при президенте — директор Dr. Ahlam Alaki, e-mail отдела не опубликован; BusinessDevelopment@dah.edu.sa — Business Development & Consultancy
 • Космического профиля нет; спутников не найдено (проверка только по nanosats.csv)","• Https://www.dah.edu.sa/en
 • Https://www.dah.edu.sa/en/about/Pages/President.aspx
 • Https://www.dah.edu.sa/en/about/Pages/Contact-Information.aspx
 • Https://www.dah.edu.sa/en/Pages/Collaboration-Office.aspx
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 42,Саудовская Аравия,Табук,Fahad Bin Sultan University,جامعة فهد بن سلطان,Классический,Частный,"• Engineering
 • Computing
 • Business Administration
 • Nursing and Health Sciences
 • Humanities","Fahad Bin Sultan University, P.O. Box 15700, Tabuk 71454, Kingdom of Saudi Arabia",info@fbsu.edu.sa,"ФИО не найдено
 Общий адрес университета
-Обращение: Dear Sir or Madam,",,info@fbsu.edu.sa,+966 14 425 2500,https://www.fbsu.edu.sa,Prof. Abdallah I. Husein Malkawi,President,,,,0,,,,,,,0,3,да,средняя,"• Частный университет в Табуке (с 2004 г.); 4 инженерные программы аккредитованы ABET
+Обращение: Dear Sir or Madam,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@fbsu.edu.sa,+966 14 425 2500,https://www.fbsu.edu.sa,Prof. Abdallah I. Husein Malkawi,President,,,,0,,,,,,,0,3,да,средняя,"• Частный университет в Табуке (с 2004 г.); 4 инженерные программы аккредитованы ABET
 • E-mail международного отдела не найден; общий info@fbsu.edu.sa
 • Страница президента не датирована — актуальность ФИО подтверждена только текущим сайтом
 • Спутников не найдено","• Https://www.fbsu.edu.sa/
 • Https://fbsu.edu.sa/Contacts
 • Https://www.fbsu.edu.sa/All/Pages/About-Us/University-President
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 43,Саудовская Аравия,Эль-Джубайль,Jubail Industrial College (JIC),كلية الجبيل الصناعية,Технический / аэрокосмический,Государственный (агентство),"• Chemical & Process Engineering Technology
 • Electrical & Electronics Engineering Technology
 • Mechanical Engineering Technology
 • Computer & Information Systems
-• Industrial Management",,,,,,,https://www.jic.edu.sa,,Managing Director,,,,0,,,,,,,0,3,,низкая,"• Сайт www.jic.edu.sa недоступен (DNS не разрешается/прокси отклоняет соединение), портал Королевской комиссии rcjy.edu.sa отвечает 503; лимит веб-поиска исчерпан — контакты и руководитель НЕ проверены
+• Industrial Management",,,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://www.jic.edu.sa,,Managing Director,,,,0,,,,,,,0,3,,низкая,"• Сайт www.jic.edu.sa недоступен (DNS не разрешается/прокси отклоняет соединение), портал Королевской комиссии rcjy.edu.sa отвечает 503; лимит веб-поиска исчерпан — контакты и руководитель НЕ проверены
 • Колледж Королевской комиссии по Джубайлю и Янбу (не Минобразования); прикладной инженерно-технологический профиль; должность руководителя (Managing Director) не подтверждена
 • Спутников не найдено (проверка только по nanosats.csv)
 • Требуется ручная доработка перед рассылкой
-• Перепроверка: Домен www.jic.edu.sa не разрешается, jic.edu.sa и rcjy.gov.sa недоступны (502 / сброс соединения) — данные не изменены (04.10.2026)",Nanosats.csv,2026-10-04,
+• Перепроверка: Домен www.jic.edu.sa не разрешается, jic.edu.sa и rcjy.gov.sa недоступны (502 / сброс соединения) — данные не изменены (04.10.2026)",Nanosats.csv,2026-10-05,
 44,Саудовская Аравия,Джидда,Prince Sultan Aviation Academy,,Технический / аэрокосмический,,"• Aviation training
 • Flight operations
-• Aircraft maintenance",,,,,,,https://psaa.com.sa,,,,,,0,,,,,,,0,3,,низкая,"• Официальный сайт — https://psaa.com.sa (одностраничное приложение, в основном портал записи на курсы); psaa.edu.sa не резолвится
+• Aircraft maintenance",,,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://psaa.com.sa,,,,,,0,,,,,,,0,3,,низкая,"• Официальный сайт — https://psaa.com.sa (одностраничное приложение, в основном портал записи на курсы); psaa.edu.sa не резолвится
 • Сайт указывает расположение академии в Джидде и отдельную регистрацию для сотрудников Saudia — подтверждает принадлежность к группе Saudia
 • Руководитель, e-mail, телефон, почтовый адрес НЕ найдены на официальных страницах — требуется ручная доработка
 • Профиль main_fields — общий для авиационной академии, не проверен; спутников в nanosats.csv нет
 • Перепроверка: Официальный сайт psaa.com.sa (SPA) открыт 04.10.2026: из его кода подтверждены расположение в Джидде и связь с Saudia (отдельная регистрация для сотрудников Saudia); руководитель, e-mail, телефон и адрес на сайте не опубликованы","• Https://psaa.com.sa/ (SPA
 • Текст из официального JS-бандла /static/js/main.ca029ecb.js)
 • Https://en.wikipedia.org/wiki/Prince_Sultan_Aviation_Academy (redirect to Saudia#Early_years)
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 45,Саудовская Аравия,Эр-Рияд,Riyadh Elm University (REU),جامعة رياض العلم,Медицинский,Частный,"• Dentistry
 • Medicine
 • Pharmacy
@@ -720,33 +720,33 @@ Office of the President (president_office@ub.edu.sa); общий ящик ком
 • Technology & Business","Riyadh Elm University, King Fahd Branch Road, Al-Namudhajiyah, Riyadh 12734, Saudi Arabia",info@riyadh.edu.sa,"ФИО не найдено
 Директор по международному сотрудничеству
 Общая почта университета
-Обращение: Dear Director of International Affairs,",,info@riyadh.edu.sa,+966 11 210 0000,https://www.riyadh.edu.sa,Dr. Mohammed bin Abdullah Al-Rafei (د. محمد بن عبد الله الرافعي),President,,,,0,,,,,,,0,3,да,средняя,"• Частный университет медико-стоматологического профиля (бывш. Riyadh Colleges of Dentistry and Pharmacy)
+Обращение: Dear Director of International Affairs,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@riyadh.edu.sa,+966 11 210 0000,https://www.riyadh.edu.sa,Dr. Mohammed bin Abdullah Al-Rafei (د. محمد بن عبد الله الرافعي),President,,,,0,,,,,,,0,3,да,средняя,"• Частный университет медико-стоматологического профиля (бывш. Riyadh Colleges of Dentistry and Pharmacy)
 • Президент указан на сайте по-арабски (фото загружено 29.10.2025); латинская транслитерация — наша
 • Международного отдела/контактов на сайте нет (только раздел для иностранных студентов) — использовать info@riyadh.edu.sa
 • Космического профиля нет; спутников не найдено (проверка только по nanosats.csv)","• Https://www.riyadh.edu.sa/en
 • Https://www.riyadh.edu.sa/about
 • Https://www.riyadh.edu.sa/contact
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 46,Саудовская Аравия,Джидда,University of Business and Technology,جامعة الأعمال والتكنولوجيا,Другое,Частный,"• Business Administration
 • Engineering
 • Law
 • Advertising and Communication
 • Artificial Intelligence and Computing","University of Business and Technology, P.O. Box 33335, Jeddah 21445, Kingdom of Saudi Arabia",info@ubt.edu.sa,"ФИО не найдено
 Общий адрес университета
-Обращение: Dear Sir or Madam,",,info@ubt.edu.sa,+966 920000490,https://www.ubt.edu.sa,Dr. Weam Husni Tunsi,President,,THE2027: Reporter (unranked),,0,,,,,,,0,3,да,средняя,"• Частный университет бизнес-профиля (есть инженерный колледж и программы ИИ); низкая релевантность для спутниковой программы
+Обращение: Dear Sir or Madam,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@ubt.edu.sa,+966 920000490,https://www.ubt.edu.sa,Dr. Weam Husni Tunsi,President,,THE2027: Reporter (unranked),,0,,,,,,,0,3,да,средняя,"• Частный университет бизнес-профиля (есть инженерный колледж и программы ИИ); низкая релевантность для спутниковой программы
 • В вузе есть подразделение International Partnership Affairs, но его e-mail/руководитель не опубликованы; используется общий info@ubt.edu.sa
 • Президент — Dr. Weam Husni Tunsi (по данным API официального сайта; учёное звание — доцент/Associate Professor)
 • В THE 2027 — только статус Reporter (без места); спутников не найдено","• Https://www.ubt.edu.sa/
 • Https://www.ubt.edu.sa/about/ubtpresident
 • Https://mobileapp.ubt.edu.sa/UBTWebsiteAPI/api/Faculty/get/president
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 47,Саудовская Аравия,Медина,University of Prince Mugrin (UPM),جامعة الأمير مقرن بن عبدالعزيز,Технический / аэрокосмический,Частный (некоммерческий),"• Computer Science & Cybersecurity
 • Engineering
 • Business Administration
 • Artificial Intelligence & Data Science","University of Prince Mugrin, Al Aqool, Madinah 42241, Saudi Arabia",vrbd@upm.edu.sa,"ФИО не найдено
 Проректор по развитию бизнеса
 Проректорат по развитию бизнеса (Vice Rectorate for Business Development)
-Обращение: Dear Vice Rector for Business Development,",vrbd@upm.edu.sa,President.Office@upm.edu.sa,+966 920000238,https://www.upm.edu.sa,Dr. Bandar bin Mohammed Hajjar,President,,,,0,,,,,,,0,3,да,средняя,"• Частный некоммерческий университет (Медина); президент назначен 18/1/1444 г.х. (август 2022); упоминается как президент в новости о TEDxUPM от 12.02.2026
+Обращение: Dear Vice Rector for Business Development,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,vrbd@upm.edu.sa,President.Office@upm.edu.sa,+966 920000238,https://www.upm.edu.sa,Dr. Bandar bin Mohammed Hajjar,President,,,,0,,,,,,,0,3,да,средняя,"• Частный некоммерческий университет (Медина); президент назначен 18/1/1444 г.х. (август 2022); упоминается как президент в новости о TEDxUPM от 12.02.2026
 • Профиль — компьютерные науки, кибербезопасность, инженерия (выбран technical, не аэрокосмический в узком смысле)
 • Отдельного международного отдела нет; vrbd@upm.edu.sa — Проректорат по развитию бизнеса (партнёрства); исследования/партнёрства в науке — srgs@upm.edu.sa
 • Телефон 920000238 — единый номер (на сайте в формате +966920000238)
@@ -754,13 +754,13 @@ Office of the President (president_office@ub.edu.sa); общий ящик ком
 • Https://www.upm.edu.sa/en/about-upm#president-corner
 • Https://www.upm.edu.sa/en/contact-us
 • Https://www.upm.edu.sa/en/research-and-innovation
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 48,Саудовская Аравия,Янбу,Yanbu Industrial College,كلية ينبع الصناعية,Технический / аэрокосмический,Государственный (агентство),"• Chemical Engineering Technology
 • Mechanical Engineering Technology
 • Electrical Engineering Technology
 • Information Technology
 • Business Administration
-• Applied Sciences",,,,,,,https://rcjy.edu.sa/en/colleges-and-institutes-in-yanbu/yanbu-industrial-college/home-yanbu-industrial-college/,,Managing Director,,,,0,,,,,,,0,3,,низкая,"• Колледж Королевской комиссии по Джубайлю и Янбу (Royal Commission), основан в 1989 г., расположен в промышленном городе Янбу
+• Applied Sciences",,,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://rcjy.edu.sa/en/colleges-and-institutes-in-yanbu/yanbu-industrial-college/home-yanbu-industrial-college,,Managing Director,,,,0,,,,,,,0,3,,низкая,"• Колледж Королевской комиссии по Джубайлю и Янбу (Royal Commission), основан в 1989 г., расположен в промышленном городе Янбу
 • В Википедии руководителем указан Dr. Fahad Aloufi (без даты, вероятно устарело) — в head_name не внесено
 • Profile_type: технический колледж (не аэрокосмический); спутников нет
 • Актуальный официальный сайт — раздел портала Royal Commission Education (rcjy.edu.sa); yic.edu.sa и rcyci.edu.sa не открываются
@@ -770,4 +770,4 @@ Office of the President (president_office@ub.edu.sa); общий ящик ком
 • Https://rcjy.edu.sa/en/colleges-and-institutes-in-yanbu/yanbu-industrial-college/about-yanbu-industrial-college/organizational-structure-yanbu-industrial-college/
 • Https://rcjy.edu.sa/en/contact-us/
 • Https://en.wikipedia.org/wiki/Yanbu_Industrial_College
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,

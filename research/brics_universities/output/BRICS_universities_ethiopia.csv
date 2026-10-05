@@ -1,4 +1,4 @@
-﻿№,Страна,Город,Вуз (англ.),Вуз (ориг.),Профиль,Гос. / частный,Основные направления обучения,Почтовый адрес,E-mail для рассылки (рекомендуемый),Адресат (владелец рекомендуемого e-mail),E-mail (международный отдел),E-mail (общий / ректорат),Телефон,Сайт,Ректор / президент,Должность,Рейтинг QS,Рейтинг THE,Национальный рейтинг,Запущено КА (спутников),Названия запущенных КА (год),КА в разработке,Наземная станция,Космические подразделения,Партнёрства в космической сфере,Санкционные / ограничительные списки (США),Космический индекс (0–100),Волна рассылки,Проверка домена e-mail (MX),Достоверность,Примечания,Источники,Дата проверки,"Секретарь парткома (справочно, Китай)"
+﻿№,Страна,Город,Вуз (англ.),Вуз (ориг.),Профиль,Гос. / частный,Основные направления обучения,Почтовый адрес,E-mail для рассылки (рекомендуемый),Адресат (владелец рекомендуемого e-mail),Стыковка e-mail и адресата,E-mail (международный отдел),E-mail (общий / ректорат),Телефон,Сайт,Ректор / президент,Должность,Рейтинг QS,Рейтинг THE,Национальный рейтинг,Запущено КА (спутников),Названия запущенных КА (год),КА в разработке,Наземная станция,Космические подразделения,Партнёрства в космической сфере,Санкционные / ограничительные списки (США),Космический индекс (0–100),Волна рассылки,Проверка домена e-mail (MX),Достоверность,Примечания,Источники,Дата проверки,"Секретарь парткома (справочно, Китай)"
 1,Эфиопия,Аддис-Абеба,Space Science and Geospatial Institute (SSGI),የኅዋ ሳይንስና ጂኦስፓሻል ኢንስቲትዩት,НИИ / научный центр,Государственный (агентство),"• Earth observation & remote sensing
 • Space science & astronomy
 • Satellite engineering & operations
@@ -6,7 +6,7 @@
 • Geospatial information & mapping
 • Aerospace engineering (postgraduate)","Space Science and Geospatial Institute, Menelik II Avenue, Addis Ababa, Ethiopia",partnerships@ssgi.gov.et,"ФИО не найдено
 Служба промышленного сотрудничества и партнёрств SSGI
-Обращение: Dear Director General Dr. Abdissa Yilma,",partnerships@ssgi.gov.et,info@ssgi.gov.et,+251 111 8332474; +251 111 896 1050,https://ssgi.gov.et,Dr. Abdissa Yilma,Director General,,,,2,"• ETRSS-1 (2019)
+Обращение: Dear Director General Dr. Abdissa Yilma,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,partnerships@ssgi.gov.et,info@ssgi.gov.et,+251 111 8332474; +251 111 896 1050,https://ssgi.gov.et,Dr. Abdissa Yilma,Director General,,,,2,"• ETRSS-1 (2019)
 • ET-SMART-RSS (2020)","• ETRSS-2 (0.5 m EO satellite, joint development with Shanghai Engineering Center for Microsatellites
 • Launch planned Dec 2026)
 • Domestic satellite AIT centre planned with Roscosmos support",Multi-satellite tracking and data-receiving ground station at Entoto (installed May 2021; offered as paid data-reception service); 12-m EO satellite data receiving ground station (built 2024),"• Entoto Observatory and Research Center (EORC)
@@ -27,7 +27,7 @@
 • Https://www.ena.et/web/eng/w/eng_8078738
 • Https://www.fanamc.com/english/agreement-signed-to-launch-ethiopias-3rd-earth-observation-satellite/
 • Https://spaceinafrica.com/2026/04/27/ethiopia-plans-to-build-satellite-ait-facility-in-cooperation-with-russia/
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 2,Эфиопия,Аддис-Абеба,Addis Ababa University,አዲስ አበባ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Natural & computational sciences
 • Engineering & technology (AAiT / College of Technology and Built Environment)
 • Health sciences & medicine
@@ -36,7 +36,7 @@
 • Business & economics","Addis Ababa University, 6 Kilo Main Campus, P.O. Box 1176, Addis Ababa, Ethiopia",partnership@aau.edu.et,"ФИО не найдено
 Директор Офиса партнёрств
 Офис партнёрств (Office of Partnerships / AAU Global) при вице-президенте по партнёрству и коммуникациям
-Обращение: Dear Director of the Office of Partnerships,",partnership@aau.edu.et,communication@aau.edu.et,+251 11 123 9715,https://www.aau.edu.et,Dr. Samuel Kifle,President,,,,0,,"ET-SAT (2U CubeSat by AAiT, pre-selected for QB50) — cancelled, never launched",,"• Department of Physics (astrophysics / astronomy research stream)
+Обращение: Dear Director of the Office of Partnerships,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,partnership@aau.edu.et,communication@aau.edu.et,+251 11 123 9715,https://www.aau.edu.et,Dr. Samuel Kifle,President,,,,0,,"ET-SAT (2U CubeSat by AAiT, pre-selected for QB50) — cancelled, never launched",,"• Department of Physics (astrophysics / astronomy research stream)
 • Addis Ababa Institute of Technology — School of Electrical & Computer Engineering (ELEDIA@AAiT research group, communication engineering)",,,25,1B,да,средняя,"• Ведущий университет страны; сайт aau.edu.et — JS-приложение, данные взяты из официального API api.aau.edu.et
 • Международными связями ведает Office of Partnerships (подразделение AAU Global) при вице-президенте по партнёрству и коммуникациям; по ENA (фев. 2025) этот пост занимала Dr. Rahel Argaw, в текущем списке руководства на сайте её нет — не подтверждено на 2026
 • Отдельного e-mail президента не опубликовано; email_general — Office of Communication (также в офисе президента, 6 Kilo)
@@ -46,7 +46,7 @@
 • Https://www.ena.et/web/eng/w/eng_6063594
 • Https://www.fsxbusiness.com/aau-tops-east-africa-in-qs-rankings
 • Https://www.nanosats.eu/sat/et-sat
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 3,Эфиопия,Аддис-Абеба,Addis Ababa Science and Technology University,አዲስ አበባ ሳይንስና ቴክኖሎጂ ዩኒቨርሲቲ,Технический / аэрокосмический,Государственный (Минобразования Эфиопии),"• Engineering
 • Natural and Applied Sciences
 • Architecture & Civil Engineering
@@ -55,12 +55,12 @@
 • Aerospace engineering (with SSGI)","Addis Ababa Science and Technology University, P.O. Box 16417, Addis Ababa, Ethiopia",pir@aastu.edu.et,"Dr. Biniam Atnafe Beyene
 Директор по международным связям и партнёрствам
 Управление международных связей и партнёрств
-Обращение: Dear Dr. Biniam,",pir@aastu.edu.et,president@aastu.edu.et,+251 11 462 4178,https://www.aastu.edu.et,Dr. Asrat Atsedeweyn,President,,,,0,,,,"Joint Aerospace Engineering Postgraduate Program with SSGI (M.Sc. Space Engineering, M.Sc. Aeronautical Engineering — drones, CubeSats, rockets)",Space Science and Geospatial Institute (SSGI) — joint aerospace postgraduate program,,20,2,да,высокая,"• Спутников на орбите не найдено; совместная магистратура по аэрокосмической инженерии с SSGI (включая CubeSat) — хорошая точка входа
+Обращение: Dear Dr. Biniam,",ящик общий,pir@aastu.edu.et,president@aastu.edu.et,+251 11 462 4178,https://www.aastu.edu.et,Dr. Asrat Atsedeweyn,President,,,,0,,,,"Joint Aerospace Engineering Postgraduate Program with SSGI (M.Sc. Space Engineering, M.Sc. Aeronautical Engineering — drones, CubeSats, rockets)",Space Science and Geospatial Institute (SSGI) — joint aerospace postgraduate program,,20,2,да,высокая,"• Спутников на орбите не найдено; совместная магистратура по аэрокосмической инженерии с SSGI (включая CubeSat) — хорошая точка входа
 • Телефон +251 11 462 4178 найден в исходном коде страницы офиса президента (не отображается на странице) — проверить
 • Альтернативный личный адрес директора: biniam.atnafe@aastu.edu.et; моб. +251 911 995 069; директор офиса президента — Solomon Molla Alemu (PhD), po.director@aastu.edu.et","• Https://www.aastu.edu.et/
 • Https://www.aastu.edu.et/president-office/
 • Https://www.aastu.edu.et/international-relations-and-partnerships/
-• Https://ssgi.gov.et/api/api/news (Aerospace Engineering Postgraduate Program)",2026-10-04,
+• Https://ssgi.gov.et/api/api/news (Aerospace Engineering Postgraduate Program)",2026-10-05,
 4,Эфиопия,Бахр-Дар,Bahir Dar University,ባሕር ዳር ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Engineering & Technology (Bahir Dar Institute of Technology)
 • Medicine & Health Sciences
 • Agriculture & Environmental Sciences
@@ -69,7 +69,7 @@
 • Education","Bahir Dar University, Bahir Dar, Amhara Region, Ethiopia",bduinfo@bdu.edu.et,"Dr. Mengesha Ayene Ejigu
 Президент университета
 Общий почтовый ящик университета (информационный офис)
-Обращение: Dear Dr. Mengesha,",,bduinfo@bdu.edu.et,+251 583 20 9653,https://www.bdu.edu.et,Dr. Mengesha Ayene Ejigu,President,,,,0,,,Blue Nile Radar (BNR) / geospace radar facilities of the Washera Geospace and Radar Science Laboratory,"• Washera Geospace and Radar Science Laboratory (WaGRL, College of Science)
+Обращение: Dear Dr. Mengesha,",ящик общий,,bduinfo@bdu.edu.et,+251 583 20 9653,https://www.bdu.edu.et,Dr. Mengesha Ayene Ejigu,President,,,,0,,,Blue Nile Radar (BNR) / geospace radar facilities of the Washera Geospace and Radar Science Laboratory,"• Washera Geospace and Radar Science Laboratory (WaGRL, College of Science)
 • Geospatial Data & Technology Center
 • Bahir Dar Institute of Technology",,,20,1B,да,средняя,"• Спутников на орбите не найдено; есть лаборатория геокосмоса и радаров (ионосфера, TEC-модели, обучение школьников по спутниковым технологиям)
 • Президент с 19.06.2024 — Dr. Mengesha Ayene Ejigu (послание на сайте датировано 25.06.2024; более поздняя официальная страница не найдена)
@@ -79,7 +79,7 @@
 • Https://www.bdu.edu.et/node/131
 • Https://www.bdu.edu.et/wagrl/
 • Https://bdu.edu.et/node/160
-• Https://t.me/s/bahir_dar_university",2026-10-04,
+• Https://t.me/s/bahir_dar_university",2026-10-05,
 5,Эфиопия,Адама,Adama Science and Technology University,አዳማ ሳይንስና ቴክኖሎጂ ዩኒቨርሲቲ,Технический / аэрокосмический,Государственный (Минобразования Эфиопии),"• Electrical
 • Electronics & Communication engineering
 • Mechanical & Chemical engineering
@@ -89,14 +89,14 @@
 • Geomatics engineering","Adama Science and Technology University, P.O. Box 1888, Adama, Ethiopia",bedassa.abdissa@astu.edu.et,"Dr. Bedasa Abdisa Gonfa
 Директор Офиса интернационализации и партнёрств
 Офис интернационализации и партнёрств (Office of Internationalization and Partnership)
-Обращение: Dear Dr. Bedasa,",bedassa.abdissa@astu.edu.et,irccd@astu.edu.et,+251 22 211 3961,https://www.astu.edu.et,Dr. Lemi Guta Enyadene,President,,,,0,,,,,Space Science and Geospatial Institute (SSGI) — agreement Apr 2024 on ASTU consultancy for the ETRSS-2 Earth-observation satellite project,,10,3,да,высокая,"• Ведущий технический университет (одобрен как university of science and technology); соглашение с SSGI по проекту спутника ETRSS-2 (2024) — хороший контекст
+Обращение: Dear Dr. Bedasa,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",bedassa.abdissa@astu.edu.et,irccd@astu.edu.et,+251 22 211 3961,https://www.astu.edu.et,Dr. Lemi Guta Enyadene,President,,,,0,,,,,Space Science and Geospatial Institute (SSGI) — agreement Apr 2024 on ASTU consultancy for the ETRSS-2 Earth-observation satellite project,,10,3,да,высокая,"• Ведущий технический университет (одобрен как university of science and technology); соглашение с SSGI по проекту спутника ETRSS-2 (2024) — хороший контекст
 • Email_international — личный адрес директора Office of Internationalization and Partnership (страница обновлена фев. 2025); альтернативы: irccd@astu.edu.et (International Relations and Corporate Communications, контакт в подвале сайта) и pireo@astu.edu.et (Public and International Relations Executive, Mr. Girma Megersa Bedane)
 • Отдельный e-mail президента не опубликован; Chief Executive Officer of President Office — Dr. Worku Jifara Sori
 • В QS 2027 и THE 2027 не найден","• Https://www.astu.edu.et
 • Https://www.astu.edu.et/offices/president-office/president-offices
 • Https://www.astu.edu.et/offices/president-office/internationalization-for-research-and-partnership
 • Https://www.astu.edu.et/offices/president-office/public-and-international-relations
-• Http://spaceinafrica.com/2024/04/11/ssgi-signs-agreement-with-adama-science-and-technology-university/",2026-10-04,
+• Http://spaceinafrica.com/2024/04/11/ssgi-signs-agreement-with-adama-science-and-technology-university/",2026-10-05,
 6,Эфиопия,Аддис-Абеба,Ethiopian Aviation University,የኢትዮጵያ አቪዬሽን ዩኒቨርሲቲ,Технический / аэрокосмический,Государственный (агентство),"• Aircraft maintenance engineering
 • Pilot & flight training (simulators)
 • Air traffic control
@@ -104,7 +104,7 @@
 • Aviation business & marketing
 • Leadership & aviation management","Ethiopian Aviation University (Ethiopian Airlines Group), Addis Ababa, Ethiopia",InfoEAU@eau.edu.et,"ФИО не найдено
 Общий адрес университета
-Обращение: Dear Director of International Relations and Partnerships,",,InfoEAU@eau.edu.et,+251 11 517 4600,https://www.eau.edu.et,Mr. Laeke Tadesse,President,,,,0,,,,,"Boeing (STEM School Program, 4th edition 2026)",,10,3,да,средняя,"• Корпоративный университет авиакомпании Ethiopian Airlines Group (госкомпания), бывшая Ethiopian Aviation Academy; поле ownership условно — 'агентство/госпредприятие', не Минобразования
+Обращение: Dear Director of International Relations and Partnerships,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,InfoEAU@eau.edu.et,+251 11 517 4600,https://www.eau.edu.et,Mr. Laeke Tadesse,President,,,,0,,,,,"Boeing (STEM School Program, 4th edition 2026)",,10,3,да,средняя,"• Корпоративный университет авиакомпании Ethiopian Airlines Group (госкомпания), бывшая Ethiopian Aviation Academy; поле ownership условно — 'агентство/госпредприятие', не Минобразования
 • Профильно близок к аэрокосмической тематике (техобслуживание ВС, УВД, тренажёры) — перспективный партнёр, хотя спутниковых проектов не найдено
 • Отдельного международного офиса и его e-mail не опубликовано; общие адреса: InfoEAU@eau.edu.et и etauinfo@ethiopianairlines.com; страница руководства на сайте пока пустая
 • Почтовый адрес/P.O. Box на сайте не найден (кампус в Аддис-Абебе)","• Https://www.eau.edu.et
@@ -112,7 +112,7 @@
 • Https://eau.edu.et/about/management (no names posted)
 • Https://ethiopianaviationuniversity.azurewebsites.net/newsdetail/eau-and-fdre-mesob-sign-strategic-memorandum-of-understanding
 • Https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite)
-• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-04,
+• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-05,
 7,Эфиопия,Мэкэле,Mekelle University,መቐለ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Engineering & technology (Ethiopian Institute of Technology – Mekelle)
 • Health sciences & medicine (Ayder hospital)
 • Agriculture & natural resources (dryland agriculture)
@@ -121,7 +121,7 @@
 • Law & social sciences","Mekelle University, P.O. Box 231, Mekelle, Tigray, Ethiopia",ia.director@mu.edu.et,"ФИО не найдено
 Директор Дирекции международных дел
 Дирекция международных дел (International Affairs Directorate)
-Обращение: Dear Director of International Affairs,",ia.director@mu.edu.et,president.office@mu.edu.et,+251 344 40 40 05; +251 344 40 75 00,https://www.mu.edu.et,Dr. Fana Hagos Berhane,President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,средняя,"• ВНИМАНИЕ: Тыграй. С 9 сент. 2026 Минобразования (министр Prof. Berhanu Nega) приостановило зачисление новых студентов в 4 университета Тыграя (Мэкэле, Аксум, Адыграт, Райя) и временно переводит их студентов в другие вузы из-за небезопасности; часть кампусов (Kuha campus MU) используется для размещения раненых военных. MU заявляет, что 6 из 7 кампусов работают
+Обращение: Dear Director of International Affairs,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,ia.director@mu.edu.et,president.office@mu.edu.et,+251 344 40 40 05; +251 344 40 75 00,https://www.mu.edu.et,Dr. Fana Hagos Berhane,President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,средняя,"• ВНИМАНИЕ: Тыграй. С 9 сент. 2026 Минобразования (министр Prof. Berhanu Nega) приостановило зачисление новых студентов в 4 университета Тыграя (Мэкэле, Аксум, Адыграт, Райя) и временно переводит их студентов в другие вузы из-за небезопасности; часть кампусов (Kuha campus MU) используется для размещения раненых военных. MU заявляет, что 6 из 7 кампусов работают
 • Президент Dr. Fana Hagos Berhane (с апр. 2021) — в 2026 стала членом International Advisory Committee китайского China–BRICS New Era Science and Technology Innovation Incubation Park: очень благоприятный контекст для БРИКС-приглашения
 • На сайте указан Provost for International Affairs and Global Collaboration — Dr. Shi Yongsheng (provost.office@mu.edu.et) — возможный дополнительный адресат
 • Имя директора International Affairs Directorate на сайте не указано; адрес ia.director@mu.edu.et, тел. +251-344-410976, Ground Floor, Room A1-114
@@ -132,14 +132,14 @@
 • Https://www.mu.edu.et/index.php/news/new-international-scientific-appointment
 • Https://www.riotimesonline.com/ethiopia-tigray-university-students-reassigned-2026/
 • Https://addisstandard.com/mekelle-university-asks-education-ministry-to-assign-students-says-six-of-its-seven-campuses-remain-operational/
-• THE 2027 (input)",2026-10-04,
-8,Эфиопия,Адиграт,Adigrat University,ዩኒቨርሲቲ ዓዲግራት (ዓዲግራት ዩኒቨርሲቲ),Классический,Государственный (Минобразования Эфиопии),,"Adigrat University, Adigrat, Tigray Region, Ethiopia",,,,,,https://adu.edu.et,Dr. Gebremichael Woldegabriel (W/Gabriel),President,,,,0,,,,,,,0,3,,низкая,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
+• THE 2027 (input)",2026-10-05,
+8,Эфиопия,Адиграт,Adigrat University,ዩኒቨርሲቲ ዓዲግራት (ዓዲግራት ዩኒቨርሲቲ),Классический,Государственный (Минобразования Эфиопии),,"Adigrat University, Adigrat, Tigray Region, Ethiopia",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://adu.edu.et,Dr. Gebremichael Woldegabriel (W/Gabriel),President,,,,0,,,,,,,0,3,,низкая,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
 • Университет в Тыграе; сайт adu.edu.et недоступен (503 / сброс соединения, повторно 04.10.2026); e-mail и телефон не найдены
 • Президент Dr. Gebremichael Woldegabriel — по поисковой выдаче официального сайта (выпуск 524 студентов 20.06.2026, новости июля 2026); открытой страницей НЕ подтверждено
 • Перед рассылкой учесть ситуацию с доступом/связью в Тыграе
 • Перепроверка: Сайт adu.edu.et по-прежнему недоступен; президент Dr. Gebremichael Woldegabriel внесён по выдаче официальных новостей сайта (06–07.2026), страницы не открыты — контакты не найдены","• Https://adu.edu.et (HTTP 503 / unreachable, Oct 2026)
 • Https://adu.edu.et/2026/06/20/ (search index only)
-• Https://adu.edu.et/2026/06/20/ (snippet)",2026-10-04,
+• Https://adu.edu.et/2026/06/20/ (snippet)",2026-10-05,
 9,Эфиопия,Аксум,Aksum University,ኣክሱም ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Health sciences & medicine
 • Engineering & technology
 • Agriculture (Shire campus)
@@ -148,7 +148,7 @@
 • Social sciences
 • Tourism & heritage studies","Aksum University, Main Campus, Aksum, Tigray Region, Ethiopia",info@mail.aku.edu.et,"ФИО не найдено
 Общий адрес университета
-Обращение: Dear Director of Public and International Relations,",,info@mail.aku.edu.et,+251 34 775 3345,https://aku.edu.et,Prof. Gebreyesus Brhane,President,,,,0,,,,,,,0,3,да,средняя,"• ВНИМАНИЕ: Тыграй. С 9 сент. 2026 МинОбр приостановило зачисление новых студентов и временно переводит студентов Аксумского университета в другие вузы (небезопасность; на главном кампусе размещены раненые военные). Руководство Аксума требовало отменить решение
+Обращение: Dear Director of Public and International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@mail.aku.edu.et,+251 34 775 3345,https://aku.edu.et,Prof. Gebreyesus Brhane,President,,,,0,,,,,,,0,3,да,средняя,"• ВНИМАНИЕ: Тыграй. С 9 сент. 2026 МинОбр приостановило зачисление новых студентов и временно переводит студентов Аксумского университета в другие вузы (небезопасность; на главном кампусе размещены раненые военные). Руководство Аксума требовало отменить решение
 • Public and International Relations Executive — Mr. Teklay Gebremicheal Teklu (только gmail: teklaygt21@gmail.com / aksumuniversity2025@gmail.com, тел. +251 980 103 118); International Team Leader — Mr. Gebre Welejewergis (+251 914 494 622)
 • В подвале сайта ящик PIR опубликован обрезанным: 'PRD@mail.aku.edu.e' (вероятно PRD@mail.aku.edu.et, домен mail.aku.edu.et имеет MX Microsoft 365) — не подтверждён, поэтому письмо на info@mail.aku.edu.et
 • Номер P.O. Box на сайте не указан; спутниковых проектов не найдено","• Https://aku.edu.et
@@ -157,13 +157,13 @@
 • Https://aku.edu.et/2026/09/14/9120/
 • Https://www.riotimesonline.com/ethiopia-tigray-university-students-reassigned-2026/
 • Https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite)
-• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-04,
-10,Эфиопия,Амбо,Ambo University,አምቦ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),,,,,,,,https://www.ambou.edu.et,,President,,,,0,,,,,,,0,3,,низкая,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
+• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-05,
+10,Эфиопия,Амбо,Ambo University,አምቦ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),,,,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://www.ambou.edu.et,,President,,,,0,,,,,,,0,3,,низкая,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
 • Сайт ambou.edu.et недоступен (ошибка базы данных HTTP 500 на всех страницах, 04.10.2026) — контакты не проверены
 • Поисковая выдача (на основе Википедии) называет президентом Dr. Bayissa Leta — НЕ подтверждено официальным источником, поле оставлено пустым
 • Нужна повторная проверка сайта позже: страницы president-message и president-office-head существуют в поисковом индексе
 • Перепроверка: Сайт ambou.edu.et недоступен (ERR_ADDRESS_UNREACHABLE через reader-сервис, сброс соединения через прокси, 04.10.2026); данные не изменены","• Https://www.ambou.edu.et (HTTP 500 database error, Oct 2026)
-• Https://t.me/s/AmboUniversityOfficial",2026-10-04,
+• Https://t.me/s/AmboUniversityOfficial",2026-10-05,
 11,Эфиопия,Арба-Мынч,Arba Minch University,አርባ ምንጭ ዩኒቨርሲቲ,Технический / аэрокосмический,Государственный (Минобразования Эфиопии),"• Water resources & hydraulic engineering (Arba Minch Water Technology Institute)
 • Engineering & Technology (Arba Minch Institute of Technology)
 • Agriculture
@@ -172,7 +172,7 @@
 • Business & Economics","Arba Minch University, P.O. Box 21, Arba Minch, South Ethiopia Region, Ethiopia",corcom@amu.edu.et,"Dr.-Ing. Abdella Kemal Mohammed
 Президент университета
 Служба корпоративных коммуникаций (общий адрес)
-Обращение: Dear Dr. Abdella,",,corcom@amu.edu.et,+251 46 881 0771,https://www.amu.edu.et,Dr.-Ing. Abdella Kemal Mohammed,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
+Обращение: Dear Dr. Abdella,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",,corcom@amu.edu.et,+251 46 881 0771,https://www.amu.edu.et,Dr.-Ing. Abdella Kemal Mohammed,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
 • Президент Dr.-Ing. Abdella Kemal подтверждён новостями сайта от 25–28.09.2026
 • Profile_type 'technical/aerospace' условно — ядро университета инженерно-водохозяйственное (AWTI, AMiT); аэрокосмических подразделений не найдено
 • Corcom@amu.edu.et — адрес службы корпоративных коммуникаций (общий адрес сайта); e-mail Директората интернационализации и сотрудничества не опубликован; партнёрствами также занимается офис GCPM при вице-президенте по исследованиям
@@ -180,7 +180,7 @@
 • Https://www.amu.edu.et/en/administration/presidents-office/amu-president
 • Https://www.amu.edu.et/en/amu-holds-annual-grants-and-publication-day-honors-excellence-in-research-grant-acquisition-and-scholarly-publication
 • Https://www.amu.edu.et/en/amu-sifa-project-undergoes-progress-monitoring-with-donors-and-stakeholders
-• Https://www.amu.edu.et/en/partnership/our-partners/international-partners",2026-10-04,
+• Https://www.amu.edu.et/en/partnership/our-partners/international-partners",2026-10-05,
 12,Эфиопия,Асоса,Assosa University,አሶሳ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Agriculture & natural resources
 • Engineering
 • Computing & informatics
@@ -188,7 +188,7 @@
 • Natural & computational sciences
 • Business & economics","Assosa University, P.O. Box 18, Assosa, Benishangul-Gumuz Region, Ethiopia",pir@asu.edu.et,"ФИО не найдено
 Исполнительный офис по связям с общественностью и международным отношениям (Public and International Relations Executive)
-Обращение: Dear Director of Public and International Relations,",pir@asu.edu.et,pir@asu.edu.et,+251 57 775 0784,https://asu.edu.et,Dr. Yared Mulu,President,,,,0,,,,,,,0,3,да,средняя,"• Единственный опубликованный институциональный ящик — pir@asu.edu.et (Public and International Relations Executive, тел. +251 57 887 5057); имя руководителя офиса на сайте не указано
+Обращение: Dear Director of Public and International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,pir@asu.edu.et,pir@asu.edu.et,+251 57 775 0784,https://asu.edu.et,Dr. Yared Mulu,President,,,,0,,,,,,,0,3,да,средняя,"• Единственный опубликованный институциональный ящик — pir@asu.edu.et (Public and International Relations Executive, тел. +251 57 887 5057); имя руководителя офиса на сайте не указано
 • Президент Dr. Yared Mulu (на сайте личный gmail yaredmulugelaw@gmail.com, тел. +251 577 750 977)
 • Регион Бенишангуль-Гумуз (рядом плотина GERD); спутниковых проектов не найдено","• Https://asu.edu.et
 • Https://asu.edu.et (Message from the President
@@ -196,7 +196,7 @@
 • Https://asu.edu.et/assosa-university-hosts-external-curriculum-validation-workshop/
 • Https://asu.edu.et/discussion-to-strengthening-international-collaboration-assosa-university-and-masstricht-university/
 • Https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite)
-• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-04,
+• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-05,
 13,Эфиопия,Буле-Хора,Bule Hora University,ቡሌ ሆራ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Agriculture & natural resources
 • Health sciences
 • Engineering & technology
@@ -205,14 +205,14 @@
 • Natural & computational sciences","Bule Hora University, P.O. Box 144, Bule Hora, West Guji Zone, Oromia Region, Ethiopia",internationalrelations@bhu.edu.et,"Asst. Prof. Anteneh Fikrie
 Директор Дирекции исследований, международных связей и партнёрств
 Дирекция исследований, международных связей и партнёрств (RIRPD)
-Обращение: Dear Mr. Anteneh,",internationalrelations@bhu.edu.et,info@bhu.edu.et,+251 46 443 0199,https://www.bhu.edu.et,Dr. Temesgen Debelo,President,,,,0,,,,,,,0,3,да,средняя,"• Research, International Relations and Partnership Directorate (RIRPD) создан в конце декабря (по сайту); директор Anteneh Fikrie (Asst. Prof.), также anteneh.fikrie@bhu.edu.et, тел. +251 922 46 51 29
+Обращение: Dear Mr. Anteneh,",ящик общий,internationalrelations@bhu.edu.et,info@bhu.edu.et,+251 46 443 0199,https://www.bhu.edu.et,Dr. Temesgen Debelo,President,,,,0,,,,,,,0,3,да,средняя,"• Research, International Relations and Partnership Directorate (RIRPD) создан в конце декабря (по сайту); директор Anteneh Fikrie (Asst. Prof.), также anteneh.fikrie@bhu.edu.et, тел. +251 922 46 51 29
 • Президент публикует личный рабочий e-mail temesgendebelo@bhu.edu.et — можно поставить в копию
 • Регион Западный Гуджи (Оромия) — возможны проблемы с безопасностью; спутниковых проектов не найдено","• Https://www.bhu.edu.et
 • Https://www.bhu.edu.et (President's Message)
 • Https://www.bhu.edu.et (Research, International Relation and Partnership Directorate page)
 • Https://www.bhu.edu.et (Contact Us)
 • Https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite)
-• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-04,
+• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-05,
 14,Эфиопия,Дэбрэ-Бырхан,Debre Berhan University,ደብረ ብርሃን ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Engineering & technology
 • Health sciences (Asrat Woldeyes Health Science Campus)
 • Agriculture & natural resources (highland agriculture)
@@ -221,13 +221,13 @@
 • Social sciences & humanities","Debre Berhan University, P.O. Box 445, Debre Berhan, Amhara Region, Ethiopia",bethel@dbu.edu.et,"Dr. Bethel Geremew Shefine
 Директор по международным связям и партнёрству
 Дирекция международных связей и партнёрств (International Relation and Partnership Directorate)
-Обращение: Dear Dr. Bethel,",bethel@dbu.edu.et,dbu@dbu.edu.et,+251 11 617 0797,https://www.dbu.edu.et,Dr. Asmare Melese Tiruneh,President,,,,0,,,,,,,0,3,да,средняя,"• Международный отдел: International Relation and Partnership Director — Dr. Bethel Geremew Shefine (bethel@dbu.edu.et, моб. +251 919 396 017); дата страницы контактов не указана — актуальность на 2026 не подтверждена
+Обращение: Dear Dr. Bethel,","личный, совпало",bethel@dbu.edu.et,dbu@dbu.edu.et,+251 11 617 0797,https://www.dbu.edu.et,Dr. Asmare Melese Tiruneh,President,,,,0,,,,,,,0,3,да,средняя,"• Международный отдел: International Relation and Partnership Director — Dr. Bethel Geremew Shefine (bethel@dbu.edu.et, моб. +251 919 396 017); дата страницы контактов не указана — актуальность на 2026 не подтверждена
 • Dbu@dbu.edu.et — ящик Executive Office of Public and International Relations (исполнительный директор Genzeb Atalay Nigatu, Asst. Prof.)
 • С 2020 г. — University of Applied Sciences; регион Амхара (возможны проблемы с безопасностью); спутниковых проектов не найдено","• Https://www.dbu.edu.et
 • Https://www.dbu.edu.et/dbu_contact
 • Https://www.dbu.edu.et/president_message
 • Https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite)
-• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-04,
+• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-05,
 15,Эфиопия,Дэбре-Маркос,Debre Markos University,ደብረ ማርቆስ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Engineering & Technology (Debre Markos Institute of Technology)
 • Agriculture & Natural Resources
 • Medicine & Health Sciences
@@ -236,13 +236,13 @@
 • Education & Behavioral Sciences","Debre Markos University, P.O. Box 269, Debre Markos, Amhara Region, Ethiopia",projectd.partnership@dmu.edu.et,"Dr. Getnet Atenafu
 Директор по международным связям в исследованиях и партнёрствам
 Директорат международных связей в исследованиях и партнёрствах
-Обращение: Dear Dr. Getnet,",projectd.partnership@dmu.edu.et,prcd@dmu.edu.et,+251 58 178 0033,https://www.dmu.edu.et,Dr. Sayeh Kassaw Agegnehu,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
+Обращение: Dear Dr. Getnet,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",projectd.partnership@dmu.edu.et,prcd@dmu.edu.et,+251 58 178 0033,https://www.dmu.edu.et,Dr. Sayeh Kassaw Agegnehu,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
 • Президент Dr. Sayeh Kassaw назначен Минобразования 24.01.2024 (шестой президент); личный e-mail: Sayeh_kassaw@dmu.edu.et, тел. +251 58 771 1646
 • Директорат международных связей в исследованиях и партнёрствах: директор Getnet Atenafu (PhD, доцент), тел. +251 912 080 282, личный gmail getnet.atenafu@gmail.com; официальный ящик директората — projectd.partnership@dmu.edu.et
 • Prcd@dmu.edu.et — общий адрес в шапке сайта (по-видимому, директорат по связям с общественностью)","• Https://www.dmu.edu.et/
 • Https://www.dmu.edu.et/?page_id=469
 • Https://www.dmu.edu.et/?page_id=1349
-• Https://www.dmu.edu.et/?page_id=562",2026-10-04,
+• Https://www.dmu.edu.et/?page_id=562",2026-10-05,
 16,Эфиопия,Дэбре-Табор,Debre Tabor University,ደብረ ታቦር ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Engineering & Technology (Gafat Institute of Technology)
 • Health Sciences
 • Agriculture & Environmental Sciences
@@ -251,13 +251,13 @@
 • Social Sciences & Humanities","Debre Tabor University, Debre Tabor, Amhara Region, Ethiopia",dtu@dtu.edu.et,"Dr. Solomon Abegaze
 Президент университета
 Общий адрес университета
-Обращение: Dear Dr. Solomon,",,dtu@dtu.edu.et,,https://dtu.edu.et,Dr. Solomon Abegaze,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
+Обращение: Dear Dr. Solomon,",ящик общий,,dtu@dtu.edu.et,,https://dtu.edu.et,Dr. Solomon Abegaze,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
 • Сайт dtu.edu.et блокирует наши запросы (редирект на страницу блокировки) — данные взяты из официального Telegram-канала университета
 • Президент Dr. Solomon Abegaze упомянут как президент в посте от 25.09.2026; в марте 2025 СМИ называли президентом Anegagregn Gashaw — смена руководства
 • Сентябрь 2026: идёт конкурс на должности вице-президентов
 • Телефон, почтовый ящик и e-mail международного отдела не подтверждены; dtu@dtu.edu.et — официальный общий адрес, указанный в Telegram-канале
 • Перепроверка: 04.10.2026: сайт dtu.edu.et по-прежнему блокирует доступ; президент Dr. Solomon Abegaze повторно подтверждён в последних постах официального Telegram-канала (сентябрь 2026); телефон и международный e-mail не найдены","• Https://t.me/s/DTUniversity (official DTU Telegram channel, posts Sep 2026)
-• Https://dtu.edu.et (blocked from our network)",2026-10-04,
+• Https://dtu.edu.et (blocked from our network)",2026-10-05,
 17,Эфиопия,Дилла,Dilla University,ዲላ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Agriculture & natural resources
 • Medicine & health sciences
 • Education & behavioral sciences
@@ -266,13 +266,13 @@
 • Social sciences & humanities","Dilla University, Main Campus, P.O. Box 419, Dilla, Gedeo Zone, South Ethiopia Region, Ethiopia",pirdir@du.edu.et,"Mr. Habtamu Mesfin
 Директор по связям с общественностью и международным отношениям
 Дирекция по связям с общественностью и международным отношениям (Public & International Relations)
-Обращение: Dear Mr. Habtamu,",pirdir@du.edu.et,presidant@du.edu.et,+251 46 131 0001,https://www.du.edu.et,Dr. Elias Alemu,President,,,,0,,,,,,,0,3,да,средняя,"• Адрес президента опубликован как 'presidant@du.edu.et' (так на сайте, возможна опечатка — при недоставке использовать pirdir@du.edu.et)
+Обращение: Dear Mr. Habtamu,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",pirdir@du.edu.et,presidant@du.edu.et,+251 46 131 0001,https://www.du.edu.et,Dr. Elias Alemu,President,,,,0,,,,,,,0,3,да,средняя,"• Адрес президента опубликован как 'presidant@du.edu.et' (так на сайте, возможна опечатка — при недоставке использовать pirdir@du.edu.et)
 • Public & International Relations: директор Habtamu Mesfin; на странице контактов у него указан drdir@du.edu.et, а в шапке сайта — pirdir@du.edu.et (выбран pirdir@ как основной ящик офиса)
 • Страницы Internationalization & Partnership и списка президентов пустые; спутниковых проектов не найдено","• Https://www.du.edu.et
 • Https://www.du.edu.et/contact/
 • Https://www.du.edu.et/offices/president-office/
 • Https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite)
-• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-04,
+• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-05,
 18,Эфиопия,Дыре-Дауа,Dire Dawa University,ድሬዳዋ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Engineering & technology (Dire Dawa Institute of Technology, incl. railway engineering)
 • Medicine & health sciences
 • Business & economics
@@ -281,7 +281,7 @@
 • Law","Dire Dawa University, Dire Dawa, Ethiopia",partnerships@ddu.edu.et,"Asst. Prof. Dawit Daniel
 Директор по стратегическому партнёрству и интернационализации исследований
 Офис международных партнёрств (Office of International Partnerships)
-Обращение: Dear Mr. Dawit,",partnerships@ddu.edu.et,,,https://www.ddu.edu.et,Dr. Ubah Adem,President,,,,0,,,,,,,0,3,нет,средняя,"• Общий e-mail, телефон и P.O. Box на сайте не опубликованы (на странице контактов заглушки)
+Обращение: Dear Mr. Dawit,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",partnerships@ddu.edu.et,,,https://www.ddu.edu.et,Dr. Ubah Adem,President,,,,0,,,,,,,0,3,нет,средняя,"• Общий e-mail, телефон и P.O. Box на сайте не опубликованы (на странице контактов заглушки)
 • Office of International Partnerships: директор Dawit Daniel (Asst. Prof.), личный адрес dawit.daniel@ddu.edu.et; отдельно есть International and Public Relations Directorate — директор Tensay Hailu (Asst. Prof.)
 • Университет переходит в статус University of Applied Sciences; спутниковых проектов не найдено","• Https://www.ddu.edu.et
 • Https://www.ddu.edu.et/presidents-3/
@@ -289,25 +289,25 @@
 • Https://www.ddu.edu.et/international-partnership/
 • Https://www.ddu.edu.et/international-and-public-relations-directorate/
 • Https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite)
-• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-04,
+• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-05,
 19,Эфиопия,Аддис-Абеба,Ethiopian Civil Service University,የኢትዮጵያ ሲቪል ሰርቪስ ዩኒቨርሲቲ,Гуманитарный,Государственный (Минобразования Эфиопии),"• Public administration & governance
 • Public policy
 • Law
 • Urban development & management
 • Finance & economics
-• Leadership","Ethiopian Civil Service University, Addis Ababa, Ethiopia",,,,,,https://www.ecsu.edu.et,,President,,,,0,,,,,,,0,3,,низкая,"• Официальный сайт ecsu.edu.et недоступен (сброс соединения / 503) — контакты и руководство не проверены, нужна ручная проверка
+• Leadership","Ethiopian Civil Service University, Addis Ababa, Ethiopia",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://www.ecsu.edu.et,,President,,,,0,,,,,,,0,3,,низкая,"• Официальный сайт ecsu.edu.et недоступен (сброс соединения / 503) — контакты и руководство не проверены, нужна ручная проверка
 • В Википедии упоминается также домен epsu.edu.et (возможно, переименование в Ethiopian Public Service University) и президент Nigus Tadese (PhD) — не подтверждено на 2026; домен epsu.edu.et тоже недоступен
 • Вуз государственной службы (управление, политика, право) — низкая релевантность для спутниковой программы; спутниковых проектов не найдено
 • Перепроверка: Сайты ecsu.edu.et / epsu.edu.et по-прежнему недоступны (04.10.2026); в списке университетов на moe.gov.et вуз не значится; данные не изменены","• Https://www.ecsu.edu.et (unreachable: connection reset / HTTP 503, Oct 2026)
 • Https://en.wikipedia.org/wiki/Ethiopian_Civil_Service_University
 • Https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite)
-• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-04,
+• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-05,
 20,Эфиопия,Гамбела,Gambella University,ጋምቤላ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Agriculture & Natural Resources (pastoralism)
 • Engineering & Technology
 • Health Sciences
 • Natural & Computational Sciences
 • Business & Economics
-• Social Sciences","Gambella University, Gambella, Gambella Region, Ethiopia",,,,,,https://www.gmu.edu.et,Dr. Diriba Eticha Tujuba,President,,,,0,,,,,,,0,3,,низкая,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
+• Social Sciences","Gambella University, Gambella, Gambella Region, Ethiopia",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://www.gmu.edu.et,Dr. Diriba Eticha Tujuba,President,,,,0,,,,,,,0,3,,низкая,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
 • Президент Dr. Diriba Eticha Tujuba (PhD) указан на главной странице; новость от 09.04.2026 упоминает его как президента (Dr. Diriba Iticha)
 • На новом сайте контакты (e-mail, телефон) не отображаются — страница 'Contact Us' содержит только форму
 • По поисковой выдаче (старая версия сайта, не открылась): info@gmu.edu.et, тел. +251 47 551 1923 — НЕ подтверждено, в поля не внесено
@@ -315,7 +315,7 @@
 • Повторная проверка 04.10.2026: главная страница gmu.edu.et (©2026) по-прежнему называет президентом Dr. Diriba Eticha Tujuba; страницы President Office и Contact Us рендерятся JS без контактов — e-mail/телефон не подтверждены
 • Перепроверка: Президент повторно подтверждён на сайте (новости 2026), но официальных e-mail/телефона нет — уровень low сохранён","• Https://www.gmu.edu.et/
 • Https://www.gmu.edu.et/administration/president-office1
-• Https://www.gmu.edu.et/contact-us",2026-10-04,
+• Https://www.gmu.edu.et/contact-us",2026-10-05,
 21,Эфиопия,Харамая,Haramaya University,ሐረማያ ዩኒቨርሲቲ,Аграрный / экологический,Государственный (Минобразования Эфиопии),"• Agriculture & agricultural economics
 • Veterinary medicine
 • Health & medical sciences
@@ -323,7 +323,7 @@
 • Engineering & technology
 • Climate-smart agriculture & environmental sciences","Haramaya University, P.O. Box 138, Dire Dawa, Ethiopia",haramaya@haramaya.edu.et,"ФИО не найдено
 Общий адрес университета
-Обращение: Dear Director of International Relations and Partnerships,",,haramaya@haramaya.edu.et,+251 25 553 0319,https://www.haramaya.edu.et,Dr. Jemal Yousuf Hassen,President,,,,0,,,,,,,0,3,да,высокая,"• Президент с 27.12.2019 Dr. Jemal Yousuf Hassen; подтверждён в новости 2026 (QS Africa Forum 2026); личный e-mail на сайте — yahoo (jemaly2001@yahoo.com), тел. офиса +251 25 553 0319
+Обращение: Dear Director of International Relations and Partnerships,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,haramaya@haramaya.edu.et,+251 25 553 0319,https://www.haramaya.edu.et,Dr. Jemal Yousuf Hassen,President,,,,0,,,,,,,0,3,да,высокая,"• Президент с 27.12.2019 Dr. Jemal Yousuf Hassen; подтверждён в новости 2026 (QS Africa Forum 2026); личный e-mail на сайте — yahoo (jemaly2001@yahoo.com), тел. офиса +251 25 553 0319
 • Официального ящика международного отдела нет; Public and International Relations Directorate — директор Mr. Alemishet (Alemeshet) Teshome, только личный yahoo (sportalem@yahoo.com) — поэтому письмо на общий адрес haramaya@haramaya.edu.et
 • Активно сотрудничает с UAEU (ОАЭ, член БРИКС+) с 2023 г
 • Город: кампус в г. Харамая (Восточный Харэр), почтовый ящик в Дыре-Дауэ; спутниковых проектов не найдено","• Https://www.haramaya.edu.et
@@ -332,7 +332,7 @@
 • Https://www.haramaya.edu.et/haramaya-university-delegation-participates-in-qs-africa-forum-2026/
 • Haramaya Public and International Relations Directorate page
 • Https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite)
-• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-04,
+• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-05,
 22,Эфиопия,Хаваса,Hawassa University,ሀዋሳ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Agriculture
 • Health sciences & medicine
 • Natural & computational sciences
@@ -341,7 +341,7 @@
 • Social sciences & law","Hawassa University, P.O. Box 05, Hawassa, Sidama Region, Ethiopia",ccmd@hu.edu.et,"Dr. Emebet Bekele Birkie
 Исполнительный директор по связям с общественностью и международным отношениям
 Исполнительный офис по связям с общественностью и международным отношениям (Public and International Relations Executive)
-Обращение: Dear Dr. Emebet,",ccmd@hu.edu.et,ccmd@hu.edu.et,+251 46 220 5168,https://www.hu.edu.et,Dr. Chirotaw Ayele,President,,,,0,,,,,,,0,3,да,средняя,"• Отдельного общего e-mail/e-mail президента нет; ccmd@hu.edu.et — ящик Public and International Relations Executive (указан и в подвале сайта как основной)
+Обращение: Dear Dr. Emebet,",ящик общий,ccmd@hu.edu.et,ccmd@hu.edu.et,+251 46 220 5168,https://www.hu.edu.et,Dr. Chirotaw Ayele,President,,,,0,,,,,,,0,3,да,средняя,"• Отдельного общего e-mail/e-mail президента нет; ccmd@hu.edu.et — ящик Public and International Relations Executive (указан и в подвале сайта как основной)
 • Глава офиса президента: Mr. Ayele Adato Yoma (только gmail, тел. +251 46 8871689)
 • Президент Dr. Chirotaw Ayele назначен ~окт. 2024 (ранее президент Dilla University)
 • Спутниковых проектов не найдено (быстрая проверка)","• Https://www.hu.edu.et
@@ -350,7 +350,7 @@
 • Https://www.hu.edu.et/president-office
 • Https://www.hu.edu.et/contact-us
 • Https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite)
-• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-04,
+• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-05,
 23,Эфиопия,Инджибара,Injibara University,እንጅባራ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Engineering & Technology
 • Agriculture & Environmental Sciences
 • Health Sciences
@@ -359,21 +359,21 @@
 • Social Sciences & Humanities","Injibara University, President Office, Injibara, Awi Zone, Amhara Region, Ethiopia",injibarauniversity@inu.edu.et,"Dr. Gardachew Worku Fekadu
 Президент университета
 Общий адрес университета (офис президента)
-Обращение: Dear Dr. Gardachew,",,injibarauniversity@inu.edu.et,+251 58 227 2111,https://www.inu.edu.et,Dr. Gardachew Worku Fekadu,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
+Обращение: Dear Dr. Gardachew,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",,injibarauniversity@inu.edu.et,+251 58 227 2111,https://www.inu.edu.et,Dr. Gardachew Worku Fekadu,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
 • Президент Dr. Gardachew Worku (доцент) — на странице офиса президента; его имя встречается в новостях сайта май–июнь 2026
 • Международными связями ведает Управление по связям с общественностью и международным отношениям (руководитель Belayneh Agumas, тел. +251 918 058 583, только личный gmail) — официального e-mail отдела нет; использовать общий адрес
 • Второй телефон: +251 58 227 1674; почтовый ящик не подтверждён (на странице контактов в поле 'Fax' указано '40')","• Https://www.inu.edu.et/
 • Https://www.inu.edu.et/president/
 • Https://www.inu.edu.et/contact-us-17/
 • Https://www.inu.edu.et/public-and-international-relations-executive/
-• Https://www.inu.edu.et/advanced-science-and-research-laboratory-inaugurated-at-injibara-university/",2026-10-04,
-24,Эфиопия,Джиджига,Jigjiga University,ጅግጅጋ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),,"Jigjiga University, Jigjiga, Somali Region, Ethiopia",,,,,,https://www.jju.edu.et,,President,,,,0,,,,,,,0,3,,низкая,"• Официальный сайт jju.edu.et заблокирован для нашего IP (редирект на страницу блокировки хостинга) — контакты и руководство не проверены; требуется ручная проверка
+• Https://www.inu.edu.et/advanced-science-and-research-laboratory-inaugurated-at-injibara-university/",2026-10-05,
+24,Эфиопия,Джиджига,Jigjiga University,ጅግጅጋ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),,"Jigjiga University, Jigjiga, Somali Region, Ethiopia",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://www.jju.edu.et,,President,,,,0,,,,,,,0,3,,низкая,"• Официальный сайт jju.edu.et заблокирован для нашего IP (редирект на страницу блокировки хостинга) — контакты и руководство не проверены; требуется ручная проверка
 • В Википедии (данные 2022 г.) президентом указан Dr. Bashir Abdulahi Mohamed — для 2026 не подтверждено, поэтому поле оставлено пустым
 • Сомалийский регион; спутниковых проектов не найдено
 • Перепроверка: 04.10.2026: jju.edu.et по-прежнему перенаправляет на страницу блокировки хостинга (technobros.au/blocked.html); данные не изменены","• Https://www.jju.edu.et (blocked: redirects to technobros.au/blocked.html from our network)
 • Https://en.wikipedia.org/wiki/Jijiga_University (2022 data only)
 • Https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite)
-• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-04,
+• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-05,
 25,Эфиопия,Джимма,Jimma University,ጅማ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Medicine & Health Sciences
 • Agriculture & Veterinary Medicine (coffee research)
 • Engineering & Technology (Jimma Institute of Technology)
@@ -382,14 +382,14 @@
 • Social Sciences & Humanities","Jimma University, P.O. Box 378, Jimma, Oromia, Ethiopia",ero@ju.edu.et,"Dr. Dereje Engida
 Президент университета
 Общий адрес университета (ero@, указан на странице контактов)
-Обращение: Dear Dr. Dereje,",,ero@ju.edu.et,+251 47 111 2202,https://ju.edu.et,Dr. Dereje Engida,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
+Обращение: Dear Dr. Dereje,",ящик общий,,ero@ju.edu.et,+251 47 111 2202,https://ju.edu.et,Dr. Dereje Engida,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
 • Президент Dr. Dereje Engida (PhD, доцент) подтверждён новостью сайта от 23.09.2026; в новостях пишется также 'Engeda'; личный e-mail президента: dereje.engida@ju.edu.et
 • Ero@ju.edu.et — единственный общий адрес на сайте (страница контактов); отдельный e-mail международного отдела не опубликован
 • На странице 'Internationalization and Institutional Collaboration' для потенциальных международных партнёров указан Mr. Addisalem Taye (taye.addisalem@ju.edu.et); дата страницы неизвестна — актуальность не подтверждена","• Https://ju.edu.et/
 • Https://ju.edu.et/presidents-message/
 • Https://ju.edu.et/contact-us/
 • Https://ju.edu.et/internationalization-and-institutional-collaboration/
-• Https://ju.edu.et/jimma-university-president-outlines-vision-for-institutional-autonomy-and-global-impact-in-address-to-academic-staff/",2026-10-04,
+• Https://ju.edu.et/jimma-university-president-outlines-vision-for-institutional-autonomy-and-global-impact-in-address-to-academic-staff/",2026-10-05,
 26,Эфиопия,Кэбри-Дэхар,Kebri Dehar University (University of Kabridahar),Jaamacadda Qabridahar (ቀብሪ ደሃር ዩኒቨርሲቲ),Классический,Государственный (Минобразования Эфиопии),"• Agriculture & Pastoralism
 • Engineering & Technology
 • Health Sciences
@@ -398,38 +398,38 @@
 • Social Sciences (incl. Political Science & International Relations)","University of Kabridahar, Kabridahar, Somali Region, Ethiopia",Abdiladif.Ahmed@uok.edu.et,"Mr. Abdiladif Ahmed Olad
 Руководитель управления по связям с общественностью и международным отношениям
 Управление по связям с общественностью и международным отношениям
-Обращение: Dear Mr. Abdiladif,",Abdiladif.Ahmed@uok.edu.et,info@uok.edu.et,+251 25 240 1111,https://uok.edu.et,Eng. Abdifetah Ahmed Rabi,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
+Обращение: Dear Mr. Abdiladif,","личный, совпало",Abdiladif.Ahmed@uok.edu.et,info@uok.edu.et,+251 25 240 1111,https://uok.edu.et,Eng. Abdifetah Ahmed Rabi,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
 • Университет использует название 'University of Kabridahar' и домен uok.edu.et (kdu.edu.et перенаправляет туда)
 • Президент Eng. Abdifetah Ahmed Rabi (abdifetah@uok.edu.et) — по странице президента, дата не указана; учёная степень не указана, обращение 'Eng.'
 • Email_international — личный адрес руководителя Управления по связям с общественностью и международным отношениям (Abdiladif Ahmed Olad); телефоны на странице контактов: +251 915 744 573, +251 911 303 733
 • Name_native на сомалийском — по общепринятому написанию, на сайте не подтверждено","• Https://uok.edu.et/
 • Https://uok.edu.et/administration/president/
 • Https://uok.edu.et/about/leadership/
-• Https://uok.edu.et/contact/",2026-10-04,
+• Https://uok.edu.et/contact/",2026-10-05,
 27,Эфиопия,Аддис-Абеба,Kotebe University of Education,ቆጤ ትምህርት ዩኒቨርሲቲ,Гуманитарный,Государственный (Минобразования Эфиопии),"• Teacher education
 • Education & Behavioral Sciences
 • Natural & Computational Sciences (teaching)
 • Social Sciences & Languages
-• Educational leadership","Kotebe University of Education, Addis Ababa, Ethiopia",,,,,,https://kue.edu.et,,President,,,,0,,,,,,,0,3,,низкая,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
+• Educational leadership","Kotebe University of Education, Addis Ababa, Ethiopia",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://kue.edu.et,,President,,,,0,,,,,,,0,3,,низкая,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
 • Сайт kue.edu.et недоступен (ошибка базы данных HTTP 500, 04.10.2026) — контакты и руководство не проверены
 • Поисковая выдача называет президентом Dr. Teshome Nekatibeb (teshome.nekatibeb@kue.edu.et) — НЕ подтверждено открытой страницей; по другим данным, прежний президент Dr. Berhanemeskel Tena перешёл в Madda Walabu University
 • Name_native и city — по общепринятым данным; университет педагогический (бывш. Kotebe Metropolitan University)
 • Повторная проверка 04.10.2026: kue.edu.et (страницы President's Message, Senate Members) — HTTP 500/сброс соединения; поисковая выдача по-прежнему указывает Dr. Teshome Nekatibeb как президента и Dr. Berhanemeskel Tena как основателя-президента 2021–2026
 • Перепроверка: Сайт kue.edu.et по-прежнему недоступен (HTTP 500/сброс, 04.10.2026); данные не изменены — президент (по выдаче Dr. Teshome Nekatibeb) не подтверждён","• Https://kue.edu.et (HTTP 500 database error / connection reset, Oct 2026)
-• Https://kue.edu.et/president-2/ (unreachable)",2026-10-04,
+• Https://kue.edu.et/president-2/ (unreachable)",2026-10-05,
 28,Эфиопия,Робе,Madda Walabu University,Yuunivarsiitii Maddaa Walaabuu (መዳ ወላቡ ዩኒቨርሲቲ),Классический,Государственный (Минобразования Эфиопии),"• Agriculture & Natural Resources
 • Medicine & Health Sciences (Goba)
 • Engineering & Technology
 • Natural & Computational Sciences
 • Business & Economics
-• Tourism & Hospitality","Madda Walabu University, Bale-Robe, Bale Zone, Oromia, Ethiopia",,,,,,https://mwu.edu.et,Dr. Berhanemeskel Tena,President,,,,0,,,,,,,0,3,,низкая,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
+• Tourism & Hospitality","Madda Walabu University, Bale-Robe, Bale Zone, Oromia, Ethiopia",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://mwu.edu.et,Dr. Berhanemeskel Tena,President,,,,0,,,,,,,0,3,,низкая,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
 • Сайт — SPA; его API (api.maddauni.online) возвращает 502, поэтому страницы президента, контактов и Директората исследований, интернационализации и партнёрств не открылись
 • Президент Dr. Berhanemeskel Tena (PhD) — по поисковому индексу официальной страницы mwu.edu.et/administration/president и Википедии (назначен в 2024 г., ранее — основатель-президент Kotebe University of Education); сам текст страницы не просмотрен — проверить
 • E-mail и телефон не подтверждены; в структуре сайта есть 'Research Internationalization and Partnership Directorate'
 • Перепроверка: Сайт mwu.edu.et (SPA) снова не отдал данные: API api.maddauni.online отвечает 502, в JS-бандле контактов нет; данные не изменены (04.10.2026)","• Https://mwu.edu.et/
 • Https://mwu.edu.et/data/page-routes.json
 • Https://mwu.edu.et/administration/president (search index)
-• Https://en.wikipedia.org/wiki/Madda_Walabu_University",2026-10-04,
+• Https://en.wikipedia.org/wiki/Madda_Walabu_University",2026-10-05,
 29,Эфиопия,Мэтту,Mattu University (Mettu University),መቱ ዩኒቨርሲቲ,Аграрный / экологический,Государственный (Минобразования Эфиопии),"• Agriculture & natural resources (incl. Bedele campus)
 • Natural & computational sciences
 • Health sciences
@@ -438,7 +438,7 @@
 • Social sciences & humanities","Mattu University, P.O. Box 318, Mattu (Mettu), Ilu Aba Bor Zone, Oromia Region, Ethiopia",drtesfa@mau.edu.et,"Dr. Tesfalem Atnafu
 Директор Дирекции исследований, интернационализации и партнёрств
 Дирекция исследований, интернационализации и партнёрств
-Обращение: Dear Dr. Tesfalem,",drtesfa@mau.edu.et,mettuniversity@meu.edu.et,+251 47 841 5516,https://www.meu.edu.et,Dr. Alemu Disassa Muleta,President,,,,0,,,,,,,0,3,да,средняя,"• Официальное название — Mattu University; на сайте используются два почтовых домена: meu.edu.et и mau.edu.et (у mau.edu.et действующая MX-запись Microsoft 365)
+Обращение: Dear Dr. Tesfalem,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",drtesfa@mau.edu.et,mettuniversity@meu.edu.et,+251 47 841 5516,https://www.meu.edu.et,Dr. Alemu Disassa Muleta,President,,,,0,,,,,,,0,3,да,средняя,"• Официальное название — Mattu University; на сайте используются два почтовых домена: meu.edu.et и mau.edu.et (у mau.edu.et действующая MX-запись Microsoft 365)
 • Директор Research, Internationalization Relations and Partnership Directorate — Dr. Tesfalem Atnafu (drtesfa@mau.edu.et, тел. +251 910 499 556); PIR Executive — Mr. Tegegn Demisse (pre@mau.edu.et)
 • Дата страницы президента не указана — актуальность на 2026 не подтверждена датированной новостью
 • Спутниковых проектов не найдено","• Https://www.meu.edu.et
@@ -447,7 +447,7 @@
 • Mattu University 'Public and International Relations Office' page
 • Dns.google MX check (mau.edu.et → Microsoft 365)
 • Https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite)
-• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-04,
+• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-05,
 30,Эфиопия,Мизан-Аман,Mizan-Tepi University,ሚዛን ቴፒ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Agriculture & Natural Resources (coffee, forestry)
 • Engineering & Technology
 • Health Sciences
@@ -456,14 +456,14 @@
 • Social Sciences & Humanities","Mizan-Tepi University (Main Campus), P.O. Box 260, Mizan Aman, South West Ethiopia Peoples' Region, Ethiopia",info@mtu.edu.et,"Dr. Wako Geda
 Президент университета
 Общий адрес университета
-Обращение: Dear Dr. Wako,",,info@mtu.edu.et,+251 47 336 0012,https://mtu.edu.et,Dr. Wako Geda,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
+Обращение: Dear Dr. Wako,",ящик общий,,info@mtu.edu.et,+251 47 336 0012,https://mtu.edu.et,Dr. Wako Geda,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
 • Президент Dr. Wako Geda (PhD) упомянут в новости сайта, опубликованной 03.06.2026 (мероприятие 17.09.2018 по эфиопскому календарю ≈ май 2026); личный e-mail: wakogeda@mtu.edu.et
 • Отдельный международный отдел и его e-mail на сайте не найдены; использовать info@mtu.edu.et
 • Кампус Тепи: P.O. Box 121, тел. +251 47 556 1837","• Https://mtu.edu.et/
 • Https://mtu.edu.et/office-of-the-president/
 • Https://mtu.edu.et/contact-us/
 • Https://mtu.edu.et/mizan-tepi-university-signs-key-performance-indicators-kpi-agreement/
-• Https://mtu.edu.et/mizan-tepi-university-held-a-policy-briefing-on-may-17-2018/",2026-10-04,
+• Https://mtu.edu.et/mizan-tepi-university-held-a-policy-briefing-on-may-17-2018/",2026-10-05,
 31,Эфиопия,Чиро,Oda Bultum University,Yuunivarsiitii Odaa Bultum (ኦዳ ቡልቱም ዩኒቨርሲቲ),Классический,Государственный (Минобразования Эфиопии),"• Agriculture
 • Engineering & Technology
 • Health Sciences
@@ -472,12 +472,12 @@
 • Social Sciences & Humanities","Oda Bultum University, P.O. Box 226, Chiro, West Hararghe, Oromia, Ethiopia",obuofficial@obu.edu.et,"Prof. Muktar Mohammed
 Президент университета
 Общий официальный адрес университета
-Обращение: Dear Prof. Muktar,",,obuofficial@obu.edu.et,+251 25 651 0040,https://obu.edu.et,Prof. Muktar Mohammed,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
+Обращение: Dear Prof. Muktar,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",,obuofficial@obu.edu.et,+251 25 651 0040,https://obu.edu.et,Prof. Muktar Mohammed,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
 • Президент Prof. Muktar Mohammed (PhD) указан на главной странице сайта (окт. 2026); датированного подтверждения в новостях не найдено
 • Есть Директорат по связям с общественностью и международным отношениям при президенте, но его e-mail/руководитель не опубликованы
 • Альтернативный телефон на странице президента: +251 930 313 005; name_native на языке оромо — по общепринятому написанию, не с сайта","• Https://obu.edu.et/
 • Https://obu.edu.et/?page_id=2295
-• Https://obu.edu.et/?page_id=3905",2026-10-04,
+• Https://obu.edu.et/?page_id=3905",2026-10-05,
 32,Эфиопия,Майчеу,Raya University,ራያ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Agriculture & livestock development
 • Health sciences
 • Engineering & technology
@@ -486,7 +486,7 @@
 • Social sciences & humanities","Raya University, Kebele 01 (near main highway), P.O. Box 92, Maichew, Tigray Region, Ethiopia",PRD@rayu.edu.et,"Dr. Gessesse Nigusse Abebe
 Исполнительный директор по связям с общественностью и международным отношениям
 Исполнительный офис по связям с общественностью и международным отношениям (Public & International Relations Executive Office)
-Обращение: Dear Dr. Gessesse,",PRD@rayu.edu.et,rayupres@rayu.edu.et,+251 34 247 0714; +251 34 247 4226 (President's Office),https://www.rayu.edu.et,Prof. Tadesse Dejenie,President,,,,0,,,,,,,0,3,да,средняя,"• ВНИМАНИЕ: Тыграй (юг, г. Майчеу). С 9 сент. 2026 МинОбр приостановило зачисление и временно переводит студентов Raya University в другие вузы из-за небезопасности; последние новости на сайте — дек. 2025
+Обращение: Dear Dr. Gessesse,",ящик общий,PRD@rayu.edu.et,rayupres@rayu.edu.et,+251 34 247 0714; +251 34 247 4226 (President's Office),https://www.rayu.edu.et,Prof. Tadesse Dejenie,President,,,,0,,,,,,,0,3,да,средняя,"• ВНИМАНИЕ: Тыграй (юг, г. Майчеу). С 9 сент. 2026 МинОбр приостановило зачисление и временно переводит студентов Raya University в другие вузы из-за небезопасности; последние новости на сайте — дек. 2025
 • ВНИМАНИЕ: сайт, по-видимому, частично скомпрометирован — при запросе с некоторыми user-agent www.rayu.edu.et отдаёт индонезийский спам (онлайн-казино); с обычным браузером открывается нормальный сайт
 • Public & International Relations Executive Officer — Dr. Gessesse Nigusse Abebe (gessessenigusse@rayu.edu.et, +251 934 979 939); ящик офиса PRD@rayu.edu.et (Block 04, F-01, R-104)
 • Написание имени президента на сайте варьируется: Tadesse Dejenie / Dejene / Dejennie; глава офиса президента — Mr. HaileKiros Kebede (po@rayu.edu.et)
@@ -498,7 +498,7 @@
 • Https://www.rayu.edu.et/wp-json/wp/v2/posts
 • Https://www.riotimesonline.com/ethiopia-tigray-university-students-reassigned-2026/
 • Https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite)
-• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-04,
+• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-05,
 33,Эфиопия,Фиче,Salale University (Selale University),ሰላሌ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Agriculture & natural resources
 • Health sciences
 • Natural & computational sciences
@@ -507,14 +507,14 @@
 • Social sciences & humanities","Salale University, P.O. Box 245, Fiche, North Shewa Zone, Oromia Region, Ethiopia",yeshimebet_bogale@slu.edu.et,"Dr. Yeshimebet Bogale
 Исполнительный директор по связям с общественностью и международным отношениям
 Исполнительный офис по связям с общественностью и международным отношениям
-Обращение: Dear Dr. Yeshimebet,",yeshimebet_bogale@slu.edu.et,president@slu.edu.et,+251 11 135 5637,https://slu.edu.et,Dr. Feyera Dinsa,President,,,,0,,,,,,,0,3,да,средняя,"• Официальное написание на сайте — Salale University (SlU); город Фиче (Северная Шоа, Оромия)
+Обращение: Dear Dr. Yeshimebet,","личный, совпало",yeshimebet_bogale@slu.edu.et,president@slu.edu.et,+251 11 135 5637,https://slu.edu.et,Dr. Feyera Dinsa,President,,,,0,,,,,,,0,3,да,средняя,"• Официальное написание на сайте — Salale University (SlU); город Фиче (Северная Шоа, Оромия)
 • Executive for Public and International Relations — Dr. Yeshimebet Bogale (личный рабочий адрес yeshimebet_bogale@slu.edu.et, тел. +251 911 042 982); отдельного ящика международного офиса нет; также есть contact@slu.edu.et
 • Спутниковых проектов не найдено","• Https://slu.edu.et
 • Https://slu.edu.et/SLU_WEB/president-message.php
 • Https://slu.edu.et/SLU_WEB/Administration/executive-of-public-and-external-relations.php
 • Https://slu.edu.et/SLU_WEB/contact-us.php
 • Https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite)
-• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-04,
+• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-05,
 34,Эфиопия,Сэмэра,Samara University,ሰመራ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Dry-land agriculture
 • Veterinary medicine & animal sciences
 • Medical & health sciences
@@ -522,13 +522,13 @@
 • Earth sciences
 • Tourism & hospitality management","Samara University, P.O. Box 132, Samara, Afar Region, Ethiopia",intlpartnership@su.edu.et,"ФИО не найдено
 Офис международных партнёрств (International Partnership Office)
-Обращение: Dear Director of International Relations and Partnerships,",intlpartnership@su.edu.et,president@su.edu.et,+251 944 481 518,https://su.edu.et,Dr. Mohammed Usman Darasa,President,,,,0,,,,,,,0,3,да,средняя,"• Ящик международных партнёрств intlpartnership@su.edu.et опубликован в разделе 'Important contacts'; имя руководителя офиса на сайте не найдено
+Обращение: Dear Director of International Relations and Partnerships,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,intlpartnership@su.edu.et,president@su.edu.et,+251 944 481 518,https://su.edu.et,Dr. Mohammed Usman Darasa,President,,,,0,,,,,,,0,3,да,средняя,"• Ящик международных партнёрств intlpartnership@su.edu.et опубликован в разделе 'Important contacts'; имя руководителя офиса на сайте не найдено
 • Также опубликованы presidentoffice@su.edu.et (офис президента); телефон — мобильный номер, указанный на сайте
 • Регион Афар; есть Школа наук о Земле; спутниковых проектов не найдено","• Https://su.edu.et
 • Https://su.edu.et/contact-us/
 • Https://su.edu.et/president-message-2/
 • Https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite)
-• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-04,
+• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-05,
 35,Эфиопия,Гондэр,University of Gondar,ጎንደር ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Medicine & Health Sciences
 • Veterinary Medicine & Animal Sciences
 • Agriculture & Environmental Sciences
@@ -537,13 +537,13 @@
 • Social Sciences & Humanities","University of Gondar, President's Building, Maraki St., P.O. Box 196, Gondar, Amhara Region, Ethiopia",internationalrelations@uog.edu.et,"Dr. Solomon Girma Yabowork
 Директор по международным связям и партнёрствам
 Директорат международных связей и партнёрств
-Обращение: Dear Dr. Solomon,",internationalrelations@uog.edu.et,info@uog.edu.et,+251 58 114 1231,https://uog.edu.et,Dr. Yechale Kebede,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
+Обращение: Dear Dr. Solomon,",ящик общий,internationalrelations@uog.edu.et,info@uog.edu.et,+251 58 114 1231,https://uog.edu.et,Dr. Yechale Kebede,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
 • Президент Yechale Kebede, PhD — по странице 'President’s Message' на официальном сайте (дата страницы не указана); e-mail президента: yechale.kebede@uog.edu.et
 • Директорат международных связей и партнёрств создан как отдельное подразделение в ноябре 2024 г.; директор — Solomon Girma Yabowork, PhD, тел. +251 92 057 0919
 • Почтовый ящик 196 взят со страницы контактов (число '196' рядом с 'President Building') — проверить; общий тел. на странице контактов: +251 588 940 290","• Https://uog.edu.et/
 • Https://uog.edu.et/presidents-message/
 • Https://uog.edu.et/contact-us/
-• Https://uog.edu.et/international-relations-and-partnerships-directorate/",2026-10-04,
+• Https://uog.edu.et/international-relations-and-partnerships-directorate/",2026-10-05,
 36,Эфиопия,Содо,Wolaita Sodo University,ወላይታ ሶዶ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Medicine & Health Sciences
 • Agriculture
 • Engineering & Technology
@@ -552,14 +552,14 @@
 • Social Sciences & Humanities","Wolaita Sodo University, P.O. Box 138, Wolaita Sodo, South Ethiopia Region, Ethiopia",wsu@wsu.edu.et,"Dr. Guchie Gulie Sulla
 Президент университета
 Общий адрес университета
-Обращение: Dear Dr. Guchie,",,wsu@wsu.edu.et,+251 46 551 4417,https://www.wsu.edu.et,Dr. Guchie Gulie Sulla,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
+Обращение: Dear Dr. Guchie,",ящик общий,,wsu@wsu.edu.et,+251 46 551 4417,https://www.wsu.edu.et,Dr. Guchie Gulie Sulla,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
 • Президент Guchie Gulie Sulla (PhD) указан на странице 'Message from the President'; последнее датированное упоминание в новостях сайта — май 2024; более свежего подтверждения (2025–2026) не найдено
 • Личный e-mail президента: guchie.gulie@wsu.edu.et
 • При офисе президента есть Директорат международных связей, но его e-mail и руководитель на сайте не опубликованы; использовать общий адрес wsu@wsu.edu.et","• Https://www.wsu.edu.et/
 • Https://www.wsu.edu.et/pages/pres_mess-sm-kk
 • Https://www.wsu.edu.et/pages/adm_pres-sm-kk
 • Https://www.wsu.edu.et/news/3
-• Https://www.wsu.edu.et/boardmembers",2026-10-04,
+• Https://www.wsu.edu.et/boardmembers",2026-10-05,
 37,Эфиопия,Уолдия,Woldia University,ወልዲያ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Engineering & Technology (Woldia Institute of Technology)
 • Agriculture
 • Health Sciences
@@ -568,13 +568,13 @@
 • Social Sciences & Humanities","Woldia University, P.O. Box 400, Woldia, Amhara Region, Ethiopia",IR@wldu.edu.et,"Dr. Fentaw Baye Adal
 Директор по исследованиям, международным связям и партнёрствам
 Директорат исследований, международных связей и партнёрств
-Обращение: Dear Dr. Fentaw,",IR@wldu.edu.et,info@wldu.edu.et,+251 33 540 0686,https://wldu.edu.et,Dr. Anegagregn Gashaw Ferede,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
+Обращение: Dear Dr. Fentaw,",ящик общий,IR@wldu.edu.et,info@wldu.edu.et,+251 33 540 0686,https://wldu.edu.et,Dr. Anegagregn Gashaw Ferede,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
 • Президент Dr. Anegagregn Gashaw Ferede (PhD) — по странице послания президента (дата не указана); личный e-mail: anegagregng@wldu.edu.et
 • Директорат исследований, международных связей и партнёрств (RIRP) создан при реорганизации 2024 г.; директор Dr. Fentaw Baye Adal, моб. +251 931 137 968
 • В исходном коде сайта встречается посторонний адрес admin@kingsteruni.edu (шаблон) — не использовать","• Https://wldu.edu.et/
 • Https://wldu.edu.et/presidents-message/
 • Https://wldu.edu.et/international-relations/
-• Https://wldu.edu.et/contact/",2026-10-04,
+• Https://wldu.edu.et/contact/",2026-10-05,
 38,Эфиопия,Уолкыте,Wolkite University,ወልቂጤ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Engineering & Technology
 • Agriculture & Natural Resources
 • Medicine & Health Sciences
@@ -583,7 +583,7 @@
 • Social Sciences & Humanities","Wolkite University, Main Campus, P.O. Box 07, Wolkite, Central Ethiopia Region, Ethiopia",irrp.director@wku.edu.et,"Dr. Mitiku Tasisa Dinsa
 Директор по исследованиям, международным связям и партнёрствам
 Директорат исследований, международных связей и партнёрств
-Обращение: Dear Dr. Mitiku,",irrp.director@wku.edu.et,president.chiefhead@wku.edu.et,+251 11 322 0162,https://www.wku.edu.et,Dr. Abdlmuhsin Hassen Alajib,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
+Обращение: Dear Dr. Mitiku,",ящик общий,irrp.director@wku.edu.et,president.chiefhead@wku.edu.et,+251 11 322 0162,https://www.wku.edu.et,Dr. Abdlmuhsin Hassen Alajib,President,,,,0,,,,,,,0,3,да,средняя,"• Спутников на орбите не найдено (проверка: nanosats.csv и поиск 'Ethiopian university CubeSat launched', окт. 2026)
 • Новый президент с июня 2026 г. (сменил Dr. Faris Delil, руководившего 6 лет); написание имени различается: Abdlmuhsin Hassen Alajib / Abdulemuhesin Hassen / Abdelmuhsin Hasen
 • Университет отнесён МО к категории 'прикладных наук' (applied sciences)
 • President.chiefhead@wku.edu.et — ящик руководителя офиса президента (Mr. Melesse Etifu Meranga, тел. +251 911 376 067); e-mail адреса декодированы из защищённой разметки сайта
@@ -592,7 +592,7 @@
 • Https://www.wku.edu.et/index.php/en/admnistration/president-office
 • Https://www.wku.edu.et/index.php/en/admnistration/research-international-relations-and-partnership-director
 • Https://www.wku.edu.et/index.php/en/component/content/article/2026-06-18-18-20-49?catid=12
-• Https://www.wku.edu.et/index.php/en/component/content/article/2026-06-11-16-24-56?catid=12",2026-10-04,
+• Https://www.wku.edu.et/index.php/en/component/content/article/2026-06-11-16-24-56?catid=12",2026-10-05,
 39,Эфиопия,Нэкэмте,Wollega University,ወለጋ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Agriculture & animal sciences
 • Engineering & technology (incl. mechanical & manufacturing)
 • Health sciences
@@ -601,13 +601,13 @@
 • Oromo folklore
 • Languages & social sciences","Wollega University, P.O. Box 395, Nekemte, Oromia Region, Ethiopia",info@wollegauniversity.edu.et,"ФИО не найдено
 Общий адрес университета
-Обращение: Dear Director of International Relations and Partnership,",,info@wollegauniversity.edu.et,+251 57 661 7981; +251 57 661 7980,https://wollegauniversity.edu.et,Dr. Tesfaye Lemma,President,,,,0,,,,,,,0,3,да,средняя,"• ВНИМАНИЕ: 14.09.2026 университет объявил конкурс на должности президента и двух вице-президентов (директива МинОбр № 1146/2018 E.C.) — вероятна смена руководства; Dr. Tesfaye Lemma (Associate Professor) — президент на момент проверки
+Обращение: Dear Director of International Relations and Partnership,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@wollegauniversity.edu.et,+251 57 661 7981; +251 57 661 7980,https://wollegauniversity.edu.et,Dr. Tesfaye Lemma,President,,,,0,,,,,,,0,3,да,средняя,"• ВНИМАНИЕ: 14.09.2026 университет объявил конкурс на должности президента и двух вице-президентов (директива МинОбр № 1146/2018 E.C.) — вероятна смена руководства; Dr. Tesfaye Lemma (Associate Professor) — президент на момент проверки
 • International Relations and Partnership Directorate (страница от 26.05.2026): тел. +251 917 660 150, Main Campus Administration Building; e-mail опубликован с опечаткой в домене — 'galatag@wollegauniveristy.edu.et' (и gmail galatagamachu1@gmail.com); имя директора не указано. Поэтому письмо — на info@wollegauniversity.edu.et
 • Оромия (западная часть) — возможны проблемы с безопасностью; спутниковых проектов не найдено","• Https://wollegauniversity.edu.et
 • Https://wollegauniversity.edu.et/index.php/gallery/president-office-2/international-relations-and-partnership-directorate (26 May 2026)
 • Https://wollegauniversity.edu.et/index.php/component/content/article/final2-moe-president-selection-announcement-wollega-university?catid=14&Itemid=101 (14 Sep 2026)
 • Https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite)
-• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-04,
+• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-05,
 40,Эфиопия,Дэссе,Wollo University,ወሎ ዩኒቨርሲቲ,Классический,Государственный (Минобразования Эфиопии),"• Engineering & technology (Kombolcha Institute of Technology)
 • Agriculture
 • Health sciences & medicine
@@ -615,11 +615,11 @@
 • Business & economics
 • Social sciences & humanities","Wollo University, Dessie, South Wollo, Amhara Region, Ethiopia",info@wu.edu.et,"ФИО не найдено
 Общий адрес университета
-Обращение: Dear Director of International Relations and Partnerships,",,info@wu.edu.et,+251 33 311 5224,https://wu.edu.et,Dr. Awol Seid,President,,,,0,,,,,,,0,3,да,средняя,"• Страницы President Office и International Relation на сайте пустые — имя руководителя международного отдела и отдельный e-mail не опубликованы; письмо на общий адрес info@wu.edu.et
+Обращение: Dear Director of International Relations and Partnerships,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@wu.edu.et,+251 33 311 5224,https://wu.edu.et,Dr. Awol Seid,President,,,,0,,,,,,,0,3,да,средняя,"• Страницы President Office и International Relation на сайте пустые — имя руководителя международного отдела и отдельный e-mail не опубликованы; письмо на общий адрес info@wu.edu.et
 • Номер почтового ящика (P.O. Box) на сайте не указан
 • Регион Амхара — возможны проблемы с безопасностью/связью
 • Спутниковых проектов не найдено","• Https://wu.edu.et
 • Https://wu.edu.et/wollo-universitys-president-signs-the-2018-e-c-key-performance-indicators-kpis-with-the-university-management-members/
 • Https://wu.edu.et/international-relation/ (empty page)
 • Https://www.wearetech.africa/en/fils-uk/news/tech/ethiopia-expands-space-program-with-2026-satellite-launch (general check: no Ethiopian university-built satellite)
-• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-04,
+• Nanosats.csv (nation=Ethiopia: only ESSTI ET-SMART-RSS and cancelled AAiT ET-SAT)",2026-10-05,

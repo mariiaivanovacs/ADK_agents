@@ -1,9 +1,9 @@
-﻿№,Страна,Город,Вуз (англ.),Вуз (ориг.),Профиль,Гос. / частный,Основные направления обучения,Почтовый адрес,E-mail для рассылки (рекомендуемый),Адресат (владелец рекомендуемого e-mail),E-mail (международный отдел),E-mail (общий / ректорат),Телефон,Сайт,Ректор / президент,Должность,Рейтинг QS,Рейтинг THE,Национальный рейтинг,Запущено КА (спутников),Названия запущенных КА (год),КА в разработке,Наземная станция,Космические подразделения,Партнёрства в космической сфере,Санкционные / ограничительные списки (США),Космический индекс (0–100),Волна рассылки,Проверка домена e-mail (MX),Достоверность,Примечания,Источники,Дата проверки,"Секретарь парткома (справочно, Китай)"
+﻿№,Страна,Город,Вуз (англ.),Вуз (ориг.),Профиль,Гос. / частный,Основные направления обучения,Почтовый адрес,E-mail для рассылки (рекомендуемый),Адресат (владелец рекомендуемого e-mail),Стыковка e-mail и адресата,E-mail (международный отдел),E-mail (общий / ректорат),Телефон,Сайт,Ректор / президент,Должность,Рейтинг QS,Рейтинг THE,Национальный рейтинг,Запущено КА (спутников),Названия запущенных КА (год),КА в разработке,Наземная станция,Космические подразделения,Партнёрства в космической сфере,Санкционные / ограничительные списки (США),Космический индекс (0–100),Волна рассылки,Проверка домена e-mail (MX),Достоверность,Примечания,Источники,Дата проверки,"Секретарь парткома (справочно, Китай)"
 1,Иран,Тегеран,Iranian Space Research Center (ISRC),پژوهشگاه فضایی ایران,НИИ / научный центр,Государственный (агентство),"• Satellite systems
 • Space transportation systems
 • Space propulsion
 • Space mechanics
-• Space materials & energy",,,,,,,https://isrc.ac.ir,,Head,,,,3,"• Mahda (2024)
+• Space materials & energy",,,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://isrc.ac.ir,,Head,,,,3,"• Mahda (2024)
 • Pars-1 (2024)
 • Nahid-2 (2025)","U3 CubeSat (engineering model built, reported)","Space Mission Operation Center (opened, reported)","• Satellite Systems Research Institute (Tehran)
 • Space Transportation Systems Research Institute (Tehran)
@@ -28,7 +28,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List)
 • Https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list)
 • Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv
-• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-04,
+• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-05,
 2,Иран,Тегеран,Iran University of Science and Technology,دانشگاه علم و صنعت ایران,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)","• Mechanical & Automotive Engineering
 • Railway Engineering
 • Electrical & Computer Engineering
@@ -37,7 +37,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Industrial Engineering","Iran University of Science and Technology, University St., Hengam St., Resalat Square, Tehran 1684613114, Iran",international@iust.ac.ir,"Dr. Reza Golshan Khavas
 Директор (вице-президент) по международному научному сотрудничеству
 Управление (вице-президентство) международного научного сотрудничества
-Обращение: Dear Dr. Golshan Khavas,",international@iust.ac.ir,,+98 21 7724 0303,https://www.iust.ac.ir,Prof. Mahmood Mehrdad Shokrieh,President,QS2027: 504,THE2027: 401–450,,2,"• Navid (2012)
+Обращение: Dear Dr. Golshan Khavas,",ящик общий,international@iust.ac.ir,,+98 21 7724 0303,https://www.iust.ac.ir,Prof. Mahmood Mehrdad Shokrieh,President,QS2027: 504,THE2027: 401–450,,2,"• Navid (2012)
 • Zafar-2 (2025)","• Tadbir (ex Navid-2, Earth-observation microsatellite, unlaunched per Gunter's Space Page)
 • Zafar-1 (113 kg EO microsatellite — launch failure on Simorgh, 09.02.2020)",,"• Student/faculty satellite team that built Navid and Zafar (IUST)
 • Iran Composites Institute (on campus
@@ -61,7 +61,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list, EU.2764.8 Iran Composites Institute)
 • Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv (INU0074, INU0021)
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv
-• Https://www.qianmu.org (QS2027 list, secondary)",2026-10-04,
+• Https://www.qianmu.org (QS2027 list, secondary)",2026-10-05,
 3,Иран,Тегеран,Amirkabir University of Technology (Tehran Polytechnic),دانشگاه صنعتی امیرکبیر,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)","• Aerospace Engineering
 • Electrical Engineering
 • Mechanical Engineering
@@ -70,7 +70,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Polymer & Petroleum Engineering","No. 350 (formerly 424) Hafez Ave., Valiasr Sq., Tehran, Iran",intrel@aut.ac.ir,"ФИО не найдено
 Руководитель управления научного и международного сотрудничества
 Управление международного научного сотрудничества (Office of International Affairs)
-Обращение: Dear Director of International Scientific Cooperation,",intrel@aut.ac.ir,info@aut.ac.ir,+98 21 64540,https://aut.ac.ir,Prof. Abbas Soroush,President,QS2027: 483,THE2027: 401–450,,0,,"Payam-e Amirkabir (AUTSAT-1), ~90 kg remote-sensing microsatellite — launch attempt on Simorgh 15.01.2019 failed (3rd stage), did not reach orbit",,Faculty of Aerospace Engineering (دانشکده مهندسی هوافضا),"Iranian Space Agency / Iranian Space Research Center — named (with IUST and Sharif) as hub for BRICS+ space-education courses (Middle East Space Monitor, June 2025)",,50,1B,да,средняя,"• Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка
+Обращение: Dear Director of International Scientific Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,intrel@aut.ac.ir,info@aut.ac.ir,+98 21 64540,https://aut.ac.ir,Prof. Abbas Soroush,President,QS2027: 483,THE2027: 401–450,,0,,"Payam-e Amirkabir (AUTSAT-1), ~90 kg remote-sensing microsatellite — launch attempt on Simorgh 15.01.2019 failed (3rd stage), did not reach orbit",,Faculty of Aerospace Engineering (دانشکده مهندسی هوافضا),"Iranian Space Agency / Iranian Space Research Center — named (with IUST and Sharif) as hub for BRICS+ space-education courses (Middle East Space Monitor, June 2025)",,50,1B,да,средняя,"• Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка
 • Университет НЕ найден в US Entity List / SDN, списках ЕС и Великобритании (проверено по актуальным выгрузкам, окт. 2026)
 • Президент: Аббас Соруш с 1404 г. (2025) по fa.wikipedia; предшественник — Алиреза Рахаи (1402–1404)
 • Спутник Payam-e Amirkabir (AUTSAT) был запущен в 2019 г., но не вышел на орбиту — в satellites_launched не засчитан
@@ -88,7 +88,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv
 • Https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list)
 • Https://sanctionslistservice.ofac.treas.gov (SDN)
-• Https://www.qianmu.org/ranking/1528.htm",2026-10-04,
+• Https://www.qianmu.org/ranking/1528.htm",2026-10-05,
 4,Иран,Тегеран,Sharif University of Technology,دانشگاه صنعتی شریف,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)","• Engineering (electrical, mechanical, aerospace, computer)
 • Physics
 • Chemistry
@@ -97,7 +97,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Management & economics","Sharif University of Technology, Azadi Avenue, Tehran, Iran",ia@sharif.edu,"ФИО не найдено
 Директор Управления международных связей
 Управление международных связей (International Affairs Office)
-Обращение: Dear Director of International Affairs,",ia@sharif.edu,president@sharif.edu,+98 21 6600 5210,https://www.sharif.ir,Prof. Seyed Abbas Mousavi,President,QS2027: 390,THE2027: 451–500,,0,,"• Sharif-Sat (50 kg imaging / store-and-forward microsatellite, delivered to Iranian Space Agency in Dec 2013, unlaunched per Gunter's Space Page)
+Обращение: Dear Director of International Affairs,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,ia@sharif.edu,president@sharif.edu,+98 21 6600 5210,https://www.sharif.ir,Prof. Seyed Abbas Mousavi,President,QS2027: 390,THE2027: 451–500,,0,,"• Sharif-Sat (50 kg imaging / store-and-forward microsatellite, delivered to Iranian Space Agency in Dec 2013, unlaunched per Gunter's Space Page)
 • Dousti (52 kg remote-sensing test satellite led by SUT — launch failed 2019)",,"Department of Aerospace Engineering (first aerospace engineering degree in Iran, 1987)","• Iran Space Research Center (ISRC) — 'space park' agreement (2019, reported) and joint QSat CubeSat design competition
 • Aerospace Industries Organization (AIO) — satellite production cooperation agreement (reported)",EU/UK sanctions,45,1B,да,средняя,"• САНКЦИИ: университет включён в санкционный список ЕС (EU.2734.5, обоснование — связи с AIO и КСИР; в записи указана дата обозначения ООН 08.11.2014) и Великобритании (INU0042, заморозка активов, Iran Nuclear Regulations 2019); также в списках Канады (Named Research Organizations), Франции, Японии (METI End User List). В US Entity List (BIS) университет как таковой НЕ найден, но ряд лабораторий кампуса и сотрудников в списке OFAC SDN. Высокий санкционный/комплаенс-риск — требуется юридическая проверка до отправки приглашения
 • Официальные сайты .ir/.edu недоступны напрямую (блокировка) — данные взяты из поисковых выдержек с официальных страниц
@@ -112,13 +112,13 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list, EU.2734.5)
 • Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv (INU0042)
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv
-• Https://www.qianmu.org (QS2027 list, secondary)",2026-10-04,
+• Https://www.qianmu.org (QS2027 list, secondary)",2026-10-05,
 5,Иран,Тегеран,K. N. Toosi University of Technology,دانشگاه صنعتی خواجه نصیرالدین طوسی,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)","• Electrical & computer engineering
 • Mechanical & aerospace engineering
 • Civil engineering
 • Geodesy & geomatics (remote sensing)
 • Industrial & materials engineering
-• Physics/Chemistry/Mathematics","K. N. Toosi University of Technology, Central Administration, No. 470, Mirdamad Ave. West (Vanak Sq.), Tehran 1969764499, Iran",,,,,+98 21 8888 1003,https://www.kntu.ac.ir (EN: https://en.kntu.ac.ir),Prof. Hamid Reza Taghirad,President,,THE2027: 1001–1200,,0,,"Saar (Starling) — satellite attributed to KNTU in Wikipedia's ISA article (marked 'citation needed', status unverified, not launched)",,"• Faculty of Aerospace Engineering (Space Engineering programme, est. 2006)
+• Physics/Chemistry/Mathematics","K. N. Toosi University of Technology, Central Administration, No. 470, Mirdamad Ave. West (Vanak Sq.), Tehran 1969764499, Iran",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,+98 21 8888 1003,https://www.kntu.ac.ir,Prof. Hamid Reza Taghirad,President,,THE2027: 1001–1200,,0,,"Saar (Starling) — satellite attributed to KNTU in Wikipedia's ISA article (marked 'citation needed', status unverified, not launched)",,"• Faculty of Aerospace Engineering (Space Engineering programme, est. 2006)
 • Center of Excellence for Space Systems Design & Simulation
 • Research Center for Space Systems Design (CEGIT)
 • Space Research Laboratory (Dr. M. Mirshams, spacerl.com)
@@ -129,7 +129,8 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Президент проф. Хамид-Реза Тагирад (с осени 2024 г.; фото и биография на официальном сайте). Сведения английской Википедии (Amir Reza Shahani) устарели
 • Общий e-mail и e-mail международного отдела на сайте не опубликованы (только телефон +98 21 8888 1003); сайт ia.kntu.ac.ir недоступен. Рекомендуется найти адрес через канал CONNECT или запрос по телефону
 • Данные о выведенных на орбиту спутниках KNTU не подтверждены (Saar — только планы, источник без ссылки); в nanosats.csv KNTU нет
-• Прямой доступ к сайтам .ac.ir заблокирован, данные получены через r.jina.ai-зеркало официальных страниц; web search был недоступен (исчерпан лимит)","• Https://en.kntu.ac.ir/
+• Прямой доступ к сайтам .ac.ir заблокирован, данные получены через r.jina.ai-зеркало официальных страниц; web search был недоступен (исчерпан лимит)
+• Дополнительные сайты: https://en.kntu.ac.ir","• Https://en.kntu.ac.ir/
 • Https://en.kntu.ac.ir/our-team
 • Https://en.kntu.ac.ir/connect
 • Https://en.kntu.ac.ir/aerospace-engineering
@@ -139,7 +140,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://en.wikipedia.org/wiki/Iranian_Space_Agency
 • EU consolidated list (EU.2930.75)
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv
-• Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv",2026-10-04,
+• Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv",2026-10-05,
 6,Иран,Тегеран,Shahid Beheshti University,دانشگاه شهید بهشتی,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Natural Sciences
 • Nuclear Engineering
 • Laser & Plasma Physics
@@ -148,7 +149,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Architecture","Daneshjou Blvd., Shahid Shahriari Sq., Evin, Tehran 1983969411, Iran",int-re@sbu.ac.ir,"ФИО не найдено
 Директор по международному научному сотрудничеству
 Управление международного научного сотрудничества
-Обращение: Dear Director of International Scientific Cooperation,",int-re@sbu.ac.ir,pr.office@mail.sbu.ac.ir,+98 21 2990 2323,https://www.sbu.ac.ir,Prof. Seyed Mahmoud-Reza Aghamiri,President,QS2027: 781–790,THE2027: 801–1000,,0,,,,"• Laser and Plasma Research Institute (plasma thruster R&D)
+Обращение: Dear Director of International Scientific Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,int-re@sbu.ac.ir,pr.office@mail.sbu.ac.ir,+98 21 2990 2323,https://www.sbu.ac.ir,Prof. Seyed Mahmoud-Reza Aghamiri,President,QS2027: 781–790,THE2027: 801–1000,,0,,,,"• Laser and Plasma Research Institute (plasma thruster R&D)
 • Center for Remote Sensing and GIS Research",Iranian Space Agency (ISA) and Aerospace Research Institute — co-organisers of SBU space-law conference (2018),EU/UK sanctions,26,3,да,средняя,"• ВНИМАНИЕ: университет под санкциями ЕС (Рег. 267/2012, листинг 2011, повторно 2025/1559 после snapback) и Великобритании (UK Sanctions List INU0112, заморозка активов — ядерная программа). Контакт без комплаенс-заключения недопустим
 • В US Entity List и SDN не найден; по Wikipedia также санкции Австралии, Канады, Швейцарии (не перепроверено)
 • Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка
@@ -165,7 +166,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv
 • Https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list)
 • Https://sanctionslistservice.ofac.treas.gov (SDN)
-• Https://www.qianmu.org/ranking/1528.htm",2026-10-04,
+• Https://www.qianmu.org/ranking/1528.htm",2026-10-05,
 7,Иран,Тегеран,University of Tehran,دانشگاه تهران,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Engineering
 • Natural sciences
 • Humanities & social sciences
@@ -174,7 +175,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Management & economics","University of Tehran, 16th Azar St., Enghelab Sq., Tehran, Iran (Postal Code 1417935840; P.O. Box 14155-6619)",International@ut.ac.ir,"Dr. Saeed Hamzeh
 Вице-президент по международным делам (доцент)
 Управление (вице-президентство) по международным делам
-Обращение: Dear Dr. Hamzeh,",International@ut.ac.ir,,+98 21 6111 3411,https://ut.ac.ir,Prof. Mohammad Hossein Omid,President,QS2027: 367,THE2027: 451–500,,0,,,,"Faculty of Aerospace Engineering (Aerospace Systems), College of Interdisciplinary Science and Technology",,,20,3,да,средняя,"• Президент — проф. Мохаммад Хосейн Омид, назначен министром MSRT 7 мая 2025 г. (официальная страница)
+Обращение: Dear Dr. Hamzeh,",ящик общий,International@ut.ac.ir,,+98 21 6111 3411,https://ut.ac.ir,Prof. Mohammad Hossein Omid,President,QS2027: 367,THE2027: 451–500,,0,,,,"Faculty of Aerospace Engineering (Aerospace Systems), College of Interdisciplinary Science and Technology",,,20,3,да,средняя,"• Президент — проф. Мохаммад Хосейн Омид, назначен министром MSRT 7 мая 2025 г. (официальная страница)
 • Вице-президент по международным делам — д-р Саид Хамзе (доцент, факультет географии), назначен в мордаде 1405 г. (июль–август 2026)
 • Общий e-mail на странице контактов отображается картинкой и не извлечён; для приглашения использовать International@ut.ac.ir (Управление международных связей)
 • Собственных спутников, выведенных на орбиту, не найдено; есть факультет аэрокосмической инженерии. Лимит веб-поиска исчерпан — космические данные проверены только по Википедии, Gunter's Space Page и nanosats.csv
@@ -191,7 +192,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List)
 • Https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list)
 • Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv
-• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-04,
+• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-05,
 8,Иран,Исфахан,University of Isfahan,دانشگاه اصفهان,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Natural Sciences
 • Engineering & Computer Science
 • Humanities & Foreign Languages
@@ -200,7 +201,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Physical Education","University of Isfahan, Azadi Square, University St., Isfahan, Iran",int-office@ui.ac.ir,"Dr. Mohammad Amiryousefi
 Директор Управления научного и международного сотрудничества
 Управление научного и международного сотрудничества
-Обращение: Dear Dr. Amiryousefi,",int-office@ui.ac.ir,pr@dean.ui.ac.ir,+98 31 3793 2039,https://ui.ac.ir,Dr. Rasoul Roknizadeh,President,QS2027: 1201–1400,THE2027: 1201–1400,,0,,,,,"• BRICS Network University (BRICS-NU) member (per Global Engagement section of ui.ac.ir)
+Обращение: Dear Dr. Amiryousefi,",ящик общий,int-office@ui.ac.ir,pr@dean.ui.ac.ir,+98 31 3793 2039,https://ui.ac.ir,Dr. Rasoul Roknizadeh,President,QS2027: 1201–1400,THE2027: 1201–1400,,0,,,,,"• BRICS Network University (BRICS-NU) member (per Global Engagement section of ui.ac.ir)
 • Silk-road Universities Network (SUN)
 • UNITWIN",,18,3,да,средняя,"• Президент д-р Расул Рокнизаде подтверждён новостью главной страницы ui.ac.ir (2026)
 • Директор Управления научного и международного сотрудничества — д-р Мохаммад Амирюсефи (советник президента по международным делам), личный e-mail m.amiryousefi@fgn.ui.ac.ir, тел. +98 31 3793 2040
@@ -212,7 +213,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://ui.ac.ir/en/Global-Engagement
 • Https://fa.wikipedia.org/wiki/دانشگاه_اصفهان
 • Https://www.qianmu.org (QS2027 list, secondary)
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 9,Иран,Шираз,Shiraz University,دانشگاه شیراز,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Engineering (incl. Aerospace)
 • Agriculture
 • Natural Sciences
@@ -221,7 +222,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Law","Central Administration Building, Jomhouri Eslami Blvd., Shiraz, Fars Province, Iran",suiro@shirazu.ac.ir,"ФИО не найдено
 Руководитель управления международного научного сотрудничества
 Управление международных связей (Shiraz University International Relations Office)
-Обращение: Dear Director of International Scientific Cooperation,",suiro@shirazu.ac.ir,info@shirazu.ac.ir,+98 71 3613 4000; +98 71 3646 0430 (International Relations Office),https://shirazu.ac.ir,Prof. Alireza Afsharifar,President,QS2027: 791–800,THE2027: 801–1000,,0,,,,"• Department of Aerospace Engineering (School of Mechanical Engineering)
+Обращение: Dear Director of International Scientific Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,suiro@shirazu.ac.ir,info@shirazu.ac.ir,+98 71 3613 4000; +98 71 3646 0430 (International Relations Office),https://shirazu.ac.ir,Prof. Alireza Afsharifar,President,QS2027: 791–800,THE2027: 801–1000,,0,,,,"• Department of Aerospace Engineering (School of Mechanical Engineering)
 • Remote Sensing and GIS Research Center",,,16,3,да,средняя,"• Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка
 • В санкционных списках США/ЕС/Великобритании не найден
 • Афшарифар (проф. фитопатологии) назначен и.о. президента (سرپرست) 20 фарвардина 1404 (09.04.2025); fa.wikipedia указывает его как действующего президента
@@ -238,7 +239,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv
 • Https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list)
 • Https://sanctionslistservice.ofac.treas.gov (SDN)
-• Https://www.qianmu.org/ranking/1528.htm",2026-10-04,
+• Https://www.qianmu.org/ranking/1528.htm",2026-10-05,
 10,Иран,Кашан,University of Kashan,دانشگاه کاشان,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Engineering
 • Basic Sciences (Chemistry, Physics, Mathematics)
 • Nanotechnology
@@ -247,7 +248,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Natural Resources","6th km Qotb-e Ravandi Blvd., Kashan 87317-53153, Isfahan Province, Iran",int.office@kashanu.ac.ir,"ФИО не найдено
 Директор по международному научному сотрудничеству
 Управление международного научного сотрудничества
-Обращение: Dear Director of International Scientific Cooperation,",int.office@kashanu.ac.ir,,+98 31 5591 2124,https://kashanu.ac.ir/en,Dr. Behzad Soltani,President,,THE2027: 1001–1200,,0,,,,"• University of Kashan Observatory
+Обращение: Dear Director of International Scientific Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,int.office@kashanu.ac.ir,,+98 31 5591 2124,https://kashanu.ac.ir/en,Dr. Behzad Soltani,President,,THE2027: 1001–1200,,0,,,,"• University of Kashan Observatory
 • Student CanSat team «Shahab» (призёр Iran CanSat Competition)",,,13,3,да,средняя,"• Президент: д-р Бехзад Солтани (доцент, машиностроение) — назначен сначала и.о. (سرپرست), церемония вступления 13 шахривара 1403 (сент. 2024); утверждение ВСКР не проверено
 • Спутников на орбите нет; есть сильная студенческая CanSat-команда и обсерватория — потенциальный интерес к CubeSat
 • Int.office@kashanu.ac.ir — International Scientific Cooperation Office; имя директора не подтверждено
@@ -260,7 +261,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://intl.kashanu.ac.ir/en
 • Https://kashanu.ac.ir/en/contactus
 • Https://kashanu.ac.ir/en/news/6681/university-of-kashan-satellite-team-ranked-2nd-in-iran-cansat-competition
-• Https://uko.kashanu.ac.ir/en/page/3406/introduce",2026-10-04,
+• Https://uko.kashanu.ac.ir/en/page/3406/introduce",2026-10-05,
 11,Иран,Керманшах,Kermanshah University of Medical Sciences,دانشگاه علوم پزشکی و خدمات بهداشتی درمانی کرمانشاه,Медицинский,Государственный (Минздрав Ирана),"• Medicine
 • Dentistry
 • Pharmacy
@@ -269,14 +270,14 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Paramedical Sciences","Kermanshah University of Medical Sciences, Central Building, Shahid Beheshti Blvd., Kermanshah 6715847141, Iran",admin.gsia@kums.ac.ir,"Dr. Elham Arkan
 Директор Управления по международным делам
 Управление по международным делам (Directorate of International Affairs)
-Обращение: Dear Dr. Arkan,",admin.gsia@kums.ac.ir,daftarriasat@kums.ac.ir,+98 83 3835 8943,https://www.kums.ac.ir,Dr. Ali Soroush,Acting President (Chancellor),,THE2027: 401–450,,0,,,,,,,10,3,да,средняя,"• Руководитель — д-р Али Сорууш в статусе «сарпараст» (исполняющий обязанности президента) по странице «Связь с руководством» сайта KUMS (2026)
+Обращение: Dear Dr. Arkan,",ящик общий,admin.gsia@kums.ac.ir,daftarriasat@kums.ac.ir,+98 83 3835 8943,https://www.kums.ac.ir,Dr. Ali Soroush,Acting President (Chancellor),,THE2027: 401–450,,0,,,,,,,10,3,да,средняя,"• Руководитель — д-р Али Сорууш в статусе «сарпараст» (исполняющий обязанности президента) по странице «Связь с руководством» сайта KUMS (2026)
 • Международный офис — Управление по международным делам (ia.kums.ac.ir), директор д-р Эльхам Аркан (фото на странице от сентября 2025); тел. +98 83 3839 7091
 • Медицинский вуз Минздрава; космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана). В санкционных списках не найден; общие санкции против Ирана — нужна комплаенс-проверка","• Https://www.kums.ac.ir/fa/contact
 • Https://www.kums.ac.ir/fa/boss/boss
 • Https://ia.kums.ac.ir/fa/contactus-تماس-با-ما
 • Https://ia.kums.ac.ir/fa/iahead/head-مدیر-امور-بین-الملل
 • Https://fa.wikipedia.org/wiki/دانشگاه_علوم_پزشکی_کرمانشاه
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 12,Иран,Тегеран,Tarbiat Modares University,دانشگاه تربیت مدرس,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Engineering
 • Basic sciences
 • Agriculture
@@ -285,7 +286,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Art & architecture","Tarbiat Modares University, Jalal Al-e Ahmad Highway, Nasr, P.O. Box 14115-111, Tehran, Iran",INTL@modares.ac.ir,"Dr. Abdolamir Allameh
 Директор Управления международных связей
 Управление международных связей (Office of International Affairs)
-Обращение: Dear Dr. Allameh,",INTL@modares.ac.ir,,+98 21 8288 2018,https://www.modares.ac.ir,Prof. Yousef Hojjat,President,,,,0,,,,"Aerospace Engineering Group, Faculty of Mechanical Engineering (MSc level)",,,10,3,да,средняя,"• Президент (Chancellor) Dr. Yousef Hojjat — по выдержкам (открытое письмо руководителям университетов мира, июнь 2025); официальный сайт напрямую недоступен
+Обращение: Dear Dr. Allameh,",ящик общий,INTL@modares.ac.ir,,+98 21 8288 2018,https://www.modares.ac.ir,Prof. Yousef Hojjat,President,,,,0,,,,"Aerospace Engineering Group, Faculty of Mechanical Engineering (MSc level)",,,10,3,да,средняя,"• Президент (Chancellor) Dr. Yousef Hojjat — по выдержкам (открытое письмо руководителям университетов мира, июнь 2025); официальный сайт напрямую недоступен
 • Директор по международным делам — Abdolamir Allameh (по странице International Affairs; учёное звание не подтверждено)
 • Телефон — канцелярия ректора; международный офис: +98 21 8288 4118, +98 21 8288 3220
 • Спутников не найдено. В санкционных списках US/EU/UK не найден (в списке ЕС упоминается лишь адрес научно-технологического парка Tarbiat Modares у другой организации)","• Https://en-adm.modares.ac.ir/~intl-aff
@@ -293,7 +294,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://en.modares.ac.ir/index.jsp?pageid=6172
 • Https://x.com/ModaresUni
 • Https://en.wikipedia.org/wiki/Tarbiat_Modares_University
-• Https://www.iranhavafaza.com/index/article/62",2026-10-04,
+• Https://www.iranhavafaza.com/index/article/62",2026-10-05,
 13,Иран,Бабол,Babol Noshirvani University of Technology,دانشگاه صنعتی نوشیروانی بابل,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)","• Mechanical Engineering
 • Electrical and Computer Engineering
 • Civil Engineering
@@ -302,7 +303,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Basic Sciences","Babol Noshirvani University of Technology, Shariati Ave., P.O. Box 484, Babol, Mazandaran 47148-71167, Iran",international@nit.ac.ir,"ФИО не найдено
 Директор по международному научному сотрудничеству
 Управление международного научного сотрудничества
-Обращение: Dear Director of International Scientific Cooperation,",international@nit.ac.ir,rabiee@nit.ac.ir,+98 11 3550 1075,https://nit.ac.ir/en,Prof. Seyed Mahmoud Rabiee,President,,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• Президент: проф. Сейед Махмуд Рабии (биомед. инженерия), в должности с 1403/2024–2025 (en/fa Wikipedia, новостные сниппеты)
+Обращение: Dear Director of International Scientific Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,international@nit.ac.ir,rabiee@nit.ac.ir,+98 11 3550 1075,https://nit.ac.ir/en,Prof. Seyed Mahmoud Rabiee,President,,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• Президент: проф. Сейед Махмуд Рабии (биомед. инженерия), в должности с 1403/2024–2025 (en/fa Wikipedia, новостные сниппеты)
 • Email_general — личный ящик президента со страницы Presidential Office (по сниппету); общего ящика канцелярии не найдено
 • International@nit.ac.ir — Управление международного научного сотрудничества (центральный корпус, 5 этаж); имя директора не подтверждено
 • Быстрая проверка спутников: собственных спутников на орбите не найдено
@@ -312,20 +313,20 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_نوشیروانی_بابل
 • Https://nit.ac.ir/en/page/738/presidential-office
 • Https://nit.ac.ir/en/page/681/contact-us
-• Https://int.nit.ac.ir/en/contactus",2026-10-04,
+• Https://int.nit.ac.ir/en/contactus",2026-10-05,
 14,Иран,Бушехр,Bushehr University of Medical Sciences (BPUMS),دانشگاه علوم پزشکی و خدمات بهداشتی درمانی بوشهر,Медицинский,Государственный (Минздрав Ирана),"• Medicine
 • Dentistry
 • Pharmacy
 • Nursing & Midwifery
 • Public Health
-• Nuclear medicine / Persian Gulf marine medical research","Bushehr University of Medical Sciences, Moallem St., opposite the Friday Prayer site, Bushehr 7514633341, Iran",,,,,+98 77 3332 2081,https://bpums.ac.ir,Dr. Allahkaram Akhlaghi,President (Chancellor),,THE2027: 701–800,,0,,,,,,,6,3,,средняя,"• Президент д-р Аллахкарам Ахлаги подтверждён новостью сайта (28 ордибехешта 1405 / май 2026)
+• Nuclear medicine / Persian Gulf marine medical research","Bushehr University of Medical Sciences, Moallem St., opposite the Friday Prayer site, Bushehr 7514633341, Iran",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,+98 77 3332 2081,https://bpums.ac.ir,Dr. Allahkaram Akhlaghi,President (Chancellor),,THE2027: 701–800,,0,,,,,,,6,3,,средняя,"• Президент д-р Аллахкарам Ахлаги подтверждён новостью сайта (28 ордибехешта 1405 / май 2026)
 • На сайте не опубликован ни общий, ни международный e-mail; международными связями ведает Управление по связям с общественностью и международным делам (pr.bpums.ac.ir) — адрес нужно запросить; телефон центрального офиса +98 77 3332 2081-5, факс +98 77 3332 3123
 • Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана); в санкционных списках не найден; общие санкции против Ирана","• Https://bpums.ac.ir/Fa/DynPages-965.htm
 • Http://pr.bpums.ac.ir/Fa/News-43234.htm
 • Https://pr.bpums.ac.ir/Fa/DynPages-9542.htm
 • Https://bpums.ac.ir/En/
 • Https://fa.wikipedia.org/wiki/دانشگاه_علوم_پزشکی_بوشهر
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 15,Иран,Тегеран,Iran University of Medical Sciences,دانشگاه علوم پزشکی ایران,Медицинский,Государственный (Минздрав Ирана),"• Medicine
 • Dentistry
 • Pharmacy
@@ -334,15 +335,16 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Rehabilitation & allied health sciences","Iran University of Medical Sciences, Shahid Hemmat Highway (next to Milad Tower), Tehran 1449614535, Iran",intl@iums.ac.ir,"Dr. Mehdi Moghtadaei
 Проректор по международным делам, декан Международного кампуса
 Офис проректора по международным делам (Office of Vice President for International Affairs)
-Обращение: Dear Dr. Moghtadaei,",intl@iums.ac.ir,info@iums.ac.ir,+98 21 8670 2030,https://iums.ac.ir (EN: https://en.iums.ac.ir),Dr. Nader Tavakoli,Chancellor (President),,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
+Обращение: Dear Dr. Moghtadaei,",ящик общий,intl@iums.ac.ir,info@iums.ac.ir,+98 21 8670 2030,https://iums.ac.ir,Dr. Nader Tavakoli,Chancellor (President),,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
 • Медицинский университет (Минздрав) — профиль далёк от космической тематики
 • Ректор Dr. Nader Tavakoli подтверждён на сайте канцелярии ректора (chancellor.iums.ac.ir, новости 2026 г.); англ. Википедия (Abdolreza Pazouki) устарела
-• Проректор по международным делам Mehdi Moghtadaei, MD указан на странице с фото 2023 г. — актуальность на 2026 г. не подтверждена. Телефон +98 21 8670 2030 — международный офис; коммутатор 021-86709","• Https://iums.ac.ir/
+• Проректор по международным делам Mehdi Moghtadaei, MD указан на странице с фото 2023 г. — актуальность на 2026 г. не подтверждена. Телефон +98 21 8670 2030 — международный офис; коммутатор 021-86709
+• Дополнительные сайты: https://en.iums.ac.ir","• Https://iums.ac.ir/
 • Https://chancellor.iums.ac.ir/
 • Https://en.iums.ac.ir/
 • Https://en.iums.ac.ir/Vice-President-for-International-Affairs
 • Https://en.iums.ac.ir/Staff-of-the-Office-of-Vice-President-for-International-Affairs
-• Https://fa.wikipedia.org/wiki/دانشگاه_علوم_پزشکی_ایران",2026-10-04,
+• Https://fa.wikipedia.org/wiki/دانشگاه_علوم_پزشکی_ایران",2026-10-05,
 16,Иран,Исфахан,Isfahan University of Medical Sciences,دانشگاه علوم پزشکی و خدمات بهداشتی درمانی اصفهان,Медицинский,Государственный (Минздрав Ирана),"• Medicine
 • Dentistry
 • Pharmacy
@@ -351,7 +353,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Rehabilitation sciences","Isfahan University of Medical Sciences, Hezar Jerib St., Isfahan 8174673461, Iran",international@mui.ac.ir,"ФИО не найдено
 Директор Управления международных дел
 Управление международных дел (Directorate of International Affairs)
-Обращение: Dear Director of International Affairs,",international@mui.ac.ir,,+98 31 3792 3131,https://mui.ac.ir,,President,,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• Имя президента не подтверждено: страница «ریاست» на сайте рендерится без текста (изображения). В Википедии указан Шахин Ширани — актуальность на 2025–2026 гг. не проверена
+Обращение: Dear Director of International Affairs,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,international@mui.ac.ir,,+98 31 3792 3131,https://mui.ac.ir,,President,,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• Имя президента не подтверждено: страница «ریاست» на сайте рендерится без текста (изображения). В Википедии указан Шахин Ширани — актуальность на 2025–2026 гг. не проверена
 • Страница директора Управления международных дел не показывает имя (фото); на ней указаны international@mui.ac.ir, тел. +98 31 3668 6974 и личный адрес сотрудника azamseyyedan@yahoo.com (не использовать как официальный)
 • Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся)
 • Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки","• Https://mui.ac.ir/en/contact-us
@@ -363,7 +365,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List)
 • Https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list)
 • Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv
-• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-04,
+• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-05,
 17,Иран,Исфахан,Isfahan University of Technology,دانشگاه صنعتی اصفهان,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)","• Engineering (mechanical, electrical & computer, chemical, materials, textile, mining, civil)
 • Agriculture & natural resources
 • Physics
@@ -371,7 +373,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Mathematics","Isfahan University of Technology, University Boulevard, Esteghlal Square, Isfahan 84156-83111, Iran",international@iut.ac.ir,"Dr. Peiman Mosaddegh
 Директор Международного центра научного сотрудничества
 Международный центр научного сотрудничества (International Scientific Cooperation Center)
-Обращение: Dear Dr. Mosaddegh,",international@iut.ac.ir,,+98 31 3391 2505,https://english.iut.ac.ir,Prof. Sayyed Zafarollah Kalantari,President,QS2027: 620,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• Президент: Prof. S. Z. Kalantari (профессор физики) с 2025 г. по Wikipedia; предшественник — Prof. S. M. Abtahi (2019–2025). Официальный сайт напрямую недоступен — подтвердить по сайту
+Обращение: Dear Dr. Mosaddegh,",ящик общий,international@iut.ac.ir,,+98 31 3391 2505,https://english.iut.ac.ir,Prof. Sayyed Zafarollah Kalantari,President,QS2027: 620,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• Президент: Prof. S. Z. Kalantari (профессор физики) с 2025 г. по Wikipedia; предшественник — Prof. S. M. Abtahi (2019–2025). Официальный сайт напрямую недоступен — подтвердить по сайту
 • Директор Международного центра научного сотрудничества — Dr. Peiman Mosaddegh по странице контактов; после смены президента в 2025 г. мог смениться
 • Общий email не найден; телефон — Международный центр (+98 31 3391 2505/2506, факс +98 31 3391 2511)
 • Собственных спутников на орбите не найдено (спутник Kowsar создан частной компанией Omid Faza, не университетом)
@@ -382,7 +384,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://english.iut.ac.ir/international-centre
 • Https://english.iut.ac.ir/contact-us
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv
-• Https://www.qianmu.org (QS2027 list, secondary)",2026-10-04,
+• Https://www.qianmu.org (QS2027 list, secondary)",2026-10-05,
 18,Иран,Сенендедж,Kurdistan University of Medical Sciences,دانشگاه علوم پزشکی و خدمات بهداشتی درمانی کردستان,Медицинский,Государственный (Минздрав Ирана),"• Medicine
 • Dentistry
 • Pharmacy
@@ -391,14 +393,14 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Paramedical sciences","Kurdistan University of Medical Sciences, Pasdaran Blvd., Sanandaj, Kurdistan Province, Iran",foreign.students@muk.ac.ir,"Dr. Farzad Parvizpour
 Директор Управления международных дел (доцент/استادیار, прикладные клеточные науки)
 Управление международных дел (مدیریت امور بین الملل)
-Обращение: Dear Dr. Parvizpour,",foreign.students@muk.ac.ir,,"+98 87 3366 4645 (ext. 8618, International Affairs)",https://www.muk.ac.ir,Prof. Shoaleh Shahgheibi,President,,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• Президент — д-р Шоале Шахгейби (Shoaleh Shahgheibi), полный профессор (استاد تمام), акушер-гинеколог — по таблице «Президиум университета» на официальном сайте
+Обращение: Dear Dr. Parvizpour,",ящик общий,foreign.students@muk.ac.ir,,"+98 87 3366 4645 (ext. 8618, International Affairs)",https://www.muk.ac.ir,Prof. Shoaleh Shahgheibi,President,,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• Президент — д-р Шоале Шахгейби (Shoaleh Shahgheibi), полный профессор (استاد تمام), акушер-гинеколог — по таблице «Президиум университета» на официальном сайте
 • Общий e-mail канцелярии ректора на сайте не опубликован; единственный адрес международного управления — foreign.students@muk.ac.ir (ориентирован на иностранных студентов)
 • Телефон на сайте указан как 009833664645 (без кода города); код Сенендеджа 087 добавлен нами — проверить
 • Медицинский университет: космической деятельности не найдено; партнёрство по CubeSat маловероятно (можно предлагать медицинские/телемедицинские полезные нагрузки)
 • В санкционных списках не проверялся детально (быстрая проверка, LIGHT)","• Https://www.muk.ac.ir/
 • Https://www.muk.ac.ir/Page?pageId=229
 • Https://www.muk.ac.ir/Page?pageId=543
-• Https://www.muk.ac.ir/Page?pageId=547",2026-10-04,
+• Https://www.muk.ac.ir/Page?pageId=547",2026-10-05,
 19,Иран,Семнан,Semnan University of Medical Sciences and Health Services,دانشگاه علوم پزشکی و خدمات بهداشتی درمانی استان سمنان,Медицинский,Государственный (Минздрав Ирана),"• Medicine
 • Dentistry
 • Pharmacy
@@ -407,7 +409,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Public Health","Central Headquarters, Bassij Blvd., Semnan 3514799442, Iran",int.affairs@semums.ac.ir,"Dr. Marziye Kamankesh
 Проректор по международным делам
 Проректорат по международным делам
-Обращение: Dear Dr. Kamankesh,",int.affairs@semums.ac.ir,,+98 23 3344 2937,https://en.semums.ac.ir,Dr. Ali Rashidipour,Chancellor,,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• Медицинский университет (Минздрав) — профиль далёк от космической тематики; приоритет низкий
+Обращение: Dear Dr. Kamankesh,",ящик общий,int.affairs@semums.ac.ir,,+98 23 3344 2937,https://en.semums.ac.ir,Dr. Ali Rashidipour,Chancellor,,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• Медицинский университет (Минздрав) — профиль далёк от космической тематики; приоритет низкий
 • Ректор (Chancellor): д-р Али Рашидипур (fa Wikipedia, страница «رئیس دانشگاه» на сайте, сниппеты 1404)
 • Международные ящики: int.affairs@semums.ac.ir и int.relation@semums.ac.ir; руководитель — Vice-Chancellor of International Affairs д-р Марзие Каманкеш (Assistant Prof., по сниппету официальной страницы)
 • Быстрая проверка спутников: не найдено (в поиске только Семнанский космодром, к университету не относится)
@@ -417,19 +419,19 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://fa.wikipedia.org/wiki/دانشگاه_علوم_پزشکی_سمنان
 • Https://www.semums.ac.ir/رئیس-دانشگاه
 • Https://en.semums.ac.ir/Contact-Us
-• Https://en.semums.ac.ir/Vice–Chancellor-of-International-Affairs",2026-10-04,
+• Https://en.semums.ac.ir/Vice–Chancellor-of-International-Affairs",2026-10-05,
 20,Иран,Шираз,Shiraz University of Medical Sciences,دانشگاه علوم پزشکی شیراز,Медицинский,Государственный (Минздрав Ирана),"• Medicine
 • Dentistry
 • Pharmacy
 • Nursing & Midwifery
 • Public Health
-• Paramedical sciences","Shiraz University of Medical Sciences, Zand Boulevard, Shiraz, Postal Code 71348-1433, Fars Province, Iran",,,,,,https://sums.ac.ir,Prof. Seyed Basir Hashemi,President,,THE2027: 651–700,,0,,,,,,,6,3,,низкая,"• Официальные сайты sums.ac.ir и gsia.sums.ac.ir недоступны из нашей сети (блокировка/403) — контакты не проверены, e-mail и телефон оставлены пустыми
+• Paramedical sciences","Shiraz University of Medical Sciences, Zand Boulevard, Shiraz, Postal Code 71348-1433, Fars Province, Iran",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://sums.ac.ir,Prof. Seyed Basir Hashemi,President,,THE2027: 651–700,,0,,,,,,,6,3,,низкая,"• Официальные сайты sums.ac.ir и gsia.sums.ac.ir недоступны из нашей сети (блокировка/403) — контакты не проверены, e-mail и телефон оставлены пустыми
 • Президент Seyed Basir Hashemi указан по en/fa-Википедии (обе совпадают), на официальном сайте не подтверждён — проверить перед рассылкой
 • Адрес — по профилю THE (Zand Blvd, 71348-1433)
 • Медицинский вуз; спутников не ожидается, отдельная проверка не проводилась (исчерпан лимит поиска)
 • Перепроверка: 04.10.2026: sums.ac.ir по-прежнему недоступен из-за пределов Ирана (прокси и WebFetch — 503); данные не изменены","• Https://en.wikipedia.org/wiki/Shiraz_University_of_Medical_Sciences
 • Https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%B9%D9%84%D9%88%D9%85_%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2
-• Https://www.timeshighereducation.com/world-university-rankings/shiraz-university-medical-sciences",2026-10-04,
+• Https://www.timeshighereducation.com/world-university-rankings/shiraz-university-medical-sciences",2026-10-05,
 21,Иран,Шираз,Shiraz University of Technology (SUTech),دانشگاه صنعتی شیراز,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)","• Electrical & electronic engineering
 • Computer engineering & IT
 • Chemical engineering
@@ -438,7 +440,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Industrial engineering","Shiraz University of Technology, Modarres Blvd., Shiraz, Fars, Iran (Post Code 71557-13876; P.O. Box 71555-313)",bushehrian@sutech.ac.ir,"Dr. Omid Bushehrian
 Руководитель группы научного и международного сотрудничества
 Группа научного и международного сотрудничества
-Обращение: Dear Dr. Bushehrian,",bushehrian@sutech.ac.ir,dehghani@sutech.ac.ir,+98 71 3735 4500,https://sutech.ac.ir,Prof. Mohammad Javad Dehghani,President,,THE2027: 551–600,,0,,,,,,,6,3,да,высокая,"• Email_general — личный адрес президента (dehghani@sutech.ac.ir), общего ящика на сайте нет; email_international — личный адрес руководителя группы научного и международного сотрудничества
+Обращение: Dear Dr. Bushehrian,","личный, совпало",bushehrian@sutech.ac.ir,dehghani@sutech.ac.ir,+98 71 3735 4500,https://sutech.ac.ir,Prof. Mohammad Javad Dehghani,President,,THE2027: 551–600,,0,,,,,,,6,3,да,высокая,"• Email_general — личный адрес президента (dehghani@sutech.ac.ir), общего ящика на сайте нет; email_international — личный адрес руководителя группы научного и международного сотрудничества
 • Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's: спутников не найдено (лимит веб-поиска исчерпан)
 • Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки","• Https://en.sutech.ac.ir/chancellor/
 • Https://sutech.ac.ir/حوزه-ریاست
@@ -451,7 +453,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List)
 • Https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list)
 • Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv
-• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-04,
+• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-05,
 22,Иран,Тегеран,Tehran University of Medical Sciences,دانشگاه علوم پزشکی تهران,Медицинский,Государственный (Минздрав Ирана),"• Medicine
 • Dentistry
 • Pharmacy
@@ -460,16 +462,17 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Advanced medical technologies","Tehran University of Medical Sciences, No. 21, Dameshgh St., Vali-e Asr Ave., Tehran 1416753955, Iran",tums-intl-relations@tums.ac.ir,"Dr. Marjan Yaghmaie
 Директор Директората международных связей
 Директорат международных связей (Directorate of International Relations)
-Обращение: Dear Dr. Yaghmaie,",tums-intl-relations@tums.ac.ir,Gsia@tums.ac.ir,+98 21 8889 6690,https://tums.ac.ir (EN: https://en.tums.ac.ir),Dr. Seyed Reza Raeeskarami,Chancellor (President),,THE2027: 501–550,,0,,,,,,,6,3,да,средняя,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
+Обращение: Dear Dr. Yaghmaie,",ящик общий,tums-intl-relations@tums.ac.ir,Gsia@tums.ac.ir,+98 21 8889 6690,https://tums.ac.ir,Dr. Seyed Reza Raeeskarami,Chancellor (President),,THE2027: 501–550,,0,,,,,,,6,3,да,средняя,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
 • Медицинский университет (Минздрав) — профиль далёк от космической тематики; для проекта CubeSat релевантны разве что космическая медицина / биология
 • Email_general (Gsia@tums.ac.ir) — общий контакт английского сайта; e-mail международного отдела — tums-intl-relations@tums.ac.ir (Directorate of International Relations, тел. +98 21 8880 0332)
 • Руководитель Директората международных связей Dr. Marjan Yaghmaie указан на странице, обновлённой 12.09.2023 — актуальность на 2026 г. не подтверждена
-• Ректор Dr. Seyed Reza Raeeskarami — страница обновлена 05.01.2026","• Https://en.tums.ac.ir/
+• Ректор Dr. Seyed Reza Raeeskarami — страница обновлена 05.01.2026
+• Дополнительные сайты: https://en.tums.ac.ir","• Https://en.tums.ac.ir/
 • Https://en.tums.ac.ir/en/page/824/message-from-the-chancellor
 • Https://en.tums.ac.ir/en/contactus
 • Https://en.tums.ac.ir/en/content/289/international
 • Https://en.tums.ac.ir/dir/en/content/1152/colleagues
-• Https://en.wikipedia.org/wiki/Tehran_University_of_Medical_Sciences",2026-10-04,
+• Https://en.wikipedia.org/wiki/Tehran_University_of_Medical_Sciences",2026-10-05,
 23,Иран,Тебриз,University of Tabriz,دانشگاه تبریز,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Engineering (incl. aerospace structures, electrical, mechanical, civil)
 • Natural Sciences
 • Agriculture
@@ -478,7 +481,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Social Sciences","University of Tabriz, 29 Bahman Blvd., Tabriz 51666-16471, East Azerbaijan, Iran",international@tabrizu.ac.ir,"Dr. Saeid Shojaei
 Директор по научному и международному сотрудничеству
 Управление международного научного сотрудничества (International Academic Collaborations Directorate)
-Обращение: Dear Dr. Shojaei,",international@tabrizu.ac.ir,mtaalami@tabrizu.ac.ir,+98 41 3339 3635,https://tabrizu.ac.ir,Dr. Mohammadtaghi Aalami,President (Chancellor),QS2027: 686,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• Президент д-р (проф.) Мохаммадтаги Аълами подтверждён новостью сайта университета от 9 мехра 1405 (1 окт. 2026); страница Chancellor содержит его личный e-mail mtaalami@tabrizu.ac.ir (используется как email_general) и телефон приёмной +98 41 3334 1300
+Обращение: Dear Dr. Shojaei,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",international@tabrizu.ac.ir,mtaalami@tabrizu.ac.ir,+98 41 3339 3635,https://tabrizu.ac.ir,Dr. Mohammadtaghi Aalami,President (Chancellor),QS2027: 686,THE2027: 701–800,,0,,,,,,,6,3,да,средняя,"• Президент д-р (проф.) Мохаммадтаги Аълами подтверждён новостью сайта университета от 9 мехра 1405 (1 окт. 2026); страница Chancellor содержит его личный e-mail mtaalami@tabrizu.ac.ir (используется как email_general) и телефон приёмной +98 41 3334 1300
 • Директор по научному и международному сотрудничеству д-р Saeid Shojaei, тел. +98 41 3339 3941, указан на int.tabrizu.ac.ir/en/contact-us по поисковой выдержке (страница отдаёт 503) — проверить; его личный адрес — gmail, поэтому использован офисный international@tabrizu.ac.ir
 • Космических проектов/спутников не найдено (одна быстрая проверка); в санкционных списках ЕС/UK/США университет не найден, но действуют общие санкции против Ирана — нужна комплаенс-проверка","• Https://tabrizu.ac.ir/en
 • Https://tabrizu.ac.ir/en/page/4477/chancellor
@@ -486,7 +489,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://int.tabrizu.ac.ir/en/contact-us/
 • Https://fa.wikipedia.org/wiki/دانشگاه_تبریز
 • Https://en.wikipedia.org/wiki/University_of_Tabriz
-• Https://www.qianmu.org (QS2027 list, secondary)",2026-10-04,
+• Https://www.qianmu.org (QS2027 list, secondary)",2026-10-05,
 24,Иран,Урмия,Urmia University,دانشگاه ارومیه,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Veterinary Medicine
 • Agriculture & Natural Resources
 • Engineering
@@ -495,7 +498,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Artemia & aquaculture research","Urmia University, 11 km Sero Road, Urmia 5756151818 (P.O. Box 165), West Azerbaijan, Iran",info@urmia.ac.ir,"ФИО не найдено
 Директор Управления международных связей
 Канцелярия президента и связи с общественностью (общий ящик)
-Обращение: Dear Director of International Relations,",,info@urmia.ac.ir,+98 44 3275 2741,https://urmia.ac.ir,Dr. Mahmoud Rezazadbari,President (Chancellor),,THE2027: 801–1000,,0,,,,,,,6,3,да,средняя,"• Президент «д-р Резазад» упомянут в новости главной страницы от 4 мехра 1405 (сент. 2026); полное имя Махмуд Резазадбари — по fa.wikipedia (англ. Wikipedia устарела: Ahmad Alijanpour)
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@urmia.ac.ir,+98 44 3275 2741,https://urmia.ac.ir,Dr. Mahmoud Rezazadbari,President (Chancellor),,THE2027: 801–1000,,0,,,,,,,6,3,да,средняя,"• Президент «д-р Резазад» упомянут в новости главной страницы от 4 мехра 1405 (сент. 2026); полное имя Махмуд Резазадбари — по fa.wikipedia (англ. Wikipedia устарела: Ahmad Alijanpour)
 • Отдельный e-mail Управления международных связей не опубликован (только форма); использовать info@urmia.ac.ir; тел./факс международного кампуса +98 44 3345 6505
 • Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана)
 • В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка","• Https://urmia.ac.ir/fa
@@ -503,21 +506,22 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://urmia.ac.ir/en/content/353/international-affairs
 • Https://urmia.ac.ir/en/page/331/office-address-in-pardis-international-campus-of-urmia-university
 • Https://fa.wikipedia.org/wiki/دانشگاه_ارومیه
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 25,Иран,Тегеран,Allameh Tabataba'i University,دانشگاه علامه طباطبائی,Гуманитарный,"Государственный (Минобрнауки Ирана, MSRT)","• Economics
 • Management & accounting
 • Law & political science
 • Psychology & education
 • Communication & social sciences
-• Persian literature & foreign languages","Allameh Tabataba'i University, Central Administration, Dehkadeh-ye Olampik, Varzesh Sq., Tehran 1489684511, Iran",,,,,+98 21 4839 0000,https://atu.ac.ir (EN: https://en.atu.ac.ir),Dr. Shoja Ahmadvand,President,,THE2027: 1401–1600,,0,,,,,,,3,3,,низкая,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
+• Persian literature & foreign languages","Allameh Tabataba'i University, Central Administration, Dehkadeh-ye Olampik, Varzesh Sq., Tehran 1489684511, Iran",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,+98 21 4839 0000,https://atu.ac.ir,Dr. Shoja Ahmadvand,President,,THE2027: 1401–1600,,0,,,,,,,3,3,,низкая,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
 • Официальный сайт недоступен из-за пределов Ирана (таймаут/сброс соединения, в т.ч. через зеркало r.jina.ai); данные взяты из Википедии и uniRank — вторичные источники, требуют перепроверки
 • Президент Shoja Ahmadvand — по англ. и фа-Википедии; дата назначения в источниках не указана, официально не подтверждено
 • Гуманитарный профиль (экономика, право, менеджмент) — для CubeSat-проекта релевантен разве что в части космического права/политики
 • Телефон +98 21 4839 0000 — по uniRank (вторичный источник). E-mail не найдены
 • Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0
-• Перепроверка: 04.10.2026: atu.ac.ir / en.atu.ac.ir по-прежнему недоступны (503 / нет соединения); данные не изменены","• Https://fa.wikipedia.org/wiki/دانشگاه_علامه_طباطبائی
+• Перепроверка: 04.10.2026: atu.ac.ir / en.atu.ac.ir по-прежнему недоступны (503 / нет соединения); данные не изменены
+• Дополнительные сайты: https://en.atu.ac.ir","• Https://fa.wikipedia.org/wiki/دانشگاه_علامه_طباطبائی
 • Https://en.wikipedia.org/wiki/Allameh_Tabataba'i_University
-• Https://www.unirank.org/ir/uni/allameh-tabataba-i-university/",2026-10-04,
+• Https://www.unirank.org/ir/uni/allameh-tabataba-i-university/",2026-10-05,
 26,Иран,Тегеран,Alzahra University,دانشگاه الزهرا (س),Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Basic sciences
 • Engineering
 • Social sciences
@@ -526,7 +530,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Education & psychology","Alzahra University, Deh-e Vanak, North Sheikh Bahaei St., Tehran, Iran (Postal Code 1993893973)",intl.office@alzahra.ac.ir,"Dr. Nadia Mahmoudi Khatir
 Директор Управления международного научного сотрудничества (доцент)
 Управление международного научного сотрудничества
-Обращение: Dear Dr. Mahmoudi Khatir,",intl.office@alzahra.ac.ir,pr@alzahra.ac.ir,+98 21 8804 4040,https://www.alzahra.ac.ir,Dr. Zahra Nazem Bokaei,President,,THE2027: 1601–1800,,0,,,,,,,3,3,да,высокая,"• Женский университет
+Обращение: Dear Dr. Mahmoudi Khatir,",ящик общий,intl.office@alzahra.ac.ir,pr@alzahra.ac.ir,+98 21 8804 4040,https://www.alzahra.ac.ir,Dr. Zahra Nazem Bokaei,President,,THE2027: 1601–1800,,0,,,,,,,3,3,да,высокая,"• Женский университет
 • Email_general — ящик службы по связям с общественностью (на сайте записан как pr[at]alzahra.ac.ir); отдельного ящика канцелярии президента не найдено
 • Управление международного научного сотрудничества: Kharazmi Building, 7th floor, тел. +98 21 8569 2225 / 8805 8925, почтовый индекс 1993891176; директор — д-р Надия Махмуди Хатир (доцент, нанофизика), n.khatir@alzahra.ac.ir
 • Транслитерация имени президента (زهرا ناظم بکائی) — уточнить написание латиницей
@@ -540,7 +544,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List)
 • Https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list)
 • Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv
-• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-04,
+• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-05,
 27,Иран,Арак,Arak University,دانشگاه اراک,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Engineering
 • Basic sciences
 • Agriculture & natural resources
@@ -548,7 +552,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Art & architecture","Arak University, Sardasht (Basij) Square, Arak, Postal Code 38481-77584, Markazi Province, Iran",d-international@araku.ac.ir,"ФИО не найдено
 Директор Офиса научного и международного сотрудничества
 Офис научного и международного сотрудничества (دفتر همکاری‌های علمی بین‌المللی)
-Обращение: Dear Director of International Scientific Cooperation,",d-international@araku.ac.ir,e-dabir@araku.ac.ir,+98 86 3262 1010,https://araku.ac.ir,Dr. Hossein Sadeghi,President,,THE2027: 1601–1800,,0,,,,,,,3,3,да,средняя,"• Президент — «д-р Садеги» (новости на официальном сайте, 2026); полное имя Hossein Sadeghi — по фа-Википедии; учёное звание не подтверждено
+Обращение: Dear Director of International Scientific Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,d-international@araku.ac.ir,e-dabir@araku.ac.ir,+98 86 3262 1010,https://araku.ac.ir,Dr. Hossein Sadeghi,President,,THE2027: 1601–1800,,0,,,,,,,3,3,да,средняя,"• Президент — «д-р Садеги» (новости на официальном сайте, 2026); полное имя Hossein Sadeghi — по фа-Википедии; учёное звание не подтверждено
 • Email_general — адрес электронного секретариата (e-dabir@araku.ac.ir); отдельный e-mail канцелярии ректора не опубликован. Телефон — руководитель аппарата президента (д-р Захра Раджаби), тел. 32621010
 • Офис научного и международного сотрудничества: специалист г-жа Марджани, +98 86 3262 1062, d-international@araku.ac.ir; имя директора офиса на сайте не указано
 • Почтовый индекс на сайте записан как «77584-38481» (RTL); в адресе приведён в порядке 38481-77584 — сверить
@@ -556,12 +560,12 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://araku.ac.ir/web/ic
 • Https://araku.ac.ir/web/ic/contact-us
 • Https://araku.ac.ir/web/pe
-• Https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%A7%D8%B1%D8%A7%DA%A9",2026-10-04,
+• Https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%A7%D8%B1%D8%A7%DA%A9",2026-10-05,
 28,Иран,Тебриз,Azarbaijan Shahid Madani University (ASMU),دانشگاه شهید مدنی آذربایجان,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Basic sciences
 • Engineering
 • Humanities & literature
 • Education & psychology
-• Agriculture","Azarbaijan Shahid Madani University, 35 km of Tabriz–Azarshahr Road, Tabriz, Iran",,,,,,https://azaruniv.ac.ir,,President,,THE2027: 1401–1600,,0,,,,,,,3,3,,низкая,"• Персидский сайт azaruniv.ac.ir недоступен (таймаут); английский сайт устаревший (контакты — только веб-форма, обращение ректора без имени). Руководитель, e-mail и телефон не подтверждены; в Википедии — Мохаммад Багер Мохаммад Садеги Азад (вероятно устарело)
+• Agriculture","Azarbaijan Shahid Madani University, 35 km of Tabriz–Azarshahr Road, Tabriz, Iran",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://azaruniv.ac.ir,,President,,THE2027: 1401–1600,,0,,,,,,,3,3,,низкая,"• Персидский сайт azaruniv.ac.ir недоступен (таймаут); английский сайт устаревший (контакты — только веб-форма, обращение ректора без имени). Руководитель, e-mail и телефон не подтверждены; в Википедии — Мохаммад Багер Мохаммад Садеги Азад (вероятно устарело)
 • Адрес взят из Википедии, официальной страницей не подтверждён. Офис международного сотрудничества: http://en.azaruniv.ac.ir/?PageID=137 (не открылся)
 • Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся)
 • Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки
@@ -574,7 +578,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List)
 • Https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list)
 • Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv
-• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-04,
+• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-05,
 29,Иран,Хамадан,Bu-Ali Sina University,دانشگاه بوعلی سینا,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Engineering
 • Basic sciences
 • Agriculture
@@ -583,7 +587,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Art & architecture","Bu-Ali Sina University, Shahid Mostafa Ahmadi Roshan St., Hamedan, Postal Code 65178-38695, Iran",ico@basu.ac.ir,"Dr. Hossein Torabzadeh Khorasani
 Директор Управления научного и международного сотрудничества
 Управление научного и международного сотрудничества (اداره همکاری‌های علمی و بین‌المللی)
-Обращение: Dear Dr. Torabzadeh Khorasani,",ico@basu.ac.ir,public_relation@basu.ac.ir,+98 81 3140 0000,https://basu.ac.ir,Dr. Gholamhossein Majzoubi,President,,THE2027: 1401–1600,,0,,,,,,,3,3,да,средняя,"• Президент — Dr. Gholamhossein Majzoubi (по новостям сайта президентского офиса, 2026); звание не подтверждено
+Обращение: Dear Dr. Torabzadeh Khorasani,",ящик общий,ico@basu.ac.ir,public_relation@basu.ac.ir,+98 81 3140 0000,https://basu.ac.ir,Dr. Gholamhossein Majzoubi,President,,THE2027: 1401–1600,,0,,,,,,,3,3,да,средняя,"• Президент — Dr. Gholamhossein Majzoubi (по новостям сайта президентского офиса, 2026); звание не подтверждено
 • Email_general — адрес службы связей с общественностью (public_relation@basu.ac.ir), отдельный адрес канцелярии не опубликован
 • Директор офиса научного и международного сотрудничества — д-р Хосейн Тарабзаде Хорасани (доцент/استادیار, геодезия), torabzadeh@basu.ac.ir, тел. +98 81 3140 7300
 • Университет фигурирует в базе Iran Watch (это не санкционный список); в US/EU/UK списках не проверялся детально
@@ -592,7 +596,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://intl.basu.ac.ir/
 • Https://intl.basu.ac.ir/management-intl
 • Https://basu.ac.ir/en
-• Https://www.iranwatch.org/iranian-entities/bu-ali-sina-university",2026-10-04,
+• Https://www.iranwatch.org/iranian-entities/bu-ali-sina-university",2026-10-05,
 30,Иран,Дамган,Damghan University,دانشگاه دامغان,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Earth sciences
 • Mathematics & computer science
 • Physics
@@ -601,15 +605,16 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Engineering","Damghan University, University Square (Daneshjoo St.), Damghan, Semnan Province 36716-45667, Iran",intl@du.ac.ir,"ФИО не найдено
 Директор Управления международных связей
 Управление международных связей (Office of International Affairs)
-Обращение: Dear Director of International Affairs,",intl@du.ac.ir,info@du.ac.ir,+98 23 3117 0000,https://du.ac.ir (EN: https://du.ac.ir/en),Prof. Reza Pourgholi,President,,THE2027: 1801–2000,,0,,,,,,,3,3,да,высокая,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
+Обращение: Dear Director of International Affairs,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,intl@du.ac.ir,info@du.ac.ir,+98 23 3117 0000,https://du.ac.ir,Prof. Reza Pourgholi,President,,THE2027: 1801–2000,,0,,,,,,,3,3,да,высокая,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
 • Президент проф. Реза Пургхоли (pourgholi@du.ac.ir; страница отредактирована 07.07.1404 / сент. 2025). Англ. Википедия (S. Saeedorreza Eslami) устарела
 • Международный отдел: intl@du.ac.ir, тел. +98 23 3117 6666 (обновлено 16.09.2025). Имя директора международного отдела на странице дано только в фото (имя файла «dr-kolahi-azar») — текстом не подтверждено, поэтому addressee не заполнен
 • Почтовый индекс в оригинале записан как 45667-36716 (персидская запись справа налево) — нормализован как 36716-45667; уточнить
-• Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0","• Https://presidency.du.ac.ir/fa/page/336
+• Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0
+• Дополнительные сайты: https://du.ac.ir/en","• Https://presidency.du.ac.ir/fa/page/336
 • Https://du.ac.ir/en/page/227/contact-us
 • Https://du.ac.ir/en/album/112/director-of-international-affairs
 • Https://du.ac.ir/fa
-• Https://en.wikipedia.org/wiki/Damghan_University",2026-10-04,
+• Https://en.wikipedia.org/wiki/Damghan_University",2026-10-05,
 31,Иран,Мешхед,Ferdowsi University of Mashhad,دانشگاه فردوسی مشهد,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Engineering
 • Agriculture & natural resources
 • Veterinary medicine
@@ -619,19 +624,20 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Law & theology","Ferdowsi University of Mashhad, Azadi Square, Mashhad, Khorasan Razavi, Iran, Postal code 9177948974",pr@um.ac.ir,"ФИО не найдено
 Директор Управления международного научного сотрудничества
 Отдел по связям с общественностью (Public Relations Office); письмо просить переслать в Управление международного научного сотрудничества
-Обращение: Dear Director of International Scientific Cooperation,",,pr@um.ac.ir,+98 51 3880 2000,https://www.um.ac.ir (EN: https://en.um.ac.ir),Prof. Abdolreza Javan Jafari Bojnordi,President,QS2027: 1001–1200,THE2027: 1001–1200,,0,,,,,,,3,3,да,средняя,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
+Обращение: Dear Director of International Scientific Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,pr@um.ac.ir,+98 51 3880 2000,https://www.um.ac.ir,Prof. Abdolreza Javan Jafari Bojnordi,President,QS2027: 1001–1200,THE2027: 1001–1200,,0,,,,,,,3,3,да,средняя,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
 • Email_general — адрес отдела по связям с общественностью (pr@um.ac.ir), опубликован на странице президента; адрес Управления международного научного сотрудничества (intr.um.ac.ir) получить не удалось — сайт недоступен
 • Страница президента опубликована в 2021 г., но на 10.2026 по-прежнему указывает проф. Джаван-Джафари Боджнорди; на главной новости 2026 г. упоминают «президента университета» без имени — желательно перепроверить
-• Космическая деятельность (спутники, наземные станции) по доступным источникам не выявлена; углублённая проверка невозможна — web search исчерпан, en.um.ac.ir недоступен","• Https://www.um.ac.ir/
+• Космическая деятельность (спутники, наземные станции) по доступным источникам не выявлена; углублённая проверка невозможна — web search исчерпан, en.um.ac.ir недоступен
+• Дополнительные сайты: https://en.um.ac.ir","• Https://www.um.ac.ir/
 • Https://www.um.ac.ir/%D8%AD%D9%88%D8%B2%D9%87-%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA/%D8%B1%D8%A6%DB%8C%D8%B3-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87.html
 • Https://intr.um.ac.ir/ (International Scientific Cooperation, not reachable)
 • Https://en.wikipedia.org/wiki/Ferdowsi_University_of_Mashhad
-• Https://www.qianmu.org/ranking/1528.htm (QS2027 list, secondary)",2026-10-04,
+• Https://www.qianmu.org/ranking/1528.htm (QS2027 list, secondary)",2026-10-05,
 32,Иран,Горган,Gorgan University of Agricultural Sciences and Natural Resources,دانشگاه علوم کشاورزی و منابع طبیعی گرگان,Аграрный / экологический,"Государственный (Минобрнауки Ирана, MSRT)","• Agriculture (plant production, animal science)
 • Forestry
 • Rangeland & watershed management
 • Fisheries & environmental sciences
-• Food science & technology","Gorgan University of Agricultural Sciences and Natural Resources, Shahid Beheshti St., P.O. Box 386, Gorgan, Golestan Province, Iran",,,,,,https://www.gau.ac.ir,Dr. Abolghasem Khazaeian,President,,THE2027: 1001–1200,,0,,,,,,,3,3,,низкая,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
+• Food science & technology","Gorgan University of Agricultural Sciences and Natural Resources, Shahid Beheshti St., P.O. Box 386, Gorgan, Golestan Province, Iran",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://www.gau.ac.ir,Dr. Abolghasem Khazaeian,President,,THE2027: 1001–1200,,0,,,,,,,3,3,,низкая,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
 • Официальный сайт недоступен из-за пределов Ирана (таймаут/сброс соединения, в т.ч. через зеркало r.jina.ai); данные взяты из Википедии и uniRank — вторичные источники, требуют перепроверки
 • Президент Dr. Abolghasem Khazaeian — по фа-Википедии (с 30.11.1403, февраль 2025); англ. Википедия (Dr. Shaban Shataee Jouybari) устарела. Официально не подтверждено
 • Телефон в uniRank/Википедии в старом формате (0171-222 0028 / 0171-2220320) — номер в новом 8-значном формате не подтверждён, поэтому поле phone пустое. E-mail не найдены
@@ -639,7 +645,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0
 • Перепроверка: Сайт gau.ac.ir недоступен (503 / сброс соединения) — данные не изменены (04.10.2026)","• Https://fa.wikipedia.org/wiki/دانشگاه_علوم_کشاورزی_و_منابع_طبیعی_گرگان
 • Https://en.wikipedia.org/wiki/Gorgan_University
-• Https://www.unirank.org/ir/uni/gorgan-university-of-agricultural-sciences-and-natural-resources/",2026-10-04,
+• Https://www.unirank.org/ir/uni/gorgan-university-of-agricultural-sciences-and-natural-resources/",2026-10-05,
 33,Иран,Сабзевар,Hakim Sabzevari University,دانشگاه حکیم سبزواری,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Humanities (Persian literature, theology)
 • Engineering
 • Natural Sciences
@@ -647,20 +653,20 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Mathematics","Hakim Sabzevari University Campus, Tohid Shahr, Sabzevar 9617976487 (P.O. Box 397), Khorasan Razavi, Iran",hakim@hsu.ac.ir,"ФИО не найдено
 Директор Управления научного и международного сотрудничества
 Канцелярия президента (общий ящик)
-Обращение: Dear Director of Scientific and International Cooperation,",,hakim@hsu.ac.ir,+98 51 4441 0104,https://www.hsu.ac.ir,Dr. Ali Tasnimi,President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,средняя,"• Президент д-р Али Тасними (доцент, персидская литература) — по странице «Президент университета» официального сайта; англ. Wikipedia устарела
+Обращение: Dear Director of Scientific and International Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,hakim@hsu.ac.ir,+98 51 4441 0104,https://www.hsu.ac.ir,Dr. Ali Tasnimi,President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,средняя,"• Президент д-р Али Тасними (доцент, персидская литература) — по странице «Президент университета» официального сайта; англ. Wikipedia устарела
 • Есть Управление научного и международного сотрудничества и иностранных студентов (hsu.ac.ir/ir), но e-mail/руководитель на странице не указаны; использован общий ящик hakim@hsu.ac.ir (канцелярия президента), факс +98 51 4441 0300
 • Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана)
 • В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка","• Https://www.hsu.ac.ir
 • Http://www.hsu.ac.ir/ریاست-دانشگاه/
 • Https://www.hsu.ac.ir/ir/
 • Https://fa.wikipedia.org/wiki/دانشگاه_حکیم_سبزواری
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 34,Иран,Илам,Ilam University,دانشگاه ایلام,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Agriculture
 • Engineering
 • Basic Sciences
 • Veterinary Medicine
 • Humanities
-• Entrepreneurship and Rural Development","Ilam University, Pazhoohesh Blvd., Ilam, Iran",,,,,,https://ilam.ac.ir/en/,Dr. Homayoun Moradnezhadi,President,,THE2027: 1401–1600,,0,,,,,,,3,3,,низкая,"• Президент: д-р Хомаюн Морадне́жади (доцент, предпринимательство и сельское развитие) — назначен 19 эсфанда 1403 (март 2025), упоминается как президент и в новостях 1404–1405
+• Entrepreneurship and Rural Development","Ilam University, Pazhoohesh Blvd., Ilam, Iran",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://ilam.ac.ir/en,Dr. Homayoun Moradnezhadi,President,,THE2027: 1401–1600,,0,,,,,,,3,3,,низкая,"• Президент: д-р Хомаюн Морадне́жади (доцент, предпринимательство и сельское развитие) — назначен 19 эсфанда 1403 (март 2025), упоминается как президент и в новостях 1404–1405
 • E-mail и телефон центральной канцелярии/международного отдела не найдены (найден только ящик центра APA cert@ilam.ac.ir — не подходит). Не путать с Ilam University of Medical Sciences (medilam.ac.ir)
 • Быстрая проверка спутников: не найдено
 • Иран под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка
@@ -670,13 +676,13 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://fa.wikipedia.org/wiki/دانشگاه_ایلام
 • Https://www.kurdpress.com/news/2782100/
 • Https://snn.ir/fa/news/1402853/
-• Https://cert.ilam.ac.ir/en/contact-us/",2026-10-04,
+• Https://cert.ilam.ac.ir/en/contact-us/",2026-10-05,
 35,Иран,Казвин,Imam Khomeini International University,دانشگاه بین‌المللی امام خمینی,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Engineering & technology
 • Basic sciences
 • Literature & humanities (incl. Persian language for foreigners)
 • Islamic studies
 • Social sciences
-• Architecture & urban development","Imam Khomeini International University, Imam Khomeini International University Blvd., Qazvin 34149-16818, Iran",,,,,,https://www.ikiu.ac.ir,Dr. Hamid Taheri,President,,THE2027: 1201–1400,,0,,,,,,,3,3,,низкая,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
+• Architecture & urban development","Imam Khomeini International University, Imam Khomeini International University Blvd., Qazvin 34149-16818, Iran",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://www.ikiu.ac.ir,Dr. Hamid Taheri,President,,THE2027: 1201–1400,,0,,,,,,,3,3,,низкая,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
 • Официальный сайт недоступен из-за пределов Ирана (таймаут/сброс соединения, повторно 04.10.2026); адрес — из вторичных источников (Википедия, uniRank)
 • Президент Dr. Hamid Taheri (д-р персидской литературы): и.о. с 30.04.2025, утверждён Высшим советом культурной революции 03.08.2025; действующий по официальному Telegram-каналу @ikiu_ac (посты 20–27.09.2026)
 • Телефон uniRank в старом формате ((281) 378 0021) — не используется. Общий/международный e-mail не найден (в Telegram-канале только адреса фестивалей: festival.intl@pst.ikiu.ac.ir)
@@ -684,7 +690,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Перепроверка: Президент д-р Хамид Тахери подтверждён официальным Telegram-каналом IKIU (сентябрь 2026; утверждён ВСКР 03.08.2025); сайт по-прежнему недоступен — e-mail и телефон не найдены","• Https://fa.wikipedia.org/wiki/دانشگاه_بین‌المللی_امام_خمینی
 • Https://en.wikipedia.org/wiki/Imam_Khomeini_International_University
 • Https://www.unirank.org/ir/uni/imam-khomeini-international-university/
-• Https://t.me/s/ikiu_ac",2026-10-04,
+• Https://t.me/s/ikiu_ac",2026-10-05,
 36,Иран,Занджан,Institute for Advanced Studies in Basic Sciences (IASBS),دانشگاه تحصیلات تکمیلی علوم پایه زنجان,НИИ / научный центр,"Государственный (Минобрнауки Ирана, MSRT)","• Physics
 • Chemistry
 • Mathematics
@@ -693,7 +699,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Earth Sciences","Institute for Advanced Studies in Basic Sciences (IASBS), 444 Prof. Yousef Sobouti Blvd., Zanjan 45137-66731, Iran",international@iasbs.ac.ir,"Dr. Mohsen Hooshmand
 Директор Управления научного и международного сотрудничества (OSIC)
 Управление научного и международного сотрудничества (OSIC)
-Обращение: Dear Dr. Hooshmand,",international@iasbs.ac.ir,publicrelations@iasbs.ac.ir,+98 24 3315 1000,https://iasbs.ac.ir,Prof. Sadollah Nasiri Gheydari,President,,THE2027: 1401–1600,,0,,,,,,,3,3,да,средняя,"• Президент проф. Саадолла Насири Гейдари — по новости главной страницы iasbs.ac.ir (2025–2026)
+Обращение: Dear Dr. Hooshmand,",ящик общий,international@iasbs.ac.ir,publicrelations@iasbs.ac.ir,+98 24 3315 1000,https://iasbs.ac.ir,Prof. Sadollah Nasiri Gheydari,President,,THE2027: 1401–1600,,0,,,,,,,3,3,да,средняя,"• Президент проф. Саадолла Насири Гейдари — по новости главной страницы iasbs.ac.ir (2025–2026)
 • Международный офис — Office for Scientific and International Collaboration (OSIC), директор д-р Мохсен Хушманд (кафедра наук о Земле), тел. +98 24 3315 3898
 • Email_general — ящик службы по связям с общественностью (publicrelations@iasbs.ac.ir); отдельный ящик канцелярии президента не найден
 • Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана)
@@ -701,21 +707,22 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://iasbs.ac.ir/about-IASBS
 • Https://iasbs.ac.ir/sections/international/
 • Https://en.wikipedia.org/wiki/Institute_for_Advanced_Studies_in_Basic_Sciences
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 37,Иран,Тегеран,Islamic Azad University,دانشگاه آزاد اسلامی,Классический,Частный / Исламский Азад университет,"• Medicine & health sciences
 • Engineering
 • Basic sciences
 • Humanities & social sciences
 • Agriculture
-• Art & architecture",,,,,,,https://iau.ir (also www.iau.ac.ir); International: https://intl.iau.ir,Dr. Bijan Ranjbar,President,QS2027: 1401+,THE2027: 1401–1600,,0,,,,,,,3,3,,низкая,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
+• Art & architecture",,,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://iau.ir,Dr. Bijan Ranjbar,President,QS2027: 1401+,THE2027: 1401–1600,,0,,,,,,,3,3,,низкая,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
 • Сеть из десятков филиалов по всему Ирану (и за рубежом) с центральной организацией в Тегеране; адрес центрального аппарата, телефоны и e-mail получить не удалось — сайты iau.ir / iau.ac.ir / intl.iau.ir недоступны (ошибка HTTP/3)
 • Президент Bijan Ranjbar избран Советом попечителей 06.10.2025 (агентство ANA)
 • Для приглашения, вероятно, разумнее адресоваться к конкретному филиалу с инженерным/аэрокосмическим профилем (например, Science and Research Branch, Тегеран) — не проверено
 • Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0
-• Перепроверка: Сайты iau.ir / iau.ac.ir по-прежнему недоступны (04.10.2026, сброс соединения); сайт MSRT также недоступен; данные не изменены","• Https://ana.ir/fa/news/1002382/
+• Перепроверка: Сайты iau.ir / iau.ac.ir по-прежнему недоступны (04.10.2026, сброс соединения); сайт MSRT также недоступен; данные не изменены
+• Дополнительные сайты: https://intl.iau.ir","• Https://ana.ir/fa/news/1002382/
 • Https://en.wikipedia.org/wiki/Islamic_Azad_University
 • Https://fa.wikipedia.org/wiki/دانشگاه_آزاد_اسلامی
-• Https://www.qianmu.org/ranking/1528.htm (QS2027 list, secondary)",2026-10-04,
+• Https://www.qianmu.org/ranking/1528.htm (QS2027 list, secondary)",2026-10-05,
 38,Иран,Тегеран,Kharazmi University,دانشگاه خوارزمی,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Mathematics & basic sciences
 • Engineering
 • Education & psychology
@@ -724,7 +731,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Physical education & sport sciences","Kharazmi University, No. 43, South Mofatteh Ave., Tehran 15719-14911, Iran (Karaj campus: University Sq., Shahid Beheshti St., Karaj)",info@khu.ac.ir,"Dr. Ali Tahaei
 И.о. руководителя Центра международных связей
 Общий ящик университета (info@khu.ac.ir); адресат — Центр международных связей
-Обращение: Dear Dr. Tahaei,",,info@khu.ac.ir,+98 21 8832 9220,https://khu.ac.ir,Dr. Bijan Abdollahi,President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,средняя,"• Отдельного e-mail Центра международных связей на сайте нет (используется info@khu.ac.ir). Личный адрес руководителя показан в обфусцированном виде «ali.tahaeikhu.ac.ir» — вероятно ali.tahaei@khu.ac.ir (не подтверждено, в поле не внесён)
+Обращение: Dear Dr. Tahaei,",ящик общий,,info@khu.ac.ir,+98 21 8832 9220,https://khu.ac.ir,Dr. Bijan Abdollahi,President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,средняя,"• Отдельного e-mail Центра международных связей на сайте нет (используется info@khu.ac.ir). Личный адрес руководителя показан в обфусцированном виде «ali.tahaeikhu.ac.ir» — вероятно ali.tahaei@khu.ac.ir (не подтверждено, в поле не внесён)
 • Д-р Али Тахаи — «سرپرست» (и.о. руководителя) Центра международных связей, доктор материаловедения; в новостях 2026 г. фигурирует как директор центра
 • Бывший Tarbiat Moallem University (переименован в Kharazmi University)
 • Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся)
@@ -737,7 +744,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List)
 • Https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list)
 • Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv
-• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-04,
+• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-05,
 39,Иран,Хорремабад,Lorestan University,دانشگاه لرستان,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Basic sciences
 • Engineering
 • Agriculture & natural resources
@@ -746,7 +753,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Management & economics","Central Organization of Lorestan University, 5th km of Tehran Road, Khorramabad, Lorestan, Iran (Postal Code 68151-44316; P.O. Box 465)",Chancellor@lu.ac.ir,"ФИО не найдено
 Руководитель Группы международного научного сотрудничества
 Канцелярия президента (Office of the President)
-Обращение: Dear Director of International Scientific Cooperation,",,Chancellor@lu.ac.ir,+98 66 3321 0001,https://www.lu.ac.ir,Prof. Mehrdad Dadsetani,President,,THE2027: 1401–1600,,0,,,,,,,3,3,да,средняя,"• Президент — проф. Мехрдад Дадсетани (профессор физики конденсированного состояния), личный e-mail dadsetani.m@lu.ac.ir; страница обновлена 25.02.2026
+Обращение: Dear Director of International Scientific Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,Chancellor@lu.ac.ir,+98 66 3321 0001,https://www.lu.ac.ir,Prof. Mehrdad Dadsetani,President,,THE2027: 1401–1600,,0,,,,,,,3,3,да,средняя,"• Президент — проф. Мехрдад Дадсетани (профессор физики конденсированного состояния), личный e-mail dadsetani.m@lu.ac.ir; страница обновлена 25.02.2026
 • Отдельного e-mail Группы международного научного сотрудничества не найдено; используется ящик канцелярии президента (Chancellor@lu.ac.ir, также LUChancellor@lu.ac.ir). Руководитель группы не указан на открытых страницах
 • Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся)
 • Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки","• Https://www.lu.ac.ir/en/
@@ -759,8 +766,8 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List)
 • Https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list)
 • Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv
-• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-04,
-40,Иран,Тегеран,Payame Noor University,دانشگاه پیام نور,Другое,"Государственный (Минобрнауки Ирана, MSRT)",,,,,,,,https://pnu.ac.ir,,President,,THE2027: 2001+,,0,,,,,,,3,3,,низкая,"• Официальный сайт недоступен из нашей сети (таймаут/503 через прокси и reader), квота веб-поиска исчерпана — контакты и руководитель не проверены; заполнить вручную
+• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-05,
+40,Иран,Тегеран,Payame Noor University,دانشگاه پیام نور,Другое,"Государственный (Минобрнауки Ирана, MSRT)",,,,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://pnu.ac.ir,,President,,THE2027: 2001+,,0,,,,,,,3,3,,низкая,"• Официальный сайт недоступен из нашей сети (таймаут/503 через прокси и reader), квота веб-поиска исчерпана — контакты и руководитель не проверены; заполнить вручную
 • Открытый (дистанционный) государственный университет с сетью центров по всей стране; штаб-квартира в Тегеране (по Wikipedia)
 • По Wikipedia президент — Мохаммад Хади Амин Наджи; актуальность не подтверждена
 • Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана)
@@ -768,7 +775,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Повторный поиск (10.2026) даёт противоречивые сведения о руководителе (Амин Наджи / Али Пулади Ришехри) — поле руководителя оставлено пустым
 • Перепроверка: 04.10.2026: pnu.ac.ir недоступен (сброс соединения); руководитель не подтверждён — данные не изменены","• Https://en.wikipedia.org/wiki/Payame_Noor_University
 • Https://fa.wikipedia.org/wiki/دانشگاه_پیام_نور
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 41,Иран,Бушер,Persian Gulf University,دانشگاه خلیج فارس,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Petroleum
 • Gas & petrochemical engineering
 • Marine science
@@ -777,14 +784,14 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Nano & bio sciences","Persian Gulf University, Persian Gulf St., Bushehr, Postal Code 7516913817, Iran",intl.office@pgu.ac.ir,"Arash Khosravi
 Директор Управления международных дел и глава консульской службы для иностранных студентов
 Управление международных дел и иностранных студентов (مدیریت امور بین‌الملل و دانشجویان غیرایرانی)
-Обращение: Dear Mr. Khosravi,",intl.office@pgu.ac.ir,,+98 77 3122 2730,https://pgu.ac.ir,Dr. Ahmad Shirzadi,President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,средняя,"• Президент — Dr. Ahmad Shirzadi (подпись под обращением президента, сентябрь 2026); учёное звание не подтверждено
+Обращение: Dear Mr. Khosravi,",ящик общий,intl.office@pgu.ac.ir,,+98 77 3122 2730,https://pgu.ac.ir,Dr. Ahmad Shirzadi,President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,средняя,"• Президент — Dr. Ahmad Shirzadi (подпись под обращением президента, сентябрь 2026); учёное звание не подтверждено
 • Телефон — канцелярия президента (دفتر رئیس دانشگاه). Общий e-mail не опубликован
 • Intl.office@pgu.ac.ir на сайте помечен как адрес для подтверждения документов; лично директору: arash.khosravi@pgu.ac.ir (на сайте в виде «[at]»), тел. +98 77 3122 2581
 • Спутников не найдено (быстрая проверка)","• Https://pgu.ac.ir/en/node
 • Https://pgu.ac.ir/fa/contact
 • Https://intl.pgu.ac.ir/contact
 • Https://intl.pgu.ac.ir/staff
-• Https://pgu.ac.ir/fa/staff/6677727",2026-10-04,
+• Https://pgu.ac.ir/fa/staff/6677727",2026-10-05,
 42,Иран,Керманшах,Razi University,دانشگاه رازی,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Engineering
 • Basic sciences
 • Agriculture & natural resources
@@ -793,18 +800,18 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Physical education","Razi University, University St., Taq-e Bostan, Kermanshah, Postal Code 6714414971, Iran",international@razi.ac.ir,"Dr. Shahab Moradkhani
 Директор по международному научному сотрудничеству и делам иностранных студентов (доцент)
 Управление международного научного сотрудничества и иностранных студентов
-Обращение: Dear Dr. Moradkhani,",international@razi.ac.ir,info@razi.ac.ir,+98 83 3427 4501,https://razi.ac.ir,Dr. Jamal Fathollahi,President,,THE2027: 1401–1600,,0,,,,,,,3,3,да,высокая,"• Президент — д-р Джамаль Фатхоллахи (в должности с дек. 2024/دی ۱۴۰۳), e-mail: J.fathollahi@razi.ac.ir, тел. +98 83 3427 4501-2
+Обращение: Dear Dr. Moradkhani,",ящик общий,international@razi.ac.ir,info@razi.ac.ir,+98 83 3427 4501,https://razi.ac.ir,Dr. Jamal Fathollahi,President,,THE2027: 1401–1600,,0,,,,,,,3,3,да,высокая,"• Президент — д-р Джамаль Фатхоллахи (в должности с дек. 2024/دی ۱۴۰۳), e-mail: J.fathollahi@razi.ac.ir, тел. +98 83 3427 4501-2
 • Директор по международному научному сотрудничеству — Dr. Shahab Moradkhani (доцент, ELT), s.moradkhani@razi.ac.ir, тел. +98 83 3427 6167
 • Спутников не найдено (быстрая проверка). Университет есть на сайте QS (topuniversities), конкретный ранг QS2027 не проверялся","• Https://razi.ac.ir/
 • Https://razi.ac.ir/chanceller
 • Https://int.razi.ac.ir/
-• Https://int.razi.ac.ir/%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D8%AF%D9%81%D8%AA%D8%B1",2026-10-04,
+• Https://int.razi.ac.ir/%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D8%AF%D9%81%D8%AA%D8%B1",2026-10-05,
 43,Иран,Тебриз,Sahand University of Technology,دانشگاه صنعتی سهند,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)","• Chemical and Petroleum Engineering
 • Mining Engineering
 • Materials Engineering
 • Mechanical Engineering
 • Electrical Engineering
-• Polymer Engineering","Sahand University of Technology, New Sahand Town, P.O. Box 51335-1996, Tabriz, East Azerbaijan, Iran",,,,,+98 41 3345 8233,https://sut.ac.ir/en,Dr. Esmaeil Fatehifar,President,,THE2027: 1201–1400,,0,,,,,,,3,3,,низкая,"• Англоязычный сайт и en/fa Wikipedia теперь используют название «Tabriz University of Technology» (дан. صنعتی تبریز); персидский сайт — «دانشگاه صنعتی سهند». В письме указать оба названия
+• Polymer Engineering","Sahand University of Technology, New Sahand Town, P.O. Box 51335-1996, Tabriz, East Azerbaijan, Iran",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,+98 41 3345 8233,https://sut.ac.ir/en,Dr. Esmaeil Fatehifar,President,,THE2027: 1201–1400,,0,,,,,,,3,3,,низкая,"• Англоязычный сайт и en/fa Wikipedia теперь используют название «Tabriz University of Technology» (дан. صنعتی تبریز); персидский сайт — «دانشگاه صنعتی سهند». В письме указать оба названия
 • Президент: д-р Эсмаил Фатехифар — «переназначен на 4 года» (Mehr/ANA, новости «رئیس دانشگاه صنعتی سهند ابقا شد»); fa Wikipedia в карточке указывает А. Мостафа Гарабаги (вероятно, устаревшие данные) — перепроверить
 • Международный e-mail не найден; в сниппете только webmaster[at]sut.ac.ir — не использован. Нужен ручной поиск ящика международного отдела
 • Быстрая проверка спутников: не найдено
@@ -816,14 +823,14 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://sut.ac.ir/en
 • Https://sut.ac.ir/en/page/378/about-sut
 • Https://www.mehrnews.com/news/6945922/
-• Https://ana.ir/fa/news/1082407/",2026-10-04,
+• Https://ana.ir/fa/news/1082407/",2026-10-05,
 44,Иран,Сари,Sari Agricultural Sciences and Natural Resources University (SANRU),دانشگاه علوم کشاورزی و منابع طبیعی ساری,Аграрный / экологический,"Государственный (Минобрнауки Ирана, MSRT)","• Crop sciences
 • Agricultural engineering
 • Animal science & fisheries
 • Natural resources (forestry, rangeland, watershed)","Sari Agricultural Sciences and Natural Resources University, 9th km of Farah Abad Road, Sari, Mazandaran, Iran (Postal Code 48181-66996; P.O. Box 578)",isco@sanru.ac.ir,"Dr. Sajad Kiani
 Директор Управления международного научного сотрудничества
 Управление международного научного сотрудничества (ISCO)
-Обращение: Dear Dr. Kiani,",isco@sanru.ac.ir,info@sanru.ac.ir,+98 11 3368 7574,https://sanru.ac.ir,Dr. Mojtaba Khoshravesh Miangoleh,President,,THE2027: 1801–2000,,0,,,,,,,3,3,да,высокая,"• Директор ISCO д-р Саджад Киани указывает личный адрес kiani.sajad@gmail.com; официальный ящик офиса — isco@sanru.ac.ir (тел./факс +98 11 3368 7548)
+Обращение: Dear Dr. Kiani,",ящик общий,isco@sanru.ac.ir,info@sanru.ac.ir,+98 11 3368 7574,https://sanru.ac.ir,Dr. Mojtaba Khoshravesh Miangoleh,President,,THE2027: 1801–2000,,0,,,,,,,3,3,да,высокая,"• Директор ISCO д-р Саджад Киани указывает личный адрес kiani.sajad@gmail.com; официальный ящик офиса — isco@sanru.ac.ir (тел./факс +98 11 3368 7548)
 • Учёное звание президента на странице не указано однозначно — «Dr.»
 • Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся)
 • Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки","• Https://en.sanru.ac.ir/
@@ -836,14 +843,14 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List)
 • Https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list)
 • Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv
-• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-04,
+• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-05,
 45,Иран,Семнан,Semnan University,دانشگاه سمنان,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Engineering
 • Natural sciences
 • Humanities & social sciences
 • Art & architecture","Central Organization of Semnan University, Campus No. 1, opposite Sokan Park, Semnan, Iran (Postal Code 35131-19111)",Intr.Office@semnan.ac.ir,"Dr. Mohammad Najjarzadeh
 Директор Управления научного и международного сотрудничества
 Управление научного и международного сотрудничества
-Обращение: Dear Dr. Najjarzadeh,",Intr.Office@semnan.ac.ir,president@semnan.ac.ir,+98 23 3153 0000,https://semnan.ac.ir,Dr. Masoud Nasiri Zarandi,President,,THE2027: 1001–1200,,0,,,,,,,3,3,да,высокая,"• Адреса на сайте записаны в обфусцированном виде («[at]», «{@}») — восстановлены как president@semnan.ac.ir и Intr.Office@semnan.ac.ir
+Обращение: Dear Dr. Najjarzadeh,",ящик общий,Intr.Office@semnan.ac.ir,president@semnan.ac.ir,+98 23 3153 0000,https://semnan.ac.ir,Dr. Masoud Nasiri Zarandi,President,,THE2027: 1001–1200,,0,,,,,,,3,3,да,высокая,"• Адреса на сайте записаны в обфусцированном виде («[at]», «{@}») — восстановлены как president@semnan.ac.ir и Intr.Office@semnan.ac.ir
 • Учёное звание президента (PhD, химическая инженерия — нефть) на странице не указано, поэтому «Dr.»; в Википедии указан прежний президент (Сейфолла Саадеддин) — устарело
 • Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся)
 • Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки","• Https://semnan.ac.ir/
@@ -854,7 +861,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List)
 • Https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list)
 • Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv
-• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-04,
+• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-05,
 46,Иран,Тегеран,Shahed University,دانشگاه شاهد,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Medicine
 • Engineering
 • Basic sciences
@@ -863,13 +870,13 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Art","Shahed University, Persian Gulf Highway (beginning of Tehran–Qom Freeway), opposite Imam Khomeini Shrine, Tehran, Postal Code 3319118651, P.O. Box 18735-136, Iran",international@shahed.ac.ir,"Dr. Babak Seif
 Директор Управления международного научного сотрудничества
 Управление международного научного сотрудничества (مدیریت همکاری‌های علمی بین‌المللی)
-Обращение: Dear Dr. Seif,",international@shahed.ac.ir,info@shahed.ac.ir,+98 21 5121 0000,https://shahed.ac.ir,Dr. Hamidreza Bakhshi,President,,THE2027: 1801–2000,,0,,,,,,,3,3,да,средняя,"• Президент — д-р Хамидреза Бахши, e-mail bakhshi@shahed.ac.ir; звание не подтверждено
+Обращение: Dear Dr. Seif,",ящик общий,international@shahed.ac.ir,info@shahed.ac.ir,+98 21 5121 0000,https://shahed.ac.ir,Dr. Hamidreza Bakhshi,President,,THE2027: 1801–2000,,0,,,,,,,3,3,да,средняя,"• Президент — д-р Хамидреза Бахши, e-mail bakhshi@shahed.ac.ir; звание не подтверждено
 • Университет принимает студентов как по линии Минобрнауки, так и Минздрава (есть медицинский факультет); исторически связан с Фондом мучеников (Bonyad Shahid) — форма собственности указана упрощённо, проверить
 • Не путать с Shahed Aviation Industries (производитель БПЛА «Shahed», под санкциями ЕС/США) — к университету не относится; сам университет в санкционных списках при быстрой проверке не найден
 • Спутников не найдено (быстрая проверка)","• Https://shahed.ac.ir/
 • Https://shahed.ac.ir/the-university-president-office/related-people/reis_daneshgah/
 • Https://shahed.ac.ir/organigram/%d9%85%d8%af%db%8c%d8%b1%db%8c%d8%aa-%d9%87%d9%85%da%a9%d8%a7%d8%b1%db%8c-%d9%87%d8%a7%db%8c-%d8%b9%d9%84%d9%85%db%8c-%d8%a8%db%8c%d9%86-%d8%a7%d9%84%d9%85%d9%84%d9%84%db%8c/
-• Https://en.shahed.ac.ir/",2026-10-04,
+• Https://en.shahed.ac.ir/",2026-10-05,
 47,Иран,Керман,Shahid Bahonar University of Kerman,دانشگاه شهید باهنر کرمان,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Engineering
 • Basic sciences
 • Agriculture
@@ -878,12 +885,12 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Humanities","Shahid Bahonar University of Kerman, Pajoohesh Square, Imam Khomeini Highway, Kerman, Postal Code 7616913439, Iran",chancellor@uk.ac.ir,"Prof. Hossein Nezamabadi-pour
 Президент университета
 Канцелярия президента университета
-Обращение: Dear Prof. Nezamabadi-pour,",,chancellor@uk.ac.ir,+98 34 3325 7141,https://uk.ac.ir,Prof. Hossein Nezamabadi-pour,President,,THE2027: 1001–1200,,0,,,,,,,3,3,да,средняя,"• Президент — Hossein Nezamabadi-pour (на сайте «دکتر»; звание профессора по общеизвестным данным, официальная страница его не указывает). Личный e-mail президента: nezam@uk.ac.ir
+Обращение: Dear Prof. Nezamabadi-pour,","ПРОВЕРИТЬ: Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика",,chancellor@uk.ac.ir,+98 34 3325 7141,https://uk.ac.ir,Prof. Hossein Nezamabadi-pour,President,,THE2027: 1001–1200,,0,,,,,,,3,3,да,средняя,"• Президент — Hossein Nezamabadi-pour (на сайте «دکتر»; звание профессора по общеизвестным данным, официальная страница его не указывает). Личный e-mail президента: nezam@uk.ac.ir
 • Сайт международного управления (intrelations.uk.ac.ir) недоступен — e-mail и директор международного офиса не установлены; письмо направлять на chancellor@uk.ac.ir
 • Факс: +98 34 3325 7165
 • Спутников не найдено (одна быстрая проверка); есть публикации сотрудников по связи для LEO/CubeSat (Majlesi J., 2016)","• Https://uk.ac.ir/
 • Https://uk.ac.ir/chairman
-• Https://en.wikipedia.org/wiki/Shahid_Bahonar_University_of_Kerman",2026-10-04,
+• Https://en.wikipedia.org/wiki/Shahid_Bahonar_University_of_Kerman",2026-10-05,
 48,Иран,Шахрекорд,Shahrekord University,دانشگاه شهرکرد,Аграрный / экологический,"Государственный (Минобрнауки Ирана, MSRT)","• Agriculture
 • Veterinary Medicine
 • Natural Resources
@@ -891,7 +898,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Basic Sciences
 • Humanities","Shahrekord University, Rahbar Blvd., Shahrekord 64165478, Chaharmahal and Bakhtiari Province, Iran",info@sku.ac.ir,"ФИО не найдено
 Общая канцелярия университета
-Обращение: Dear Director of International Scientific Cooperation,",,info@sku.ac.ir,+98 38 3232 4401,https://www.sku.ac.ir/en/,Dr. Saeed Karimi Dehkordi,President,,THE2027: 1401–1600,,0,,,,,,,3,3,да,низкая,"• Президент: д-р Саид Карими Дехкорди — по fa Wikipedia (en Wikipedia указывает предыдущего, Ясер Пирали); дата назначения не подтверждена
+Обращение: Dear Director of International Scientific Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@sku.ac.ir,+98 38 3232 4401,https://www.sku.ac.ir/en,Dr. Saeed Karimi Dehkordi,President,,THE2027: 1401–1600,,0,,,,,,,3,3,да,низкая,"• Президент: д-р Саид Карими Дехкорди — по fa Wikipedia (en Wikipedia указывает предыдущего, Ясер Пирали); дата назначения не подтверждена
 • Отдельный международный ящик не найден; info@sku.ac.ir — общий ящик со страницы Contact Us. Не путать с Shahrekord University of Medical Sciences (skums.ac.ir)
 • Быстрая проверка спутников: не найдено
 • Иран под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка
@@ -900,21 +907,22 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Перепроверка: Сайт sku.ac.ir (http/https, en.) недоступен (503 / сброс соединения) — данные не изменены (04.10.2026)","• Https://en.wikipedia.org/wiki/Shahrekord_University
 • Https://fa.wikipedia.org/wiki/دانشگاه_شهرکرد
 • Https://www.sku.ac.ir/en/ContactUs.aspx
-• Https://www.sku.ac.ir/Vice-President/admin",2026-10-04,
+• Https://www.sku.ac.ir/Vice-President/admin",2026-10-05,
 49,Иран,Бирджанд,University of Birjand,دانشگاه بیرجند,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Engineering
 • Agriculture
 • Natural resources & environment
 • Basic sciences
-• Humanities & social sciences","University of Birjand, Central Administration, Shokatabad Campus, End of University Blvd., Birjand, South Khorasan, Iran, Postal code 9717434765, P.O. Box 97175/615",,,,,+98 56 3102 0000,https://birjand.ac.ir (EN: https://en.birjand.ac.ir),Dr. Ahmad Khamesan,Acting President (Сарпараст),,THE2027: 2001+,,0,,,,,,,3,3,,средняя,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
+• Humanities & social sciences","University of Birjand, Central Administration, Shokatabad Campus, End of University Blvd., Birjand, South Khorasan, Iran, Postal code 9717434765, P.O. Box 97175/615",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,+98 56 3102 0000,https://birjand.ac.ir,Dr. Ahmad Khamesan,Acting President (Сарпараст),,THE2027: 2001+,,0,,,,,,,3,3,,средняя,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
 • Dr. Ahmad Khamesan — «сарпараст» (исполняющий обязанности президента) по новости офиса международного сотрудничества (2026 г.)
 • E-mail на сайте выводится картинкой (защита от спама) — адреса извлечь не удалось. Тел. Управления международного научного сотрудничества: +98 56 3102 1040 (факс +98 56 3220 2009)
 • Имя директора Управления международного научного сотрудничества на доступных страницах не указано
-• Быстрая проверка спутников: web search исчерпан; в nanosats.csv и Википедии (ISA) университет не упоминается — 0","• Https://birjand.ac.ir/isc/fa
+• Быстрая проверка спутников: web search исчерпан; в nanosats.csv и Википедии (ISA) университет не упоминается — 0
+• Дополнительные сайты: https://en.birjand.ac.ir","• Https://birjand.ac.ir/isc/fa
 • Https://birjand.ac.ir/isc/fa/news/34286/
 • Https://en.birjand.ac.ir/fa/contactus
 • Https://birjand.ac.ir/chief/fa
-• Https://en.wikipedia.org/wiki/University_of_Birjand",2026-10-04,
-50,Иран,Решт,University of Guilan,دانشگاه گیلان,Классический,"Государственный (Минобрнауки Ирана, MSRT)",,,,,,,,https://guilan.ac.ir,Dr. Ali Basti (علی باستی),President,,THE2027: 1401–1600,,0,,,,,,,3,3,,низкая,"• Официальный сайт guilan.ac.ir по-прежнему недоступен из нашей сети (таймаут/503, в т.ч. WebFetch, 04.10.2026) — контакты не проверены; заполнить вручную
+• Https://en.wikipedia.org/wiki/University_of_Birjand",2026-10-05,
+50,Иран,Решт,University of Guilan,دانشگاه گیلان,Классический,"Государственный (Минобрнауки Ирана, MSRT)",,,,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://guilan.ac.ir,Dr. Ali Basti (علی باستی),President,,THE2027: 1401–1600,,0,,,,,,,3,3,,низкая,"• Официальный сайт guilan.ac.ir по-прежнему недоступен из нашей сети (таймаут/503, в т.ч. WebFetch, 04.10.2026) — контакты не проверены; заполнить вручную
 • Руководитель — Dr. Ali Basti: по поисковому индексу официальной страницы «رؤسا و معاونین» в должности с мордада 1404 (08.2025); в новостях вуза упоминается как «سرپرست» (врио) — уточнить статус (президент или исполняющий обязанности)
 • Космических проектов не выявлено (проверка только по nanosats.csv)
 • В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка
@@ -922,7 +930,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://fa.wikipedia.org/wiki/دانشگاه_گیلان
 • Https://guilan.ac.ir/officials (по поисковому индексу)
 • Https://mst.guilan.ac.ir/en/web/guilan/w/fhsjd (по поисковому индексу)
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 51,Иран,Бендер-Аббас,University of Hormozgan,دانشگاه هرمزگان,Морской / океанографический,"Государственный (Минобрнауки Ирана, MSRT)","• Marine Sciences and Fisheries
 • Engineering
 • Agriculture and Natural Resources
@@ -931,7 +939,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Geography and Geopolitics","University of Hormozgan, 9th km Minab Road, Bandar Abbas 7916193145, Iran",international@hormozgan.ac.ir,"ФИО не найдено
 Директор по международному сотрудничеству
 Управление международного сотрудничества
-Обращение: Dear Director of International Scientific Cooperation,",international@hormozgan.ac.ir,,+98 76 3371 1000,https://hormozgan.ac.ir,Dr. Mahdi Mirzadeh Kouhshahi,Acting President,,THE2027: 1801–2000,,0,,,,,,,3,3,нет,средняя,"• Руководитель: д-р Махди Мирзаде Кухшахи (доцент, политгеография) — назначен министром науки и.о. президента (سرپرست) взамен Мостафы Захирниа (новости SNN/YJC/Tabnak «رئیس دانشگاه هرمزگان تغییر کرد», 2025–2026); fa Wikipedia ещё указывает Захирниа
+Обращение: Dear Director of International Scientific Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,international@hormozgan.ac.ir,,+98 76 3371 1000,https://hormozgan.ac.ir,Dr. Mahdi Mirzadeh Kouhshahi,Acting President,,THE2027: 1801–2000,,0,,,,,,,3,3,нет,средняя,"• Руководитель: д-р Махди Мирзаде Кухшахи (доцент, политгеография) — назначен министром науки и.о. президента (سرپرست) взамен Мостафы Захирниа (новости SNN/YJC/Tabnak «رئیس دانشگاه هرمزگان تغییر کرد», 2025–2026); fa Wikipedia ещё указывает Захирниа
 • International@hormozgan.ac.ir — Office of International Collaborations; intl@hormozgan.ac.ir — офис иностранных студентов; имя директора не подтверждено
 • Быстрая проверка спутников: не найдено
 • Иран под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка
@@ -941,28 +949,28 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://www.yjc.ir/fa/news/9058156/
 • Https://www.tabnakhormozgan.ir/fa/news/1016262/
 • Https://hormozgan.ac.ir/home/index/1/2/
-• Https://hormozgan.ac.ir/home/index/1/2/1400",2026-10-04,
+• Https://hormozgan.ac.ir/home/index/1/2/1400",2026-10-05,
 52,Иран,Сенендедж,University of Kurdistan,دانشگاه کردستان (курд.: زانکۆی کوردستان),Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Engineering
 • Basic sciences
 • Agriculture
 • Natural resources
 • Humanities & social sciences
 • Art & architecture
-• Languages & literature","University of Kurdistan, Pasdaran St., Sanandaj, Kurdistan Province, Iran",,,,,,https://uok.ac.ir,Dr. Adel Siosemardeh,President,,THE2027: 1201–1400,,0,,,,,,,3,3,,средняя,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
+• Languages & literature","University of Kurdistan, Pasdaran St., Sanandaj, Kurdistan Province, Iran",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://uok.ac.ir,Dr. Adel Siosemardeh,President,,THE2027: 1201–1400,,0,,,,,,,3,3,,средняя,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
 • Официальный сайт uok.ac.ir недоступен (ошибка HTTP/3); президент Dr. Adel Siosemardeh подтверждён новостью агентства Tasnim от 02.06.1405 (24.08.2026)
 • Не путать с University of Kurdistan Hewlêr (Эрбиль, Ирак) и Kurdistan University of Medical Sciences
 • Телефон uniRank в старом формате ((873) 366 4600-8) — не используется. E-mail не найдены
 • Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0","• Https://www.tasnimnews.ir/fa/news/1405/06/02/3678978/
 • Https://en.wikipedia.org/wiki/University_of_Kurdistan_(Iran)
 • Https://fa.wikipedia.org/wiki/دانشگاه_کردستان
-• Https://www.unirank.org/ir/uni/university-of-kurdistan/",2026-10-04,
+• Https://www.unirank.org/ir/uni/university-of-kurdistan/",2026-10-05,
 53,Иран,Мераге,University of Maragheh,دانشگاه مراغه,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Basic sciences
 • Engineering
 • Agriculture
 • Humanities","University of Maragheh, Prof. Ghannadi Blvd., Madar Sq., Amirkabir Highway, Maragheh, East Azerbaijan, Iran (Postal Code 5518779842)",info@maragheh.ac.ir,"ФИО не найдено
 Руководитель Группы научного и международного сотрудничества
 Общий ящик университета (info@maragheh.ac.ir)
-Обращение: Dear Director of International Scientific Cooperation,",,info@maragheh.ac.ir,+98 41 3727 6068,https://www.maragheh.ac.ir,,President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,низкая,"• Страницы президента (admin.maragheh.ac.ir/presidency) и Группы научного и международного сотрудничества (int.maragheh.ac.ir) не открываются (таймаут, отозванный сертификат en.maragheh.ac.ir) — руководитель и международный e-mail не подтверждены. В Википедии указан Мохаммад Задшакуян — актуальность не проверена
+Обращение: Dear Director of International Scientific Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@maragheh.ac.ir,+98 41 3727 6068,https://www.maragheh.ac.ir,,President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,низкая,"• Страницы президента (admin.maragheh.ac.ir/presidency) и Группы научного и международного сотрудничества (int.maragheh.ac.ir) не открываются (таймаут, отозванный сертификат en.maragheh.ac.ir) — руководитель и международный e-mail не подтверждены. В Википедии указан Мохаммад Задшакуян — актуальность не проверена
 • Почтовые индексы на сайте: 5518779840 – 5518779842
 • Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся)
 • Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки
@@ -974,19 +982,19 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List)
 • Https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list)
 • Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv
-• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-04,
+• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-05,
 54,Иран,Бабольсер,University of Mazandaran,دانشگاه مازندران,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Basic sciences
 • Engineering
 • Humanities & social sciences
 • Economics
 • Law & political science
-• Art & architecture","University of Mazandaran, Pasdaran Street, Babolsar, Postal Code 47415, Mazandaran Province, Iran",,,,,,https://umz.ac.ir,,President,,THE2027: 1201–1400,,0,,,,,,,3,3,,низкая,"• Официальные сайты (umz.ac.ir, foreign.umz.ac.ir) недоступны из нашей сети — контакты не проверены
+• Art & architecture","University of Mazandaran, Pasdaran Street, Babolsar, Postal Code 47415, Mazandaran Province, Iran",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://umz.ac.ir,,President,,THE2027: 1201–1400,,0,,,,,,,3,3,,низкая,"• Официальные сайты (umz.ac.ir, foreign.umz.ac.ir) недоступны из нашей сети — контакты не проверены
 • Президент не установлен: en-Википедия и таблица в fa-Википедии называют д-ра Хешматоллу Алинежада (с 2021/1400), а карточка fa-Википедии — д-ра Эбрахима Салехи Омрана; данные противоречат друг другу — уточнить
 • Адрес — по профилю THE (Pasdaran St., Babolsar, 47415)
 • Проверка на спутники не проведена (исчерпан лимит поиска); в nanosats.csv вуз отсутствует
 • Перепроверка: Сайты umz.ac.ir / en.umz.ac.ir / foreign.umz.ac.ir по-прежнему недоступны (04.10.2026, сброс соединения); данные не изменены","• Https://en.wikipedia.org/wiki/University_of_Mazandaran
 • Https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D9%85%D8%A7%D8%B2%D9%86%D8%AF%D8%B1%D8%A7%D9%86
-• Https://www.timeshighereducation.com/world-university-rankings/university-mazandaran",2026-10-04,
+• Https://www.timeshighereducation.com/world-university-rankings/university-mazandaran",2026-10-05,
 55,Иран,Ардебиль,University of Mohaghegh Ardabili,دانشگاه محقق اردبیلی,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Agriculture and Natural Resources
 • Engineering
 • Basic Sciences
@@ -995,7 +1003,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Mechatronics","Daneshgah Street, Ardabil 56199-11367, Iran",iro@uma.ac.ir,"Dr. Mohammad Taghi Alebrahim
 Руководитель управления международных связей
 Управление международных связей
-Обращение: Dear Dr. Alebrahim,",iro@uma.ac.ir,,+98 45 3150 5012,https://uma.ac.ir,Dr. Mohammad Hassanzadeh,President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,средняя,"• Президент: д-р Мохаммад Хасанзаде (en/fa Wikipedia; сниппет 1404)
+Обращение: Dear Dr. Alebrahim,",ящик общий,iro@uma.ac.ir,,+98 45 3150 5012,https://uma.ac.ir,Dr. Mohammad Hassanzadeh,President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,средняя,"• Президент: д-р Мохаммад Хасанзаде (en/fa Wikipedia; сниппет 1404)
 • Iro@uma.ac.ir — International Relations Office; руководитель по сниппету — Мохаммад Таги Алебрахим (вероятно, ICRO-профиль, дата не подтверждена)
 • Быстрая проверка спутников: не найдено
 • Иран под всеобъемлющими санкциями США (ITSR/OFAC) и ограничительными мерами ЕС/Великобритании; перед контактом нужна юридическая/комплаенс-проверка
@@ -1004,7 +1012,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://fa.wikipedia.org/wiki/دانشگاه_محقق_اردبیلی
 • Https://uma.ac.ir/index.php?gsmp=86-fa
 • Https://uma.ac.ir/index.php?slc_lang=en
-• Https://en.icro.ir/University/University-of-Mohaghegh-Ardabili",2026-10-04,
+• Https://en.icro.ir/University/University-of-Mohaghegh-Ardabili",2026-10-05,
 56,Иран,Кум,University of Qom,دانشگاه قم,Гуманитарный,"Государственный (Минобрнауки Ирана, MSRT)","• Theology and Islamic Studies
 • Law
 • Humanities
@@ -1012,7 +1020,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Basic Sciences
 • Literature","Alghadir Blvd., after Shahrak-e Qods, Qom 3716146611, Iran",info@qom.ac.ir,"ФИО не найдено
 Общая канцелярия университета
-Обращение: Dear Director of International Scientific Cooperation,",,info@qom.ac.ir,+98 25 3210 3000,https://en.qom.ac.ir,Dr. Ahmad Hossein Sharifi,President,,THE2027: 1601–1800,,0,,,,,,,3,3,да,средняя,"• Президент: Ходжат-оль-эслам д-р Ахмад Хосейн Шарифи (священнослужитель, философ) — по en/fa Wikipedia и новостям 1404
+Обращение: Dear Director of International Scientific Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@qom.ac.ir,+98 25 3210 3000,https://en.qom.ac.ir,Dr. Ahmad Hossein Sharifi,President,,THE2027: 1601–1800,,0,,,,,,,3,3,да,средняя,"• Президент: Ходжат-оль-эслам д-р Ахмад Хосейн Шарифи (священнослужитель, философ) — по en/fa Wikipedia и новостям 1404
 • Гуманитарно-теологический профиль; космическая тематика маловероятна. В Куме также находится Al-Mustafa International University (US SDN) — это ДРУГОЙ вуз, не путать
 • Ящик управления научного и международного сотрудничества не найден; info@qom.ac.ir — общий; офис иностранных студентов: +98 25 3210 3493
 • Быстрая проверка спутников: не найдено
@@ -1022,14 +1030,14 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://fa.wikipedia.org/wiki/دانشگاه_قم
 • Https://en.qom.ac.ir/
 • Https://en.qom.ac.ir/Admission
-• Https://www.mehrnews.com/tag/احمد+حسین+شریفی",2026-10-04,
-57,Иран,Захедан,University of Sistan and Baluchestan,دانشگاه سیستان و بلوچستان,Классический,"Государственный (Минобрнауки Ирана, MSRT)",,,,,,,,https://www.usb.ac.ir,,President,,THE2027: 1601–1800,,0,,,,,,,3,3,,низкая,"• Официальный сайт недоступен из нашей сети (таймаут/503 через прокси и reader), квота веб-поиска исчерпана — контакты и руководитель не проверены; заполнить вручную
+• Https://www.mehrnews.com/tag/احمد+حسین+شریفی",2026-10-05,
+57,Иран,Захедан,University of Sistan and Baluchestan,دانشگاه سیستان و بلوچستان,Классический,"Государственный (Минобрнауки Ирана, MSRT)",,,,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://www.usb.ac.ir,,President,,THE2027: 1601–1800,,0,,,,,,,3,3,,низкая,"• Официальный сайт недоступен из нашей сети (таймаут/503 через прокси и reader), квота веб-поиска исчерпана — контакты и руководитель не проверены; заполнить вручную
 • Wikipedia противоречива: en — Gholamreza Rezaei, fa — Gholamreza Zamanian; президент не подтверждён
 • Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана)
 • В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка
 • Перепроверка: Сайт usb.ac.ir (и en.) недоступен из нашей сети (curl/WebFetch 503) 04.10.2026; данные не изменены","• Https://en.wikipedia.org/wiki/University_of_Sistan_and_Baluchestan
 • Https://fa.wikipedia.org/wiki/دانشگاه_سیستان_و_بلوچستان
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 58,Иран,Занджан,University of Zanjan,دانشگاه زنجان,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Engineering (civil, electrical, mechanical, computer, mining, surveying)
 • Basic sciences
 • Agriculture
@@ -1037,7 +1045,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Art & architecture","University of Zanjan, University Blvd., Zanjan 45371-38791, Iran",international@znu.ac.ir,"ФИО не найдено
 Руководитель группы международного научного сотрудничества
 Группа международного научного сотрудничества (International Scientific Cooperation Group)
-Обращение: Dear Director of International Scientific Cooperation,",international@znu.ac.ir,znu_pr@znu.ac.ir,+98 24 3305 2593,https://www.znu.ac.ir,Dr. Jalal Saba,President,,THE2027: 1401–1600,,0,,,,,,,3,3,да,средняя,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
+Обращение: Dear Director of International Scientific Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,international@znu.ac.ir,znu_pr@znu.ac.ir,+98 24 3305 2593,https://www.znu.ac.ir,Dr. Jalal Saba,President,,THE2027: 1401–1600,,0,,,,,,,3,3,да,средняя,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
 • Президент — Dr. Jalal Saba (на главной сайте сентябрь 2026 г. «ریاست محترم»; в фа-Википедии указан как «сарпараст»). Страница /about/president устарела (2021, Dr. Jalal Bazargan) — не использовать
 • Email_general — отдел по связям с общественностью (znu_pr@znu.ac.ir); international@znu.ac.ir — с английской версии сайта (Группа международного научного сотрудничества, isco.znu.ac.ir). Имя руководителя группы не найдено
 • Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0","• Https://www.znu.ac.ir/
@@ -1045,7 +1053,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://www.znu.ac.ir/about/president
 • Https://isco.znu.ac.ir/
 • Https://en.wikipedia.org/wiki/University_of_Zanjan
-• Https://fa.wikipedia.org/wiki/دانشگاه_زنجان",2026-10-04,
+• Https://fa.wikipedia.org/wiki/دانشگاه_زنجان",2026-10-05,
 59,Иран,Йезд,Yazd University,دانشگاه یزد,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Engineering (mining, industrial, electrical, mechanical, civil)
 • Natural Sciences
 • Mathematics
@@ -1054,7 +1062,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Natural Resources","Yazd University, Daneshgah Blvd., Safayieh, Yazd 8915818411, Iran",isco@offices.yazd.ac.ir,"ФИО не найдено
 Директор Управления научного и международного сотрудничества
 Управление научного и международного сотрудничества (ISCO)
-Обращение: Dear Director of International Scientific Cooperation,",isco@offices.yazd.ac.ir,,+98 35 3123 4444,https://yazd.ac.ir,Dr. Seyed Heydar Mirfakhraddini,President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,средняя,"• Президент д-р Сейед Хейдар Мирфахраддини — по странице «Представление президента» сайта (дата обновления не указана); Wikipedia указывает предшественника (Аббас Калантари) — перепроверить
+Обращение: Dear Director of International Scientific Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,isco@offices.yazd.ac.ir,,+98 35 3123 4444,https://yazd.ac.ir,Dr. Seyed Heydar Mirfakhraddini,President,,THE2027: 1201–1400,,0,,,,,,,3,3,да,средняя,"• Президент д-р Сейед Хейдар Мирфахраддини — по странице «Представление президента» сайта (дата обновления не указана); Wikipedia указывает предшественника (Аббас Калантари) — перепроверить
 • Международный ящик isco@offices.yazd.ac.ir — Управление научного и международного сотрудничества (ISCO), тел./факс +98 35 3820 0149; имя директора на сайте не найдено
 • Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана)
 • В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка","• Https://yazd.ac.ir/en
@@ -1062,9 +1070,9 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://yazd.ac.ir/en/international/isco
 • Https://yazd.ac.ir/en/international/isco/group
 • Https://fa.wikipedia.org/wiki/دانشگاه_یزد
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 60,Иран,Амоль,Amol University of Special Modern Technologies (AUSMT),دانشگاه تخصصی فناوری‌های نوین آمل,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)","• Engineering
-• New technologies","Amol University of Special Modern Technologies, Central Building, Abazar 35, Taleghani St., Amol, Mazandaran, Iran (Postal Code 4615664616)",,,,,+98 11 4444 2135,https://ausmt.ac.ir,,President,,THE2027: Reporter (unranked),,0,,,,,,,0,3,,низкая,"• Университет возглавляет «سرپرست» (и.о. руководителя) — имя на открытых страницах не указано (резюме доступно только ссылкой); не подтверждено
+• New technologies","Amol University of Special Modern Technologies, Central Building, Abazar 35, Taleghani St., Amol, Mazandaran, Iran (Postal Code 4615664616)",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,+98 11 4444 2135,https://ausmt.ac.ir,,President,,THE2027: Reporter (unranked),,0,,,,,,,0,3,,низкая,"• Университет возглавляет «سرپرست» (и.о. руководителя) — имя на открытых страницах не указано (резюме доступно только ссылкой); не подтверждено
 • Международные связи объединены с канцелярией президента и PR: «Офис президента, по связям с общественностью и международным отношениям»; и.о. руководителя — д-р Сомайе Рахаи (назначена 08.02.1405 = 28.04.2026, по новостям сайта)
 • Общего/международного e-mail на сайте нет (найден только indust@ausmt.ac.ir — отдел связей с промышленностью). Английская версия сайта (en.ausmt.ac.ir) — пустая заглушка Plesk
 • Член Союза государственных университетов и НИИ прикаспийских стран (CASPIAN union, с 2025 г., по новостям сайта)
@@ -1080,19 +1088,19 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List)
 • Https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list)
 • Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv
-• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-04,
+• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-05,
 61,Иран,Арак,Arak University of Technology,دانشگاه صنعتی اراک,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)","• Mechanical engineering
 • Electrical engineering
 • Materials & metallurgical engineering
 • Civil engineering
 • Chemical engineering
-• Industrial engineering","Arak University of Technology, Daneshgah Street, Arak, Markazi Province, Iran",,,,,,https://www.arakut.ac.ir,,President,,THE2027 Reporter (unranked),,0,,,,,,,0,3,,низкая,"• Официальный сайт arakut.ac.ir (http/https, www) по-прежнему не открывается (тайм-аут, 04.10.2026) — контакты не проверены
+• Industrial engineering","Arak University of Technology, Daneshgah Street, Arak, Markazi Province, Iran",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://www.arakut.ac.ir,,President,,THE2027 Reporter (unranked),,0,,,,,,,0,3,,низкая,"• Официальный сайт arakut.ac.ir (http/https, www) по-прежнему не открывается (тайм-аут, 04.10.2026) — контакты не проверены
 • Fa-Википедия и поисковая выдача называют президентом Моджтабу Гударзи (مجتبی گودرزی) без даты — не подтверждено официальным источником, поле оставлено пустым. Есть официальный канал вуза в Eitaa (eitaa.com/ArakUTofficial) — для ручной проверки
 • THE2027: только статус Reporter (без ранга). Адрес — по профилю THE (Daneshgah St., Arak)
 • Проверка на спутники не проведена; в nanosats.csv вуз отсутствует
 • Перепроверка: Сайт недоступен; данные не изменены","• Https://en.wikipedia.org/wiki/Arak_University_of_Technology
 • Https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%B5%D9%86%D8%B9%D8%AA%DB%8C_%D8%A7%D8%B1%D8%A7%DA%A9
-• Https://www.timeshighereducation.com/world-university-rankings/arak-university-technology",2026-10-04,
+• Https://www.timeshighereducation.com/world-university-rankings/arak-university-technology",2026-10-05,
 62,Иран,Бирджанд,Birjand University of Technology,دانشگاه صنعتی بیرجند,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)","• Mechanical engineering
 • Electrical & computer engineering
 • Civil engineering
@@ -1100,35 +1108,36 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Industrial engineering","Birjand University of Technology, Sanat-o-Madan Blvd., Ibn-Hesam Square, Birjand, South Khorasan 9719866981, Iran",info@birjandut.ac.ir,"ФИО не найдено
 Директор Офиса международного научного сотрудничества
 Общий ящик университета; адресат — Офис международного научного сотрудничества
-Обращение: Dear Director of International Scientific Cooperation,",,info@birjandut.ac.ir,+98 56 3239 1000,https://birjandut.ac.ir (EN: https://birjandut.ac.ir/en),Dr. Abbasali Rezapour,President,,,,0,,,,,,,0,3,да,средняя,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
+Обращение: Dear Director of International Scientific Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@birjandut.ac.ir,+98 56 3239 1000,https://birjandut.ac.ir,Dr. Abbasali Rezapour,President,,,,0,,,,,,,0,3,да,средняя,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
 • Президент Dr. Abbasali Rezapour переназначен на 4 года министром науки (новость агентства ANA от 08.09.2026)
 • Есть Офис международного научного сотрудничества (isc.birjandut.ac.ir), но e-mail и руководитель не опубликованы; использовать info@birjandut.ac.ir. Индекс: 9719866981 (англ. страница) / 9719866989 (перс. страница) — уточнить
 • Main_fields составлены по списку групп/кафедр из фа-Википедии и сайта — уровень уверенности средний
-• Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0","• Https://birjandut.ac.ir/en/page/120/about
+• Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0
+• Дополнительные сайты: https://birjandut.ac.ir/en","• Https://birjandut.ac.ir/en/page/120/about
 • Https://birjandut.ac.ir/fa
 • Https://isc.birjandut.ac.ir/
 • Https://ana.ir/fa/news/1081221
-• Https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_بیرجند",2026-10-04,
+• Https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_بیرجند",2026-10-05,
 63,Иран,Чабахар,Chabahar Maritime University,دانشگاه دریانوردی و علوم دریایی چابهار,Морской / океанографический,"Государственный (Минобрнауки Ирана, MSRT)","• Maritime navigation & marine engineering
 • Marine sciences
 • Fisheries & marine biology
-• Management & humanities","Chabahar Maritime University, Chabahar 9971756499, Sistan and Baluchestan Province, Iran",,,,,+98 54 3532 0020,https://www.cmu.ac.ir,,President,,,,0,,,,,,,0,3,,низкая,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
+• Management & humanities","Chabahar Maritime University, Chabahar 9971756499, Sistan and Baluchestan Province, Iran",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,+98 54 3532 0020,https://www.cmu.ac.ir,,President,,,,0,,,,,,,0,3,,низкая,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
 • Официальный сайт cmu.ac.ir и иранские СМИ/госсайты (mehrnews, ana.ir, khwarizmi.ir) недоступны из нашей сети (таймаут/сброс соединения/503, 04.10.2026); данные — из Википедии и uniRank, требуют перепроверки
 • Президент не подтверждён: фа-Википедия и поисковая выдача называют Dr. Amir Rajaei (امیر رجائی), без надёжной даты — поле head_name оставлено пустым
 • Телефон +98 54 3532 0020 и индекс 9971756499 — по uniRank (вторичный источник). E-mail не найдены
 • Рядом строится Чабахарский космодром (National Satellite Launch Base) — возможный контекст для сотрудничества, но связь университета с ним не подтверждена
 • Быстрая проверка спутников: в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0
 • Перепроверка: Сайт и иранские источники недоступны; данные не изменены","• Https://fa.wikipedia.org/wiki/دانشگاه_دریانوردی_و_علوم_دریایی_چابهار
-• Https://www.unirank.org/ir/uni/chabahar-maritime-university/",2026-10-04,
-64,Иран,,Ershad Damavand University,مؤسسه آموزش عالی ارشاد دماوند,Другое,Частный (негосударственный некоммерческий вуз),,,,,,,,,,President,,,,0,,,,,,,0,3,,низкая,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
+• Https://www.unirank.org/ir/uni/chabahar-maritime-university/",2026-10-05,
+64,Иран,,Ershad Damavand University,مؤسسه آموزش عالی ارشاد دماوند,Другое,Частный (негосударственный некоммерческий вуз),,,,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,,,President,,,,0,,,,,,,0,3,,низкая,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
 • Данные практически не найдены: статьи в Википедии нет, предполагаемые домены (ershad.ac.ir, edu.ershad.ac.ir) не резолвятся, web search исчерпан. Персидское название (институт высшего образования «Эршад Дамаванд») и город (Тегеран) — не подтверждены официальным источником
 • Негосударственный вуз небольшого размера, без инженерно-космического профиля (по косвенным данным) — низкий приоритет для рассылки
 • Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0
-• Перепроверка: Официальный сайт по-прежнему не найден; данные не изменены",Https://en.wikipedia.org/wiki/List_of_universities_in_Iran (listed as 'University of Ershad Damavand'),2026-10-04,
+• Перепроверка: Официальный сайт по-прежнему не найден; данные не изменены",Https://en.wikipedia.org/wiki/List_of_universities_in_Iran (listed as 'University of Ershad Damavand'),2026-10-05,
 65,Иран,Фаса,Fasa University,دانشگاه فسا,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Engineering
 • Agriculture
 • Basic Sciences
-• Humanities",,,,,,,https://fasau.ac.ir,Dr. Hojjatollah Badehian,President,,,,0,,,,,,,0,3,,низкая,"• THE2027: статус Reporter (без ранга) — rank_the оставлен пустым
+• Humanities",,,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://fasau.ac.ir,Dr. Hojjatollah Badehian,President,,,,0,,,,,,,0,3,,низкая,"• THE2027: статус Reporter (без ранга) — rank_the оставлен пустым
 • Президент: д-р Ходжатолла Бадехиян — назначен и.о. (Mehr: «سرپرستان دانشگاه‌های ارومیه و فسا منصوب شدند», 2025), затем утверждён (по fa Wikipedia); en Wikipedia указывает устаревшего А. Зареи; список MSRT упоминает Джамаля Фатхоллахи — расхождение, перепроверить
 • Адрес, телефон и e-mail не найдены (сайт недоступен). Не путать с Fasa University of Medical Sciences (fums.ac.ir) и Азад-университетом Фасы
 • Быстрая проверка спутников: не найдено
@@ -1138,15 +1147,15 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Перепроверка: Сайт fasau.ac.ir и mehrnews.com по-прежнему недоступны; расхождение по руководителю (Бадехиян / Зареи / Фатхоллахи) не разрешено — данные не изменены","• Https://en.wikipedia.org/wiki/Fasa_University
 • Https://fa.wikipedia.org/wiki/دانشگاه_فسا
 • Https://www.mehrnews.com/news/6441051/
-• Https://www.msrt.ir/fa/grid/224/",2026-10-04,
-66,Иран,Керман,Graduate University of Advanced Technology,دانشگاه تحصیلات تکمیلی صنعتی و فناوری پیشرفته,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)",,,,,,,,https://www.kgut.ac.ir,,President,,,,0,,,,,,,0,3,,низкая,"• THE2027: Reporter (не ранжирован)
+• Https://www.msrt.ir/fa/grid/224/",2026-10-05,
+66,Иран,Керман,Graduate University of Advanced Technology,دانشگاه تحصیلات تکمیلی صنعتی و فناوری پیشرفته,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)",,,,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://www.kgut.ac.ir,,President,,,,0,,,,,,,0,3,,низкая,"• THE2027: Reporter (не ранжирован)
 • Официальный сайт недоступен из нашей сети (таймаут/503 через прокси и reader), квота веб-поиска исчерпана — контакты и руководитель не проверены; заполнить вручную
 • По Wikipedia президент — Хосейн Мохеби (ссылка на старую новость MSRT); не подтверждено
 • Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана)
 • В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка
 • Перепроверка: Сайт kgut.ac.ir (www и без www) недоступен — ERR_CONNECTION_REFUSED через reader-сервис, сброс через прокси (04.10.2026); данные не изменены","• Https://en.wikipedia.org/wiki/Graduate_University_of_Advanced_Technology
 • Https://fa.wikipedia.org/wiki/دانشگاه_تحصیلات_تکمیلی_صنعتی_و_فناوری_پیشرفته
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 67,Иран,Хамадан,Hamedan University of Technology,دانشگاه صنعتی همدان,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)","• Electrical Engineering
 • Mechanical Engineering
 • Civil Engineering
@@ -1155,14 +1164,14 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Applied Mathematics","Hamedan University of Technology, Mardom St., Shahid Fahmideh Blvd., Pol-e Pajouhesh, Hamedan 65155-579 (P.O. Box), Iran",isco@hut.ac.ir,"Dr. Hassan Bashiri
 Руководитель Отдела научного и международного сотрудничества
 Отдел научного и международного сотрудничества
-Обращение: Dear Dr. Bashiri,",isco@hut.ac.ir,info@hut.ac.ir,+98 81 3841 1000,https://hut.ac.ir,Dr. Mahmoud Paripour,President,,,,0,,,,,,,0,3,да,высокая,"• Президент д-р Махмуд Парипур (с ордибехешта 1404 / мая 2025), личный e-mail paripour@hut.ac.ir
+Обращение: Dear Dr. Bashiri,",ящик общий,isco@hut.ac.ir,info@hut.ac.ir,+98 81 3841 1000,https://hut.ac.ir,Dr. Mahmoud Paripour,President,,,,0,,,,,,,0,3,да,высокая,"• Президент д-р Махмуд Парипур (с ордибехешта 1404 / мая 2025), личный e-mail paripour@hut.ac.ir
 • Международный ящик isco@hut.ac.ir — Отдел научного и международного сотрудничества, руководитель д-р Хасан Башири
 • Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана)
 • В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка","• Https://hut.ac.ir
 • Https://hut.ac.ir/رئیس-دانشگاه1
 • Https://hut.ac.ir/اداره-همکاری-های-علمی-بین-المللی
 • Https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_همدان
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 68,Иран,Керманшах,Kermanshah University of Technology,دانشگاه صنعتی کرمانشاه,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)","• Energy engineering (electrical, mechanical, chemical)
 • New technologies
 • Information technology & computer engineering
@@ -1170,21 +1179,22 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Civil & railway engineering","Kermanshah University of Technology, Imam Khomeini Highway, Kermanshah 6715685420, Iran",info@kut.ac.ir,"Dr. Sajjad Rasaei
 Руководитель Офиса президента, по связям с общественностью и международным делам
 Офис президента, по связям с общественностью и международным делам
-Обращение: Dear Dr. Rasaei,",,info@kut.ac.ir,+98 83 3830 5002,https://kut.ac.ir (EN: https://kut.ac.ir/en),Dr. Hamed Rashidi,President,,,,0,,,,,,,0,3,да,средняя,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
+Обращение: Dear Dr. Rasaei,",ящик общий,,info@kut.ac.ir,+98 83 3830 5002,https://kut.ac.ir,Dr. Hamed Rashidi,President,,,,0,,,,,,,0,3,да,средняя,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
 • THE2027 — статус Reporter (без ранга), поэтому rank_the пуст
 • Президент Dr. Hamed Rashidi (доцент кафедры химической инженерии; назначен и.о. в марте 2025 г., на сайте 2026 г. — President)
 • Международные дела объединены с офисом президента и PR: «دفتر ریاست، روابط عمومی و امور بین الملل», руководитель — Dr. Sajjad Rasaei; отдельного e-mail международного отдела нет, используется info@kut.ac.ir
 • Profile_type «technical/aerospace» означает технический университет; аэрокосмических подразделений не выявлено
-• Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0","• Https://kut.ac.ir/en
+• Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0
+• Дополнительные сайты: https://kut.ac.ir/en","• Https://kut.ac.ir/en
 • Https://kut.ac.ir/en/university-president
 • Https://kut.ac.ir/contacts-2/
 • Https://kut.ac.ir/ (دفتر ریاست، روابط عمومی و امور بین الملل page)
-• Https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_کرمانشاه",2026-10-04,
+• Https://fa.wikipedia.org/wiki/دانشگاه_صنعتی_کرمانشاه",2026-10-05,
 69,Иран,Хорремшехр,Khorramshahr University of Marine Science and Technology,دانشگاه علوم و فنون دریایی خرمشهر,Морской / океанографический,"Государственный (Минобрнауки Ирана, MSRT)","• Marine science
 • Marine biology
 • Fisheries
 • Marine engineering
-• Physical oceanography",,,,,,,https://kmsu.ac.ir,,President,,,,0,,,,,,,0,3,,низкая,"• Сайт kmsu.ac.ir недоступен (таймаут / HTTP 503), статьи в Википедии нет — контакты, адрес и руководитель не подтверждены; лимит веб-поиска исчерпан
+• Physical oceanography",,,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://kmsu.ac.ir,,President,,,,0,,,,,,,0,3,,низкая,"• Сайт kmsu.ac.ir недоступен (таймаут / HTTP 503), статьи в Википедии нет — контакты, адрес и руководитель не подтверждены; лимит веб-поиска исчерпан
 • Основные направления указаны по названию/профилю (морской университет), официальной страницей не подтверждены
 • Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся)
 • Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки
@@ -1194,7 +1204,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List)
 • Https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list)
 • Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv
-• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-04,
+• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-05,
 70,Иран,Малайер,Malayer University,دانشگاه ملایر,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Engineering
 • Civil engineering & architecture
 • Basic sciences
@@ -1203,14 +1213,14 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Natural resources & environment","Malayer University, Km 4 Malayer–Arak Road, Malayer, Postal Code 65741-84621, Hamadan Province, Iran",pr@malayeru.ac.ir,"ФИО не найдено
 Руководитель Бюро международных связей
 Канцелярия президента и служба связей с общественностью (دفتر ریاست و روابط عمومی)
-Обращение: Dear Director of International Relations,",,pr@malayeru.ac.ir,"+98 81 3245 7300 (общий); +98 81 3245 7305 (офис руководителя), факс +98 81 3245 7306",https://malayeru.ac.ir,Dr. Mohammad Bashirgonbad (دکتر محمد بشیرگنبد),Acting President (سرپرست دانشگاه),,,,0,,,,,,,0,3,да,средняя,"• Руководитель исправлен: официальный сайт в новостях сентября–октября 2026 г. называет д-ра Мохаммада Баширгонбада «сرپرست» (и.о. руководителя) университета; ранее указанный д-р Хосров Сайванд (фа-Википедия) на сайте не упоминается
+Обращение: Dear Director of International Relations,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,pr@malayeru.ac.ir,"+98 81 3245 7300 (общий); +98 81 3245 7305 (офис руководителя), факс +98 81 3245 7306",https://malayeru.ac.ir,Dr. Mohammad Bashirgonbad (دکتر محمد بشیرگنبد),Acting President (سرپرست دانشگاه),,,,0,,,,,,,0,3,да,средняя,"• Руководитель исправлен: официальный сайт в новостях сентября–октября 2026 г. называет д-ра Мохаммада Баширгонбада «сرپرست» (и.о. руководителя) университета; ранее указанный д-р Хосров Сайванд (фа-Википедия) на сайте не упоминается
 • Email_general — адрес службы связей с общественностью (pr@malayeru.ac.ir, на сайте в виде pr[at]malayeru.ac.ir); у Бюро международных связей и иностранных студентов (اداره روابط بین الملل و دانشجویان غیرایرانی) e-mail не опубликован
 • Почтовый индекс на сайте записан «84621-65741» (RTL) — в нормальном порядке 65741-84621
 • Спутников не найдено (быстрая проверка)
 • Перепроверка: Сайт открыт через reader-сервис 04.10.2026: руководитель исправлен — и.о. президента (سرپرست) д-р Мохаммад Баширгонбад (новости сайта, мехр 1405 = сент.–окт. 2026); pr@malayeru.ac.ir, телефоны и адрес подтверждены на странице контактов (дата страницы 2019)","• Https://malayeru.ac.ir/
 • Https://malayeru.ac.ir/en/
 • Https://malayeru.ac.ir/portal/home/?person/1430/33245/32806/
-• Https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D9%85%D9%84%D8%A7%DB%8C%D8%B1",2026-10-04,
+• Https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D9%85%D9%84%D8%A7%DB%8C%D8%B1",2026-10-05,
 71,Иран,Абадан,Petroleum University of Technology (PUT),دانشگاه صنعت نفت,Технический / аэрокосмический,Государственный (Министерство нефти Ирана),"• Petroleum engineering
 • Chemical & gas engineering
 • Mechanical & electrical/instrumentation engineering
@@ -1218,7 +1228,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Accounting & finance","Petroleum University of Technology, North Bovardeh, Abadan, Khuzestan, Iran (Postal Code 63187-14317)",info@put.ac.ir,"ФИО не найдено
 Вице-президент по международным делам
 Общий ящик университета (info@put.ac.ir)
-Обращение: Dear Vice President for International Affairs,",,info@put.ac.ir,+98 61 5315 3000,https://put.ac.ir,Dr. Mohammad Reza Khosravi-Nikou,President,,THE2027: Reporter (unranked),,0,,,,,,,0,3,да,средняя,"• Подчиняется Министерству нефти Ирана (не MSRT); факультеты в Абадане, Ахвазе, Тегеране и Махмудабаде; центральный адрес — Абадан
+Обращение: Dear Vice President for International Affairs,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@put.ac.ir,+98 61 5315 3000,https://put.ac.ir,Dr. Mohammad Reza Khosravi-Nikou,President,,THE2027: Reporter (unranked),,0,,,,,,,0,3,да,средняя,"• Подчиняется Министерству нефти Ирана (не MSRT); факультеты в Абадане, Ахвазе, Тегеране и Махмудабаде; центральный адрес — Абадан
 • Есть «Вице-президентство по международным делам и специализированному/прикладному обучению» (тел. +98 21 4424 9754, Тегеран), но e-mail и имя руководителя не найдены
 • Нефтяной сектор Ирана находится под отдельными санкциями США/ЕС — повышенный комплаенс-риск
 • Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся)
@@ -1232,31 +1242,31 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List)
 • Https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list)
 • Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv
-• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-04,
+• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-05,
 72,Иран,Кум,Qom University of Technology,دانشگاه صنعتی قم,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)","• Electrical engineering
 • Computer engineering
 • Mechanical engineering
 • Civil engineering
 • Chemical engineering
-• Industrial engineering","Qom University of Technology, Shahid Sardar Khodakaram Blvd., Old Qom–Tehran Road, Qom, Postal Code 151937195, Iran",,,,,,https://www.qut.ac.ir,,President,,THE2027 Reporter (unranked),,0,,,,,,,0,3,,низкая,"• Официальный сайт qut.ac.ir недоступен из нашей сети — контакты не проверены
+• Industrial engineering","Qom University of Technology, Shahid Sardar Khodakaram Blvd., Old Qom–Tehran Road, Qom, Postal Code 151937195, Iran",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://www.qut.ac.ir,,President,,THE2027 Reporter (unranked),,0,,,,,,,0,3,,низкая,"• Официальный сайт qut.ac.ir недоступен из нашей сети — контакты не проверены
 • Fa-Википедия указывает президентом Джалала Резаи-Нура «с 24 тира 1397» (2018) — сведения могут быть устаревшими, поле оставлено пустым
 • THE2027: только статус Reporter. Адрес и индекс — по профилю THE (индекс 151937195 выглядит неполным — сверить)
 • Проверка на спутники не проведена (исчерпан лимит поиска)
 • Перепроверка: Сайт qut.ac.ir (и en.) недоступен из нашей сети (curl/WebFetch 503) 04.10.2026; данные не изменены","• Https://en.wikipedia.org/wiki/Qom_University_of_Technology
 • Https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%B5%D9%86%D8%B9%D8%AA%DB%8C_%D9%82%D9%85
-• Https://www.timeshighereducation.com/world-university-rankings/qom-university-technology",2026-10-04,
+• Https://www.timeshighereducation.com/world-university-rankings/qom-university-technology",2026-10-05,
 73,Иран,Ахваз,Shahid Chamran University of Ahvaz,دانشگاه شهید چمران اهواز,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Agriculture
 • Engineering
 • Water & environmental engineering
 • Basic sciences
 • Veterinary medicine
-• Humanities","Shahid Chamran University of Ahvaz, Golestan Blvd., Ahvaz, Khuzestan Province, Iran",,,,,,https://scu.ac.ir,Dr. Ali-Hossein Hosseinzadeh,Acting President,,,,0,,,,,,,0,3,,низкая,"• Официальный сайт scu.ac.ir недоступен (антибот-заглушка) — контакты не проверены
+• Humanities","Shahid Chamran University of Ahvaz, Golestan Blvd., Ahvaz, Khuzestan Province, Iran",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://scu.ac.ir,Dr. Ali-Hossein Hosseinzadeh,Acting President,,,,0,,,,,,,0,3,,низкая,"• Официальный сайт scu.ac.ir недоступен (антибот-заглушка) — контакты не проверены
 • Али-Хосейн Хосейнзаде — исполняющий обязанности президента (سرپرست) с 20 эсфанда 1403 (март 2025) по en/fa-Википедии со ссылкой на сайт вуза; мог быть утверждён или заменён — проверить
 • Во входных данных ранг THE2027 не указан; адрес — по профилю THE (Golestan Blvd, Ahvaz)
 • Проверка на спутники не проведена (исчерпан лимит поиска)
 • Перепроверка: 04.10.2026: scu.ac.ir недоступен (сброс соединения); поиск по-прежнему указывает А.-Х. Хосейнзаде как и.о. президента — данные не изменены","• Https://en.wikipedia.org/wiki/Shahid_Chamran_University_of_Ahvaz
 • Https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%B4%D9%87%DB%8C%D8%AF_%DA%86%D9%85%D8%B1%D8%A7%D9%86_%D8%A7%D9%87%D9%88%D8%A7%D8%B2
-• Https://www.timeshighereducation.com/world-university-rankings/shahid-chamran-university-ahvaz",2026-10-04,
+• Https://www.timeshighereducation.com/world-university-rankings/shahid-chamran-university-ahvaz",2026-10-05,
 74,Иран,Тегеран,Shahid Rajaee Teacher Training University,دانشگاه تربیت دبیر شهید رجایی,Технический / аэрокосмический,Государственный (Министерство образования Ирана; MSRT-аккредитация),"• Mechanical
 • Electrical & computer engineering
 • Civil engineering & architecture
@@ -1266,13 +1276,13 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Art","Shahid Rajaee Teacher Training University, Shahid Shabanlou St., Lavizan, Tehran, P.O. Box 16785-163, Postal Code 1678815811, Iran",int.affairs@sru.ac.ir,"ФИО не найдено
 Руководитель Офиса научного сотрудничества и международных дел
 Офис научного сотрудничества и международных дел
-Обращение: Dear Director of International Scientific Cooperation,",int.affairs@sru.ac.ir,sru@sru.ac.ir,+98 21 2297 0060,https://www.sru.ac.ir,Prof. Ali Pourkamali Anaraki,President,,,,0,,,,,,,0,3,да,средняя,"• Президент — проф. Али Пуркамали Анараки (механика, «استاد»), e-mail president@sru.ac.ir; назначается министром образования по согласованию с МСРТ
+Обращение: Dear Director of International Scientific Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,int.affairs@sru.ac.ir,sru@sru.ac.ir,+98 21 2297 0060,https://www.sru.ac.ir,Prof. Ali Pourkamali Anaraki,President,,,,0,,,,,,,0,3,да,средняя,"• Президент — проф. Али Пуркамали Анараки (механика, «استاد»), e-mail president@sru.ac.ir; назначается министром образования по согласованию с МСРТ
 • Международный офис (دفتر همکاری های علمی و امور بین الملل): тел. +98 21 2297 0029, факс +98 21 2297 0033; имя руководителя на открытых страницах не указано (поисковик называет д-ра Моджтабу Горбани — не подтверждено)
 • Англоязычный сайт использует также домен srttu.edu (sru@srttu.edu)
 • Спутников не найдено (быстрая проверка)","• Https://www.sru.ac.ir/
 • Https://www.sru.ac.ir/%d8%ad%d9%88%d8%b2%d9%87-%d8%b1%db%8c%d8%a7%d8%b3%d8%aa/%d8%b1%db%8c%d8%a7%d8%b3%d8%aa-%d8%af%d8%a7%d9%86%d8%b4%da%af%d8%a7%d9%87/
 • Https://www.sru.ac.ir/%D8%AD%D9%88%D8%B2%D9%87-%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA/%D8%A7%D9%85%D9%88%D8%B1-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84/
-• Http://www.sru.ac.ir/en",2026-10-04,
+• Http://www.sru.ac.ir/en",2026-10-05,
 75,Иран,Шахруд,Shahrood University of Technology,دانشگاه صنعتی شاهرود,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)","• Mining Engineering
 • Mechanical Engineering
 • Electrical and Robotics Engineering
@@ -1281,7 +1291,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Basic Sciences","Daneshgah Blvd., P.O. Box 3619995161, Shahrood, Semnan Province, Iran",International@shahroodut.ac.ir,"ФИО не найдено
 Директор по научному и международному сотрудничеству
 Управление научного и международного сотрудничества
-Обращение: Dear Director of International Scientific Cooperation,",International@shahroodut.ac.ir,,+98 23 3239 2204,https://www.shahroodut.ac.ir/en,Dr. Morteza Izadifard,President,,,,0,,,,,,,0,3,да,средняя,"• Президент: д-р Мортеза Изадифард — переназначен министром науки на 4 года (Mehr «رئیس دانشگاه صنعتی شاهرود ابقا شد», SNN); один сниппет называл М. М. Фатеха — устаревшие данные
+Обращение: Dear Director of International Scientific Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,International@shahroodut.ac.ir,,+98 23 3239 2204,https://www.shahroodut.ac.ir/en,Dr. Morteza Izadifard,President,,,,0,,,,,,,0,3,да,средняя,"• Президент: д-р Мортеза Изадифард — переназначен министром науки на 4 года (Mehr «رئیس دانشگاه صنعتی شاهرود ابقا شد», SNN); один сниппет называл М. М. Фатеха — устаревшие данные
 • International@shahroodut.ac.ir — Scientific and International Affairs Office, тел. +98 23 3239 4931; имя директора не подтверждено
 • Вуз внесён в базу Iran Watch (Висконсинский проект, не санкционный список); упоминается в отчёте Iran Watch о БПЛА-исследованиях. Рядом находится космодром Шахруд (КСИР) — к университету не относится, но повышает репутационный риск
 • Быстрая проверка спутников: не найдено
@@ -1293,8 +1303,8 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://snn.ir/fa/news/1335070/
 • Https://shahroodut.ac.ir/en/sec/index.php?id=44
 • Http://international.shahroodut.ac.ir/post/36/Contact-Us
-• Https://www.iranwatch.org/iranian-entities/shahrood-university-technology-sut",2026-10-04,
-76,Иран,Тафреш,Tafresh University,دانشگاه تفرش,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)",Engineering,,,,,,,https://tafreshu.ac.ir,Dr. Soheil Vasheghani Farahani (دکتر سهیل واشقانی فراهانی),President,,,,0,,,,,,,0,3,,низкая,"• Ранее «Tafresh University of Technology» (دانشگاه صنعتی تفرش); город Тафреш, провинция Меркези
+• Https://www.iranwatch.org/iranian-entities/shahrood-university-technology-sut",2026-10-05,
+76,Иран,Тафреш,Tafresh University,دانشگاه تفرش,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)",Engineering,,,,нет ящика: Найти e-mail международного отдела или канцелярии,,,,https://tafreshu.ac.ir,Dr. Soheil Vasheghani Farahani (دکتر سهیل واشقانی فراهانی),President,,,,0,,,,,,,0,3,,низкая,"• Ранее «Tafresh University of Technology» (دانشگاه صنعتی تفرش); город Тафреш, провинция Меркези
 • Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся)
 • Иран находится под всеобъемлющими санкциями США (ITSR/OFAC) и секторальными санкциями ЕС/Великобритании — любое партнёрство и переписка требуют предварительной юридической (комплаенс) проверки
 • Сайт tafreshu.ac.ir недоступен (04.10.2026). Глава вуза д-р Сохейль Вашегани Фарахани назван «رئیس دانشگاه» в официальном Telegram-канале @tafreshu (ноябрь 2024); в постах 2025–2026 имя не встречается — актуальность не подтверждена. Указанный в Википедии д-р Махмудреза Шахверди, по-видимому, устарел
@@ -1306,7 +1316,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List)
 • Https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list)
 • Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv
-• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-04,
+• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-05,
 77,Иран,Бонаб,University of Bonab,دانشگاه بناب,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)","• Electrical Engineering
 • Mechanical Engineering
 • Civil Engineering
@@ -1315,7 +1325,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Agriculture","Velayat Highway, P.O. Box 5551761167, Bonab, East Azerbaijan, Iran",international@ubonab.ac.ir,"ФИО не найдено
 Директор по международным делам
 Управление международных дел
-Обращение: Dear Director of International Affairs,",international@ubonab.ac.ir,info@ubonab.ac.ir,+98 41 3774 5000,https://en.ubonab.ac.ir,Dr. Behzad Binesh,President,,,,0,,,,,,,0,3,да,средняя,"• THE2027: статус Reporter (без ранга) — rank_the оставлен пустым
+Обращение: Dear Director of International Affairs,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,international@ubonab.ac.ir,info@ubonab.ac.ir,+98 41 3774 5000,https://en.ubonab.ac.ir,Dr. Behzad Binesh,President,,,,0,,,,,,,0,3,да,средняя,"• THE2027: статус Reporter (без ранга) — rank_the оставлен пустым
 • Президент: д-р Бехзад Биниш (доцент) — с 28 мехра 1404 (окт. 2025) по fa Wikipedia, утверждён ВСКР (YJC: «تایید ۱۹ رئیس دانشگاه...»); en Wikipedia указывает предыдущего (К. Аббасиан)
 • International@ubonab.ac.ir — International Affairs (по сниппету официальной страницы); имя руководителя не подтверждено
 • Быстрая проверка спутников: не найдено
@@ -1326,7 +1336,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://en.ubonab.ac.ir/Page/80/International-Affairs.html
 • Https://en.ubonab.ac.ir/
 • Https://www.yjc.ir/fa/news/9016043/
-• Https://pr.ubonab.ac.ir/News/2083/Welcome-Message.html",2026-10-04,
+• Https://pr.ubonab.ac.ir/News/2083/Welcome-Message.html",2026-10-05,
 78,Иран,Кум,University of Hazrate Masoumeh,دانشگاه حضرت معصومه (س),Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Humanities
 • Engineering
 • Basic Sciences
@@ -1334,7 +1344,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Social Sciences","University of Hazrate Masoumeh, Al-Ghadir Blvd., opposite Yadegar-e Emam Stadium, Qom 3736175515 (P.O. Box 37115-145), Iran",info@hmu.ac.ir,"ФИО не найдено
 Директор по международному научному сотрудничеству
 Общий ящик университета (канцелярия)
-Обращение: Dear Director of International Scientific Cooperation,",,info@hmu.ac.ir,+98 25 32012,https://hmu.ac.ir,Dr. Seyedeh Fatemeh Faghihi,Acting President,,,,0,,,,,,,0,3,да,низкая,"• THE2027: Reporter (не ранжирован)
+Обращение: Dear Director of International Scientific Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@hmu.ac.ir,+98 25 32012,https://hmu.ac.ir,Dr. Seyedeh Fatemeh Faghihi,Acting President,,,,0,,,,,,,0,3,да,низкая,"• THE2027: Reporter (не ранжирован)
 • Руководитель: на персидской главной странице (новости 2026) — д-р Сейеде Фатеме Факихи, «сарпараст» (и.о. президента); английская страница President устарела (Maryam Bordbar)
 • Телефон опубликован в сокращённом виде «025-32012» (короткий номер); факс +98 25 3320 9050. Отдельного международного ящика не найдено — использовать info@hmu.ac.ir
 • Женский университет (только для студенток)
@@ -1342,7 +1352,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка
 • Перепроверка: Сайт hmu.ac.ir (включая en.) по-прежнему недоступен 04.10.2026; данные не изменены","• Https://hmu.ac.ir
 • Https://hmu.ac.ir/Category/Content/article/en/17934/2259
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 79,Иран,Джирофт,University of Jiroft,دانشگاه جیرفت,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Agriculture & Natural Resources
 • Engineering
 • Basic Sciences
@@ -1350,14 +1360,14 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Veterinary/Animal Sciences","University of Jiroft, Km 8 Persian Gulf Highway, Jiroft 7867155311, Kerman Province, Iran",m.moghbeli@ujiroft.ac.ir,"Dr. Moslem Moghbeli Damaneh
 Руководитель канцелярии президента, PR и международных дел
 Управление канцелярии президента, связей с общественностью и международных дел
-Обращение: Dear Dr. Moghbeli Damaneh,",m.moghbeli@ujiroft.ac.ir,President@ujiroft.ac.ir,+98 34 4123 3000,https://ujiroft.ac.ir,Dr. Omid Ali Esmaeilipour,President,,,,0,,,,,,,0,3,да,средняя,"• Президент д-р Омидали Эсмаилипур (личный e-mail omid.esmaeilipour@ujiroft.ac.ir) — по странице «Президент» сайта; дата обновления не указана
+Обращение: Dear Dr. Moghbeli Damaneh,","личный, совпало",m.moghbeli@ujiroft.ac.ir,President@ujiroft.ac.ir,+98 34 4123 3000,https://ujiroft.ac.ir,Dr. Omid Ali Esmaeilipour,President,,,,0,,,,,,,0,3,да,средняя,"• Президент д-р Омидали Эсмаилипур (личный e-mail omid.esmaeilipour@ujiroft.ac.ir) — по странице «Президент» сайта; дата обновления не указана
 • Международные дела объединены с канцелярией президента и PR: руководитель д-р Мослем Могбели Даманэ; email_international — его личный адрес (отдельного ящика нет). Общий info@ujiroft.ac.ir указан на англ. сайте
 • Космических проектов не выявлено (проверка только по nanosats.csv — квота веб-поиска исчерпана)
 • В санкционных списках ЕС/UK/США не найден; общие санкции против Ирана — нужна комплаенс-проверка","• Https://ujiroft.ac.ir/fa
 • Https://ujiroft.ac.ir/fa/page/215/ریاست
 • Https://ujiroft.ac.ir/fa/page/218/حوزه-ریاست-روابط-عمومی-و-امور-بین-الملل
 • Https://ujiroft.ac.ir/en
-• Nanosats.csv",2026-10-04,
+• Nanosats.csv",2026-10-05,
 80,Иран,Тегеран,University of Science and Culture,دانشگاه علم و فرهنگ,Другое,"Частный (негосударственный некоммерческий, учреждён ACECR / Джахад-е Данешгахи)","• Engineering (computer, industrial, electrical, textile)
 • Art & architecture
 • Humanities & social sciences
@@ -1365,18 +1375,19 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Biotechnology & life sciences (Royan Institute)","University of Science and Culture, Homa St., Bahar St., Shahid Qamoshi Ave., Ashrafi Esfahani Blvd., Tehran, Iran",info@usc.ac.ir,"Dr. Ali Saadollah
 Генеральный директор по международному сотрудничеству
 Общий ящик университета; адресат — Генеральный директорат международного сотрудничества
-Обращение: Dear Dr. Saadollah,",,info@usc.ac.ir,+98 21 4425 0414,https://usc.ac.ir (EN: https://en.usc.ac.ir),Dr. Mohammad Imani Khoshkhoo,President,,,,0,,,,,,,0,3,да,средняя,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
+Обращение: Dear Dr. Saadollah,",ящик общий,,info@usc.ac.ir,+98 21 4425 0414,https://usc.ac.ir,Dr. Mohammad Imani Khoshkhoo,President,,,,0,,,,,,,0,3,да,средняя,"• САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения
 • THE2027 — статус Reporter (без ранга), rank_the пуст
 • Негосударственный некоммерческий университет, учреждённый Академическим центром образования, культуры и исследований (ACECR); научные учёные звания президента и директора не указаны — используется «Dr.»
 • Отдельный e-mail международного офиса не найден; Генеральный директорат международного сотрудничества — директор Ali Saadollah (вн. тел. 618 по справочнику сайта). Письмо на info@usc.ac.ir с просьбой переадресовать
-• Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0","• Https://en.usc.ac.ir/
+• Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0
+• Дополнительные сайты: https://en.usc.ac.ir","• Https://en.usc.ac.ir/
 • Https://en.usc.ac.ir/contact-us/
 • Https://international.usc.ac.ir/en/
-• Https://en.wikipedia.org/wiki/University_of_Science_and_Culture",2026-10-04,
+• Https://en.wikipedia.org/wiki/University_of_Science_and_Culture",2026-10-05,
 81,Иран,Бехшехр,University of Science and Technology of Mazandaran,دانشگاه علم و فناوری مازندران,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)","• Mathematics
 • Electrical and Computer Engineering
 • Chemical Engineering
-• Industrial Engineering","University Blvd., Sea Road, P.O. Box 48518-78195, Behshahr, Mazandaran, Iran",,,,,+98 11 3455 2008,https://en.mazust.ac.ir,Dr. Ali Tahmasbi,Acting President,,,,0,,,,,,,0,3,,низкая,"• Руководитель: д-р Али Тахмасби (прикл. математика) — назначен и.о. президента (Mehr «سرپرست دانشگاه علم و فناوری مازندران منصوب شد», ок. 2026) вместо А. Раббани; статус и.о
+• Industrial Engineering","University Blvd., Sea Road, P.O. Box 48518-78195, Behshahr, Mazandaran, Iran",,,нет ящика: Найти e-mail международного отдела или канцелярии,,,+98 11 3455 2008,https://en.mazust.ac.ir,Dr. Ali Tahmasbi,Acting President,,,,0,,,,,,,0,3,,низкая,"• Руководитель: д-р Али Тахмасби (прикл. математика) — назначен и.о. президента (Mehr «سرپرست دانشگاه علم و فناوری مازندران منصوب شد», ок. 2026) вместо А. Раббани; статус и.о
 • Не путать с Mazandaran University of Science and Technology (Баболь, ustmb.ac.ir) и University of Mazandaran (umz.ac.ir)
 • E-mail не найден; телефон из сниппета (+98 11 3455 2008) — перепроверить
 • Быстрая проверка спутников: не найдено
@@ -1386,7 +1397,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Перепроверка: Сайты mazust.ac.ir / en.mazust.ac.ir по-прежнему недоступны (04.10.2026, сброс соединения); данные не изменены","• Https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_Mazandaran
 • Https://fa.wikipedia.org/wiki/دانشگاه_علم_و_فناوری_مازندران
 • Https://www.mehrnews.com/news/6927510/
-• Https://www.msrt.ir/fa/grid/217/",2026-10-04,
+• Https://www.msrt.ir/fa/grid/217/",2026-10-05,
 82,Иран,Урмия,Urmia University of Technology (UUT),دانشگاه صنعتی ارومیه,Технический / аэрокосмический,"Государственный (Минобрнауки Ирана, MSRT)","• Electrical engineering
 • Mechanical engineering
 • Civil engineering
@@ -1395,7 +1406,7 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Computer & IT","Urmia University of Technology, beginning of Band Road, above Golshahr 2, Urmia, West Azerbaijan, Iran (Postal Code 57166-17165)",info@uut.ac.ir,"ФИО не найдено
 Руководитель Управления международных дел
 Общий ящик университета (info@uut.ac.ir)
-Обращение: Dear Director of International Affairs,",,info@uut.ac.ir,+98 44 3198 0251,https://uut.ac.ir,Dr. Yaghoub Pourasad,President,,THE2027: Reporter (unranked),,0,,,,,,,0,3,нет,средняя,"• Прямая связь с президентом: po@uut.ac.ir; личный e-mail президента y.pourasad@uut.ac.ir; тел. приёмной +98 44 3198 0203
+Обращение: Dear Director of International Affairs,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,info@uut.ac.ir,+98 44 3198 0251,https://uut.ac.ir,Dr. Yaghoub Pourasad,President,,THE2027: Reporter (unranked),,0,,,,,,,0,3,нет,средняя,"• Прямая связь с президентом: po@uut.ac.ir; личный e-mail президента y.pourasad@uut.ac.ir; тел. приёмной +98 44 3198 0203
 • Подразделение «امور بین الملل» (международные дела) есть, но его страница пуста — e-mail и руководитель не найдены
 • Основные направления указаны по общему профилю технического университета (на открытых страницах список факультетов не проверен)
 • Космическая проверка (LIGHT) — только по nanosats.csv/Gunter's Space Page: спутников не найдено (лимит веб-поиска исчерпан, отдельный поиск не выполнялся)
@@ -1408,14 +1419,14 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv (incl. BIS Entity List)
 • Https://webgate.ec.europa.eu/fsd/fsf (EU consolidated list)
 • Https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv
-• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-04,
+• Https://www.nanosats.eu (local export nanosats.csv)",2026-10-05,
 83,Иран,Ясудж,Yasouj University,دانشگاه یاسوج,Классический,"Государственный (Минобрнауки Ирана, MSRT)","• Agriculture and Natural Resources
 • Engineering
 • Basic Sciences
 • Humanities
 • Literature","Daneshjoo St., Yasuj 75918-74934, Kohgiluyeh and Boyer-Ahmad Province, Iran",pr@yu.ac.ir,"ФИО не найдено
 Служба по связям с общественностью
-Обращение: Dear Director of International Scientific Cooperation,",,pr@yu.ac.ir,,https://yu.ac.ir/en,Dr. Mahdi Nouripour,President,,,,0,,,,,,,0,3,да,низкая,"• Президент: д-р Махди Нурипур (fa Wikipedia, сниппет 1404); дата назначения не подтверждена
+Обращение: Dear Director of International Scientific Cooperation,",нет имени: Письмо с нейтральным обращением; имя найти при проверке сайта,,pr@yu.ac.ir,,https://yu.ac.ir/en,Dr. Mahdi Nouripour,President,,,,0,,,,,,,0,3,да,низкая,"• Президент: д-р Махди Нурипур (fa Wikipedia, сниппет 1404); дата назначения не подтверждена
 • Pr@yu.ac.ir — ящик службы по связям с общественностью (единственный найденный общий адрес); ящик Управления международного научного сотрудничества не найден
 • Телефон в сниппете искажён (+98 917431000) — не использован
 • Быстрая проверка спутников: не найдено
@@ -1425,4 +1436,4 @@ not on BIS Entity List)",95,1A,,низкая,"• САНКЦИИ: организ
 • Перепроверка: 04.10.2026: yu.ac.ir по-прежнему недоступен (503); данные не изменены","• Https://en.wikipedia.org/wiki/Yasouj_University
 • Https://fa.wikipedia.org/wiki/دانشگاه_یاسوج
 • Https://yu.ac.ir/en/main/content/2907
-• Http://president.yu.ac.ir/fa/node/2427",2026-10-04,
+• Http://president.yu.ac.ir/fa/node/2427",2026-10-05,
