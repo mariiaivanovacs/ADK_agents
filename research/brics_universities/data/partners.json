@@ -36,7 +36,9 @@
   "mailbox_owner": "Департамент международного сотрудничества и интернационализации",
   "addressee_name": "Yesbol Omirzhanov",
   "addressee_title": "Директор департамента международного сотрудничества и интернационализации",
-  "salutation": "Dear Mr. Omirzhanov,"
+  "salutation": "Dear Mr. Omirzhanov,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -76,7 +78,9 @@
   "mailbox_owner": "Канцелярия (приёмная) университета",
   "addressee_name": "Kadisha Dairova",
   "addressee_title": "Вице-президент по делам студентов и международному сотрудничеству",
-  "salutation": "Dear Ms. Dairova,"
+  "salutation": "Dear Ms. Dairova,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -116,7 +120,9 @@
   "mailbox_owner": "Офис международного сотрудничества",
   "addressee_name": "Dr. Nulgul Nalgozhina",
   "addressee_title": "Руководитель офиса международного сотрудничества (PhD)",
-  "salutation": "Dear Dr. Nalgozhina,"
+  "salutation": "Dear Dr. Nalgozhina,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -156,7 +162,9 @@
   "mailbox_owner": "Канцелярия / приёмная ректора",
   "addressee_name": "Duman Aitmagambetov",
   "addressee_title": "Член Правления – проректор по стратегическому развитию и интернационализации",
-  "salutation": "Dear Mr. Aitmagambetov,"
+  "salutation": "Dear Mr. Aitmagambetov,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -196,7 +204,9 @@
   "mailbox_owner": "Канцелярия университета",
   "addressee_name": "Saule Tlevlessova",
   "addressee_title": "Проректор по интернационализации",
-  "salutation": "Dear Ms. Tlevlessova,"
+  "salutation": "Dear Ms. Tlevlessova,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -235,7 +245,9 @@
   "mailbox_owner": "Департамент международного сотрудничества",
   "addressee_name": "Sabina Manapova",
   "addressee_title": "Директор департамента международного сотрудничества",
-  "salutation": "Dear Ms. Manapova,"
+  "salutation": "Dear Ms. Manapova,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -275,7 +287,9 @@
   "mailbox_owner": "Канцелярия",
   "addressee_name": "Osken Toishibekov",
   "addressee_title": "Директор",
-  "salutation": "Dear Mr. Toishibekov,"
+  "salutation": "Dear Mr. Toishibekov,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -313,7 +327,9 @@
   "mailbox_owner": "Приёмная ректора",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Kazakhstan",
@@ -352,7 +368,9 @@
   "mailbox_owner": "Управление международного сотрудничества",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Kazakhstan",
@@ -391,7 +409,9 @@
   "mailbox_owner": "Международный офис (International Office)",
   "addressee_name": "Abzal Abdramanov",
   "addressee_title": "Руководитель международного офиса",
-  "salutation": "Dear Mr. Abdramanov,"
+  "salutation": "Dear Mr. Abdramanov,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -432,7 +452,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Office,",
-  "recheck_ru": "Сайт kazatu.edu.kz по-прежнему недоступен (DNS/502); адрес, office@kazatu.edu.kz, телефон приёмной и ректор К.М. Тиреуов внесены по выдаче официальных страниц (kazatu.edu.kz/ru/contacts), не открытых напрямую"
+  "recheck_ru": "Сайт kazatu.edu.kz по-прежнему недоступен (DNS/502); адрес, office@kazatu.edu.kz, телефон приёмной и ректор К.М. Тиреуов внесены по выдаче официальных страниц (kazatu.edu.kz/ru/contacts), не открытых напрямую",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Kazakhstan",
@@ -471,7 +493,9 @@
   "mailbox_owner": "Департамент международного сотрудничества",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Kazakhstan",
@@ -510,7 +534,9 @@
   "mailbox_owner": "Проректор по финансам и международным связям",
   "addressee_name": "Dr. Mustafa Giritlioğlu",
   "addressee_title": "Проректор по финансам и международным связям",
-  "salutation": "Dear Dr. Giritlioğlu,"
+  "salutation": "Dear Dr. Giritlioğlu,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -550,7 +576,9 @@
   "mailbox_owner": "Международный офис",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Kazakhstan",
@@ -589,7 +617,9 @@
   "mailbox_owner": "Проректор по глобальным партнёрствам",
   "addressee_name": "Sholpan Tazabek",
   "addressee_title": "Проректор по глобальным партнёрствам",
-  "salutation": "Dear Ms. Tazabek,"
+  "salutation": "Dear Ms. Tazabek,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -629,7 +659,9 @@
   "mailbox_owner": "Управление международных отношений и академической мобильности",
   "addressee_name": "Madina Aliyarova",
   "addressee_title": "Начальник управления международных отношений и академической мобильности",
-  "salutation": "Dear Ms. Aliyarova,"
+  "salutation": "Dear Ms. Aliyarova,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -668,7 +700,9 @@
   "mailbox_owner": "Департамент международного сотрудничества",
   "addressee_name": "Dinara Saparova",
   "addressee_title": "Директор департамента международного сотрудничества",
-  "salutation": "Dear Ms. Saparova,"
+  "salutation": "Dear Ms. Saparova,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -707,7 +741,9 @@
   "mailbox_owner": "Офис (канцелярия) университета",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Kazakhstan",
@@ -746,7 +782,9 @@
   "mailbox_owner": "Канцелярия",
   "addressee_name": "Rakhmetolla Zakarya",
   "addressee_title": "Проректор по стратегическому развитию и интернационализации",
-  "salutation": "Dear Mr. Zakarya,"
+  "salutation": "Dear Mr. Zakarya,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -785,7 +823,9 @@
   "mailbox_owner": "Приёмная ректора",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Kazakhstan",
@@ -824,7 +864,9 @@
   "mailbox_owner": "Канцелярия",
   "addressee_name": "Arayly Sarsembayeva",
   "addressee_title": "Член Правления – проректор по международному сотрудничеству",
-  "salutation": "Dear Ms. Sarsembayeva,"
+  "salutation": "Dear Ms. Sarsembayeva,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -863,7 +905,9 @@
   "mailbox_owner": "Канцелярия",
   "addressee_name": "Gaziz Dosmakhambetuly",
   "addressee_title": "Руководитель управления международного сотрудничества",
-  "salutation": "Dear Mr. Dosmakhambetuly,"
+  "salutation": "Dear Mr. Dosmakhambetuly,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -902,7 +946,9 @@
   "mailbox_owner": "Международный отдел",
   "addressee_name": "Alibek Kubashev",
   "addressee_title": "Руководитель международного отдела",
-  "salutation": "Dear Mr. Kubashev,"
+  "salutation": "Dear Mr. Kubashev,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -943,7 +989,9 @@
   "mailbox_owner": "Департамент международного сотрудничества",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Kazakhstan",
@@ -986,7 +1034,9 @@
   "addressee_name": "Asel Dilmuratkyzy",
   "addressee_title": "Руководитель отдела международного сотрудничества",
   "salutation": "Dear Ms. Dilmuratkyzy,",
-  "recheck_ru": "04.10.2026: адрес, общий e-mail и контакт международного отдела подтверждены на сайте; уточнена форма собственности (НАО); ректор на сайте не назван"
+  "recheck_ru": "04.10.2026: адрес, общий e-mail и контакт международного отдела подтверждены на сайте; уточнена форма собственности (НАО); ректор на сайте не назван",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -1026,7 +1076,9 @@
   "mailbox_owner": "Центр международных программ и проектов",
   "addressee_name": "Aliya Abdikarimova",
   "addressee_title": "Проректор по международным связям и стратегическому развитию",
-  "salutation": "Dear Ms. Abdikarimova,"
+  "salutation": "Dear Ms. Abdikarimova,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -1065,7 +1117,9 @@
   "mailbox_owner": "Канцелярия",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Kazakhstan",
@@ -1105,7 +1159,9 @@
   "mailbox_owner": "Приёмная университета",
   "addressee_name": "Diana Ismailova",
   "addressee_title": "Проректор по глобальному партнёрству",
-  "salutation": "Dear Ms. Ismailova,"
+  "salutation": "Dear Ms. Ismailova,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Kazakhstan",
@@ -1144,7 +1200,9 @@
   "mailbox_owner": "Отдел международных связей",
   "addressee_name": "Dr. Zhazira Ailauova",
   "addressee_title": "Руководитель отдела международных связей (PhD)",
-  "salutation": "Dear Dr. Ailauova,"
+  "salutation": "Dear Dr. Ailauova,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -1184,7 +1242,9 @@
   "mailbox_owner": "Департамент стратегического развития и международного сотрудничества",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Kazakhstan",
@@ -1223,7 +1283,9 @@
   "mailbox_owner": "Канцелярия",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Kazakhstan",
@@ -1266,7 +1328,9 @@
   "addressee_name": "Сергазин Ғани Құдайбергенұлы (PhD)",
   "addressee_title": "Vice-Rector for Research and International Cooperation",
   "salutation": "Dear Vice-Rector,",
-  "recheck_ru": "Сайт alt.edu.kz открыт 04.10.2026: ректор (Жармагамбетова М.С., rector@alt.edu.kz), проректор по науке и международному сотрудничеству, адрес, телефон и info@ подтверждены на официальных страницах (новости от 01–02.10.2026)."
+  "recheck_ru": "Сайт alt.edu.kz открыт 04.10.2026: ректор (Жармагамбетова М.С., rector@alt.edu.kz), проректор по науке и международному сотрудничеству, адрес, телефон и info@ подтверждены на официальных страницах (новости от 01–02.10.2026).",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -1308,7 +1372,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Office,",
-  "recheck_ru": "Общий и международный e-mail, телефоны и адрес подтверждены через официальный API сайта 04.10.2026; ректор — по коду сайта и новостям 2026 г."
+  "recheck_ru": "Общий и международный e-mail, телефоны и адрес подтверждены через официальный API сайта 04.10.2026; ректор — по коду сайта и новостям 2026 г.",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Kazakhstan",
@@ -1348,7 +1414,9 @@
   "mailbox_owner": "Канцелярия",
   "addressee_name": "Talgat Zhunuskaliyev",
   "addressee_title": "И.о. Председателя Правления – ректора; проректор по инновациям и интернационализации",
-  "salutation": "Dear Mr. Zhunuskaliyev,"
+  "salutation": "Dear Mr. Zhunuskaliyev,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -1387,7 +1455,9 @@
   "mailbox_owner": "Департамент международных отношений",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Kazakhstan",
@@ -1427,7 +1497,9 @@
   "mailbox_owner": "Центр международного сотрудничества",
   "addressee_name": "Shyryn Masalimova",
   "addressee_title": "Руководитель Центра международного сотрудничества",
-  "salutation": "Dear Ms. Masalimova,"
+  "salutation": "Dear Ms. Masalimova,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -1466,7 +1538,9 @@
   "mailbox_owner": "Отдел развития международного сотрудничества (Департамент международного сотрудничества)",
   "addressee_name": "Aidana Algazinova",
   "addressee_title": "Директор Департамента международного сотрудничества",
-  "salutation": "Dear Ms. Algazinova,"
+  "salutation": "Dear Ms. Algazinova,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -1505,7 +1579,9 @@
   "mailbox_owner": "Приёмная (reception)",
   "addressee_name": "Gulzhanat Tayauova",
   "addressee_title": "Проректор по внешним связям и докторантуре",
-  "salutation": "Dear Ms. Tayauova,"
+  "salutation": "Dear Ms. Tayauova,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -1544,7 +1620,9 @@
   "mailbox_owner": "Проректор по интернационализации и развитию инфраструктуры",
   "addressee_name": "Dr. Zhailagul Sagyndykova",
   "addressee_title": "Проректор по интернационализации и развитию инфраструктуры",
-  "salutation": "Dear Dr. Sagyndykova,"
+  "salutation": "Dear Dr. Sagyndykova,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Kazakhstan",
@@ -1586,7 +1664,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Office,",
-  "recheck_ru": "Сайт yu.edu.kz открыт 04.10.2026, но страница контактов — шаблон-заглушка без телефонов/e-mail, поиск по WP API имени первого руководителя не дал; данные не изменены."
+  "recheck_ru": "Сайт yu.edu.kz открыт 04.10.2026, но страница контактов — шаблон-заглушка без телефонов/e-mail, поиск по WP API имени первого руководителя не дал; данные не изменены.",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Malaysia",
@@ -1626,7 +1706,9 @@
   "mailbox_owner": "Канцелярия помощника вице-канцлера по международным делам (UiTM Global)",
   "addressee_name": "Prof. Datin Dr. Norazida binti Mohamed",
   "addressee_title": "Помощник вице-канцлера по международным делам",
-  "salutation": "Dear Prof. Datin Dr. Norazida,"
+  "salutation": "Dear Prof. Datin Dr. Norazida,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Malaysia",
@@ -1665,7 +1747,9 @@
   "mailbox_owner": "Международный офис (International Office, IO@USM)",
   "addressee_name": "Prof. Dr. Lee Keat Teong",
   "addressee_title": "Директор Международного офиса",
-  "salutation": "Dear Prof. Lee,"
+  "salutation": "Dear Prof. Lee,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -1703,7 +1787,9 @@
   "mailbox_owner": "UTM International (Управление международного сотрудничества)",
   "addressee_name": "Assoc. Prof. Dr. Mohd Ariffin bin Abu Hassan",
   "addressee_title": "Директор UTM International",
-  "salutation": "Dear Assoc. Prof. Dr. Mohd Ariffin,"
+  "salutation": "Dear Assoc. Prof. Dr. Mohd Ariffin,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -1743,7 +1829,9 @@
   "mailbox_owner": "Международный центр PUTRA (PUTRA International Centre, i-PUTRA)",
   "addressee_name": "Prof. Dr. Alyani Ismail",
   "addressee_title": "Директор Международного центра PUTRA (i-PUTRA)",
-  "salutation": "Dear Prof. Dr. Alyani,"
+  "salutation": "Dear Prof. Dr. Alyani,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -1782,7 +1870,9 @@
   "mailbox_owner": "Центр международных связей (International Relations Centre, UKM Global)",
   "addressee_name": "Assoc. Prof. Dr. Akmal Sabarudin",
   "addressee_title": "Директор Центра международных связей (UKM Global)",
-  "salutation": "Dear Assoc. Prof. Dr. Akmal,"
+  "salutation": "Dear Assoc. Prof. Dr. Akmal,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -1822,7 +1912,9 @@
   "mailbox_owner": "Центр международных связей (International Relations Centre)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Malaysia",
@@ -1862,7 +1954,9 @@
   "mailbox_owner": "Канцелярия Генерального директора (штаб-квартира MYSA)",
   "addressee_name": "Dato' Gs. Haji Azlikamil Napiah",
   "addressee_title": "Генеральный директор Малайзийского космического агентства",
-  "salutation": "Dear Dato' Azlikamil,"
+  "salutation": "Dear Dato' Azlikamil,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Malaysia",
@@ -1902,7 +1996,9 @@
   "mailbox_owner": "Отдел международных связей (International Relations Office)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Malaysia",
@@ -1941,7 +2037,9 @@
   "mailbox_owner": "Отдел международного сотрудничества (International Cooperation Unit, International Office)",
   "addressee_name": "Ts. Dr. Nazrita binti Ibrahim",
   "addressee_title": "Директор отдела международного сотрудничества",
-  "salutation": "Dear Ts. Dr. Nazrita,"
+  "salutation": "Dear Ts. Dr. Nazrita,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -1980,7 +2078,9 @@
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Malaysia",
@@ -2019,7 +2119,9 @@
   "mailbox_owner": "Общая приёмная университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Malaysia",
@@ -2058,7 +2160,9 @@
   "mailbox_owner": "Центр международных дел и сотрудничества (CIAC)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Malaysia",
@@ -2097,7 +2201,9 @@
   "mailbox_owner": "Вице-президент по международным делам (International Affairs)",
   "addressee_name": "Prof. Dr. Indang Ariati Ariffin",
   "addressee_title": "Вице-президент по международным делам",
-  "salutation": "Dear Prof. Dr. Indang Ariati,"
+  "salutation": "Dear Prof. Dr. Indang Ariati,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Malaysia",
@@ -2136,7 +2242,9 @@
   "mailbox_owner": "Общий адрес университета (Centre for Corporate Communications)",
   "addressee_name": "Assoc. Prof. Ts. Dr. Herma Dina binti Setiabudi",
   "addressee_title": "Директор Центра глобального взаимодействия (Centre for Global Engagement)",
-  "salutation": "Dear Assoc. Prof. Dr. Herma Dina,"
+  "salutation": "Dear Assoc. Prof. Dr. Herma Dina,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -2174,7 +2282,9 @@
   "mailbox_owner": "Канцелярия проректора по академическим и международным делам",
   "addressee_name": "Prof. Dr. Raja Nor Safinas binti Raja Harun",
   "addressee_title": "Проректор (DVC) по академическим и международным делам",
-  "salutation": "Dear Prof. Dr. Raja Nor Safinas,"
+  "salutation": "Dear Prof. Dr. Raja Nor Safinas,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -2214,7 +2324,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Office,",
-  "recheck_ru": "04.10.2026: mahsa.edu.my и www.mahsa.edu.my — HTTP 403; поиск не дал официальных данных о руководстве — данные не изменены."
+  "recheck_ru": "04.10.2026: mahsa.edu.my и www.mahsa.edu.my — HTTP 403; поиск не дал официальных данных о руководстве — данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Malaysia",
@@ -2253,7 +2365,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и взаимодействия (International Collaboration and Engagement, ICE)",
   "addressee_name": "Dr. Sy. Nurleyana Wafa Sy. Naguib Wafa",
   "addressee_title": "Директор отдела ICE",
-  "salutation": "Dear Dr. Nurleyana Wafa,"
+  "salutation": "Dear Dr. Nurleyana Wafa,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -2292,7 +2406,9 @@
   "mailbox_owner": "Международный центр (International Centre)",
   "addressee_name": "Prof. Ts. Dr. Kesaven a/l Bhubalan",
   "addressee_title": "Директор Международного центра",
-  "salutation": "Dear Prof. Dr. Kesaven,"
+  "salutation": "Dear Prof. Dr. Kesaven,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -2332,7 +2448,9 @@
   "mailbox_owner": "Международный центр (International Centre)",
   "addressee_name": "Mr. Cornelius Anuar Abdullah Mc Afee",
   "addressee_title": "Директор Международного центра",
-  "salutation": "Dear Mr. Cornelius,"
+  "salutation": "Dear Mr. Cornelius,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -2373,7 +2491,9 @@
   "addressee_name": "Ir. Prof. Dato' Dr. Ewe Hong Tat",
   "addressee_title": "Президент университета",
   "salutation": "Dear Prof. Ewe,",
-  "recheck_ru": "Сайт utar.edu.my открыт через reader-сервис 04.10.2026: президент (Ewe Hong Tat, с 2019 г.), адреса кампусов, info@utar.edu.my, president@utar.edu.my и телефоны подтверждены; страницы офиса президента и OIA с © 2019, e-mail OIA не опубликован."
+  "recheck_ru": "Сайт utar.edu.my открыт через reader-сервис 04.10.2026: президент (Ewe Hong Tat, с 2019 г.), адреса кампусов, info@utar.edu.my, president@utar.edu.my и телефоны подтверждены; страницы офиса президента и OIA с © 2019, e-mail OIA не опубликован.",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -2412,7 +2532,9 @@
   "mailbox_owner": "Отдел партнёров и представителей (Partners and Representatives)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Malaysia",
@@ -2450,7 +2572,9 @@
   "mailbox_owner": "Отдел корпоративных коммуникаций",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Malaysia",
@@ -2490,7 +2614,9 @@
   "mailbox_owner": "Веб-мастер (единственный опубликованный общий адрес)",
   "addressee_name": "Mr. Norazilee Abd. Aziz",
   "addressee_title": "Директор Управления международных дел (Office of International Affairs)",
-  "salutation": "Dear Mr. Norazilee,"
+  "salutation": "Dear Mr. Norazilee,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик приёмной комиссии/вебмастера — найти ящик международного отдела"
  },
  {
   "country": "Malaysia",
@@ -2528,7 +2654,9 @@
   "mailbox_owner": "Международный офис (International Office) — ящик директора",
   "addressee_name": "Prof. Muhammad Ramlee Kamarudin, PhD",
   "addressee_title": "Директор Международного офиса",
-  "salutation": "Dear Prof. Muhammad Ramlee,"
+  "salutation": "Dear Prof. Muhammad Ramlee,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -2567,7 +2695,9 @@
   "mailbox_owner": "Канцелярия университета (Chancellery)",
   "addressee_name": "Mr. Hazman Hasib",
   "addressee_title": "Директор Центра стратегических корпоративных и глобальных связей (UGLOBE)",
-  "salutation": "Dear Mr. Hazman,"
+  "salutation": "Dear Mr. Hazman,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Malaysia",
@@ -2606,7 +2736,9 @@
   "mailbox_owner": "Отдел международных связей (International Affairs)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Malaysia",
@@ -2645,7 +2777,9 @@
   "mailbox_owner": "Центр корпоративных коммуникаций (Pusat Komunikasi Korporat)",
   "addressee_name": "Prof. Dr. Huzili bin Hussin",
   "addressee_title": "Проректор по академической и международной работе (Deputy Vice-Chancellor, Academic & International)",
-  "salutation": "Dear Prof. Dr. Huzili,"
+  "salutation": "Dear Prof. Dr. Huzili,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -2684,7 +2818,9 @@
   "mailbox_owner": "Центр международного взаимодействия (Centre for International Engagement)",
   "addressee_name": "Assoc. Prof. Ir. Dr. Umi Fazara Md. Ali",
   "addressee_title": "Директор Центра международного взаимодействия",
-  "salutation": "Dear Assoc. Prof. Dr. Umi Fazara,"
+  "salutation": "Dear Assoc. Prof. Dr. Umi Fazara,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -2723,7 +2859,9 @@
   "mailbox_owner": "Центр корпоративных коммуникаций",
   "addressee_name": "Prof. Datuk Dr. Rossita Shapawi",
   "addressee_title": "Проректор по академической и международной работе (Deputy Vice-Chancellor, Academic & International)",
-  "salutation": "Dear Prof. Datuk Dr. Rossita,"
+  "salutation": "Dear Prof. Datuk Dr. Rossita,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -2763,7 +2901,9 @@
   "mailbox_owner": "Международный центр USIM ‘Alamiyyah (International Centre)",
   "addressee_name": "Assoc. Prof. Dr. Sofia Hayati Yusoff",
   "addressee_title": "Директор международного центра",
-  "salutation": "Dear Assoc. Prof. Dr. Sofia Hayati,"
+  "salutation": "Dear Assoc. Prof. Dr. Sofia Hayati,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Malaysia",
@@ -2803,7 +2943,9 @@
   "mailbox_owner": "Веб-администратор (общий ящик сайта)",
   "addressee_name": "Prof. Ts. Dr. Norhana binti Abdul Halim",
   "addressee_title": "Проректор по академической и международной работе (Timbalan Naib Canselor, Akademik dan Antarabangsa)",
-  "salutation": "Dear Prof. Dr. Norhana,"
+  "salutation": "Dear Prof. Dr. Norhana,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик приёмной комиссии/вебмастера — найти ящик международного отдела"
  },
  {
   "country": "Malaysia",
@@ -2842,7 +2984,9 @@
   "mailbox_owner": "Офис глобальной мобильности и отраслевых партнёрств (Global Mobility & Industry Partnerships)",
   "addressee_name": "Prof. Dr. Anthony Ho Siong Hock",
   "addressee_title": "Проректор по глобальному взаимодействию (Pro Vice-Chancellor, Global Engagement)",
-  "salutation": "Dear Prof. Ho,"
+  "salutation": "Dear Prof. Ho,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -2882,7 +3026,9 @@
   "mailbox_owner": "Офис международной мобильности (Monash Abroad)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Malaysia",
@@ -2922,7 +3068,9 @@
   "mailbox_owner": "Офис глобального взаимодействия и партнёрств (Global Engagement and Partnerships Office)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Malaysia",
@@ -2961,7 +3109,9 @@
   "mailbox_owner": "Общий ящик кампуса (Heriot-Watt University Malaysia)",
   "addressee_name": "Prof. Mushtak Al-Atabi",
   "addressee_title": "Провост, генеральный директор и вице-принципал",
-  "salutation": "Dear Prof. Al-Atabi,"
+  "salutation": "Dear Prof. Al-Atabi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -3000,7 +3150,9 @@
   "mailbox_owner": "Офис партнёрств (Global Engagement — Partnerships Hub)",
   "addressee_name": "Jagdish Singh Malhi",
   "addressee_title": "Директор по набору студентов и маркетингу (курирует глобальное взаимодействие и партнёрства)",
-  "salutation": "Dear Mr. Malhi,"
+  "salutation": "Dear Mr. Malhi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -3039,7 +3191,9 @@
   "mailbox_owner": "Отдел приёма (Course Enquiries)",
   "addressee_name": "Ir. Prof. Lau Hieng Ho",
   "addressee_title": "Про-вице-канцлер и генеральный директор кампуса",
-  "salutation": "Dear Prof. Lau,"
+  "salutation": "Dear Prof. Lau,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -3079,7 +3233,9 @@
   "mailbox_owner": "Общий ящик для запросов (General Enquiries)",
   "addressee_name": "Prof. Vincent Lee Chieng Chen",
   "addressee_title": "Про-вице-канцлер, президент и генеральный директор кампуса",
-  "salutation": "Dear Prof. Lee,"
+  "salutation": "Dear Prof. Lee,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -3119,7 +3275,9 @@
   "mailbox_owner": "Офис глобального взаимодействия (Global Engagement Office, GEO)",
   "addressee_name": "Roland Chan Chih Chien",
   "addressee_title": "Директор офиса глобального взаимодействия",
-  "salutation": "Dear Mr. Chan,"
+  "salutation": "Dear Mr. Chan,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -3161,7 +3319,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Office,",
-  "recheck_ru": "Сайты SEGi (university.segi.edu.my — ошибка TLS, www.segi.edu.my — Cloudflare 403) по-прежнему недоступны; данные не изменены"
+  "recheck_ru": "Сайты SEGi (university.segi.edu.my — ошибка TLS, www.segi.edu.my — Cloudflare 403) по-прежнему недоступны; данные не изменены",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Malaysia",
@@ -3200,7 +3360,9 @@
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Malaysia",
@@ -3240,7 +3402,9 @@
   "mailbox_owner": "Приёмная комиссия (Admissions)",
   "addressee_name": "Stephen Wu Ghee Kean",
   "addressee_title": "Проректор по международной работе и партнёрствам (Pro Vice Chancellor, International & Partnership), директор Центра академического сотрудничества",
-  "salutation": "Dear Mr. Wu,"
+  "salutation": "Dear Mr. Wu,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -3280,7 +3444,9 @@
   "mailbox_owner": "Общий ящик для запросов (General Enquiries)",
   "addressee_name": "Asst. Prof. Ts. Dr. Ammar Bathich",
   "addressee_title": "Генеральный директор (CEO)",
-  "salutation": "Dear Dr. Bathich,"
+  "salutation": "Dear Dr. Bathich,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -3323,7 +3489,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Office,",
-  "recheck_ru": "Сайт jesselton.edu.my по-прежнему за Cloudflare (403), ACBSP тоже 403; поисковая выдача 04.10.2026 называет VC Prof. Dr. Vincent Oh Kim Seng — не подтверждено; данные не изменены"
+  "recheck_ru": "Сайт jesselton.edu.my по-прежнему за Cloudflare (403), ACBSP тоже 403; поисковая выдача 04.10.2026 называет VC Prof. Dr. Vincent Oh Kim Seng — не подтверждено; данные не изменены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Malaysia",
@@ -3366,7 +3534,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Office,",
-  "recheck_ru": "nbuc.edu.my показывает «Bot Verification» — данные не изменены (04.10.2026)"
+  "recheck_ru": "nbuc.edu.my показывает «Bot Verification» — данные не изменены (04.10.2026)",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Malaysia",
@@ -3406,7 +3576,9 @@
   "mailbox_owner": "Общий ящик запросов (General Enquiries)",
   "addressee_name": "Datuk Ts. Dr. Mohd Razali bin Muhamad",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Datuk Dr. Mohd Razali,"
+  "salutation": "Dear Datuk Dr. Mohd Razali,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -3446,7 +3618,9 @@
   "mailbox_owner": "Общий ящик (Chancellery / General Enquiries)",
   "addressee_name": "Prof. Datuk Is. Dr. Mazrin Rohizaq bin Che Rose",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Datuk Dr. Mazrin,"
+  "salutation": "Dear Prof. Datuk Dr. Mazrin,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -3486,7 +3660,9 @@
   "mailbox_owner": "Общий ящик запросов (General Enquiries)",
   "addressee_name": "Dr. Mohd Erfino bin Johari",
   "addressee_title": "Проректор по академической работе и интернационализации (Deputy Vice-Chancellor, Academic & Internationalisation)",
-  "salutation": "Dear Dr. Erfino,"
+  "salutation": "Dear Dr. Erfino,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Malaysia",
@@ -3526,7 +3702,9 @@
   "mailbox_owner": "Центр совместных партнёрств (Centre for Collaborative Partnership, CCP)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Thailand",
@@ -3565,7 +3743,9 @@
   "mailbox_owner": "Международный отдел / Центр международного сотрудничества (International Cooperation Centre, Office of the President)",
   "addressee_name": "Assoc. Prof. Dr. Pichet Sriyanyong",
   "addressee_title": "Вице-президент (проректор) по международным делам",
-  "salutation": "Dear Assoc. Prof. Dr. Pichet,"
+  "salutation": "Dear Assoc. Prof. Dr. Pichet,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -3604,7 +3784,9 @@
   "mailbox_owner": "Управление международных связей (Office of International Affairs)",
   "addressee_name": "Asst. Prof. Dr. Pitcha Prasitmeeboon",
   "addressee_title": "Проректор (вице-президент) по международным связям",
-  "salutation": "Dear Asst. Prof. Dr. Pitcha,"
+  "salutation": "Dear Asst. Prof. Dr. Pitcha,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -3644,7 +3826,9 @@
   "mailbox_owner": "Отдел делопроизводства / официальной корреспонденции (Saraban)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Thailand",
@@ -3688,7 +3872,9 @@
   "addressee_name": "Dr. Pakorn Apaphant",
   "addressee_title": "Executive Director (ceo@gistda.or.th, +66 2 141 4450)",
   "salutation": "Dear Dr. Apaphant,",
-  "recheck_ru": "Сайт открыт по http 04.10.2026: директор, адрес, телефон и e-mail подтверждены на официальных страницах; добавлены ceo@ и ящик зам. директора по стратегическим альянсам"
+  "recheck_ru": "Сайт открыт по http 04.10.2026: директор, адрес, телефон и e-mail подтверждены на официальных страницах; добавлены ceo@ и ящик зам. директора по стратегическим альянсам",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Thailand",
@@ -3727,7 +3913,9 @@
   "mailbox_owner": "Управление международных связей и глобальных сетей (Office of International Affairs and Global Network)",
   "addressee_name": "Assoc. Prof. Dr. Palanee Ammaranond",
   "addressee_title": "Проректор (вице-президент) по международным связям",
-  "salutation": "Dear Assoc. Prof. Dr. Palanee,"
+  "salutation": "Dear Assoc. Prof. Dr. Palanee,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Thailand",
@@ -3766,7 +3954,9 @@
   "mailbox_owner": "Отдел международных связей (International Relations Division, Office of the President)",
   "addressee_name": "Assoc. Prof. Dr. Nopraenue Sajjarax Dhirathiti",
   "addressee_title": "Вице-президент (проректор) по глобальному партнёрству и делам университетского совета",
-  "salutation": "Dear Assoc. Prof. Dr. Nopraenue,"
+  "salutation": "Dear Assoc. Prof. Dr. Nopraenue,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -3806,7 +3996,9 @@
   "mailbox_owner": "Центр международных связей (Center for International Affairs, CIA)",
   "addressee_name": "Asst. Prof. Dr. Wipawee Usaha",
   "addressee_title": "И.о. директора Центра международных связей",
-  "salutation": "Dear Asst. Prof. Dr. Wipawee,"
+  "salutation": "Dear Asst. Prof. Dr. Wipawee,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -3845,7 +4037,9 @@
   "mailbox_owner": "Управление международных связей (International Affairs Office)",
   "addressee_name": "Assoc. Prof. Dr. Chawin Chantharasenawong",
   "addressee_title": "Вице-президент (проректор) по интернационализации",
-  "salutation": "Dear Assoc. Prof. Dr. Chawin,"
+  "salutation": "Dear Assoc. Prof. Dr. Chawin,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -3885,7 +4079,9 @@
   "mailbox_owner": "Отдел международных связей (International Affairs Division)",
   "addressee_name": "Assoc. Prof. Dr. Chamaipak Maiklad",
   "addressee_title": "Вице-президент (проректор) по международным делам",
-  "salutation": "Dear Assoc. Prof. Dr. Chamaipak,"
+  "salutation": "Dear Assoc. Prof. Dr. Chamaipak,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -3927,8 +4123,10 @@
   "mailbox_owner": "Международный колледж (Mahanakorn University of Technology International College, MUTIC)",
   "addressee_name": "Assoc. Prof. Dr. Panavy Pookaiyaudom",
   "addressee_title": "President",
-  "salutation": "Dear Head of the International Office,",
-  "recheck_ru": "Президент (доц. д-р Панави Пукайяудом), адрес и телефон подтверждены на сайте mut.ac.th 04.10.2026; e-mail MUTIC не подтверждён"
+  "salutation": "Dear Assoc. Prof. Dr. Panavy,",
+  "recheck_ru": "Президент (доц. д-р Панави Пукайяудом), адрес и телефон подтверждены на сайте mut.ac.th 04.10.2026; e-mail MUTIC не подтверждён",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -3969,7 +4167,9 @@
   "mailbox_owner": "Центр администрирования международных связей (International Relations Administration Center)",
   "addressee_name": "Mrs. Kattima Prasityousil",
   "addressee_title": "Директор Центра администрирования международных связей",
-  "salutation": "Dear Khun Kattima,"
+  "salutation": "Dear Khun Kattima,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Thailand",
@@ -4009,7 +4209,9 @@
   "mailbox_owner": "Центр международных связей (Center for International Affairs)",
   "addressee_name": "Asst. Prof. Dr. Patnarin Supakorn",
   "addressee_title": "Директор Центра международных связей",
-  "salutation": "Dear Asst. Prof. Dr. Patnarin,"
+  "salutation": "Dear Asst. Prof. Dr. Patnarin,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -4048,7 +4250,9 @@
   "mailbox_owner": "Отдел международных связей (International Affairs Division)",
   "addressee_name": "Assoc. Prof. Dr. Nawarat Wara-aswapati",
   "addressee_title": "Вице-президент (проректор) по международным делам",
-  "salutation": "Dear Assoc. Prof. Dr. Nawarat,"
+  "salutation": "Dear Assoc. Prof. Dr. Nawarat,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -4089,7 +4293,9 @@
   "mailbox_owner": "Управление глобальных связей (Global Relations Division)",
   "addressee_name": "Asst. Prof. Dr. Romyen Kosaikanont",
   "addressee_title": "Вице-президент (курирует глобальные связи)",
-  "salutation": "Dear Asst. Prof. Dr. Romyen,"
+  "salutation": "Dear Asst. Prof. Dr. Romyen,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -4130,7 +4336,9 @@
   "mailbox_owner": "Управление международных связей (International Affairs Office)",
   "addressee_name": "Assoc. Prof. Dr. Thakerng Wongsirichot",
   "addressee_title": "Вице-президент (проректор) по академическим и международным делам",
-  "salutation": "Dear Assoc. Prof. Dr. Thakerng,"
+  "salutation": "Dear Assoc. Prof. Dr. Thakerng,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -4169,7 +4377,9 @@
   "mailbox_owner": "Управление международных связей (Office of International Affairs, OIA)",
   "addressee_name": "Assoc. Prof. Dr. Supreedee Rittironk",
   "addressee_title": "Проректор по международным связям",
-  "salutation": "Dear Assoc. Prof. Dr. Supreedee,"
+  "salutation": "Dear Assoc. Prof. Dr. Supreedee,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -4209,7 +4419,9 @@
   "mailbox_owner": "Отдел делопроизводства / официальной корреспонденции (Saraban)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Thailand",
@@ -4248,7 +4460,9 @@
   "mailbox_owner": "Отдел делопроизводства (Saraban) — адрес для англоязычной переписки",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Thailand",
@@ -4287,7 +4501,9 @@
   "mailbox_owner": "Управление международных связей (Division of International Affairs, Office of the President)",
   "addressee_name": "Asst. Prof. Dr. Oranuch Puangsuk",
   "addressee_title": "Помощник президента по международным связям и образованию",
-  "salutation": "Dear Asst. Prof. Dr. Oranuch,"
+  "salutation": "Dear Asst. Prof. Dr. Oranuch,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -4326,7 +4542,9 @@
   "mailbox_owner": "Управление международных связей (International Affairs Division)",
   "addressee_name": "Dr. Phisut Apichayakul",
   "addressee_title": "Вице-президент по международным связям и трансферу технологий",
-  "salutation": "Dear Dr. Phisut,"
+  "salutation": "Dear Dr. Phisut,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -4365,7 +4583,9 @@
   "mailbox_owner": "Управление международных связей (Office of the President, International Affairs)",
   "addressee_name": "Dr. Parinya Roonpho",
   "addressee_title": "Помощник президента по международным делам",
-  "salutation": "Dear Dr. Parinya,"
+  "salutation": "Dear Dr. Parinya,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -4407,7 +4627,9 @@
   "addressee_name": "Asst. Prof. Dr. Prapaporn Rojsiriruch",
   "addressee_title": "И.о. проректора по международным связям и коммуникациям",
   "salutation": "Dear Asst. Prof. Dr. Prapaporn,",
-  "recheck_ru": "Президент, адрес, contact@g.swu.ac.th и телефон подтверждены на op.swu.ac.th 04.10.2026; адресат в межд. отделе не подтверждён"
+  "recheck_ru": "Президент, адрес, contact@g.swu.ac.th и телефон подтверждены на op.swu.ac.th 04.10.2026; адресат в межд. отделе не подтверждён",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -4447,7 +4669,9 @@
   "mailbox_owner": "Отдел делопроизводства (Saraban), Канцелярия президента",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Thailand",
@@ -4486,7 +4710,9 @@
   "mailbox_owner": "Центр содействия международным связям (Global Relations Center), Канцелярия президента",
   "addressee_name": "Asst. Prof. Dr. Punwalai Kewara",
   "addressee_title": "Помощник президента по международным связям",
-  "salutation": "Dear Asst. Prof. Dr. Punwalai,"
+  "salutation": "Dear Asst. Prof. Dr. Punwalai,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -4525,7 +4751,9 @@
   "mailbox_owner": "Отдел по связям с общественностью и международным делам (Office of International Affairs)",
   "addressee_name": "Dr. Sarinthree Udchachone",
   "addressee_title": "Помощник президента по международным делам и работе с иностранными студентами",
-  "salutation": "Dear Dr. Sarinthree,"
+  "salutation": "Dear Dr. Sarinthree,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -4565,7 +4793,9 @@
   "mailbox_owner": "Международный отдел (International Affairs)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Thailand",
@@ -4606,7 +4836,9 @@
   "mailbox_owner": "Приёмная комиссия (Admission)",
   "addressee_name": "Dr. Pichayaphant Charnbhumidol",
   "addressee_title": "Проректор по международным делам",
-  "salutation": "Dear Dr. Pichayaphant,"
+  "salutation": "Dear Dr. Pichayaphant,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -4648,7 +4880,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Office,",
-  "recheck_ru": "Сайт ait.ac.th по-прежнему закрыт Cloudflare (403); e-mail Office of International Affairs oia@ait.ac.th и телефон внесены по выдаче официальной страницы ait.ac.th/contact — не открыта напрямую"
+  "recheck_ru": "Сайт ait.ac.th по-прежнему закрыт Cloudflare (403); e-mail Office of International Affairs oia@ait.ac.th и телефон внесены по выдаче официальной страницы ait.ac.th/contact — не открыта напрямую",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Thailand",
@@ -4688,7 +4922,9 @@
   "mailbox_owner": "Отдел международных связей и корпоративных отношений (IA&CR Division)",
   "addressee_name": "Ms. Peechalika Sertsirikul",
   "addressee_title": "Начальник отдела международных связей и корпоративных отношений",
-  "salutation": "Dear Khun Peechalika,"
+  "salutation": "Dear Khun Peechalika,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -4728,7 +4964,9 @@
   "mailbox_owner": "Проректор по международным связям (ฝ่ายวิเทศสัมพันธ์)",
   "addressee_name": "Assoc. Prof. Dr. Kritsada Tangchaisak (รศ.ดร.กฤษดา ตั้งชัยศักดิ์)",
   "addressee_title": "Декан Высшей школы, и.о. проректора по международным связям",
-  "salutation": "Dear Assoc. Prof. Dr. Kritsada,"
+  "salutation": "Dear Assoc. Prof. Dr. Kritsada,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -4767,7 +5005,9 @@
   "mailbox_owner": "Отдел международных связей (International Affairs)",
   "addressee_name": "Dr. Panumas Suybangdum",
   "addressee_title": "Проректор (курирует международные связи)",
-  "salutation": "Dear Dr. Panumas,"
+  "salutation": "Dear Dr. Panumas,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -4807,7 +5047,9 @@
   "mailbox_owner": "Общий адрес университета (info)",
   "addressee_name": "Asst. Prof. Dr. Rabill Ponphai (ผศ.ดร.ระบิล พ้นภัย)",
   "addressee_title": "Проректор по академическим и международным делам",
-  "salutation": "Dear Asst. Prof. Dr. Rabill,"
+  "salutation": "Dear Asst. Prof. Dr. Rabill,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -4847,7 +5089,9 @@
   "mailbox_owner": "Управление международных связей (Office of International Affairs)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Thailand",
@@ -4886,7 +5130,9 @@
   "mailbox_owner": "Управление международных связей (Office of International Affairs)",
   "addressee_name": "Dr. Pornpop Saengthong",
   "addressee_title": "Директор Управления международных связей",
-  "salutation": "Dear Dr. Pornpop,"
+  "salutation": "Dear Dr. Pornpop,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -4925,7 +5171,9 @@
   "mailbox_owner": "Управление международных связей (Office of International Relations)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Thailand",
@@ -4966,7 +5214,9 @@
   "mailbox_owner": "Международный центр (International Center)",
   "addressee_name": "Asst. Prof. Dr. Somyot Wattanakamolchai",
   "addressee_title": "Вице-президент и проректор по международному образованию и партнёрствам",
-  "salutation": "Dear Asst. Prof. Dr. Somyot,"
+  "salutation": "Dear Asst. Prof. Dr. Somyot,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -5007,7 +5257,9 @@
   "mailbox_owner": "Общий адрес университета (contact)",
   "addressee_name": "Asst. Prof. Dr. Siridech Kumsuprom (ผศ.ดร.ศิริเดช คำสุพรหม)",
   "addressee_title": "Проректор по международным делам",
-  "salutation": "Dear Asst. Prof. Dr. Siridech,"
+  "salutation": "Dear Asst. Prof. Dr. Siridech,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -5051,7 +5303,9 @@
   "addressee_name": "Assoc. Prof. Dr. Suphan Sudson",
   "addressee_title": "President, Kalasin University",
   "salutation": "Dear Dr. Sudson,",
-  "recheck_ru": "04.10.2026: ректор и телефоны (в т.ч. добавочные канцелярии ректора) подтверждены на официальном сайте; e-mail по-прежнему не опубликован"
+  "recheck_ru": "04.10.2026: ректор и телефоны (в т.ч. добавочные канцелярии ректора) подтверждены на официальном сайте; e-mail по-прежнему не опубликован",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Thailand",
@@ -5092,7 +5346,9 @@
   "mailbox_owner": "Канцелярия (служебная переписка, saraban)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Thailand",
@@ -5136,7 +5392,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Office,",
-  "recheck_ru": "Сайт neu.ac.th и поддомены по-прежнему закрыты (403 Cloudflare / 502, в т.ч. WebFetch) на 04.10.2026; ректор не подтверждён; данные не изменены."
+  "recheck_ru": "Сайт neu.ac.th и поддомены по-прежнему закрыты (403 Cloudflare / 502, в т.ч. WebFetch) на 04.10.2026; ректор не подтверждён; данные не изменены.",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Thailand",
@@ -5179,7 +5437,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Office,",
-  "recheck_ru": "Сайт закрыт Incapsula; руководитель не подтверждён (идёт выбор ректора 2026), данные не изменены."
+  "recheck_ru": "Сайт закрыт Incapsula; руководитель не подтверждён (идёт выбор ректора 2026), данные не изменены.",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Thailand",
@@ -5220,7 +5480,9 @@
   "mailbox_owner": "Отдел международных связей (วิเทศสัมพันธ์, OIR)",
   "addressee_name": "Assoc. Prof. Dr. Thitiporn Panthachang (รศ.ดร.ฐิติพร พันธุ์ท่าช้าง)",
   "addressee_title": "Помощник ректора (международные связи и аспирантура)",
-  "salutation": "Dear Assoc. Prof. Dr. Thitiporn,"
+  "salutation": "Dear Assoc. Prof. Dr. Thitiporn,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -5261,7 +5523,9 @@
   "mailbox_owner": "Ректор (личный адрес)",
   "addressee_name": "Asst. Prof. Chakrit Chanchitpreecha",
   "addressee_title": "Ректор",
-  "salutation": "Dear Asst. Prof. Chakrit,"
+  "salutation": "Dear Asst. Prof. Chakrit,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -5301,7 +5565,9 @@
   "mailbox_owner": "Канцелярия (служебная переписка, saraban)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Thailand",
@@ -5343,7 +5609,9 @@
   "mailbox_owner": "Отдел международных связей (ฝ่ายวิเทศสัมพันธ์)",
   "addressee_name": "Dr. Khwanchit Suwannoppharat",
   "addressee_title": "Помощник ректора по международным связям",
-  "salutation": "Dear Dr. Khwanchit,"
+  "salutation": "Dear Dr. Khwanchit,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Thailand",
@@ -5383,7 +5651,9 @@
   "mailbox_owner": "Канцелярия (служебная переписка, saraban)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Thailand",
@@ -5423,7 +5693,9 @@
   "mailbox_owner": "",
   "addressee_name": "Dr. Sasirin Sayasonthi (ดร.ศศิรินทร์ สายะสนธิ)",
   "addressee_title": "Проректор по международным связям",
-  "salutation": "Dear Dr. Sasirin,"
+  "salutation": "Dear Dr. Sasirin,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Vietnam",
@@ -5463,7 +5735,9 @@
   "mailbox_owner": "Канцелярия университета (общий адрес)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -5503,7 +5777,9 @@
   "mailbox_owner": "Канцелярия центра (общий адрес)",
   "addressee_name": "Prof. Dr. Vu Dinh Lam",
   "addressee_title": "Генеральный директор",
-  "salutation": "Dear Prof. Lam,"
+  "salutation": "Dear Prof. Lam,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Vietnam",
@@ -5543,7 +5819,9 @@
   "mailbox_owner": "Департамент сотрудничества и развития (Ban Hợp tác và Phát triển)",
   "addressee_name": "Le Tuan Anh",
   "addressee_title": "Руководитель Департамента сотрудничества и развития",
-  "salutation": "Dear Mr. Tuan Anh,"
+  "salutation": "Dear Mr. Tuan Anh,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Vietnam",
@@ -5583,7 +5861,9 @@
   "mailbox_owner": "Департамент партнёрства и взаимодействия (Ban Hợp tác Đối ngoại)",
   "addressee_name": "Assoc. Prof. Nguyen Dac Trung",
   "addressee_title": "Директор Департамента партнёрства и взаимодействия",
-  "salutation": "Dear Assoc. Prof. Trung,"
+  "salutation": "Dear Assoc. Prof. Trung,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Vietnam",
@@ -5623,7 +5903,9 @@
   "mailbox_owner": "Управление внешних связей (Ban Đối ngoại / quan hệ quốc tế)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -5663,7 +5945,9 @@
   "mailbox_owner": "Департамент международного сотрудничества",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -5703,7 +5987,9 @@
   "mailbox_owner": "Отдел науки, технологий и международного сотрудничества",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -5743,7 +6029,9 @@
   "mailbox_owner": "Проректор по международным академическим программам (персональный ящик)",
   "addressee_name": "Dr. Le Nguyen Tue Hang",
   "addressee_title": "Проректор (Vice Provost) по международным академическим программам",
-  "salutation": "Dear Dr. Hang,"
+  "salutation": "Dear Dr. Hang,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Vietnam",
@@ -5782,7 +6070,9 @@
   "mailbox_owner": "Канцелярия университета (общий адрес)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -5821,7 +6111,9 @@
   "mailbox_owner": "Канцелярия университета (общий адрес)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -5859,7 +6151,9 @@
   "mailbox_owner": "Институт международного сотрудничества, исследований и обучения (INCRETI)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -5898,7 +6192,9 @@
   "mailbox_owner": "Отдел международного сотрудничества",
   "addressee_name": "Phan Thi Viet Nam",
   "addressee_title": "Начальник отдела международного сотрудничества",
-  "salutation": "Dear Ms. Nam,"
+  "salutation": "Dear Ms. Nam,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Vietnam",
@@ -5937,7 +6233,9 @@
   "mailbox_owner": "Канцелярия университета (общий адрес)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -5975,7 +6273,9 @@
   "mailbox_owner": "Канцелярия университета (общий адрес)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -6014,7 +6314,9 @@
   "mailbox_owner": "Вице-президент по международному сотрудничеству (персональный ящик)",
   "addressee_name": "Dr. Le Van Lam",
   "addressee_title": "Вице-президент (Phó Giám đốc), курирующий международное сотрудничество",
-  "salutation": "Dear Dr. Lam,"
+  "salutation": "Dear Dr. Lam,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Vietnam",
@@ -6053,7 +6355,9 @@
   "mailbox_owner": "Канцелярия университета (общий адрес)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -6092,7 +6396,9 @@
   "mailbox_owner": "Канцелярия университета (общий адрес)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -6131,7 +6437,9 @@
   "mailbox_owner": "Канцелярия университета (общий адрес)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -6170,7 +6478,9 @@
   "mailbox_owner": "Отдел международного сотрудничества (Phòng Hợp tác Quốc tế)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -6209,7 +6519,9 @@
   "mailbox_owner": "Канцелярия университета (общий адрес)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -6249,7 +6561,9 @@
   "mailbox_owner": "Административно-общий отдел (общий адрес)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -6292,7 +6606,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Office,",
-  "recheck_ru": "Сайт vinhuni.edu.vn (включая поддомены) по-прежнему закрыт Cloudflare (403); ректор не подтверждён; данные не изменены"
+  "recheck_ru": "Сайт vinhuni.edu.vn (включая поддомены) по-прежнему закрыт Cloudflare (403); ректор не подтверждён; данные не изменены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Vietnam",
@@ -6331,7 +6647,9 @@
   "mailbox_owner": "Департамент науки, технологий и внешних связей",
   "addressee_name": "Dr. Mai Anh Khoa",
   "addressee_title": "Руководитель Департамента науки, технологий и внешних связей",
-  "salutation": "Dear Dr. Khoa,"
+  "salutation": "Dear Dr. Khoa,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Vietnam",
@@ -6369,7 +6687,9 @@
   "mailbox_owner": "Отдел международного сотрудничества (Phòng Hợp tác Quốc tế)",
   "addressee_name": "Nguyen Tien Dung",
   "addressee_title": "Начальник отдела международного сотрудничества",
-  "salutation": "Dear Mr. Dung,"
+  "salutation": "Dear Mr. Dung,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Vietnam",
@@ -6408,7 +6728,9 @@
   "mailbox_owner": "Канцелярия университета (общий адрес)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -6447,7 +6769,9 @@
   "mailbox_owner": "Канцелярия университета (общий адрес)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -6486,7 +6810,9 @@
   "mailbox_owner": "Канцелярия университета (общий адрес)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -6525,7 +6851,9 @@
   "mailbox_owner": "Департамент международного сотрудничества (Ban Hợp tác quốc tế)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -6564,7 +6892,9 @@
   "mailbox_owner": "Отдел администрации и внешних связей (предположительно)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -6603,7 +6933,9 @@
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Vietnam",
@@ -6643,7 +6975,9 @@
   "mailbox_owner": "Общий информационный ящик (enquiries)",
   "addressee_name": "Jodie Altan",
   "addressee_title": "Заместитель проректора по взаимодействию (Associate Pro Vice-Chancellor, Engagement)",
-  "salutation": "Dear Ms. Altan,"
+  "salutation": "Dear Ms. Altan,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Vietnam",
@@ -6685,7 +7019,9 @@
   "addressee_name": "Prof. Sunmee Choi",
   "addressee_title": "Вице-проректор по внешним связям (Vice Provost of External Engagement)",
   "salutation": "Dear Prof. Choi,",
-  "recheck_ru": "Сайт закрыт Cloudflare; по карточке APRU добавлены президент Dr. Le Mai Lan и адресат Prof. Sunmee Choi; e-mail не подтверждён"
+  "recheck_ru": "Сайт закрыт Cloudflare; по карточке APRU добавлены президент Dr. Le Mai Lan и адресат Prof. Sunmee Choi; e-mail не подтверждён",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Vietnam",
@@ -6726,7 +7062,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Office,",
-  "recheck_ru": "Сайт phenikaa-uni.edu.vn открыт (исправлена цепочка сертификата), но страница «Ban giám hiệu» подгружает данные на клиенте — ректор не подтверждён; данные не изменены (04.10.2026)"
+  "recheck_ru": "Сайт phenikaa-uni.edu.vn открыт (исправлена цепочка сертификата), но страница «Ban giám hiệu» подгружает данные на клиенте — ректор не подтверждён; данные не изменены (04.10.2026)",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -6765,7 +7103,9 @@
   "mailbox_owner": "Отдел науки, технологий и международного сотрудничества",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -6806,7 +7146,9 @@
   "mailbox_owner": "Канцелярия Академии (Văn phòng Viện)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -6845,7 +7187,9 @@
   "mailbox_owner": "Канцелярия университета (общий адрес)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -6884,7 +7228,9 @@
   "mailbox_owner": "Канцелярия университета (общий адрес)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -6922,7 +7268,9 @@
   "mailbox_owner": "Отдел науки, технологий и международного сотрудничества",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -6961,7 +7309,9 @@
   "mailbox_owner": "Канцелярия университета (общий адрес)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Vietnam",
@@ -7000,7 +7350,9 @@
   "mailbox_owner": "Канцелярия университета (общий адрес)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Uzbekistan",
@@ -7040,7 +7392,9 @@
   "mailbox_owner": "Отдел международных связей",
   "addressee_name": "Ibrohimbek Yusupov",
   "addressee_title": "Руководитель отдела международных связей",
-  "salutation": "Dear Mr. Yusupov,"
+  "salutation": "Dear Mr. Yusupov,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uzbekistan",
@@ -7080,7 +7434,9 @@
   "mailbox_owner": "Проректор по международным делам и трансформации",
   "addressee_name": "Assoc. Prof. Shavkat Shukhratovich Azimov, PhD",
   "addressee_title": "Проректор по международным делам и трансформации",
-  "salutation": "Dear Dr. Azimov,"
+  "salutation": "Dear Dr. Azimov,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Uzbekistan",
@@ -7119,7 +7475,9 @@
   "mailbox_owner": "Проректор по международным связям",
   "addressee_name": "Assoc. Prof. Komil Qadirjanovich Inakov, DSc",
   "addressee_title": "Проректор по международным связям",
-  "salutation": "Dear Dr. Inakov,"
+  "salutation": "Dear Dr. Inakov,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Uzbekistan",
@@ -7159,7 +7517,9 @@
   "mailbox_owner": "Дирекция института (общий ящик)",
   "addressee_name": "Acad. Prof. Shuhrat Abdumanapovich Egamberdiev",
   "addressee_title": "Директор института",
-  "salutation": "Dear Academician Egamberdiev,"
+  "salutation": "Dear Academician Egamberdiev,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uzbekistan",
@@ -7199,7 +7559,9 @@
   "mailbox_owner": "Отдел международных отношений и стратегического развития",
   "addressee_name": "Ms. Shakhzoda Djalalova",
   "addressee_title": "Руководитель отдела международных отношений и стратегического развития",
-  "salutation": "Dear Ms. Djalalova,"
+  "salutation": "Dear Ms. Djalalova,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Uzbekistan",
@@ -7239,7 +7601,9 @@
   "mailbox_owner": "Отдел стратегического развития и международных отношений",
   "addressee_name": "Mr. Xojakbar Karimov",
   "addressee_title": "Руководитель отдела стратегического развития и международных отношений",
-  "salutation": "Dear Mr. Karimov,"
+  "salutation": "Dear Mr. Karimov,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Uzbekistan",
@@ -7279,7 +7643,9 @@
   "mailbox_owner": "Аппарат агентства (общий ящик)",
   "addressee_name": "Mr. Shukhrat Munavvarovich Kadirov",
   "addressee_title": "Директор агентства",
-  "salutation": "Dear Mr. Kadirov,"
+  "salutation": "Dear Mr. Kadirov,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uzbekistan",
@@ -7319,7 +7685,9 @@
   "mailbox_owner": "Проректор по международному сотрудничеству",
   "addressee_name": "Prof. Abdulkhakim Temirkhodjaevich Salokhiddinov",
   "addressee_title": "Проректор по международному сотрудничеству",
-  "salutation": "Dear Prof. Salokhiddinov,"
+  "salutation": "Dear Prof. Salokhiddinov,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Uzbekistan",
@@ -7360,7 +7728,9 @@
   "mailbox_owner": "Отдел международного сотрудничества",
   "addressee_name": "Mr. Ulugbek Rustamovich Khalikov",
   "addressee_title": "Проректор по международному сотрудничеству",
-  "salutation": "Dear Mr. Khalikov,"
+  "salutation": "Dear Mr. Khalikov,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uzbekistan",
@@ -7401,7 +7771,9 @@
   "mailbox_owner": "Ректорат",
   "addressee_name": "Mr. Abdulaziz Abdullayevich Gulamov",
   "addressee_title": "Ректор",
-  "salutation": "Dear Mr. Gulamov,"
+  "salutation": "Dear Mr. Gulamov,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uzbekistan",
@@ -7440,7 +7812,9 @@
   "mailbox_owner": "Проректор по международному сотрудничеству",
   "addressee_name": "Prof. Akmal Rustamovich Akhatov",
   "addressee_title": "Проректор по международному сотрудничеству",
-  "salutation": "Dear Prof. Akhatov,"
+  "salutation": "Dear Prof. Akhatov,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uzbekistan",
@@ -7480,7 +7854,9 @@
   "mailbox_owner": "Проректор по международному сотрудничеству",
   "addressee_name": "Mr. Berdiyor Bakhtiyorovich Safakhonov",
   "addressee_title": "Проректор по международному сотрудничеству",
-  "salutation": "Dear Mr. Safakhonov,"
+  "salutation": "Dear Mr. Safakhonov,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Uzbekistan",
@@ -7521,7 +7897,9 @@
   "mailbox_owner": "Отдел международных связей",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Uzbekistan",
@@ -7565,7 +7943,9 @@
   "addressee_name": "Prof. Bakhtiyorjon Akbaraliyev",
   "addressee_title": "Rector, Andijan State University",
   "salutation": "Dear Professor Akbaraliyev,",
-  "recheck_ru": "04.10.2026: ректор подтверждён официальным Telegram-каналом (02.10.2026); сайт по-прежнему за Cloudflare, контакты — по ZiyoNET"
+  "recheck_ru": "04.10.2026: ректор подтверждён официальным Telegram-каналом (02.10.2026); сайт по-прежнему за Cloudflare, контакты — по ZiyoNET",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Uzbekistan",
@@ -7604,7 +7984,9 @@
   "mailbox_owner": "Проректор по международному сотрудничеству",
   "addressee_name": "Assoc. Prof. Abror Turobovich Juraev",
   "addressee_title": "Проректор по международному сотрудничеству",
-  "salutation": "Dear Dr. Juraev,"
+  "salutation": "Dear Dr. Juraev,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Uzbekistan",
@@ -7644,7 +8026,9 @@
   "mailbox_owner": "Отдел международных связей",
   "addressee_name": "Ms. Tatyana Li",
   "addressee_title": "Руководитель отдела международных связей",
-  "salutation": "Dear Ms. Li,"
+  "salutation": "Dear Ms. Li,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uzbekistan",
@@ -7684,7 +8068,9 @@
   "mailbox_owner": "Проректор по международному сотрудничеству",
   "addressee_name": "Assoc. Prof. Azizakhon Shokirovna Bazarbayeva, PhD",
   "addressee_title": "Проректор по международному сотрудничеству",
-  "salutation": "Dear Dr. Bazarbayeva,"
+  "salutation": "Dear Dr. Bazarbayeva,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Uzbekistan",
@@ -7725,7 +8111,9 @@
   "mailbox_owner": "Общий ящик института (канцелярия)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Uzbekistan",
@@ -7766,7 +8154,9 @@
   "mailbox_owner": "Общий ящик института (канцелярия)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Uzbekistan",
@@ -7777,7 +8167,7 @@
   "profile_type": "classical",
   "main_fields": "Natural sciences, Physics and mathematics, Philology, History, Economics, Pedagogy",
   "postal_address": "Nukus, Republic of Karakalpakstan, Uzbekistan",
-  "email_general": "rector@karsu.uz; karsu_info@edu.uz",
+  "email_general": "rector@karsu.uz",
   "email_international": "",
   "phone": "+998 55 105 60 47 (приёмная ректора); +998 55 105 60 48 (колл-центр)",
   "website": "https://karsu.uz",
@@ -7802,13 +8192,16 @@
    "Полный почтовый адрес и международный отдел/e-mail на сайте не найдены; +998 55 105 60 48 — колл-центр.",
    "THE2027: в статусе Reporter (без ранга).",
    "Быстрая проверка космической активности: запущенных университетских спутников в Узбекистане не найдено (первый национальный спутник ДЗЗ Samarkand-2028 выведен агентством «Узбеккосмос» в 2026 г.).",
-   "Перепроверка: Через API страницы «Administration» на karsu.uz 04.10.2026 подтверждены ректор Жоллыбеков Б.Б. (д.с.-х.н., профессор), rector@karsu.uz и тел. +998 55 105 60 47; международный отдел и полный адрес не найдены."
+   "Перепроверка: Через API страницы «Administration» на karsu.uz 04.10.2026 подтверждены ректор Жоллыбеков Б.Б. (д.с.-х.н., профессор), rector@karsu.uz и тел. +998 55 105 60 47; международный отдел и полный адрес не найдены.",
+   "Поле e-mail (email_general) очищено; исходная запись: rector@karsu.uz; karsu_info@edu.uz"
   ],
   "mailbox_owner": "Приёмная ректора / общий ящик университета",
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Office,",
-  "recheck_ru": "Через API страницы «Administration» на karsu.uz 04.10.2026 подтверждены ректор Жоллыбеков Б.Б. (д.с.-х.н., профессор), rector@karsu.uz и тел. +998 55 105 60 47; международный отдел и полный адрес не найдены."
+  "recheck_ru": "Через API страницы «Administration» на karsu.uz 04.10.2026 подтверждены ректор Жоллыбеков Б.Б. (д.с.-х.н., профессор), rector@karsu.uz и тел. +998 55 105 60 47; международный отдел и полный адрес не найдены.",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Uzbekistan",
@@ -7848,7 +8241,9 @@
   "mailbox_owner": "Общий ящик университета",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Uzbekistan",
@@ -7888,7 +8283,9 @@
   "mailbox_owner": "Проректор по международному сотрудничеству",
   "addressee_name": "Mr. Rod Clark Powell",
   "addressee_title": "Проректор по международному сотрудничеству",
-  "salutation": "Dear Mr. Powell,"
+  "salutation": "Dear Mr. Powell,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uzbekistan",
@@ -7931,7 +8328,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Office,",
-  "recheck_ru": "Ректор и контакты повторно найдены на сайте, но содержимое сайта датировано 2022–2023 гг.; актуальность не подтверждена, данные не изменены."
+  "recheck_ru": "Ректор и контакты повторно найдены на сайте, но содержимое сайта датировано 2022–2023 гг.; актуальность не подтверждена, данные не изменены.",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Uzbekistan",
@@ -7974,7 +8373,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Office,",
-  "recheck_ru": "Сайт namdtu.uz 04.10.2026 отдаёт пустой ответ (curl 200/0 байт, WebFetch 502); данные не изменены."
+  "recheck_ru": "Сайт namdtu.uz 04.10.2026 отдаёт пустой ответ (curl 200/0 байт, WebFetch 502); данные не изменены.",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Uzbekistan",
@@ -8014,7 +8415,9 @@
   "mailbox_owner": "Отдел международного сотрудничества",
   "addressee_name": "Ms. Feruza Melikuziyevna Erkulova",
   "addressee_title": "Проректор по международному сотрудничеству",
-  "salutation": "Dear Ms. Erkulova,"
+  "salutation": "Dear Ms. Erkulova,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uzbekistan",
@@ -8057,7 +8460,9 @@
   "addressee_name": "Narzikulova Dilnoza Xoshimjonovna",
   "addressee_title": "Проректор по международному сотрудничеству (Vice-Rector for International Cooperation)",
   "salutation": "Dear Vice-Rector Narzikulova,",
-  "recheck_ru": "04.10.2026: найден актуальный сайт ndu.uz — ректор, адрес, телефон, e-mail info@nsu.uz и проректор по международному сотрудничеству подтверждены (© 2026)."
+  "recheck_ru": "04.10.2026: найден актуальный сайт ndu.uz — ректор, адрес, телефон, e-mail info@nsu.uz и проректор по международному сотрудничеству подтверждены (© 2026).",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uzbekistan",
@@ -8098,7 +8503,9 @@
   "mailbox_owner": "Проректор по международным связям (через общий ящик)",
   "addressee_name": "Prof. Shukhrat Sharofovich Aliqulov",
   "addressee_title": "Проректор по международным связям",
-  "salutation": "Dear Prof. Aliqulov,"
+  "salutation": "Dear Prof. Aliqulov,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uzbekistan",
@@ -8139,7 +8546,9 @@
   "mailbox_owner": "И.о. ректора, проректор по международному сотрудничеству",
   "addressee_name": "Mr. Bekzod Bakhtiyarovich Rozimov",
   "addressee_title": "И.о. ректора, проректор по международному сотрудничеству",
-  "salutation": "Dear Mr. Rozimov,"
+  "salutation": "Dear Mr. Rozimov,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Uzbekistan",
@@ -8180,7 +8589,9 @@
   "mailbox_owner": "Отдел международного сотрудничества (через общий ящик)",
   "addressee_name": "Mr. Jonibek Adkham ugli Makhmudov",
   "addressee_title": "Начальник отдела международного сотрудничества",
-  "salutation": "Dear Mr. Makhmudov,"
+  "salutation": "Dear Mr. Makhmudov,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uzbekistan",
@@ -8223,7 +8634,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Office,",
-  "recheck_ru": "Главная tkti.uz открыта через reader-сервис 04.10.2026: адрес, info@tkti.uz и телефон подтверждены; имя ректора уточнено по официальной ссылке «Rektor sahifasi» (Botir Usmonov), отчество полностью не подтверждено."
+  "recheck_ru": "Главная tkti.uz открыта через reader-сервис 04.10.2026: адрес, info@tkti.uz и телефон подтверждены; имя ректора уточнено по официальной ссылке «Rektor sahifasi» (Botir Usmonov), отчество полностью не подтверждено.",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Nigeria",
@@ -8264,7 +8677,9 @@
   "mailbox_owner": "Офис международной стратегии (International Strategy Office)",
   "addressee_name": "Prof. B. J. Akinyele",
   "addressee_title": "Директор Офиса международной стратегии",
-  "salutation": "Dear Prof. Akinyele,"
+  "salutation": "Dear Prof. Akinyele,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -8305,7 +8720,9 @@
   "mailbox_owner": "Канцелярия Генерального директора NASRDA",
   "addressee_name": "Prof. Matthew Olumide Adepoju",
   "addressee_title": "Генеральный директор / главный исполнительный директор",
-  "salutation": "Dear Prof. Adepoju,"
+  "salutation": "Dear Prof. Adepoju,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -8345,7 +8762,9 @@
   "mailbox_owner": "Офис ректора / общая канцелярия университета",
   "addressee_name": "Prof. Adebayo Simeon Bamire",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Bamire,"
+  "salutation": "Dear Prof. Bamire,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -8385,7 +8804,9 @@
   "mailbox_owner": "Дирекция международного сотрудничества",
   "addressee_name": "Dr. Kelechi Elijah Nnamani",
   "addressee_title": "И.о. директора по международному сотрудничеству",
-  "salutation": "Dear Dr. Nnamani,"
+  "salutation": "Dear Dr. Nnamani,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Nigeria",
@@ -8425,7 +8846,9 @@
   "mailbox_owner": "SERVICOM (служба общих обращений) университета",
   "addressee_name": "Prof. Adamu Ahmed",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Ahmed,"
+  "salutation": "Dear Prof. Ahmed,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Nigeria",
@@ -8464,7 +8887,9 @@
   "mailbox_owner": "Дирекция по сотрудничеству, аффилиациям и связям (DCAL)",
   "addressee_name": "Prof. Johnson Olusegun Oyero",
   "addressee_title": "Директор DCAL",
-  "salutation": "Dear Prof. Oyero,"
+  "salutation": "Dear Prof. Oyero,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -8505,7 +8930,9 @@
   "mailbox_owner": "Управление международных отношений, партнёрств и перспектив (IRPP)",
   "addressee_name": "Prof. I. Ibrahim",
   "addressee_title": "Директор управления международных отношений, партнёрств и перспектив",
-  "salutation": "Dear Prof. Ibrahim,"
+  "salutation": "Dear Prof. Ibrahim,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -8546,7 +8973,9 @@
   "mailbox_owner": "Канцелярия регистратора",
   "addressee_name": "",
   "addressee_title": "Регистратор",
-  "salutation": "Dear Registrar,"
+  "salutation": "Dear Registrar,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Nigeria",
@@ -8587,7 +9016,9 @@
   "mailbox_owner": "Приёмная комиссия (admissions)",
   "addressee_name": "Prof. Azikiwe Peter Onwualu",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Prof. Onwualu,"
+  "salutation": "Dear Prof. Onwualu,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик приёмной комиссии/вебмастера — найти ящик международного отдела"
  },
  {
   "country": "Nigeria",
@@ -8628,7 +9059,9 @@
   "mailbox_owner": "Офис международных программ (OIP)",
   "addressee_name": "Prof. Olufunmilayo I. Fawole",
   "addressee_title": "Директор Офиса международных программ",
-  "salutation": "Dear Prof. Fawole,"
+  "salutation": "Dear Prof. Fawole,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -8667,7 +9100,9 @@
   "mailbox_owner": "Общая канцелярия университета (BUK Info)",
   "addressee_name": "Prof. Haruna Musa",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Musa,"
+  "salutation": "Dear Prof. Musa,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -8710,7 +9145,9 @@
   "addressee_name": "Prof. Kolawole O. Ajanaku",
   "addressee_title": "Ректор (Vice-Chancellor)",
   "salutation": "Dear Prof. Ajanaku,",
-  "recheck_ru": "Сайт lmu.edu.ng по-прежнему недоступен (ошибка TLS / 502 на v4.); ректор Ajanaku подтверждается только выдачей официальной страницы VC — данные не изменены"
+  "recheck_ru": "Сайт lmu.edu.ng по-прежнему недоступен (ошибка TLS / 502 на v4.); ректор Ajanaku подтверждается только выдачей официальной страницы VC — данные не изменены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Nigeria",
@@ -8748,7 +9185,9 @@
   "mailbox_owner": "Канцелярия регистратора",
   "addressee_name": "",
   "addressee_title": "Регистратор",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Nigeria",
@@ -8787,7 +9226,9 @@
   "mailbox_owner": "Общая канцелярия университета",
   "addressee_name": "Prof. Afolarin Ojewole",
   "addressee_title": "Президент / ректор",
-  "salutation": "Dear Prof. Ojewole,"
+  "salutation": "Dear Prof. Ojewole,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -8827,7 +9268,9 @@
   "mailbox_owner": "Канцелярия регистратора",
   "addressee_name": "Mrs. Atinuke Abosede Oguntunde",
   "addressee_title": "Регистратор",
-  "salutation": "Dear Mrs. Oguntunde,"
+  "salutation": "Dear Mrs. Oguntunde,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -8869,7 +9312,9 @@
   "addressee_name": "Prof. Ugochukwu Bond-Stanley Anyaehie",
   "addressee_title": "Ректор (Vice-Chancellor)",
   "salutation": "Dear Prof. Anyaehie,",
-  "recheck_ru": "04.10.2026: ректор и info@unizik.edu.ng подтверждены на официальном сайте (главная и Contact)"
+  "recheck_ru": "04.10.2026: ректор и info@unizik.edu.ng подтверждены на официальном сайте (главная и Contact)",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -8910,7 +9355,9 @@
   "addressee_name": "",
   "addressee_title": "Регистратор",
   "salutation": "Dear Head of the International Office,",
-  "recheck_ru": "04.10.2026: ректор (VC) Prof. Edoba Bright Omoregie подтверждён в официальном списке федеральных вузов NUC; сайт uniben.edu по-прежнему закрыт Cloudflare (403) — e-mail и телефон не подтверждены."
+  "recheck_ru": "04.10.2026: ректор (VC) Prof. Edoba Bright Omoregie подтверждён в официальном списке федеральных вузов NUC; сайт uniben.edu по-прежнему закрыт Cloudflare (403) — e-mail и телефон не подтверждены.",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Nigeria",
@@ -8950,7 +9397,9 @@
   "mailbox_owner": "Канцелярия регистратора",
   "addressee_name": "",
   "addressee_title": "Регистратор",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Nigeria",
@@ -8993,7 +9442,9 @@
   "addressee_name": "Prof. Mohammed Laminu Mele",
   "addressee_title": "Ректор (Vice-Chancellor)",
   "salutation": "Dear Prof. Mele,",
-  "recheck_ru": "ВК подтверждён на сайте; контактов на сайте по-прежнему нет (заглушки) — данные не изменены."
+  "recheck_ru": "ВК подтверждён на сайте; контактов на сайте по-прежнему нет (заглушки) — данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Nigeria",
@@ -9032,7 +9483,9 @@
   "mailbox_owner": "Общая канцелярия университета",
   "addressee_name": "Prof. U. F. Eze",
   "addressee_title": "Директор отдела связей и развития (Linkages and Advancement Unit)",
-  "salutation": "Dear Prof. Eze,"
+  "salutation": "Dear Prof. Eze,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -9070,7 +9523,9 @@
   "mailbox_owner": "Канцелярия регистратора",
   "addressee_name": "",
   "addressee_title": "Регистратор",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Nigeria",
@@ -9110,7 +9565,9 @@
   "mailbox_owner": "Служба поддержки (mail support)",
   "addressee_name": "Prof. Ayodeji Olawunmi Badejo",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Badejo,"
+  "salutation": "Dear Prof. Badejo,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -9151,7 +9608,9 @@
   "addressee_name": "",
   "addressee_title": "Регистратор",
   "salutation": "Dear Head of the International Office,",
-  "recheck_ru": "Домен oouagoiwoye.edu.ng (все пути) перенаправляет на студенческий портал CCED, portal.oouagoiwoye.edu.ng не содержит контактов и данных о руководстве; данные не изменены."
+  "recheck_ru": "Домен oouagoiwoye.edu.ng (все пути) перенаправляет на студенческий портал CCED, portal.oouagoiwoye.edu.ng не содержит контактов и данных о руководстве; данные не изменены.",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Nigeria",
@@ -9190,7 +9649,9 @@
   "mailbox_owner": "Общая канцелярия университета",
   "addressee_name": "Prof. Offiong Efanga Offiong",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Offiong,"
+  "salutation": "Dear Prof. Offiong,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -9232,7 +9693,9 @@
   "addressee_name": "",
   "addressee_title": "Директор CRIP",
   "salutation": "Dear Head of the International Office,",
-  "recheck_ru": "04.10.2026: ректор Prof. S. O. Asagba подтверждён на главной и странице Principal Officers; e-mail на сайте по-прежнему не опубликован (страница /contact — 404)."
+  "recheck_ru": "04.10.2026: ректор Prof. S. O. Asagba подтверждён на главной и странице Principal Officers; e-mail на сайте по-прежнему не опубликован (страница /contact — 404).",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Nigeria",
@@ -9275,7 +9738,9 @@
   "addressee_name": "Prof. Joseph Babatola Ayodele",
   "addressee_title": "Ректор (Vice-Chancellor)",
   "salutation": "Dear Prof. Ayodele,",
-  "recheck_ru": "Страница Administration повторно открыта 04.10.2026: ректор Prof. J.B. Ayodele (с 20.08.2024) подтверждён; e-mail регистратора декодирован из ссылки mailto — registrar@eksu.edu.ng, добавлен телефон регистратора."
+  "recheck_ru": "Страница Administration повторно открыта 04.10.2026: ректор Prof. J.B. Ayodele (с 20.08.2024) подтверждён; e-mail регистратора декодирован из ссылки mailto — registrar@eksu.edu.ng, добавлен телефон регистратора.",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -9314,7 +9779,9 @@
   "mailbox_owner": "Офис ректора",
   "addressee_name": "Prof. Olusola Babatunde Kehinde",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Kehinde,"
+  "salutation": "Dear Prof. Kehinde,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -9355,7 +9822,9 @@
   "addressee_name": "Prof. Joshua Olalekan Ogunwole",
   "addressee_title": "Ректор (Vice-Chancellor)",
   "salutation": "Dear Prof. Ogunwole,",
-  "recheck_ru": "Сайт fuoye.edu.ng (включая vc.fuoye.edu.ng) по-прежнему отдаёт 403/антибот-заглушку; данные не изменены"
+  "recheck_ru": "Сайт fuoye.edu.ng (включая vc.fuoye.edu.ng) по-прежнему отдаёт 403/антибот-заглушку; данные не изменены",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -9394,7 +9863,9 @@
   "mailbox_owner": "Канцелярия регистратора",
   "addressee_name": "",
   "addressee_title": "Регистратор",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Nigeria",
@@ -9433,7 +9904,9 @@
   "mailbox_owner": "Канцелярия регистратора",
   "addressee_name": "",
   "addressee_title": "Регистратор",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Nigeria",
@@ -9472,7 +9945,9 @@
   "mailbox_owner": "Офис ректора",
   "addressee_name": "Prof. Chike Princewill Rewhuamwhu Chike",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Chike,"
+  "salutation": "Dear Prof. Chike,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -9512,7 +9987,9 @@
   "mailbox_owner": "Общая канцелярия института",
   "addressee_name": "AVM Adeniran Kolade Ademuwagun",
   "addressee_title": "Комендант института",
-  "salutation": "Dear Air Vice Marshal Ademuwagun,"
+  "salutation": "Dear Air Vice Marshal Ademuwagun,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -9553,7 +10030,9 @@
   "addressee_name": "Prof. Ndukwe Okeudo",
   "addressee_title": "Ректор (Vice-Chancellor)",
   "salutation": "Dear Prof. Okeudo,",
-  "recheck_ru": "Ректор и телефон подтверждены в текущей версии официального сайта 04.10.2026; официального e-mail по-прежнему нет"
+  "recheck_ru": "Ректор и телефон подтверждены в текущей версии официального сайта 04.10.2026; официального e-mail по-прежнему нет",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Nigeria",
@@ -9591,7 +10070,9 @@
   "mailbox_owner": "Общая канцелярия университета",
   "addressee_name": "Prof. Ibrahim Hassan Garba",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Garba,"
+  "salutation": "Dear Prof. Garba,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -9631,7 +10112,9 @@
   "mailbox_owner": "Дирекция по сотрудничеству, связям и международным отношениям",
   "addressee_name": "",
   "addressee_title": "Директор по сотрудничеству, связям и международным отношениям",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Nigeria",
@@ -9673,7 +10156,9 @@
   "addressee_name": "Prof. Ebunoluwa Olufemi Oduwole",
   "addressee_title": "Ректор (Vice-Chancellor)",
   "salutation": "Dear Prof. Oduwole,",
-  "recheck_ru": "acu.edu.ng (включая /contact) закрыт Cloudflare 403 — данные не изменены (04.10.2026)"
+  "recheck_ru": "acu.edu.ng (включая /contact) закрыт Cloudflare 403 — данные не изменены (04.10.2026)",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -9711,7 +10196,9 @@
   "mailbox_owner": "Дирекция по развитию, международному сотрудничеству и связям",
   "addressee_name": "Dr. Ini-Ibehe Nabuk Etim",
   "addressee_title": "И.о. директора по развитию, международному сотрудничеству и связям",
-  "salutation": "Dear Dr. Etim,"
+  "salutation": "Dear Dr. Etim,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -9753,7 +10240,9 @@
   "addressee_name": "Prof. Olukayode Dewumi Akinyemi",
   "addressee_title": "Ректор (Vice-Chancellor)",
   "salutation": "Dear Prof. Akinyemi,",
-  "recheck_ru": "Сайт aua.edu.ng не резолвится (DNS/502); ректор не подтверждён: в 2024 г. VC был Prof. Amos Onasanya (Edugist, 18.06.2024), Akinyemi — только по сниппету 2026 г."
+  "recheck_ru": "Сайт aua.edu.ng не резолвится (DNS/502); ректор не подтверждён: в 2024 г. VC был Prof. Amos Onasanya (Edugist, 18.06.2024), Akinyemi — только по сниппету 2026 г.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Nigeria",
@@ -9792,7 +10281,9 @@
   "mailbox_owner": "Центр исследований, промышленных связей и международного сотрудничества (CRIIC)",
   "addressee_name": "Dr. Yusuf Suleiman",
   "addressee_title": "Директор CRIIC",
-  "salutation": "Dear Dr. Suleiman,"
+  "salutation": "Dear Dr. Suleiman,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Nigeria",
@@ -9831,7 +10322,9 @@
   "mailbox_owner": "Общая канцелярия университета",
   "addressee_name": "Prof. Eunice Omonzejie",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Omonzejie,"
+  "salutation": "Dear Prof. Omonzejie,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uganda",
@@ -9872,7 +10365,9 @@
   "mailbox_owner": "Офис развития и международного сотрудничества (Advancement & International Office)",
   "addressee_name": "Awel Uwihanganye",
   "addressee_title": "Менеджер Офиса развития (контакт по партнёрствам)",
-  "salutation": "Dear Mr. Uwihanganye,"
+  "salutation": "Dear Mr. Uwihanganye,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uganda",
@@ -9912,7 +10407,9 @@
   "mailbox_owner": "Управление международных связей (International Relations Office)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Uganda",
@@ -9951,7 +10448,9 @@
   "mailbox_owner": "Канцелярия ректора (Office of the Vice Chancellor)",
   "addressee_name": "Prof. Paul Waako",
   "addressee_title": "Ректор (Vice Chancellor)",
-  "salutation": "Dear Prof. Waako,"
+  "salutation": "Dear Prof. Waako,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uganda",
@@ -9990,7 +10489,9 @@
   "mailbox_owner": "Канцелярия ректора (Office of the Vice Chancellor)",
   "addressee_name": "Prof. Eli Katunguka-Rwakishaya",
   "addressee_title": "Ректор (Vice Chancellor)",
-  "salutation": "Dear Prof. Katunguka-Rwakishaya,"
+  "salutation": "Dear Prof. Katunguka-Rwakishaya,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uganda",
@@ -10028,7 +10529,9 @@
   "mailbox_owner": "Общая канцелярия университета",
   "addressee_name": "Prof. George Ladaah Openjuru",
   "addressee_title": "Ректор (Vice Chancellor)",
-  "salutation": "Dear Prof. Openjuru,"
+  "salutation": "Dear Prof. Openjuru,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uganda",
@@ -10069,7 +10572,9 @@
   "addressee_name": "Prof. Aaron Mushengyezi",
   "addressee_title": "Vice Chancellor",
   "salutation": "Dear Professor Mushengyezi,",
-  "recheck_ru": "Через WebFetch открыт официальный сайт ucu.ac.ug (04.10.2026): ВК проф. Aaron Mushengyezi подтверждён новостью от 08.09.2026; адрес, info@ucu.ac.ug, registrar@ucu.ac.ug и тел. +256 312 350 800 подтверждены на странице Contact Us."
+  "recheck_ru": "Через WebFetch открыт официальный сайт ucu.ac.ug (04.10.2026): ВК проф. Aaron Mushengyezi подтверждён новостью от 08.09.2026; адрес, info@ucu.ac.ug, registrar@ucu.ac.ug и тел. +256 312 350 800 подтверждены на странице Contact Us.",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uganda",
@@ -10108,7 +10613,9 @@
   "mailbox_owner": "Международный офис (International Office)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Uganda",
@@ -10147,7 +10654,9 @@
   "mailbox_owner": "Общая канцелярия университета",
   "addressee_name": "Prof. J. R. Ikoja-Odongo",
   "addressee_title": "Ректор (Vice Chancellor)",
-  "salutation": "Dear Prof. Ikoja-Odongo,"
+  "salutation": "Dear Prof. Ikoja-Odongo,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uganda",
@@ -10186,7 +10695,9 @@
   "mailbox_owner": "Ректорат (Rectorship)",
   "addressee_name": "Assoc. Prof. Ismail Simbwa Gyagenda",
   "addressee_title": "Ректор (Rector)",
-  "salutation": "Dear Prof. Gyagenda,"
+  "salutation": "Dear Prof. Gyagenda,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uganda",
@@ -10225,7 +10736,9 @@
   "mailbox_owner": "Общая канцелярия университета",
   "addressee_name": "Rev. Can. Prof. Olivia Nassaka Banja",
   "addressee_title": "Ректор (Vice Chancellor)",
-  "salutation": "Dear Prof. Nassaka Banja,"
+  "salutation": "Dear Prof. Nassaka Banja,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uganda",
@@ -10264,7 +10777,9 @@
   "mailbox_owner": "Общая канцелярия университета",
   "addressee_name": "Prof. Patrick Edrin Kyamanywa",
   "addressee_title": "Ректор (Vice Chancellor)",
-  "salutation": "Dear Prof. Kyamanywa,"
+  "salutation": "Dear Prof. Kyamanywa,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uganda",
@@ -10303,7 +10818,9 @@
   "mailbox_owner": "Канцелярия ректора (Office of the Vice Chancellor)",
   "addressee_name": "Prof. Jasper Watson Ogwal-Okeng",
   "addressee_title": "Ректор (Vice Chancellor)",
-  "salutation": "Dear Prof. Ogwal-Okeng,"
+  "salutation": "Dear Prof. Ogwal-Okeng,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uganda",
@@ -10342,7 +10859,9 @@
   "mailbox_owner": "Администрация университета",
   "addressee_name": "Prof. Muhammad Ngoma",
   "addressee_title": "Ректор (Vice Chancellor)",
-  "salutation": "Dear Prof. Ngoma,"
+  "salutation": "Dear Prof. Ngoma,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uganda",
@@ -10381,7 +10900,9 @@
   "mailbox_owner": "Общая канцелярия университета",
   "addressee_name": "Assoc. Prof. Simon Anguma Katrini",
   "addressee_title": "Ректор (Vice Chancellor)",
-  "salutation": "Dear Prof. Anguma,"
+  "salutation": "Dear Prof. Anguma,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Uganda",
@@ -10420,7 +10941,9 @@
   "mailbox_owner": "Канцелярия ректора (Office of the Vice Chancellor)",
   "addressee_name": "Prof. Pius Coxwell Achanga",
   "addressee_title": "Ректор (Vice Chancellor)",
-  "salutation": "Dear Prof. Achanga,"
+  "salutation": "Dear Prof. Achanga,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Cuba",
@@ -10461,7 +10984,9 @@
   "mailbox_owner": "Дирекция международных отношений (Dirección de Relaciones Internacionales)",
   "addressee_name": "",
   "addressee_title": "Директор по международным отношениям",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Cuba",
@@ -10502,7 +11027,9 @@
   "mailbox_owner": "Ректорат (Rectorado)",
   "addressee_name": "Dr. Martha Dunia Delgado Dapena",
   "addressee_title": "Ректор",
-  "salutation": "Dear Dr. Delgado Dapena,"
+  "salutation": "Dear Dr. Delgado Dapena,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Cuba",
@@ -10544,7 +11071,9 @@
   "addressee_name": "Dra. Yanelys Delgado Triana",
   "addressee_title": "Директор по международным связям (Directora de Relaciones Internacionales)",
   "salutation": "Dear Dr. Delgado Triana,",
-  "recheck_ru": "Ректор (Luis Antonio Barranco Olivera), директор по международным связям (e-mail, тел.) и адрес подтверждены на uclv.edu.cu 04.10.2026 (через reader-сервис)."
+  "recheck_ru": "Ректор (Luis Antonio Barranco Olivera), директор по международным связям (e-mail, тел.) и адрес подтверждены на uclv.edu.cu 04.10.2026 (через reader-сервис).",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Cuba",
@@ -10587,7 +11116,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Relations Office,",
-  "recheck_ru": "Сайты .cu (uo.edu.cu, mes.gob.cu, ecured.cu, cubadebate.cu) по-прежнему недоступны 04.10.2026; данные не изменены"
+  "recheck_ru": "Сайты .cu (uo.edu.cu, mes.gob.cu, ecured.cu, cubadebate.cu) по-прежнему недоступны 04.10.2026; данные не изменены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Cuba",
@@ -10630,7 +11161,9 @@
   "addressee_name": "Dr. C. Raydel Montesino Perurena",
   "addressee_title": "Ректор",
   "salutation": "Estimado Dr. Montesino:",
-  "recheck_ru": "Ректор подтверждён Prensa Latina (05.2026) и Grupo La Rábida; добавлены rector@uci.cu и телефон из справочника La Rábida; сайт вуза недоступен"
+  "recheck_ru": "Ректор подтверждён Prensa Latina (05.2026) и Grupo La Rábida; добавлены rector@uci.cu и телефон из справочника La Rábida; сайт вуза недоступен",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Cuba",
@@ -10673,7 +11206,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Relations Office,",
-  "recheck_ru": "Сайт reduc.edu.cu и портал МВО Кубы mes.gob.cu недоступны (503 / сброс соединения, WebFetch 503) — данные не изменены (04.10.2026)"
+  "recheck_ru": "Сайт reduc.edu.cu и портал МВО Кубы mes.gob.cu недоступны (503 / сброс соединения, WebFetch 503) — данные не изменены (04.10.2026)",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Cuba",
@@ -10715,7 +11250,9 @@
   "addressee_name": "Dr. C. Aniuska Ortiz Pérez",
   "addressee_title": "Ректор",
   "salutation": "Dear Dr. Ortiz Pérez,",
-  "recheck_ru": "Ректор Aniuska Ortiz Pérez — действующая по выдаче официальных новостей uho.edu.cu и Radio Angulo (07.2026); сайты .cu по-прежнему недоступны — контакты не подтверждены"
+  "recheck_ru": "Ректор Aniuska Ortiz Pérez — действующая по выдаче официальных новостей uho.edu.cu и Radio Angulo (07.2026); сайты .cu по-прежнему недоступны — контакты не подтверждены",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Cuba",
@@ -10758,7 +11295,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Relations Office,",
-  "recheck_ru": "04.10.2026: umcc.cu по-прежнему недоступен (https — нет соединения, http — 503); данные не изменены"
+  "recheck_ru": "04.10.2026: umcc.cu по-прежнему недоступен (https — нет соединения, http — 503); данные не изменены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Cuba",
@@ -10801,7 +11340,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Relations Office,",
-  "recheck_ru": "Сайт upr.edu.cu и сайт МВО Кубы (mes.gob.cu) по-прежнему недоступны (04.10.2026); данные не изменены."
+  "recheck_ru": "Сайт upr.edu.cu и сайт МВО Кубы (mes.gob.cu) по-прежнему недоступны (04.10.2026); данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Cuba",
@@ -10845,7 +11386,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director,",
-  "recheck_ru": "Сайты .cu недоступны; по поисковой выдаче добавлен адрес, имя директора и телефон — только в примечаниях, не проверены."
+  "recheck_ru": "Сайты .cu недоступны; по поисковой выдаче добавлен адрес, имя директора и телефон — только в примечаниях, не проверены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Bolivia",
@@ -10885,7 +11428,9 @@
   "mailbox_owner": "Департамент международных отношений (Departamento de Relaciones Internacionales, RR.II.)",
   "addressee_name": "",
   "addressee_title": "Руководитель департамента международных отношений",
-  "salutation": "Dear Head of the International Relations Department,"
+  "salutation": "Dear Head of the International Relations Department,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Bolivia",
@@ -10926,7 +11471,9 @@
   "mailbox_owner": "Общая информационная служба (контакт сайта)",
   "addressee_name": "Ing. Boris Marcelo Calancha Navia",
   "addressee_title": "Ректор",
-  "salutation": "Dear Rector Calancha,"
+  "salutation": "Dear Rector Calancha,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Bolivia",
@@ -10969,7 +11516,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Relations Office,",
-  "recheck_ru": "Ректор подтверждён на сайте и в СМИ 2026 г. (срок 2025–2029); добавлен телефон с официального сайта 04.10.2026; e-mail не найден."
+  "recheck_ru": "Ректор подтверждён на сайте и в СМИ 2026 г. (срок 2025–2029); добавлен телефон с официального сайта 04.10.2026; e-mail не найден.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Bolivia",
@@ -11009,7 +11558,9 @@
   "mailbox_owner": "Дирекция международных отношений (Dirección de Relaciones Internacionales)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Relations Office,"
+  "salutation": "Dear Head of the International Relations Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Bolivia",
@@ -11048,7 +11599,9 @@
   "mailbox_owner": "Дирекция национальных и международных отношений, соглашений и стипендий (DRNICyB)",
   "addressee_name": "M.Sc. Dr. Freddy Ochoa Miranda",
   "addressee_title": "Директор по национальным и международным отношениям, соглашениям и стипендиям",
-  "salutation": "Dear Dr. Ochoa Miranda,"
+  "salutation": "Dear Dr. Ochoa Miranda,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Bolivia",
@@ -11088,7 +11641,9 @@
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Relations Office,"
+  "salutation": "Dear Head of the International Relations Office,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Bolivia",
@@ -11128,7 +11683,9 @@
   "mailbox_owner": "Направление интернационализации (Internacionalización)",
   "addressee_name": "Fabiola Monje Cueto, Ph.D.",
   "addressee_title": "Ассоциированный декан по интернационализации",
-  "salutation": "Dear Dr. Monje Cueto,"
+  "salutation": "Dear Dr. Monje Cueto,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Bolivia",
@@ -11170,7 +11727,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Rector,",
-  "recheck_ru": "Из официального API-справочника сайта (swservice.uatf.edu.bo, записи 2022 г.) добавлены телефоны ректората и отдела по связям с общественностью и международным связям; имя ректора на официальных страницах по-прежнему не найдено."
+  "recheck_ru": "Из официального API-справочника сайта (swservice.uatf.edu.bo, записи 2022 г.) добавлены телефоны ректората и отдела по связям с общественностью и международным связям; имя ректора на официальных страницах по-прежнему не найдено.",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Bolivia",
@@ -11209,7 +11768,9 @@
   "mailbox_owner": "Координация интернационализации (Coordinación de Internacionalización)",
   "addressee_name": "Mgs. Katherine Bruun Núñez",
   "addressee_title": "Координатор по интернационализации",
-  "salutation": "Dear Ms. Bruun Núñez,"
+  "salutation": "Dear Ms. Bruun Núñez,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Bolivia",
@@ -11250,7 +11811,9 @@
   "mailbox_owner": "Общая канцелярия агентства",
   "addressee_name": "",
   "addressee_title": "Генеральный исполнительный директор",
-  "salutation": "Dear Director General,"
+  "salutation": "Dear Director General,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Belarus",
@@ -11291,7 +11854,9 @@
   "mailbox_owner": "Канцелярия / Приёмная ректора БГУ",
   "addressee_name": "Prof. Andrei Dmitrievich Korol",
   "addressee_title": "Ректор",
-  "salutation": "Dear Prof. Korol,"
+  "salutation": "Dear Prof. Korol,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Belarus",
@@ -11331,7 +11896,9 @@
   "mailbox_owner": "Управление международного сотрудничества",
   "addressee_name": "Andrei Valerievich Ushkurov",
   "addressee_title": "Начальник Управления международного сотрудничества",
-  "salutation": "Dear Mr. Ushkurov,"
+  "salutation": "Dear Mr. Ushkurov,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Belarus",
@@ -11372,7 +11939,9 @@
   "mailbox_owner": "Главное управление международного научно-технического сотрудничества аппарата НАН Беларуси",
   "addressee_name": "Tatiana Aleksandrovna Prannik",
   "addressee_title": "Начальник Главного управления международного научно-технического сотрудничества",
-  "salutation": "Dear Ms. Prannik,"
+  "salutation": "Dear Ms. Prannik,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Belarus",
@@ -11413,7 +11982,9 @@
   "mailbox_owner": "Канцелярия БНТУ",
   "addressee_name": "Prof. Sergei Vasilievich Kharytonchyk",
   "addressee_title": "Ректор",
-  "salutation": "Dear Prof. Kharytonchyk,"
+  "salutation": "Dear Prof. Kharytonchyk,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Belarus",
@@ -11453,7 +12024,9 @@
   "mailbox_owner": "Международный отдел БрГТУ",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Belarus",
@@ -11494,7 +12067,9 @@
   "mailbox_owner": "Отдел международных связей",
   "addressee_name": "Olga Viktorovna Zhuravskaya",
   "addressee_title": "Начальник отдела международных связей",
-  "salutation": "Dear Ms. Zhuravskaya,"
+  "salutation": "Dear Ms. Zhuravskaya,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Belarus",
@@ -11535,7 +12110,9 @@
   "mailbox_owner": "Отдел международных связей",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Belarus",
@@ -11576,7 +12153,9 @@
   "mailbox_owner": "Отдел организации делопроизводства (общий ящик)",
   "addressee_name": "Yuri Viktorovich Mashin",
   "addressee_title": "Ректор",
-  "salutation": "Dear Rector Mashin,"
+  "salutation": "Dear Rector Mashin,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Belarus",
@@ -11617,7 +12196,9 @@
   "mailbox_owner": "Отдел международного сотрудничества",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Belarus",
@@ -11657,7 +12238,9 @@
   "mailbox_owner": "Отдел международных связей",
   "addressee_name": "Mikhail Nikolaevich Gurnovich",
   "addressee_title": "Начальник отдела международных связей",
-  "salutation": "Dear Mr. Gurnovich,"
+  "salutation": "Dear Mr. Gurnovich,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Belarus",
@@ -11699,7 +12282,9 @@
   "mailbox_owner": "Отдел по международному сотрудничеству",
   "addressee_name": "Assoc. Prof. Svetlana Andreevna Noskova",
   "addressee_title": "Начальник отдела по международному сотрудничеству",
-  "salutation": "Dear Dr. Noskova,"
+  "salutation": "Dear Dr. Noskova,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Belarus",
@@ -11739,7 +12324,9 @@
   "mailbox_owner": "Отдел международных связей",
   "addressee_name": "Liudmila Anatolievna Goncharova",
   "addressee_title": "Начальник отдела международных связей",
-  "salutation": "Dear Ms. Goncharova,"
+  "salutation": "Dear Ms. Goncharova,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Belarus",
@@ -11781,7 +12368,9 @@
   "mailbox_owner": "Отдел международного сотрудничества",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Belarus",
@@ -11823,7 +12412,9 @@
   "mailbox_owner": "Отдел по международным связям",
   "addressee_name": "Yulia Grigorievna Pavlovskaya",
   "addressee_title": "Начальник отдела по международным связям",
-  "salutation": "Dear Ms. Pavlovskaya,"
+  "salutation": "Dear Ms. Pavlovskaya,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Belarus",
@@ -11865,7 +12456,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Head of the International Office,",
-  "recheck_ru": "Сайт mslu.by по-прежнему недоступен (04.10.2026: ошибка прокси 502 / DNS, WebFetch — EAI_AGAIN); на сайте Минобразования РБ данных о ректоре нет; данные не изменены."
+  "recheck_ru": "Сайт mslu.by по-прежнему недоступен (04.10.2026: ошибка прокси 502 / DNS, WebFetch — EAI_AGAIN); на сайте Минобразования РБ данных о ректоре нет; данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Belarus",
@@ -11906,7 +12499,9 @@
   "mailbox_owner": "Канцелярия",
   "addressee_name": "Prof. Mikhail Evgenievich Lustenkov",
   "addressee_title": "Ректор",
-  "salutation": "Dear Prof. Lustenkov,"
+  "salutation": "Dear Prof. Lustenkov,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Belarus",
@@ -11946,7 +12541,9 @@
   "mailbox_owner": "Отдел международных связей",
   "addressee_name": "Natalia Vladimirovna Sas",
   "addressee_title": "Начальник отдела международных связей",
-  "salutation": "Dear Ms. Sas,"
+  "salutation": "Dear Ms. Sas,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Belarus",
@@ -11987,7 +12584,9 @@
   "mailbox_owner": "Отдел международного сотрудничества",
   "addressee_name": "Natalia Igorevna Lapshankova",
   "addressee_title": "Начальник отдела международного сотрудничества",
-  "salutation": "Dear Ms. Lapshankova,"
+  "salutation": "Dear Ms. Lapshankova,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Belarus",
@@ -12027,7 +12626,9 @@
   "mailbox_owner": "Отдел международной деятельности",
   "addressee_name": "Elena Vladislavovna Filipovich",
   "addressee_title": "Начальник отдела международной деятельности",
-  "salutation": "Dear Ms. Filipovich,"
+  "salutation": "Dear Ms. Filipovich,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Belarus",
@@ -12068,7 +12669,9 @@
   "mailbox_owner": "Приёмная ректора (общий e-mail университета)",
   "addressee_name": "Assoc. Prof. Valery Nikolaevich Navnyko",
   "addressee_title": "Ректор",
-  "salutation": "Dear Dr. Navnyko,"
+  "salutation": "Dear Dr. Navnyko,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Belarus",
@@ -12110,7 +12713,9 @@
   "mailbox_owner": "Отдел международных связей",
   "addressee_name": "Alina Vladimirovna Goncharova",
   "addressee_title": "Начальник отдела международных связей",
-  "salutation": "Dear Ms. Goncharova,"
+  "salutation": "Dear Ms. Goncharova,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Belarus",
@@ -12150,7 +12755,9 @@
   "mailbox_owner": "Отдел международных связей",
   "addressee_name": "Olga Viktorovna Yatsevich",
   "addressee_title": "Начальник отдела международных связей",
-  "salutation": "Dear Ms. Yatsevich,"
+  "salutation": "Dear Ms. Yatsevich,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Belarus",
@@ -12191,7 +12798,9 @@
   "mailbox_owner": "Общая почта университета (канцелярия)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Belarus",
@@ -12232,7 +12841,9 @@
   "mailbox_owner": "Отдел международных связей",
   "addressee_name": "Natalia Leonidovna Zhuravskaya",
   "addressee_title": "Начальник отдела международных связей",
-  "salutation": "Dear Ms. Zhuravskaya,"
+  "salutation": "Dear Ms. Zhuravskaya,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Belarus",
@@ -12273,7 +12884,9 @@
   "mailbox_owner": "Отдел международных связей",
   "addressee_name": "Oksana Olegovna Gunich",
   "addressee_title": "Начальник отдела международных связей",
-  "salutation": "Dear Ms. Gunich,"
+  "salutation": "Dear Ms. Gunich,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Belarus",
@@ -12314,7 +12927,9 @@
   "mailbox_owner": "Канцелярия",
   "addressee_name": "Assoc. Prof. Elena Viktorovna Kurakina",
   "addressee_title": "Ректор",
-  "salutation": "Dear Dr. Kurakina,"
+  "salutation": "Dear Dr. Kurakina,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Belarus",
@@ -12356,7 +12971,9 @@
   "mailbox_owner": "Отдел международных связей",
   "addressee_name": "Aleksandr Pavlovich Grakhotsky",
   "addressee_title": "Начальник отдела международных связей",
-  "salutation": "Dear Mr. Grakhotsky,"
+  "salutation": "Dear Mr. Grakhotsky,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Belarus",
@@ -12398,6 +13015,8 @@
   "mailbox_owner": "Общая почта университета (канцелярия)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  }
 ]

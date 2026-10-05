@@ -95,6 +95,7 @@ COLUMNS = [
     ("Почтовый адрес", "postal_address", 40),
     ("E-mail для рассылки (рекомендуемый)", outreach_email, 28),
     ("Адресат (владелец рекомендуемого e-mail)", addressee, 36),
+    ("Стыковка e-mail и адресата", lambda r: (r.get("match_status", "") + (": " + r["match_action"] if r.get("match_action") else "")), 32),
     ("E-mail (международный отдел)", "email_international", 26),
     ("E-mail (общий / ректорат)", "email_general", 26),
     ("Телефон", "phone", 18),

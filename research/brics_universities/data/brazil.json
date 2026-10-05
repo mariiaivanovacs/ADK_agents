@@ -39,7 +39,9 @@
   "mailbox_owner": "Общий контактный адрес ITA",
   "addressee_name": "Prof. Antonio Guilherme de Arruda Lorenzi",
   "addressee_title": "Ректор (Reitor)",
-  "salutation": "Dear Prof. Lorenzi,"
+  "salutation": "Dear Prof. Lorenzi,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Brazil",
@@ -78,7 +80,9 @@
   "mailbox_owner": "Дирекция международных связей (DRI)",
   "addressee_name": "Prof. Paulo Bayard Dias Gonçalves",
   "addressee_title": "Директор по международным связям",
-  "salutation": "Dear Prof. Gonçalves,"
+  "salutation": "Dear Prof. Gonçalves,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -118,7 +122,9 @@
   "mailbox_owner": "Дирекция межинституциональных связей (DIRINTER)",
   "addressee_name": "Prof. Carlos Cziulik",
   "addressee_title": "Директор по межинституциональным (международным) связям",
-  "salutation": "Dear Prof. Cziulik,"
+  "salutation": "Dear Prof. Cziulik,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -156,7 +162,9 @@
   "mailbox_owner": "Генеральное суперинтендантство международных связей (SGRI)",
   "addressee_name": "Prof. Papa Matar Ndiaye",
   "addressee_title": "Генеральный суперинтендант по международным связям",
-  "salutation": "Dear Prof. Ndiaye,"
+  "salutation": "Dear Prof. Ndiaye,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -196,7 +204,9 @@
   "mailbox_owner": "PUCPR International (офис интернационализации)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -236,7 +246,9 @@
   "mailbox_owner": "Офис интернационализации (Escritório de Internacionalização)",
   "addressee_name": "Isabela Beraldi Esperandio",
   "addressee_title": "Координатор офиса интернационализации",
-  "salutation": "Dear Prof. Esperandio,"
+  "salutation": "Dear Prof. Esperandio,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -278,7 +290,9 @@
   "mailbox_owner": "Отдел международных и межинституциональных связей (ASSAII)",
   "addressee_name": "Prof. Ângela Pierre Vitória",
   "addressee_title": "Руководитель отдела международных и межинституциональных связей",
-  "salutation": "Dear Prof. Vitória,"
+  "salutation": "Dear Prof. Vitória,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Brazil",
@@ -318,7 +332,9 @@
   "mailbox_owner": "PUC Minas Internacional (международный офис)",
   "addressee_name": "Prof. Dr. Fernando Santos Eduardo",
   "addressee_title": "Советник по международным связям",
-  "salutation": "Dear Prof. Eduardo,"
+  "salutation": "Dear Prof. Eduardo,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -361,7 +377,9 @@
   "addressee_name": "Prof. Eduardo Storopoli",
   "addressee_title": "Ректор",
   "salutation": "Dear Prof. Storopoli,",
-  "recheck_ru": "04.10.2026: страница Fale Conosco открыта повторно — e-mail по-прежнему не опубликован, телефон (WhatsApp) подтверждён; ректор подтверждён эдиктом 12.2025."
+  "recheck_ru": "04.10.2026: страница Fale Conosco открыта повторно — e-mail по-прежнему не опубликован, телефон (WhatsApp) подтверждён; ректор подтверждён эдиктом 12.2025.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Brazil",
@@ -400,7 +418,9 @@
   "mailbox_owner": "Отдел международного обмена (ASI)",
   "addressee_name": "Prof. José Niraldo de Farias",
   "addressee_title": "Координатор отдела международного обмена",
-  "salutation": "Dear Prof. Farias,"
+  "salutation": "Dear Prof. Farias,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -440,7 +460,9 @@
   "mailbox_owner": "Дирекция межинституциональных и международных связей (DAIINTER)",
   "addressee_name": "Prof. Pâmela Billig Mello Carpes",
   "addressee_title": "Директор по межинституциональным и международным связям",
-  "salutation": "Dear Prof. Carpes,"
+  "salutation": "Dear Prof. Carpes,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -480,7 +502,9 @@
   "mailbox_owner": "Отдел межинституционального сотрудничества (ACI)",
   "addressee_name": "Gabriel Lopes Dias",
   "addressee_title": "Советник по межинституциональному сотрудничеству",
-  "salutation": "Dear Prof. Dias,"
+  "salutation": "Dear Prof. Dias,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -520,7 +544,9 @@
   "mailbox_owner": "Отдел международных связей (ARI)",
   "addressee_name": "Vanúbia Araújo Laulate Moncayo",
   "addressee_title": "Директор отдела международных связей",
-  "salutation": "Dear Prof. Moncayo,"
+  "salutation": "Dear Prof. Moncayo,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -561,7 +587,9 @@
   "mailbox_owner": "Общий контактный адрес (Fale com a Unimontes)",
   "addressee_name": "Prof. Wagner de Paulo Santiago",
   "addressee_title": "Ректор",
-  "salutation": "Dear Prof. Santiago,"
+  "salutation": "Dear Prof. Santiago,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Brazil",
@@ -599,7 +627,9 @@
   "mailbox_owner": "Офис интернационализации (Escritório de Internacionalização)",
   "addressee_name": "Prof. Márcio Issamu Yamamoto",
   "addressee_title": "Координатор офиса интернационализации",
-  "salutation": "Dear Prof. Yamamoto,"
+  "salutation": "Dear Prof. Yamamoto,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -639,7 +669,9 @@
   "mailbox_owner": "Отдел международных связей (ARINTER)",
   "addressee_name": "Monica Maria Montenegro de Oliveira",
   "addressee_title": "Советник по международным связям",
-  "salutation": "Dear Prof. Oliveira,"
+  "salutation": "Dear Prof. Oliveira,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -679,7 +711,9 @@
   "mailbox_owner": "Международная дирекция (FGV DINT)",
   "addressee_name": "Marlos Correia de Lima",
   "addressee_title": "Директор Международной дирекции",
-  "salutation": "Dear Prof. Lima,"
+  "salutation": "Dear Prof. Lima,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -719,7 +753,9 @@
   "mailbox_owner": "Офис международных связей (ERI)",
   "addressee_name": "Prof. Dr. Marilla Anibelli Veloso",
   "addressee_title": "Директор офиса международных связей",
-  "salutation": "Dear Prof. Veloso,"
+  "salutation": "Dear Prof. Veloso,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -759,7 +795,9 @@
   "mailbox_owner": "Международный офис UniSul (Ânima)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -800,7 +838,9 @@
   "mailbox_owner": "Секретариат международных связей (SINTER), Координация международных соглашений",
   "addressee_name": "Prof. Dr. Diogo Robl",
   "addressee_title": "Секретарь по международным связям (Secretário de Relações Internacionais)",
-  "salutation": "Dear Prof. Robl,"
+  "salutation": "Dear Prof. Robl,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -841,7 +881,9 @@
   "mailbox_owner": "Секретариат международных связей (SRI)",
   "addressee_name": "Prof. Renata Archanjo",
   "addressee_title": "Секретарь по международным связям (Secretária de Relações Internacionais)",
-  "salutation": "Dear Prof. Archanjo,"
+  "salutation": "Dear Prof. Archanjo,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -883,7 +925,9 @@
   "addressee_name": "",
   "addressee_title": "Секретарь по международным связям (Secretário de Relações Internacionais)",
   "salutation": "Dear Secretary for International Relations,",
-  "recheck_ru": "Ректор (Márcia Barbosa, 2024–2028), e-mail ректора, адрес и контакты RELINTER подтверждены на ufrgs.br 04.10.2026 (через reader-сервис); телефон RELINTER исправлен на +55 51 3308-3258."
+  "recheck_ru": "Ректор (Márcia Barbosa, 2024–2028), e-mail ректора, адрес и контакты RELINTER подтверждены на ufrgs.br 04.10.2026 (через reader-сервис); телефон RELINTER исправлен на +55 51 3308-3258.",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -923,7 +967,9 @@
   "mailbox_owner": "Суперинтендантство международных связей (SRI), Отдел соглашений (DCON)",
   "addressee_name": "Prof. Livia Maria de Freitas Reis Teixeira",
   "addressee_title": "Суперинтендант по международным связям (Superintendente de Relações Internacionais)",
-  "salutation": "Dear Prof. Teixeira,"
+  "salutation": "Dear Prof. Teixeira,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -961,7 +1007,9 @@
   "mailbox_owner": "Дирекция международных связей (DRI)",
   "addressee_name": "Prof. Flávio Henrique Vasconcelos de Medeiros",
   "addressee_title": "Директор по международным связям (Diretor de Relações Internacionais)",
-  "salutation": "Dear Prof. Medeiros,"
+  "salutation": "Dear Prof. Medeiros,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -1000,7 +1048,9 @@
   "mailbox_owner": "Агентство интернационализации (Aginter)",
   "addressee_name": "Prof. Gustavo Câncio",
   "addressee_title": "Директор Агентства интернационализации (Diretor da Agência de Internacionalização)",
-  "salutation": "Dear Prof. Câncio,"
+  "salutation": "Dear Prof. Câncio,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -1039,7 +1089,9 @@
   "mailbox_owner": "Отдел международных связей (Assessoria Internacional, AI)",
   "addressee_name": "Dr. Luciane Sturm",
   "addressee_title": "Генеральный координатор отдела международных связей (Coordenadora Geral da Assessoria Internacional)",
-  "salutation": "Dear Dr. Sturm,"
+  "salutation": "Dear Dr. Sturm,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -1078,7 +1130,9 @@
   "mailbox_owner": "Департамент внешних связей (DRE)",
   "addressee_name": "Prof. Dr. Camila Brasil Gonçalves Campos",
   "addressee_title": "Руководитель Департамента внешних связей (Gerente do Departamento de Relações Externas)",
-  "salutation": "Dear Prof. Campos,"
+  "salutation": "Dear Prof. Campos,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -1118,7 +1172,9 @@
   "mailbox_owner": "Международный отдел (UCS Internacional)",
   "addressee_name": "",
   "addressee_title": "Руководитель международного отдела",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -1159,7 +1215,9 @@
   "mailbox_owner": "Координация международных связей (CORI)",
   "addressee_name": "Prof. Dr. Rita de Cássia Almeida Vieira",
   "addressee_title": "Генеральный координатор CORI (Coordenadora Geral de Relações Internacionais)",
-  "salutation": "Dear Prof. Vieira,"
+  "salutation": "Dear Prof. Vieira,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -1199,7 +1257,9 @@
   "mailbox_owner": "Отдел международных связей (DRI) Агентства AGIITEC",
   "addressee_name": "Scheyla Maria Cardinal",
   "addressee_title": "Начальник отдела международных связей (Chefe da Divisão de Relações Internacionais)",
-  "salutation": "Dear Ms. Cardinal,"
+  "salutation": "Dear Ms. Cardinal,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -1243,7 +1303,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Сайт unir.br и поддомены (ari., servidor.) по-прежнему недоступны 04.10.2026 (сброс соединения/503); данные не изменены"
+  "recheck_ru": "Сайт unir.br и поддомены (ari., servidor.) по-прежнему недоступны 04.10.2026 (сброс соединения/503); данные не изменены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Brazil",
@@ -1283,7 +1345,9 @@
   "mailbox_owner": "Специальный секретариат международных связей (SERINT), сектор соглашений и договоров",
   "addressee_name": "Fernanda Warken Rosa Camelier",
   "addressee_title": "Специальный секретарь по международным связям (Secretária Especial de Relações Internacionais)",
-  "salutation": "Dear Prof. Camelier,"
+  "salutation": "Dear Prof. Camelier,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Brazil",
@@ -1324,7 +1388,9 @@
   "mailbox_owner": "Служба академической мобильности «Estudante Ligado»",
   "addressee_name": "",
   "addressee_title": "Руководитель службы международного сотрудничества",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -1365,7 +1431,9 @@
   "mailbox_owner": "Отдел международных связей (ARI)",
   "addressee_name": "Taina Soraia Müller",
   "addressee_title": "Советник по международным связям (Assessora de Relações Internacionais)",
-  "salutation": "Dear Ms. Müller,"
+  "salutation": "Dear Ms. Müller,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -1407,7 +1475,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Ректор (мандат 2024–2028), адрес и e-mail кабинета найдены через MEC/SIMEC и FOPROP 04.10.2026; официальный сайт по-прежнему недоступен"
+  "recheck_ru": "Ректор (мандат 2024–2028), адрес и e-mail кабинета найдены через MEC/SIMEC и FOPROP 04.10.2026; официальный сайт по-прежнему недоступен",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -1448,7 +1518,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Сайт insper.edu.br (все варианты, sitemap, /en) и WebFetch возвращают 403 (защита от ботов) — данные не изменены (04.10.2026)"
+  "recheck_ru": "Сайт insper.edu.br (все варианты, sitemap, /en) и WebFetch возвращают 403 (защита от ботов) — данные не изменены (04.10.2026)",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Brazil",
@@ -1487,7 +1559,9 @@
   "mailbox_owner": "Отдел обменов и межвузовского сотрудничества (AICI)",
   "addressee_name": "Christiane Costa Assis",
   "addressee_title": "Советник по международным связям (Assessora de Relações Internacionais)",
-  "salutation": "Dear Ms. Assis,"
+  "salutation": "Dear Ms. Assis,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -1529,7 +1603,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Сайт uneal.edu.br по-прежнему недоступен; по СМИ от 04.10.2026 избран новый ректор Anderson de Almeida Barros (нынешний вице-ректор), вступает в должность в октябре 2026 — контакты не найдены"
+  "recheck_ru": "Сайт uneal.edu.br по-прежнему недоступен; по СМИ от 04.10.2026 избран новый ректор Anderson de Almeida Barros (нынешний вице-ректор), вступает в должность в октябре 2026 — контакты не найдены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Brazil",
@@ -1568,7 +1644,9 @@
   "mailbox_owner": "Секретариат по международным делам (INT/UnB)",
   "addressee_name": "Prof. Gládston Luiz da Silva",
   "addressee_title": "Секретарь по международным делам",
-  "salutation": "Dear Prof. Silva,"
+  "salutation": "Dear Prof. Silva,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -1608,7 +1686,9 @@
   "mailbox_owner": "Кабинет президента Aucani (Агентство USP по национальному и международному академическому сотрудничеству)",
   "addressee_name": "Prof. Carlos Gilberto Carlotti Junior",
   "addressee_title": "Президент Aucani",
-  "salutation": "Dear Prof. Carlotti,"
+  "salutation": "Dear Prof. Carlotti,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Brazil",
@@ -1650,7 +1730,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "04.10.2026: сайт ime.eb.mil.br по-прежнему недоступен (https — ошибка TLS/502, http перенаправляет на https; WebFetch — 503); данные не изменены"
+  "recheck_ru": "04.10.2026: сайт ime.eb.mil.br по-прежнему недоступен (https — ошибка TLS/502, http перенаправляет на https; WebFetch — 503); данные не изменены",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -1689,7 +1771,9 @@
   "mailbox_owner": "Агентство международного сотрудничества UFPB (ACI/UFPB)",
   "addressee_name": "Prof. Ana Berenice Peres Martorelli",
   "addressee_title": "Президент Агентства международного сотрудничества",
-  "salutation": "Dear Prof. Martorelli,"
+  "salutation": "Dear Prof. Martorelli,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -1729,7 +1813,9 @@
   "mailbox_owner": "Суперинтендантство международных связей (SRI/UFBA)",
   "addressee_name": "Prof. Wlamyra Ribeiro Albuquerque",
   "addressee_title": "Суперинтендант по международным связям",
-  "salutation": "Dear Prof. Albuquerque,"
+  "salutation": "Dear Prof. Albuquerque,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -1769,7 +1855,9 @@
   "mailbox_owner": "Проректорат по международным связям (PROINTER/UFPA)",
   "addressee_name": "Prof. Lise Vieira da Costa Tupiassu Merlin",
   "addressee_title": "Проректор по международным связям",
-  "salutation": "Dear Prof. Merlin,"
+  "salutation": "Dear Prof. Merlin,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -1809,7 +1897,9 @@
   "mailbox_owner": "Координация интернационализации (Coordenação de Internacionalização)",
   "addressee_name": "Prof. Camille Amorim Leite Ribeiro",
   "addressee_title": "Координатор по интернационализации",
-  "salutation": "Dear Prof. Ribeiro,"
+  "salutation": "Dear Prof. Ribeiro,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -1850,7 +1940,9 @@
   "mailbox_owner": "Отдел международных связей (Assessoria de Relações Internacionais, ARInt/UESB)",
   "addressee_name": "Prof. Claudio Pinto Nunes",
   "addressee_title": "Советник по международным связям (руководитель ARInt)",
-  "salutation": "Dear Prof. Nunes,"
+  "salutation": "Dear Prof. Nunes,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -1891,7 +1983,9 @@
   "mailbox_owner": "Дирекция международных связей (DRI/Unifor)",
   "addressee_name": "Prof. Gina Pompeu",
   "addressee_title": "Директор по международным связям",
-  "salutation": "Dear Prof. Pompeu,"
+  "salutation": "Dear Prof. Pompeu,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -1934,7 +2028,9 @@
   "addressee_name": "Juliana Paz",
   "addressee_title": "Assessora Internacional (Head of International Affairs Office)",
   "salutation": "Dear Ms. Paz,",
-  "recheck_ru": "Сайт ufpi.br открыт 04.10.2026 (после добавления промежуточного сертификата RNP): ректор Надир Ногейра, e-mail ректората и ASSINTER, телефоны и адрес подтверждены на официальных страницах."
+  "recheck_ru": "Сайт ufpi.br открыт 04.10.2026 (после добавления промежуточного сертификата RNP): ректор Надир Ногейра, e-mail ректората и ASSINTER, телефоны и адрес подтверждены на официальных страницах.",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -1974,7 +2070,9 @@
   "mailbox_owner": "Дирекция международных и межинституциональных связей (DRI/UNIFAL-MG)",
   "addressee_name": "Stephanie Silva Begalli",
   "addressee_title": "Директор по международным и межинституциональным связям",
-  "salutation": "Dear Director Begalli,"
+  "salutation": "Dear Director Begalli,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -2013,7 +2111,9 @@
   "mailbox_owner": "Офис по международным делам (Escritório de Assuntos Internacionais, ESAI/UFGD)",
   "addressee_name": "Prof. Matheus de Carvalho Hernandez",
   "addressee_title": "Руководитель Офиса по международным делам",
-  "salutation": "Dear Prof. Hernandez,"
+  "salutation": "Dear Prof. Hernandez,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -2052,7 +2152,9 @@
   "mailbox_owner": "Координатор по международным связям (CoRI/UEPB) — личный ящик",
   "addressee_name": "Prof. Cláudio Simão de Lucena Neto",
   "addressee_title": "Координатор по международным связям",
-  "salutation": "Dear Prof. Lucena,"
+  "salutation": "Dear Prof. Lucena,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -2093,7 +2195,9 @@
   "mailbox_owner": "Дирекция международных связей (DRI/PROPGP UFOB)",
   "addressee_name": "Prof. Samuel Mazzinghy",
   "addressee_title": "Директор по международным связям",
-  "salutation": "Dear Prof. Mazzinghy,"
+  "salutation": "Dear Prof. Mazzinghy,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Brazil",
@@ -2136,7 +2240,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Сайт по-прежнему отдаёт 403; контакты ректората внесены в поля по поисковому индексу официальной страницы, требуют ручной проверки."
+  "recheck_ru": "Сайт по-прежнему отдаёт 403; контакты ректората внесены в поля по поисковому индексу официальной страницы, требуют ручной проверки.",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -2177,7 +2283,9 @@
   "mailbox_owner": "Дирекция/советник по международным связям (DRIn/IFPE)",
   "addressee_name": "Carol Bello",
   "addressee_title": "Советник по международным связям",
-  "salutation": "Dear Ms. Bello,"
+  "salutation": "Dear Ms. Bello,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -2217,7 +2325,9 @@
   "mailbox_owner": "Отдел международных и институциональных связей (ARII/PUC-SP)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -2256,7 +2366,9 @@
   "mailbox_owner": "Реитория (кабинет реитора) UERR",
   "addressee_name": "Prof. Cláudio Travassos Delicato",
   "addressee_title": "Реитор",
-  "salutation": "Dear Prof. Delicato,"
+  "salutation": "Dear Prof. Delicato,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -2297,7 +2409,9 @@
   "mailbox_owner": "Дирекция по международным связям (DRI/DIN, AGEUFMA)",
   "addressee_name": "Prof. Dr. Francisco Sávio Mendes Sinfrônio",
   "addressee_title": "Директор по международным связям",
-  "salutation": "Dear Prof. Sinfrônio,"
+  "salutation": "Dear Prof. Sinfrônio,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Brazil",
@@ -2337,7 +2451,9 @@
   "mailbox_owner": "Исполнительная дирекция по международным связям (DERI)",
   "addressee_name": "Prof. Dr. Rafael de Brito Dias",
   "addressee_title": "Директор по международным связям",
-  "salutation": "Dear Prof. Dias,"
+  "salutation": "Dear Prof. Dias,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -2378,7 +2494,9 @@
   "addressee_name": "Prof. Juliana Fedoce Lopes",
   "addressee_title": "Diretora de Relações Internacionais (Director of International Relations)",
   "salutation": "Dear Professor Fedoce Lopes,",
-  "recheck_ru": "Через WP API сайта unifei.edu.br подтверждены: ректор Parentoni (окт. 2025), директор DRI Juliana Fedoce Lopes (март 2026), адрес (2025–2026), gabinete@unifei.edu.br и тел. (35) 3629-1105 (страница 2024); e-mail DRI на официальной странице не найден."
+  "recheck_ru": "Через WP API сайта unifei.edu.br подтверждены: ректор Parentoni (окт. 2025), директор DRI Juliana Fedoce Lopes (март 2026), адрес (2025–2026), gabinete@unifei.edu.br и тел. (35) 3629-1105 (страница 2024); e-mail DRI на официальной странице не найден.",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -2419,7 +2537,9 @@
   "mailbox_owner": "Управление внешних связей (AREX)",
   "addressee_name": "",
   "addressee_title": "Руководитель управления внешних связей (Assessor-Chefe AREX)",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -2458,7 +2578,9 @@
   "mailbox_owner": "Дирекция по международным связям (DRI)",
   "addressee_name": "Prof. Alexandre José Pinto Cadilhe de Assis Jácome",
   "addressee_title": "Директор по международным связям",
-  "salutation": "Dear Prof. Jácome,"
+  "salutation": "Dear Prof. Jácome,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -2498,7 +2620,9 @@
   "mailbox_owner": "Координация международных связей (CRInter)",
   "addressee_name": "Rafael Vetromille de Castro",
   "addressee_title": "Координатор по международным связям",
-  "salutation": "Dear Prof. Castro,"
+  "salutation": "Dear Prof. Castro,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -2537,7 +2661,9 @@
   "mailbox_owner": "Офис международного сотрудничества (ECInt)",
   "addressee_name": "Prof. Dr. Denise Cristina Bomtempo",
   "addressee_title": "Координатор офиса международного сотрудничества",
-  "salutation": "Dear Prof. Bomtempo,"
+  "salutation": "Dear Prof. Bomtempo,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -2577,7 +2703,9 @@
   "mailbox_owner": "Секретариат межинституционального и международного сотрудничества (SCII)",
   "addressee_name": "Júlia Vieira Rodrigues",
   "addressee_title": "Секретарь по межинституциональному и международному сотрудничеству",
-  "salutation": "Dear Ms. Rodrigues,"
+  "salutation": "Dear Ms. Rodrigues,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -2620,7 +2748,9 @@
   "addressee_name": "Profª. Maria do Socorro de Mendonça Cavalcanti",
   "addressee_title": "Ректор (Reitora)",
   "salutation": "Dear Prof. Cavalcanti,",
-  "recheck_ru": "04.10.2026: ректор, e-mail reitor@upe.br, адрес и телефон подтверждены на старом официальном портале antigo.upe.br; основной сайт недоступен."
+  "recheck_ru": "04.10.2026: ректор, e-mail reitor@upe.br, адрес и телефон подтверждены на старом официальном портале antigo.upe.br; основной сайт недоступен.",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -2659,7 +2789,9 @@
   "mailbox_owner": "Дирекция по международным связям (DRI)",
   "addressee_name": "Anderson Antonio Gamarano",
   "addressee_title": "Директор по международным связям",
-  "salutation": "Dear Mr. Gamarano,"
+  "salutation": "Dear Mr. Gamarano,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -2699,7 +2831,9 @@
   "mailbox_owner": "Секретариат международных связей (ARI/SRI)",
   "addressee_name": "Dra. Maria Célia da Silva Lima",
   "addressee_title": "Секретарь по международным связям",
-  "salutation": "Dear Dr. Lima,"
+  "salutation": "Dear Dr. Lima,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -2738,7 +2872,9 @@
   "mailbox_owner": "Управление международного сотрудничества (ACI)",
   "addressee_name": "Prof. Dr. Vitor Tomaz Guimarães Naves",
   "addressee_title": "Руководитель управления международного сотрудничества",
-  "salutation": "Dear Prof. Naves,"
+  "salutation": "Dear Prof. Naves,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -2777,7 +2913,9 @@
   "mailbox_owner": "Дирекция международных и межинституциональных связей (DIRI)",
   "addressee_name": "Prof. Dr. Pedro Adrião da Silva Júnior",
   "addressee_title": "Директор по международным и межинституциональным связям",
-  "salutation": "Dear Prof. Silva Júnior,"
+  "salutation": "Dear Prof. Silva Júnior,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -2817,7 +2955,9 @@
   "mailbox_owner": "Проректорат по институциональным и международным связям (PROINTER)",
   "addressee_name": "Prof. Bas'Ilele Malomalo",
   "addressee_title": "Проректор по институциональным и международным связям",
-  "salutation": "Dear Prof. Malomalo,"
+  "salutation": "Dear Prof. Malomalo,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -2856,7 +2996,9 @@
   "mailbox_owner": "Координация международных связей (Arinter)",
   "addressee_name": "Wagner Eduardo Rodrigues Belo",
   "addressee_title": "Координатор по международным связям",
-  "salutation": "Dear Mr. Belo,"
+  "salutation": "Dear Mr. Belo,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -2895,7 +3037,9 @@
   "mailbox_owner": "Управление по международным делам (Assessoria de Assuntos Internacionais)",
   "addressee_name": "Viviane Campanhola Bortoluzzi",
   "addressee_title": "Руководитель управления по международным делам",
-  "salutation": "Dear Ms. Bortoluzzi,"
+  "salutation": "Dear Ms. Bortoluzzi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -2935,7 +3079,9 @@
   "mailbox_owner": "Управление международных связей (ARI)",
   "addressee_name": "",
   "addressee_title": "Руководитель управления международных связей",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -2976,7 +3122,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Сайт ueap.edu.br (www/www2) и портал правительства Амапы недоступны (таймаут) 04.10.2026; данные не изменены."
+  "recheck_ru": "Сайт ueap.edu.br (www/www2) и портал правительства Амапы недоступны (таймаут) 04.10.2026; данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Brazil",
@@ -3016,7 +3164,9 @@
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Brazil",
@@ -3055,7 +3205,9 @@
   "mailbox_owner": "Управление международных связей (DRI)",
   "addressee_name": "Prof. Aziz Tuffi Saliba",
   "addressee_title": "Директор по международным связям",
-  "salutation": "Dear Prof. Saliba,"
+  "salutation": "Dear Prof. Saliba,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -3098,7 +3250,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Сайты fei.edu.br / portal.fei.edu.br / internacional.fei.edu.br по-прежнему блокируют доступ (CloudFront 403/502); данные не изменены"
+  "recheck_ru": "Сайты fei.edu.br / portal.fei.edu.br / internacional.fei.edu.br по-прежнему блокируют доступ (CloudFront 403/502); данные не изменены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Brazil",
@@ -3137,7 +3291,9 @@
   "mailbox_owner": "Секретариат международных связей (SRInter)",
   "addressee_name": "Prof. Ducinei Garcia",
   "addressee_title": "Генеральный секретарь по международным связям",
-  "salutation": "Dear Prof. Garcia,"
+  "salutation": "Dear Prof. Garcia,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Brazil",
@@ -3176,7 +3332,9 @@
   "mailbox_owner": "Секретариат международных связей (SRI)",
   "addressee_name": "Prof. Felipe Furtado Guimarães",
   "addressee_title": "Секретарь по международным связям",
-  "salutation": "Dear Prof. Guimarães,"
+  "salutation": "Dear Prof. Guimarães,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -3215,7 +3373,9 @@
   "mailbox_owner": "Управление международных связей (ARI)",
   "addressee_name": "Prof. Rafael Deminice",
   "addressee_title": "Советник ректора по международным связям (руководитель ARI)",
-  "salutation": "Dear Prof. Deminice,"
+  "salutation": "Dear Prof. Deminice,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -3255,7 +3415,9 @@
   "mailbox_owner": "Секретариат международных связей (SRI)",
   "addressee_name": "Fernando Santos Berçot",
   "addressee_title": "Руководитель Секретариата международных связей",
-  "salutation": "Dear Prof. Berçot,"
+  "salutation": "Dear Prof. Berçot,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -3295,7 +3457,9 @@
   "mailbox_owner": "Специальное управление по институциональным связям (AERI)",
   "addressee_name": "Eneida Soanne Matos Campos de Oliveira",
   "addressee_title": "Специальный советник по институциональным (в т.ч. международным) связям",
-  "salutation": "Dear Prof. Oliveira,"
+  "salutation": "Dear Prof. Oliveira,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -3334,7 +3498,9 @@
   "mailbox_owner": "Секретариат международных связей (Reinter)",
   "addressee_name": "Dariano Krummenauer",
   "addressee_title": "Секретарь по международным связям",
-  "salutation": "Dear Prof. Krummenauer,"
+  "salutation": "Dear Prof. Krummenauer,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Brazil",
@@ -3374,7 +3540,9 @@
   "mailbox_owner": "Координационное управление международных и межинституциональных связей (CORIN)",
   "addressee_name": "Shana Mattos",
   "addressee_title": "Координатор по международным связям",
-  "salutation": "Dear Prof. Mattos,"
+  "salutation": "Dear Prof. Mattos,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -3413,7 +3581,9 @@
   "mailbox_owner": "Суперинтендантство по международным делам (SUPAI)",
   "addressee_name": "Marcilio Delan Baliza Fernandes",
   "addressee_title": "Суперинтендант по международным делам",
-  "salutation": "Dear Prof. Fernandes,"
+  "salutation": "Dear Prof. Fernandes,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -3451,7 +3621,9 @@
   "mailbox_owner": "Управление международных связей (DRI)",
   "addressee_name": "",
   "addressee_title": "Директор по международным связям",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -3490,7 +3662,9 @@
   "mailbox_owner": "Канцелярия ректора (Gabinete do Reitor)",
   "addressee_name": "Prof. Antônio Cruvinel Borges Neto",
   "addressee_title": "Ректор",
-  "salutation": "Dear Prof. Borges Neto,"
+  "salutation": "Dear Prof. Borges Neto,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -3530,7 +3704,9 @@
   "mailbox_owner": "Управление по международным делам (Assessoria para Assuntos Internacionais)",
   "addressee_name": "Helder Oliveira Cavalcanti",
   "addressee_title": "Советник по международным делам",
-  "salutation": "Dear Prof. Cavalcanti,"
+  "salutation": "Dear Prof. Cavalcanti,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -3568,7 +3744,9 @@
   "mailbox_owner": "Управление национального и международного сотрудничества (Assessoria de Cooperação Nacional e Internacional)",
   "addressee_name": "Aline Provedel Dib",
   "addressee_title": "Руководитель управления национального и международного сотрудничества",
-  "salutation": "Dear Prof. Dib,"
+  "salutation": "Dear Prof. Dib,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -3607,7 +3785,9 @@
   "mailbox_owner": "Управление международных связей (DRI)",
   "addressee_name": "Oiti José de Paula",
   "addressee_title": "Директор по международным связям",
-  "salutation": "Dear Prof. de Paula,"
+  "salutation": "Dear Prof. de Paula,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -3650,7 +3830,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Сайт по-прежнему 403; добавлен адрес кампуса Ecoville по поисковому индексу, ректор косвенно подтверждён индексом документов 2026 г.; e-mail не подтверждён"
+  "recheck_ru": "Сайт по-прежнему 403; добавлен адрес кампуса Ecoville по поисковому индексу, ректор косвенно подтверждён индексом документов 2026 г.; e-mail не подтверждён",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Brazil",
@@ -3688,7 +3870,9 @@
   "mailbox_owner": "Управление по международным делам (DRINT)",
   "addressee_name": "Patricia de Aquino Prudente",
   "addressee_title": "Директор по международным делам",
-  "salutation": "Dear Prof. Prudente,"
+  "salutation": "Dear Prof. Prudente,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -3728,7 +3912,9 @@
   "mailbox_owner": "Офис международного сотрудничества (Escritório de Cooperação Internacional)",
   "addressee_name": "Magda Batista de Sant'Anna Martins",
   "addressee_title": "Координатор Офиса международного сотрудничества",
-  "salutation": "Dear Ms. Martins,"
+  "salutation": "Dear Ms. Martins,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -3767,7 +3953,9 @@
   "mailbox_owner": "Агентство международных связей (ARI)",
   "addressee_name": "Prof. Alexandre Hiroaki Kihara",
   "addressee_title": "Директор Агентства международных связей (ARI)",
-  "salutation": "Dear Prof. Kihara,"
+  "salutation": "Dear Prof. Kihara,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -3807,7 +3995,9 @@
   "mailbox_owner": "Суперинтендантство международных связей (SRI)",
   "addressee_name": "Silas Nogueira de Melo",
   "addressee_title": "Суперинтендант по международным связям",
-  "salutation": "Dear Mr. Melo,"
+  "salutation": "Dear Mr. Melo,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -3851,7 +4041,9 @@
   "addressee_name": "",
   "addressee_title": "Координатор Офиса международного сотрудничества",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Сайты *.pucrs.br (www, portal, /internacional, sitemap) по-прежнему закрыты Cloudflare 403, WebFetch тоже 403 — данные не изменены (04.10.2026)"
+  "recheck_ru": "Сайты *.pucrs.br (www, portal, /internacional, sitemap) по-прежнему закрыты Cloudflare 403, WebFetch тоже 403 — данные не изменены (04.10.2026)",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -3890,7 +4082,9 @@
   "mailbox_owner": "Дирекция международных и межинституциональных связей (DRII)",
   "addressee_name": "Prof. Valeska Virgínia Soares Souza",
   "addressee_title": "Директор по международным и межинституциональным связям",
-  "salutation": "Dear Prof. Souza,"
+  "salutation": "Dear Prof. Souza,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -3928,7 +4122,9 @@
   "mailbox_owner": "Дирекция международного сотрудничества (Dircint)",
   "addressee_name": "Prof. Monica da Costa Pereira Lavalle Heilbron",
   "addressee_title": "Директор по международному сотрудничеству",
-  "salutation": "Dear Prof. Heilbron,"
+  "salutation": "Dear Prof. Heilbron,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Brazil",
@@ -3967,7 +4163,9 @@
   "mailbox_owner": "Центр интернационализации (NINTER, Instituto IPÊ)",
   "addressee_name": "Prof. Rodrigo Carmo",
   "addressee_title": "Директор по интернационализации",
-  "salutation": "Dear Prof. Carmo,"
+  "salutation": "Dear Prof. Carmo,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -4006,7 +4204,9 @@
   "mailbox_owner": "Советник по международным связям (ARINT)",
   "addressee_name": "Prof. Laurício Alves Carvalho Pedrosa",
   "addressee_title": "Советник ректора по международным связям",
-  "salutation": "Dear Prof. Pedrosa,"
+  "salutation": "Dear Prof. Pedrosa,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -4045,7 +4245,9 @@
   "mailbox_owner": "Секретариат международных связей (SRI)",
   "addressee_name": "Prof. Alexandre de Araújo Badim",
   "addressee_title": "Секретарь по международным связям",
-  "salutation": "Dear Prof. Badim,"
+  "salutation": "Dear Prof. Badim,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -4087,7 +4289,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Ректор Gracialda Costa Ferreira (полное имя) подтверждена Андифес (ассоциация ректоров федеральных вузов) 17.09.2026; сайты *.ufra.edu.br по-прежнему недоступны — контакты не подтверждены"
+  "recheck_ru": "Ректор Gracialda Costa Ferreira (полное имя) подтверждена Андифес (ассоциация ректоров федеральных вузов) 17.09.2026; сайты *.ufra.edu.br по-прежнему недоступны — контакты не подтверждены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Brazil",
@@ -4126,7 +4330,9 @@
   "mailbox_owner": "Советник по национальным и международным связям (ARNI)",
   "addressee_name": "Honorly Kátia Mestre Correa",
   "addressee_title": "Советник по национальным и международным связям (руководитель ARNI)",
-  "salutation": "Dear Ms. Correa,"
+  "salutation": "Dear Ms. Correa,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -4165,7 +4371,9 @@
   "mailbox_owner": "Секретариат международного сотрудничества (SCI)",
   "addressee_name": "Laura Hévila Inocencio Leite",
   "addressee_title": "Секретарь по международному сотрудничеству",
-  "salutation": "Dear Ms. Leite,"
+  "salutation": "Dear Ms. Leite,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -4205,7 +4413,9 @@
   "mailbox_owner": "Офис международных связей (Escritório de Relações Internacionais)",
   "addressee_name": "Anderson Marques do Amaral",
   "addressee_title": "Руководитель Офиса международных связей",
-  "salutation": "Dear Mr. Amaral,"
+  "salutation": "Dear Mr. Amaral,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -4246,7 +4456,9 @@
   "mailbox_owner": "Ректор (личный ящик ректора)",
   "addressee_name": "Prof. Roselma Lucchese",
   "addressee_title": "Ректор",
-  "salutation": "Dear Prof. Lucchese,"
+  "salutation": "Dear Prof. Lucchese,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -4286,7 +4498,9 @@
   "mailbox_owner": "Системная дирекция по интернационализации (DINT)",
   "addressee_name": "Bruno Rafael Costa Venancio da Silva",
   "addressee_title": "Директор системной дирекции по интернационализации",
-  "salutation": "Dear Mr. Silva,"
+  "salutation": "Dear Mr. Silva,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -4325,7 +4539,9 @@
   "mailbox_owner": "Координация международных связей (CRI)",
   "addressee_name": "Prof. Fernanda da Silva Oliveira",
   "addressee_title": "Координатор по международным связям",
-  "salutation": "Dear Prof. Oliveira,"
+  "salutation": "Dear Prof. Oliveira,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -4365,7 +4581,9 @@
   "mailbox_owner": "Служба академического обмена и мобильности (Assessoria de Intercâmbio e Mobilidade Acadêmica)",
   "addressee_name": "Paulo Airton Maia",
   "addressee_title": "Координатор службы академического обмена и мобильности",
-  "salutation": "Dear Mr. Maia,"
+  "salutation": "Dear Mr. Maia,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -4404,7 +4622,9 @@
   "mailbox_owner": "Служба мобильности и интернационализации (AMI)",
   "addressee_name": "Prof. Flávio França Cruz",
   "addressee_title": "Советник по мобильности и интернационализации",
-  "salutation": "Dear Prof. Cruz,"
+  "salutation": "Dear Prof. Cruz,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -4447,7 +4667,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Rector,",
-  "recheck_ru": "04.10.2026: главная unopar.com.br (через WebFetch) подтверждает только колл-центр 0800-056-2420 и WhatsApp; ректор и e-mail не опубликованы — данные не изменены"
+  "recheck_ru": "04.10.2026: главная unopar.com.br (через WebFetch) подтверждает только колл-центр 0800-056-2420 и WhatsApp; ректор и e-mail не опубликованы — данные не изменены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Brazil",
@@ -4486,7 +4708,9 @@
   "mailbox_owner": "Дирекция международных связей (DRI)",
   "addressee_name": "Prof. Cristiane Salomé Ribeiro Costa",
   "addressee_title": "Директор по международным связям (Diretora de Relações Internacionais)",
-  "salutation": "Dear Prof. Costa,"
+  "salutation": "Dear Prof. Costa,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -4526,7 +4750,9 @@
   "mailbox_owner": "Проректорат по инновациям и межинституциональным связям (PROINTER)",
   "addressee_name": "",
   "addressee_title": "Проректор по инновациям и межинституциональным связям (Pró-Reitor(a) de Inovação e Relações Interinstitucionais)",
-  "salutation": "Dear Pro-Rector for Innovation and Interinstitutional Relations,"
+  "salutation": "Dear Pro-Rector for Innovation and Interinstitutional Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -4566,7 +4792,9 @@
   "mailbox_owner": "Центральная координация международного сотрудничества (CCCI)",
   "addressee_name": "",
   "addressee_title": "Координатор по международному сотрудничеству",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -4605,7 +4833,9 @@
   "mailbox_owner": "Дирекция международных связей (DRI)",
   "addressee_name": "Prof. Vladimir Oliveira Di Iorio",
   "addressee_title": "Директор по международным связям (Diretor de Relações Internacionais)",
-  "salutation": "Dear Prof. Di Iorio,"
+  "salutation": "Dear Prof. Di Iorio,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -4645,7 +4875,9 @@
   "mailbox_owner": "Офис международного сотрудничества (ECI)",
   "addressee_name": "Prof. Renato Leão Rego",
   "addressee_title": "Координатор по международному сотрудничеству (Coordenador de Cooperação Internacional)",
-  "salutation": "Dear Prof. Rego,"
+  "salutation": "Dear Prof. Rego,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Brazil",
@@ -4685,7 +4917,9 @@
   "mailbox_owner": "Кабинет ректора (Gabinete da Reitoria)",
   "addressee_name": "Prof. Maria Santana Ferreira dos Santos Milhomem",
   "addressee_title": "Ректор (Reitora)",
-  "salutation": "Dear Prof. Milhomem,"
+  "salutation": "Dear Prof. Milhomem,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -4725,7 +4959,9 @@
   "mailbox_owner": "Отдел международных и межинституциональных связей (ARI)",
   "addressee_name": "",
   "addressee_title": "Руководитель отдела международных связей",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -4765,7 +5001,9 @@
   "mailbox_owner": "Отдел международных и межинституциональных связей (ARII)",
   "addressee_name": "Prof. Sheila Cordeiro Mota",
   "addressee_title": "Специальный советник по международным и межинституциональным связям (Assessora Especial, ARII)",
-  "salutation": "Dear Prof. Mota,"
+  "salutation": "Dear Prof. Mota,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -4804,7 +5042,9 @@
   "mailbox_owner": "Координация международных и межинституциональных связей (CRI)",
   "addressee_name": "Prof. Vanessa Teixeira de Oliveira",
   "addressee_title": "Координатор по международным и межинституциональным связям (Coordenadora de Relações Internacionais e Interinstitucionais)",
-  "salutation": "Dear Prof. Oliveira,"
+  "salutation": "Dear Prof. Oliveira,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -4846,7 +5086,9 @@
   "addressee_name": "Marcus Vinicius da Silva",
   "addressee_title": "Coordenador de Relações Internacionais (CRINT)",
   "salutation": "Dear Mr. da Silva,",
-  "recheck_ru": "Сайт ufrr.br открыт 04.10.2026 (после добавления промежуточного сертификата RNP): ректор, e-mail ректората и CRINT, телефоны и руководитель CRINT подтверждены на странице Reitoria (обновл. 04.08.2025)."
+  "recheck_ru": "Сайт ufrr.br открыт 04.10.2026 (после добавления промежуточного сертификата RNP): ректор, e-mail ректората и CRINT, телефоны и руководитель CRINT подтверждены на странице Reitoria (обновл. 04.08.2025).",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -4889,7 +5131,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Сайт недоступен; адрес и телефон ректората внесены по поисковому индексу официальной страницы, e-mail не подтверждён."
+  "recheck_ru": "Сайт недоступен; адрес и телефон ректората внесены по поисковому индексу официальной страницы, e-mail не подтверждён.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Brazil",
@@ -4929,7 +5173,9 @@
   "mailbox_owner": "Офис международных связей (ERI)",
   "addressee_name": "",
   "addressee_title": "Руководитель офиса международных связей",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -4971,7 +5217,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Сайт ufr.edu.br и поддомены по-прежнему закрыты Cloudflare (403 для curl и WebFetch), обход не выполнялся; данные не изменены."
+  "recheck_ru": "Сайт ufr.edu.br и поддомены по-прежнему закрыты Cloudflare (403 для curl и WebFetch), обход не выполнялся; данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Brazil",
@@ -5011,7 +5259,9 @@
   "mailbox_owner": "Отдел международных связей (ARINTER)",
   "addressee_name": "Francisco Gutenberg Albuquerque Filho",
   "addressee_title": "Советник по международным связям (Assessor de Relações Internacionais)",
-  "salutation": "Dear Mr. Albuquerque Filho,"
+  "salutation": "Dear Mr. Albuquerque Filho,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -5050,7 +5300,9 @@
   "mailbox_owner": "Проректорат по расширению и внешним связям (PROEX)",
   "addressee_name": "Keila Renata Mourão Valente",
   "addressee_title": "Проректор по расширению и внешним связям (Pró-Reitora de Extensão e Relações Externas)",
-  "salutation": "Dear Ms. Valente,"
+  "salutation": "Dear Ms. Valente,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -5091,7 +5343,9 @@
   "mailbox_owner": "Дирекция международных связей (DRI)",
   "addressee_name": "",
   "addressee_title": "Директор по международным связям (Diretor(a) de Relações Internacionais)",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -5131,7 +5385,9 @@
   "mailbox_owner": "Ректорат (Reitoria)",
   "addressee_name": "Prof. Izabelle Mont’Alverne Napoleão Albuquerque",
   "addressee_title": "Ректор (Reitora)",
-  "salutation": "Dear Prof. Albuquerque,"
+  "salutation": "Dear Prof. Albuquerque,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -5172,7 +5428,9 @@
   "mailbox_owner": "Дирекция INPE",
   "addressee_name": "Dr. Antonio Miguel Vieira Monteiro",
   "addressee_title": "Директор INPE",
-  "salutation": "Dear Dr. Monteiro,"
+  "salutation": "Dear Dr. Monteiro,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Brazil",
@@ -5211,7 +5469,9 @@
   "mailbox_owner": "Управление по международным делам (Assessoria para Assuntos Internacionais, AAI)",
   "addressee_name": "Prof. Carlos de Oliveira Galvão",
   "addressee_title": "Советник ректора по международным делам (Assessor para Assuntos Internacionais)",
-  "salutation": "Dear Prof. Galvão,"
+  "salutation": "Dear Prof. Galvão,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -5250,7 +5510,9 @@
   "mailbox_owner": "Суперинтендантство Офиса международных отношений (Escritório de Relações Internacionais, ERI)",
   "addressee_name": "Profa. Dra. Aida Maris Peres",
   "addressee_title": "Суперинтендант Офиса международных отношений",
-  "salutation": "Dear Prof. Peres,"
+  "salutation": "Dear Prof. Peres,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -5290,7 +5552,9 @@
   "mailbox_owner": "Секретариат международных связей (SRI)",
   "addressee_name": "Prof. Dr. Karen Spadari Ferreira",
   "addressee_title": "Директор Секретариата международных связей",
-  "salutation": "Dear Prof. Ferreira,"
+  "salutation": "Dear Prof. Ferreira,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -5331,7 +5595,9 @@
   "mailbox_owner": "Международный офис Unisinos Global",
   "addressee_name": "",
   "addressee_title": "Руководитель Unisinos Global",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -5370,7 +5636,9 @@
   "mailbox_owner": "Офис международных отношений (Escritório de Relações Internacionais, ERI)",
   "addressee_name": "Dr. Sulany Silveira dos Santos",
   "addressee_title": "Директор Офиса международных отношений",
-  "salutation": "Dear Dr. Santos,"
+  "salutation": "Dear Dr. Santos,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -5410,7 +5678,9 @@
   "mailbox_owner": "Отдел международного и межинституционального сотрудничества (COI)",
   "addressee_name": "Prof. Dr. Pedro Buck Avelino",
   "addressee_title": "Координатор отдела международного сотрудничества (COI)",
-  "salutation": "Dear Prof. Avelino,"
+  "salutation": "Dear Prof. Avelino,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -5451,7 +5721,9 @@
   "mailbox_owner": "Управление международных отношений (Assessoria de Relações Internacionais, ARI)",
   "addressee_name": "Victor Wagner Freire de Azevedo",
   "addressee_title": "Советник по международным отношениям (руководитель ARI)",
-  "salutation": "Dear Prof. Azevedo,"
+  "salutation": "Dear Prof. Azevedo,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -5494,7 +5766,9 @@
   "addressee_name": "Lucas Oliveira de Sousa",
   "addressee_title": "Секретарь по международным связям (SECRI)",
   "salutation": "Dear Prof. Sousa,",
-  "recheck_ru": "04.10.2026: ufmt.br по-прежнему недоступен (503/сброс); ректор и срок полномочий подтверждены справочником ANDIFES; контакты не перепроверены."
+  "recheck_ru": "04.10.2026: ufmt.br по-прежнему недоступен (503/сброс); ректор и срок полномочий подтверждены справочником ANDIFES; контакты не перепроверены.",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -5535,7 +5809,9 @@
   "mailbox_owner": "Координаторство международных связей (CORI) при PROINT",
   "addressee_name": "Leila Yatim",
   "addressee_title": "Координатор международных связей (CORI)",
-  "salutation": "Dear Prof. Yatim,"
+  "salutation": "Dear Prof. Yatim,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -5577,7 +5853,9 @@
   "mailbox_owner": "Проректорат по сотрудничеству и межинституциональным связям (PROCRI)",
   "addressee_name": "José Caldeira Gemaque Neto",
   "addressee_title": "Проректор по сотрудничеству и межинституциональным связям",
-  "salutation": "Dear Prof. Gemaque,"
+  "salutation": "Dear Prof. Gemaque,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -5620,7 +5898,9 @@
   "addressee_name": "Conrado de Souza Rodrigues",
   "addressee_title": "Секретарь по международным связям (одновременно вице-директор)",
   "salutation": "Dear Prof. Rodrigues,",
-  "recheck_ru": "Руководитель, секретарь SRI (e-mail, тел.) и адрес подтверждены на cefetmg.br/sri.cefetmg.br 04.10.2026 (страница SRI изм. 15.01.2026); выявлено преобразование CEFET-MG в университет UFCIMG (Закон 15.521/2026)."
+  "recheck_ru": "Руководитель, секретарь SRI (e-mail, тел.) и адрес подтверждены на cefetmg.br/sri.cefetmg.br 04.10.2026 (страница SRI изм. 15.01.2026); выявлено преобразование CEFET-MG в университет UFCIMG (Закон 15.521/2026).",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -5664,7 +5944,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "По справочнику ABRUEM подтверждены ректор, e-mail reitoria@uespi.br и телефоны; сайт вуза по-прежнему недоступен"
+  "recheck_ru": "По справочнику ABRUEM подтверждены ректор, e-mail reitoria@uespi.br и телефоны; сайт вуза по-прежнему недоступен",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -5703,7 +5985,9 @@
   "mailbox_owner": "Дирекция интернационализации (Diretoria de Internacionalização, PROPGI)",
   "addressee_name": "",
   "addressee_title": "Директор по интернационализации",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -5746,7 +6030,9 @@
   "addressee_name": "Vilton Soares de Souza",
   "addressee_title": "Директор по международным отношениям",
   "salutation": "Dear Prof. Souza,",
-  "recheck_ru": "Сайт закрыт Cloudflare; по сниппету официальной страницы контактов добавлен адрес ректората, e-mail gabinete подтверждён сниппетом; имя ректора не перепроверено"
+  "recheck_ru": "Сайт закрыт Cloudflare; по сниппету официальной страницы контактов добавлен адрес ректората, e-mail gabinete подтверждён сниппетом; имя ректора не перепроверено",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -5786,7 +6072,9 @@
   "mailbox_owner": "Управление международных отношений (Assessoria de Relações Internacionais, ARINTER)",
   "addressee_name": "",
   "addressee_title": "Руководитель управления международных отношений",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Brazil",
@@ -5826,7 +6114,9 @@
   "mailbox_owner": "Координаторство международных связей (CRI)",
   "addressee_name": "Prof. Dr. Fábio Henrique Rosa Senefonte",
   "addressee_title": "Генеральный координатор по международным связям",
-  "salutation": "Dear Prof. Senefonte,"
+  "salutation": "Dear Prof. Senefonte,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Brazil",
@@ -5865,6 +6155,8 @@
   "mailbox_owner": "Управление институциональных связей (Assessoria de Relações Institucionais, ARI)",
   "addressee_name": "Prof. Dr. Cesar Bargo Perez",
   "addressee_title": "Руководитель управления институциональных (и международных) связей",
-  "salutation": "Dear Prof. Perez,"
+  "salutation": "Dear Prof. Perez,",
+  "match_status": "ящик общий",
+  "match_action": ""
  }
 ]

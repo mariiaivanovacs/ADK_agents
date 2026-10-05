@@ -9,7 +9,7 @@
   "email_general": "StudyatHIT@hit.edu.cn",
   "email_international": "global@hit.edu.cn",
   "phone": "+86-451-86418461",
-  "website": "https://www.hit.edu.cn (EN: https://en.hit.edu.cn)",
+  "website": "https://www.hit.edu.cn",
   "head_name": "Han Jiecai (韩杰才)",
   "head_title": "President",
   "party_secretary": "Chen Jie (陈杰)",
@@ -33,7 +33,8 @@
    "Телефон: отдел управления международным образованием",
    "Сун Сюэ (Sun Xue) с февраля 2026 — исполнительный заместитель секретаря парткома",
    "В Entity List США: риски экспортного контроля для партнёров",
-   "Адресат: Должность «начальник» (部长) на странице не указана, департаментом руководит исполнительный замначальника У Цзянь (jian.wu@hit.edu.cn). В HIT есть отдельный Офис по международным организациям и делам БРИКС (国际组织和金砖事务办公室), руководитель — Сюй Лу (徐璐, xulu@hit.edu.cn): http://international.hit.edu.cn/gjzzhjzswbgs/list.htm. Рекомендуем поставить её в копию."
+   "Адресат: Должность «начальник» (部长) на странице не указана, департаментом руководит исполнительный замначальника У Цзянь (jian.wu@hit.edu.cn). В HIT есть отдельный Офис по международным организациям и делам БРИКС (国际组织和金砖事务办公室), руководитель — Сюй Лу (徐璐, xulu@hit.edu.cn): http://international.hit.edu.cn/gjzzhjzswbgs/list.htm. Рекомендуем поставить её в копию.",
+   "Дополнительные сайты: https://en.hit.edu.cn"
   ],
   "outreach_email_new": "",
   "mailbox_owner": "Департамент международного сотрудничества (国际合作部) — общий адрес департамента",
@@ -42,7 +43,9 @@
   "salutation": "Dear Director Wu,",
   "addressee_source": "http://international.hit.edu.cn/16710/list.htm",
   "addressee_confidence": "high",
-  "city": "Харбин"
+  "city": "Харбин",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -54,7 +57,7 @@
   "email_general": "",
   "email_international": "international@buaa.edu.cn",
   "phone": "+86-10-82339158",
-  "website": "https://www.buaa.edu.cn (EN: https://ev.buaa.edu.cn)",
+  "website": "https://www.buaa.edu.cn",
   "head_name": "Wang Yunpeng (王云鹏)",
   "head_title": "President and Party Secretary",
   "party_secretary": "Wang Yunpeng (王云鹏)",
@@ -78,7 +81,8 @@
    "Телефон: International School (бакалавриат)",
    "По nanosats.eu: BUAA-Picosat, BUSAT-1 отменён, SR-SAT не запущен",
    "Лучшая точка входа через APSCO / RCSSTEAP",
-   "Адресат: На странице international@buaa.edu.cn указан как личный рабочий адрес начальника Бай Линь, так что письмо дойдёт адресату напрямую. К департаменту прикреплены Азиатско-Тихоокеанский региональный центр ООН по космическому образованию (Китай) и учебный центр APSCO, что тематически близко к проекту CubeSat."
+   "Адресат: На странице international@buaa.edu.cn указан как личный рабочий адрес начальника Бай Линь, так что письмо дойдёт адресату напрямую. К департаменту прикреплены Азиатско-Тихоокеанский региональный центр ООН по космическому образованию (Китай) и учебный центр APSCO, что тематически близко к проекту CubeSat.",
+   "Дополнительные сайты: https://ev.buaa.edu.cn"
   ],
   "outreach_email_new": "",
   "mailbox_owner": "Департамент международного сотрудничества (国际合作部) / Офис по делам Гонконга, Макао и Тайваня",
@@ -87,7 +91,9 @@
   "salutation": "Dear Director Bai,",
   "addressee_source": "https://global.buaa.edu.cn/gywm/zzjg.htm",
   "addressee_confidence": "high",
-  "city": "Пекин"
+  "city": "Пекин",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -99,7 +105,7 @@
   "email_general": "admission@nwpu.edu.cn",
   "email_international": "wgzj@nwpu.edu.cn",
   "phone": "+86-29-88492812",
-  "website": "https://www.nwpu.edu.cn (EN: https://en.nwpu.edu.cn)",
+  "website": "https://www.nwpu.edu.cn",
   "head_name": "Song Baowei (宋保维)",
   "head_title": "President",
   "party_secretary": "Zhang Yunming (张云明)",
@@ -122,7 +128,8 @@
    "Новый секретарь парткома Чжан Юньмин (экс-замминистра MIIT) с мая 2026",
    "Телефон и e-mail: отдел международного сотрудничества (г-жа Чэн Инь); альтернативно fao@nwpu.edu.cn, +86-29-88492267",
    "7 КА по новостям сентября 2026: 5 собственных микроспутников до 2023 + Qinling-01/02",
-   "Адресат: wgzj@nwpu.edu.cn (wgzj = «иностранные специалисты») — адрес сектора иностранных специалистов, контактное лицо г-жа Чэн Инь (Cheng Yin, тел. 88492812): https://en.nwpu.edu.cn/EnglishNew/index/contactus.htm. Сейчас официальный адрес отдела — nwpuge@nwpu.edu.cn. Сайт защищён от ботов, страница прочитана через WebFetch (пересказ). Замначальника отдела — Ли Цзывэй (李自伟) и Чэнь Цзюнь (陈俊)."
+   "Адресат: wgzj@nwpu.edu.cn (wgzj = «иностранные специалисты») — адрес сектора иностранных специалистов, контактное лицо г-жа Чэн Инь (Cheng Yin, тел. 88492812): https://en.nwpu.edu.cn/EnglishNew/index/contactus.htm. Сейчас официальный адрес отдела — nwpuge@nwpu.edu.cn. Сайт защищён от ботов, страница прочитана через WebFetch (пересказ). Замначальника отдела — Ли Цзывэй (李自伟) и Чэнь Цзюнь (陈俊).",
+   "Дополнительные сайты: https://en.nwpu.edu.cn"
   ],
   "outreach_email_new": "nwpuge@nwpu.edu.cn",
   "mailbox_owner": "wgzj@ — Сектор иностранных специалистов (专家科) Отдела международного сотрудничества; nwpuge@ — общий адрес Отдела международного сотрудничества (国际合作处)",
@@ -131,7 +138,9 @@
   "salutation": "Dear Vice President Kong,",
   "addressee_source": "https://guoji.nwpu.edu.cn/jggk/lxwm.htm",
   "addressee_confidence": "medium",
-  "city": "Сиань"
+  "city": "Сиань",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -143,7 +152,7 @@
   "email_general": "",
   "email_international": "",
   "phone": "+86-25-84893912",
-  "website": "https://www.nuaa.edu.cn (EN: https://en.nuaa.edu.cn)",
+  "website": "https://www.nuaa.edu.cn",
   "head_name": "Jiang Bin (姜斌)",
   "head_title": "President",
   "party_secretary": "He Yaqiong (何亚琼)",
@@ -166,7 +175,8 @@
    "Новый секретарь парткома Хэ Яцюн с июня 2026",
    "Сайт международного отдела (iao.nuaa.edu.cn) был недоступен — e-mail не подтверждён",
    "Телефон: Колледж международного образования",
-   "Адресат: Официального e-mail отдела на сайте ico.nuaa.edu.cn не нашли, там есть только телефоны (общий: 025-84890911, начальник: 025-84891458, факс 025-84498069). Вопросы международных связей ведёт замначальника Чжан Гоцюань (张国权), а вопросы общего сектора — его руководитель Цзу Юйянь (祖语嫣). E-mail нужно уточнить по телефону."
+   "Адресат: Официального e-mail отдела на сайте ico.nuaa.edu.cn не нашли, там есть только телефоны (общий: 025-84890911, начальник: 025-84891458, факс 025-84498069). Вопросы международных связей ведёт замначальника Чжан Гоцюань (张国权), а вопросы общего сектора — его руководитель Цзу Юйянь (祖语嫣). E-mail нужно уточнить по телефону.",
+   "Дополнительные сайты: https://en.nuaa.edu.cn"
   ],
   "outreach_email_new": "",
   "mailbox_owner": "Отдел международного сотрудничества (国际合作处)",
@@ -175,7 +185,9 @@
   "salutation": "Dear Director Lai,",
   "addressee_source": "http://ico.nuaa.edu.cn/10476/list.htm",
   "addressee_confidence": "medium",
-  "city": "Нанкин"
+  "city": "Нанкин",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -187,7 +199,7 @@
   "email_general": "",
   "email_international": "fao@nudt.edu.cn",
   "phone": "+86-731-87000275",
-  "website": "https://www.nudt.edu.cn (EN: https://english.nudt.edu.cn)",
+  "website": "https://www.nudt.edu.cn",
   "head_name": "Lei Yongjun (雷勇军)",
   "head_title": "President (Major General)",
   "party_secretary": "",
@@ -212,7 +224,8 @@
    "Коммутатор: +86-731-84576114",
    "Лэй Юнцзюнь сменил Ли Сяна на посту президента (июнь 2026)",
    "10 КА = сумма аппаратов серии Tiantuo и QB50",
-   "Адресат: Военный вуз (НОАК), состав руководства отдела иностранных дел не публикуется. Адрес fao@nudt.edu.cn подтверждён в контактах англоязычного сайта (тел. +86-731-87000275). Имя руководителя установить нельзя. Учтите, что университет включён в санкционные списки США (Entity List)."
+   "Адресат: Военный вуз (НОАК), состав руководства отдела иностранных дел не публикуется. Адрес fao@nudt.edu.cn подтверждён в контактах англоязычного сайта (тел. +86-731-87000275). Имя руководителя установить нельзя. Учтите, что университет включён в санкционные списки США (Entity List).",
+   "Дополнительные сайты: https://english.nudt.edu.cn"
   ],
   "outreach_email_new": "",
   "mailbox_owner": "Отдел иностранных дел (Foreign Affairs Office, 外事办公室) — общий контактный адрес англоязычного сайта",
@@ -221,7 +234,9 @@
   "salutation": "Dear Director of the Foreign Affairs Office,",
   "addressee_source": "https://english.nudt.edu.cn",
   "addressee_confidence": "low",
-  "city": "Чанша"
+  "city": "Чанша",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -265,7 +280,9 @@
   "salutation": "Dear Director Xiao,",
   "addressee_source": "https://www.tsinghua.edu.cn/gjhz/gywm/lxwm.htm",
   "addressee_confidence": "high",
-  "city": "Пекин"
+  "city": "Пекин",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -309,7 +326,9 @@
   "salutation": "Dear Director Liang,",
   "addressee_source": "http://www.ir.zju.edu.cn/69632/list.htm",
   "addressee_confidence": "high",
-  "city": "Ханчжоу"
+  "city": "Ханчжоу",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -321,7 +340,7 @@
   "email_general": "",
   "email_international": "",
   "phone": "+86-10-68912913",
-  "website": "https://www.bit.edu.cn (EN: https://english.bit.edu.cn)",
+  "website": "https://www.bit.edu.cn",
   "head_name": "Jiang Lan (姜澜)",
   "head_title": "President",
   "party_secretary": "",
@@ -345,7 +364,8 @@
    "Телефон: отдел международного сотрудничества; приёмная президента/парткома +86-10-68914247",
    "E-mail на официальных страницах не найден",
    "CAS-7B в nanosats.eu числится за CAMSAT; участие BIT выведено из названий КА — низкая достоверность",
-   "Адресат: Общего e-mail отдела на сайте нет, найдены только личные адреса сотрудников. Начальник отдела — Чэнь Дуаньдуань (陈端端, 处长), см. https://international.bit.edu.cn/gywm/ksry/cld/index.htm. Её e-mail не опубликован. Можно адресовать письмо ей («Dear Director Chen,») и отправить через zongxin@. Данные поисковика о начальнике «Тан Шуйюань» устарели."
+   "Адресат: Общего e-mail отдела на сайте нет, найдены только личные адреса сотрудников. Начальник отдела — Чэнь Дуаньдуань (陈端端, 处长), см. https://international.bit.edu.cn/gywm/ksry/cld/index.htm. Её e-mail не опубликован. Можно адресовать письмо ей («Dear Director Chen,») и отправить через zongxin@. Данные поисковика о начальнике «Тан Шуйюань» устарели.",
+   "Дополнительные сайты: https://english.bit.edu.cn"
   ],
   "outreach_email_new": "zongxin@bit.edu.cn",
   "mailbox_owner": "Сектор обменов и сотрудничества (交流合作室) Отдела международных обменов и сотрудничества (国际交流合作处) — личный адрес руководителя сектора",
@@ -354,7 +374,9 @@
   "salutation": "Dear Director Zong,",
   "addressee_source": "https://international.bit.edu.cn/gywm/ksry/jlhzs/index.htm",
   "addressee_confidence": "medium",
-  "city": "Пекин"
+  "city": "Пекин",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -400,7 +422,9 @@
   "addressee_source": "https://gjc.njust.edu.cn/",
   "addressee_confidence": "low",
   "city": "Нанкин",
-  "recheck_ru": "Руководство исправлено и подтверждено на новостном сайте вуза (сент. 2026): президент Ян Исинь вместо Фу Мэнъиня; контакты международного отдела по-прежнему не открываются"
+  "recheck_ru": "Руководство исправлено и подтверждено на новостном сайте вуза (сент. 2026): президент Ян Исинь вместо Фу Мэнъиня; контакты международного отдела по-прежнему не открываются",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -445,7 +469,9 @@
   "salutation": "Dear Director Dou,",
   "addressee_source": "https://fao.hrbeu.edu.cn/4775/list.htm",
   "addressee_confidence": "medium",
-  "city": "Харбин"
+  "city": "Харбин",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -489,7 +515,9 @@
   "salutation": "Dear Director Yin,",
   "addressee_source": "https://global.sjtu.edu.cn/about/organization",
   "addressee_confidence": "high",
-  "city": "Шанхай"
+  "city": "Шанхай",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -534,7 +562,9 @@
   "salutation": "Dear President Tang,",
   "addressee_source": "https://www.sysu.edu.cn/xxg/xrld/xz.htm",
   "addressee_confidence": "high",
-  "city": "Гуанчжоу"
+  "city": "Гуанчжоу",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -580,7 +610,9 @@
   "salutation": "Dear Director Deng,",
   "addressee_source": "https://oir.whu.edu.cn/bmtuwj/bmld.htm",
   "addressee_confidence": "high",
-  "city": "Ухань"
+  "city": "Ухань",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -624,7 +656,9 @@
   "salutation": "Dear Director Wang,",
   "addressee_source": "https://dutdice.dlut.edu.cn/lxwm/lxwm.htm",
   "addressee_confidence": "high",
-  "city": "Далянь"
+  "city": "Далянь",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -669,7 +703,9 @@
   "salutation": "Dear Director Shen,",
   "addressee_source": "https://oice.xidian.edu.cn/gywm/bmgk/zzjg.htm",
   "addressee_confidence": "high",
-  "city": "Сиань"
+  "city": "Сиань",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -714,7 +750,9 @@
   "salutation": "Dear Director Qu,",
   "addressee_source": "https://oic.ustc.edu.cn/%e5%85%b3%e4%ba%8e%e6%88%91%e4%bb%ac/%e4%ba%ba%e5%91%98%e4%bf%a1%e6%81%af/",
   "addressee_confidence": "high",
-  "city": "Хэфэй"
+  "city": "Хэфэй",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -759,7 +797,9 @@
   "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
   "addressee_source": "",
   "addressee_confidence": "low",
-  "city": "Пекин"
+  "city": "Пекин",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -803,7 +843,9 @@
   "salutation": "Dear Director Li,",
   "addressee_source": "http://www.oir.pku.edu.cn/gywm.htm",
   "addressee_confidence": "high",
-  "city": "Пекин"
+  "city": "Пекин",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -848,7 +890,9 @@
   "salutation": "Dear Executive Deputy Director Chen,",
   "addressee_source": "https://global.sustech.edu.cn/about/contact_us",
   "addressee_confidence": "high",
-  "city": "Шэньчжэнь"
+  "city": "Шэньчжэнь",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -893,7 +937,9 @@
   "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
   "addressee_source": "",
   "addressee_confidence": "low",
-  "city": "Чэнду"
+  "city": "Чэнду",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -905,7 +951,7 @@
   "email_general": "",
   "email_international": "ogp@fudan.edu.cn",
   "phone": "+86-21-65642222 (switchboard); +86-21-65642260 (Office of Global Partnerships)",
-  "website": "https://www.fudan.edu.cn/en/",
+  "website": "https://www.fudan.edu.cn/en",
   "head_name": "Jin Li (金力)",
   "head_title": "President",
   "party_secretary": "Qiu Xin (裘新)",
@@ -937,7 +983,9 @@
   "salutation": "Dear Director Lu,",
   "addressee_source": "https://ogp.fudan.edu.cn/16079/list.htm",
   "addressee_confidence": "high",
-  "city": "Шанхай"
+  "city": "Шанхай",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -949,7 +997,7 @@
   "email_general": "",
   "email_international": "chenping@xjtu.edu.cn",
   "phone": "+86-29-82668236 (Department of International Cooperation and Exchanges)",
-  "website": "https://www.xjtu.edu.cn/",
+  "website": "https://www.xjtu.edu.cn",
   "head_name": "Zhang Liqun (张立群)",
   "head_title": "President",
   "party_secretary": "Wu Guosheng (吴国生)",
@@ -982,7 +1030,9 @@
   "salutation": "Dear Director Liu,",
   "addressee_source": "https://www.xjtu.edu.cn/gjjl/gjhzyjlc.htm",
   "addressee_confidence": "medium",
-  "city": "Сиань"
+  "city": "Сиань",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -992,9 +1042,9 @@
   "main_fields": "Mechanical Engineering, Optoelectronics, Electrical Engineering, Computer Science, Medicine, Gravitational/Precision Physics",
   "postal_address": "1037 Luoyu Road, Hongshan District, Wuhan, Hubei 430074, China",
   "email_general": "",
-  "email_international": "apply@hust.edu.cn (international admissions); OIA staff e.g. pengyumeng@hust.edu.cn, tianwan826@hust.edu.cn",
+  "email_international": "apply@hust.edu.cn",
   "phone": "+86-27-87541114 (switchboard); +86-27-87542257 / +86-27-87559124 (Office of International Affairs)",
-  "website": "https://www.hust.edu.cn/",
+  "website": "https://www.hust.edu.cn",
   "head_name": "You Zheng (尤政)",
   "head_title": "President",
   "party_secretary": "Liu Bo (刘波)",
@@ -1016,7 +1066,8 @@
   "notes_ru": [
    "Участие в КА — полезная нагрузка (инерциальный датчик) на TianQin-1; программу TianQin ведёт SYSU",
    "Единого международного e-mail нет; адреса сотрудников по регионам",
-   "Адресат: Начальник управления — Chen Jie (陈洁, 处长). Россия и ЮАР относятся к офису Европы и Африки (курирует зам. начальника Jiang Jing, 江静). Общий ящик управления: international@hust.edu.cn — разумно поставить в копию."
+   "Адресат: Начальник управления — Chen Jie (陈洁, 处长). Россия и ЮАР относятся к офису Европы и Африки (курирует зам. начальника Jiang Jing, 江静). Общий ящик управления: international@hust.edu.cn — разумно поставить в копию.",
+   "Поле e-mail (email_international) очищено; исходная запись: apply@hust.edu.cn (international admissions); OIA staff e.g. pengyumeng@hust.edu.cn, tianwan826@hust.edu.cn"
   ],
   "outreach_email_new": "",
   "mailbox_owner": "Личный ящик заместителя начальника Управления международных связей (国际交流处), курирующей офис по связям с Америкой, Океанией и Азией и офис стратегии и планирования",
@@ -1025,7 +1076,9 @@
   "salutation": "Dear Deputy Director Peng,",
   "addressee_source": "http://oia.hust.edu.cn/gywm/bmld.htm",
   "addressee_confidence": "high",
-  "city": "Ухань"
+  "city": "Ухань",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик приёмной комиссии/вебмастера — найти ящик международного отдела"
  },
  {
   "country": "China",
@@ -1037,7 +1090,7 @@
   "email_general": "",
   "email_international": "international@szu.edu.cn",
   "phone": "+86-755-26536114",
-  "website": "https://www.szu.edu.cn/",
+  "website": "https://www.szu.edu.cn",
   "head_name": "Xu Bo (徐波)",
   "head_title": "Party Secretary, temporarily in charge of administration (President post vacant)",
   "party_secretary": "Xu Bo (徐波)",
@@ -1070,7 +1123,9 @@
   "salutation": "Dear Director Han,",
   "addressee_source": "https://news.gdufe.edu.cn/45757",
   "addressee_confidence": "low",
-  "city": "Шэньчжэнь"
+  "city": "Шэньчжэнь",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -1082,7 +1137,7 @@
   "email_general": "",
   "email_international": "gjc@gxu.edu.cn",
   "phone": "+86-771-3238863 (International Cooperation and Exchange Department)",
-  "website": "https://www.gxu.edu.cn/",
+  "website": "https://www.gxu.edu.cn",
   "head_name": "Xiao Jianzhuang (肖建庄)",
   "head_title": "President",
   "party_secretary": "Xu Huarui (徐华瑞)",
@@ -1114,7 +1169,9 @@
   "salutation": "Dear Director Liao,",
   "addressee_source": "https://gjjl.gxu.edu.cn/gywm/bmjs.htm",
   "addressee_confidence": "high",
-  "city": "Наньнин"
+  "city": "Наньнин",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -1124,9 +1181,9 @@
   "main_fields": "Weapon Science & Technology, Instrumentation & Measurement, Materials Science, Mechanical Engineering, Chemical Engineering/Energetic Materials, Information & Communication Engineering",
   "postal_address": "3 Xueyuan Road, Taiyuan, Shanxi 030051, China",
   "email_general": "",
-  "email_international": "fanpeng@nuc.edu.cn (International Exchange Office director); study@nuc.edu.cn (international students)",
+  "email_international": "fanpeng@nuc.edu.cn",
   "phone": "+86-351-3923988 (international partnership office); +86-351-3923780 (director)",
-  "website": "https://www.nuc.edu.cn/",
+  "website": "https://www.nuc.edu.cn",
   "head_name": "Chen Qian (陈钱)",
   "head_title": "President",
   "party_secretary": "Zhang Xiaoyong (张晓永)",
@@ -1150,7 +1207,8 @@
    "Первый КА Zhongbei Daxue-1 потерян при аварии РН 10.11.2025 — на орбите 0",
    "Планируется группировка Taihang из 128 КА",
    "Ряд e-mail международного отдела — личные или QQ",
-   "Адресат: Fan Peng — не директор (как было указано во входных данных), а начальник сектора; китайское написание имени не подтверждено. Англ. страница, вероятно, устарела: на актуальной китайской странице (https://international.nuc.edu.cn/xyjs/lxfs.htm) Fan Peng отсутствует, начальник сектора межд. обменов — Han Ying (韩英, hanying@nuc.edu.cn), а руководитель — Zhao Yuhong (赵宇宏), декан Колледжа международного образования / начальник Департамента международного обмена и сотрудничества (国际交流合作部部长). Рекомендуется адресовать Zhao Yuhong («Dear Dean Zhao,») с копией fanpeng@ и hanying@."
+   "Адресат: Fan Peng — не директор (как было указано во входных данных), а начальник сектора; китайское написание имени не подтверждено. Англ. страница, вероятно, устарела: на актуальной китайской странице (https://international.nuc.edu.cn/xyjs/lxfs.htm) Fan Peng отсутствует, начальник сектора межд. обменов — Han Ying (韩英, hanying@nuc.edu.cn), а руководитель — Zhao Yuhong (赵宇宏), декан Колледжа международного образования / начальник Департамента международного обмена и сотрудничества (国际交流合作部部长). Рекомендуется адресовать Zhao Yuhong («Dear Dean Zhao,») с копией fanpeng@ и hanying@.",
+   "Поле e-mail (email_international) очищено; исходная запись: fanpeng@nuc.edu.cn (International Exchange Office director); study@nuc.edu.cn (international students)"
   ],
   "outreach_email_new": "",
   "mailbox_owner": "Личный ящик заведующего сектором международного партнёрства, Колледж международного образования (Департамент международного обмена и сотрудничества)",
@@ -1159,7 +1217,9 @@
   "salutation": "Dear Mr. Fan,",
   "addressee_source": "https://international.nuc.edu.cn/gjhzjlc_e/Contact_Us.htm",
   "addressee_confidence": "medium",
-  "city": "Тайюань"
+  "city": "Тайюань",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -1171,7 +1231,7 @@
   "email_general": "",
   "email_international": "oia@shanghaitech.edu.cn",
   "phone": "+86-21-20685146 (Office of International Affairs)",
-  "website": "https://www.shanghaitech.edu.cn/",
+  "website": "https://www.shanghaitech.edu.cn",
   "head_name": "Feng Donglai (封东来)",
   "head_title": "President",
   "party_secretary": "Li Ruxin (李儒新)",
@@ -1203,7 +1263,9 @@
   "salutation": "Dear Deputy Director Nie,",
   "addressee_source": "https://oia.shanghaitech.edu.cn/549/list.htm",
   "addressee_confidence": "high",
-  "city": "Шанхай"
+  "city": "Шанхай",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -1215,7 +1277,7 @@
   "email_general": "",
   "email_international": "",
   "phone": "+86-25-89683186 (Xianlin/President's Office); +86-25-83593330 (Office of International Cooperation and Exchanges)",
-  "website": "https://www.nju.edu.cn/",
+  "website": "https://www.nju.edu.cn",
   "head_name": "Tan Zhemin (谈哲敏)",
   "head_title": "President",
   "party_secretary": "Tan Tieniu (谭铁牛)",
@@ -1246,7 +1308,9 @@
   "salutation": "Dear Director Lu,",
   "addressee_source": "https://wb.nju.edu.cn/jgsz/list.htm",
   "addressee_confidence": "high",
-  "city": "Нанкин"
+  "city": "Нанкин",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -1256,9 +1320,9 @@
   "main_fields": "Education, Psychology, Geography & Remote Sensing, Chinese Language & Literature, Mathematics, Environmental Science",
   "postal_address": "No. 19 Xinjiekouwai Street, Haidian District, Beijing 100875, China",
   "email_general": "xwzx@bnu.edu.cn",
-  "email_international": "oiec3@bnu.edu.cn (OIEC, Asia desk, per BNU exchange fact sheet)",
+  "email_international": "oiec3@bnu.edu.cn",
   "phone": "+86-10-58806183 (directory assistance); +86-10-58800301 (OIEC)",
-  "website": "https://www.bnu.edu.cn/",
+  "website": "https://www.bnu.edu.cn",
   "head_name": "Yu Jihong (于吉红)",
   "head_title": "President",
   "party_secretary": "Cheng Jianping (程建平)",
@@ -1281,7 +1345,8 @@
    "Пользователь и оператор спутников ДЗЗ: BNU-1 (полярные наблюдения) и группировка MuDuo (2026)",
    "Общий e-mail — адрес новостного центра",
    "E-mail OIEC взят из документа вуза-партнёра — не проверен напрямую",
-   "Адресат: Исходный oiec3@bnu.edu.cn принадлежит Fang Shunji (方顺姬) — сотруднику по студенческим выездным обменам (Азия, Африка); для приглашения к институциональному партнёрству не подходит. Liu Min отвечает за межвузовские обмены и проекты сотрудничества. Начальник отдела — Teng Jun (滕珺, tengjun1983@bnu.edu.cn) — рекомендуется в копию."
+   "Адресат: Исходный oiec3@bnu.edu.cn принадлежит Fang Shunji (方顺姬) — сотруднику по студенческим выездным обменам (Азия, Африка); для приглашения к институциональному партнёрству не подходит. Liu Min отвечает за межвузовские обмены и проекты сотрудничества. Начальник отдела — Teng Jun (滕珺, tengjun1983@bnu.edu.cn) — рекомендуется в копию.",
+   "Поле e-mail (email_international) очищено; исходная запись: oiec3@bnu.edu.cn (OIEC, Asia desk, per BNU exchange fact sheet)"
   ],
   "outreach_email_new": "liumin@bnu.edu.cn",
   "mailbox_owner": "Офис глобальных обменов и развития Отдела международного обмена и сотрудничества (国际交流与合作处 — 全球交流与拓展办公室)",
@@ -1290,7 +1355,9 @@
   "salutation": "Dear Deputy Director Liu,",
   "addressee_source": "https://oiec.bnu.edu.cn/gywm/lxwm/index.htm",
   "addressee_confidence": "high",
-  "city": "Пекин"
+  "city": "Пекин",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -1302,7 +1369,7 @@
   "email_general": "",
   "email_international": "global@cqu.edu.cn",
   "phone": "+86-23-65102391 (Office of International Affairs)",
-  "website": "https://www.cqu.edu.cn/",
+  "website": "https://www.cqu.edu.cn",
   "head_name": "Liu Changsheng (刘昌胜)",
   "head_title": "President",
   "party_secretary": "Wang Shuxin (王树新)",
@@ -1333,7 +1400,9 @@
   "salutation": "Dear Director Yang,",
   "addressee_source": "https://www.cqu.edu.cn/info/1111/64301.htm",
   "addressee_confidence": "medium",
-  "city": "Чунцин"
+  "city": "Чунцин",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -1378,7 +1447,9 @@
   "salutation": "Dear Director Yin,",
   "addressee_source": "https://fao.tongji.edu.cn/gywm/bmgk.htm",
   "addressee_confidence": "high",
-  "city": "Шанхай"
+  "city": "Шанхай",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -1387,8 +1458,8 @@
   "profile_type": "technical/aerospace",
   "main_fields": "Architecture, Civil and transportation engineering, Electronic science and information/communication engineering (millimeter waves, mobile communications), Instrument science, Biomedical engineering, Computer science",
   "postal_address": "2 Sipailou, Xuanwu District, Nanjing, Jiangsu 210096, China (Jiulonghu Campus: 2 Southeast University Road, Jiangning District, Nanjing 211189)",
-  "email_general": "admission@seu.edu.cn (international admissions)",
-  "email_international": "cis@pub.seu.edu.cn (International Students' Center; the International Cooperation Office page lists phones only)",
+  "email_general": "admission@seu.edu.cn",
+  "email_international": "cis@pub.seu.edu.cn",
   "phone": "+86-25-52090197 (Office of International Cooperation, inter-university cooperation)",
   "website": "https://www.seu.edu.cn",
   "head_name": "Sun Youhong (孙友宏)",
@@ -1413,7 +1484,9 @@
    "Собственных КА нет (участие в оборудовании Shenzhou/Tiangong)",
    "Отдел международного сотрудничества указывает только телефоны",
    "Не найден в Entity List США",
-   "Адресат: cis@pub.seu.edu.cn — ящик Центра иностранных студентов (Колледж зарубежного образования), не для партнёрств; на странице «联系我们» OIC (https://oic.seu.edu.cn/lxwm_69042/list.htm) для международного сотрудничества указан globalseu@pub.seu.edu.cn. Должность Ye Zhirui подтверждена профилем на сайте School of Transportation (страница 2019 г.; на сайте OIC страницы руководства нет) — может быть устаревшей."
+   "Адресат: cis@pub.seu.edu.cn — ящик Центра иностранных студентов (Колледж зарубежного образования), не для партнёрств; на странице «联系我们» OIC (https://oic.seu.edu.cn/lxwm_69042/list.htm) для международного сотрудничества указан globalseu@pub.seu.edu.cn. Должность Ye Zhirui подтверждена профилем на сайте School of Transportation (страница 2019 г.; на сайте OIC страницы руководства нет) — может быть устаревшей.",
+   "Поле e-mail (email_general) очищено; исходная запись: admission@seu.edu.cn (international admissions)",
+   "Поле e-mail (email_international) очищено; исходная запись: cis@pub.seu.edu.cn (International Students' Center; the International Cooperation Office page lists phones only)"
   ],
   "outreach_email_new": "globalseu@pub.seu.edu.cn",
   "mailbox_owner": "Управление международного сотрудничества (国际合作处) / Офис по делам Гонконга, Макао и Тайваня",
@@ -1422,7 +1495,9 @@
   "salutation": "Dear Director Ye,",
   "addressee_source": "https://tc.seu.edu.cn/2019/1022/c25722a291865/page.htm",
   "addressee_confidence": "medium",
-  "city": "Нанкин"
+  "city": "Нанкин",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -1466,7 +1541,9 @@
   "salutation": "Dear Director Li,",
   "addressee_source": "https://international.scu.edu.cn/About_Us/Contact_Us/Contact_Us.htm",
   "addressee_confidence": "medium",
-  "city": "Чэнду"
+  "city": "Чэнду",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -1476,7 +1553,7 @@
   "main_fields": "Metallurgy and materials (powder metallurgy), Mining and mineral resources engineering, Medicine (Xiangya), Rail transportation engineering, Computer science and automation, Geosciences and info-physics",
   "postal_address": "932 Lushan South Road, Changsha, Hunan 410083, China",
   "email_general": "",
-  "email_international": "admissions@csu.edu.cn (International Student Office)",
+  "email_international": "admissions@csu.edu.cn",
   "phone": "+86-731-88876114 (campus switchboard/directory)",
   "website": "https://www.csu.edu.cn",
   "head_name": "Li Jiancheng (李建成)",
@@ -1501,7 +1578,8 @@
    "Собственных КА нет; космическая тематика — материалы для РН и КА",
    "Страница контактов международного отдела без e-mail; указан адрес службы иностранных студентов",
    "Не найден в Entity List США",
-   "Адресат: admissions@csu.edu.cn — приём иностранных студентов, не для партнёрств. На странице контактов 国际处 для «交流项目» указан ied-csu@csu.edu.cn; отдел обменов отвечает за переговоры и соглашения с зарубежными вузами (зам. руководителя отдела — Wen Ning 文宁). Руководство: https://iecd.csu.edu.cn/gywm/jgsz.htm."
+   "Адресат: admissions@csu.edu.cn — приём иностранных студентов, не для партнёрств. На странице контактов 国际处 для «交流项目» указан ied-csu@csu.edu.cn; отдел обменов отвечает за переговоры и соглашения с зарубежными вузами (зам. руководителя отдела — Wen Ning 文宁). Руководство: https://iecd.csu.edu.cn/gywm/jgsz.htm.",
+   "Поле e-mail (email_international) очищено; исходная запись: admissions@csu.edu.cn (International Student Office)"
   ],
   "outreach_email_new": "ied-csu@csu.edu.cn",
   "mailbox_owner": "Отдел обменов (交流办公室) Управления международного сотрудничества и обменов (国际合作与交流处)",
@@ -1510,7 +1588,9 @@
   "salutation": "Dear Director Yin,",
   "addressee_source": "https://iecd.csu.edu.cn/gywm/lxwm.htm",
   "addressee_confidence": "high",
-  "city": "Чанша"
+  "city": "Чанша",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -1519,7 +1599,7 @@
   "profile_type": "classical",
   "main_fields": "Mathematics, Chemistry and materials, Medicine (Qilu), Chinese literature, history and philosophy, Space physics and space science (Weihai), Engineering",
   "postal_address": "27 Shanda Nanlu, Jinan, Shandong 250100, China",
-  "email_general": "ipo@sdu.edu.cn (listed for Office of the President)",
+  "email_general": "ipo@sdu.edu.cn",
   "email_international": "ipo@sdu.edu.cn",
   "phone": "+86-531-88364701 (Office of the President)",
   "website": "https://www.sdu.edu.cn",
@@ -1545,7 +1625,8 @@
    "1 КА: Weiming-1 совместно с PKU и MinoSpace; вклад вуза — 2 полезные нагрузки",
    "Космический центр — кампус Вэйхай (fxipo@wh.sdu.edu.cn, +86-631-5688016)",
    "Не найден в Entity List США",
-   "Адресат: Личный e-mail: mawen@sdu.edu.cn. Сотрудничество с Россией и ШОС курирует зам. руководителя Zhou Chuan'en (周传恩), czhou@sdu.edu.cn; международные обмены в целом — Zhang Jiaqi (张佳琦), jqzhang@sdu.edu.cn."
+   "Адресат: Личный e-mail: mawen@sdu.edu.cn. Сотрудничество с Россией и ШОС курирует зам. руководителя Zhou Chuan'en (周传恩), czhou@sdu.edu.cn; международные обмены в целом — Zhang Jiaqi (张佳琦), jqzhang@sdu.edu.cn.",
+   "Поле e-mail (email_general) очищено; исходная запись: ipo@sdu.edu.cn (listed for Office of the President)"
   ],
   "outreach_email_new": "",
   "mailbox_owner": "Департамент международных дел (国际事务部) / Офис по делам Гонконга, Макао и Тайваня",
@@ -1554,7 +1635,9 @@
   "salutation": "Dear Director-General Ma,",
   "addressee_source": "https://www.ipo.sdu.edu.cn/bmjk/ryfg.htm",
   "addressee_confidence": "high",
-  "city": "Цзинань"
+  "city": "Цзинань",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -1599,7 +1682,9 @@
   "salutation": "Dear Director Li,",
   "addressee_source": "http://oic.jlu.edu.cn/gywm/bmld.htm",
   "addressee_confidence": "high",
-  "city": "Чанчунь"
+  "city": "Чанчунь",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -1608,7 +1693,7 @@
   "profile_type": "technical/aerospace",
   "main_fields": "Hydraulic engineering, Hydrology and water resources, Civil and harbour engineering, Environmental science, Earth sciences, geography and remote sensing",
   "postal_address": "1 Xikang Road, Nanjing, Jiangsu 210098, China",
-  "email_general": "admission@hhu.edu.cn (International School Admission Office)",
+  "email_general": "admission@hhu.edu.cn",
   "email_international": "Internationalexchange@hhu.edu.cn",
   "phone": "+86-25-83772107 (International Office, General Affairs)",
   "website": "https://www.hhu.edu.cn",
@@ -1634,7 +1719,8 @@
    "Собственных КА нет; профиль — водные ресурсы, гидрология, ДЗЗ-приложения",
    "Нет в рейтинге THE",
    "Не найден в Entity List США",
-   "Адресат: Internationalexchange@hhu.edu.cn подтверждён на https://en.hhu.edu.cn/341/list.htm как ящик International Exchange Office. Общий ящик управления: gjhzc@hhu.edu.cn (можно в копию). На сайте управления нет страницы руководства; имя — из новости апреля 2025 г. (зам. начальника — Wu Yao 吴瑶)."
+   "Адресат: Internationalexchange@hhu.edu.cn подтверждён на https://en.hhu.edu.cn/341/list.htm как ящик International Exchange Office. Общий ящик управления: gjhzc@hhu.edu.cn (можно в копию). На сайте управления нет страницы руководства; имя — из новости апреля 2025 г. (зам. начальника — Wu Yao 吴瑶).",
+   "Поле e-mail (email_general) очищено; исходная запись: admission@hhu.edu.cn (International School Admission Office)"
   ],
   "outreach_email_new": "",
   "mailbox_owner": "Отдел международных обменов (国际交流科) Управления международного сотрудничества (国际合作处)",
@@ -1643,7 +1729,9 @@
   "salutation": "Dear Director Zhang,",
   "addressee_source": "https://sdxy.hhu.edu.cn/_t947/2025/0427/c5763a301995/page.htm",
   "addressee_confidence": "medium",
-  "city": "Нанкин"
+  "city": "Нанкин",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -1652,7 +1740,7 @@
   "profile_type": "agrarian/ecological",
   "main_fields": "Agronomy and crop science, Veterinary and animal science, Food science and nutrition, Agricultural engineering, Resources and environmental science, Land science and technology (remote sensing/GIS)",
   "postal_address": "17 Qinghua Donglu, Haidian District, Beijing 100083, China",
-  "email_general": "cauie@cau.edu.cn (International Students Affairs)",
+  "email_general": "cauie@cau.edu.cn",
   "email_international": "oice@cau.edu.cn",
   "phone": "+86-10-62737714 (International Cooperation and Exchange)",
   "website": "https://www.cau.edu.cn",
@@ -1678,7 +1766,8 @@
    "Собственных КА нет; потенциальный потребитель данных ДЗЗ для сельского хозяйства",
    "Последний рейтинг THE — 2022",
    "Не найден в Entity List США",
-   "Адресат: oice@cau.edu.cn закреплён за Zhang Ruyu (Европа). Начальник управления — Tang Ying (唐莹), tangying@cau.edu.cn (https://global.cau.edu.cn/col/col52260/index.html); отдел курирует зам. начальника Wu Jian (吴健), jianwu@cau.edu.cn. Для Азии/Африки — Chang Xin (常鑫), internationaloffice@cau.edu.cn; Америка — Su Hetong (苏鹤童), oirf@cau.edu.cn. Пол Zhang Ruyu не указан. Официальное приглашение лучше адресовать начальнику («Dear Director Tang,»), отправив на oice@ с копией tangying@."
+   "Адресат: oice@cau.edu.cn закреплён за Zhang Ruyu (Европа). Начальник управления — Tang Ying (唐莹), tangying@cau.edu.cn (https://global.cau.edu.cn/col/col52260/index.html); отдел курирует зам. начальника Wu Jian (吴健), jianwu@cau.edu.cn. Для Азии/Африки — Chang Xin (常鑫), internationaloffice@cau.edu.cn; Америка — Su Hetong (苏鹤童), oirf@cau.edu.cn. Пол Zhang Ruyu не указан. Официальное приглашение лучше адресовать начальнику («Dear Director Tang,»), отправив на oice@ с копией tangying@.",
+   "Поле e-mail (email_general) очищено; исходная запись: cauie@cau.edu.cn (International Students Affairs)"
   ],
   "outreach_email_new": "",
   "mailbox_owner": "Отдел международного сотрудничества (国际合作办公室) Управления международного сотрудничества и обменов (国际合作与交流处); ящик закреплён за сотрудником",
@@ -1687,7 +1776,9 @@
   "salutation": "Dear Zhang Ruyu,",
   "addressee_source": "https://global.cau.edu.cn/col/col52636/index.html",
   "addressee_confidence": "high",
-  "city": "Пекин"
+  "city": "Пекин",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -1731,7 +1822,9 @@
   "salutation": "Dear Director Li,",
   "addressee_source": "http://news.ouc.edu.cn/2026/0930/c78a122866/page.htm",
   "addressee_confidence": "high",
-  "city": "Циндао"
+  "city": "Циндао",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -1775,7 +1868,9 @@
   "salutation": "Dear Director Guan,",
   "addressee_source": "https://gjhzc.cug.edu.cn/jgsz/bmld.htm",
   "addressee_confidence": "high",
-  "city": "Ухань"
+  "city": "Ухань",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -1816,7 +1911,9 @@
   "mailbox_owner": "Канцелярия президента (President's Office)",
   "addressee_name": "Zhu Jiankang (朱健康)",
   "addressee_title": "Президент университета (адресат через канцелярию президента)",
-  "salutation": "Dear President Zhu,"
+  "salutation": "Dear President Zhu,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -1830,7 +1927,7 @@
   "email_general": "",
   "email_international": "",
   "phone": "+86-22-24092104 (Party & President's Office); +86-22-24092036 (International Office, foreign affairs section)",
-  "website": "https://www.cauc.edu.cn (EN: https://www.cauc.edu.cn/en/)",
+  "website": "https://www.cauc.edu.cn",
   "head_name": "Ding Shuiting (丁水汀)",
   "head_title": "President",
   "party_secretary": "Yu Jian (于剑)",
@@ -1852,12 +1949,15 @@
    "ФИО начальника Отдела международного сотрудничества (国际处/港澳台事务办公室) на сайте не указано.",
    "Сайт часто сбрасывает соединения; страница «Действующее руководство» отрисовывается скриптом — руководство подтверждено по новостям сентября 2026 г.",
    "Собственных спутников не найдено (один поиск); профиль — гражданская авиация, не космос.",
-   "В QS2027 не входит."
+   "В QS2027 не входит.",
+   "Дополнительные сайты: https://www.cauc.edu.cn/en/"
   ],
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -1871,7 +1971,7 @@
   "email_general": "",
   "email_international": "international_office@xupt.edu.cn",
   "phone": "+86-29-88166105 (university); +86-29-88166147 (International Office)",
-  "website": "https://www.xupt.edu.cn (EN: http://english.xupt.edu.cn)",
+  "website": "https://www.xupt.edu.cn",
   "head_name": "Lu Guangyue (卢光跃)",
   "head_title": "President",
   "party_secretary": "Ma Ning (马宁)",
@@ -1892,12 +1992,15 @@
    "Адрес international_office@xupt.edu.cn указан на странице отдела (обновл. 2019); на англ. сайте (2013) указан fao@xupt.edu.cn — можно поставить оба в копию.",
    "ФИО начальника Отдела международного сотрудничества и обменов (国际合作与交流处) на сайте не опубликовано; он же руководит офисом по делам Тайваня, Гонконга и Макао.",
    "Собственных спутников не найдено (поиск по «西安邮电大学 卫星» дал только «Сидянь-1» другого вуза — Xidian).",
-   "В QS2027 и THE2027 не представлен."
+   "В QS2027 и THE2027 не представлен.",
+   "Дополнительные сайты: http://english.xupt.edu.cn"
   ],
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处) / Институт международного образования",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -1939,7 +2042,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества (国际合作与交流处/港澳台事务办公室) — ящик программ обмена",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -1953,7 +2058,7 @@
   "email_general": "xzb@gdou.edu.cn",
   "email_international": "International.support@gdou.edu.cn",
   "phone": "+86-759-2383111 (university); +86-759-2383333 (Party & Administration Office); +86-759-2396202 (International Office)",
-  "website": "https://www.gdou.edu.cn (EN intl: https://iecd.gdou.edu.cn)",
+  "website": "https://www.gdou.edu.cn",
   "head_name": "Liu Wenhua (刘文华)",
   "head_title": "President",
   "party_secretary": "Yang Zhou (杨洲)",
@@ -1974,12 +2079,15 @@
    "International.support@gdou.edu.cn указан на англ. сайте международного отдела (футер, © 2022) — возможно, ящик поддержки иностранных студентов; копию стоит направить на xzb@gdou.edu.cn (общий e-mail с главной страницы).",
    "ФИО руководителя Отдела международного обмена и сотрудничества (国际交流合作部) на сайте не найдено.",
    "Собственных спутников не найдено (одна быстрая проверка по запросу «<название> 卫星 发射»).",
-   "В QS2027 и THE2027 не представлен."
+   "В QS2027 и THE2027 не представлен.",
+   "Дополнительные сайты: https://iecd.gdou.edu.cn"
   ],
   "mailbox_owner": "Отдел международного обмена и сотрудничества (国际交流合作部)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -1993,7 +2101,7 @@
   "email_general": "xzxx@ruc.edu.cn",
   "email_international": "international@ruc.edu.cn",
   "phone": "+86-10-82509597 (International Office); +86-10-82503280 (Director, Office of International Exchange & Cooperation)",
-  "website": "https://www.ruc.edu.cn (EN: https://en.ruc.edu.cn)",
+  "website": "https://www.ruc.edu.cn",
   "head_name": "Ma Huaide (马怀德)",
   "head_title": "President",
   "party_secretary": "Zhang Donggang (张东刚)",
@@ -2015,12 +2123,15 @@
    "Начальник Отдела (департамента) международного обмена и сотрудничества — Zhang Damiao (张大淼), личный e-mail zhangdamiao@ruc.edu.cn, тел. +86-10-82503280; можно поставить в копию.",
    "Гуманитарно-экономический профиль; есть Международный совместный центр исследований низковысотной и космической экономики (по поисковой выдержке) — возможный интерес к space economy/policy, но не к разработке спутников.",
    "Собственных спутников не найдено (одна быстрая проверка по запросу «<название> 卫星 发射»).",
-   "В данных THE2027 отсутствует (по сообщениям СМИ, вуз в 2022 г. отказался от международных рейтингов)."
+   "В данных THE2027 отсутствует (по сообщениям СМИ, вуз в 2022 г. отказался от международных рейтингов).",
+   "Дополнительные сайты: https://en.ruc.edu.cn"
   ],
   "mailbox_owner": "Департамент международного обмена и сотрудничества (国际交流合作部 / 港澳台办公室)",
   "addressee_name": "Zhang Damiao (张大淼)",
   "addressee_title": "Начальник (部长) департамента международного обмена и сотрудничества",
-  "salutation": "Dear Director Zhang,"
+  "salutation": "Dear Director Zhang,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -2034,7 +2145,7 @@
   "email_general": "",
   "email_international": "gjch@jiangnan.edu.cn",
   "phone": "+86-510-85197762; +86-510-85913623 (Office of International Cooperation and Exchange)",
-  "website": "https://www.jiangnan.edu.cn (EN: https://english.jiangnan.edu.cn)",
+  "website": "https://www.jiangnan.edu.cn",
   "head_name": "Li Jian (李剑)",
   "head_title": "President",
   "party_secretary": "Wu Zhengguo (吴正国)",
@@ -2054,12 +2165,15 @@
   "notes_ru": [
    "gjch@jiangnan.edu.cn — «сервисный ящик» Отдела международного сотрудничества и обменов (国际交流合作处/港澳台办公室).",
    "ФИО начальника отдела на сайте не найдено.",
-   "Собственных спутников не найдено (одна быстрая проверка по запросу «<название> 卫星 发射»)."
+   "Собственных спутников не найдено (одна быстрая проверка по запросу «<название> 卫星 发射»).",
+   "Дополнительные сайты: https://english.jiangnan.edu.cn"
   ],
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际交流合作处 / 港澳台办公室)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -2073,7 +2187,7 @@
   "email_general": "",
   "email_international": "internationalaffairs@bjut.edu.cn",
   "phone": "+86-10-67392071 (International Affairs)",
-  "website": "https://www.bjut.edu.cn (EN: http://english.bjut.edu.cn)",
+  "website": "https://www.bjut.edu.cn",
   "head_name": "Qiao Junfei (乔俊飞)",
   "head_title": "President",
   "party_secretary": "He Ming (何明)",
@@ -2094,12 +2208,15 @@
    "internationalaffairs@bjut.edu.cn — e-mail международного офиса (International Affairs) на англ. сайте; есть также internationalprograms@bjut.edu.cn.",
    "ФИО руководителя международного отдела не найдено.",
    "Собственных спутников не найдено (одна быстрая проверка по запросу «<название> 卫星 发射»).",
-   "В данных THE2027 не найден."
+   "В данных THE2027 не найден.",
+   "Дополнительные сайты: http://english.bjut.edu.cn"
   ],
   "mailbox_owner": "Международный офис (International Affairs / 国际合作与交流部门)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -2113,7 +2230,7 @@
   "email_general": "",
   "email_international": "faomail@fzu.edu.cn",
   "phone": "+86-591-22865231 (School of Overseas Education)",
-  "website": "https://www.fzu.edu.cn (EN: https://en.fzu.edu.cn)",
+  "website": "https://www.fzu.edu.cn",
   "head_name": "Wu Minghong (吴明红)",
   "head_title": "President (also Party Secretary per official page)",
   "party_secretary": "Wu Minghong (吴明红)",
@@ -2134,12 +2251,15 @@
    "На странице «Действующее руководство» Wu Minghong (吴明红) указана и как партсекретарь, и как ректор — проверить перед отправкой.",
    "faomail@fzu.edu.cn указан на англ. сайте как контакт School of Overseas Education (международный блок).",
    "Спутников не найдено; есть команда «Фуда-Бэйдоу» — разработка модулей связи BeiDou-3 и спутниковых терминалов (спин-офф компания с 2013 г.).",
-   "В QS2027 не входит."
+   "В QS2027 не входит.",
+   "Дополнительные сайты: https://en.fzu.edu.cn"
   ],
   "mailbox_owner": "Школа зарубежного образования / международный офис (School of Overseas Education)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -2153,7 +2273,7 @@
   "email_general": "president@njtech.edu.cn",
   "email_international": "",
   "phone": "+86 25 5813 9023",
-  "website": "https://www.njtech.edu.cn (EN: http://en.njtech.edu.cn)",
+  "website": "https://www.njtech.edu.cn",
   "head_name": "Jiang Juncheng (蒋军成)",
   "head_title": "President",
   "party_secretary": "Jing Xuan (荆晅)",
@@ -2175,13 +2295,16 @@
    "Учёное звание президента (Prof.) на странице руководства не указано — по общедоступным данным он профессор",
    "Собственных спутников не найдено (одна быстрая проверка по запросу «<название> 卫星 发射»).",
    "В QS2027 не входит.",
-   "Перепроверка: Президент Цзян Цзюньчэн и партсекретарь подтверждены на njtech.edu.cn 04.10.2026; добавлены e-mail president@njtech.edu.cn и тел. 025-58139023 со страницы «校长信箱»"
+   "Перепроверка: Президент Цзян Цзюньчэн и партсекретарь подтверждены на njtech.edu.cn 04.10.2026; добавлены e-mail president@njtech.edu.cn и тел. 025-58139023 со страницы «校长信箱»",
+   "Дополнительные сайты: http://en.njtech.edu.cn"
   ],
   "mailbox_owner": "Ящик «校长信箱» (обращения к президенту университета)",
   "addressee_name": "Prof. Jiang Juncheng",
   "addressee_title": "President",
   "salutation": "Dear President Jiang,",
-  "recheck_ru": "Президент Цзян Цзюньчэн и партсекретарь подтверждены на njtech.edu.cn 04.10.2026; добавлены e-mail president@njtech.edu.cn и тел. 025-58139023 со страницы «校长信箱»"
+  "recheck_ru": "Президент Цзян Цзюньчэн и партсекретарь подтверждены на njtech.edu.cn 04.10.2026; добавлены e-mail president@njtech.edu.cn и тел. 025-58139023 со страницы «校长信箱»",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -2195,7 +2318,7 @@
   "email_general": "",
   "email_international": "rick@gdut.edu.cn",
   "phone": "+86-20-84889363 (University Office); +86-20-39322765 (International Office, head)",
-  "website": "https://www.gdut.edu.cn (EN: http://english.gdut.edu.cn)",
+  "website": "https://www.gdut.edu.cn",
   "head_name": "Qiu Xueqing (邱学青)",
   "head_title": "President",
   "party_secretary": "Bai Jiangang (白建刚)",
@@ -2214,12 +2337,15 @@
   "confidence": "medium",
   "notes_ru": [
    "rick@gdut.edu.cn — личный e-mail Cao Feng (曹锋), заместителя начальника, руководящего работой Отдела международного сотрудничества и обменов (主持工作); общего ящика отдела на сайте нет.",
-   "Собственных спутников не найдено (одна быстрая проверка по запросу «<название> 卫星 发射»)."
+   "Собственных спутников не найдено (одна быстрая проверка по запросу «<название> 卫星 发射»).",
+   "Дополнительные сайты: http://english.gdut.edu.cn"
   ],
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处 / 港澳台事务办公室)",
   "addressee_name": "Cao Feng (曹锋)",
   "addressee_title": "Заместитель начальника отдела, руководящий работой отдела (副处长、主持工作)",
-  "salutation": "Dear Deputy Director Cao,"
+  "salutation": "Dear Deputy Director Cao,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -2233,7 +2359,7 @@
   "email_general": "",
   "email_international": "fso@usst.edu.cn",
   "phone": "+86-21-55276621 (International Affairs Office)",
-  "website": "https://www.usst.edu.cn (EN: https://en.usst.edu.cn)",
+  "website": "https://www.usst.edu.cn",
   "head_name": "Zhao Zhen (赵震)",
   "head_title": "President",
   "party_secretary": "Wang Lingyu (王凌宇)",
@@ -2254,12 +2380,15 @@
    "Отдел международных связей (International Affairs Office, 国际交流处) публикует только телефон/факс; fso@usst.edu.cn — ящик приёма иностранных студентов (Admission), другого e-mail нет — рекомендуется продублировать звонком.",
    "ФИО начальника отдела не найдено.",
    "Собственных спутников не найдено (одна быстрая проверка по запросу «<название> 卫星 发射»).",
-   "В QS2027 и THE2027 не найден."
+   "В QS2027 и THE2027 не найден.",
+   "Дополнительные сайты: https://en.usst.edu.cn"
   ],
   "mailbox_owner": "Приём иностранных студентов при Отделе международных связей (International Affairs Office / 国际交流处)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -2273,7 +2402,7 @@
   "email_general": "",
   "email_international": "global@hznu.edu.cn",
   "phone": "+86-571-28865012 (university); +86-571-28869221 (international general affairs)",
-  "website": "https://www.hznu.edu.cn (EN: https://english.hznu.edu.cn)",
+  "website": "https://www.hznu.edu.cn",
   "head_name": "Tang Ruikang (唐睿康)",
   "head_title": "Vice President presiding over daily administration (副校长（主持行政日常工作）) — no President listed",
   "party_secretary": "Xu Hanxin (许翰信)",
@@ -2295,12 +2424,15 @@
    "global@hznu.edu.cn — «For General Affairs» на англ. странице контактов (международные дела).",
    "ФИО руководителя международного отдела не найдено.",
    "Собственных спутников не найдено (одна быстрая проверка по запросу «<название> 卫星 发射»).",
-   "В QS2027 не входит."
+   "В QS2027 не входит.",
+   "Дополнительные сайты: https://english.hznu.edu.cn"
   ],
   "mailbox_owner": "Международный офис (общие вопросы, global@hznu.edu.cn)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -2314,7 +2446,7 @@
   "email_general": "",
   "email_international": "wustiro@wust.edu.cn",
   "phone": "+86-27-68862606 (International Relations Office)",
-  "website": "https://www.wust.edu.cn (EN: https://en.wust.edu.cn)",
+  "website": "https://www.wust.edu.cn",
   "head_name": "Lü Yong (吕勇)",
   "head_title": "President",
   "party_secretary": "Ni Hongwei (倪红卫)",
@@ -2335,12 +2467,15 @@
    "wustiro@wust.edu.cn — Отдел международных связей (International Relations Office) по англ. сайту; ректор Lü Yong лично курирует этот отдел.",
    "ФИО начальника отдела не найдено.",
    "Собственных спутников не найдено (одна быстрая проверка по запросу «<название> 卫星 发射»).",
-   "В QS2027 и THE2027 не найден."
+   "В QS2027 и THE2027 не найден.",
+   "Дополнительные сайты: https://en.wust.edu.cn"
   ],
   "mailbox_owner": "Отдел международного обмена и сотрудничества (国际交流合作处 / 港澳台办公室; International Relations Office)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -2354,7 +2489,7 @@
   "email_general": "",
   "email_international": "",
   "phone": "+86-22-83955608 (Director, International Exchange & Cooperation Office)",
-  "website": "https://www.tiangong.edu.cn (EN: http://en.tiangong.edu.cn)",
+  "website": "https://www.tiangong.edu.cn",
   "head_name": "Jiang Yong (姜勇)",
   "head_title": "President",
   "party_secretary": "Guo Dianhua (郭滇华)",
@@ -2375,12 +2510,15 @@
    "Общий e-mail Отдела международного обмена и сотрудничества не опубликован; руководитель — Jiang Yaming (姜亚明), тел. +86-22-83955608. Для связи можно использовать andyzhang@tiangong.edu.cn (сотрудник по делам Гонконга/Макао/Тайваня) — лучше уточнить по телефону.",
    "Есть Школа аэронавтики и астронавтики (航空航天学院); по поисковой выдержке разработки вуза (композиты/материалы) применялись в программах «Чанъэ», «Шэньчжоу», марсианском зонде — не проверено на первоисточнике.",
    "Собственных спутников не найдено (одна быстрая проверка).",
-   "В QS2027 не входит."
+   "В QS2027 не входит.",
+   "Дополнительные сайты: http://en.tiangong.edu.cn"
   ],
   "mailbox_owner": "Отдел международного обмена и сотрудничества (国际交流与合作处 / 港澳台事务办公室)",
   "addressee_name": "Jiang Yaming (姜亚明)",
   "addressee_title": "Начальник Отдела международного обмена и сотрудничества (处长/主任)",
-  "salutation": "Dear Director Jiang,"
+  "salutation": "Dear Director Jiang,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -2420,7 +2558,9 @@
   "mailbox_owner": "",
   "addressee_name": "Li Daxiang (李大祥)",
   "addressee_title": "Начальник Отдела международного сотрудничества и обменов (处长/主任), директор Института международного образования",
-  "salutation": "Dear Director Li,"
+  "salutation": "Dear Director Li,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -2434,7 +2574,7 @@
   "email_general": "dzb@syau.edu.cn",
   "email_international": "gjjlc@syau.edu.cn",
   "phone": "+86-24-88487011 (university); +86-24-88487085 (International Exchange Office)",
-  "website": "https://www.syau.edu.cn (EN: http://en.syau.edu.cn)",
+  "website": "https://www.syau.edu.cn",
   "head_name": "Li Bin (李斌)",
   "head_title": "President",
   "party_secretary": "Liu Yang (刘洋)",
@@ -2455,12 +2595,15 @@
    "gjjlc@syau.edu.cn — e-mail Отдела международного обмена (国际交流处 / Центр международного обмена).",
    "ФИО начальника отдела на сайте не найдено.",
    "Собственных спутников не найдено (одна быстрая проверка по запросу «<название> 卫星 发射»).",
-   "В QS2027 и THE2027 не найден."
+   "В QS2027 и THE2027 не найден.",
+   "Дополнительные сайты: http://en.syau.edu.cn"
   ],
   "mailbox_owner": "Отдел международного обмена (国际交流处 / 国际交流中心)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -2500,7 +2643,9 @@
   "mailbox_owner": "Институт международного образования и обменов (国际教育交流学院)",
   "addressee_name": "Cui Chun (崔春)",
   "addressee_title": "Декан Института международного образования и обменов",
-  "salutation": "Dear Dean Cui,"
+  "salutation": "Dear Dean Cui,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -2542,7 +2687,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
-  "recheck_ru": "Ректор Чжан Яньдо (назначен 24.03.2025) подтверждён публикациями 2025 г. со ссылкой на WIT; сайт wit.edu.cn по-прежнему недоступен (503) — контакты не проверены"
+  "recheck_ru": "Ректор Чжан Яньдо (назначен 24.03.2025) подтверждён публикациями 2025 г. со ссылкой на WIT; сайт wit.edu.cn по-прежнему недоступен (503) — контакты не проверены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -2583,7 +2730,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества (国际交流合作处 / 国际教育学院)",
   "addressee_name": "Ding Shuai (丁帅)",
   "addressee_title": "Начальник Отдела международного обмена и сотрудничества (处长)",
-  "salutation": "Dear Director Ding,"
+  "salutation": "Dear Director Ding,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -2624,7 +2773,9 @@
   "mailbox_owner": "Офис глобального взаимодействия (Global Engagement Office, GEO)",
   "addressee_name": "Geoffrey Q.P. Shen",
   "addressee_title": "Помощник вице-президента (глобальные партнёрства), директор Офиса глобального взаимодействия",
-  "salutation": "Dear Professor Shen,"
+  "salutation": "Dear Professor Shen,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -2665,7 +2816,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества / Офис по делам Гонконга, Макао и Тайваня (国际交流与合作处、港澳台事务办公室)",
   "addressee_name": "Bai Yadong (白亚东)",
   "addressee_title": "Начальник отдела международного обмена и сотрудничества (处长)",
-  "salutation": "Dear Director Bai,"
+  "salutation": "Dear Director Bai,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -2705,7 +2858,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов / Офис по делам Гонконга, Макао и Тайваня (国际合作与交流处、港澳台办公室)",
   "addressee_name": "Zhang Ling (张玲)",
   "addressee_title": "Начальник отдела международного сотрудничества и обменов (处长)",
-  "salutation": "Dear Director Zhang,"
+  "salutation": "Dear Director Zhang,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -2745,7 +2900,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов / Офис по делам Гонконга, Макао и Тайваня (国际合作交流处、港澳台办)",
   "addressee_name": "Shang Xiaopu (尚小溥)",
   "addressee_title": "Начальник отдела международного сотрудничества и обменов, директор Офиса по делам Гонконга, Макао и Тайваня (处长)",
-  "salutation": "Dear Director Shang,"
+  "salutation": "Dear Director Shang,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -2785,7 +2942,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов / Офис по делам Гонконга, Макао и Тайваня (国际合作与交流处、港澳台办公室)",
   "addressee_name": "Wang Xiaolong (王小龙)",
   "addressee_title": "Начальник отдела международного сотрудничества и обменов (处长)",
-  "salutation": "Dear Director Wang,"
+  "salutation": "Dear Director Wang,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -2825,7 +2984,9 @@
   "mailbox_owner": "Отдел международного обмена / Офис по делам Гонконга, Макао и Тайваня (国际交流处、港澳台办公室)",
   "addressee_name": "Kuai Shuguang (蒯曙光)",
   "addressee_title": "Начальник отдела международного обмена (处长)",
-  "salutation": "Dear Director Kuai,"
+  "salutation": "Dear Director Kuai,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -2865,7 +3026,9 @@
   "mailbox_owner": "Департамент международного сотрудничества / Офис по делам Гонконга, Макао и Тайваня (国际合作部、港澳台事务办公室)",
   "addressee_name": "Hong Feng (洪峰)",
   "addressee_title": "Руководитель Департамента международного сотрудничества (部长)",
-  "salutation": "Dear Director Hong,"
+  "salutation": "Dear Director Hong,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -2905,7 +3068,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества / Офис по делам Гонконга, Макао и Тайваня (国际交流合作处、港澳台事务办公室)",
   "addressee_name": "Yao Nan (姚楠)",
   "addressee_title": "Начальник отдела международного обмена и сотрудничества (处长)",
-  "salutation": "Dear Director Yao,"
+  "salutation": "Dear Director Yao,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -2945,7 +3110,9 @@
   "mailbox_owner": "Отдел международного обмена / Офис по делам Гонконга, Макао и Тайваня (国际交流处、港澳台事务办公室)",
   "addressee_name": "Zhou Xunying (周洵瑛)",
   "addressee_title": "Начальник отдела международного обмена (处长)",
-  "salutation": "Dear Director Zhou,"
+  "salutation": "Dear Director Zhou,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -2985,7 +3152,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов / Офис по делам Гонконга, Макао и Тайваня (国际合作与交流处、港澳台事务办公室)",
   "addressee_name": "Li Peiyue (李培月)",
   "addressee_title": "Заместитель начальника отдела международного сотрудничества и обменов, руководящий работой отдела (副处长，主持工作)",
-  "salutation": "Dear Director Li,"
+  "salutation": "Dear Director Li,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -3026,7 +3195,9 @@
   "mailbox_owner": "Департамент международного сотрудничества / Офис по делам Гонконга, Макао и Тайваня (国际合作部、港澳台办公室)",
   "addressee_name": "Zhang Yongzhong (张永忠)",
   "addressee_title": "Руководитель Департамента международного сотрудничества (部长)",
-  "salutation": "Dear Director Zhang,"
+  "salutation": "Dear Director Zhang,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -3066,7 +3237,9 @@
   "mailbox_owner": "Почтовый ящик ректора (校长邮箱)",
   "addressee_name": "Wang Limin (王利民)",
   "addressee_title": "Ректор (校长)",
-  "salutation": "Dear President Wang,"
+  "salutation": "Dear President Wang,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -3106,7 +3279,9 @@
   "mailbox_owner": "Отдел международного обмена / Офис по делам Гонконга, Макао и Тайваня (国际交流处、港澳台办公室) — сектор обменов и сотрудничества",
   "addressee_name": "Wang Weiyan (王威燕)",
   "addressee_title": "Начальник отдела международного обмена (处长)",
-  "salutation": "Dear Director Wang,"
+  "salutation": "Dear Director Wang,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -3146,7 +3321,9 @@
   "mailbox_owner": "Отдел международного обмена (国际交流处)",
   "addressee_name": "Xie Mingyi (谢名一)",
   "addressee_title": "Начальник отдела международного обмена (处长)",
-  "salutation": "Dear Director Xie,"
+  "salutation": "Dear Director Xie,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -3187,7 +3364,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов / Международный колледж (国际合作与交流处、国际学院)",
   "addressee_name": "Xia Xinrong (夏新蓉)",
   "addressee_title": "Начальник отдела международного сотрудничества и обменов, декан Международного колледжа (处长/院长)",
-  "salutation": "Dear Director Xia,"
+  "salutation": "Dear Director Xia,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -3226,7 +3405,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества / Офис по делам Гонконга, Макао и Тайваня (国际交流与合作处、港澳台事务办公室)",
   "addressee_name": "Du Jun (杜俊)",
   "addressee_title": "Начальник отдела международного обмена и сотрудничества, директор Офиса по делам Гонконга, Макао и Тайваня (处长)",
-  "salutation": "Dear Director Du,"
+  "salutation": "Dear Director Du,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -3267,7 +3448,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
-  "recheck_ru": "04.10.2026: сайт и поддомены nwnu.edu.cn по-прежнему закрыты антибот-защитой (HTTP 412) или недоступны; данные не изменены"
+  "recheck_ru": "04.10.2026: сайт и поддомены nwnu.edu.cn по-прежнему закрыты антибот-защитой (HTTP 412) или недоступны; данные не изменены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -3308,7 +3491,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
-  "recheck_ru": "Сайт hbut.edu.cn и англ. поддомены по-прежнему недоступны (04.10.2026, 502/DNS); данные не изменены."
+  "recheck_ru": "Сайт hbut.edu.cn и англ. поддомены по-прежнему недоступны (04.10.2026, 502/DNS); данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -3348,7 +3533,9 @@
   "mailbox_owner": "Общий почтовый ящик университета (указан на англоязычном сайте); адресат — отдел международного обмена (国际交流处)",
   "addressee_name": "Zhong Wei (钟炜)",
   "addressee_title": "Начальник отдела международного обмена (处长)",
-  "salutation": "Dear Director Zhong,"
+  "salutation": "Dear Director Zhong,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -3388,7 +3575,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества / Офис по делам Гонконга, Макао и Тайваня / Международный колледж (国际交流与合作处、港澳台事务办公室、国际学院)",
   "addressee_name": "Wang Zonghua (王宗华)",
   "addressee_title": "Начальник отдела международного обмена и сотрудничества, декан Международного колледжа (处长/院长)",
-  "salutation": "Dear Director Wang,"
+  "salutation": "Dear Director Wang,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -3429,7 +3618,9 @@
   "mailbox_owner": "Офис глобального взаимодействия и коммуникаций (Global Engagement and Communications Office, GECO)",
   "addressee_name": "Eunice Cheng",
   "addressee_title": "Директор по глобальному взаимодействию и коммуникациям (Director of Global Engagement and Communications)",
-  "salutation": "Dear Ms Cheng,"
+  "salutation": "Dear Ms Cheng,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -3443,7 +3634,7 @@
   "email_general": "xcbtg@xatu.edu.cn",
   "email_international": "ntzhuang@xatu.edu.cn",
   "phone": "+86-29-86173160",
-  "website": "https://www.xatu.edu.cn (EN: https://en.xatu.edu.cn)",
+  "website": "https://www.xatu.edu.cn",
   "head_name": "Yao Yao (姚尧)",
   "head_title": "President",
   "party_secretary": "Hou Chengyi (侯成义)",
@@ -3466,12 +3657,15 @@
    "xcbtg@xatu.edu.cn — ящик отдела пропаганды/информации, указан на англ. сайте как общий",
    "Спутников вуза не найдено (один поиск); сильная оптоэлектроника/фотоэлектрические измерения — возможный партнёр по полезной нагрузке",
    "Тесные связи с Россией: совместный институт с СПбПУ Петра Великого",
-   "В рейтингах QS2027 и THE2027 отсутствует"
+   "В рейтингах QS2027 и THE2027 отсутствует",
+   "Дополнительные сайты: https://en.xatu.edu.cn"
   ],
   "mailbox_owner": "Отдел международного обмена и сотрудничества (国际交流与合作处/港澳台事务办公室) и Институт международного образования",
   "addressee_name": "Niu (牛) — given name not published",
   "addressee_title": "Начальник отдела международного обмена и сотрудничества, директор Института международного образования (处长/主任/院长)",
-  "salutation": "Dear Director Niu,"
+  "salutation": "Dear Director Niu,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -3485,7 +3679,7 @@
   "email_general": "",
   "email_international": "ws@xmu.edu.cn",
   "phone": "+86-592-2186110",
-  "website": "https://www.xmu.edu.cn (EN: https://en.xmu.edu.cn)",
+  "website": "https://www.xmu.edu.cn",
   "head_name": "Hu Wenping (胡文平)",
   "head_title": "President",
   "party_secretary": "Zhang Rong (张荣)",
@@ -3507,12 +3701,15 @@
    "ws@xmu.edu.cn — общий ящик по международному сотрудничеству; личный ящик начальника отдела Чжун Вэя: wzhong@xmu.edu.cn; замначальника по международному сотрудничеству Хуан Чэнь (黄琛): ch@xmu.edu.cn",
    "Телефон — дежурная служба университета (总值班); отдельного телефона международного отдела на сайте нет (факс 0592-2180240)",
    "Общий e-mail университета не опубликован",
-   "В Entity List США не найден"
+   "В Entity List США не найден",
+   "Дополнительные сайты: https://en.xmu.edu.cn"
   ],
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处), также Канцелярия по делам Тайваня, Гонконга и Макао",
   "addressee_name": "Zhong Wei (钟威)",
   "addressee_title": "Начальник отдела международного сотрудничества и обменов (处长、主任)",
-  "salutation": "Dear Director Zhong,"
+  "salutation": "Dear Director Zhong,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -3526,7 +3723,7 @@
   "email_general": "",
   "email_international": "fad@swjtu.edu.cn",
   "phone": "+86-28-66366340",
-  "website": "https://www.swjtu.edu.cn (Intl: https://fad.swjtu.edu.cn)",
+  "website": "https://www.swjtu.edu.cn",
   "head_name": "Wang Ping (王平)",
   "head_title": "President",
   "party_secretary": "Yan Xuedong (闫学东)",
@@ -3548,12 +3745,15 @@
    "fad@swjtu.edu.cn — общий ящик отдела международного сотрудничества; личный ящик начальника Ма Лэя: malei@swjtu.edu.cn, тел. 028-66366340 (он же директор Института международного образования)",
    "Замначальника Синь Лин (欣羚, xinling@swjtu.edu.cn, 028-66366726) курирует сотрудничество по «Поясу и пути» и международные организации — полезный контакт для BRICS+",
    "Общий e-mail университета не опубликован; адрес — кампус Сипу (Xipu)",
-   "В Entity List США не найден"
+   "В Entity List США не найден",
+   "Дополнительные сайты: https://fad.swjtu.edu.cn"
   ],
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处) / Канцелярия по делам Гонконга, Макао и Тайваня",
   "addressee_name": "Ma Lei (马磊)",
   "addressee_title": "Начальник отдела международного сотрудничества и обменов, директор Канцелярии по делам ГМТ, декан Института международного образования",
-  "salutation": "Dear Director Ma,"
+  "salutation": "Dear Director Ma,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -3593,7 +3793,9 @@
   "mailbox_owner": "Департамент международного сотрудничества и обменов (国际合作与交流部 / 港澳台事务办公室)",
   "addressee_name": "Zeng Hongxia (曾红霞)",
   "addressee_title": "Начальник департамента международного сотрудничества и обменов (部长)",
-  "salutation": "Dear Director Zeng,"
+  "salutation": "Dear Director Zeng,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -3607,7 +3809,7 @@
   "email_general": "xiaoban@hnu.edu.cn",
   "email_international": "luozhuowa@hnu.edu.cn",
   "phone": "+86-731-88822910",
-  "website": "https://www.hnu.edu.cn (EN: https://www-en.hnu.edu.cn)",
+  "website": "https://www.hnu.edu.cn",
   "head_name": "Duan Xianzhong (段献忠)",
   "head_title": "President",
   "party_secretary": "Deng Wei (邓卫)",
@@ -3628,12 +3830,15 @@
    "Проверка LIGHT: собственных спутников не найдено; вуз позиционирует вклад в космос через комплектующие (серводвигатели для ракет CZ-5 и др.)",
    "Общего ящика международного отдела на сайте нет; luozhuowa@hnu.edu.cn — личный ящик замначальника Ло Чжоува, курирующей расширение сотрудничества; начальник отдела Чжоу Цюань (周全) — тел. 0731-88822910, e-mail не опубликован; общий тел. отдела 0731-88823974",
    "xiaoban@hnu.edu.cn — канцелярия университета (на англ. сайте указан как xiaoban@hnu.cn)",
-   "В Чанше расположены спутниковые компании (Spacety/天仪) — возможен трёхсторонний формат"
+   "В Чанше расположены спутниковые компании (Spacety/天仪) — возможен трёхсторонний формат",
+   "Дополнительные сайты: https://www-en.hnu.edu.cn"
   ],
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处 / 港澳台事务办公室)",
   "addressee_name": "Luo Zhuowa (罗卓娃)",
   "addressee_title": "Заместитель начальника отдела международного сотрудничества и обменов (副处长), курирует расширение сотрудничества",
-  "salutation": "Dear Deputy Director Luo,"
+  "salutation": "Dear Deputy Director Luo,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -3672,7 +3877,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества (国际交流与合作处 / 港澳台事务办公室)",
   "addressee_name": "Zhang Bing (张冰)",
   "addressee_title": "Начальник отдела международного обмена и сотрудничества, директор Канцелярии по делам ГМТ (处长/主任)",
-  "salutation": "Dear Director Zhang,"
+  "salutation": "Dear Director Zhang,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -3712,7 +3919,9 @@
   "mailbox_owner": "Департамент международного сотрудничества и обменов / Институт международного образования (国际合作部 / 国际教育学院 / 港澳台事务办公室)",
   "addressee_name": "He Wei (何玮)",
   "addressee_title": "Начальник департамента международного сотрудничества (декан Института международного образования), директор Канцелярии по делам ГМТ",
-  "salutation": "Dear Director He,"
+  "salutation": "Dear Director He,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -3726,7 +3935,7 @@
   "email_general": "",
   "email_international": "wsh3@scnu.edu.cn",
   "phone": "+86-20-85211065",
-  "website": "https://www.scnu.edu.cn (Intl: https://io.scnu.edu.cn)",
+  "website": "https://www.scnu.edu.cn",
   "head_name": "",
   "head_title": "President (post vacant per official leadership page)",
   "party_secretary": "Wang Hengyin (王恒胤)",
@@ -3747,12 +3956,15 @@
    "Пост ректора (校长) на официальной странице руководства пуст (обновлено 02.07.2026) — вероятно, вакансия/ожидание назначения; перепроверить перед рассылкой",
    "wsh3@scnu.edu.cn — ящик сектора сотрудничества и обменов (合作交流科) Отдела международного сотрудничества — профильный адрес для партнёрских предложений",
    "Имя начальника отдела на сайте не опубликовано",
-   "Проверка LIGHT: спутников не найдено; в QS2027 отсутствует"
+   "Проверка LIGHT: спутников не найдено; в QS2027 отсутствует",
+   "Дополнительные сайты: https://io.scnu.edu.cn"
   ],
   "mailbox_owner": "Сектор сотрудничества и обменов (合作交流科) Отдела международного обмена и сотрудничества (国际交流合作处 / 港澳台事务办公室)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Exchange and Cooperation,"
+  "salutation": "Dear Director of the Office of International Exchange and Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -3766,7 +3978,7 @@
   "email_general": "",
   "email_international": "oice@fjnu.edu.cn",
   "phone": "+86-591-22867340",
-  "website": "https://www.fjnu.edu.cn (Intl: https://oice.fjnu.edu.cn)",
+  "website": "https://www.fjnu.edu.cn",
   "head_name": "Zheng Jiajian (郑家建)",
   "head_title": "President",
   "party_secretary": "Ling Qidan (凌启淡)",
@@ -3787,12 +3999,15 @@
    "oice@fjnu.edu.cn — общий ящик Отдела международного сотрудничества и обменов; тел. 0591-22867340 / 22867702",
    "Имя начальника отдела на сайте не опубликовано",
    "Сайт oice.fjnu.edu.cn недоступен через curl, открыт через WebFetch",
-   "Проверка LIGHT: спутников не найдено"
+   "Проверка LIGHT: спутников не найдено",
+   "Дополнительные сайты: https://oice.fjnu.edu.cn"
   ],
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处 / 台港澳事务办公室)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -3806,7 +4021,7 @@
   "email_general": "info@cnu.edu.cn",
   "email_international": "",
   "phone": "+86-10-68902794",
-  "website": "https://www.cnu.edu.cn (EN: https://eng.cnu.edu.cn)",
+  "website": "https://www.cnu.edu.cn",
   "head_name": "Fang Fuquan (方复全)",
   "head_title": "President",
   "party_secretary": "Cao Wenjun (曹文军)",
@@ -3827,12 +4042,15 @@
    "Собственных спутников нет; полезная нагрузка «直播地球» (обнаружение движущихся целей) на КА Taijing-4 01 (2022) — по новостному агрегатору, не по сайту вуза",
    "E-mail международного отдела не опубликован; info@cnu.edu.cn — общий ящик университета (с главной страницы); тел. канцелярии начальника Отдела международного сотрудничества 010-68902794",
    "Имя начальника международного отдела не найдено",
-   "В QS2027 и THE2027 отсутствует"
+   "В QS2027 и THE2027 отсутствует",
+   "Дополнительные сайты: https://eng.cnu.edu.cn"
   ],
   "mailbox_owner": "Общий ящик университета (首都师范大学, info@cnu.edu.cn); профильное подразделение — Отдел международного сотрудничества и обменов (国际合作交流处 / 港澳台事务办公室)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -3846,7 +4064,7 @@
   "email_general": "xiaozhang@qdu.edu.cn",
   "email_international": "intel@qdu.edu.cn",
   "phone": "+86-532-85954159",
-  "website": "https://www.qdu.edu.cn (Intl: https://international.qdu.edu.cn)",
+  "website": "https://www.qdu.edu.cn",
   "head_name": "Wei Zhiqiang (魏志强)",
   "head_title": "President",
   "party_secretary": "Hu Jinyan (胡金焱)",
@@ -3867,12 +4085,15 @@
    "Проверка LIGHT: спутников не найдено. Спутник «青科大一号» (2018) принадлежит другому вузу — Циндаоскому университету науки и технологий (QUST), не путать",
    "intel@qdu.edu.cn — ящик Отдела международного обмена и сотрудничества (тел. 0532-85954159); имя начальника отдела не найдено",
    "xiaozhang@qdu.edu.cn — «ящик ректора» (校长信箱), shuji@qdu.edu.cn — ящик секретаря парткома",
-   "Индекс 266071 — по общеизвестным данным, на сайте не указан"
+   "Индекс 266071 — по общеизвестным данным, на сайте не указан",
+   "Дополнительные сайты: https://international.qdu.edu.cn"
   ],
   "mailbox_owner": "Отдел международного обмена и сотрудничества (国际交流合作处)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Exchange and Cooperation,"
+  "salutation": "Dear Director of the Office of International Exchange and Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -3886,7 +4107,7 @@
   "email_general": "xiaozhang@xauat.edu.cn",
   "email_international": "oia@xauat.edu.cn",
   "phone": "+86-29-82202169",
-  "website": "https://www.xauat.edu.cn (Intl: http://gjc.xauat.edu.cn)",
+  "website": "https://www.xauat.edu.cn",
   "head_name": "Zhao Xiangmo (赵祥模)",
   "head_title": "President",
   "party_secretary": "Zhu Xiaowei (朱晓渭)",
@@ -3908,12 +4129,15 @@
    "oia@xauat.edu.cn — общий ящик Отдела международного обмена и сотрудничества (тел. 029-82202169); имя начальника не найдено",
    "xiaozhang@xauat.edu.cn — «ящик ректора»",
    "Проверка спутников: поиск в вебе не выполнен (общая квота WebSearch исчерпана); по базе nanosats.eu совпадений нет — satellites_launched=0 не подтверждено полноценно",
-   "В QS2027 и THE2027 отсутствует"
+   "В QS2027 и THE2027 отсутствует",
+   "Дополнительные сайты: http://gjc.xauat.edu.cn"
   ],
   "mailbox_owner": "Отдел международного обмена и сотрудничества (国际交流合作处)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Exchange and Cooperation,"
+  "salutation": "Dear Director of the Office of International Exchange and Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -3927,7 +4151,7 @@
   "email_general": "",
   "email_international": "",
   "phone": "+86-791-88120039",
-  "website": "https://www.jxnu.edu.cn (Intl: http://international.jxnu.edu.cn)",
+  "website": "https://www.jxnu.edu.cn",
   "head_name": "Chen Fen'er (陈芬儿)",
   "head_title": "President",
   "party_secretary": "Zhu Xiaoli (朱小理)",
@@ -3948,12 +4172,15 @@
    "Есть собственная наземная станция приёма спутниковых данных ДЗЗ (начальник станции Чэнь Цзехун, 陈皆红, по материалу на главной странице) — потенциальный партнёр по приёму данных",
    "E-mail международного отдела и общий e-mail университета на сайтах не опубликованы; тел. Отдела международного сотрудничества и обменов: 0791-88120039 (корпус Вэйи, западная зона, 404)",
    "Имя начальника международного отдела не найдено",
-   "Проверка спутников: поиск в вебе не выполнен (общая квота WebSearch исчерпана); по базе nanosats.eu совпадений нет — satellites_launched=0 не подтверждено полноценно"
+   "Проверка спутников: поиск в вебе не выполнен (общая квота WebSearch исчерпана); по базе nanosats.eu совпадений нет — satellites_launched=0 не подтверждено полноценно",
+   "Дополнительные сайты: http://international.jxnu.edu.cn"
   ],
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处) — e-mail не опубликован",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -3967,7 +4194,7 @@
   "email_general": "cslgxzxx@csust.edu.cn",
   "email_international": "international@csust.edu.cn",
   "phone": "+86-731-85258782",
-  "website": "https://www.csust.edu.cn (Intl: https://www.csust.edu.cn/gjjlc/index.htm)",
+  "website": "https://www.csust.edu.cn",
   "head_name": "Jiang Changbo (蒋昌波)",
   "head_title": "President",
   "party_secretary": "Li Zhichao (李志超)",
@@ -3988,12 +4215,15 @@
    "international@csust.edu.cn — ящик Отдела внешнего сотрудничества и обменов (对外合作与交流处); тел. кабинета начальника 0731-85258782, замначальника 0731-85258780; имя начальника не опубликовано",
    "cslgxzxx@csust.edu.cn — «ящик ректора»; cslgsjxx@csust.edu.cn — ящик секретаря парткома",
    "Индекс: на сайте отдела 410114, на главной 410076 (кампус Юньтан/Цзиньпэньлин)",
-   "Проверка спутников: поиск в вебе не выполнен (общая квота WebSearch исчерпана); по базе nanosats.eu совпадений нет — satellites_launched=0 не подтверждено полноценно; записи «Changsha Gaoxinqu Tianyi»/Spacety в nanosats.eu к вузу не относятся"
+   "Проверка спутников: поиск в вебе не выполнен (общая квота WebSearch исчерпана); по базе nanosats.eu совпадений нет — satellites_launched=0 не подтверждено полноценно; записи «Changsha Gaoxinqu Tianyi»/Spacety в nanosats.eu к вузу не относятся",
+   "Дополнительные сайты: https://www.csust.edu.cn/gjjlc/index.htm"
   ],
   "mailbox_owner": "Отдел внешнего сотрудничества и обменов (对外合作与交流处)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of External Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of External Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -4007,7 +4237,7 @@
   "email_general": "president@henau.edu.cn",
   "email_international": "",
   "phone": "",
-  "website": "https://www.henau.edu.cn (Intl: https://gjc.henau.edu.cn)",
+  "website": "https://www.henau.edu.cn",
   "head_name": "Zhou Wei (周卫)",
   "head_title": "President (Academician of the Chinese Academy of Engineering)",
   "party_secretary": "Zou Songtao (邹松涛)",
@@ -4028,12 +4258,15 @@
    "E-mail и телефон Отдела международного сотрудничества на его сайте не опубликованы; начальник отдела — Лю Хунъэнь (刘红恩) по новости на сайте отдела (июль 2026)",
    "president@henau.edu.cn — «ящик ректора» с главной страницы; адресат письма — ректор Чжоу Вэй; альтернативно направить копию на имя директора Лю",
    "Проверка спутников: поиск в вебе не выполнен (общая квота WebSearch исчерпана); по базе nanosats.eu совпадений нет — satellites_launched=0 не подтверждено полноценно",
-   "В QS2027 и THE2027 отсутствует"
+   "В QS2027 и THE2027 отсутствует",
+   "Дополнительные сайты: https://gjc.henau.edu.cn"
   ],
   "mailbox_owner": "Ящик ректора (校长信箱), Хэнаньский аграрный университет",
   "addressee_name": "Zhou Wei (周卫)",
   "addressee_title": "Ректор (校长), академик Китайской инженерной академии",
-  "salutation": "Dear President Zhou,"
+  "salutation": "Dear President Zhou,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -4047,7 +4280,7 @@
   "email_general": "HLJU@hlju.edu.cn",
   "email_international": "",
   "phone": "+86-451-86608376",
-  "website": "https://www.hlju.edu.cn (Intl: http://gjjl.hlju.edu.cn)",
+  "website": "https://www.hlju.edu.cn",
   "head_name": "Wang Jingbo (王敬波)",
   "head_title": "President",
   "party_secretary": "Chi Baoxu (迟宝旭)",
@@ -4068,12 +4301,15 @@
    "Сильнейшая русистика в КНР, тесные связи с вузами России — удобный вход для BRICS+",
    "E-mail международного отдела не опубликован; HLJU@hlju.edu.cn — общий ящик университета (с главной страницы, тел. 0451-86609114); тел. Отдела международного сотрудничества 0451-86608376",
    "Начальник Отдела международного сотрудничества и обменов — Ху Сяофэн (胡晓枫, женщина) по новостям сайта отдела (сентябрь 2026); рекомендуемое обращение в письме: «Dear Director Hu,»",
-   "Проверка спутников: поиск в вебе не выполнен (общая квота WebSearch исчерпана); по базе nanosats.eu совпадений нет — satellites_launched=0 не подтверждено полноценно"
+   "Проверка спутников: поиск в вебе не выполнен (общая квота WebSearch исчерпана); по базе nanosats.eu совпадений нет — satellites_launched=0 не подтверждено полноценно",
+   "Дополнительные сайты: http://gjjl.hlju.edu.cn"
   ],
   "mailbox_owner": "Общий ящик университета (黑龙江大学); профильное подразделение — Отдел международного сотрудничества и обменов (国际合作与交流处)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -4115,7 +4351,9 @@
   "addressee_name": "Luo Wenbo",
   "addressee_title": "President",
   "salutation": "Dear President Luo,",
-  "recheck_ru": "Сайт стал доступен: руководство, адрес и ящик ректора подтверждены на официальном сайте 04.10.2026."
+  "recheck_ru": "Сайт стал доступен: руководство, адрес и ящик ректора подтверждены на официальном сайте 04.10.2026.",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -4129,7 +4367,7 @@
   "email_general": "office@jsnu.edu.cn",
   "email_international": "iec@jsnu.edu.cn",
   "phone": "+86-516-83656263",
-  "website": "https://www.jsnu.edu.cn (Intl: http://ice.jsnu.edu.cn)",
+  "website": "https://www.jsnu.edu.cn",
   "head_name": "Du Zengji (杜增吉)",
   "head_title": "President",
   "party_secretary": "Rui Guoqiang (芮国强)",
@@ -4150,12 +4388,15 @@
    "iec@jsnu.edu.cn — ящик Отдела международного сотрудничества и обменов / Международного колледжа (тел. +86-516-83656263, факс 83656265); имя начальника не найдено",
    "office@jsnu.edu.cn — канцелярия университета",
    "Вуз возглавляет Альянс вузов Китай (Цзянсу) — Латинская Америка (по новости на сайте отдела) — опыт межрегиональных альянсов",
-   "Проверка спутников: поиск в вебе не выполнен (общая квота WebSearch исчерпана); по базе nanosats.eu совпадений нет — satellites_launched=0 не подтверждено полноценно"
+   "Проверка спутников: поиск в вебе не выполнен (общая квота WebSearch исчерпана); по базе nanosats.eu совпадений нет — satellites_launched=0 не подтверждено полноценно",
+   "Дополнительные сайты: http://ice.jsnu.edu.cn"
   ],
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作交流处 / 港澳台事务办公室 / 国际学院)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -4196,7 +4437,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
-  "recheck_ru": "Сайт bistu.edu.cn (включая en.) недоступен через прокси (curl — нет соединения, WebFetch 503) 04.10.2026; данные не изменены."
+  "recheck_ru": "Сайт bistu.edu.cn (включая en.) недоступен через прокси (curl — нет соединения, WebFetch 503) 04.10.2026; данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -4236,7 +4479,9 @@
   "mailbox_owner": "Отдел академических связей (глобальный) — обменные программы / Office of Academic Links (Global)",
   "addressee_name": "",
   "addressee_title": "Директор по академическим связям (глобальным)",
-  "salutation": "Dear Director of Academic Links (Global),"
+  "salutation": "Dear Director of Academic Links (Global),",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -4278,7 +4523,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
-  "recheck_ru": "04.10.2026: *.sylu.edu.cn недоступны (502/DNS), сайт Департамента образования провинции Ляонин тоже — данные не изменены."
+  "recheck_ru": "04.10.2026: *.sylu.edu.cn недоступны (502/DNS), сайт Департамента образования провинции Ляонин тоже — данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -4317,7 +4564,9 @@
   "mailbox_owner": "Международный департамент / Отдел международного сотрудничества (国际部 / 国际合作处)",
   "addressee_name": "Cui Wei (崔巍)",
   "addressee_title": "Заместитель руководителя Международного департамента, начальник Отдела международного сотрудничества и директор Офиса по делам Гонконга, Макао и Тайваня",
-  "salutation": "Dear Director Cui,"
+  "salutation": "Dear Director Cui,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -4355,7 +4604,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества (国际交流与合作处 / 港澳台事务办公室)",
   "addressee_name": "Chen Fei (陈斐)",
   "addressee_title": "Начальник отдела международного обмена и сотрудничества",
-  "salutation": "Dear Director Chen,"
+  "salutation": "Dear Director Chen,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -4394,7 +4645,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处 / 港澳台办公室), совмещён с Институтом международного образования",
   "addressee_name": "Shi Song (石松)",
   "addressee_title": "Начальник отдела международного сотрудничества и обменов, декан Института международного образования",
-  "salutation": "Dear Director Shi,"
+  "salutation": "Dear Director Shi,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -4434,7 +4687,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际交流与合作处 / 港澳台事务办公室)",
   "addressee_name": "Duan Xiaofang (段晓芳)",
   "addressee_title": "Начальник отдела международного сотрудничества и обменов",
-  "salutation": "Dear Director Duan,"
+  "salutation": "Dear Director Duan,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -4476,7 +4731,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
-  "recheck_ru": "Все домены njnu.edu.cn (www, en, gjc) по-прежнему отдают анти-бот-защиту HTTP 412 (04.10.2026); обход не выполнялся, данные не изменены."
+  "recheck_ru": "Все домены njnu.edu.cn (www, en, gjc) по-прежнему отдают анти-бот-защиту HTTP 412 (04.10.2026); обход не выполнялся, данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -4487,7 +4744,7 @@
   "profile_type": "technical/aerospace",
   "main_fields": "Textile science and engineering, Materials science (fibres and composites), Fashion and art design, Mechanical engineering, Environmental science, Management",
   "postal_address": "2999 North Renmin Road, Songjiang District, Shanghai 201620, China (Yan'an Road campus: 1882 West Yan'an Road, Changning District, Shanghai 200051)",
-  "email_general": "xzxx@dhu.edu.cn (President's mailbox)",
+  "email_general": "xzxx@dhu.edu.cn",
   "email_international": "ico@dhu.edu.cn",
   "phone": "+86-21-67792156 (International Cooperation Office)",
   "website": "https://www.dhu.edu.cn",
@@ -4509,12 +4766,15 @@
   "confidence": "medium",
   "notes_ru": [
    "Спутников не строил, но поставляет материалы (металлосетчатые отражатели антенн) для спутников CAST — потенциальный партнёр по антеннам/материалам.",
-   "На странице контактов отдела указана только заместитель начальника Чжан Сяосюэ (snow@dhu.edu.cn, +86-21-67792156); имя начальника отдела на официальной странице не найдено."
+   "На странице контактов отдела указана только заместитель начальника Чжан Сяосюэ (snow@dhu.edu.cn, +86-21-67792156); имя начальника отдела на официальной странице не найдено.",
+   "Поле e-mail (email_general) очищено; исходная запись: xzxx@dhu.edu.cn (President's mailbox)"
   ],
   "mailbox_owner": "Отдел международного сотрудничества / Офис по делам Гонконга, Макао и Тайваня (国际合作处 / 港澳台事务办公室)",
   "addressee_name": "",
   "addressee_title": "Начальник отдела международного сотрудничества",
-  "salutation": "Dear Director of the International Cooperation Office,"
+  "salutation": "Dear Director of the International Cooperation Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -4526,7 +4786,7 @@
   "main_fields": "Mechanical and automotive engineering, Electrical engineering and automation, Materials science, Civil and hydraulic engineering, Computer and information science, Management science",
   "postal_address": "193 Tunxi Road, Hefei, Anhui 230009, China",
   "email_general": "",
-  "email_international": "qddlzhuang@hfut.edu.cn (Director, personal)",
+  "email_international": "qddlzhuang@hfut.edu.cn",
   "phone": "+86-551-62902615 / +86-551-62905565 (International Office)",
   "website": "https://www.hfut.edu.cn",
   "head_name": "Wang Meng (汪萌)",
@@ -4549,12 +4809,15 @@
    "Новый партсекретарь Сунь Вэй назначен 30.09.2026.",
    "Общего e-mail у отдела нет; указан личный e-mail начальника отдела Чжуан Дэлиня (страница отдела открыта через WebFetch, прямой доступ блокируется).",
    "В рейтингах QS 2027 и THE 2027 не представлен.",
-   "Спутника нет, но есть космическая полезная нагрузка (робот «Чжайсин-1», 2026)."
+   "Спутника нет, но есть космическая полезная нагрузка (робот «Чжайсин-1», 2026).",
+   "Поле e-mail (email_international) очищено; исходная запись: qddlzhuang@hfut.edu.cn (Director, personal)"
   ],
   "mailbox_owner": "Отдел международного обмена и сотрудничества / Офис по делам Гонконга, Макао и Тайваня (国际交流与合作处 / 港澳台办公室)",
   "addressee_name": "Zhuang Delin (庄德林)",
   "addressee_title": "Начальник отдела международного обмена и сотрудничества",
-  "salutation": "Dear Director Zhuang,"
+  "salutation": "Dear Director Zhuang,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -4593,7 +4856,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества / Офис по делам Гонконга, Макао и Тайваня (国际交流合作处 / 港澳台事务办公室)",
   "addressee_name": "",
   "addressee_title": "Начальник отдела международного обмена и сотрудничества",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -4631,7 +4896,9 @@
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -4642,7 +4909,7 @@
   "profile_type": "technical/aerospace",
   "main_fields": "Mechanical engineering (heavy machinery, rolling mills), Materials science (metastable materials), Control science and engineering, Electrical engineering, Information science, Civil engineering",
   "postal_address": "438 West Hebei Avenue, Qinhuangdao, Hebei 066004, China",
-  "email_general": "xiaozhang@ysu.edu.cn (President's mailbox)",
+  "email_general": "xiaozhang@ysu.edu.cn",
   "email_international": "international@ysu.edu.cn",
   "phone": "+86-335-8057070 (International Office); +86-335-8057100 (university)",
   "website": "https://www.ysu.edu.cn",
@@ -4666,12 +4933,15 @@
    "Начальник отдела Лу Цзюнь: lujun@ysu.edu.cn, +86-335-8074585; за направление «Один пояс — один путь» и Россию отвечает Кан Вэйвэй (kangweiwei@ysu.edu.cn, +86-335-8604309).",
    "Китайский ящик отдела — waiban@ysu.edu.cn.",
    "В QS 2027 не представлен.",
-   "Спутников не найдено (один быстрый поиск)."
+   "Спутников не найдено (один быстрый поиск).",
+   "Поле e-mail (email_general) очищено; исходная запись: xiaozhang@ysu.edu.cn (President's mailbox)"
   ],
   "mailbox_owner": "Отдел международного сотрудничества / Офис по делам Гонконга, Макао и Тайваня (国际合作处 / 港澳台事务办公室)",
   "addressee_name": "Lu Jun (陆军)",
   "addressee_title": "Начальник отдела международного сотрудничества",
-  "salutation": "Dear Director Lu,"
+  "salutation": "Dear Director Lu,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -4712,7 +4982,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处)",
   "addressee_name": "",
   "addressee_title": "Начальник отдела международного сотрудничества и обменов",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -4755,7 +5027,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
-  "recheck_ru": "Сайт вуза по-прежнему блокирует доступ (412); ректор Сюй Цян внесён по сообщению 93sc.gov.cn (2023), контакты не найдены — уровень low сохранён"
+  "recheck_ru": "Сайт вуза по-прежнему блокирует доступ (412); ректор Сюй Цян внесён по сообщению 93sc.gov.cn (2023), контакты не найдены — уровень low сохранён",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -4795,7 +5069,9 @@
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -4806,7 +5082,7 @@
   "profile_type": "classical",
   "main_fields": "Medicine and neuroscience, Textile and garment engineering, Electrical and information engineering, Transportation and civil engineering, Education, Chemistry and chemical engineering",
   "postal_address": "9 Seyuan Road, Chongchuan District, Nantong, Jiangsu 226019, China",
-  "email_general": "ntdxxz@ntu.edu.cn (President's mailbox)",
+  "email_general": "ntdxxz@ntu.edu.cn",
   "email_international": "gjjl@ntu.edu.cn",
   "phone": "+86-513-85012132 (International Cooperation and Exchange)",
   "website": "https://www.ntu.edu.cn",
@@ -4830,12 +5106,15 @@
    "На сайте отдела начальником указан Ци Сяофэн (祁小峰), но страница датирована 2020 г. — возможно устарело, поэтому имя в обращении не используется.",
    "В Наньтуне расположен завод спутников GalaxySpace, но связи вуза со спутниками не найдено.",
    "В рейтингах QS 2027 и THE 2027 не представлен.",
-   "Спутников не найдено (один быстрый поиск)."
+   "Спутников не найдено (один быстрый поиск).",
+   "Поле e-mail (email_general) очищено; исходная запись: ntdxxz@ntu.edu.cn (President's mailbox)"
   ],
   "mailbox_owner": "Отдел международного сотрудничества и обменов / Офис по делам Гонконга, Макао и Тайваня (国际合作与交流处 / 港澳台事务办公室), совмещён с Институтом международного образования",
   "addressee_name": "",
   "addressee_title": "Начальник отдела международного сотрудничества и обменов",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -4874,7 +5153,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов / Офис по делам Тайваня, Гонконга и Макао (国际合作交流处 / 台港澳事务办公室)",
   "addressee_name": "",
   "addressee_title": "Начальник отдела международного сотрудничества и обменов",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -4885,7 +5166,7 @@
   "profile_type": "classical",
   "main_fields": "Education and teacher training, Mathematics and statistics, Confucian and Chinese classical studies, Chemistry, Physics and engineering, Computer science",
   "postal_address": "57 Jingxuan West Road, Qufu, Shandong 273165, China (Rizhao Campus: 80 Yantai North Road, Rizhao 276826)",
-  "email_general": "sjxz@qfnu.edu.cn (Party Secretary and President's mailbox)",
+  "email_general": "sjxz@qfnu.edu.cn",
   "email_international": "",
   "phone": "+86-537-4455669 (University Office); +86-537-4458558 (International Cooperation)",
   "website": "https://www.qfnu.edu.cn",
@@ -4909,12 +5190,15 @@
    "E-mail отдела международного сотрудничества не опубликован; используется общий ящик партсекретаря и ректора.",
    "Начальник отдела международного сотрудничества — Шэнь Тунъу (申同武), тел. +86-537-4458558; ректор Чжан Хунхай лично курирует международную работу.",
    "В рейтингах QS 2027 и THE 2027 не представлен.",
-   "Спутников не найдено (один быстрый поиск)."
+   "Спутников не найдено (один быстрый поиск).",
+   "Поле e-mail (email_general) очищено; исходная запись: sjxz@qfnu.edu.cn (Party Secretary and President's mailbox)"
   ],
   "mailbox_owner": "Ящик партсекретаря и ректора (书记校长信箱), Канцелярия парткома / Канцелярия университета",
   "addressee_name": "Zhang Honghai (张洪海)",
   "addressee_title": "Ректор (校长), заместитель секретаря парткома",
-  "salutation": "Dear President Zhang,"
+  "salutation": "Dear President Zhang,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -4925,7 +5209,7 @@
   "profile_type": "classical",
   "main_fields": "Medicine, Engineering, Business, Journalism and communication, Art and design, Law",
   "postal_address": "243 Daxue Road, Shantou, Guangdong 515063, China",
-  "email_general": "o_xzxx@stu.edu.cn (President's mailbox)",
+  "email_general": "o_xzxx@stu.edu.cn",
   "email_international": "",
   "phone": "+86-754-86503820",
   "website": "https://www.stu.edu.cn",
@@ -4948,12 +5232,15 @@
   "notes_ru": [
    "Сайт отдела международного сотрудничества (icd.stu.edu.cn) не открылся; используется ящик ректора.",
    "В QS 2027 не представлен.",
-   "Спутников не найдено (один быстрый поиск)."
+   "Спутников не найдено (один быстрый поиск).",
+   "Поле e-mail (email_general) очищено; исходная запись: o_xzxx@stu.edu.cn (President's mailbox)"
   ],
   "mailbox_owner": "Ящик ректора (校长信箱)",
   "addressee_name": "Hao Zhifeng (郝志峰)",
   "addressee_title": "Ректор (校长), заместитель секретаря парткома",
-  "salutation": "Dear President Hao,"
+  "salutation": "Dear President Hao,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -4992,7 +5279,9 @@
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -5032,7 +5321,9 @@
   "mailbox_owner": "International Affairs Office, HKU (国际事务处)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the International Affairs Office,"
+  "salutation": "Dear Director of the International Affairs Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -5073,7 +5364,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов / Международный колледж (国际合作与交流处 / 国际学院)",
   "addressee_name": "Gao Lanying (高兰英)",
   "addressee_title": "Директор Отдела международного сотрудничества и обменов, декан Международного колледжа",
-  "salutation": "Dear Director Gao,"
+  "salutation": "Dear Director Gao,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -5114,7 +5407,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处 / 港澳台事务办公室) — личный ящик директора",
   "addressee_name": "Bao Nisha (包妮沙)",
   "addressee_title": "Директор Отдела международного сотрудничества и обменов",
-  "salutation": "Dear Director Bao,"
+  "salutation": "Dear Director Bao,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -5155,7 +5450,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作交流处 / 港澳台事务办公室)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -5194,7 +5491,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际交流与合作处)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -5236,7 +5535,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
-  "recheck_ru": "Ректор Сюань Фучжэнь, адрес и телефон справочной подтверждены на сайте 04.10.2026; e-mail международного отдела по-прежнему только из сниппета"
+  "recheck_ru": "Ректор Сюань Фучжэнь, адрес и телефон справочной подтверждены на сайте 04.10.2026; e-mail международного отдела по-прежнему только из сниппета",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -5275,7 +5576,9 @@
   "mailbox_owner": "Сектор международных обменов Отдела международных связей (国际交流合作处 国际交流科)",
   "addressee_name": "Xu Fei (徐非)",
   "addressee_title": "Начальник сектора международных обменов",
-  "salutation": "Dear Section Chief Xu,"
+  "salutation": "Dear Section Chief Xu,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -5315,7 +5618,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处 / 港澳台事务办公室 / 国际教育学院) — личный ящик директора",
   "addressee_name": "Huang Fang (黄方)",
   "addressee_title": "Директор Отдела международного сотрудничества и обменов, декан Института международного образования",
-  "salutation": "Dear Director Huang,"
+  "salutation": "Dear Director Huang,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -5356,7 +5661,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
-  "recheck_ru": "Президент Цзоу Сяобо и адрес подтверждены на ujs.edu.cn 04.10.2026 (новости сент. 2026); e-mail и телефон по-прежнему не найдены"
+  "recheck_ru": "Президент Цзоу Сяобо и адрес подтверждены на ujs.edu.cn 04.10.2026 (новости сент. 2026); e-mail и телефон по-прежнему не найдены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -5395,7 +5702,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества (国际交流合作处 / 港澳台事务办公室)",
   "addressee_name": "Zhou Ke (周柯)",
   "addressee_title": "Директор Отдела международного обмена и сотрудничества (处长)",
-  "salutation": "Dear Director Zhou,"
+  "salutation": "Dear Director Zhou,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -5406,7 +5715,7 @@
   "profile_type": "classical",
   "main_fields": "Physics (quantum optics), Chemistry, Philosophy, History, Environmental science, Computer and information technology",
   "postal_address": "92 Wucheng Road, Taiyuan, Shanxi 030006, China",
-  "email_general": "xiaozhang@sxu.edu.cn (president's mailbox)",
+  "email_general": "xiaozhang@sxu.edu.cn",
   "email_international": "",
   "phone": "+86-351-7010255",
   "website": "https://www.sxu.edu.cn",
@@ -5430,12 +5739,15 @@
    "Должность ректора вакантна: администрацией руководит Чжан Цзин (张靖), зам. секретаря и проректор «主持行政工作».",
    "Сайт Отдела международного обмена не найден/не открылся; e-mail отдела не получен — используется ящик ректора xiaozhang@sxu.edu.cn.",
    "По одному быстрому поиску («<название> 卫星 发射») собственных запущенных спутников не найдено (LIGHT-проверка).",
-   "В QS2027 и THE2027 не найден."
+   "В QS2027 и THE2027 не найден.",
+   "Поле e-mail (email_general) очищено; исходная запись: xiaozhang@sxu.edu.cn (president's mailbox)"
   ],
   "mailbox_owner": "Ящик ректора (校长信箱)",
   "addressee_name": "Zhang Jing (张靖)",
   "addressee_title": "Заместитель секретаря парткома, проректор, руководящий административной работой",
-  "salutation": "Dear Professor Zhang,"
+  "salutation": "Dear Professor Zhang,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -5477,7 +5789,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
-  "recheck_ru": "Ректор Ян Бинь, партсекретарь Тан Цзяхуа, адрес и телефоны (вкл. международный отдел) подтверждены на kust.edu.cn 04.10.2026; e-mail не найден (global.kust.edu.cn — 403)"
+  "recheck_ru": "Ректор Ян Бинь, партсекретарь Тан Цзяхуа, адрес и телефоны (вкл. международный отдел) подтверждены на kust.edu.cn 04.10.2026; e-mail не найден (global.kust.edu.cn — 403)",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -5516,7 +5830,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества (国际交流合作处)",
   "addressee_name": "Lu Tieguang (卢铁光)",
   "addressee_title": "Директор Отдела международного обмена и сотрудничества, декан Института международного культурного образования",
-  "salutation": "Dear Director Lu,"
+  "salutation": "Dear Director Lu,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -5555,7 +5871,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -5595,7 +5913,9 @@
   "mailbox_owner": "Отдел внешнего сотрудничества и обменов (对外合作交流处 / 港澳台事务办公室)",
   "addressee_name": "Zhao Yafeng (赵亚峰)",
   "addressee_title": "Директор Отдела внешнего сотрудничества и обменов, декан Института международного образования",
-  "salutation": "Dear Director Zhao,"
+  "salutation": "Dear Director Zhao,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -5634,7 +5954,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов / Колледж международного культурного образования (国际合作与交流处 / 国际文化教育学院)",
   "addressee_name": "Li Dongmei (李冬梅)",
   "addressee_title": "Директор Отдела международного сотрудничества и обменов, декан Колледжа международного культурного образования",
-  "salutation": "Dear Director Li,"
+  "salutation": "Dear Director Li,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -5674,7 +5996,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества (国际交流合作处)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -5712,7 +6036,9 @@
   "mailbox_owner": "Отдел международного обмена / Офис по делам ГАТ (国际交流处 / 港澳台事务办公室)",
   "addressee_name": "Wei Wei (魏伟)",
   "addressee_title": "Директор Отдела международного обмена",
-  "salutation": "Dear Director Wei,"
+  "salutation": "Dear Director Wei,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -5754,7 +6080,9 @@
   "addressee_name": "Shangguan Yan (上官燕)",
   "addressee_title": "Director, Office of International Cooperation and Exchange",
   "salutation": "Dear Director Shangguan,",
-  "recheck_ru": "04.10.2026: руководство подтверждено на сайте; добавлены директор международного отдела, его телефоны и кабинет; e-mail по-прежнему не опубликован"
+  "recheck_ru": "04.10.2026: руководство подтверждено на сайте; добавлены директор международного отдела, его телефоны и кабинет; e-mail по-прежнему не опубликован",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -5795,7 +6123,9 @@
   "mailbox_owner": "Офис глобального взаимодействия (Global Engagement Office, GEO)",
   "addressee_name": "",
   "addressee_title": "Директор Офиса глобального взаимодействия",
-  "salutation": "Dear Director of the Global Engagement Office,"
+  "salutation": "Dear Director of the Global Engagement Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -5836,7 +6166,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества / Офис по делам Гонконга, Макао и Тайваня (国际交流合作处、港澳台事务办公室)",
   "addressee_name": "",
   "addressee_title": "Начальник отдела международного обмена и сотрудничества",
-  "salutation": "Dear Director of the Office of International Exchange and Cooperation,"
+  "salutation": "Dear Director of the Office of International Exchange and Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -5876,7 +6208,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества / Офис по делам Гонконга, Макао и Тайваня (国际交流与合作处（港澳台办公室）)",
   "addressee_name": "Yao Min (姚旻)",
   "addressee_title": "Начальник отдела международного обмена и сотрудничества (处长/主任)",
-  "salutation": "Dear Director Yao,"
+  "salutation": "Dear Director Yao,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -5916,7 +6250,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作交流处), контактное лицо по международному сотрудничеству",
   "addressee_name": "Wu Qiong",
   "addressee_title": "Контактное лицо по международному сотрудничеству и обменам",
-  "salutation": "Dear Wu Qiong,"
+  "salutation": "Dear Wu Qiong,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -5956,7 +6292,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества (国际交流与合作处)",
   "addressee_name": "",
   "addressee_title": "Начальник отдела международного обмена и сотрудничества",
-  "salutation": "Dear Director of the Office of International Exchange and Cooperation,"
+  "salutation": "Dear Director of the Office of International Exchange and Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -5995,7 +6333,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества (国际交流与合作处)",
   "addressee_name": "Wu Junchao (吴军超)",
   "addressee_title": "Начальник отдела международного обмена и сотрудничества (处长/主任)",
-  "salutation": "Dear Director Wu,"
+  "salutation": "Dear Director Wu,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -6034,7 +6374,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов / Офис по делам Гонконга, Макао и Тайваня (国际合作与交流处、港澳台办) — личный ящик начальника",
   "addressee_name": "Chen Bingjun (陈炳君)",
   "addressee_title": "Начальник отдела международного сотрудничества и обменов, директор Офиса по делам Гонконга, Макао и Тайваня",
-  "salutation": "Dear Director Chen,"
+  "salutation": "Dear Director Chen,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -6073,7 +6415,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处)",
   "addressee_name": "",
   "addressee_title": "Начальник отдела международного сотрудничества и обменов",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -6113,7 +6457,9 @@
   "mailbox_owner": "Канцелярия ректора (校长信箱) — ящик международного отдела (国际合作交流处) не опубликован",
   "addressee_name": "Xiao Fu (肖甫)",
   "addressee_title": "Ректор (校长)",
-  "salutation": "Dear President Xiao,"
+  "salutation": "Dear President Xiao,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -6151,7 +6497,9 @@
   "mailbox_owner": "Отдел международного сотрудничества / Офис по делам Гонконга, Макао и Тайваня (国际合作处、港澳台办公室)",
   "addressee_name": "Cao Lin (曹林)",
   "addressee_title": "Начальник отдела международного сотрудничества и директор Офиса по делам Гонконга, Макао и Тайваня (处长、主任)",
-  "salutation": "Dear Director Cao,"
+  "salutation": "Dear Director Cao,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -6190,7 +6538,9 @@
   "mailbox_owner": "Отдел международных обменов / Офис по делам Гонконга, Макао и Тайваня (国际交流处（港澳台事务办公室）)",
   "addressee_name": "",
   "addressee_title": "Начальник отдела международных обменов",
-  "salutation": "Dear Director of the Office of International Exchange,"
+  "salutation": "Dear Director of the Office of International Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -6229,7 +6579,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处)",
   "addressee_name": "Yang Yuan (杨媛)",
   "addressee_title": "Начальник отдела международного сотрудничества и обменов (处长)",
-  "salutation": "Dear Director Yang,"
+  "salutation": "Dear Director Yang,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -6271,7 +6623,9 @@
   "addressee_name": "",
   "addressee_title": "Начальник отдела международного сотрудничества и обменов",
   "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
-  "recheck_ru": "Сайт hubu.edu.cn и англ. поддомены по-прежнему недоступны (04.10.2026, 503/сброс соединения); данные не изменены."
+  "recheck_ru": "Сайт hubu.edu.cn и англ. поддомены по-прежнему недоступны (04.10.2026, 503/сброс соединения); данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -6310,7 +6664,9 @@
   "mailbox_owner": "Отдел международных связей (International Relations Office, 国际交流处)",
   "addressee_name": "",
   "addressee_title": "Начальник отдела международных связей",
-  "salutation": "Dear Director of the International Relations Office,"
+  "salutation": "Dear Director of the International Relations Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -6350,7 +6706,9 @@
   "mailbox_owner": "Отдел по международным делам (Foreign Affairs Office, 外事处 / 国际交流合作处)",
   "addressee_name": "",
   "addressee_title": "Начальник отдела по международным делам",
-  "salutation": "Dear Director of the Foreign Affairs Office,"
+  "salutation": "Dear Director of the Foreign Affairs Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -6389,7 +6747,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов / Офис по делам Гонконга, Макао и Тайваня (国际合作与交流处、港澳台办公室)",
   "addressee_name": "",
   "addressee_title": "Начальник отдела международного сотрудничества и обменов",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -6428,7 +6788,9 @@
   "mailbox_owner": "Отдел международных обменов / Офис по делам Гонконга, Макао и Тайваня (国际交流处（港澳台事务工作办公室）) — личный ящик начальника",
   "addressee_name": "Mao Wenjuan (毛文娟)",
   "addressee_title": "Начальник отдела международных обменов (处长/主任), декан Института международного образования",
-  "salutation": "Dear Director Mao,"
+  "salutation": "Dear Director Mao,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -6467,7 +6829,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества / Офис по делам Гонконга, Макао и Тайваня (国际交流与合作处、港澳台事务办公室)",
   "addressee_name": "",
   "addressee_title": "Начальник отдела международного обмена и сотрудничества",
-  "salutation": "Dear Director of the Office of International Exchange and Cooperation,"
+  "salutation": "Dear Director of the Office of International Exchange and Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -6507,7 +6871,9 @@
   "mailbox_owner": "Веб-мастер сайта вуза (webmaster@ujn.edu.cn); профильный адресат — Отдел международного сотрудничества и обменов (国际合作与交流处)",
   "addressee_name": "Wang Ping (王平)",
   "addressee_title": "Начальник отдела международного сотрудничества и обменов (处长)",
-  "salutation": "Dear Director Wang,"
+  "salutation": "Dear Director Wang,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик приёмной комиссии/вебмастера — найти ящик международного отдела"
  },
  {
   "country": "China",
@@ -6546,7 +6912,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества / Офис по делам Гонконга, Макао и Тайваня (国际交流与合作处（港澳台事务办公室）)",
   "addressee_name": "Shang Changchun (尚长春)",
   "addressee_title": "Начальник отдела международного обмена и сотрудничества, директор Офиса по делам Гонконга, Макао и Тайваня, декан Института международного образования",
-  "salutation": "Dear Director Shang,"
+  "salutation": "Dear Director Shang,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -6587,7 +6955,9 @@
   "mailbox_owner": "Колледж международного образования (国际教育学院 / Харьковский авиационный институт СААУ), заместитель декана по международному обмену",
   "addressee_name": "Lv Shannan (吕善楠)",
   "addressee_title": "Заместитель декана Колледжа международного образования (международный обмен и приём иностранных студентов)",
-  "salutation": "Dear Deputy Dean Lv,"
+  "salutation": "Dear Deputy Dean Lv,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -6626,7 +6996,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处 / International Affairs Office)",
   "addressee_name": "",
   "addressee_title": "Начальник Отдела международного сотрудничества и обменов",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -6665,7 +7037,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作交流处), сектор международных обменов (国际交流科)",
   "addressee_name": "Liu Liang (刘亮)",
   "addressee_title": "Начальник Отдела международного сотрудничества и обменов (директор офиса по делам Гонконга, Макао и Тайваня)",
-  "salutation": "Dear Director Liu,"
+  "salutation": "Dear Director Liu,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -6704,7 +7078,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际交流合作处)",
   "addressee_name": "",
   "addressee_title": "Начальник Отдела международного сотрудничества и обменов",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -6743,7 +7119,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处)",
   "addressee_name": "",
   "addressee_title": "Начальник Отдела международного сотрудничества и обменов",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -6782,7 +7160,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов / Офис по делам Гонконга, Макао и Тайваня (国际合作交流处、港澳台办公室)",
   "addressee_name": "",
   "addressee_title": "Начальник Отдела международного сотрудничества и обменов",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -6821,7 +7201,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов / Офис по делам Гонконга, Макао и Тайваня (国际合作与交流处、港澳台办公室)",
   "addressee_name": "Yang Wei (杨薇)",
   "addressee_title": "Начальник Отдела международного сотрудничества и обменов",
-  "salutation": "Dear Director Yang,"
+  "salutation": "Dear Director Yang,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -6861,7 +7243,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处（港澳台办公室）), заместитель начальника",
   "addressee_name": "Huang Xu (黄煦)",
   "addressee_title": "Заместитель начальника Отдела международного сотрудничества и обменов (иностранные студенты, офис отдела)",
-  "salutation": "Dear Deputy Director Huang,"
+  "salutation": "Dear Deputy Director Huang,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -6900,7 +7284,9 @@
   "mailbox_owner": "Отдел международного сотрудничества / Офис по делам Гонконга, Макао и Тайваня (国际合作处、港澳台办公室)",
   "addressee_name": "Li Bo (李博)",
   "addressee_title": "Начальник Отдела международного сотрудничества",
-  "salutation": "Dear Director Li,"
+  "salutation": "Dear Director Li,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -6943,7 +7329,9 @@
   "addressee_name": "",
   "addressee_title": "Начальник Отдела международного сотрудничества и обменов",
   "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
-  "recheck_ru": "Сайт по-прежнему закрыт антиботом; руководство исправлено по Синьхуа (12.2024): ректор Лю Цяоцюань, партсекретарь Дин Цзяньнин; контактов нет."
+  "recheck_ru": "Сайт по-прежнему закрыт антиботом; руководство исправлено по Синьхуа (12.2024): ректор Лю Цяоцюань, партсекретарь Дин Цзяньнин; контактов нет.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -6955,7 +7343,7 @@
   "main_fields": "Teacher education, Physics and optics/lasers, Geography and environment, Chemistry and materials, Psychology, Literature and humanities",
   "postal_address": "88 Wenhua East Road, Lixia District, Jinan, Shandong, China (Qianfoshan campus); Changqing Lake campus: 1 Daxue Road, University Science Park, Changqing District, Jinan",
   "email_general": "",
-  "email_international": "mamaoxiang@126.com (personal mailbox of the Office Director, as published on the office page)",
+  "email_international": "mamaoxiang@126.com",
   "phone": "+86-531-86182228 (Office of International Cooperation and Exchange)",
   "website": "https://www.sdnu.edu.cn",
   "head_name": "Zhang Jian (张建)",
@@ -6977,12 +7365,15 @@
   "notes_ru": [
    "Офис международного сотрудничества не публикует общего ящика на домене вуза; начальник отдела Ма Маосян (马茂祥) указывает личный адрес на 126.com; замначальника У Силу (吴锡路, офис отдела) — wuxl@sdnu.edu.cn (институциональный, можно в копию).",
    "Космическая проверка ограничена базой nanosats.eu и официальными страницами: квота веб-поиска сессии исчерпана (200/200); спутников вуза не найдено.",
-   "Не входит в QS2027 и THE2027; в Entity List США не найден."
+   "Не входит в QS2027 и THE2027; в Entity List США не найден.",
+   "Поле e-mail (email_international) очищено; исходная запись: mamaoxiang@126.com (personal mailbox of the Office Director, as published on the office page)"
   ],
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作交流处), начальник отдела",
   "addressee_name": "Ma Maoxiang (马茂祥)",
   "addressee_title": "Начальник Отдела международного сотрудничества и обменов",
-  "salutation": "Dear Director Ma,"
+  "salutation": "Dear Director Ma,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -7021,7 +7412,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества / Офис по делам Гонконга, Макао и Тайваня (国际交流合作处、港澳台事务办公室)",
   "addressee_name": "",
   "addressee_title": "Начальник Отдела международного обмена и сотрудничества",
-  "salutation": "Dear Director of the Office of International Exchange and Cooperation,"
+  "salutation": "Dear Director of the Office of International Exchange and Cooperation,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -7061,7 +7454,9 @@
   "mailbox_owner": "Почтовый ящик ректора (校长信箱)",
   "addressee_name": "Xie Suyuan (谢素原)",
   "addressee_title": "Ректор",
-  "salutation": "Dear President Xie,"
+  "salutation": "Dear President Xie,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -7100,7 +7495,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处)",
   "addressee_name": "",
   "addressee_title": "Начальник Отдела международного сотрудничества и обменов",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -7112,7 +7509,7 @@
   "main_fields": "Mining and safety engineering, Surveying, mapping and geomatics, Earth sciences and engineering, Mechanical and electronic engineering, Computer science, Civil engineering",
   "postal_address": "579 Qianwangang Road, Huangdao District, Qingdao, Shandong 266590, China",
   "email_general": "",
-  "email_international": "ywfjana@sdust.edu.cn (Director of the International Exchange and Cooperation Office)",
+  "email_international": "ywfjana@sdust.edu.cn",
   "phone": "+86-532-86057186 (International Exchange and Cooperation Office)",
   "website": "https://www.sdust.edu.cn",
   "head_name": "",
@@ -7135,12 +7532,15 @@
    "На странице «Действующее руководство» ректор не указан (должность, по-видимому, вакантна); первое лицо — партсекретарь Ван Цзюньсун (王君松).",
    "Начальник Отдела международного обмена и сотрудничества — Юй Вэньфан (禹文芳), e-mail ywfjana@sdust.edu.cn; общего ящика отдела нет.",
    "Космическая проверка ограничена базой nanosats.eu и официальными страницами: квота веб-поиска сессии исчерпана (200/200); спутников вуза не найдено.",
-   "Не входит в QS2027 и THE2027; в Entity List США не найден."
+   "Не входит в QS2027 и THE2027; в Entity List США не найден.",
+   "Поле e-mail (email_international) очищено; исходная запись: ywfjana@sdust.edu.cn (Director of the International Exchange and Cooperation Office)"
   ],
   "mailbox_owner": "Отдел международного обмена и сотрудничества (国际交流合作处), начальник отдела",
   "addressee_name": "Yu Wenfang (禹文芳)",
   "addressee_title": "Начальник Отдела международного обмена и сотрудничества",
-  "salutation": "Dear Director Yu,"
+  "salutation": "Dear Director Yu,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -7180,7 +7580,9 @@
   "mailbox_owner": "Отдел международного сотрудничества (Международная аспирантская школа) (国际合作处（国际研究生院）)",
   "addressee_name": "",
   "addressee_title": "Начальник Отдела международного сотрудничества",
-  "salutation": "Dear Director of the Office of International Cooperation,"
+  "salutation": "Dear Director of the Office of International Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -7219,7 +7621,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и развития (国际合作与发展处 / 国际交流处)",
   "addressee_name": "",
   "addressee_title": "Начальник Отдела международного сотрудничества и развития",
-  "salutation": "Dear Director of the Office of International Cooperation and Development,"
+  "salutation": "Dear Director of the Office of International Cooperation and Development,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -7259,7 +7663,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества (国际交流合作处)",
   "addressee_name": "Chen Bing (陈兵)",
   "addressee_title": "Начальник Отдела международного обмена и сотрудничества",
-  "salutation": "Dear Director Chen,"
+  "salutation": "Dear Director Chen,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -7298,7 +7704,9 @@
   "mailbox_owner": "Департамент международного сотрудничества и обменов / Офис по делам Гонконга, Макао и Тайваня (国际合作与交流部（港澳台事务办公室）)",
   "addressee_name": "Li Wenke (李文科)",
   "addressee_title": "Исполнительный руководитель (执行部长) Департамента международного сотрудничества и обменов",
-  "salutation": "Dear Director Li,"
+  "salutation": "Dear Director Li,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -7340,7 +7748,9 @@
   "addressee_name": "",
   "addressee_title": "Начальник Отдела международного сотрудничества и обменов",
   "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
-  "recheck_ru": "Сайт qut.edu.cn недоступен (403 для http, 503 через WebFetch, english. — нет соединения) 04.10.2026; данные не изменены."
+  "recheck_ru": "Сайт qut.edu.cn недоступен (403 для http, 503 через WebFetch, english. — нет соединения) 04.10.2026; данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -7381,7 +7791,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов / Колледж международного образования (国际合作与交流处、国际教育学院) — ящик приёма иностранных студентов",
   "addressee_name": "Yu Xin (余鑫)",
   "addressee_title": "Начальник Отдела международного сотрудничества и обменов, декан Колледжа международного образования",
-  "salutation": "Dear Director Yu,"
+  "salutation": "Dear Director Yu,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -7420,7 +7832,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -7460,7 +7874,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处 / Office of International Affairs)",
   "addressee_name": "Yuan Mingjian (袁明鉴)",
   "addressee_title": "Начальник Отдела международного сотрудничества и обменов",
-  "salutation": "Dear Director Yuan,"
+  "salutation": "Dear Director Yuan,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -7499,7 +7915,9 @@
   "mailbox_owner": "Отдел международного обмена (国际交流处), служба приёма иностранных студентов",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -7538,7 +7956,9 @@
   "mailbox_owner": "Отдел внешнего сотрудничества и обменов (对外合作交流处)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -7576,7 +7996,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов / Офис по делам Гонконга, Макао и Тайваня (国际合作与交流处、港澳台事务办公室)",
   "addressee_name": "Li Yangguang (李阳光)",
   "addressee_title": "Начальник Отдела международного сотрудничества и обменов, директор Офиса по делам Гонконга, Макао и Тайваня",
-  "salutation": "Dear Director Li,"
+  "salutation": "Dear Director Li,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "China",
@@ -7615,7 +8037,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества (国际交流与合作处)",
   "addressee_name": "Zhang Lingyun (张凌云)",
   "addressee_title": "Начальник Отдела международного обмена и сотрудничества",
-  "salutation": "Dear Director Zhang,"
+  "salutation": "Dear Director Zhang,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "China",
@@ -7654,7 +8078,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -7693,7 +8119,9 @@
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -7732,7 +8160,9 @@
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -7770,7 +8200,9 @@
   "mailbox_owner": "Веб-мастер сайта университета (общий адрес) — международный отдел (国际交流合作处) собственного ящика не публикует",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -7808,7 +8240,9 @@
   "mailbox_owner": "Отдел международного сотрудничества / Офис по делам Гонконга, Макао и Тайваня (国际合作处、港澳台办公室)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -7846,7 +8280,9 @@
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -7884,7 +8320,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -7922,7 +8360,9 @@
   "mailbox_owner": "Отдел международного сотрудничества и обменов (国际合作与交流处)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -7964,7 +8404,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
-  "recheck_ru": "04.10.2026: cjlu.edu.cn и ino.cjlu.edu.cn по-прежнему отвечают HTTP 412 (антибот) — данные не изменены."
+  "recheck_ru": "04.10.2026: cjlu.edu.cn и ino.cjlu.edu.cn по-прежнему отвечают HTTP 412 (антибот) — данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -8002,7 +8444,9 @@
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "China",
@@ -8040,7 +8484,9 @@
   "mailbox_owner": "Отдел международного обмена и сотрудничества / Офис по делам Гонконга, Макао и Тайваня (国际交流与合作处、港澳台办公室)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -8078,7 +8524,9 @@
   "mailbox_owner": "Отдел международного сотрудничества (国际合作处)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "China",
@@ -8117,6 +8565,8 @@
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Cooperation and Exchange,"
+  "salutation": "Dear Director of the Office of International Cooperation and Exchange,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  }
 ]

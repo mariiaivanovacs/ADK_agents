@@ -38,7 +38,9 @@
   "mailbox_owner": "Общая справочная служба университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the International Office,"
+  "salutation": "Dear Director of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "South Africa",
@@ -78,7 +80,9 @@
   "mailbox_owner": "Офис международных академических программ (International Academic Programmes Office, IAPO)",
   "addressee_name": "Emeritus Prof. Danie Visser",
   "addressee_title": "Исполняющий обязанности директора Международного офиса",
-  "salutation": "Dear Prof. Visser,"
+  "salutation": "Dear Prof. Visser,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "South Africa",
@@ -119,7 +123,9 @@
   "mailbox_owner": "Отдел международного сотрудничества (International Cooperation Division)",
   "addressee_name": "Mr Setsipane Mokoduwe",
   "addressee_title": "Руководитель отдела международного сотрудничества (Head: International Cooperation)",
-  "salutation": "Dear Mr Mokoduwe,"
+  "salutation": "Dear Mr Mokoduwe,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "South Africa",
@@ -159,7 +165,9 @@
   "mailbox_owner": "Офис глобального взаимодействия (Global Engagement Office)",
   "addressee_name": "Dr Shernice Soobramoney",
   "addressee_title": "Директор по глобальному взаимодействию (Director: Global Engagement)",
-  "salutation": "Dear Dr Soobramoney,"
+  "salutation": "Dear Dr Soobramoney,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "South Africa",
@@ -198,7 +206,9 @@
   "mailbox_owner": "Управление интернационализации (Division for Internationalisation)",
   "addressee_name": "Prof. Ylva Rodny-Gumede",
   "addressee_title": "Старший директор Управления интернационализации",
-  "salutation": "Dear Prof. Rodny-Gumede,"
+  "salutation": "Dear Prof. Rodny-Gumede,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "South Africa",
@@ -238,7 +248,9 @@
   "mailbox_owner": "Офис международных связей (International Relations Office)",
   "addressee_name": "Dr Tasmeera Singh",
   "addressee_title": "Директор по международным связям и SANORD",
-  "salutation": "Dear Dr Singh,"
+  "salutation": "Dear Dr Singh,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "South Africa",
@@ -279,7 +291,9 @@
   "mailbox_owner": "Управление интернационализации и партнёрств (Internationalisation & Partnerships)",
   "addressee_name": "Dr Angeline Magabane",
   "addressee_title": "Директор по интернационализации и партнёрствам",
-  "salutation": "Dear Dr Magabane,"
+  "salutation": "Dear Dr Magabane,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "South Africa",
@@ -319,7 +333,9 @@
   "mailbox_owner": "Международный офис (International Office)",
   "addressee_name": "Prof. Judy Peter",
   "addressee_title": "Старший директор Международного офиса",
-  "salutation": "Dear Prof. Peter,"
+  "salutation": "Dear Prof. Peter,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "South Africa",
@@ -359,7 +375,9 @@
   "mailbox_owner": "Общая справочная служба университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the International Office,"
+  "salutation": "Dear Director of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "South Africa",
@@ -401,7 +419,9 @@
   "addressee_name": "Dr Olusegun Obadire",
   "addressee_title": "Директор Управления международных связей и партнёрств (Director: International Relations and Partnerships)",
   "salutation": "Dear Dr Obadire,",
-  "recheck_ru": "Сайт univen.ac.za открыт через reader-сервис 04.10.2026: VC Prof Bernard Nthambeleni, директор IRP Dr Olusegun Obadire (уже не «и.о.»), общий e-mail и телефоны IRP, адрес Private Bag X5050 подтверждены; e-mail international заменён на официальный общий ящик IRP."
+  "recheck_ru": "Сайт univen.ac.za открыт через reader-сервис 04.10.2026: VC Prof Bernard Nthambeleni, директор IRP Dr Olusegun Obadire (уже не «и.о.»), общий e-mail и телефоны IRP, адрес Private Bag X5050 подтверждены; e-mail international заменён на официальный общий ящик IRP.",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "South Africa",
@@ -441,7 +461,9 @@
   "mailbox_owner": "Управление международных связей и партнёрств (International Affairs and Partnerships, IAP)",
   "addressee_name": "Mr Lebethe Malefo",
   "addressee_title": "Директор по международным связям и партнёрствам",
-  "salutation": "Dear Mr Malefo,"
+  "salutation": "Dear Mr Malefo,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "South Africa",
@@ -485,7 +507,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the International Office,",
-  "recheck_ru": "Сайт unizulu.ac.za недоступен по HTTPS, по HTTP — заглушка обновления LMS; данные не изменены"
+  "recheck_ru": "Сайт unizulu.ac.za недоступен по HTTPS, по HTTP — заглушка обновления LMS; данные не изменены",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "South Africa",
@@ -525,7 +549,9 @@
   "mailbox_owner": "Центр глобального взаимодействия (Centre for Global Engagement, CGE)",
   "addressee_name": "Valindawo Dwayi",
   "addressee_title": "Старший директор Центра глобального взаимодействия",
-  "salutation": "Dear Senior Director Dwayi,"
+  "salutation": "Dear Senior Director Dwayi,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "South Africa",
@@ -564,7 +590,9 @@
   "mailbox_owner": "Общая справочная служба университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the International Office,"
+  "salutation": "Dear Director of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "South Africa",
@@ -604,7 +632,9 @@
   "mailbox_owner": "Общая справочная служба (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the International Office,"
+  "salutation": "Dear Director of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "South Africa",
@@ -644,7 +674,9 @@
   "mailbox_owner": "Общая справочная служба (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the International Office,"
+  "salutation": "Dear Director of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "South Africa",
@@ -684,7 +716,9 @@
   "mailbox_owner": "Служба поддержки абитуриентов (Application Support)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the International Office,"
+  "salutation": "Dear Director of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "South Africa",
@@ -725,7 +759,9 @@
   "mailbox_owner": "Stellenbosch University International (SU International)",
   "addressee_name": "Mr Robert Kotzé",
   "addressee_title": "Старший директор SU International (Senior Director: SU International)",
-  "salutation": "Dear Mr Kotzé,"
+  "salutation": "Dear Mr Kotzé,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "South Africa",
@@ -764,7 +800,9 @@
   "mailbox_owner": "Офис интернационализации и стратегических партнёрств (Internationalisation and Strategic Partnerships Office)",
   "addressee_name": "Dr Samia Chasi",
   "addressee_title": "Руководитель Офиса интернационализации и стратегических партнёрств",
-  "salutation": "Dear Dr Chasi,"
+  "salutation": "Dear Dr Chasi,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "South Africa",
@@ -804,7 +842,9 @@
   "mailbox_owner": "Отдел корпоративных связей, включающий International Relations / Global Engagement (Corporate Relations Division)",
   "addressee_name": "Dr Normah Zondo",
   "addressee_title": "Исполнительный директор по корпоративным связям (Executive Director: Corporate Relations); представитель UKZN в форуме директоров IEASA",
-  "salutation": "Dear Dr Zondo,"
+  "salutation": "Dear Dr Zondo,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "South Africa",
@@ -844,7 +884,9 @@
   "mailbox_owner": "Международный офис (International Office / Global Engagement)",
   "addressee_name": "Ms Orla Quinlan",
   "addressee_title": "Директор по глобальному взаимодействию (Global Engagement Director)",
-  "salutation": "Dear Ms Quinlan,"
+  "salutation": "Dear Ms Quinlan,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "South Africa",
@@ -884,7 +926,9 @@
   "mailbox_owner": "Головной офис SANSA (общий ящик, Head Office)",
   "addressee_name": "Mr Humbulani Mudau",
   "addressee_title": "Генеральный директор (CEO) SANSA",
-  "salutation": "Dear Mr Mudau,"
+  "salutation": "Dear Mr Mudau,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "South Africa",
@@ -923,7 +967,9 @@
   "mailbox_owner": "Офис международного образования и партнёрств (International Education and Partnerships, IEP)",
   "addressee_name": "Dr Lavern Samuels",
   "addressee_title": "Директор офиса международного образования и партнёрств (IEP)",
-  "salutation": "Dear Dr Samuels,"
+  "salutation": "Dear Dr Samuels,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "South Africa",
@@ -963,7 +1009,9 @@
   "mailbox_owner": "Директорат международных партнёрств и связей (Directorate for International Partnerships and Relations, ранее Office for International Affairs)",
   "addressee_name": "Prof. Lynette Jacobs",
   "addressee_title": "И. о. директора и руководитель исследовательского направления Офиса международных связей (Acting Director)",
-  "salutation": "Dear Prof. Jacobs,"
+  "salutation": "Dear Prof. Jacobs,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "South Africa",
@@ -1003,7 +1051,9 @@
   "mailbox_owner": "Директорат интернационализации (Internationalisation Directorate)",
   "addressee_name": "Dr Carlien Jooste",
   "addressee_title": "Директор по интернационализации (Director: Internationalisation)",
-  "salutation": "Dear Dr Jooste,"
+  "salutation": "Dear Dr Jooste,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "South Africa",
@@ -1042,7 +1092,9 @@
   "mailbox_owner": "Офис интернационализации (Internationalisation Office, Research & Innovation)",
   "addressee_name": "Mr Caiphus Motadi",
   "addressee_title": "Менеджер офиса интернационализации (Manager: Internationalisation)",
-  "salutation": "Dear Mr Motadi,"
+  "salutation": "Dear Mr Motadi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "South Africa",
@@ -1081,7 +1133,9 @@
   "mailbox_owner": "Международный офис (International Office)",
   "addressee_name": "Mr Vido Kungune",
   "addressee_title": "Директор международного офиса (Director: International Office)",
-  "salutation": "Dear Mr Kungune,"
+  "salutation": "Dear Mr Kungune,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "South Africa",
@@ -1121,7 +1175,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Affairs)",
   "addressee_name": "Prof. Nonceba Mbambo-Kekana",
   "addressee_title": "Директор по международным связям (Director: International Affairs)",
-  "salutation": "Dear Prof. Mbambo-Kekana,"
+  "salutation": "Dear Prof. Mbambo-Kekana,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "South Africa",
@@ -1160,7 +1216,9 @@
   "mailbox_owner": "Общий ящик / колл-центр университета (General enquiries); интернационализация — директорат Marketing and Communications",
   "addressee_name": "M Mkhize",
   "addressee_title": "Старший директор по маркетингу и коммуникациям, руководитель направления интернационализации (Senior Director: Marketing and Communication)",
-  "salutation": "Dear Senior Director Mkhize,"
+  "salutation": "Dear Senior Director Mkhize,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "South Africa",
@@ -1202,7 +1260,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the International Office,",
-  "recheck_ru": "Ректор, телефон и адрес подтверждены на сайте spu.ac.za 04.10.2026; общий e-mail/международный офис не опубликованы"
+  "recheck_ru": "Ректор, телефон и адрес подтверждены на сайте spu.ac.za 04.10.2026; общий e-mail/международный офис не опубликованы",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "South Africa",
@@ -1242,7 +1302,9 @@
   "mailbox_owner": "Общий ящик SARAO (General enquiries), Cape Town Office",
   "addressee_name": "Ms Pontsho Maruping",
   "addressee_title": "Управляющий директор SARAO (Managing Director)",
-  "salutation": "Dear Ms Maruping,"
+  "salutation": "Dear Ms Maruping,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "South Africa",
@@ -1281,7 +1343,9 @@
   "mailbox_owner": "Общий ящик SAAO (General enquiries)",
   "addressee_name": "Prof. Rosalind Skelton",
   "addressee_title": "Директор SAAO (Director)",
-  "salutation": "Dear Prof. Skelton,"
+  "salutation": "Dear Prof. Skelton,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "South Africa",
@@ -1320,6 +1384,8 @@
   "mailbox_owner": "Общий ящик кампуса Emeris Ruimsig (General queries)",
   "addressee_name": "Andre Lubbe",
   "addressee_title": "Руководитель кампуса (Campus Head, Ruimsig Johannesburg)",
-  "salutation": "Dear Mr Lubbe,"
+  "salutation": "Dear Mr Lubbe,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  }
 ]

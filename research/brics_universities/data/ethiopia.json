@@ -38,7 +38,9 @@
   "mailbox_owner": "Служба промышленного сотрудничества и партнёрств SSGI",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director General Dr. Abdissa Yilma,"
+  "salutation": "Dear Director General Dr. Abdissa Yilma,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Ethiopia",
@@ -77,7 +79,9 @@
   "mailbox_owner": "Управление международных связей и партнёрств",
   "addressee_name": "Dr. Biniam Atnafe Beyene",
   "addressee_title": "Директор по международным связям и партнёрствам",
-  "salutation": "Dear Dr. Biniam,"
+  "salutation": "Dear Dr. Biniam,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Ethiopia",
@@ -118,7 +122,9 @@
   "mailbox_owner": "Общий почтовый ящик университета (информационный офис)",
   "addressee_name": "Dr. Mengesha Ayene Ejigu",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Dr. Mengesha,"
+  "salutation": "Dear Dr. Mengesha,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Ethiopia",
@@ -158,7 +164,9 @@
   "mailbox_owner": "Общий адрес университета (ero@, указан на странице контактов)",
   "addressee_name": "Dr. Dereje Engida",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Dr. Dereje,"
+  "salutation": "Dear Dr. Dereje,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Ethiopia",
@@ -198,7 +206,9 @@
   "mailbox_owner": "Директорат международных связей и партнёрств",
   "addressee_name": "Dr. Solomon Girma Yabowork",
   "addressee_title": "Директор по международным связям и партнёрствам",
-  "salutation": "Dear Dr. Solomon,"
+  "salutation": "Dear Dr. Solomon,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Ethiopia",
@@ -239,7 +249,9 @@
   "mailbox_owner": "Служба корпоративных коммуникаций (общий адрес)",
   "addressee_name": "Dr.-Ing. Abdella Kemal Mohammed",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Dr. Abdella,"
+  "salutation": "Dear Dr. Abdella,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Ethiopia",
@@ -279,7 +291,9 @@
   "mailbox_owner": "Директорат международных связей в исследованиях и партнёрствах",
   "addressee_name": "Dr. Getnet Atenafu",
   "addressee_title": "Директор по международным связям в исследованиях и партнёрствам",
-  "salutation": "Dear Dr. Getnet,"
+  "salutation": "Dear Dr. Getnet,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Ethiopia",
@@ -319,7 +333,9 @@
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "Dr. Guchie Gulie Sulla",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Dr. Guchie,"
+  "salutation": "Dear Dr. Guchie,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Ethiopia",
@@ -360,7 +376,9 @@
   "mailbox_owner": "Директорат исследований, международных связей и партнёрств",
   "addressee_name": "Dr. Mitiku Tasisa Dinsa",
   "addressee_title": "Директор по исследованиям, международным связям и партнёрствам",
-  "salutation": "Dear Dr. Mitiku,"
+  "salutation": "Dear Dr. Mitiku,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Ethiopia",
@@ -403,7 +421,9 @@
   "addressee_name": "Dr. Solomon Abegaze",
   "addressee_title": "Президент университета",
   "salutation": "Dear Dr. Solomon,",
-  "recheck_ru": "04.10.2026: сайт dtu.edu.et по-прежнему блокирует доступ; президент Dr. Solomon Abegaze повторно подтверждён в последних постах официального Telegram-канала (сентябрь 2026); телефон и международный e-mail не найдены."
+  "recheck_ru": "04.10.2026: сайт dtu.edu.et по-прежнему блокирует доступ; президент Dr. Solomon Abegaze повторно подтверждён в последних постах официального Telegram-канала (сентябрь 2026); телефон и международный e-mail не найдены.",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Ethiopia",
@@ -445,7 +465,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations and Partnerships,",
-  "recheck_ru": "Сайт ambou.edu.et недоступен (ERR_ADDRESS_UNREACHABLE через reader-сервис, сброс соединения через прокси, 04.10.2026); данные не изменены."
+  "recheck_ru": "Сайт ambou.edu.et недоступен (ERR_ADDRESS_UNREACHABLE через reader-сервис, сброс соединения через прокси, 04.10.2026); данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Ethiopia",
@@ -485,7 +507,9 @@
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "Dr. Wako Geda",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Dr. Wako,"
+  "salutation": "Dear Dr. Wako,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Ethiopia",
@@ -525,7 +549,9 @@
   "mailbox_owner": "Директорат исследований, международных связей и партнёрств",
   "addressee_name": "Dr. Fentaw Baye Adal",
   "addressee_title": "Директор по исследованиям, международным связям и партнёрствам",
-  "salutation": "Dear Dr. Fentaw,"
+  "salutation": "Dear Dr. Fentaw,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Ethiopia",
@@ -569,7 +595,9 @@
   "addressee_name": "Dr. Diriba Eticha Tujuba",
   "addressee_title": "Президент университета",
   "salutation": "Dear Dr. Diriba,",
-  "recheck_ru": "Президент повторно подтверждён на сайте (новости 2026), но официальных e-mail/телефона нет — уровень low сохранён"
+  "recheck_ru": "Президент повторно подтверждён на сайте (новости 2026), но официальных e-mail/телефона нет — уровень low сохранён",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Ethiopia",
@@ -612,7 +640,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations and Partnerships,",
-  "recheck_ru": "Сайт kue.edu.et по-прежнему недоступен (HTTP 500/сброс, 04.10.2026); данные не изменены — президент (по выдаче Dr. Teshome Nekatibeb) не подтверждён"
+  "recheck_ru": "Сайт kue.edu.et по-прежнему недоступен (HTTP 500/сброс, 04.10.2026); данные не изменены — президент (по выдаче Dr. Teshome Nekatibeb) не подтверждён",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Ethiopia",
@@ -652,7 +682,9 @@
   "mailbox_owner": "Общий адрес университета (офис президента)",
   "addressee_name": "Dr. Gardachew Worku Fekadu",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Dr. Gardachew,"
+  "salutation": "Dear Dr. Gardachew,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Ethiopia",
@@ -694,7 +726,9 @@
   "addressee_name": "Dr. Berhanemeskel Tena",
   "addressee_title": "Президент университета",
   "salutation": "Dear Dr. Berhanemeskel,",
-  "recheck_ru": "Сайт mwu.edu.et (SPA) снова не отдал данные: API api.maddauni.online отвечает 502, в JS-бандле контактов нет; данные не изменены (04.10.2026)"
+  "recheck_ru": "Сайт mwu.edu.et (SPA) снова не отдал данные: API api.maddauni.online отвечает 502, в JS-бандле контактов нет; данные не изменены (04.10.2026)",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Ethiopia",
@@ -736,7 +770,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations and Partnerships,",
-  "recheck_ru": "Сайт adu.edu.et по-прежнему недоступен; президент Dr. Gebremichael Woldegabriel внесён по выдаче официальных новостей сайта (06–07.2026), страницы не открыты — контакты не найдены"
+  "recheck_ru": "Сайт adu.edu.et по-прежнему недоступен; президент Dr. Gebremichael Woldegabriel внесён по выдаче официальных новостей сайта (06–07.2026), страницы не открыты — контакты не найдены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Ethiopia",
@@ -776,7 +812,9 @@
   "mailbox_owner": "Общий официальный адрес университета",
   "addressee_name": "Prof. Muktar Mohammed",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Prof. Muktar,"
+  "salutation": "Dear Prof. Muktar,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Ethiopia",
@@ -817,7 +855,9 @@
   "mailbox_owner": "Управление по связям с общественностью и международным отношениям",
   "addressee_name": "Mr. Abdiladif Ahmed Olad",
   "addressee_title": "Руководитель управления по связям с общественностью и международным отношениям",
-  "salutation": "Dear Mr. Abdiladif,"
+  "salutation": "Dear Mr. Abdiladif,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Ethiopia",
@@ -858,7 +898,9 @@
   "mailbox_owner": "Офис партнёрств (Office of Partnerships / AAU Global) при вице-президенте по партнёрству и коммуникациям",
   "addressee_name": "",
   "addressee_title": "Директор Офиса партнёрств",
-  "salutation": "Dear Director of the Office of Partnerships,"
+  "salutation": "Dear Director of the Office of Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Ethiopia",
@@ -898,7 +940,9 @@
   "mailbox_owner": "Офис интернационализации и партнёрств (Office of Internationalization and Partnership)",
   "addressee_name": "Dr. Bedasa Abdisa Gonfa",
   "addressee_title": "Директор Офиса интернационализации и партнёрств",
-  "salutation": "Dear Dr. Bedasa,"
+  "salutation": "Dear Dr. Bedasa,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Ethiopia",
@@ -939,7 +983,9 @@
   "mailbox_owner": "Дирекция международных дел (International Affairs Directorate)",
   "addressee_name": "",
   "addressee_title": "Директор Дирекции международных дел",
-  "salutation": "Dear Director of International Affairs,"
+  "salutation": "Dear Director of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Ethiopia",
@@ -979,7 +1025,9 @@
   "mailbox_owner": "Исполнительный офис по связям с общественностью и международным отношениям (Public and International Relations Executive)",
   "addressee_name": "Dr. Emebet Bekele Birkie",
   "addressee_title": "Исполнительный директор по связям с общественностью и международным отношениям",
-  "salutation": "Dear Dr. Emebet,"
+  "salutation": "Dear Dr. Emebet,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Ethiopia",
@@ -1019,7 +1067,9 @@
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations and Partnerships,"
+  "salutation": "Dear Director of International Relations and Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Ethiopia",
@@ -1059,7 +1109,9 @@
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations and Partnerships,"
+  "salutation": "Dear Director of International Relations and Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Ethiopia",
@@ -1098,7 +1150,9 @@
   "mailbox_owner": "Офис международных партнёрств (Office of International Partnerships)",
   "addressee_name": "Asst. Prof. Dawit Daniel",
   "addressee_title": "Директор по стратегическому партнёрству и интернационализации исследований",
-  "salutation": "Dear Mr. Dawit,"
+  "salutation": "Dear Mr. Dawit,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Ethiopia",
@@ -1137,7 +1191,9 @@
   "mailbox_owner": "Дирекция по связям с общественностью и международным отношениям (Public & International Relations)",
   "addressee_name": "Mr. Habtamu Mesfin",
   "addressee_title": "Директор по связям с общественностью и международным отношениям",
-  "salutation": "Dear Mr. Habtamu,"
+  "salutation": "Dear Mr. Habtamu,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Ethiopia",
@@ -1176,7 +1232,9 @@
   "mailbox_owner": "Дирекция международных связей и партнёрств (International Relation and Partnership Directorate)",
   "addressee_name": "Dr. Bethel Geremew Shefine",
   "addressee_title": "Директор по международным связям и партнёрству",
-  "salutation": "Dear Dr. Bethel,"
+  "salutation": "Dear Dr. Bethel,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Ethiopia",
@@ -1217,7 +1275,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations and Partnerships,",
-  "recheck_ru": "04.10.2026: jju.edu.et по-прежнему перенаправляет на страницу блокировки хостинга (technobros.au/blocked.html); данные не изменены"
+  "recheck_ru": "04.10.2026: jju.edu.et по-прежнему перенаправляет на страницу блокировки хостинга (technobros.au/blocked.html); данные не изменены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Ethiopia",
@@ -1256,7 +1316,9 @@
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations and Partnership,"
+  "salutation": "Dear Director of International Relations and Partnership,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Ethiopia",
@@ -1295,7 +1357,9 @@
   "mailbox_owner": "Дирекция исследований, международных связей и партнёрств (RIRPD)",
   "addressee_name": "Asst. Prof. Anteneh Fikrie",
   "addressee_title": "Директор Дирекции исследований, международных связей и партнёрств",
-  "salutation": "Dear Mr. Anteneh,"
+  "salutation": "Dear Mr. Anteneh,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Ethiopia",
@@ -1334,7 +1398,9 @@
   "mailbox_owner": "Офис международных партнёрств (International Partnership Office)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations and Partnerships,"
+  "salutation": "Dear Director of International Relations and Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Ethiopia",
@@ -1373,7 +1439,9 @@
   "mailbox_owner": "Исполнительный офис по связям с общественностью и международным отношениям (Public and International Relations Executive)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of Public and International Relations,"
+  "salutation": "Dear Director of Public and International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Ethiopia",
@@ -1414,7 +1482,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations and Partnerships,",
-  "recheck_ru": "Сайты ecsu.edu.et / epsu.edu.et по-прежнему недоступны (04.10.2026); в списке университетов на moe.gov.et вуз не значится; данные не изменены."
+  "recheck_ru": "Сайты ecsu.edu.et / epsu.edu.et по-прежнему недоступны (04.10.2026); в списке университетов на moe.gov.et вуз не значится; данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Ethiopia",
@@ -1454,7 +1524,9 @@
   "mailbox_owner": "Дирекция исследований, интернационализации и партнёрств",
   "addressee_name": "Dr. Tesfalem Atnafu",
   "addressee_title": "Директор Дирекции исследований, интернационализации и партнёрств",
-  "salutation": "Dear Dr. Tesfalem,"
+  "salutation": "Dear Dr. Tesfalem,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Ethiopia",
@@ -1494,7 +1566,9 @@
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of Public and International Relations,"
+  "salutation": "Dear Director of Public and International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Ethiopia",
@@ -1535,7 +1609,9 @@
   "mailbox_owner": "Исполнительный офис по связям с общественностью и международным отношениям (Public & International Relations Executive Office)",
   "addressee_name": "Dr. Gessesse Nigusse Abebe",
   "addressee_title": "Исполнительный директор по связям с общественностью и международным отношениям",
-  "salutation": "Dear Dr. Gessesse,"
+  "salutation": "Dear Dr. Gessesse,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Ethiopia",
@@ -1575,7 +1651,9 @@
   "mailbox_owner": "Общий адрес университета",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations and Partnerships,"
+  "salutation": "Dear Director of International Relations and Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Ethiopia",
@@ -1614,6 +1692,8 @@
   "mailbox_owner": "Исполнительный офис по связям с общественностью и международным отношениям",
   "addressee_name": "Dr. Yeshimebet Bogale",
   "addressee_title": "Исполнительный директор по связям с общественностью и международным отношениям",
-  "salutation": "Dear Dr. Yeshimebet,"
+  "salutation": "Dear Dr. Yeshimebet,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  }
 ]

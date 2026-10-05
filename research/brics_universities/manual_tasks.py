@@ -22,6 +22,7 @@ BLOCK = re.compile(r"недоступ|503|403|412|заблок|сброс|Cloudf
                    r"anti-bot|антибот|блокир|Incapsula|firewall|файрвол", re.I)
 BOT = re.compile(r"Cloudflare|антибот|anti-bot|403|412|Incapsula|firewall|файрвол|блокир", re.I)
 FILL = PatternFill("solid", fgColor="FFF2CC")
+CLOSED = re.compile(r"закрыт|ликвидир|объедин|присоедин|merged|closed|dissolved|переимен|renamed", re.I)
 HEAD = PatternFill("solid", fgColor="1F3864")
 
 
@@ -75,7 +76,8 @@ def build(out):
         "Лист «Адресаты»: вузы, где адрес для рассылки есть (или нужен), но нет имени человека, которому адресуется письмо.",
         "  Заполните ФИО, должность и обращение (на языке письма). Если e-mail другой — впишите его в колонку «E-mail».",
         "Лист «Имя под вопросом»: имя указано, но достоверность низкая или имя могло смениться — подтвердите или исправьте.",
-        "Лист «Сайты не открылись»: сайты, которые не открылись из нашей среды. Откройте и впишите ректора, адрес, e-mail, телефон.",
+        "Лист «Ящик и имя не стыкуются»: ящик похож на личный/служебный, и имя в обращении может не совпадать с его владельцем.",
+        "Лист «Сайты не открылись» (неподтверждённые): сайты, которые не открылись из нашей среды. Откройте и заполните жёлтые колонки.",
         "",
         "Волна 1A/1B — приоритет. Ключ строки: «Страна» + «Вуз (англ.)» — не меняйте эти колонки.",
         "Пустые жёлтые ячейки игнорируются. Заполненный файл пришлите обратно — я загружу данные в базу и пересоберу таблицы.",
@@ -105,18 +107,33 @@ def build(out):
                                    "Обращение сейчас", "E-mail", "ФИО (исправленное)", "Должность (исправленная)", "Обращение (исправленное)"],
           [7, 14, 36, 28, 28, 28, 30, 30, 28, 28, 30], data, fill_cols=(9, 10, 11))
 
+    # 2b. mailbox/name mismatch
+    mism = [r for r in rows if r.get("match_status") == "ПРОВЕРИТЬ"]
+    data = [[r["wave"], COUNTRY_RU.get(r["country"], r["country"]), r["name_en"], r.get("website", ""),
+             outreach_email(r), r.get("mailbox_owner", ""), r.get("addressee_name", ""), "", "", "", ""] for r in mism]
+    sheet(wb, "Ящик и имя не стыкуются", ["Волна", "Страна", "Вуз (англ.)", "Сайт", "E-mail для рассылки", "Чей ящик",
+                                          "Адресат сейчас", "Владелец ящика (ФИО)", "Должность владельца",
+                                          "Обращение (для письма)", "E-mail (если другой)"],
+          [7, 14, 36, 28, 30, 34, 30, 28, 28, 30, 28], data, fill_cols=(8, 9, 10, 11))
+
     # 3. sites not opened
     blocked = [r for r in rows if any(BLOCK.search(n) for n in (r.get("notes_ru") or []))]
     data = []
     for r in blocked:
         kind, note = reason(r)
         data.append([r["wave"], COUNTRY_RU.get(r["country"], r["country"]), r["name_en"], r.get("website", ""), kind,
-                     note, r.get("head_name", ""), outreach_email(r), "", "", "", ""])
+                     note, r.get("head_name", ""), outreach_email(r), r.get("addressee_name", ""),
+                     "", "", "", "", "", "", "", "", "", ""])
     sheet(wb, "Сайты не открылись", ["Волна", "Страна", "Вуз (англ.)", "Сайт", "Причина", "Что именно не вышло",
-                                     "Ректор сейчас", "E-mail сейчас", "Ректор (проверено)", "Почтовый адрес", "E-mail", "Телефон"],
-          [7, 14, 36, 28, 28, 50, 26, 28, 28, 34, 28, 18], data, fill_cols=(9, 10, 11, 12))
+                                     "Ректор сейчас", "E-mail сейчас", "Адресат сейчас",
+                                     "Ректор (проверено)", "Почтовый адрес", "E-mail общий / ректората",
+                                     "E-mail международного отдела", "Телефон", "ФИО адресата (глава междунар. отдела)",
+                                     "Должность адресата", "Обращение для письма", "Источник (URL страницы)",
+                                     "Комментарий (закрыт / объединён / сайт не открылся)"],
+          [7, 14, 36, 28, 28, 50, 26, 28, 28, 28, 34, 28, 28, 18, 30, 28, 28, 36, 40], data,
+          fill_cols=tuple(range(10, 20)))
     wb.save(out)
-    print(f"Адресаты: {len(miss)}; под вопросом: {len(doubt)}; сайты не открылись: {len(blocked)} -> {out}")
+    print(f"Адресаты: {len(miss)}; под вопросом: {len(doubt)}; ящик и имя не стыкуются: {len(mism)}; сайты не открылись: {len(blocked)} -> {out}")
 
 
 def val(ws, row, col):
@@ -137,7 +154,8 @@ def import_filled(path):
     def find(ws, row):
         return index.get((ru.get(val(ws, row, 2), val(ws, row, 2)), val(ws, row, 3)))
 
-    for title, cols in (("Адресаты", (8, 9, 10, 11)), ("Имя под вопросом", (9, 10, 11, None))):
+    for title, cols in (("Адресаты", (8, 9, 10, 11)), ("Имя под вопросом", (9, 10, 11, 12)),
+                        ("Ящик и имя не стыкуются", (8, 9, 10, 11))):
         if title not in wb.sheetnames:
             continue
         ws = wb[title]
@@ -158,6 +176,7 @@ def import_filled(path):
             if mail:
                 r["outreach_email_new"] = mail
             r["confidence"] = "high" if r.get("confidence") == "low" else r.get("confidence")
+            r["match_status"], r["match_action"] = "проверено вручную", ""
             r.setdefault("notes_ru", []).append("Адресат внесён вручную (проверено человеком)")
             n += 1
     if "Сайты не открылись" in wb.sheetnames:
@@ -166,19 +185,27 @@ def import_filled(path):
             r = find(ws, row)
             if not r:
                 continue
-            head, addr, mail, phone = (val(ws, row, c) for c in (9, 10, 11, 12))
-            if not (head or addr or mail or phone):
+            (head, addr, mail_g, mail_i, phone, aname, atitle, asal, src, comment) = (val(ws, row, c) for c in range(10, 20))
+            if not (head or addr or mail_g or mail_i or phone or aname or asal or comment):
                 continue
-            if head:
-                r["head_name"] = head
-            if addr:
-                r["postal_address"] = addr
-            if mail:
-                r["outreach_email_new"] = mail
-            if phone:
-                r["phone"] = phone
-            r["confidence"] = "high"
-            r.setdefault("notes_ru", []).append("Данные внесены вручную после проверки сайта человеком")
+            for field, v in (("head_name", head), ("postal_address", addr), ("email_general", mail_g),
+                             ("email_international", mail_i), ("phone", phone), ("addressee_name", aname),
+                             ("addressee_title", atitle), ("salutation", asal)):
+                if v:
+                    r[field] = v
+            if mail_i or mail_g:
+                r.pop("outreach_email_new", None)
+            changed = bool(head or addr or mail_g or mail_i or phone or aname)
+            if changed and src:
+                r["confidence"] = "high"
+                r["head_verified_source"] = src
+                r["sources"] = (r.get("sources", "") + "; " + src).strip("; ")
+            elif changed:
+                r["confidence"] = "medium"
+            r["match_status"], r["match_action"] = "проверено в браузере", ""
+            r.setdefault("notes_ru", []).append("Проверено вручную в браузере" + (f": {comment}" if comment else ""))
+            if comment and CLOSED.search(comment):
+                print("ПРОВЕРИТЬ (закрыт/объединён/переименован):", r["country"], r["name_en"], comment[:100])
             n += 1
     for f, d in by.items():
         json.dump(d, open(os.path.join(DATA, f + ".json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)

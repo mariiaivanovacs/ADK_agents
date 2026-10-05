@@ -39,7 +39,9 @@
   "mailbox_owner": "Управление международных связей (International Affairs Office)",
   "addressee_name": "",
   "addressee_title": "Директор Управления международных связей",
-  "salutation": "Dear Director of International Affairs,"
+  "salutation": "Dear Director of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -81,7 +83,9 @@
   "mailbox_owner": "Международный центр научного сотрудничества (International Scientific Cooperation Center)",
   "addressee_name": "Dr. Peiman Mosaddegh",
   "addressee_title": "Директор Международного центра научного сотрудничества",
-  "salutation": "Dear Dr. Mosaddegh,"
+  "salutation": "Dear Dr. Mosaddegh,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -121,7 +125,9 @@
   "mailbox_owner": "Управление международных связей (Office of International Affairs)",
   "addressee_name": "Dr. Abdolamir Allameh",
   "addressee_title": "Директор Управления международных связей",
-  "salutation": "Dear Dr. Allameh,"
+  "salutation": "Dear Dr. Allameh,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -163,7 +169,9 @@
   "addressee_name": "",
   "addressee_title": "Директор по международным делам",
   "salutation": "Dear Director of International Affairs,",
-  "recheck_ru": "04.10.2026: sums.ac.ir по-прежнему недоступен из-за пределов Ирана (прокси и WebFetch — 503); данные не изменены"
+  "recheck_ru": "04.10.2026: sums.ac.ir по-прежнему недоступен из-за пределов Ирана (прокси и WebFetch — 503); данные не изменены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -204,7 +212,9 @@
   "mailbox_owner": "Управление международных дел (مدیریت امور بین الملل)",
   "addressee_name": "Dr. Farzad Parvizpour",
   "addressee_title": "Директор Управления международных дел (доцент/استادیار, прикладные клеточные науки)",
-  "salutation": "Dear Dr. Parvizpour,"
+  "salutation": "Dear Dr. Parvizpour,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -244,7 +254,9 @@
   "mailbox_owner": "Канцелярия президента университета",
   "addressee_name": "Prof. Hossein Nezamabadi-pour",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Prof. Nezamabadi-pour,"
+  "salutation": "Dear Prof. Nezamabadi-pour,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Iran",
@@ -284,7 +296,9 @@
   "mailbox_owner": "Управление международных дел и иностранных студентов (مدیریت امور بین‌الملل و دانشجویان غیرایرانی)",
   "addressee_name": "Arash Khosravi",
   "addressee_title": "Директор Управления международных дел и глава консульской службы для иностранных студентов",
-  "salutation": "Dear Mr. Khosravi,"
+  "salutation": "Dear Mr. Khosravi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -326,7 +340,9 @@
   "addressee_name": "",
   "addressee_title": "Директор по международному научному сотрудничеству",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "Сайты umz.ac.ir / en.umz.ac.ir / foreign.umz.ac.ir по-прежнему недоступны (04.10.2026, сброс соединения); данные не изменены."
+  "recheck_ru": "Сайты umz.ac.ir / en.umz.ac.ir / foreign.umz.ac.ir по-прежнему недоступны (04.10.2026, сброс соединения); данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -367,7 +383,9 @@
   "mailbox_owner": "Управление научного и международного сотрудничества (اداره همکاری‌های علمی و بین‌المللی)",
   "addressee_name": "Dr. Hossein Torabzadeh Khorasani",
   "addressee_title": "Директор Управления научного и международного сотрудничества",
-  "salutation": "Dear Dr. Torabzadeh Khorasani,"
+  "salutation": "Dear Dr. Torabzadeh Khorasani,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -406,7 +424,9 @@
   "mailbox_owner": "Управление международного научного сотрудничества и иностранных студентов",
   "addressee_name": "Dr. Shahab Moradkhani",
   "addressee_title": "Директор по международному научному сотрудничеству и делам иностранных студентов (доцент)",
-  "salutation": "Dear Dr. Moradkhani,"
+  "salutation": "Dear Dr. Moradkhani,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -447,7 +467,9 @@
   "mailbox_owner": "Офис научного и международного сотрудничества (دفتر همکاری‌های علمی بین‌المللی)",
   "addressee_name": "",
   "addressee_title": "Директор Офиса научного и международного сотрудничества",
-  "salutation": "Dear Director of International Scientific Cooperation,"
+  "salutation": "Dear Director of International Scientific Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -487,7 +509,9 @@
   "mailbox_owner": "Управление международного научного сотрудничества (مدیریت همکاری‌های علمی بین‌المللی)",
   "addressee_name": "Dr. Babak Seif",
   "addressee_title": "Директор Управления международного научного сотрудничества",
-  "salutation": "Dear Dr. Seif,"
+  "salutation": "Dear Dr. Seif,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -529,7 +553,9 @@
   "addressee_name": "",
   "addressee_title": "Директор по международному научному сотрудничеству",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "Сайт недоступен; данные не изменены."
+  "recheck_ru": "Сайт недоступен; данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -571,7 +597,9 @@
   "addressee_name": "",
   "addressee_title": "Директор по международному научному сотрудничеству",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "Сайт qut.ac.ir (и en.) недоступен из нашей сети (curl/WebFetch 503) 04.10.2026; данные не изменены."
+  "recheck_ru": "Сайт qut.ac.ir (и en.) недоступен из нашей сети (curl/WebFetch 503) 04.10.2026; данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -613,7 +641,9 @@
   "addressee_name": "",
   "addressee_title": "Директор по международному научному сотрудничеству",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "04.10.2026: scu.ac.ir недоступен (сброс соединения); поиск по-прежнему указывает А.-Х. Хосейнзаде как и.о. президента — данные не изменены."
+  "recheck_ru": "04.10.2026: scu.ac.ir недоступен (сброс соединения); поиск по-прежнему указывает А.-Х. Хосейнзаде как и.о. президента — данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -655,7 +685,9 @@
   "addressee_name": "",
   "addressee_title": "Руководитель Бюро международных связей",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Сайт открыт через reader-сервис 04.10.2026: руководитель исправлен — и.о. президента (سرپرست) д-р Мохаммад Баширгонбад (новости сайта, мехр 1405 = сент.–окт. 2026); pr@malayeru.ac.ir, телефоны и адрес подтверждены на странице контактов (дата страницы 2019)."
+  "recheck_ru": "Сайт открыт через reader-сервис 04.10.2026: руководитель исправлен — и.о. президента (سرپرست) д-р Мохаммад Баширгонбад (новости сайта, мехр 1405 = сент.–окт. 2026); pr@malayeru.ac.ir, телефоны и адрес подтверждены на странице контактов (дата страницы 2019).",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -695,7 +727,9 @@
   "mailbox_owner": "Офис научного сотрудничества и международных дел",
   "addressee_name": "",
   "addressee_title": "Руководитель Офиса научного сотрудничества и международных дел",
-  "salutation": "Dear Director of International Scientific Cooperation,"
+  "salutation": "Dear Director of International Scientific Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -737,7 +771,9 @@
   "mailbox_owner": "Управление международного научного сотрудничества (Office of International Affairs)",
   "addressee_name": "",
   "addressee_title": "Руководитель управления научного и международного сотрудничества",
-  "salutation": "Dear Director of International Scientific Cooperation,"
+  "salutation": "Dear Director of International Scientific Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -778,7 +814,9 @@
   "mailbox_owner": "Управление международных связей (Shiraz University International Relations Office)",
   "addressee_name": "",
   "addressee_title": "Руководитель управления международного научного сотрудничества",
-  "salutation": "Dear Director of International Scientific Cooperation,"
+  "salutation": "Dear Director of International Scientific Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -820,7 +858,9 @@
   "mailbox_owner": "Управление международного научного сотрудничества",
   "addressee_name": "",
   "addressee_title": "Директор по международному научному сотрудничеству",
-  "salutation": "Dear Director of International Scientific Cooperation,"
+  "salutation": "Dear Director of International Scientific Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -863,7 +903,9 @@
   "mailbox_owner": "Управление международного научного сотрудничества",
   "addressee_name": "",
   "addressee_title": "Директор по международному научному сотрудничеству",
-  "salutation": "Dear Director of International Scientific Cooperation,"
+  "salutation": "Dear Director of International Scientific Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -906,7 +948,9 @@
   "mailbox_owner": "Проректорат по международным делам",
   "addressee_name": "Dr. Marziye Kamankesh",
   "addressee_title": "Проректор по международным делам",
-  "salutation": "Dear Dr. Kamankesh,"
+  "salutation": "Dear Dr. Kamankesh,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -948,7 +992,9 @@
   "mailbox_owner": "Управление международного научного сотрудничества",
   "addressee_name": "",
   "addressee_title": "Директор по международному научному сотрудничеству",
-  "salutation": "Dear Director of International Scientific Cooperation,"
+  "salutation": "Dear Director of International Scientific Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -993,7 +1039,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "Сайты *.ac.ir (sut.ac.ir, en.sut.ac.ir, msrt.ir) по-прежнему недоступны 04.10.2026; данные не изменены"
+  "recheck_ru": "Сайты *.ac.ir (sut.ac.ir, en.sut.ac.ir, msrt.ir) по-прежнему недоступны 04.10.2026; данные не изменены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -1035,7 +1083,9 @@
   "mailbox_owner": "Управление международных связей",
   "addressee_name": "Dr. Mohammad Taghi Alebrahim",
   "addressee_title": "Руководитель управления международных связей",
-  "salutation": "Dear Dr. Alebrahim,"
+  "salutation": "Dear Dr. Alebrahim,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -1049,7 +1099,7 @@
   "email_general": "",
   "email_international": "",
   "phone": "",
-  "website": "https://ilam.ac.ir/en/",
+  "website": "https://ilam.ac.ir/en",
   "head_name": "Dr. Homayoun Moradnezhadi",
   "head_title": "President",
   "party_secretary": "",
@@ -1079,7 +1129,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "Сайт ilam.ac.ir недоступен (04.10.2026, все варианты); официальный Telegram-канал не найден; данные не изменены"
+  "recheck_ru": "Сайт ilam.ac.ir недоступен (04.10.2026, все варианты); официальный Telegram-канал не найден; данные не изменены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -1093,7 +1145,7 @@
   "email_general": "info@sku.ac.ir",
   "email_international": "",
   "phone": "+98 38 3232 4401",
-  "website": "https://www.sku.ac.ir/en/",
+  "website": "https://www.sku.ac.ir/en",
   "head_name": "Dr. Saeed Karimi Dehkordi",
   "head_title": "President",
   "party_secretary": "",
@@ -1123,7 +1175,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "Сайт sku.ac.ir (http/https, en.) недоступен (503 / сброс соединения) — данные не изменены (04.10.2026)"
+  "recheck_ru": "Сайт sku.ac.ir (http/https, en.) недоступен (503 / сброс соединения) — данные не изменены (04.10.2026)",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -1166,7 +1220,9 @@
   "mailbox_owner": "Общая канцелярия университета",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Scientific Cooperation,"
+  "salutation": "Dear Director of International Scientific Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -1208,7 +1264,9 @@
   "mailbox_owner": "Управление международного сотрудничества",
   "addressee_name": "",
   "addressee_title": "Директор по международному сотрудничеству",
-  "salutation": "Dear Director of International Scientific Cooperation,"
+  "salutation": "Dear Director of International Scientific Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -1253,7 +1311,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "Сайт fasau.ac.ir и mehrnews.com по-прежнему недоступны; расхождение по руководителю (Бадехиян / Зареи / Фатхоллахи) не разрешено — данные не изменены"
+  "recheck_ru": "Сайт fasau.ac.ir и mehrnews.com по-прежнему недоступны; расхождение по руководителю (Бадехиян / Зареи / Фатхоллахи) не разрешено — данные не изменены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -1296,7 +1356,9 @@
   "mailbox_owner": "Управление международных дел",
   "addressee_name": "",
   "addressee_title": "Директор по международным делам",
-  "salutation": "Dear Director of International Affairs,"
+  "salutation": "Dear Director of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -1339,7 +1401,9 @@
   "mailbox_owner": "Управление научного и международного сотрудничества",
   "addressee_name": "",
   "addressee_title": "Директор по научному и международному сотрудничеству",
-  "salutation": "Dear Director of International Scientific Cooperation,"
+  "salutation": "Dear Director of International Scientific Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -1384,7 +1448,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "04.10.2026: yu.ac.ir по-прежнему недоступен (503); данные не изменены"
+  "recheck_ru": "04.10.2026: yu.ac.ir по-прежнему недоступен (503); данные не изменены",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -1429,7 +1495,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "Сайты mazust.ac.ir / en.mazust.ac.ir по-прежнему недоступны (04.10.2026, сброс соединения); данные не изменены."
+  "recheck_ru": "Сайты mazust.ac.ir / en.mazust.ac.ir по-прежнему недоступны (04.10.2026, сброс соединения); данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -1471,7 +1539,9 @@
   "mailbox_owner": "Управление (вице-президентство) международного научного сотрудничества",
   "addressee_name": "Dr. Reza Golshan Khavas",
   "addressee_title": "Директор (вице-президент) по международному научному сотрудничеству",
-  "salutation": "Dear Dr. Golshan Khavas,"
+  "salutation": "Dear Dr. Golshan Khavas,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -1510,7 +1580,9 @@
   "mailbox_owner": "Управление международного научного сотрудничества (International Academic Collaborations Directorate)",
   "addressee_name": "Dr. Saeid Shojaei",
   "addressee_title": "Директор по научному и международному сотрудничеству",
-  "salutation": "Dear Dr. Shojaei,"
+  "salutation": "Dear Dr. Shojaei,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Iran",
@@ -1549,7 +1621,9 @@
   "mailbox_owner": "Управление по международным делам (Directorate of International Affairs)",
   "addressee_name": "Dr. Elham Arkan",
   "addressee_title": "Директор Управления по международным делам",
-  "salutation": "Dear Dr. Arkan,"
+  "salutation": "Dear Dr. Arkan,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -1588,7 +1662,9 @@
   "mailbox_owner": "Управление по связям с общественностью и международным делам",
   "addressee_name": "",
   "addressee_title": "Директор по связям с общественностью и международным делам",
-  "salutation": "Dear Director of Public Relations and International Affairs,"
+  "salutation": "Dear Director of Public Relations and International Affairs,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -1628,7 +1704,9 @@
   "mailbox_owner": "Канцелярия президента и связи с общественностью (общий ящик)",
   "addressee_name": "",
   "addressee_title": "Директор Управления международных связей",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -1668,7 +1746,9 @@
   "mailbox_owner": "Канцелярия президента (общий ящик)",
   "addressee_name": "",
   "addressee_title": "Директор Управления научного и международного сотрудничества",
-  "salutation": "Dear Director of Scientific and International Cooperation,"
+  "salutation": "Dear Director of Scientific and International Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -1709,7 +1789,9 @@
   "mailbox_owner": "Управление научного и международного сотрудничества",
   "addressee_name": "Dr. Mohammad Amiryousefi",
   "addressee_title": "Директор Управления научного и международного сотрудничества",
-  "salutation": "Dear Dr. Amiryousefi,"
+  "salutation": "Dear Dr. Amiryousefi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -1749,7 +1831,9 @@
   "mailbox_owner": "Управление научного и международного сотрудничества (ISCO)",
   "addressee_name": "",
   "addressee_title": "Директор Управления научного и международного сотрудничества",
-  "salutation": "Dear Director of International Scientific Cooperation,"
+  "salutation": "Dear Director of International Scientific Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -1790,7 +1874,9 @@
   "mailbox_owner": "Управление научного и международного сотрудничества (OSIC)",
   "addressee_name": "Dr. Mohsen Hooshmand",
   "addressee_title": "Директор Управления научного и международного сотрудничества (OSIC)",
-  "salutation": "Dear Dr. Hooshmand,"
+  "salutation": "Dear Dr. Hooshmand,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -1832,7 +1918,9 @@
   "addressee_name": "",
   "addressee_title": "Директор Управления научного и международного сотрудничества",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "Сайт недоступен; руководитель Али Басти внесён по поисковому индексу официальной страницы (с 08.2025, возможно врио), контакты не найдены."
+  "recheck_ru": "Сайт недоступен; руководитель Али Басти внесён по поисковому индексу официальной страницы (с 08.2025, возможно врио), контакты не найдены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -1874,7 +1962,9 @@
   "addressee_name": "",
   "addressee_title": "Директор Управления научного и международного сотрудничества",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "Сайт usb.ac.ir (и en.) недоступен из нашей сети (curl/WebFetch 503) 04.10.2026; данные не изменены."
+  "recheck_ru": "Сайт usb.ac.ir (и en.) недоступен из нашей сети (curl/WebFetch 503) 04.10.2026; данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -1918,7 +2008,9 @@
   "addressee_name": "",
   "addressee_title": "Директор Управления международного научного сотрудничества",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "04.10.2026: pnu.ac.ir недоступен (сброс соединения); руководитель не подтверждён — данные не изменены."
+  "recheck_ru": "04.10.2026: pnu.ac.ir недоступен (сброс соединения); руководитель не подтверждён — данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -1961,7 +2053,9 @@
   "addressee_name": "",
   "addressee_title": "Директор Управления научного и международного сотрудничества",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "Сайт kgut.ac.ir (www и без www) недоступен — ERR_CONNECTION_REFUSED через reader-сервис, сброс через прокси (04.10.2026); данные не изменены."
+  "recheck_ru": "Сайт kgut.ac.ir (www и без www) недоступен — ERR_CONNECTION_REFUSED через reader-сервис, сброс через прокси (04.10.2026); данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -2005,7 +2099,9 @@
   "addressee_name": "",
   "addressee_title": "Директор по международному научному сотрудничеству",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "Сайт hmu.ac.ir (включая en.) по-прежнему недоступен 04.10.2026; данные не изменены"
+  "recheck_ru": "Сайт hmu.ac.ir (включая en.) по-прежнему недоступен 04.10.2026; данные не изменены",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -2045,7 +2141,9 @@
   "mailbox_owner": "Отдел научного и международного сотрудничества",
   "addressee_name": "Dr. Hassan Bashiri",
   "addressee_title": "Руководитель Отдела научного и международного сотрудничества",
-  "salutation": "Dear Dr. Bashiri,"
+  "salutation": "Dear Dr. Bashiri,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -2085,7 +2183,9 @@
   "mailbox_owner": "Управление канцелярии президента, связей с общественностью и международных дел",
   "addressee_name": "Dr. Moslem Moghbeli Damaneh",
   "addressee_title": "Руководитель канцелярии президента, PR и международных дел",
-  "salutation": "Dear Dr. Moghbeli Damaneh,"
+  "salutation": "Dear Dr. Moghbeli Damaneh,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -2099,7 +2199,7 @@
   "email_general": "",
   "email_international": "",
   "phone": "+98 21 8888 1003",
-  "website": "https://www.kntu.ac.ir (EN: https://en.kntu.ac.ir)",
+  "website": "https://www.kntu.ac.ir",
   "head_name": "Prof. Hamid Reza Taghirad",
   "head_title": "President",
   "party_secretary": "",
@@ -2121,12 +2221,15 @@
    "Президент проф. Хамид-Реза Тагирад (с осени 2024 г.; фото и биография на официальном сайте). Сведения английской Википедии (Amir Reza Shahani) устарели.",
    "Общий e-mail и e-mail международного отдела на сайте не опубликованы (только телефон +98 21 8888 1003); сайт ia.kntu.ac.ir недоступен. Рекомендуется найти адрес через канал CONNECT или запрос по телефону.",
    "Данные о выведенных на орбиту спутниках KNTU не подтверждены (Saar — только планы, источник без ссылки); в nanosats.csv KNTU нет.",
-   "Прямой доступ к сайтам .ac.ir заблокирован, данные получены через r.jina.ai-зеркало официальных страниц; web search был недоступен (исчерпан лимит)."
+   "Прямой доступ к сайтам .ac.ir заблокирован, данные получены через r.jina.ai-зеркало официальных страниц; web search был недоступен (исчерпан лимит).",
+   "Дополнительные сайты: https://en.kntu.ac.ir"
   ],
   "mailbox_owner": "Управление международных связей (International Affairs Office)",
   "addressee_name": "Dr. Hadi Aliakbarian",
   "addressee_title": "Проректор по глобальным стратегиям и международным делам (Vice Chancellor for Global Strategies and International Affairs)",
-  "salutation": "Dear Dr. Aliakbarian,"
+  "salutation": "Dear Dr. Aliakbarian,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -2140,7 +2243,7 @@
   "email_general": "pr@um.ac.ir",
   "email_international": "",
   "phone": "+98 51 3880 2000",
-  "website": "https://www.um.ac.ir (EN: https://en.um.ac.ir)",
+  "website": "https://www.um.ac.ir",
   "head_name": "Prof. Abdolreza Javan Jafari Bojnordi",
   "head_title": "President",
   "party_secretary": "",
@@ -2161,12 +2264,15 @@
    "САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения.",
    "email_general — адрес отдела по связям с общественностью (pr@um.ac.ir), опубликован на странице президента; адрес Управления международного научного сотрудничества (intr.um.ac.ir) получить не удалось — сайт недоступен.",
    "Страница президента опубликована в 2021 г., но на 10.2026 по-прежнему указывает проф. Джаван-Джафари Боджнорди; на главной новости 2026 г. упоминают «президента университета» без имени — желательно перепроверить.",
-   "Космическая деятельность (спутники, наземные станции) по доступным источникам не выявлена; углублённая проверка невозможна — web search исчерпан, en.um.ac.ir недоступен."
+   "Космическая деятельность (спутники, наземные станции) по доступным источникам не выявлена; углублённая проверка невозможна — web search исчерпан, en.um.ac.ir недоступен.",
+   "Дополнительные сайты: https://en.um.ac.ir"
   ],
   "mailbox_owner": "Отдел по связям с общественностью (Public Relations Office); письмо просить переслать в Управление международного научного сотрудничества",
   "addressee_name": "",
   "addressee_title": "Директор Управления международного научного сотрудничества",
-  "salutation": "Dear Director of International Scientific Cooperation,"
+  "salutation": "Dear Director of International Scientific Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -2180,7 +2286,7 @@
   "email_general": "Gsia@tums.ac.ir",
   "email_international": "tums-intl-relations@tums.ac.ir",
   "phone": "+98 21 8889 6690",
-  "website": "https://tums.ac.ir (EN: https://en.tums.ac.ir)",
+  "website": "https://tums.ac.ir",
   "head_name": "Dr. Seyed Reza Raeeskarami",
   "head_title": "Chancellor (President)",
   "party_secretary": "",
@@ -2202,12 +2308,15 @@
    "Медицинский университет (Минздрав) — профиль далёк от космической тематики; для проекта CubeSat релевантны разве что космическая медицина / биология.",
    "email_general (Gsia@tums.ac.ir) — общий контакт английского сайта; e-mail международного отдела — tums-intl-relations@tums.ac.ir (Directorate of International Relations, тел. +98 21 8880 0332).",
    "Руководитель Директората международных связей Dr. Marjan Yaghmaie указан на странице, обновлённой 12.09.2023 — актуальность на 2026 г. не подтверждена.",
-   "Ректор Dr. Seyed Reza Raeeskarami — страница обновлена 05.01.2026."
+   "Ректор Dr. Seyed Reza Raeeskarami — страница обновлена 05.01.2026.",
+   "Дополнительные сайты: https://en.tums.ac.ir"
   ],
   "mailbox_owner": "Директорат международных связей (Directorate of International Relations)",
   "addressee_name": "Dr. Marjan Yaghmaie",
   "addressee_title": "Директор Директората международных связей",
-  "salutation": "Dear Dr. Yaghmaie,"
+  "salutation": "Dear Dr. Yaghmaie,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -2221,7 +2330,7 @@
   "email_general": "info@iums.ac.ir",
   "email_international": "intl@iums.ac.ir",
   "phone": "+98 21 8670 2030",
-  "website": "https://iums.ac.ir (EN: https://en.iums.ac.ir)",
+  "website": "https://iums.ac.ir",
   "head_name": "Dr. Nader Tavakoli",
   "head_title": "Chancellor (President)",
   "party_secretary": "",
@@ -2242,12 +2351,15 @@
    "САНКЦИИ: В загруженных списках (US CSL/Entity List, OFAC SDN, EU consolidated, UK Sanctions List, версии на 10.2026) университет как организация НЕ найден; общий страновой санкционный режим в отношении Ирана сохраняется — требуется комплаенс-проверка до отправки приглашения.",
    "Медицинский университет (Минздрав) — профиль далёк от космической тематики.",
    "Ректор Dr. Nader Tavakoli подтверждён на сайте канцелярии ректора (chancellor.iums.ac.ir, новости 2026 г.); англ. Википедия (Abdolreza Pazouki) устарела.",
-   "Проректор по международным делам Mehdi Moghtadaei, MD указан на странице с фото 2023 г. — актуальность на 2026 г. не подтверждена. Телефон +98 21 8670 2030 — международный офис; коммутатор 021-86709."
+   "Проректор по международным делам Mehdi Moghtadaei, MD указан на странице с фото 2023 г. — актуальность на 2026 г. не подтверждена. Телефон +98 21 8670 2030 — международный офис; коммутатор 021-86709.",
+   "Дополнительные сайты: https://en.iums.ac.ir"
   ],
   "mailbox_owner": "Офис проректора по международным делам (Office of Vice President for International Affairs)",
   "addressee_name": "Dr. Mehdi Moghtadaei",
   "addressee_title": "Проректор по международным делам, декан Международного кампуса",
-  "salutation": "Dear Dr. Moghtadaei,"
+  "salutation": "Dear Dr. Moghtadaei,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -2291,7 +2403,9 @@
   "addressee_name": "",
   "addressee_title": "Директор Управления международного научного сотрудничества",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "Сайт gau.ac.ir недоступен (503 / сброс соединения) — данные не изменены (04.10.2026)"
+  "recheck_ru": "Сайт gau.ac.ir недоступен (503 / сброс соединения) — данные не изменены (04.10.2026)",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -2334,7 +2448,9 @@
   "addressee_name": "",
   "addressee_title": "Директор Управления международного научного сотрудничества",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "Президент д-р Хамид Тахери подтверждён официальным Telegram-каналом IKIU (сентябрь 2026; утверждён ВСКР 03.08.2025); сайт по-прежнему недоступен — e-mail и телефон не найдены"
+  "recheck_ru": "Президент д-р Хамид Тахери подтверждён официальным Telegram-каналом IKIU (сентябрь 2026; утверждён ВСКР 03.08.2025); сайт по-прежнему недоступен — e-mail и телефон не найдены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -2375,7 +2491,9 @@
   "mailbox_owner": "Управление международного научного сотрудничества (International Scientific Cooperation Office)",
   "addressee_name": "",
   "addressee_title": "Директор Управления международного научного сотрудничества",
-  "salutation": "Dear Director of International Scientific Cooperation,"
+  "salutation": "Dear Director of International Scientific Cooperation,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -2389,7 +2507,7 @@
   "email_general": "",
   "email_international": "",
   "phone": "+98 21 4839 0000",
-  "website": "https://atu.ac.ir (EN: https://en.atu.ac.ir)",
+  "website": "https://atu.ac.ir",
   "head_name": "Dr. Shoja Ahmadvand",
   "head_title": "President",
   "party_secretary": "",
@@ -2413,13 +2531,16 @@
    "Гуманитарный профиль (экономика, право, менеджмент) — для CubeSat-проекта релевантен разве что в части космического права/политики.",
    "Телефон +98 21 4839 0000 — по uniRank (вторичный источник). E-mail не найдены.",
    "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0.",
-   "Перепроверка: 04.10.2026: atu.ac.ir / en.atu.ac.ir по-прежнему недоступны (503 / нет соединения); данные не изменены"
+   "Перепроверка: 04.10.2026: atu.ac.ir / en.atu.ac.ir по-прежнему недоступны (503 / нет соединения); данные не изменены",
+   "Дополнительные сайты: https://en.atu.ac.ir"
   ],
   "mailbox_owner": "Управление международного научного сотрудничества (International Scientific Cooperation Office)",
   "addressee_name": "",
   "addressee_title": "Директор Управления международного научного сотрудничества",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "04.10.2026: atu.ac.ir / en.atu.ac.ir по-прежнему недоступны (503 / нет соединения); данные не изменены"
+  "recheck_ru": "04.10.2026: atu.ac.ir / en.atu.ac.ir по-прежнему недоступны (503 / нет соединения); данные не изменены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -2433,7 +2554,7 @@
   "email_general": "",
   "email_international": "",
   "phone": "",
-  "website": "https://iau.ir (also www.iau.ac.ir); International: https://intl.iau.ir",
+  "website": "https://iau.ir",
   "head_name": "Dr. Bijan Ranjbar",
   "head_title": "President",
   "party_secretary": "",
@@ -2456,13 +2577,16 @@
    "Президент Bijan Ranjbar избран Советом попечителей 06.10.2025 (агентство ANA).",
    "Для приглашения, вероятно, разумнее адресоваться к конкретному филиалу с инженерным/аэрокосмическим профилем (например, Science and Research Branch, Тегеран) — не проверено.",
    "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0.",
-   "Перепроверка: Сайты iau.ir / iau.ac.ir по-прежнему недоступны (04.10.2026, сброс соединения); сайт MSRT также недоступен; данные не изменены."
+   "Перепроверка: Сайты iau.ir / iau.ac.ir по-прежнему недоступны (04.10.2026, сброс соединения); сайт MSRT также недоступен; данные не изменены.",
+   "Дополнительные сайты: https://intl.iau.ir"
   ],
   "mailbox_owner": "Управление международного научного сотрудничества (International Office, intl.iau.ir)",
   "addressee_name": "",
   "addressee_title": "Директор Управления международного сотрудничества",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "Сайты iau.ir / iau.ac.ir по-прежнему недоступны (04.10.2026, сброс соединения); сайт MSRT также недоступен; данные не изменены."
+  "recheck_ru": "Сайты iau.ir / iau.ac.ir по-прежнему недоступны (04.10.2026, сброс соединения); сайт MSRT также недоступен; данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -2502,7 +2626,9 @@
   "mailbox_owner": "Группа международного научного сотрудничества (International Scientific Cooperation Group)",
   "addressee_name": "",
   "addressee_title": "Руководитель группы международного научного сотрудничества",
-  "salutation": "Dear Director of International Scientific Cooperation,"
+  "salutation": "Dear Director of International Scientific Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -2516,7 +2642,7 @@
   "email_general": "info@du.ac.ir",
   "email_international": "intl@du.ac.ir",
   "phone": "+98 23 3117 0000",
-  "website": "https://du.ac.ir (EN: https://du.ac.ir/en)",
+  "website": "https://du.ac.ir",
   "head_name": "Prof. Reza Pourgholi",
   "head_title": "President",
   "party_secretary": "",
@@ -2538,12 +2664,15 @@
    "Президент проф. Реза Пургхоли (pourgholi@du.ac.ir; страница отредактирована 07.07.1404 / сент. 2025). Англ. Википедия (S. Saeedorreza Eslami) устарела.",
    "Международный отдел: intl@du.ac.ir, тел. +98 23 3117 6666 (обновлено 16.09.2025). Имя директора международного отдела на странице дано только в фото (имя файла «dr-kolahi-azar») — текстом не подтверждено, поэтому addressee не заполнен.",
    "Почтовый индекс в оригинале записан как 45667-36716 (персидская запись справа налево) — нормализован как 36716-45667; уточнить.",
-   "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0."
+   "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0.",
+   "Дополнительные сайты: https://du.ac.ir/en"
   ],
   "mailbox_owner": "Управление международных связей (Office of International Affairs)",
   "addressee_name": "",
   "addressee_title": "Директор Управления международных связей",
-  "salutation": "Dear Director of International Affairs,"
+  "salutation": "Dear Director of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -2557,7 +2686,7 @@
   "email_general": "",
   "email_international": "",
   "phone": "+98 56 3102 0000",
-  "website": "https://birjand.ac.ir (EN: https://en.birjand.ac.ir)",
+  "website": "https://birjand.ac.ir",
   "head_name": "Dr. Ahmad Khamesan",
   "head_title": "Acting President (Сарпараст)",
   "party_secretary": "",
@@ -2579,12 +2708,15 @@
    "Dr. Ahmad Khamesan — «сарпараст» (исполняющий обязанности президента) по новости офиса международного сотрудничества (2026 г.).",
    "E-mail на сайте выводится картинкой (защита от спама) — адреса извлечь не удалось. Тел. Управления международного научного сотрудничества: +98 56 3102 1040 (факс +98 56 3220 2009).",
    "Имя директора Управления международного научного сотрудничества на доступных страницах не указано.",
-   "Быстрая проверка спутников: web search исчерпан; в nanosats.csv и Википедии (ISA) университет не упоминается — 0."
+   "Быстрая проверка спутников: web search исчерпан; в nanosats.csv и Википедии (ISA) университет не упоминается — 0.",
+   "Дополнительные сайты: https://en.birjand.ac.ir"
   ],
   "mailbox_owner": "Управление международного научного сотрудничества (International Scientific Cooperation Office)",
   "addressee_name": "",
   "addressee_title": "Директор Управления международного научного сотрудничества",
-  "salutation": "Dear Director of International Scientific Cooperation,"
+  "salutation": "Dear Director of International Scientific Cooperation,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -2598,7 +2730,7 @@
   "email_general": "info@kut.ac.ir",
   "email_international": "",
   "phone": "+98 83 3830 5002",
-  "website": "https://kut.ac.ir (EN: https://kut.ac.ir/en)",
+  "website": "https://kut.ac.ir",
   "head_name": "Dr. Hamed Rashidi",
   "head_title": "President",
   "party_secretary": "",
@@ -2621,12 +2753,15 @@
    "Президент Dr. Hamed Rashidi (доцент кафедры химической инженерии; назначен и.о. в марте 2025 г., на сайте 2026 г. — President).",
    "Международные дела объединены с офисом президента и PR: «دفتر ریاست، روابط عمومی و امور بین الملل», руководитель — Dr. Sajjad Rasaei; отдельного e-mail международного отдела нет, используется info@kut.ac.ir.",
    "profile_type «technical/aerospace» означает технический университет; аэрокосмических подразделений не выявлено.",
-   "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0."
+   "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0.",
+   "Дополнительные сайты: https://kut.ac.ir/en"
   ],
   "mailbox_owner": "Офис президента, по связям с общественностью и международным делам",
   "addressee_name": "Dr. Sajjad Rasaei",
   "addressee_title": "Руководитель Офиса президента, по связям с общественностью и международным делам",
-  "salutation": "Dear Dr. Rasaei,"
+  "salutation": "Dear Dr. Rasaei,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -2640,7 +2775,7 @@
   "email_general": "info@usc.ac.ir",
   "email_international": "",
   "phone": "+98 21 4425 0414",
-  "website": "https://usc.ac.ir (EN: https://en.usc.ac.ir)",
+  "website": "https://usc.ac.ir",
   "head_name": "Dr. Mohammad Imani Khoshkhoo",
   "head_title": "President",
   "party_secretary": "",
@@ -2662,12 +2797,15 @@
    "THE2027 — статус Reporter (без ранга), rank_the пуст.",
    "Негосударственный некоммерческий университет, учреждённый Академическим центром образования, культуры и исследований (ACECR); научные учёные звания президента и директора не указаны — используется «Dr.»",
    "Отдельный e-mail международного офиса не найден; Генеральный директорат международного сотрудничества — директор Ali Saadollah (вн. тел. 618 по справочнику сайта). Письмо на info@usc.ac.ir с просьбой переадресовать.",
-   "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0."
+   "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0.",
+   "Дополнительные сайты: https://en.usc.ac.ir"
   ],
   "mailbox_owner": "Общий ящик университета; адресат — Генеральный директорат международного сотрудничества",
   "addressee_name": "Dr. Ali Saadollah",
   "addressee_title": "Генеральный директор по международному сотрудничеству",
-  "salutation": "Dear Dr. Saadollah,"
+  "salutation": "Dear Dr. Saadollah,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -2681,7 +2819,7 @@
   "email_general": "info@birjandut.ac.ir",
   "email_international": "",
   "phone": "+98 56 3239 1000",
-  "website": "https://birjandut.ac.ir (EN: https://birjandut.ac.ir/en)",
+  "website": "https://birjandut.ac.ir",
   "head_name": "Dr. Abbasali Rezapour",
   "head_title": "President",
   "party_secretary": "",
@@ -2703,12 +2841,15 @@
    "Президент Dr. Abbasali Rezapour переназначен на 4 года министром науки (новость агентства ANA от 08.09.2026).",
    "Есть Офис международного научного сотрудничества (isc.birjandut.ac.ir), но e-mail и руководитель не опубликованы; использовать info@birjandut.ac.ir. Индекс: 9719866981 (англ. страница) / 9719866989 (перс. страница) — уточнить.",
    "main_fields составлены по списку групп/кафедр из фа-Википедии и сайта — уровень уверенности средний.",
-   "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0."
+   "Быстрая проверка спутников: web search в сессии исчерпан; в nanosats.csv (nation=Iran) и списке спутников ISA в Википедии университет не упоминается — 0.",
+   "Дополнительные сайты: https://birjandut.ac.ir/en"
   ],
   "mailbox_owner": "Общий ящик университета; адресат — Офис международного научного сотрудничества",
   "addressee_name": "",
   "addressee_title": "Директор Офиса международного научного сотрудничества",
-  "salutation": "Dear Director of International Scientific Cooperation,"
+  "salutation": "Dear Director of International Scientific Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -2752,7 +2893,9 @@
   "addressee_name": "",
   "addressee_title": "Директор Управления международного научного сотрудничества",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "Сайт и иранские источники недоступны; данные не изменены."
+  "recheck_ru": "Сайт и иранские источники недоступны; данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -2794,7 +2937,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "Официальный сайт по-прежнему не найден; данные не изменены."
+  "recheck_ru": "Официальный сайт по-прежнему не найден; данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -2836,7 +2981,9 @@
   "mailbox_owner": "Управление (вице-президентство) по международным делам",
   "addressee_name": "Dr. Saeed Hamzeh",
   "addressee_title": "Вице-президент по международным делам (доцент)",
-  "salutation": "Dear Dr. Hamzeh,"
+  "salutation": "Dear Dr. Hamzeh,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -2879,7 +3026,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "Сайт isrc.ac.ir недоступен (504 Gateway Timeout, в т.ч. через reader-сервис, 04.10.2026); данные не изменены."
+  "recheck_ru": "Сайт isrc.ac.ir недоступен (504 Gateway Timeout, в т.ч. через reader-сервис, 04.10.2026); данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -2918,7 +3067,9 @@
   "mailbox_owner": "Группа научного и международного сотрудничества",
   "addressee_name": "Dr. Omid Bushehrian",
   "addressee_title": "Руководитель группы научного и международного сотрудничества",
-  "salutation": "Dear Dr. Bushehrian,"
+  "salutation": "Dear Dr. Bushehrian,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -2958,7 +3109,9 @@
   "mailbox_owner": "Управление международных дел (Directorate of International Affairs)",
   "addressee_name": "",
   "addressee_title": "Директор Управления международных дел",
-  "salutation": "Dear Director of International Affairs,"
+  "salutation": "Dear Director of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -2998,7 +3151,9 @@
   "mailbox_owner": "Управление научного и международного сотрудничества",
   "addressee_name": "Dr. Mohammad Najjarzadeh",
   "addressee_title": "Директор Управления научного и международного сотрудничества",
-  "salutation": "Dear Dr. Najjarzadeh,"
+  "salutation": "Dear Dr. Najjarzadeh,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -3039,7 +3194,9 @@
   "mailbox_owner": "Общий ящик университета (info@khu.ac.ir); адресат — Центр международных связей",
   "addressee_name": "Dr. Ali Tahaei",
   "addressee_title": "И.о. руководителя Центра международных связей",
-  "salutation": "Dear Dr. Tahaei,"
+  "salutation": "Dear Dr. Tahaei,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -3082,7 +3239,9 @@
   "addressee_name": "",
   "addressee_title": "Руководитель Группы научного и международного сотрудничества",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "04.10.2026: maragheh.ac.ir недоступен (сброс соединения); найдено вероятное имя руководителя (Р. Маруфи-Азар) только в поисковой выдаче — поля не изменены."
+  "recheck_ru": "04.10.2026: maragheh.ac.ir недоступен (сброс соединения); найдено вероятное имя руководителя (Р. Маруфи-Азар) только в поисковой выдаче — поля не изменены.",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -3124,7 +3283,9 @@
   "addressee_name": "",
   "addressee_title": "Руководитель Управления международного сотрудничества",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "Сайты azaruniv.ac.ir и en.azaruniv.ac.ir недоступны (таймаут через прокси и reader-сервис, 04.10.2026); данные не изменены."
+  "recheck_ru": "Сайты azaruniv.ac.ir и en.azaruniv.ac.ir недоступны (таймаут через прокси и reader-сервис, 04.10.2026); данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -3164,7 +3325,9 @@
   "mailbox_owner": "Канцелярия президента (Office of the President)",
   "addressee_name": "",
   "addressee_title": "Руководитель Группы международного научного сотрудничества",
-  "salutation": "Dear Director of International Scientific Cooperation,"
+  "salutation": "Dear Director of International Scientific Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -3206,7 +3369,9 @@
   "mailbox_owner": "Управление международного научного сотрудничества",
   "addressee_name": "Dr. Nadia Mahmoudi Khatir",
   "addressee_title": "Директор Управления международного научного сотрудничества (доцент)",
-  "salutation": "Dear Dr. Mahmoudi Khatir,"
+  "salutation": "Dear Dr. Mahmoudi Khatir,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -3246,7 +3411,9 @@
   "mailbox_owner": "Управление международного научного сотрудничества (ISCO)",
   "addressee_name": "Dr. Sajad Kiani",
   "addressee_title": "Директор Управления международного научного сотрудничества",
-  "salutation": "Dear Dr. Kiani,"
+  "salutation": "Dear Dr. Kiani,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Iran",
@@ -3290,7 +3457,9 @@
   "addressee_name": "Dr. Somayeh Rahaei",
   "addressee_title": "И.о. руководителя Офиса президента, PR и международных отношений",
   "salutation": "Dear Dr. Rahaei,",
-  "recheck_ru": "Сайт ausmt.ac.ir по-прежнему недоступен 04.10.2026; данные не изменены"
+  "recheck_ru": "Сайт ausmt.ac.ir по-прежнему недоступен 04.10.2026; данные не изменены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -3331,7 +3500,9 @@
   "mailbox_owner": "Общий ящик университета (info@put.ac.ir)",
   "addressee_name": "",
   "addressee_title": "Вице-президент по международным делам",
-  "salutation": "Dear Vice President for International Affairs,"
+  "salutation": "Dear Vice President for International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -3372,7 +3543,9 @@
   "mailbox_owner": "Общий ящик университета (info@uut.ac.ir)",
   "addressee_name": "",
   "addressee_title": "Руководитель Управления международных дел",
-  "salutation": "Dear Director of International Affairs,"
+  "salutation": "Dear Director of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Iran",
@@ -3415,7 +3588,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "Через официальный Telegram-канал найден глава вуза (д-р Вашегани Фарахани, данные 11.2024, требуют проверки); сайт недоступен, контакты не найдены"
+  "recheck_ru": "Через официальный Telegram-канал найден глава вуза (д-р Вашегани Фарахани, данные 11.2024, требуют проверки); сайт недоступен, контакты не найдены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Iran",
@@ -3457,6 +3632,8 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Scientific Cooperation,",
-  "recheck_ru": "Сайт kmsu.ac.ir (с www и без) недоступен (503 / сброс соединения) — данные не изменены (04.10.2026)"
+  "recheck_ru": "Сайт kmsu.ac.ir (с www и без) недоступен (503 / сброс соединения) — данные не изменены (04.10.2026)",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  }
 ]

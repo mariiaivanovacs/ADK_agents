@@ -37,7 +37,9 @@
   "mailbox_owner": "Дирекция партнёрств ITB (Direktorat Kemitraan), отдел международного партнёрства",
   "addressee_name": "Dr. Ir. Endra Gunawan, S.T., M.Sc.",
   "addressee_title": "Директор Дирекции партнёрств",
-  "salutation": "Dear Dr. Gunawan,"
+  "salutation": "Dear Dr. Gunawan,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -79,7 +81,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Rector,",
-  "recheck_ru": "Сайт surya.ac.id повторно проверен 04.10.2026: это «Surya Academy» без руководства и контактов; данные не изменены, статус вуза не прояснён"
+  "recheck_ru": "Сайт surya.ac.id повторно проверен 04.10.2026: это «Surya Academy» без руководства и контактов; данные не изменены, статус вуза не прояснён",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Indonesia",
@@ -119,7 +123,9 @@
   "mailbox_owner": "Дирекция международного взаимодействия (Airlangga Global Engagement, AGE)",
   "addressee_name": "Irfan Wahyudi, Ph.D.",
   "addressee_title": "Директор Airlangga Global Engagement",
-  "salutation": "Dear Dr. Wahyudi,"
+  "salutation": "Dear Dr. Wahyudi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -158,7 +164,9 @@
   "mailbox_owner": "Международный офис (International Office UIN Malang)",
   "addressee_name": "",
   "addressee_title": "Руководитель международного офиса",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -198,7 +206,9 @@
   "mailbox_owner": "Центр международного сотрудничества (Pusat Layanan Kerjasama Internasional, PLKI)",
   "addressee_name": "",
   "addressee_title": "Руководитель Центра международного сотрудничества (PLKI)",
-  "salutation": "Dear Head of the International Cooperation Center,"
+  "salutation": "Dear Head of the International Cooperation Center,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -237,7 +247,9 @@
   "mailbox_owner": "Международный офис (International Office Unhas)",
   "addressee_name": "",
   "addressee_title": "Руководитель международного офиса",
-  "salutation": "Dear Director of the International Office,"
+  "salutation": "Dear Director of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -280,7 +292,9 @@
   "addressee_name": "Fitri Arofiati, Ph.D.",
   "addressee_title": "Директор по сотрудничеству и международным связям (данные 2023–2024)",
   "salutation": "Dear Dr. Arofiati,",
-  "recheck_ru": "umy.ac.id и partnership.umy.ac.id показывают проверку «Verifying you are human», поддомены dgpe./iro./international. недоступны (прокси 502) — данные не изменены (04.10.2026)"
+  "recheck_ru": "umy.ac.id и partnership.umy.ac.id показывают проверку «Verifying you are human», поддомены dgpe./iro./international. недоступны (прокси 502) — данные не изменены (04.10.2026)",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -322,7 +336,9 @@
   "addressee_name": "",
   "addressee_title": "Директор по международным делам",
   "salutation": "Dear Director of International Affairs,",
-  "recheck_ru": "Ректор проф. Didi Sukyadi, адрес и общий e-mail sekuniv_upi@upi.edu (секретариат университета) подтверждены на upi.edu 04.10.2026; dia.upi.edu по-прежнему закрыт Cloudflare"
+  "recheck_ru": "Ректор проф. Didi Sukyadi, адрес и общий e-mail sekuniv_upi@upi.edu (секретариат университета) подтверждены на upi.edu 04.10.2026; dia.upi.edu по-прежнему закрыт Cloudflare",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -363,7 +379,9 @@
   "mailbox_owner": "Офис международных связей (Kantor Urusan Internasional UNJ)",
   "addressee_name": "",
   "addressee_title": "Руководитель офиса международных связей",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -403,7 +421,9 @@
   "mailbox_owner": "Бюро планирования, сотрудничества и связей с общественностью (BPKHM)",
   "addressee_name": "",
   "addressee_title": "Руководитель Бюро планирования, сотрудничества и связей с общественностью",
-  "salutation": "Dear Head of the Bureau of Planning, Cooperation and Public Relations,"
+  "salutation": "Dear Head of the Bureau of Planning, Cooperation and Public Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -444,7 +464,9 @@
   "mailbox_owner": "Ректорат ITPLN (Rektorat)",
   "addressee_name": "Prof. Dr. Ir. Iwa Garniwa M.K., M.T.",
   "addressee_title": "Ректор",
-  "salutation": "Dear Prof. Garniwa,"
+  "salutation": "Dear Prof. Garniwa,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -484,7 +506,9 @@
   "mailbox_owner": "Общий ящик университета (info@unimus.ac.id)",
   "addressee_name": "Prof. Dr. H. Masrukhi, M.Pd.",
   "addressee_title": "Ректор",
-  "salutation": "Dear Prof. Masrukhi,"
+  "salutation": "Dear Prof. Masrukhi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -525,7 +549,9 @@
   "mailbox_owner": "Дирекция международных дел, партнёрства и выпускников (DIPA)",
   "addressee_name": "Reinard Primulando, Ph.D.",
   "addressee_title": "Директор по международным делам, сотрудничеству и выпускникам",
-  "salutation": "Dear Dr. Primulando,"
+  "salutation": "Dear Dr. Primulando,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -566,7 +592,9 @@
   "mailbox_owner": "Офис международных связей (Kantor Urusan Internasional, KUI Polinema)",
   "addressee_name": "",
   "addressee_title": "Руководитель офиса международных связей",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -608,7 +636,9 @@
   "mailbox_owner": "Международный офис (International Office Unisba)",
   "addressee_name": "drg. Siska Nia Irasanti, M.M.",
   "addressee_title": "Руководитель международного офиса",
-  "salutation": "Dear Dr. Irasanti,"
+  "salutation": "Dear Dr. Irasanti,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -649,7 +679,9 @@
   "mailbox_owner": "Общий ящик университета (info@unikom.ac.id)",
   "addressee_name": "Prof. Dr. Ir. H. Eddy Soeryanto Soegoto, M.T.",
   "addressee_title": "Ректор",
-  "salutation": "Dear Prof. Soegoto,"
+  "salutation": "Dear Prof. Soegoto,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -691,7 +723,9 @@
   "addressee_name": "Prof. Dr. I Wayan Lasmawan, M.Pd.",
   "addressee_title": "Rector, Universitas Pendidikan Ganesha",
   "salutation": "Dear Professor Lasmawan,",
-  "recheck_ru": "04.10.2026: ректор проф. И Ваян Ласмаван, адрес, телефон и e-mail подтверждены на официальном портале ppid.undiksha.ac.id"
+  "recheck_ru": "04.10.2026: ректор проф. И Ваян Ласмаван, адрес, телефон и e-mail подтверждены на официальном портале ppid.undiksha.ac.id",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -732,7 +766,9 @@
   "mailbox_owner": "Бюро академических дел, студентов и сотрудничества (Biro AKK), отдел сотрудничества",
   "addressee_name": "",
   "addressee_title": "Руководитель Бюро AKK (сотрудничество)",
-  "salutation": "Dear Head of the Bureau of Academic Affairs and Cooperation,"
+  "salutation": "Dear Head of the Bureau of Academic Affairs and Cooperation,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -772,7 +808,9 @@
   "mailbox_owner": "Международный офис (International Office Unpatti)",
   "addressee_name": "Dr. Jonny Latuny",
   "addressee_title": "Руководитель международного офиса",
-  "salutation": "Dear Dr. Latuny,"
+  "salutation": "Dear Dr. Latuny,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Indonesia",
@@ -813,7 +851,9 @@
   "mailbox_owner": "Офис международных дел (UPT International Affairs Office Unsrat)",
   "addressee_name": "Dr. Ir. Reiny A. Tumbol, M.Apps.Sc.",
   "addressee_title": "Руководитель офиса международных дел (по странице сотрудников)",
-  "salutation": "Dear Dr. Tumbol,"
+  "salutation": "Dear Dr. Tumbol,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -853,7 +893,9 @@
   "mailbox_owner": "Общий ящик университета (info@unri.ac.id); адресат — Дирекция глобальной связности (бывш. KUI)",
   "addressee_name": "Dr. Sinta Marlina, S.Pi., M.Si.",
   "addressee_title": "Директор Дирекции глобальной связности (Direktorat Konektivitas Global)",
-  "salutation": "Dear Dr. Marlina,"
+  "salutation": "Dear Dr. Marlina,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -896,7 +938,9 @@
   "addressee_name": "Prof. Dr. Syahruddin, M.Kes.",
   "addressee_title": "Vice-Rector IV for Planning and Cooperation (Wakil Rektor IV Bidang Perencanaan dan Kerja Sama)",
   "salutation": "Dear Prof. Syahruddin,",
-  "recheck_ru": "04.10.2026: на портале kerjasama.unm.ac.id подтверждены kerjasama@unm.ac.id, проректор IV по планированию и сотрудничеству Prof. Dr. Syahruddin и руководитель бюро (новости дек. 2025); ректор на доступных официальных страницах не назван, основной сайт закрыт Cloudflare."
+  "recheck_ru": "04.10.2026: на портале kerjasama.unm.ac.id подтверждены kerjasama@unm.ac.id, проректор IV по планированию и сотрудничеству Prof. Dr. Syahruddin и руководитель бюро (новости дек. 2025); ректор на доступных официальных страницах не назван, основной сайт закрыт Cloudflare.",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -935,7 +979,9 @@
   "mailbox_owner": "Офис международного взаимодействия (ITS Global Engagement)",
   "addressee_name": "Assoc. Prof. Unggul Wasiwitono",
   "addressee_title": "Директор ITS Global Engagement",
-  "salutation": "Dear Assoc. Prof. Wasiwitono,"
+  "salutation": "Dear Assoc. Prof. Wasiwitono,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -975,7 +1021,9 @@
   "mailbox_owner": "Директорат партнёрства в исследованиях и инновациях (Direktorat Kemitraan Riset dan Inovasi)",
   "addressee_name": "",
   "addressee_title": "Директор по партнёрству в исследованиях и инновациях",
-  "salutation": "Dear Director of Research and Innovation Partnership,"
+  "salutation": "Dear Director of Research and Innovation Partnership,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -1015,7 +1063,9 @@
   "mailbox_owner": "Международный офис (UPT International Academic Affairs)",
   "addressee_name": "",
   "addressee_title": "Руководитель международного офиса",
-  "salutation": "Dear Director of the International Office,"
+  "salutation": "Dear Director of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -1056,7 +1106,9 @@
   "mailbox_owner": "Офис глобального взаимодействия (BINUS Global)",
   "addressee_name": "Dr. Rini Setiowati, S.E., M.B.A.",
   "addressee_title": "Проректор по сотрудничеству и глобальному взаимодействию",
-  "salutation": "Dear Dr. Setiowati,"
+  "salutation": "Dear Dr. Setiowati,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -1096,7 +1148,9 @@
   "mailbox_owner": "Офис сотрудничества и международных дел (Kantor Kerjasama dan Urusan Internasional / UAD Global Engagement)",
   "addressee_name": "",
   "addressee_title": "Руководитель офиса международных дел",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -1136,7 +1190,9 @@
   "mailbox_owner": "Директорат партнёрства и международных дел (Office of International Affairs)",
   "addressee_name": "Cholila Tamzysi, S.T., M.Eng., Ph.D.",
   "addressee_title": "Директор по партнёрству и международным делам",
-  "salutation": "Dear Dr. Tamzysi,"
+  "salutation": "Dear Dr. Tamzysi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -1176,7 +1232,9 @@
   "mailbox_owner": "Директорат партнёрства, репутации и интернационализации (Direktorat Kerjasama, Reputasi dan Internasionalisasi)",
   "addressee_name": "Prof. Rusnardi Rahmat Putra, Ph.D.Eng.",
   "addressee_title": "Директор по партнёрству, репутации и интернационализации",
-  "salutation": "Dear Prof. Putra,"
+  "salutation": "Dear Prof. Putra,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -1215,7 +1273,9 @@
   "mailbox_owner": "Офис международных дел (International Affairs Office / Kantor Urusan Internasional)",
   "addressee_name": "Prof. Dr. Rudy Sofyan, S.S., M.Hum.",
   "addressee_title": "Руководитель Офиса международных дел",
-  "salutation": "Dear Prof. Sofyan,"
+  "salutation": "Dear Prof. Sofyan,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -1255,7 +1315,9 @@
   "mailbox_owner": "Офис международных дел (Office of International Affairs, UNESA)",
   "addressee_name": "",
   "addressee_title": "Руководитель Офиса международных дел",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -1295,7 +1357,9 @@
   "mailbox_owner": "Общая канцелярия университета (Universitas Bakrie)",
   "addressee_name": "Prof. Ir. Sofia W. Alisjahbana, M.Sc., Ph.D., IPU., ASEAN Eng.",
   "addressee_title": "Ректор",
-  "salutation": "Dear Prof. Alisjahbana,"
+  "salutation": "Dear Prof. Alisjahbana,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Indonesia",
@@ -1335,7 +1399,9 @@
   "mailbox_owner": "Офис международных отношений и партнёрства (International Relations and Partnership Office, IRPO)",
   "addressee_name": "",
   "addressee_title": "Руководитель Офиса международных отношений и партнёрства",
-  "salutation": "Dear Director of the International Relations and Partnership Office,"
+  "salutation": "Dear Director of the International Relations and Partnership Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -1375,7 +1441,9 @@
   "mailbox_owner": "Институт сотрудничества и международных дел (Lembaga Kerjasama & Urusan Internasional, LKUI)",
   "addressee_name": "",
   "addressee_title": "Руководитель Института сотрудничества и международных дел",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -1415,7 +1483,9 @@
   "mailbox_owner": "Общая служба информации университета (International Office использует общий ящик)",
   "addressee_name": "",
   "addressee_title": "Руководитель Международного офиса",
-  "salutation": "Dear Director of the International Office,"
+  "salutation": "Dear Director of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -1456,7 +1526,9 @@
   "mailbox_owner": "Офис международных связей (International Office UINSA)",
   "addressee_name": "Nabiela Naily, S.Si, MHI, MA",
   "addressee_title": "Директор Офиса международных связей",
-  "salutation": "Dear Ms. Naily,"
+  "salutation": "Dear Ms. Naily,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -1497,7 +1569,9 @@
   "mailbox_owner": "Офис международных связей (UIN SAIZU International Office)",
   "addressee_name": "",
   "addressee_title": "Руководитель Офиса международных связей",
-  "salutation": "Dear Director of the International Office,"
+  "salutation": "Dear Director of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -1538,7 +1612,9 @@
   "mailbox_owner": "Служба поддержки / общая канцелярия университета",
   "addressee_name": "Prof. Dr. Ir. Andi Adriansyah, M.Eng",
   "addressee_title": "Ректор",
-  "salutation": "Dear Prof. Adriansyah,"
+  "salutation": "Dear Prof. Adriansyah,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -1578,7 +1654,9 @@
   "mailbox_owner": "Офис международных связей (Undiknas International Office)",
   "addressee_name": "",
   "addressee_title": "Руководитель Офиса международных связей",
-  "salutation": "Dear Director of the International Office,"
+  "salutation": "Dear Director of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -1619,7 +1697,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Affairs / Lembaga Urusan Internasional)",
   "addressee_name": "Dr. Imam Wahyudi Karimullah, S.S., M.A.",
   "addressee_title": "Руководитель Офиса международных связей (Kepala LUI)",
-  "salutation": "Dear Dr. Karimullah,"
+  "salutation": "Dear Dr. Karimullah,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -1659,7 +1739,9 @@
   "mailbox_owner": "Отдел сотрудничества (Biro BAPSIK — kerjasama)",
   "addressee_name": "",
   "addressee_title": "Руководитель отдела сотрудничества",
-  "salutation": "Dear Head of the Cooperation Office,"
+  "salutation": "Dear Head of the Cooperation Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -1700,7 +1782,9 @@
   "mailbox_owner": "Общая канцелярия университета (info@undana.ac.id)",
   "addressee_name": "Prof. Dr. Jefri S. Bale, ST., M.Eng",
   "addressee_title": "Ректор",
-  "salutation": "Dear Prof. Bale,"
+  "salutation": "Dear Prof. Bale,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -1742,7 +1826,9 @@
   "addressee_name": "",
   "addressee_title": "Руководитель Офиса международных связей",
   "salutation": "Dear Director of the International Office,",
-  "recheck_ru": "Сайт закрыт Cloudflare; ректор подтверждён СМИ 2026 г. (ANTARA), контакты не изменены."
+  "recheck_ru": "Сайт закрыт Cloudflare; ректор подтверждён СМИ 2026 г. (ANTARA), контакты не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Indonesia",
@@ -1782,7 +1868,9 @@
   "mailbox_owner": "Служба связей с общественностью (Humas Universitas Khairun)",
   "addressee_name": "Prof. Dr. Abdullah W. Jabid, S.E., M.M.",
   "addressee_title": "Ректор",
-  "salutation": "Dear Prof. Jabid,"
+  "salutation": "Dear Prof. Jabid,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -1823,7 +1911,9 @@
   "mailbox_owner": "Директорат интернационализации образования (Directorate for Internationalization of Education — Global Office, бывший International Office UI)",
   "addressee_name": "Fadhilah Muslim, S.T., M.Sc., Ph.D., DIC",
   "addressee_title": "Директор по интернационализации образования",
-  "salutation": "Dear Dr. Muslim,"
+  "salutation": "Dear Dr. Muslim,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -1865,7 +1955,9 @@
   "mailbox_owner": "Отдел по связям с общественностью (Humas Unhan RI)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Rector,"
+  "salutation": "Dear Rector,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -1906,7 +1998,9 @@
   "mailbox_owner": "Международный офис / Центр развития сотрудничества и международных дел (International Office / CDCIA)",
   "addressee_name": "",
   "addressee_title": "Руководитель International Office / CDCIA",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -1947,7 +2041,9 @@
   "mailbox_owner": "Международный офис Университета Дипонегоро (Diponegoro International Office, DIO)",
   "addressee_name": "Pulung Widhi Hari Hananto, S.H., M.H., LL.M.",
   "addressee_title": "Руководитель Diponegoro International Office",
-  "salutation": "Dear Mr. Hananto,"
+  "salutation": "Dear Mr. Hananto,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -1987,7 +2083,9 @@
   "mailbox_owner": "Офис глобального взаимодействия (Global Engagement Office, GEO USK)",
   "addressee_name": "Prof. Dr. Syamsidik, S.T., M.Sc.",
   "addressee_title": "Руководитель Global Engagement Office",
-  "salutation": "Dear Prof. Syamsidik,"
+  "salutation": "Dear Prof. Syamsidik,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -2027,7 +2125,9 @@
   "mailbox_owner": "Общий адрес университета (info@uinsgd.ac.id); профильный адресат — Центр международного офиса (Pusat International Office)",
   "addressee_name": "Dr. H. Munir, M.A.",
   "addressee_title": "Руководитель Центра международного офиса (Kepala Pusat International Office)",
-  "salutation": "Dear Dr. Munir,"
+  "salutation": "Dear Dr. Munir,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -2067,7 +2167,9 @@
   "mailbox_owner": "Международный офис UNNES (UNNES International Office)",
   "addressee_name": "",
   "addressee_title": "Руководитель International Office UNNES",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -2107,7 +2209,9 @@
   "mailbox_owner": "Общий адрес университета (info@uho.ac.id)",
   "addressee_name": "Prof. Dr. Khairul Munadi, S.T., M.Eng.",
   "addressee_title": "Исполняющий обязанности ректора (Plt. Rektor)",
-  "salutation": "Dear Prof. Munadi,"
+  "salutation": "Dear Prof. Munadi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -2150,7 +2254,9 @@
   "addressee_name": "Sabaruddin, Ph.D.",
   "addressee_title": "Руководитель службы сотрудничества и международных услуг (Head of Cooperation and International Services)",
   "salutation": "Dear Dr. Sabaruddin,",
-  "recheck_ru": "Сайт unsri.ac.id по-прежнему закрыт WAF (HTTP 468); по госреестру PDDikti подтверждены адрес и индекс, добавлены e-mail bapsi@unsri.ac.id и тел. 0711-580169; ректор и OIA официально не подтверждены."
+  "recheck_ru": "Сайт unsri.ac.id по-прежнему закрыт WAF (HTTP 468); по госреестру PDDikti подтверждены адрес и индекс, добавлены e-mail bapsi@unsri.ac.id и тел. 0711-580169; ректор и OIA официально не подтверждены.",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -2191,7 +2297,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Affairs / Kantor Urusan Internasional UGJ)",
   "addressee_name": "",
   "addressee_title": "Руководитель Office of International Affairs",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -2235,7 +2343,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Rector,",
-  "recheck_ru": "04.10.2026: ректор подтверждён на 2025–2029 (Suara Muhammadiyah); сайт umj.ac.id по-прежнему закрыт (403) — контакты не подтверждены."
+  "recheck_ru": "04.10.2026: ректор подтверждён на 2025–2029 (Suara Muhammadiyah); сайт umj.ac.id по-прежнему закрыт (403) — контакты не подтверждены.",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -2277,7 +2387,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Rector,",
-  "recheck_ru": "Адрес, humas@uhamka.ac.id и телефоны Humas/PMB подтверждены на uhamka.ac.id (страница «Sambutan Rektor») 04.10.2026; имя ректора не отображается (API сайта закрыт Cloudflare) — не подтверждено."
+  "recheck_ru": "Адрес, humas@uhamka.ac.id и телефоны Humas/PMB подтверждены на uhamka.ac.id (страница «Sambutan Rektor») 04.10.2026; имя ректора не отображается (API сайта закрыт Cloudflare) — не подтверждено.",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -2317,7 +2429,9 @@
   "mailbox_owner": "Служба сотрудничества (Kerjasama UIN Raden Mas Said Surakarta)",
   "addressee_name": "",
   "addressee_title": "Руководитель службы сотрудничества",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -2358,7 +2472,9 @@
   "mailbox_owner": "Общий адрес университета / пресс-служба (Humas Untag Surabaya); профильный адресат — Агентство по сотрудничеству (Badan Kerja Sama)",
   "addressee_name": "Dr. Tri Pramesti, MS",
   "addressee_title": "Председатель Агентства по сотрудничеству (Ketua Badan Kerja Sama)",
-  "salutation": "Dear Dr. Pramesti,"
+  "salutation": "Dear Dr. Pramesti,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -2398,7 +2514,9 @@
   "mailbox_owner": "Пресс-служба / общий адрес (Humas UINSU); профильный адресат — Центр международных услуг (Pusat Layanan Internasional)",
   "addressee_name": "",
   "addressee_title": "Руководитель Центра международных услуг (Kepala Pusat Layanan Internasional)",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -2440,7 +2558,9 @@
   "mailbox_owner": "Международный офис UMN (UMN International Office)",
   "addressee_name": "Septian Sugara",
   "addressee_title": "Менеджер международного офиса (International Office Manager)",
-  "salutation": "Dear Mr. Sugara,"
+  "salutation": "Dear Mr. Sugara,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -2481,7 +2601,9 @@
   "mailbox_owner": "Пресс-служба (Humas UBAYA); профильный адресат — Директорат институционального сотрудничества (Direktorat Kerjasama Kelembagaan)",
   "addressee_name": "Dr. Yenny Sari, S.T., M.Sc.",
   "addressee_title": "Директор по институциональному сотрудничеству (Direktur Kerjasama Kelembagaan)",
-  "salutation": "Dear Dr. Sari,"
+  "salutation": "Dear Dr. Sari,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -2522,7 +2644,9 @@
   "mailbox_owner": "Общий адрес университета (info@warmadewa.ac.id); профильный адресат — Директорат сотрудничества, PR и студентов (Direktorat Kerjasama, Humas dan Kemahasiswaan)",
   "addressee_name": "Dr. Agus Darma Yoga Pratama, S.S., M.Hum.",
   "addressee_title": "Директор по сотрудничеству, связям с общественностью и делам студентов",
-  "salutation": "Dear Dr. Pratama,"
+  "salutation": "Dear Dr. Pratama,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -2562,7 +2686,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Affairs, OIA UNMUL)",
   "addressee_name": "Dr. RR. Dirgarini Julia Nurlianti S., S.Si., M.Sc.",
   "addressee_title": "Руководитель Office of International Affairs",
-  "salutation": "Dear Dr. Nurlianti,"
+  "salutation": "Dear Dr. Nurlianti,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -2607,7 +2733,9 @@
   "addressee_name": "",
   "addressee_title": "Руководитель Kantor Urusan Internasional",
   "salutation": "Dear Director of the Office of International Affairs,",
-  "recheck_ru": "Сайт открылся 04.10.2026: контакты и KUI подтверждены; директор Marwansyah установлен по официальному PDF 2023–2026 (смена директора 27.10.2026)"
+  "recheck_ru": "Сайт открылся 04.10.2026: контакты и KUI подтверждены; директор Marwansyah установлен по официальному PDF 2023–2026 (смена директора 27.10.2026)",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -2647,7 +2775,9 @@
   "mailbox_owner": "Канцелярия ректората (Rektorat UNIB)",
   "addressee_name": "Prof. Dr. Indra Cahyadinata, S.P., M.Si.",
   "addressee_title": "Ректор",
-  "salutation": "Dear Prof. Cahyadinata,"
+  "salutation": "Dear Prof. Cahyadinata,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -2688,7 +2818,9 @@
   "mailbox_owner": "Пресс-служба университета (Humas UNIPA)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Rector,"
+  "salutation": "Dear Rector,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -2728,7 +2860,9 @@
   "mailbox_owner": "Директорат партнёрства и глобальных связей (Direktorat Kemitraan dan Relasi Global)",
   "addressee_name": "Prof. Dr. Puji Astuti, S.Si., M.Sc., Apt.",
   "addressee_title": "Директор по партнёрству и глобальным связям",
-  "salutation": "Dear Prof. Astuti,"
+  "salutation": "Dear Prof. Astuti,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Indonesia",
@@ -2768,7 +2902,9 @@
   "mailbox_owner": "Директорат глобальной связности (Directorate of Global Connectivity)",
   "addressee_name": "Dr. rer. agr. Eva Anggraini, S.Pi., M.Si.",
   "addressee_title": "Директор по глобальной связности",
-  "salutation": "Dear Dr. Anggraini,"
+  "salutation": "Dear Dr. Anggraini,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -2809,7 +2945,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Affairs, Unpad)",
   "addressee_name": "Anggia Utami Dewi, S.IP., M.IS., Ph.D.",
   "addressee_title": "Руководитель Офиса международных связей",
-  "salutation": "Dear Dr. Dewi,"
+  "salutation": "Dear Dr. Dewi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -2850,7 +2988,9 @@
   "mailbox_owner": "Директорат репутации, партнёрства и международных дел (DRKUI / Office of Collaboration and International Affairs)",
   "addressee_name": "Nurgiyatna, S.T., M.Sc., Ph.D.",
   "addressee_title": "Директор по репутации, партнёрству и международным делам",
-  "salutation": "Dear Dr. Nurgiyatna,"
+  "salutation": "Dear Dr. Nurgiyatna,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -2890,7 +3030,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Affairs, OIA Unram)",
   "addressee_name": "",
   "addressee_title": "Руководитель Офиса международных связей",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -2929,7 +3071,9 @@
   "mailbox_owner": "Международный офис (International Office, Kantor Urusan Internasional Unud)",
   "addressee_name": "Dr. Irma Rahyuda, A.Par., M.M., M.Par., M.Rech.",
   "addressee_title": "Руководитель Международного офиса (международное сотрудничество и интернационализация)",
-  "salutation": "Dear Dr. Rahyuda,"
+  "salutation": "Dear Dr. Rahyuda,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -2969,7 +3113,9 @@
   "mailbox_owner": "Офис международных дел и партнёрства (Kantor Urusan Internasional dan Kemitraan, UNY International Office)",
   "addressee_name": "",
   "addressee_title": "Руководитель Офиса международных дел и партнёрства",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -3011,7 +3157,9 @@
   "mailbox_owner": "Международный офис (International Office UNEJ)",
   "addressee_name": "",
   "addressee_title": "Директор Международного офиса",
-  "salutation": "Dear Director of the International Office,"
+  "salutation": "Dear Director of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -3052,7 +3200,9 @@
   "mailbox_owner": "Офис международных дел, сотрудничества и культуры (Kantor Urusan Internasional, Kerja Sama dan Kebudayaan, KUIKK)",
   "addressee_name": "",
   "addressee_title": "Руководитель Офиса международных дел, сотрудничества и культуры",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -3092,7 +3242,9 @@
   "mailbox_owner": "Общий адрес института (info@institutpendidikan.ac.id); профильный адресат — Отдел интернационализации и партнёрства (Bagian Internasionalisasi dan Kemitraan)",
   "addressee_name": "Dr. Yustika Nur Fajriah, M.Pd.",
   "addressee_title": "Руководитель отдела интернационализации и партнёрства",
-  "salutation": "Dear Dr. Fajriah,"
+  "salutation": "Dear Dr. Fajriah,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -3133,7 +3285,9 @@
   "mailbox_owner": "Общий адрес университета (info@unismuh.ac.id); профильный адресат — Институт сотрудничества и международных дел (Lembaga Kerja Sama dan Urusan Internasional, LKUI)",
   "addressee_name": "Dr. Maharida, S.Pd., M.Pd.",
   "addressee_title": "Председатель Института сотрудничества и международных дел (LKUI)",
-  "salutation": "Dear Dr. Maharida,"
+  "salutation": "Dear Dr. Maharida,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -3174,7 +3328,9 @@
   "mailbox_owner": "Офис глобального взаимодействия (Global Engagement UNUSA)",
   "addressee_name": "",
   "addressee_title": "Руководитель Офиса глобального взаимодействия",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -3214,7 +3370,9 @@
   "mailbox_owner": "Директорат сотрудничества / Международный офис (Direktorat Kerja Sama, DIKER)",
   "addressee_name": "Dr. Dian Toar Y. G. Sumakul, M.A.",
   "addressee_title": "Директор по партнёрствам (Директорат сотрудничества)",
-  "salutation": "Dear Dr. Sumakul,"
+  "salutation": "Dear Dr. Sumakul,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Indonesia",
@@ -3255,7 +3413,9 @@
   "mailbox_owner": "Офис партнёрства и продвижения (Kantor Kerja Sama dan Promosi, KKP)",
   "addressee_name": "",
   "addressee_title": "Руководитель Офиса партнёрства и продвижения",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -3295,7 +3455,9 @@
   "mailbox_owner": "Офис международных дел (Office of International Affairs, OIA UNISSULA)",
   "addressee_name": "",
   "addressee_title": "Руководитель Офиса международных дел",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -3337,7 +3499,9 @@
   "mailbox_owner": "Офис международных дел (Kantor Urusan Internasional, International Office UPNVJ)",
   "addressee_name": "",
   "addressee_title": "Руководитель Офиса международных дел",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -3377,7 +3541,9 @@
   "mailbox_owner": "Отдел по связям с общественностью ректората (Humas Untar)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -3420,7 +3586,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the Office of International Affairs,",
-  "recheck_ru": "Сайты Widyatama по-прежнему за Cloudflare (403); добавлен по выдаче телефон отдела Kerma (доб. 129); e-mail не найден"
+  "recheck_ru": "Сайты Widyatama по-прежнему за Cloudflare (403); добавлен по выдаче телефон отдела Kerma (доб. 129); e-mail не найден",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -3464,7 +3632,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the Office of International Affairs,",
-  "recheck_ru": "ulm.ac.id и international.ulm.ac.id по-прежнему закрыты Cloudflare 403 — данные не изменены (04.10.2026)"
+  "recheck_ru": "ulm.ac.id и international.ulm.ac.id по-прежнему закрыты Cloudflare 403 — данные не изменены (04.10.2026)",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -3505,7 +3675,9 @@
   "mailbox_owner": "Офис международного сотрудничества PENS (Kantor Urusan Internasional / PICO)",
   "addressee_name": "Prof. Iwan Syarif, S.Kom., M.Kom., M.Sc., Ph.D.",
   "addressee_title": "Руководитель Офиса международных дел (Kepala Kantor Urusan Internasional)",
-  "salutation": "Dear Prof. Syarif,"
+  "salutation": "Dear Prof. Syarif,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -3546,7 +3718,9 @@
   "mailbox_owner": "Общий адрес университета (Informasi dan Layanan, info@upr.ac.id)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -3587,7 +3761,9 @@
   "mailbox_owner": "Общий адрес института (info@del.ac.id)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -3628,7 +3804,9 @@
   "mailbox_owner": "Международный офис (International Office)",
   "addressee_name": "Dr. Wirania Swasty, S.Ds., M.AB.",
   "addressee_title": "Руководитель Международного офиса",
-  "salutation": "Dear Dr. Swasty,"
+  "salutation": "Dear Dr. Swasty,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -3671,7 +3849,9 @@
   "addressee_name": "",
   "addressee_title": "Руководитель Международного офиса",
   "salutation": "Dear Director of the International Office,",
-  "recheck_ru": "Сайт itera.ac.id и все поддомены по-прежнему 403 (Cloudflare); контакты (pusat@itera.ac.id, тел.) повторно совпадают в выдаче официальных страниц, добавлен humas@itera.ac.id; ректор — по официальной новости ITB (2026)"
+  "recheck_ru": "Сайт itera.ac.id и все поддомены по-прежнему 403 (Cloudflare); контакты (pusat@itera.ac.id, тел.) повторно совпадают в выдаче официальных страниц, добавлен humas@itera.ac.id; ректор — по официальной новости ITB (2026)",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -3711,7 +3891,9 @@
   "mailbox_owner": "Общая канцелярия университета (Universitas Sebelas Maret)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -3752,7 +3934,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Affairs / Kantor Urusan Internasional)",
   "addressee_name": "",
   "addressee_title": "Директор Офиса международных связей",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -3793,7 +3977,9 @@
   "mailbox_owner": "Международный офис (International Office)",
   "addressee_name": "Adre Zaif Rachman",
   "addressee_title": "Руководитель Международного офиса",
-  "salutation": "Dear Mr. Rachman,"
+  "salutation": "Dear Mr. Rachman,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Indonesia",
@@ -3833,7 +4019,9 @@
   "mailbox_owner": "Международный офис (International Office Universitas Andalas)",
   "addressee_name": "Dr. Rina Marnita AS, M.A.",
   "addressee_title": "Руководитель Международного офиса",
-  "salutation": "Dear Dr. Marnita,"
+  "salutation": "Dear Dr. Marnita,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -3874,7 +4062,9 @@
   "mailbox_owner": "Международный офис / Глобальное партнёрство (International Office / Global Partnership)",
   "addressee_name": "",
   "addressee_title": "Руководитель Международного офиса",
-  "salutation": "Dear Director of the International Office,"
+  "salutation": "Dear Director of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -3915,7 +4105,9 @@
   "mailbox_owner": "Офис международных связей (International Relations Office / Kantor Hubungan Luar Negeri)",
   "addressee_name": "",
   "addressee_title": "Руководитель Офиса международных связей",
-  "salutation": "Dear Director of the International Relations Office,"
+  "salutation": "Dear Director of the International Relations Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -3956,7 +4148,9 @@
   "mailbox_owner": "Офис международных связей (International Relation Office)",
   "addressee_name": "",
   "addressee_title": "Руководитель Офиса международных связей",
-  "salutation": "Dear Director of the International Relation Office,"
+  "salutation": "Dear Director of the International Relation Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -3996,7 +4190,9 @@
   "mailbox_owner": "Отдел по связям с общественностью (Humas Itenas)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -4038,7 +4234,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of the Office of International Affairs,",
-  "recheck_ru": "Ректор проф. Акрим подтверждён (стр. руководства и новости 09.2026); найден e-mail международного офиса kui@umsu.ac.id на oic.umsu.ac.id, 04.10.2026"
+  "recheck_ru": "Ректор проф. Акрим подтверждён (стр. руководства и новости 09.2026); найден e-mail международного офиса kui@umsu.ac.id на oic.umsu.ac.id, 04.10.2026",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -4078,7 +4276,9 @@
   "mailbox_owner": "Общая канцелярия университета",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -4118,7 +4318,9 @@
   "mailbox_owner": "Международный офис (International Office UIN Suska Riau)",
   "addressee_name": "",
   "addressee_title": "Руководитель Международного офиса",
-  "salutation": "Dear Director of the International Office,"
+  "salutation": "Dear Director of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -4159,7 +4361,9 @@
   "mailbox_owner": "Международный офис (International Office, партнёрства)",
   "addressee_name": "",
   "addressee_title": "Руководитель Международного офиса",
-  "salutation": "Dear Director of the International Office,"
+  "salutation": "Dear Director of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -4200,7 +4404,9 @@
   "mailbox_owner": "Офис международных связей (Kantor Urusan Internasional) — e-mail не опубликован",
   "addressee_name": "Ir. Rosa Tampubolon, M.Si, Ph.D",
   "addressee_title": "Руководитель Офиса международных связей",
-  "salutation": "Dear Dr. Tampubolon,"
+  "salutation": "Dear Dr. Tampubolon,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Indonesia",
@@ -4241,7 +4447,9 @@
   "mailbox_owner": "Офис международных связей и исполнительный секретариат (KISe — Kantor Urusan Internasional & Sekretariat Eksekutif)",
   "addressee_name": "",
   "addressee_title": "Руководитель KISe",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -4280,48 +4488,9 @@
   "mailbox_owner": "Общая канцелярия университета",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Affairs,"
- },
- {
-  "country": "Indonesia",
-  "name_en": "Universitas Hasanuddin (Unhas)",
-  "name_native": "Universitas Hasanuddin",
-  "city": "Макассар",
-  "ownership": "Государственный (PTN-BH, автономный)",
-  "profile_type": "classical",
-  "main_fields": "Marine Science & Fisheries, Medicine & Health Sciences, Agriculture & Forestry, Engineering, Economics, Law & Social Sciences",
-  "postal_address": "Jl. Perintis Kemerdekaan Km. 10, Tamalanrea, Makassar, South Sulawesi 90245, Indonesia",
-  "email_general": "humas@unhas.ac.id",
-  "email_international": "internationaloffice@unhas.ac.id",
-  "phone": "+62 411 586200",
-  "website": "https://www.unhas.ac.id",
-  "head_name": "Prof. Dr. Ir. Jamaluddin Jompa, M.Sc.",
-  "head_title": "Rector",
-  "party_secretary": "",
-  "head_verified_source": "https://www.unhas.ac.id/leader/",
-  "rank_qs": "QS2027: 851–900",
-  "rank_the": "",
-  "rank_national": "",
-  "satellites_launched": 0,
-  "satellite_names": "",
-  "sats_in_development": "",
-  "ground_station": "",
-  "space_units": "",
-  "agency_partnerships": "",
-  "restricted_list": "",
-  "sources": "https://unhas.ac.id/; https://www.unhas.ac.id/contact-of-hasanuddin-university/; https://www.unhas.ac.id/leader/; https://www.unhas.ac.id/strategic-partnership/; https://www.unhas.ac.id/wp-json/wp/v2/posts?search=Rektor%20Unhas; https://psc.gov.vc/psc/images/PDF/Scholarships/NV_46_D_4_III_2026_-_3_Febrero_2026_-_MOFA_SVG-Contact_for_KNB_Scholarship_Host_University_-_see_pages_29_-_37.pdf",
-  "confidence": "medium",
-  "notes_ru": [
-   "Ректор проф. Джамалуддин Джомпа упоминается как ректор в новостях Unhas июня 2026 г.; срок первого мандата (2022–2026) истекает — перепроверить, не сменился ли ректор",
-   "E-mail международного офиса (Directorate of Internationalization / International Office) internationaloffice@unhas.ac.id — из списка МИД Индонезии (KNB, 2026); на сайте для партнёрств указан проректор по партнёрству: vicerector4@unhas.ac.id — рекомендуется поставить в копию",
-   "Директор по интернационализации упоминается без имени; контакт по KNB — Kumara Tungga Dewa (+62 852 5541 7148)",
-   "В THE2027 не найден во входных данных (rank_the пуст); QS2027: 851–900",
-   "Сильная морская специализация («Kampus Maritim»); спутниковых проектов нет (nanosats.csv)"
-  ],
-  "mailbox_owner": "Директорат интернационализации / Международный офис (Directorate of Internationalization / International Office)",
-  "addressee_name": "",
-  "addressee_title": "Директор по интернационализации",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -4361,7 +4530,9 @@
   "mailbox_owner": "Офис международных связей (International Affairs Office, IAO)",
   "addressee_name": "",
   "addressee_title": "Руководитель Офиса международных связей",
-  "salutation": "Dear Director of the International Affairs Office,"
+  "salutation": "Dear Director of the International Affairs Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Indonesia",
@@ -4402,7 +4573,9 @@
   "mailbox_owner": "Канцелярия ректора (ящик ректора)",
   "addressee_name": "Prof. Dr. rer. nat. Agus Rubiyanto, M.Eng.Sc.",
   "addressee_title": "Ректор",
-  "salutation": "Dear Prof. Rubiyanto,"
+  "salutation": "Dear Prof. Rubiyanto,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Indonesia",
@@ -4442,7 +4615,9 @@
   "mailbox_owner": "Бюро планирования и сотрудничества (Biro Perencanaan & Kerjasama)",
   "addressee_name": "Drs. Samsumarlin, M.Si",
   "addressee_title": "Руководитель Бюро планирования и сотрудничества",
-  "salutation": "Dear Mr. Samsumarlin,"
+  "salutation": "Dear Mr. Samsumarlin,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Indonesia",
@@ -4482,6 +4657,8 @@
   "mailbox_owner": "Общая канцелярия университета (Rektorat)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of the Office of International Affairs,"
+  "salutation": "Dear Director of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  }
 ]

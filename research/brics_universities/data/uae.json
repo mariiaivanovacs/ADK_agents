@@ -38,7 +38,9 @@
   "mailbox_owner": "Общий почтовый ящик университета (info@ku.ac.ae)",
   "addressee_name": "Dr. Ashraf Al Najdawi",
   "addressee_title": "Вице-президент по внешним связям (Vice President, External Relations)",
-  "salutation": "Dear Dr. Al Najdawi,"
+  "salutation": "Dear Dr. Al Najdawi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "United Arab Emirates",
@@ -79,7 +81,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Relations)",
   "addressee_name": "",
   "addressee_title": "Директор Офиса международных связей",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "United Arab Emirates",
@@ -120,7 +124,9 @@
   "mailbox_owner": "Офис вице-канцлера (Office of the Vice Chancellor)",
   "addressee_name": "Prof. Fabio Piano",
   "addressee_title": "Вице-канцлер (исполнительный глава NYU Abu Dhabi)",
-  "salutation": "Dear Professor Piano,"
+  "salutation": "Dear Professor Piano,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "United Arab Emirates",
@@ -161,7 +167,9 @@
   "mailbox_owner": "Общий ящик коммуникаций HCT (communication@hct.ac.ae)",
   "addressee_name": "",
   "addressee_title": "Руководитель управления партнёрствами",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "United Arab Emirates",
@@ -202,7 +210,9 @@
   "mailbox_owner": "Офис президента (Office of the President)",
   "addressee_name": "Prof. Eric Xing",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Professor Xing,"
+  "salutation": "Dear Professor Xing,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "United Arab Emirates",
@@ -244,7 +254,9 @@
   "mailbox_owner": "Офис международных связей (International Relations Office) — e-mail не подтверждён",
   "addressee_name": "",
   "addressee_title": "Директор офиса международных связей",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "United Arab Emirates",
@@ -285,7 +297,9 @@
   "mailbox_owner": "Офис президента (President's Office) — e-mail не опубликован",
   "addressee_name": "Prof. Amer Mohammad Jaser Qasem",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Professor Qasem,"
+  "salutation": "Dear Professor Qasem,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "United Arab Emirates",
@@ -326,7 +340,9 @@
   "mailbox_owner": "Офис канцлера (Office of the Chancellor)",
   "addressee_name": "Prof. Manda Venkatramana",
   "addressee_title": "Канцлер университета",
-  "salutation": "Dear Professor Venkatramana,"
+  "salutation": "Dear Professor Venkatramana,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "United Arab Emirates",
@@ -370,7 +386,9 @@
   "addressee_name": "",
   "addressee_title": "Руководитель по международному сотрудничеству",
   "salutation": "Dear Director of International Partnerships,",
-  "recheck_ru": "04.10.2026: aue.ae по-прежнему 403; президент Prof. Muthanna G. Abdul Razzaq подтверждается только поиском — данные не изменены."
+  "recheck_ru": "04.10.2026: aue.ae по-прежнему 403; президент Prof. Muthanna G. Abdul Razzaq подтверждается только поиском — данные не изменены.",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "United Arab Emirates",
@@ -412,7 +430,9 @@
   "mailbox_owner": "Общий почтовый ящик университета (info@dmu.ae)",
   "addressee_name": "Prof. Sherief Khalifa",
   "addressee_title": "Вице-канцлер по академическим вопросам",
-  "salutation": "Dear Professor Khalifa,"
+  "salutation": "Dear Professor Khalifa,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "United Arab Emirates",
@@ -453,7 +473,9 @@
   "mailbox_owner": "Общий почтовый ящик академии (info@ra.ac.ae)",
   "addressee_name": "",
   "addressee_title": "Руководитель по стратегическим партнёрствам",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "United Arab Emirates",
@@ -494,7 +516,9 @@
   "mailbox_owner": "Офис канцлера — e-mail не опубликован",
   "addressee_name": "Prof. Nathalie Martial-Braz",
   "addressee_title": "Канцлер университета",
-  "salutation": "Dear Professor Martial-Braz,"
+  "salutation": "Dear Professor Martial-Braz,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "United Arab Emirates",
@@ -535,7 +559,9 @@
   "mailbox_owner": "Офис внешних и международных связей (External and International Relations, EIR)",
   "addressee_name": "",
   "addressee_title": "Директор офиса внешних и международных связей",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "United Arab Emirates",
@@ -576,7 +602,9 @@
   "mailbox_owner": "Офис провоста (Provost and Vice-Principal) — e-mail не опубликован",
   "addressee_name": "Prof. Dame Heather McGregor",
   "addressee_title": "Провост и вице-принципал Heriot-Watt University Dubai",
-  "salutation": "Dear Professor Dame Heather McGregor,"
+  "salutation": "Dear Professor Dame Heather McGregor,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "United Arab Emirates",
@@ -590,7 +618,7 @@
   "email_general": "office.registrar@dubai.bits-pilani.ac.in",
   "email_international": "",
   "phone": "+971 4 275 3700",
-  "website": "https://www.bits-pilani.ac.in/dubai/",
+  "website": "https://www.bits-pilani.ac.in/dubai",
   "head_name": "Prof. Souri Banerjee",
   "head_title": "Director",
   "party_secretary": "",
@@ -617,7 +645,9 @@
   "mailbox_owner": "Офис регистратора (Office of the Registrar)",
   "addressee_name": "Prof. Souri Banerjee",
   "addressee_title": "Директор кампуса",
-  "salutation": "Dear Professor Banerjee,"
+  "salutation": "Dear Professor Banerjee,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "United Arab Emirates",
@@ -657,7 +687,9 @@
   "mailbox_owner": "Офис по связям с общественностью и партнёрствам (Community Outreach Office)",
   "addressee_name": "",
   "addressee_title": "Руководитель офиса по партнёрствам",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "United Arab Emirates",
@@ -700,7 +732,9 @@
   "addressee_name": "Dr. May Laith Al Taee",
   "addressee_title": "Вице-канцлер (руководитель колледжа)",
   "salutation": "Dear Dr. Al Taee,",
-  "recheck_ru": "Сайт ecae.ac.ae открыт через reader-сервис 04.10.2026: Vice Chancellor Dr. May Laith Al Taee, info@ecae.ac.ae, тел. +971 2 509 9888 и адрес кампуса (Khalifa City, Абу-Даби) подтверждены; дата страницы руководства не указана."
+  "recheck_ru": "Сайт ecae.ac.ae открыт через reader-сервис 04.10.2026: Vice Chancellor Dr. May Laith Al Taee, info@ecae.ac.ae, тел. +971 2 509 9888 и адрес кампуса (Khalifa City, Абу-Даби) подтверждены; дата страницы руководства не указана.",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "United Arab Emirates",
@@ -741,7 +775,9 @@
   "mailbox_owner": "Общий почтовый ящик университета (info@amityuniversity.ae)",
   "addressee_name": "Prof. Madapusi Srinivasan",
   "addressee_title": "Проректор (Pro Vice Chancellor)",
-  "salutation": "Dear Professor Srinivasan,"
+  "salutation": "Dear Professor Srinivasan,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "United Arab Emirates",
@@ -784,7 +820,9 @@
   "addressee_name": "Prof. Awad Husain AlKhalaf",
   "addressee_title": "Канцлер университета",
   "salutation": "Dear Professor AlKhalaf,",
-  "recheck_ru": "Канцлер подтверждён на странице попечительского совета (без даты); контакты на сайте по-прежнему не опубликованы — уровень low сохранён"
+  "recheck_ru": "Канцлер подтверждён на странице попечительского совета (без даты); контакты на сайте по-прежнему не опубликованы — уровень low сохранён",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "United Arab Emirates",
@@ -825,7 +863,9 @@
   "mailbox_owner": "Общий почтовый ящик кампуса (info@manipaldubai.com); прямой контакт руководителя — sudhindra.shamanna@manipaldubai.com",
   "addressee_name": "Dr. S. Sudhindra",
   "addressee_title": "Проректор (Pro Vice Chancellor), руководитель кампуса MAHE Dubai",
-  "salutation": "Dear Dr. Sudhindra,"
+  "salutation": "Dear Dr. Sudhindra,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "United Arab Emirates",
@@ -865,7 +905,9 @@
   "mailbox_owner": "Сервис-деск университета (общий канал обращений)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "United Arab Emirates",
@@ -905,7 +947,9 @@
   "mailbox_owner": "Офис международного обмена (International Exchange Office, IXO)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Exchange,"
+  "salutation": "Dear Director of International Exchange,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "United Arab Emirates",
@@ -945,7 +989,9 @@
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "United Arab Emirates",
@@ -985,7 +1031,9 @@
   "mailbox_owner": "Общий информационный ящик университета (General Information)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "United Arab Emirates",
@@ -1025,7 +1073,9 @@
   "mailbox_owner": "Общий ящик запросов (General Inquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "United Arab Emirates",
@@ -1063,7 +1113,9 @@
   "mailbox_owner": "Общий ящик университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "United Arab Emirates",
@@ -1103,7 +1155,9 @@
   "mailbox_owner": "Общий ящик университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "United Arab Emirates",
@@ -1142,7 +1196,9 @@
   "mailbox_owner": "Общий ящик университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "United Arab Emirates",
@@ -1182,7 +1238,9 @@
   "mailbox_owner": "Общий ящик университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "United Arab Emirates",
@@ -1224,7 +1282,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Partnerships,",
-  "recheck_ru": "Сайт закрыт Cloudflare; по поисковому индексу официальных страниц уточнены полное имя президента и адрес; e-mail не подтверждён"
+  "recheck_ru": "Сайт закрыт Cloudflare; по поисковому индексу официальных страниц уточнены полное имя президента и адрес; e-mail не подтверждён",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "United Arab Emirates",
@@ -1263,7 +1323,9 @@
   "mailbox_owner": "Общий ящик университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "United Arab Emirates",
@@ -1302,7 +1364,9 @@
   "mailbox_owner": "Общий ящик университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "United Arab Emirates",
@@ -1341,7 +1405,9 @@
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "United Arab Emirates",
@@ -1382,7 +1448,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Partnerships,",
-  "recheck_ru": "uowdubai.ac.ae (главная, /contact-us, sitemap) и WebFetch возвращают 403 — данные не изменены (04.10.2026)"
+  "recheck_ru": "uowdubai.ac.ae (главная, /contact-us, sitemap) и WebFetch возвращают 403 — данные не изменены (04.10.2026)",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "United Arab Emirates",
@@ -1420,7 +1488,9 @@
   "mailbox_owner": "Общий ящик университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "United Arab Emirates",
@@ -1460,7 +1530,9 @@
   "mailbox_owner": "Общий ящик университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "United Arab Emirates",
@@ -1474,7 +1546,7 @@
   "email_general": "dubai@rit.edu",
   "email_international": "",
   "phone": "+971 4 371 2000",
-  "website": "https://www.rit.edu/dubai/",
+  "website": "https://www.rit.edu/dubai",
   "head_name": "Dr. Yousef Al-Assaf",
   "head_title": "President",
   "party_secretary": "",
@@ -1499,7 +1571,9 @@
   "mailbox_owner": "Общий ящик университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "United Arab Emirates",
@@ -1537,7 +1611,9 @@
   "mailbox_owner": "Общий ящик университета (General Enquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Partnerships,"
+  "salutation": "Dear Director of International Partnerships,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "United Arab Emirates",
@@ -1579,6 +1655,8 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Partnerships,",
-  "recheck_ru": "Общий e-mail info@fchs.ac.ae, телефон и кампусы подтверждены через официальный API сайта fchs.ac.ae (обновл. 06.2026); руководитель не найден"
+  "recheck_ru": "Общий e-mail info@fchs.ac.ae, телефон и кампусы подтверждены через официальный API сайта fchs.ac.ae (обновл. 06.2026); руководитель не найден",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  }
 ]

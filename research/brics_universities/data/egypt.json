@@ -37,7 +37,9 @@
   "mailbox_owner": "Управление международных связей (International Relations Office)",
   "addressee_name": "Assoc. Prof. Heidi Bayoumy",
   "addressee_title": "Директор Управления международных связей",
-  "salutation": "Dear Dr. Bayoumy,"
+  "salutation": "Dear Dr. Bayoumy,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -77,7 +79,9 @@
   "mailbox_owner": "Управление региональных и международных связей (Regional and International Affairs Office)",
   "addressee_name": "Prof. Shuji Hashimoto",
   "addressee_title": "Первый вице-президент по региональным и международным связям",
-  "salutation": "Dear Prof. Hashimoto,"
+  "salutation": "Dear Prof. Hashimoto,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -117,7 +121,9 @@
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Egypt",
@@ -157,7 +163,9 @@
   "mailbox_owner": "Канцелярия президента института (President's Office)",
   "addressee_name": "Prof. Bassem Nabawy",
   "addressee_title": "Президент института",
-  "salutation": "Dear Prof. Nabawy,"
+  "salutation": "Dear Prof. Nabawy,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -196,7 +204,9 @@
   "mailbox_owner": "Управление культурных связей (General Administration of Scientific and Cultural Relations)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -236,7 +246,9 @@
   "mailbox_owner": "Канцелярия президента университета (President's Office)",
   "addressee_name": "Prof. Essam El-Din Sadek Farhat",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Prof. Farhat,"
+  "salutation": "Dear Prof. Farhat,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -275,7 +287,9 @@
   "mailbox_owner": "Управление международных связей (International Relations Office)",
   "addressee_name": "Prof. Abdelfattah Selim",
   "addressee_title": "Исполнительный директор Управления международных связей",
-  "salutation": "Dear Prof. Selim,"
+  "salutation": "Dear Prof. Selim,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -314,7 +328,9 @@
   "mailbox_owner": "",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Egypt",
@@ -354,7 +370,9 @@
   "mailbox_owner": "Общая приёмная университета (General Inquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -394,7 +412,9 @@
   "mailbox_owner": "Общая приёмная университета (General Inquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -433,7 +453,9 @@
   "mailbox_owner": "Общая приёмная университета (General Inquiries)",
   "addressee_name": "Prof. Sherif Fakhry",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Prof. Fakhry,"
+  "salutation": "Dear Prof. Fakhry,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -476,7 +498,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Сайт открылся по адресу без www (acu.edu.eg) 04.10.2026: президент — проф. Ахмед Мохамед Анани (страница руководства + новость 19.07.2026), прежнее имя Amal Fawzy Ahmed исправлено; адрес, info@acu.edu.eg и горячая линия 19228 подтверждены на странице контактов."
+  "recheck_ru": "Сайт открылся по адресу без www (acu.edu.eg) 04.10.2026: президент — проф. Ахмед Мохамед Анани (страница руководства + новость 19.07.2026), прежнее имя Amal Fawzy Ahmed исправлено; адрес, info@acu.edu.eg и горячая линия 19228 подтверждены на странице контактов.",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -516,7 +540,9 @@
   "mailbox_owner": "Приёмная комиссия (Admissions Office)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -558,7 +584,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "04.10.2026: ksiu.edu.eg недоступен (ошибка TLS-цепочки, en.-поддомен — 502); по поиску президент проф. Ashraf Hussein указан на сайте — данные не изменены."
+  "recheck_ru": "04.10.2026: ksiu.edu.eg недоступен (ошибка TLS-цепочки, en.-поддомен — 502); по поиску президент проф. Ashraf Hussein указан на сайте — данные не изменены.",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -598,7 +626,9 @@
   "mailbox_owner": "Общая приёмная университета (General Inquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -640,7 +670,9 @@
   "addressee_name": "Prof. Amr Ahmed El-Masry",
   "addressee_title": "Президент университета",
   "salutation": "Dear Prof. El-Masry,",
-  "recheck_ru": "Президент Prof. Amr Ahmed El-Masry и адрес кампуса (Km 9) подтверждены на mau.edu.eg 04.10.2026 (новость от 01.10.2026); e-mail на сайте не опубликован; адрес исправлен (было «Km 4»)."
+  "recheck_ru": "Президент Prof. Amr Ahmed El-Masry и адрес кампуса (Km 9) подтверждены на mau.edu.eg 04.10.2026 (новость от 01.10.2026); e-mail на сайте не опубликован; адрес исправлен (было «Km 4»).",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Egypt",
@@ -680,7 +712,9 @@
   "mailbox_owner": "Общая приёмная университета (General Inquiries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -721,7 +755,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Сайт открылся 04.10.2026: президент, адрес, e-mail info@anu.edu.eg подтверждены, добавлен телефон +20 122 885 8407 (страницы без даты)"
+  "recheck_ru": "Сайт открылся 04.10.2026: президент, адрес, e-mail info@anu.edu.eg подтверждены, добавлен телефон +20 122 885 8407 (страницы без даты)",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -761,7 +797,9 @@
   "mailbox_owner": "Управление международных связей (International Relations Office)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -800,7 +838,9 @@
   "mailbox_owner": "Управление международных связей (International Relations Office)",
   "addressee_name": "Dr. Kamal Khaled Obaid",
   "addressee_title": "Директор Управления международных связей",
-  "salutation": "Dear Dr. Obaid,"
+  "salutation": "Dear Dr. Obaid,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -840,7 +880,9 @@
   "mailbox_owner": "Общий ящик агентства (General inbox)",
   "addressee_name": "Dr. Eng. Majed Ismail",
   "addressee_title": "Генеральный директор (CEO) Египетского космического агентства",
-  "salutation": "Dear Dr. Ismail,"
+  "salutation": "Dear Dr. Ismail,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -880,7 +922,9 @@
   "mailbox_owner": "Общий ящик университета (General inbox)",
   "addressee_name": "Prof. Mahmoud Siddiq Hassan",
   "addressee_title": "Исполняющий обязанности президента университета",
-  "salutation": "Dear Prof. Siddiq,"
+  "salutation": "Dear Prof. Siddiq,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -919,7 +963,9 @@
   "mailbox_owner": "Общий ящик университета (General inbox)",
   "addressee_name": "Prof. Ashraf Imam Abdel Radi",
   "addressee_title": "Исполняющий обязанности президента университета",
-  "salutation": "Dear Prof. Abdel Radi,"
+  "salutation": "Dear Prof. Abdel Radi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -958,7 +1004,9 @@
   "mailbox_owner": "Общий ящик университета (General inbox)",
   "addressee_name": "Prof. Mohamed Hussein Mahmoud",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Prof. Mahmoud,"
+  "salutation": "Dear Prof. Mahmoud,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Egypt",
@@ -999,7 +1047,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Сайт по-прежнему недоступен; по СМИ 10.2026 добавлен президент д-р Хамдан Рабиа; контакты не перепроверены"
+  "recheck_ru": "Сайт по-прежнему недоступен; по СМИ 10.2026 добавлен президент д-р Хамдан Рабиа; контакты не перепроверены",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -1038,7 +1088,9 @@
   "mailbox_owner": "Управление международных и местных культурных связей (Admin of International & Local Cultural Affairs)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -1077,7 +1129,9 @@
   "mailbox_owner": "Общий ящик университета (General inbox)",
   "addressee_name": "Prof. Elhamy Trabees",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Prof. Trabees,"
+  "salutation": "Dear Prof. Trabees,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -1117,7 +1171,9 @@
   "mailbox_owner": "Канцелярия президента университета (President's Office)",
   "addressee_name": "Prof. Hassan El-Nomany",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Prof. El-Nomany,"
+  "salutation": "Dear Prof. El-Nomany,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -1158,7 +1214,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Президент проф. Махмуд Мохи Эль-Дин, info@pua.edu.eg, телефон и адрес подтверждены на pua.edu.eg 04.10.2026; телефон исправлен"
+  "recheck_ru": "Президент проф. Махмуд Мохи Эль-Дин, info@pua.edu.eg, телефон и адрес подтверждены на pua.edu.eg 04.10.2026; телефон исправлен",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -1198,7 +1256,9 @@
   "mailbox_owner": "Общий ящик университета (General inbox)",
   "addressee_name": "Prof. Ayman Abdel Meguid El-Shebeiny",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Prof. El-Shebeiny,"
+  "salutation": "Dear Prof. El-Shebeiny,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -1241,7 +1301,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Сайт ecu.edu.eg по-прежнему 403 (Cloudflare); президент проф. Rasha El-Kholy внесена по выдаче официальных страниц ECU и портала Belt and Road (дата не установлена) — контакты не найдены"
+  "recheck_ru": "Сайт ecu.edu.eg по-прежнему 403 (Cloudflare); президент проф. Rasha El-Kholy внесена по выдаче официальных страниц ECU и портала Belt and Road (дата не установлена) — контакты не найдены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Egypt",
@@ -1282,7 +1344,9 @@
   "mailbox_owner": "Общий ящик университета (General inbox)",
   "addressee_name": "Prof. Sabreen Abdel Galil",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Prof. Abdel Galil,"
+  "salutation": "Dear Prof. Abdel Galil,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -1322,7 +1386,9 @@
   "mailbox_owner": "Общий ящик университета (General inbox)",
   "addressee_name": "Prof. Ramadan El-Domany",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Prof. El-Domany,"
+  "salutation": "Dear Prof. El-Domany,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -1361,7 +1427,9 @@
   "mailbox_owner": "Вице-президент по международным делам (Vice President for International Affairs)",
   "addressee_name": "Prof. Dr. Frank Gunzer",
   "addressee_title": "Вице-президент по международным делам",
-  "salutation": "Dear Prof. Gunzer,"
+  "salutation": "Dear Prof. Gunzer,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -1401,7 +1469,9 @@
   "mailbox_owner": "Управление международных связей (International Relations Office)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -1443,7 +1513,9 @@
   "addressee_name": "Prof. Dr. Mohamed Morsi El-Gohary",
   "addressee_title": "President, Borg El Arab Technological University",
   "salutation": "Dear Professor El-Gohary,",
-  "recheck_ru": "04.10.2026: президент и e-mail подтверждены на официальном сайте batechu.com; телефон и адрес не опубликованы"
+  "recheck_ru": "04.10.2026: президент и e-mail подтверждены на официальном сайте batechu.com; телефон и адрес не опубликованы",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -1484,7 +1556,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Домены epsnu.edu.eg недоступны (04.10.2026); на сайте Порт-Саидского университета (psu.edu.eg) ссылки на национальный университет не найдено; данные не изменены."
+  "recheck_ru": "Домены epsnu.edu.eg недоступны (04.10.2026); на сайте Порт-Саидского университета (psu.edu.eg) ссылки на национальный университет не найдено; данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Egypt",
@@ -1524,7 +1598,9 @@
   "mailbox_owner": "Управление международных программ и услуг (International Programs and Services Office, IPSO)",
   "addressee_name": "Jonathan French",
   "addressee_title": "Старший директор IPSO",
-  "salutation": "Dear Mr. French,"
+  "salutation": "Dear Mr. French,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -1565,7 +1641,9 @@
   "mailbox_owner": "Управление международных связей (Office of International Affairs)",
   "addressee_name": "Sahar A. Khamis",
   "addressee_title": "Исполнительный директор Управления международных связей",
-  "salutation": "Dear Ms. Khamis,"
+  "salutation": "Dear Ms. Khamis,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -1605,7 +1683,9 @@
   "mailbox_owner": "Администрация по делам иностранных студентов (International Students Administration)",
   "addressee_name": "Dr. Ayman Ghoneim",
   "addressee_title": "Исполнительный директор Администрации по делам иностранных студентов",
-  "salutation": "Dear Dr. Ghoneim,"
+  "salutation": "Dear Dr. Ghoneim,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -1644,7 +1724,9 @@
   "mailbox_owner": "Общий ящик университета (Office of the President / General Inquiries)",
   "addressee_name": "Prof. Ebada Sarhan",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Prof. Sarhan,"
+  "salutation": "Dear Prof. Sarhan,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -1687,7 +1769,9 @@
   "addressee_name": "Dr. Yehia El-Meshad",
   "addressee_title": "Президент университета",
   "salutation": "Dear Dr. El-Meshad,",
-  "recheck_ru": "Общий e-mail и горячая линия подтверждены на официальном сайте 04.10.2026; президент — по СМИ 06.2026, на сайте не найден."
+  "recheck_ru": "Общий e-mail и горячая линия подтверждены на официальном сайте 04.10.2026; президент — по СМИ 06.2026, на сайте не найден.",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -1731,7 +1815,9 @@
   "addressee_name": "Prof. Nasser Abdel-Bary",
   "addressee_title": "Президент университета",
   "salutation": "Dear Prof. Abdel-Bary,",
-  "recheck_ru": "Сайт usc.edu.eg по-прежнему недоступен (curl/WebFetch 503); на сайте Минвысобразования найдено, что в авг. 2025 президентом была д-р Шаден Муавия — текущий президент Nasser Abdel-Bary (СМИ 2026) официально не подтверждён; контакты не изменены."
+  "recheck_ru": "Сайт usc.edu.eg по-прежнему недоступен (curl/WebFetch 503); на сайте Минвысобразования найдено, что в авг. 2025 президентом была д-р Шаден Муавия — текущий президент Nasser Abdel-Bary (СМИ 2026) официально не подтверждён; контакты не изменены.",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -1771,7 +1857,9 @@
   "mailbox_owner": "Офис президента университета (Office of the University President)",
   "addressee_name": "Prof. Sherif Mohamed Sabry El-Attar",
   "addressee_title": "Исполняющий обязанности президента университета",
-  "salutation": "Dear Prof. El-Attar,"
+  "salutation": "Dear Prof. El-Attar,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -1810,7 +1898,9 @@
   "mailbox_owner": "Офис президента университета (President's Office)",
   "addressee_name": "Prof. Naser Saeed Mandor",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Prof. Mandor,"
+  "salutation": "Dear Prof. Mandor,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -1853,7 +1943,9 @@
   "addressee_name": "Prof. Ahmed Farag El-Kased",
   "addressee_title": "Президент университета",
   "salutation": "Dear Prof. El-Kased,",
-  "recheck_ru": "04.10.2026: menofia.edu.eg недоступен (503/сброс), портал Высшего совета университетов scu.eg не отдаёт данные без JS — данные не изменены."
+  "recheck_ru": "04.10.2026: menofia.edu.eg недоступен (503/сброс), портал Высшего совета университетов scu.eg не отдаёт данные без JS — данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Egypt",
@@ -1894,7 +1986,9 @@
   "mailbox_owner": "Общий ящик университета (General Inquiries)",
   "addressee_name": "Prof. Mohamed Loutfi",
   "addressee_title": "Президент и вице-канцлер",
-  "salutation": "Dear Prof. Loutfi,"
+  "salutation": "Dear Prof. Loutfi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -1935,7 +2029,9 @@
   "mailbox_owner": "Общий ящик университета (General Inquiries)",
   "addressee_name": "Prof. Hala El-Menoufy",
   "addressee_title": "Исполняющая обязанности президента университета",
-  "salutation": "Dear Prof. El-Menoufy,"
+  "salutation": "Dear Prof. El-Menoufy,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -1975,7 +2071,9 @@
   "mailbox_owner": "Общий ящик университета (General Inquiries)",
   "addressee_name": "Prof. Tamer Samir Mahmoud",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Prof. Mahmoud,"
+  "salutation": "Dear Prof. Mahmoud,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -2016,7 +2114,9 @@
   "mailbox_owner": "Общий ящик университета (General Inquiries)",
   "addressee_name": "Prof. Ahmed Mohamed Hamad",
   "addressee_title": "Исполняющий обязанности президента университета",
-  "salutation": "Dear Prof. Hamad,"
+  "salutation": "Dear Prof. Hamad,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -2058,7 +2158,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear President,",
-  "recheck_ru": "Сайт mansnu.edu.eg (www и без www) недоступен — таймаут через curl и reader-сервис 04.10.2026; данные не изменены."
+  "recheck_ru": "Сайт mansnu.edu.eg (www и без www) недоступен — таймаут через curl и reader-сервис 04.10.2026; данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Egypt",
@@ -2102,7 +2204,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear President,",
-  "recheck_ru": "Сайт открылся 04.10.2026: подтверждены только Info@Sphinx.edu.eg, номер 17090 и адрес «Regional service zone, New Assiut»; президент на сайте не указан"
+  "recheck_ru": "Сайт открылся 04.10.2026: подтверждены только Info@Sphinx.edu.eg, номер 17090 и адрес «Regional service zone, New Assiut»; президент на сайте не указан",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -2144,7 +2248,9 @@
   "mailbox_owner": "Приёмная комиссия (Enrollment Office)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -2184,7 +2290,9 @@
   "mailbox_owner": "",
   "addressee_name": "Prof. Hossam El-Malahy",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Prof. El-Malahy,"
+  "salutation": "Dear Prof. El-Malahy,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Egypt",
@@ -2226,7 +2334,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Dr. Abdel Malak,",
-  "recheck_ru": "Сайт недоступен; по СМИ 09.2026 добавлен президент д-р Тарек Абдель Малак; контактов по-прежнему нет"
+  "recheck_ru": "Сайт недоступен; по СМИ 09.2026 добавлен президент д-р Тарек Абдель Малак; контактов по-прежнему нет",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Egypt",
@@ -2268,7 +2378,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear President,",
-  "recheck_ru": "Сайт hnu.edu.eg недоступен; по capu.edu.eg уточнены связь с Capital University и контакты его международного офиса, руководитель HNU не найден"
+  "recheck_ru": "Сайт hnu.edu.eg недоступен; по capu.edu.eg уточнены связь с Capital University и контакты его международного офиса, руководитель HNU не найден",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Egypt",
@@ -2308,7 +2420,9 @@
   "mailbox_owner": "",
   "addressee_name": "Prof. Youhansen Eid",
   "addressee_title": "Вице-исполнительный президент по институциональному развитию и международному сотрудничеству",
-  "salutation": "Dear Prof. Eid,"
+  "salutation": "Dear Prof. Eid,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Egypt",
@@ -2347,7 +2461,9 @@
   "mailbox_owner": "Отдел протокола и связей с общественностью (Protocol & Public Relations Affairs)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -2385,7 +2501,9 @@
   "mailbox_owner": "Офис президента университета",
   "addressee_name": "Prof. Cherif Yousef Khater",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Prof. Khater,"
+  "salutation": "Dear Prof. Khater,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -2426,7 +2544,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Президент проф. Mohamed El-Shinawi подтверждается официальными новостями gu.edu.eg (06.2026) по поисковой выдаче; сайт по-прежнему недоступен — контакты не найдены"
+  "recheck_ru": "Президент проф. Mohamed El-Shinawi подтверждается официальными новостями gu.edu.eg (06.2026) по поисковой выдаче; сайт по-прежнему недоступен — контакты не найдены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Egypt",
@@ -2465,7 +2585,9 @@
   "mailbox_owner": "Общая приёмная (обращения граждан)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -2504,7 +2626,9 @@
   "mailbox_owner": "Общая приёмная университета",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -2545,7 +2669,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "04.10.2026: сайт suezuni.edu.eg по-прежнему недоступен (curl — нет соединения, WebFetch — 503); данные не изменены"
+  "recheck_ru": "04.10.2026: сайт suezuni.edu.eg по-прежнему недоступен (curl — нет соединения, WebFetch — 503); данные не изменены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Egypt",
@@ -2584,7 +2710,9 @@
   "mailbox_owner": "Центральный веб-портал университета",
   "addressee_name": "Prof. Sherif Youssef Saleh",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Prof. Saleh,"
+  "salutation": "Dear Prof. Saleh,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "Egypt",
@@ -2622,7 +2750,9 @@
   "mailbox_owner": "Управление международных связей (International Relations Office)",
   "addressee_name": "Prof. Mohamed Shimi",
   "addressee_title": "Директор Управления международных связей",
-  "salutation": "Dear Prof. Shimi,"
+  "salutation": "Dear Prof. Shimi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -2636,7 +2766,7 @@
   "email_general": "info@msa.edu.eg",
   "email_international": "",
   "phone": "+20 2 38371113; +20 2 38371115",
-  "website": "https://msa.edu.eg/msauniversity/",
+  "website": "https://msa.edu.eg/msauniversity",
   "head_name": "Prof. Nader Elbokle",
   "head_title": "President",
   "party_secretary": "",
@@ -2660,7 +2790,9 @@
   "mailbox_owner": "Общая приёмная университета",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -2700,7 +2832,9 @@
   "mailbox_owner": "Отдел сотрудничества (Collaborations)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -2739,7 +2873,9 @@
   "mailbox_owner": "Общая приёмная университета",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -2753,7 +2889,7 @@
   "email_general": "",
   "email_international": "",
   "phone": "",
-  "website": "https://mnu.menofia.education/",
+  "website": "https://mnu.menofia.education",
   "head_name": "",
   "head_title": "President",
   "party_secretary": "",
@@ -2780,7 +2916,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Сайты mnu.menofia.education, mnu.edu.eg и menofia.edu.eg недоступны (04.10.2026, сброс соединения); данные не изменены."
+  "recheck_ru": "Сайты mnu.menofia.education, mnu.edu.eg и menofia.edu.eg недоступны (04.10.2026, сброс соединения); данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Egypt",
@@ -2819,7 +2957,9 @@
   "mailbox_owner": "Офис президента университета",
   "addressee_name": "Prof. Yehia Zakaria Ahmed Eid",
   "addressee_title": "Президент университета",
-  "salutation": "Dear Prof. Eid,"
+  "salutation": "Dear Prof. Eid,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "Egypt",
@@ -2861,7 +3001,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Сайт недоступен; данные не изменены (президент Essam Elkordi — только по вторичным источникам)."
+  "recheck_ru": "Сайт недоступен; данные не изменены (президент Essam Elkordi — только по вторичным источникам).",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "Egypt",
@@ -2900,7 +3042,9 @@
   "mailbox_owner": "Общая приёмная университета",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "Egypt",
@@ -2940,6 +3084,8 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Relations,",
-  "recheck_ru": "Официальный домен не найден (варианты hurghada.edu.eg, hurghadauniv.edu.eg и др. недоступны); сайт Минвысобразования (mohesr.gov.eg, 30.08.2025) подтверждает существование вуза (утверждение фирменного стиля Хургадского университета Высшим советом университетов), но руководителя и контактов не даёт; данные не изменены."
+  "recheck_ru": "Официальный домен не найден (варианты hurghada.edu.eg, hurghadauniv.edu.eg и др. недоступны); сайт Минвысобразования (mohesr.gov.eg, 30.08.2025) подтверждает существование вуза (утверждение фирменного стиля Хургадского университета Высшим советом университетов), но руководителя и контактов не даёт; данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  }
 ]

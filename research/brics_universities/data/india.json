@@ -38,7 +38,9 @@
   "mailbox_owner": "Декан по ИС, инновациям и международным связям (Dean – IPR, Innovation and International Relations)",
   "addressee_name": "Prof. N. Sabu",
   "addressee_title": "Декан по интеллектуальной собственности, инновациям и международным связям",
-  "salutation": "Dear Prof. Sabu,"
+  "salutation": "Dear Prof. Sabu,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -77,7 +79,9 @@
   "mailbox_owner": "Директор по международным связям (Director – International Relations)",
   "addressee_name": "Dr. Satyendra Kumar Upadhyay",
   "addressee_title": "Директор по международным связям",
-  "salutation": "Dear Dr. Upadhyay,"
+  "salutation": "Dear Dr. Upadhyay,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -116,7 +120,9 @@
   "mailbox_owner": "Декан по глобальному партнёрству (Dean – Global Partnerships)",
   "addressee_name": "Dr. J. R. Nataraj",
   "addressee_title": "Декан по глобальному партнёрству",
-  "salutation": "Dear Dr. Nataraj,"
+  "salutation": "Dear Dr. Nataraj,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -157,7 +163,9 @@
   "mailbox_owner": "Отдел международных связей (International Affairs Division, IAD)",
   "addressee_name": "",
   "addressee_title": "Руководитель отдела международных связей",
-  "salutation": "Dear Head of the International Affairs Division,"
+  "salutation": "Dear Head of the International Affairs Division,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -200,7 +208,9 @@
   "addressee_name": "",
   "addressee_title": "Декан по международным делам",
   "salutation": "Dear Dean of International Affairs,",
-  "recheck_ru": "Сайт недоступен; данные не изменены (ВК подтверждён только СМИ о назначении на 3-летний срок)."
+  "recheck_ru": "Сайт недоступен; данные не изменены (ВК подтверждён только СМИ о назначении на 3-летний срок).",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -239,7 +249,9 @@
   "mailbox_owner": "Центр международных программ (Amrita Center for International Programs, ACIP)",
   "addressee_name": "Dr. Maneesha Vinodini Ramesh",
   "addressee_title": "Проректор (Pro Vice Chancellor), декан, руководитель Центра международных программ",
-  "salutation": "Dear Dr. Ramesh,"
+  "salutation": "Dear Dr. Ramesh,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -279,7 +291,9 @@
   "mailbox_owner": "Офис международных связей (International Relations Office)",
   "addressee_name": "Mr. Debraj Pradhan",
   "addressee_title": "Генеральный директор офиса международных связей",
-  "salutation": "Dear Mr. Pradhan,"
+  "salutation": "Dear Mr. Pradhan,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -318,7 +332,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Relations)",
   "addressee_name": "",
   "addressee_title": "Декан по международным связям",
-  "salutation": "Dear Dean of International Relations,"
+  "salutation": "Dear Dean of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -360,7 +376,9 @@
   "addressee_name": "",
   "addressee_title": "Директор Центра международных связей",
   "salutation": "Dear Director of the International Relationships Centre,",
-  "recheck_ru": "Сайт bdu.ac.in недоступен (curl — нет соединения, WebFetch 503) 04.10.2026; данные не изменены."
+  "recheck_ru": "Сайт bdu.ac.in недоступен (curl — нет соединения, WebFetch 503) 04.10.2026; данные не изменены.",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -398,7 +416,9 @@
   "mailbox_owner": "Канцелярия ректора (Office of the Vice-Chancellor)",
   "addressee_name": "Prof. (Dr.) D. Mavoothu",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Mavoothu,"
+  "salutation": "Dear Prof. Mavoothu,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -438,7 +458,9 @@
   "mailbox_owner": "Канцелярия ректора (Office of the Vice-Chancellor)",
   "addressee_name": "Prof. Soniya Nityanand",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Nityanand,"
+  "salutation": "Dear Prof. Nityanand,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -477,7 +499,9 @@
   "mailbox_owner": "Офис глобального взаимодействия, выпускников и корпоративных связей (Office of Global Engagement, Alumni and Corporate Relations)",
   "addressee_name": "Prof. Suresh Jain",
   "addressee_title": "Декан по глобальному взаимодействию, связям с выпускниками и корпоративным связям",
-  "salutation": "Dear Prof. Jain,"
+  "salutation": "Dear Prof. Jain,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -519,7 +543,9 @@
   "addressee_name": "Dr. Anuj Grover",
   "addressee_title": "Ответственный преподаватель по международным делам (Faculty In-Charge, International Affairs)",
   "salutation": "Dear Dr. Grover,",
-  "recheck_ru": "04.10.2026: iiitd.ac.in и ia.iiitd.ac.in недоступны (ошибка TLS-цепочки); данные не изменены."
+  "recheck_ru": "04.10.2026: iiitd.ac.in и ia.iiitd.ac.in недоступны (ошибка TLS-цепочки); данные не изменены.",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -558,7 +584,9 @@
   "mailbox_owner": "Офис международных дел (Office of International Affairs)",
   "addressee_name": "",
   "addressee_title": "Руководитель офиса международных дел",
-  "salutation": "Dear Head of the Office of International Affairs,"
+  "salutation": "Dear Head of the Office of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -596,7 +624,9 @@
   "mailbox_owner": "Заместитель декана по международному взаимодействию (Associate Dean, International Outreach)",
   "addressee_name": "Prof. Surya Pratap Singh",
   "addressee_title": "Заместитель декана по международному взаимодействию",
-  "salutation": "Dear Prof. Singh,"
+  "salutation": "Dear Prof. Singh,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -634,7 +664,9 @@
   "mailbox_owner": "Центр международных связей (Center for International Relations)",
   "addressee_name": "Dr. Kishore Debnath",
   "addressee_title": "Руководитель Центра международных связей",
-  "salutation": "Dear Dr. Debnath,"
+  "salutation": "Dear Dr. Debnath,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -675,7 +707,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Dean of International Relations,",
-  "recheck_ru": "gitam.edu по-прежнему отдаёт анти-бот-защиту HTTP 403 (04.10.2026); обход не выполнялся, данные не изменены."
+  "recheck_ru": "gitam.edu по-прежнему отдаёт анти-бот-защиту HTTP 403 (04.10.2026); обход не выполнялся, данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "India",
@@ -718,7 +752,9 @@
   "addressee_name": "Dr. Barunjyoti Choudhury",
   "addressee_title": "Director, Directorate for Internationalization of Higher Education",
   "salutation": "Dear Dr. Choudhury,",
-  "recheck_ru": "Сайт открылся 04.10.2026: подтверждены адрес, телефон, vc@/registrar@aus.ac.in и контакты Директората интернационализации; ректор по-прежнему не подтверждён"
+  "recheck_ru": "Сайт открылся 04.10.2026: подтверждены адрес, телефон, vc@/registrar@aus.ac.in и контакты Директората интернационализации; ректор по-прежнему не подтверждён",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -756,7 +792,9 @@
   "mailbox_owner": "Декан по международным делам и сотрудничеству с промышленностью (Dean, International Affairs and Industry Collaboration)",
   "addressee_name": "Dr. Valliappan Raman",
   "addressee_title": "Декан по международным делам и сотрудничеству с промышленностью",
-  "salutation": "Dear Dr. Raman,"
+  "salutation": "Dear Dr. Raman,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -796,7 +834,9 @@
   "mailbox_owner": "Отдел международных связей (International Relations)",
   "addressee_name": "Dr. M. A. Manikandan",
   "addressee_title": "Директор по международным связям",
-  "salutation": "Dear Dr. Manikandan,"
+  "salutation": "Dear Dr. Manikandan,",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "India",
@@ -835,7 +875,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Relations), декан по международным связям",
   "addressee_name": "Prof. Bushra Ateeq",
   "addressee_title": "Декан по международным связям (Dean of International Relations)",
-  "salutation": "Dear Prof. Ateeq,"
+  "salutation": "Dear Prof. Ateeq,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -876,7 +918,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Relations)",
   "addressee_name": "Dr. Sudheer Reddy",
   "addressee_title": "Декан по международным связям (Dean, International Relations)",
-  "salutation": "Dear Dr. Reddy,"
+  "salutation": "Dear Dr. Reddy,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -917,7 +961,9 @@
   "mailbox_owner": "Центр международных связей (Centre for International Relations)",
   "addressee_name": "Prof. R. Baskaran",
   "addressee_title": "Директор Центра международных связей",
-  "salutation": "Dear Prof. Baskaran,"
+  "salutation": "Dear Prof. Baskaran,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -956,7 +1002,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Relations)",
   "addressee_name": "Dr. R. Seenivasan",
   "addressee_title": "Директор по международным связям (Director – International Relations)",
-  "salutation": "Dear Dr. Seenivasan,"
+  "salutation": "Dear Dr. Seenivasan,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -996,7 +1044,9 @@
   "mailbox_owner": "Канцелярия проректора (Office of the Vice-Chancellor)",
   "addressee_name": "Prof. Jagdish S. Joshi",
   "addressee_title": "Исполняющий обязанности проректора (Vice-Chancellor I/C)",
-  "salutation": "Dear Prof. Joshi,"
+  "salutation": "Dear Prof. Joshi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -1039,7 +1089,9 @@
   "addressee_name": "Dr. G. Uma",
   "addressee_title": "Декан по институциональному развитию и связям с выпускниками (Dean, Institutional Development & Alumni Relations)",
   "salutation": "Dear Dr. Uma,",
-  "recheck_ru": "Директор, e-mail директора, адрес и декан ID&AR (deanid@nitt.edu) подтверждены на сайте nitt.edu 04.10.2026; адресат изменён на Dr. G. Uma"
+  "recheck_ru": "Директор, e-mail директора, адрес и декан ID&AR (deanid@nitt.edu) подтверждены на сайте nitt.edu 04.10.2026; адресат изменён на Dr. G. Uma",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -1079,7 +1131,9 @@
   "mailbox_owner": "Офис международных дел (Office for International Affairs)",
   "addressee_name": "",
   "addressee_title": "Директор Офиса международных дел",
-  "salutation": "Dear Director of International Affairs,"
+  "salutation": "Dear Director of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -1122,7 +1176,9 @@
   "addressee_name": "",
   "addressee_title": "Декан по международным связям (Dean of International Relations)",
   "salutation": "Dear Dean of International Relations,",
-  "recheck_ru": "Сайт iitj.ac.in (после исправления цепочки сертификата) отдаёт страницу блокировки WAF («This page can't be displayed») — контакты не подтверждены, данные не изменены (04.10.2026)"
+  "recheck_ru": "Сайт iitj.ac.in (после исправления цепочки сертификата) отдаёт страницу блокировки WAF («This page can't be displayed») — контакты не подтверждены, данные не изменены (04.10.2026)",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -1164,7 +1220,9 @@
   "mailbox_owner": "Канцелярия проректора (Office of the Vice-Chancellor)",
   "addressee_name": "Prof. Raj Kumar Mittal",
   "addressee_title": "Проректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Mittal,"
+  "salutation": "Dear Prof. Mittal,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -1203,7 +1261,9 @@
   "mailbox_owner": "Декан по международным делам и выпускникам (Dean, International Affairs & Alumni)",
   "addressee_name": "Dr. K. M. Bhurchandi",
   "addressee_title": "Декан по международным делам и выпускникам",
-  "salutation": "Dear Dr. Bhurchandi,"
+  "salutation": "Dear Dr. Bhurchandi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -1242,7 +1302,9 @@
   "mailbox_owner": "Декан по связям с выпускниками и международным связям (Dean, Alumni & International Relations)",
   "addressee_name": "Prof. Shradha Shivani",
   "addressee_title": "Декан по связям с выпускниками и международным связям",
-  "salutation": "Dear Prof. Shivani,"
+  "salutation": "Dear Prof. Shivani,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -1282,7 +1344,9 @@
   "mailbox_owner": "Международный офис (International Office)",
   "addressee_name": "",
   "addressee_title": "Руководитель Международного офиса",
-  "salutation": "Dear Director of the International Office,"
+  "salutation": "Dear Director of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -1322,7 +1386,9 @@
   "mailbox_owner": "Офис международных дел (Office of International Affairs)",
   "addressee_name": "Dr. Fr. Viju P. Devassy",
   "addressee_title": "Проректор (Pro Vice-Chancellor), директор Офиса международных дел",
-  "salutation": "Dear Fr. Devassy,"
+  "salutation": "Dear Fr. Devassy,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -1363,7 +1429,9 @@
   "addressee_name": "Prof. Anand Srivastava",
   "addressee_title": "Проректор (Vice-Chancellor)",
   "salutation": "Dear Prof. Srivastava,",
-  "recheck_ru": "Проректор (VC) проф. Ананд Шривастава (с 29.11.2023), адрес и телефон подтверждены на nsut.ac.in 04.10.2026; vc@nsut.ac.in на открытых страницах не найден"
+  "recheck_ru": "Проректор (VC) проф. Ананд Шривастава (с 29.11.2023), адрес и телефон подтверждены на nsut.ac.in 04.10.2026; vc@nsut.ac.in на открытых страницах не найден",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -1402,7 +1470,9 @@
   "mailbox_owner": "Канцелярия проректора (Office of the Vice-Chancellor)",
   "addressee_name": "Prof. Ramakrishna Wusirika",
   "addressee_title": "Исполняющий обязанности проректора (Acting Vice-Chancellor)",
-  "salutation": "Dear Prof. Wusirika,"
+  "salutation": "Dear Prof. Wusirika,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -1442,7 +1512,9 @@
   "mailbox_owner": "Отдел иностранных студентов (International Students Division / DASA)",
   "addressee_name": "Dr. S. Dhanavandan",
   "addressee_title": "Ответственный (Nodal Officer) по приёму иностранных студентов (DASA)",
-  "salutation": "Dear Dr. Dhanavandan,"
+  "salutation": "Dear Dr. Dhanavandan,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -1482,7 +1554,9 @@
   "mailbox_owner": "Директор по международным делам (Director, International Affairs)",
   "addressee_name": "",
   "addressee_title": "Директор по международным делам",
-  "salutation": "Dear Director of International Affairs,"
+  "salutation": "Dear Director of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -1526,7 +1600,9 @@
   "addressee_name": "Prof. Ritu Sharma",
   "addressee_title": "Head, Office of International Relations",
   "salutation": "Dear Professor Sharma,",
-  "recheck_ru": "04.10.2026: на новом домене pdeu.ac.in подтверждены DG, адрес, телефоны и Dean.IR@; руководитель OIR сменился на Prof. Ritu Sharma"
+  "recheck_ru": "04.10.2026: на новом домене pdeu.ac.in подтверждены DG, адрес, телефоны и Dean.IR@; руководитель OIR сменился на Prof. Ritu Sharma",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -1566,7 +1642,9 @@
   "mailbox_owner": "Декан по корпоративным и международным связям (Dean, Corporate & International Relations)",
   "addressee_name": "Dr. Hari R",
   "addressee_title": "Декан по корпоративным и международным связям",
-  "salutation": "Dear Dr. Hari,"
+  "salutation": "Dear Dr. Hari,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -1609,7 +1687,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Vice-Chancellor,",
-  "recheck_ru": "Сайт mahindrauniversity.edu.in по-прежнему закрыт (403 Cloudflare, в т.ч. WebFetch и sitemap) на 04.10.2026; данные не изменены."
+  "recheck_ru": "Сайт mahindrauniversity.edu.in по-прежнему закрыт (403 Cloudflare, в т.ч. WebFetch и sitemap) на 04.10.2026; данные не изменены.",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -1649,7 +1729,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Relations, Dean IR)",
   "addressee_name": "Prof. Sudarshan Kumar",
   "addressee_title": "Декан по международным связям (Dean – International Relations)",
-  "salutation": "Dear Prof. Kumar,"
+  "salutation": "Dear Prof. Kumar,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -1690,7 +1772,9 @@
   "mailbox_owner": "Дирекция международных связей (Directorate of International Relations)",
   "addressee_name": "",
   "addressee_title": "Директор по международным связям (Director – International Relations)",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -1733,7 +1817,9 @@
   "addressee_name": "Dr. Anupama Sharma",
   "addressee_title": "Декан по институциональному развитию и международным связям",
   "salutation": "Dear Dr. Sharma,",
-  "recheck_ru": "Сайт недоступен; директор дополнительно подтверждён по индексу официальной брошюры 05.2026, контакты не изменены."
+  "recheck_ru": "Сайт недоступен; директор дополнительно подтверждён по индексу официальной брошюры 05.2026, контакты не изменены.",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -1774,7 +1860,9 @@
   "mailbox_owner": "Офис международных связей (Dean – International Relations)",
   "addressee_name": "Dr. S. Victor Anandkumar",
   "addressee_title": "Декан по международным связям (Dean – International Relations)",
-  "salutation": "Dear Dr. Anandkumar,"
+  "salutation": "Dear Dr. Anandkumar,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -1813,7 +1901,9 @@
   "mailbox_owner": "Канцелярия директора (Director, IIRS)",
   "addressee_name": "Dr. R.P. Singh",
   "addressee_title": "Директор IIRS",
-  "salutation": "Dear Dr. Singh,"
+  "salutation": "Dear Dr. Singh,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -1853,7 +1943,9 @@
   "mailbox_owner": "Советник по иностранным студентам (Foreign Students' Cell / International Students Advisor)",
   "addressee_name": "Mr. Pranab Kumar Gayen",
   "addressee_title": "Заместитель регистратора и советник по иностранным студентам (Deputy Registrar & ISA)",
-  "salutation": "Dear Mr. Gayen,"
+  "salutation": "Dear Mr. Gayen,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -1892,7 +1984,9 @@
   "mailbox_owner": "Офис Associate Dean (Resource) — International Relations Cell",
   "addressee_name": "Dr. Nutan Kumar Tomar",
   "addressee_title": "Заместитель декана по ресурсам (Associate Dean, Resource), курирует международные связи",
-  "salutation": "Dear Dr. Tomar,"
+  "salutation": "Dear Dr. Tomar,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -1931,7 +2025,9 @@
   "mailbox_owner": "Офис международных связей и работы с выпускниками (Office of International Relations & Alumni Affairs)",
   "addressee_name": "Prof. T Kishore Kumar",
   "addressee_title": "Декан по международным связям и работе с выпускниками (Dean, IRAA)",
-  "salutation": "Dear Prof. Kishore Kumar,"
+  "salutation": "Dear Prof. Kishore Kumar,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -1969,7 +2065,9 @@
   "mailbox_owner": "Общая приёмная института (general queries)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Dean of International Relations,"
+  "salutation": "Dear Dean of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -2009,7 +2107,9 @@
   "mailbox_owner": "Центр международных связей (Centre for International Relations, CIR)",
   "addressee_name": "Dr. C. Sekar",
   "addressee_title": "Директор Центра международных связей",
-  "salutation": "Dear Dr. Sekar,"
+  "salutation": "Dear Dr. Sekar,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -2048,7 +2148,9 @@
   "mailbox_owner": "Справочная служба университета (Helpdesk)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Dean of International Relations,"
+  "salutation": "Dear Dean of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -2088,7 +2190,9 @@
   "mailbox_owner": "Дирекция международного сотрудничества (Directorate of International Collaborations, DoIC)",
   "addressee_name": "Dr Ravi Kumar Sharma",
   "addressee_title": "Профессор, директор по международному сотрудничеству (Director, DoIC)",
-  "salutation": "Dear Dr. Sharma,"
+  "salutation": "Dear Dr. Sharma,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -2126,7 +2230,9 @@
   "mailbox_owner": "Офис международных связей (International Relations Office)",
   "addressee_name": "Dr. Subrahmanyam Mula",
   "addressee_title": "Ответственный преподаватель по международным связям и работе с выпускниками (Faculty-in-charge, International and Alumni Relations)",
-  "salutation": "Dear Dr. Mula,"
+  "salutation": "Dear Dr. Mula,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -2166,7 +2272,9 @@
   "mailbox_owner": "Офис по работе с иностранными студентами (Dean, International Students)",
   "addressee_name": "Dr. Sharda Allamneni",
   "addressee_title": "Декан по делам иностранных студентов (Dean, International Students)",
-  "salutation": "Dear Dr. Allamneni,"
+  "salutation": "Dear Dr. Allamneni,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -2205,7 +2313,9 @@
   "mailbox_owner": "Канцелярия директора (Director's Office)",
   "addressee_name": "Prof. Harish Hirani",
   "addressee_title": "Директор",
-  "salutation": "Dear Prof. Hirani,"
+  "salutation": "Dear Prof. Hirani,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -2245,7 +2355,9 @@
   "mailbox_owner": "Центр по работе с иностранными студентами (ANU International Students Cell)",
   "addressee_name": "Prof. P. Padmavathi",
   "addressee_title": "Директор International Students Cell",
-  "salutation": "Dear Prof. Padmavathi,"
+  "salutation": "Dear Prof. Padmavathi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -2284,7 +2396,9 @@
   "mailbox_owner": "Офис международных дел (SRU Global Education / International Affairs)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Dean of International Relations,"
+  "salutation": "Dear Dean of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -2323,7 +2437,9 @@
   "mailbox_owner": "Офис международных дел (Office for International Affairs)",
   "addressee_name": "Prof. R. P. Singh",
   "addressee_title": "Директор по международному сотрудничеству и советник иностранных студентов",
-  "salutation": "Dear Prof. Singh,"
+  "salutation": "Dear Prof. Singh,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -2363,7 +2479,9 @@
   "mailbox_owner": "Отдел международного сотрудничества (International Collaboration Department)",
   "addressee_name": "Mr. Pradnesh Desai",
   "addressee_title": "Директор отдела международного сотрудничества (Director, ICD)",
-  "salutation": "Dear Mr. Desai,"
+  "salutation": "Dear Mr. Desai,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -2402,7 +2520,9 @@
   "mailbox_owner": "Офис международных дел (Office for International Affairs)",
   "addressee_name": "Prof. Syed Najamul Hasan",
   "addressee_title": "Координатор по международным делам (Coordinator, International Affairs)",
-  "salutation": "Dear Prof. Hasan,"
+  "salutation": "Dear Prof. Hasan,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -2442,7 +2562,9 @@
   "mailbox_owner": "Офис глобального взаимодействия (Office of Global Engagement)",
   "addressee_name": "Prof. Preeti Aghalayam",
   "addressee_title": "Декан по глобальному взаимодействию (Dean, Global Engagement)",
-  "salutation": "Dear Prof. Aghalayam,"
+  "salutation": "Dear Prof. Aghalayam,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -2481,7 +2603,9 @@
   "mailbox_owner": "Директорат по международным связям (Director International Relations)",
   "addressee_name": "",
   "addressee_title": "Директор по международным связям",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -2520,7 +2644,9 @@
   "mailbox_owner": "Офис международных дел (Office of International Affairs, OIA)",
   "addressee_name": "Dr. Shubham Sharma",
   "addressee_title": "Заместитель директора Офиса международных дел (Deputy Director – OIA)",
-  "salutation": "Dear Dr. Sharma,"
+  "salutation": "Dear Dr. Sharma,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -2559,7 +2685,9 @@
   "mailbox_owner": "Отдел международных связей (International Relations)",
   "addressee_name": "Dr. K. Suthendran",
   "addressee_title": "Директор по международным связям (Director International Relations)",
-  "salutation": "Dear Dr. Suthendran,"
+  "salutation": "Dear Dr. Suthendran,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -2597,7 +2725,9 @@
   "mailbox_owner": "Офис директора (Director's Office)",
   "addressee_name": "Prof. Anil Bhardwaj",
   "addressee_title": "Директор PRL",
-  "salutation": "Dear Prof. Bhardwaj,"
+  "salutation": "Dear Prof. Bhardwaj,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -2636,7 +2766,9 @@
   "mailbox_owner": "Секретариат ректора (VC Secretariat)",
   "addressee_name": "Prof. Naima Khatoon",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Khatoon,"
+  "salutation": "Dear Prof. Khatoon,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -2676,7 +2808,9 @@
   "mailbox_owner": "Офис ректора (Vice-Chancellor's Office)",
   "addressee_name": "Dr. Raviraja N. Seetharam",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Dr. Seetharam,"
+  "salutation": "Dear Dr. Seetharam,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -2714,7 +2848,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Relations)",
   "addressee_name": "",
   "addressee_title": "Руководитель офиса международных связей",
-  "salutation": "Dear Head of International Relations,"
+  "salutation": "Dear Head of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -2755,7 +2891,9 @@
   "addressee_name": "Prof. Dr. Rita John",
   "addressee_title": "Registrar",
   "salutation": "Dear Professor John,",
-  "recheck_ru": "На официальном сайте unom.ac.in (открыт 04.10.2026) подтверждены: управление VC Convener Committee (конвинер V. Arun Roy, I.A.S.), регистратор Prof. Rita John и её e-mail registrar@unom.ac.in; страницы без даты."
+  "recheck_ru": "На официальном сайте unom.ac.in (открыт 04.10.2026) подтверждены: управление VC Convener Committee (конвинер V. Arun Roy, I.A.S.), регистратор Prof. Rita John и её e-mail registrar@unom.ac.in; страницы без даты.",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -2793,7 +2931,9 @@
   "mailbox_owner": "Офис регистратора (Registrar)",
   "addressee_name": "",
   "addressee_title": "Регистратор",
-  "salutation": "Dear Registrar,"
+  "salutation": "Dear Registrar,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -2833,7 +2973,9 @@
   "mailbox_owner": "Приёмная комиссия (Admissions) — другой общий ящик не опубликован",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Vice Chancellor,"
+  "salutation": "Dear Vice Chancellor,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -2873,7 +3015,9 @@
   "mailbox_owner": "Офис международных связей MIT (Office of International Relations)",
   "addressee_name": "Dr. Smitha Nayak",
   "addressee_title": "Заместитель директора Офиса международных связей (Associate Director)",
-  "salutation": "Dear Dr. Nayak,"
+  "salutation": "Dear Dr. Nayak,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -2912,7 +3056,9 @@
   "mailbox_owner": "Офис директора (Director's Office)",
   "addressee_name": "Prof. (Dr.) Binod Kumar Kanaujia",
   "addressee_title": "Директор (по совместительству)",
-  "salutation": "Dear Prof. Kanaujia,"
+  "salutation": "Dear Prof. Kanaujia,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -2954,7 +3100,9 @@
   "addressee_name": "Prof. N. K. Lokanath",
   "addressee_title": "Ректор (Vice-Chancellor)",
   "salutation": "Dear Prof. Lokanath,",
-  "recheck_ru": "04.10.2026: uni-mysore.ac.in недоступен; новых официальных подтверждений не найдено — данные не изменены."
+  "recheck_ru": "04.10.2026: uni-mysore.ac.in недоступен; новых официальных подтверждений не найдено — данные не изменены.",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -2994,7 +3142,9 @@
   "mailbox_owner": "Приёмная комиссия (Admissions) — другой общий ящик не опубликован",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Vice Chancellor,"
+  "salutation": "Dear Vice Chancellor,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -3033,7 +3183,9 @@
   "mailbox_owner": "Офис директора (Director's Office)",
   "addressee_name": "Prof. Brahmjit Singh",
   "addressee_title": "Исполняющий обязанности директора (Director In-Charge)",
-  "salutation": "Dear Prof. Singh,"
+  "salutation": "Dear Prof. Singh,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -3071,7 +3223,9 @@
   "mailbox_owner": "Офис регистратора (Registrar)",
   "addressee_name": "",
   "addressee_title": "Регистратор",
-  "salutation": "Dear Registrar,"
+  "salutation": "Dear Registrar,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -3113,7 +3267,9 @@
   "addressee_name": "Dr. Makarand Madhao Ghangrekar",
   "addressee_title": "Директор",
   "salutation": "Dear Dr. Ghangrekar,",
-  "recheck_ru": "Директор, e-mail директора и декан по международным связям подтверждены на nitpy.ac.in (Administration/Dean Directory, стр. от 01.10.2026) 04.10.2026 через reader-сервис; добавлены международный e-mail и телефоны."
+  "recheck_ru": "Директор, e-mail директора и декан по международным связям подтверждены на nitpy.ac.in (Administration/Dean Directory, стр. от 01.10.2026) 04.10.2026 через reader-сервис; добавлены международный e-mail и телефоны.",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "India",
@@ -3152,7 +3308,9 @@
   "mailbox_owner": "Офис директора колледжа (Principal)",
   "addressee_name": "Dr. P. Deiva Sundari",
   "addressee_title": "Директор колледжа (Principal)",
-  "salutation": "Dear Dr. Deiva Sundari,"
+  "salutation": "Dear Dr. Deiva Sundari,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -3191,7 +3349,9 @@
   "mailbox_owner": "Офис директора (Director / VC)",
   "addressee_name": "Dr. Harinder Singh Oberoi",
   "addressee_title": "Директор",
-  "salutation": "Dear Dr. Oberoi,"
+  "salutation": "Dear Dr. Oberoi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -3231,7 +3391,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Relations)",
   "addressee_name": "Prof. Anandaroop Bhattacharya",
   "addressee_title": "Декан по международным связям (Dean, International Relations)",
-  "salutation": "Dear Prof. Bhattacharya,"
+  "salutation": "Dear Prof. Bhattacharya,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -3271,7 +3433,9 @@
   "mailbox_owner": "Офис директора колледжа (Principal's Office)",
   "addressee_name": "Dr. J. Venu Gopala Krishnan",
   "addressee_title": "Директор колледжа (Principal)",
-  "salutation": "Dear Dr. Venu Gopala Krishnan,"
+  "salutation": "Dear Dr. Venu Gopala Krishnan,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -3310,7 +3474,9 @@
   "mailbox_owner": "Офис по связям с выпускниками, промышленностью и международным связям (Alumni, Industry and International Relations, AIIR)",
   "addressee_name": "Prof. Dipti Patra",
   "addressee_title": "Декан по связям с выпускниками, промышленностью и международным связям (Dean, AIIR)",
-  "salutation": "Dear Prof. Patra,"
+  "salutation": "Dear Prof. Patra,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -3349,7 +3515,9 @@
   "mailbox_owner": "Офис директора (Director's Office)",
   "addressee_name": "Dr. Ch. Srinivasa Rao",
   "addressee_title": "Директор и вице-канцлер (Director & Vice-Chancellor)",
-  "salutation": "Dear Dr. Rao,"
+  "salutation": "Dear Dr. Rao,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -3388,7 +3556,9 @@
   "mailbox_owner": "Офис международного сотрудничества (International Collaboration Office)",
   "addressee_name": "",
   "addressee_title": "Директор по международному сотрудничеству (Director, International Collaboration)",
-  "salutation": "Dear Director of International Collaboration,"
+  "salutation": "Dear Director of International Collaboration,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -3426,7 +3596,9 @@
   "mailbox_owner": "Офис декана по международным связям (Office of Dean International Affairs)",
   "addressee_name": "Prof. Prabhat Kumar Upadhyay",
   "addressee_title": "Декан по международным связям (Dean of International Relations)",
-  "salutation": "Dear Prof. Upadhyay,"
+  "salutation": "Dear Prof. Upadhyay,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -3464,7 +3636,9 @@
   "mailbox_owner": "Офис декана по международным связям, выпускникам и корпоративным отношениям (Dean, International, Alumni and Corporate Relations)",
   "addressee_name": "Dr. Kumaravel S",
   "addressee_title": "Декан по международным связям, выпускникам и корпоративным отношениям",
-  "salutation": "Dear Dr. Kumaravel,"
+  "salutation": "Dear Dr. Kumaravel,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -3503,7 +3677,9 @@
   "mailbox_owner": "Декан по делам выпускников и международным связям (Dean, Alumni Affairs & International Affairs) — личный ящик",
   "addressee_name": "Prof. Vishal Verma",
   "addressee_title": "Декан по делам выпускников и международным связям (Dean, Alumni Affairs & International Affairs)",
-  "salutation": "Dear Prof. Verma,"
+  "salutation": "Dear Prof. Verma,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -3541,7 +3717,9 @@
   "mailbox_owner": "Офис по связям с выпускниками, корпорациями и международным связям (Alumni, Corporate and International Relations, ACIR)",
   "addressee_name": "Prof. Animesh Mandal",
   "addressee_title": "Декан по связям с выпускниками, корпорациями и международным связям (Dean, ACIR)",
-  "salutation": "Dear Prof. Mandal,"
+  "salutation": "Dear Prof. Mandal,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -3584,7 +3762,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Dean of International Relations,",
-  "recheck_ru": "Сайт ssn.edu.in (включая /contact-us/) и сайты Shiv Nadar University по-прежнему недоступны (Cloudflare 403/502); данные не изменены"
+  "recheck_ru": "Сайт ssn.edu.in (включая /contact-us/) и сайты Shiv Nadar University по-прежнему недоступны (Cloudflare 403/502); данные не изменены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "India",
@@ -3624,7 +3804,9 @@
   "mailbox_owner": "Офис директора (Director's Office)",
   "addressee_name": "Prof. Pradip K. Jain",
   "addressee_title": "Директор (Director)",
-  "salutation": "Dear Prof. Jain,"
+  "salutation": "Dear Prof. Jain,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -3668,7 +3850,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Director of International Affairs,",
-  "recheck_ru": "Сайты bvuniversity.edu.in (Cloudflare 403) и *.bharatividyapeeth.edu (сброс соединения) недоступны 04.10.2026; данные не изменены"
+  "recheck_ru": "Сайты bvuniversity.edu.in (Cloudflare 403) и *.bharatividyapeeth.edu (сброс соединения) недоступны 04.10.2026; данные не изменены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "India",
@@ -3710,7 +3894,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Dean of International Relations,",
-  "recheck_ru": "Сайт bangaloreuniversity.karnataka.gov.in и портал karnataka.gov.in недоступны (503 / сброс соединения), домен bangaloreuniversity.ac.in не разрешается — данные не изменены (04.10.2026)"
+  "recheck_ru": "Сайт bangaloreuniversity.karnataka.gov.in и портал karnataka.gov.in недоступны (503 / сброс соединения), домен bangaloreuniversity.ac.in не разрешается — данные не изменены (04.10.2026)",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "India",
@@ -3752,7 +3938,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Dean of International Relations,",
-  "recheck_ru": "Директор проф. Rajiv Prakash подтверждён официальным аккаунтом IIT Bhilai в X (08.06.2026); сайт по-прежнему недоступен (503) — контакты не подтверждены"
+  "recheck_ru": "Директор проф. Rajiv Prakash подтверждён официальным аккаунтом IIT Bhilai в X (08.06.2026); сайт по-прежнему недоступен (503) — контакты не подтверждены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "India",
@@ -3791,7 +3979,9 @@
   "mailbox_owner": "Офис директора (Director's Office)",
   "addressee_name": "Dr. Mani Kant Paswan",
   "addressee_title": "Директор (Director)",
-  "salutation": "Dear Dr. Paswan,"
+  "salutation": "Dear Dr. Paswan,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -3831,7 +4021,9 @@
   "mailbox_owner": "Департамент международных связей (Department of International Affairs)",
   "addressee_name": "",
   "addressee_title": "Декан департамента международных связей (Dean, Department of International Affairs)",
-  "salutation": "Dear Dean of International Affairs,"
+  "salutation": "Dear Dean of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -3869,7 +4061,9 @@
   "mailbox_owner": "Отдел международных связей (International Affairs)",
   "addressee_name": "Prof. Gagan Deep Sharma",
   "addressee_title": "Директор по международным связям (Director, International Affairs)",
-  "salutation": "Dear Prof. Sharma,"
+  "salutation": "Dear Prof. Sharma,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -3909,7 +4103,9 @@
   "mailbox_owner": "Центр международного образования (Avinashilingam Centre for International Education, ACIE)",
   "addressee_name": "Dr. S. Sumathi",
   "addressee_title": "Координатор ACIE (Co-ordinator)",
-  "salutation": "Dear Dr. Sumathi,"
+  "salutation": "Dear Dr. Sumathi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -3948,7 +4144,9 @@
   "mailbox_owner": "Международный офис (International Office)",
   "addressee_name": "Mr. Deepak Kaushik",
   "addressee_title": "Директор по международным связям (Director – International Relations)",
-  "salutation": "Dear Mr. Kaushik,"
+  "salutation": "Dear Mr. Kaushik,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -3988,7 +4186,9 @@
   "mailbox_owner": "Декан по исследованиям, консалтингу и международным связям (Dean, Research, Consultancy & International Relations) — личный ящик",
   "addressee_name": "Dr. N. Venkatachalapathy",
   "addressee_title": "Декан по исследованиям, консалтингу и международным связям",
-  "salutation": "Dear Dr. Venkatachalapathy,"
+  "salutation": "Dear Dr. Venkatachalapathy,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "India",
@@ -4028,7 +4228,9 @@
   "mailbox_owner": "Офис международных программ (Office of International Programmes / Dean, International Programmes)",
   "addressee_name": "Prof. Anil Verma",
   "addressee_title": "Декан по международным программам (Dean, International Programmes)",
-  "salutation": "Dear Prof. Verma,"
+  "salutation": "Dear Prof. Verma,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -4068,7 +4270,9 @@
   "mailbox_owner": "Офис директора колледжа (Director / Principal, GHRCE)",
   "addressee_name": "Dr. Sachin Untawale",
   "addressee_title": "Директор колледжа",
-  "salutation": "Dear Dr. Untawale,"
+  "salutation": "Dear Dr. Untawale,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -4108,7 +4312,9 @@
   "mailbox_owner": "Отдел международных связей (Division of International Affairs)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Dean of International Relations,"
+  "salutation": "Dear Dean of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -4147,7 +4353,9 @@
   "mailbox_owner": "Канцелярия ректора (Office of the Vice-Chancellor)",
   "addressee_name": "Sh. Sukhjeet Pal Singh, IAS",
   "addressee_title": "Исполняющий обязанности ректора (Vice-Chancellor, Additional Charge)",
-  "salutation": "Dear Mr. Sukhjeet Pal Singh,"
+  "salutation": "Dear Mr. Sukhjeet Pal Singh,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -4185,7 +4393,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Relations)",
   "addressee_name": "Prof. Ushvinder Kaur Popli",
   "addressee_title": "Декан по международным связям (Dean, International Relations)",
-  "salutation": "Dear Prof. Popli,"
+  "salutation": "Dear Prof. Popli,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -4224,7 +4434,9 @@
   "mailbox_owner": "Канцелярия ректора (Office of the Vice-Chancellor)",
   "addressee_name": "Prof. U. Kamachi Mudali",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Mudali,"
+  "salutation": "Dear Prof. Mudali,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -4264,7 +4476,9 @@
   "mailbox_owner": "Отдел глобального взаимодействия (Global Engagement section)",
   "addressee_name": "Dr. Vishal Kumar Gupta",
   "addressee_title": "Декан по учебной работе, контактное лицо Global Engagement (Dean (Academics))",
-  "salutation": "Dear Dr. Gupta,"
+  "salutation": "Dear Dr. Gupta,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -4304,7 +4518,9 @@
   "mailbox_owner": "Офис международных дел (Office of the International Affairs, бывш. University Foreign Relations Office)",
   "addressee_name": "Prof. B. Vijaya",
   "addressee_title": "Директор Офиса международных дел (Director, OIA)",
-  "salutation": "Dear Prof. Vijaya,"
+  "salutation": "Dear Prof. Vijaya,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -4344,7 +4560,9 @@
   "mailbox_owner": "Канцелярия ректора (Office of the Vice-Chancellor)",
   "addressee_name": "Prof. Ashutosh Ghosh",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Ghosh,"
+  "salutation": "Dear Prof. Ghosh,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -4383,7 +4601,9 @@
   "mailbox_owner": "Канцелярия регистратора (Office of the Registrar)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Dean of International Relations,"
+  "salutation": "Dear Dean of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -4422,7 +4642,9 @@
   "mailbox_owner": "Деканат по международным связям и делам выпускников (Dean – International Relations & Alumni Affairs)",
   "addressee_name": "Prof. Anirban Gupta",
   "addressee_title": "Декан по международным связям и делам выпускников",
-  "salutation": "Dear Prof. Gupta,"
+  "salutation": "Dear Prof. Gupta,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -4463,7 +4685,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Dean of International Relations,",
-  "recheck_ru": "04.10.2026: mmmut.ac.in по-прежнему недоступен (ошибка сертификата; WebFetch — 503); данные не изменены"
+  "recheck_ru": "04.10.2026: mmmut.ac.in по-прежнему недоступен (ошибка сертификата; WebFetch — 503); данные не изменены",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "India",
@@ -4503,7 +4727,9 @@
   "mailbox_owner": "Офис директора (Director's Office, PA to Director)",
   "addressee_name": "Prof. (Dr.) Anupam Shukla",
   "addressee_title": "Директор института",
-  "salutation": "Dear Prof. Shukla,"
+  "salutation": "Dear Prof. Shukla,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -4544,7 +4770,9 @@
   "mailbox_owner": "Офис международных дел (Office for International Affairs)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Dean of International Relations,"
+  "salutation": "Dear Dean of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -4584,7 +4812,9 @@
   "mailbox_owner": "Канцелярия ректора (Office of the Vice-Chancellor)",
   "addressee_name": "Prof. Dhruba Kumar Bhattacharyya",
   "addressee_title": "Исполняющий обязанности ректора (Vice-Chancellor, Acting)",
-  "salutation": "Dear Prof. Bhattacharyya,"
+  "salutation": "Dear Prof. Bhattacharyya,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -4624,7 +4854,9 @@
   "mailbox_owner": "Офис директора (Director's Office)",
   "addressee_name": "Prof. N. V. Ramana Rao",
   "addressee_title": "Директор института",
-  "salutation": "Dear Prof. Ramana Rao,"
+  "salutation": "Dear Prof. Ramana Rao,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -4666,7 +4898,9 @@
   "addressee_name": "Dr. V. Raj",
   "addressee_title": "Registrar (FAC)",
   "salutation": "Dear Dr. Raj,",
-  "recheck_ru": "Сайт открыт 04.10.2026: Комитет VC под председательством Thiru P. Ponniah, IAS, регистратор Dr. V. Raj (FAC) и телефоны подтверждены; e-mail на сайте по-прежнему не опубликован."
+  "recheck_ru": "Сайт открыт 04.10.2026: Комитет VC под председательством Thiru P. Ponniah, IAS, регистратор Dr. V. Raj (FAC) и телефоны подтверждены; e-mail на сайте по-прежнему не опубликован.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "India",
@@ -4705,7 +4939,9 @@
   "mailbox_owner": "Офис директора колледжа (Principal's Office)",
   "addressee_name": "Dr. K. Porkumaran",
   "addressee_title": "Директор колледжа (Principal)",
-  "salutation": "Dear Dr. Porkumaran,"
+  "salutation": "Dear Dr. Porkumaran,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -4745,7 +4981,9 @@
   "mailbox_owner": "Офис международных дел (Office of International Affairs)",
   "addressee_name": "",
   "addressee_title": "Директор по международным делам (Director, International Affairs)",
-  "salutation": "Dear Director of International Affairs,"
+  "salutation": "Dear Director of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -4783,7 +5021,9 @@
   "mailbox_owner": "Офис директора (Office of Director)",
   "addressee_name": "Prof. S. K. Patra",
   "addressee_title": "Директор института",
-  "salutation": "Dear Prof. Patra,"
+  "salutation": "Dear Prof. Patra,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -4824,7 +5064,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Relations)",
   "addressee_name": "Prof. Tarun Kanti Panda",
   "addressee_title": "Декан по международным связям (Dean, International Relations)",
-  "salutation": "Dear Prof. Panda,"
+  "salutation": "Dear Prof. Panda,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -4864,7 +5106,9 @@
   "mailbox_owner": "Офис принципала (Principal's Office)",
   "addressee_name": "Dr. N. K. Sakthivel",
   "addressee_title": "Принципал (руководитель института)",
-  "salutation": "Dear Dr. Sakthivel,"
+  "salutation": "Dear Dr. Sakthivel,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -4904,7 +5148,9 @@
   "mailbox_owner": "Офис международных связей и сотрудничества (Office of International Affairs and Collaborations, OIAC)",
   "addressee_name": "Dr. Anup Naha",
   "addressee_title": "Директор по международному сотрудничеству (Director, International Collaborations)",
-  "salutation": "Dear Dr. Naha,"
+  "salutation": "Dear Dr. Naha,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -4944,7 +5190,9 @@
   "mailbox_owner": "Отдел по связям с общественностью (Public Relations Office)",
   "addressee_name": "Dr. K. Subrahmaniyan",
   "addressee_title": "Регистратор и исполняющий обязанности вице-канцлера",
-  "salutation": "Dear Dr. Subrahmaniyan,"
+  "salutation": "Dear Dr. Subrahmaniyan,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -4984,7 +5232,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Relations)",
   "addressee_name": "Prof. Shailendra Goel",
   "addressee_title": "Декан по международным связям (наука и технологии)",
-  "salutation": "Dear Prof. Goel,"
+  "salutation": "Dear Prof. Goel,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -5026,7 +5276,9 @@
   "mailbox_owner": "Международный отдел Школы инженерии SIMATS (International Affairs, Saveetha School of Engineering)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Dean of International Relations,"
+  "salutation": "Dear Dean of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -5066,7 +5318,9 @@
   "mailbox_owner": "Центр международного образования Симбиозис (Symbiosis Centre for International Education, SCIE)",
   "addressee_name": "Dr. Anita Patankar",
   "addressee_title": "Директор Центра международного образования (SCIE)",
-  "salutation": "Dear Dr. Patankar,"
+  "salutation": "Dear Dr. Patankar,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "India",
@@ -5106,7 +5360,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Relations, OIR)",
   "addressee_name": "Prof. Rohit Yogendra Sharma",
   "addressee_title": "Декан по международным связям (Dean, International Relations)",
-  "salutation": "Dear Prof. Sharma,"
+  "salutation": "Dear Prof. Sharma,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -5146,7 +5402,9 @@
   "mailbox_owner": "Офис вице-канцлера (Vice-Chancellor's Office)",
   "addressee_name": "Prof. Aniruddha B. Pandit",
   "addressee_title": "Вице-канцлер",
-  "salutation": "Dear Prof. Pandit,"
+  "salutation": "Dear Prof. Pandit,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -5186,7 +5444,9 @@
   "mailbox_owner": "Отдел международных связей (International Affairs)",
   "addressee_name": "Prof. (Dr.) D. R. Gangodkar",
   "addressee_title": "Декан по международным связям (Dean, International Affairs)",
-  "salutation": "Dear Prof. Gangodkar,"
+  "salutation": "Dear Prof. Gangodkar,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -5226,7 +5486,9 @@
   "mailbox_owner": "Офис вице-канцлера (Vice-Chancellor's Office)",
   "addressee_name": "Prof. Ravindra D. Kulkarni",
   "addressee_title": "Вице-канцлер",
-  "salutation": "Dear Prof. Kulkarni,"
+  "salutation": "Dear Prof. Kulkarni,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -5265,7 +5527,9 @@
   "mailbox_owner": "Офис вице-канцлера (Vice-Chancellor's Office)",
   "addressee_name": "Dr. Uma Sekar",
   "addressee_title": "Вице-канцлер",
-  "salutation": "Dear Dr. Sekar,"
+  "salutation": "Dear Dr. Sekar,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -5306,7 +5570,9 @@
   "mailbox_owner": "Офис вице-канцлера (Vice-Chancellor's Office)",
   "addressee_name": "Prof. Ina Shastri",
   "addressee_title": "Вице-канцлер",
-  "salutation": "Dear Prof. Shastri,"
+  "salutation": "Dear Prof. Shastri,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -5346,7 +5612,9 @@
   "mailbox_owner": "Офис декана по связям с выпускниками и международным делам (Dean Alumni & International Affairs)",
   "addressee_name": "Prof. Mohammad Ashraf Shah",
   "addressee_title": "Декан по связям с выпускниками и международным делам",
-  "salutation": "Dear Prof. Shah,"
+  "salutation": "Dear Prof. Shah,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -5387,7 +5655,9 @@
   "mailbox_owner": "Офис вице-канцлера (Vice-Chancellor's Office)",
   "addressee_name": "Prof. (Dr.) M. S. Moodithaya",
   "addressee_title": "Вице-канцлер",
-  "salutation": "Dear Prof. Moodithaya,"
+  "salutation": "Dear Prof. Moodithaya,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -5429,7 +5699,9 @@
   "addressee_name": "",
   "addressee_title": "",
   "salutation": "Dear Dean of International Relations,",
-  "recheck_ru": "Сайт недоступен; данные не изменены, текущий руководитель не установлен."
+  "recheck_ru": "Сайт недоступен; данные не изменены, текущий руководитель не установлен.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "India",
@@ -5469,7 +5741,9 @@
   "mailbox_owner": "Международный образовательный центр / офис международных связей (International Education Cell, IEC)",
   "addressee_name": "Dr. Sasmita Mishra",
   "addressee_title": "Декан по международным связям",
-  "salutation": "Dear Dr. Mishra,"
+  "salutation": "Dear Dr. Mishra,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -5509,7 +5783,9 @@
   "mailbox_owner": "Общая приёмная университета (General Office)",
   "addressee_name": "Dr. Archana Mantri",
   "addressee_title": "Вице-канцлер",
-  "salutation": "Dear Dr. Mantri,"
+  "salutation": "Dear Dr. Mantri,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -5549,7 +5825,9 @@
   "mailbox_owner": "Офис директора (Director's Office)",
   "addressee_name": "Prof. Mukul S. Sutaone",
   "addressee_title": "Директор",
-  "salutation": "Dear Prof. Sutaone,"
+  "salutation": "Dear Prof. Sutaone,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -5589,7 +5867,9 @@
   "mailbox_owner": "Офис директора (Director's Office)",
   "addressee_name": "Prof. Mohan V. Aware",
   "addressee_title": "Директор",
-  "salutation": "Dear Prof. Aware,"
+  "salutation": "Dear Prof. Aware,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -5628,7 +5908,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Relations, OIR)",
   "addressee_name": "Prof. Baladitya Suri",
   "addressee_title": "Председатель Офиса международных связей (Chair, OIR)",
-  "salutation": "Dear Prof. Suri,"
+  "salutation": "Dear Prof. Suri,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -5667,7 +5949,9 @@
   "mailbox_owner": "Декан по международному сотрудничеству и рейтингам (Dean, International Engagement and Ranking)",
   "addressee_name": "Dr. Suriyanarayanan Sarvajayakesavalu",
   "addressee_title": "Декан по международному сотрудничеству и рейтингам",
-  "salutation": "Dear Dr. Sarvajayakesavalu,"
+  "salutation": "Dear Dr. Sarvajayakesavalu,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -5706,7 +5990,9 @@
   "mailbox_owner": "Декан по партнёрствам и аккредитации (Dean of Partnerships and Accreditations)",
   "addressee_name": "Dr. Ajay Batish",
   "addressee_title": "Декан по партнёрствам и аккредитации; проректор (Pro-Vice Chancellor)",
-  "salutation": "Dear Dr. Batish,"
+  "salutation": "Dear Dr. Batish,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -5745,7 +6031,9 @@
   "mailbox_owner": "Канцелярия ректора (Office of the Vice-Chancellor)",
   "addressee_name": "Dr. S. V. Suresha",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Dr. Suresha,"
+  "salutation": "Dear Dr. Suresha,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -5784,7 +6072,9 @@
   "mailbox_owner": "Офис декана по международным связям (Office of Dean of International Relations)",
   "addressee_name": "Prof. Karun Rawat",
   "addressee_title": "Декан по международным связям (Dean of International Relations)",
-  "salutation": "Dear Prof. Rawat,"
+  "salutation": "Dear Prof. Rawat,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -5824,7 +6114,9 @@
   "mailbox_owner": "Декан по международным связям (Dean, International Relations)",
   "addressee_name": "Prof. Rajni Singh",
   "addressee_title": "Декан по международным связям (Dean, International Relations)",
-  "salutation": "Dear Prof. Singh,"
+  "salutation": "Dear Prof. Singh,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -5863,7 +6155,9 @@
   "mailbox_owner": "Общая администрация (General Administration)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Dean of International Relations,"
+  "salutation": "Dear Dean of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -5902,7 +6196,9 @@
   "mailbox_owner": "Канцелярия регистратора (Office of the Registrar)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Dean of International Relations,"
+  "salutation": "Dear Dean of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -5940,7 +6236,9 @@
   "mailbox_owner": "Отдел международных связей (International Relations)",
   "addressee_name": "Dr. Shehrevar Davierwala",
   "addressee_title": "Директор по международным связям (Director, International Relations)",
-  "salutation": "Dear Dr. Davierwala,"
+  "salutation": "Dear Dr. Davierwala,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -5979,7 +6277,9 @@
   "mailbox_owner": "Канцелярия директора (Director's Office)",
   "addressee_name": "Prof. Arvind Choubey",
   "addressee_title": "Директор",
-  "salutation": "Dear Prof. Choubey,"
+  "salutation": "Dear Prof. Choubey,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -6017,7 +6317,9 @@
   "mailbox_owner": "Офис декана по промышленности и международным делам (Office of Dean, Industry and International Affairs, DIIA)",
   "addressee_name": "Prof. Ajay Bansal",
   "addressee_title": "Декан по промышленности и международным делам (Dean, Industry and International Affairs)",
-  "salutation": "Dear Prof. Bansal,"
+  "salutation": "Dear Prof. Bansal,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -6055,7 +6357,9 @@
   "mailbox_owner": "Канцелярия ректора (Office of the Vice-Chancellor)",
   "addressee_name": "Dr. R. Sridhar",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Dr. Sridhar,"
+  "salutation": "Dear Dr. Sridhar,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -6094,7 +6398,9 @@
   "mailbox_owner": "Общий ящик университета (General Office)",
   "addressee_name": "",
   "addressee_title": "",
-  "salutation": "Dear Dean of International Relations,"
+  "salutation": "Dear Dean of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -6134,7 +6440,9 @@
   "mailbox_owner": "Канцелярия директора колледжа (Office of the Principal)",
   "addressee_name": "Dr. B. Sathish Babu",
   "addressee_title": "Директор колледжа (Principal)",
-  "salutation": "Dear Dr. Sathish Babu,"
+  "salutation": "Dear Dr. Sathish Babu,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -6174,7 +6482,9 @@
   "mailbox_owner": "Директорат по зарубежным связям (Directorate of University Foreign Relations, UFR)",
   "addressee_name": "Dr. D. Vasumathi",
   "addressee_title": "Директор по зарубежным связям (Director, University Foreign Relations)",
-  "salutation": "Dear Dr. Vasumathi,"
+  "salutation": "Dear Dr. Vasumathi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -6213,7 +6523,9 @@
   "mailbox_owner": "Канцелярия ректора (Office of the Vice-Chancellor)",
   "addressee_name": "Prof. Dr. Rajat Gupta",
   "addressee_title": "Ректор (Vice-Chancellor)",
-  "salutation": "Dear Prof. Gupta,"
+  "salutation": "Dear Prof. Gupta,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -6251,7 +6563,9 @@
   "mailbox_owner": "Декан по связям с выпускниками и внешним связям (Dean of Alumni and External Relations, DAER)",
   "addressee_name": "Prof. Pramod Kumar Singh",
   "addressee_title": "Декан по связям с выпускниками и внешним связям",
-  "salutation": "Dear Prof. Singh,"
+  "salutation": "Dear Prof. Singh,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -6291,7 +6605,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Relations)",
   "addressee_name": "Prof. Dr. Nitin Sakhare",
   "addressee_title": "Главный специалист по международным связям (Chief International Relations Officer)",
-  "salutation": "Dear Prof. Sakhare,"
+  "salutation": "Dear Prof. Sakhare,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -6330,7 +6646,9 @@
   "mailbox_owner": "Канцелярия директора (Director's Office)",
   "addressee_name": "Prof. Dhirendra S. Katti",
   "addressee_title": "Директор",
-  "salutation": "Dear Prof. Katti,"
+  "salutation": "Dear Prof. Katti,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -6369,7 +6687,9 @@
   "mailbox_owner": "Канцелярия директора (Directorate)",
   "addressee_name": "Prof. O. R. Jaiswal",
   "addressee_title": "Директор",
-  "salutation": "Dear Prof. Jaiswal,"
+  "salutation": "Dear Prof. Jaiswal,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -6408,7 +6728,9 @@
   "mailbox_owner": "Офис вице-канцлера (Vice-Chancellor's Office)",
   "addressee_name": "Prof. Sunil Bhirud",
   "addressee_title": "Вице-канцлер (ректор)",
-  "salutation": "Dear Prof. Bhirud,"
+  "salutation": "Dear Prof. Bhirud,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -6447,7 +6769,9 @@
   "mailbox_owner": "Общий адрес института / приёмная директора (Principal's Office)",
   "addressee_name": "Dr. Chandra Shekar S. M.",
   "addressee_title": "Директор (Principal)",
-  "salutation": "Dear Dr. Chandra Shekar,"
+  "salutation": "Dear Dr. Chandra Shekar,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -6487,7 +6811,9 @@
   "mailbox_owner": "Офис международных связей (International Affairs Office)",
   "addressee_name": "",
   "addressee_title": "Руководитель офиса международных связей",
-  "salutation": "Dear Head of International Affairs,"
+  "salutation": "Dear Head of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -6528,7 +6854,9 @@
   "addressee_name": "Dr. Malini V. Shankar",
   "addressee_title": "Вице-канцлер (ректор)",
   "salutation": "Dear Dr. Shankar,",
-  "recheck_ru": "Сайт imu.edu.in недоступен (curl — нет соединения, WebFetch 503) 04.10.2026; данные не изменены."
+  "recheck_ru": "Сайт imu.edu.in недоступен (curl — нет соединения, WebFetch 503) 04.10.2026; данные не изменены.",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -6568,7 +6896,9 @@
   "mailbox_owner": "Офис международного сотрудничества (Coordinator, International Collaborations and International Students)",
   "addressee_name": "",
   "addressee_title": "Координатор международного сотрудничества",
-  "salutation": "Dear Coordinator of International Collaborations,"
+  "salutation": "Dear Coordinator of International Collaborations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -6607,7 +6937,9 @@
   "mailbox_owner": "Общий адрес университета (info)",
   "addressee_name": "Prof. Pradipta Kumar Nanda",
   "addressee_title": "Вице-канцлер (ректор)",
-  "salutation": "Dear Prof. Nanda,"
+  "salutation": "Dear Prof. Nanda,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -6645,7 +6977,9 @@
   "mailbox_owner": "Центр глобального академического сотрудничества (Centre for Global Academics, CGA)",
   "addressee_name": "Prof. Biju Terrence",
   "addressee_title": "Директор Центра глобального академического сотрудничества",
-  "salutation": "Dear Prof. Terrence,"
+  "salutation": "Dear Prof. Terrence,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -6687,7 +7021,9 @@
   "addressee_name": "Prof. Nilofer Khan",
   "addressee_title": "Вице-канцлер (ректор)",
   "salutation": "Dear Prof. Khan,",
-  "recheck_ru": "04.10.2026: kashmiruniversity.net недоступен; ректор подтверждается только СМИ/поиском — данные не изменены."
+  "recheck_ru": "04.10.2026: kashmiruniversity.net недоступен; ректор подтверждается только СМИ/поиском — данные не изменены.",
+  "match_status": "нет ящика",
+  "match_action": "Найти e-mail международного отдела или канцелярии"
  },
  {
   "country": "India",
@@ -6725,7 +7061,9 @@
   "mailbox_owner": "Офис декана по международным делам и делам выпускников (Dean, International and Alumni Affairs)",
   "addressee_name": "Prof. M. M. Sharma",
   "addressee_title": "Декан по международным делам и делам выпускников",
-  "salutation": "Dear Prof. Sharma,"
+  "salutation": "Dear Prof. Sharma,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -6764,7 +7102,9 @@
   "mailbox_owner": "Офис регистратора (Registrar)",
   "addressee_name": "",
   "addressee_title": "Регистратор",
-  "salutation": "Dear Registrar,"
+  "salutation": "Dear Registrar,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -6803,7 +7143,9 @@
   "mailbox_owner": "Офис декана по международным связям (Dean, International Relations)",
   "addressee_name": "Dr. Kolleboyina Jayaramulu",
   "addressee_title": "Декан по международным связям",
-  "salutation": "Dear Dr. Jayaramulu,"
+  "salutation": "Dear Dr. Jayaramulu,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -6841,7 +7183,9 @@
   "mailbox_owner": "Офис директора (PA to Director)",
   "addressee_name": "Prof. K. Umamaheshwar Rao",
   "addressee_title": "Директор",
-  "salutation": "Dear Prof. Rao,"
+  "salutation": "Dear Prof. Rao,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -6879,7 +7223,9 @@
   "mailbox_owner": "Офис директора колледжа (Principal's Office)",
   "addressee_name": "Dr. G. Thilagavathi",
   "addressee_title": "Директор колледжа (Principal, врио)",
-  "salutation": "Dear Dr. Thilagavathi,"
+  "salutation": "Dear Dr. Thilagavathi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -6918,7 +7264,9 @@
   "mailbox_owner": "Общий адрес университета (контакт на сайте)",
   "addressee_name": "Prof. Nazir Ahmad Ganai",
   "addressee_title": "Вице-канцлер (ректор)",
-  "salutation": "Dear Prof. Ganai,"
+  "salutation": "Dear Prof. Ganai,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -6956,7 +7304,9 @@
   "mailbox_owner": "Офис директора (Director)",
   "addressee_name": "Prof. Goutam Sutradhar",
   "addressee_title": "Директор",
-  "salutation": "Dear Prof. Sutradhar,"
+  "salutation": "Dear Prof. Sutradhar,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -6993,7 +7343,9 @@
   "mailbox_owner": "Департамент международных связей (International Relations)",
   "addressee_name": "Dr. Ashok Daryani",
   "addressee_title": "Директор по международным связям",
-  "salutation": "Dear Dr. Daryani,"
+  "salutation": "Dear Dr. Daryani,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -7031,7 +7383,9 @@
   "mailbox_owner": "Офис международных связей (International Affairs & Collaboration)",
   "addressee_name": "Dr. Jyoti Pruthi",
   "addressee_title": "Директор по международным делам и сотрудничеству",
-  "salutation": "Dear Dr. Pruthi,"
+  "salutation": "Dear Dr. Pruthi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -7072,7 +7426,9 @@
   "addressee_name": "Dr. Ramandeep Saini",
   "addressee_title": "Декан по международным делам",
   "salutation": "Dear Dr. Saini,",
-  "recheck_ru": "Сайт cecmohali.org повторно открыт 04.10.2026: Director-Principal Dr. Sukhpreet Kaur, декан по междунар. делам Dr. Ramandeep Saini, адрес и admissions@cgc.edu.in подтверждены; противоречие с Dr. Rajdeep Singh объяснено частично (он — Campus Director CGC Landran)."
+  "recheck_ru": "Сайт cecmohali.org повторно открыт 04.10.2026: Director-Principal Dr. Sukhpreet Kaur, декан по междунар. делам Dr. Ramandeep Saini, адрес и admissions@cgc.edu.in подтверждены; противоречие с Dr. Rajdeep Singh объяснено частично (он — Campus Director CGC Landran).",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик приёмной комиссии/вебмастера — найти ящик международного отдела"
  },
  {
   "country": "India",
@@ -7110,7 +7466,9 @@
   "mailbox_owner": "Отдел международного приёма (International Admissions)",
   "addressee_name": "",
   "addressee_title": "Руководитель отдела международного приёма",
-  "salutation": "Dear International Office Team,"
+  "salutation": "Dear International Office Team,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -7148,7 +7506,9 @@
   "mailbox_owner": "Офис директора (Director)",
   "addressee_name": "Prof. S. Sundar",
   "addressee_title": "Директор",
-  "salutation": "Dear Prof. Sundar,"
+  "salutation": "Dear Prof. Sundar,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -7188,7 +7548,9 @@
   "mailbox_owner": "Международный офис (International Office)",
   "addressee_name": "",
   "addressee_title": "Руководитель международного офиса",
-  "salutation": "Dear Head of the International Office,"
+  "salutation": "Dear Head of the International Office,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -7228,7 +7590,9 @@
   "mailbox_owner": "Отдел международных программ и сотрудничества (International Programmes and Collaboration Division, IPCD)",
   "addressee_name": "Prof. Srinivas Krishnaswamy",
   "addressee_title": "Декан по международным программам и сотрудничеству (Dean, IPCD)",
-  "salutation": "Dear Prof. Krishnaswamy,"
+  "salutation": "Dear Prof. Krishnaswamy,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -7267,7 +7631,9 @@
   "mailbox_owner": "Офис глобального взаимодействия / международных связей (Global Engagement Office, International Affairs)",
   "addressee_name": "",
   "addressee_title": "Руководитель офиса международных связей (Head, International Affairs)",
-  "salutation": "Dear Head of International Affairs,"
+  "salutation": "Dear Head of International Affairs,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -7306,7 +7672,9 @@
   "mailbox_owner": "Офис международных связей (Office of International Relations, OIR)",
   "addressee_name": "Dr. Hareesh N. Ramanathan",
   "addressee_title": "Директор по международным связям (Director – International Relations)",
-  "salutation": "Dear Dr. Ramanathan,"
+  "salutation": "Dear Dr. Ramanathan,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -7345,7 +7713,9 @@
   "mailbox_owner": "Офис по связям с выпускниками, корпоративным и международным связям (Alumni, Corporate and International Relations, ACIR)",
   "addressee_name": "Prof. Kaustubha Mohanty",
   "addressee_title": "Декан по связям с выпускниками, корпоративным и международным связям (Dean of Alumni, Corporate and International Relations)",
-  "salutation": "Dear Prof. Mohanty,"
+  "salutation": "Dear Prof. Mohanty,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -7384,7 +7754,9 @@
   "mailbox_owner": "Офис директора (Director's Office)",
   "addressee_name": "Prof. B. Ravi",
   "addressee_title": "Директор",
-  "salutation": "Dear Prof. Ravi,"
+  "salutation": "Dear Prof. Ravi,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -7422,7 +7794,9 @@
   "mailbox_owner": "Отдел международных связей (International Relations Division)",
   "addressee_name": "Prof. Satinder K. Sharma",
   "addressee_title": "Руководитель отдела международных связей (Head, International Relations)",
-  "salutation": "Dear Prof. Sharma,"
+  "salutation": "Dear Prof. Sharma,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -7463,47 +7837,9 @@
   "mailbox_owner": "Офис декана по делам иностранных студентов (Dean International Students, DIS)",
   "addressee_name": "",
   "addressee_title": "Декан по делам иностранных студентов и международному сотрудничеству",
-  "salutation": "Dear Dean of International Students,"
- },
- {
-  "country": "India",
-  "name_en": "UPES (University of Petroleum and Energy Studies)",
-  "name_native": "UPES (University of Petroleum and Energy Studies)",
-  "city": "Дехрадун",
-  "ownership": "Частный",
-  "profile_type": "technical/aerospace",
-  "main_fields": "Engineering (incl. Aerospace, Petroleum & Energy), Computer Science, Business, Law, Design, Health Sciences",
-  "postal_address": "UPES, Bidholi Campus, P.O. Bidholi via Prem Nagar, Dehradun 248007, Uttarakhand, India",
-  "email_general": "",
-  "email_international": "international@upes.ac.in",
-  "phone": "+91 135 2770137; +91 9997799474; toll-free 1800 102 8737",
-  "website": "https://www.upes.ac.in",
-  "head_name": "Dr. Sunil Rai",
-  "head_title": "Vice-Chancellor",
-  "party_secretary": "",
-  "head_verified_source": "https://www.upes.ac.in/leadership/vice-chancellor-dr-sunil-rai",
-  "rank_qs": "QS2027: 901–950",
-  "rank_the": "THE2027: 601–650",
-  "rank_national": "NIRF2025 Engineering: 43",
-  "satellites_launched": 0,
-  "satellite_names": "",
-  "sats_in_development": "",
-  "ground_station": "",
-  "space_units": "",
-  "agency_partnerships": "",
-  "restricted_list": "",
-  "sources": "https://www.upes.ac.in/; https://www.upes.ac.in/contact; https://www.upes.ac.in/global-university; https://www.upes.ac.in/leadership/vice-chancellor-dr-sunil-rai; nanosats.csv; QS WUR 2027 list (qianmu.org mirror); THE WUR 2027",
-  "confidence": "medium",
-  "notes_ru": [
-   "Высшее лицо — President Dr. Ram K. Sharma; Vice-Chancellor — Dr. Sunil Rai",
-   "Общий e-mail руководства не опубликован (только enrollments@upes.ac.in — приёмная комиссия)",
-   "Руководитель Office of International Affairs на сайте не указан; старший из перечисленных — Dr. Shubham Sharma, Deputy Director OIA",
-   "Проект CubeSat Cu-REO (1U) отменён (nanosats.eu); запущенных спутников нет"
-  ],
-  "mailbox_owner": "Офис международных отношений (Office of International Affairs, OIA)",
-  "addressee_name": "Dr. Shubham Sharma",
-  "addressee_title": "Заместитель директора Офиса международных отношений (Deputy Director – Office of International Affairs)",
-  "salutation": "Dear Dr. Sharma,"
+  "salutation": "Dear Dean of International Students,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -7542,7 +7878,9 @@
   "mailbox_owner": "Офис директора (Director's Office)",
   "addressee_name": "Prof. Dilip Kumar Baidya",
   "addressee_title": "Директор",
-  "salutation": "Dear Prof. Baidya,"
+  "salutation": "Dear Prof. Baidya,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -7582,7 +7920,9 @@
   "mailbox_owner": "Международный центр (International Centre)",
   "addressee_name": "Dr. Vijay Khare",
   "addressee_title": "Директор Международного центра (Director, International Centre)",
-  "salutation": "Dear Dr. Khare,"
+  "salutation": "Dear Dr. Khare,",
+  "match_status": "ПРОВЕРИТЬ",
+  "match_action": "Ящик личный, имя адресата не совпадает с владельцем — уточнить владельца ящика"
  },
  {
   "country": "India",
@@ -7623,7 +7963,9 @@
   "mailbox_owner": "Отдел международного приёма (International Admissions)",
   "addressee_name": "",
   "addressee_title": "Руководитель международного отдела",
-  "salutation": "Dear Head of International Relations,"
+  "salutation": "Dear Head of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -7663,7 +8005,9 @@
   "mailbox_owner": "Ответственный за студенческий обмен (Faculty-in-charge, Student Exchange)",
   "addressee_name": "Prof. Sachit Rao",
   "addressee_title": "Ответственный за программы студенческого обмена (Faculty-in-charge Student Exchange), доцент",
-  "salutation": "Dear Prof. Rao,"
+  "salutation": "Dear Prof. Rao,",
+  "match_status": "личный, совпало",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -7703,7 +8047,9 @@
   "mailbox_owner": "Директорат по международным связям (Directorate of International Relations)",
   "addressee_name": "",
   "addressee_title": "Директор по международным связям",
-  "salutation": "Dear Director of International Relations,"
+  "salutation": "Dear Director of International Relations,",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -7745,7 +8091,9 @@
   "addressee_name": "",
   "addressee_title": "Директор ISCC",
   "salutation": "Dear Director of International Students Centre and Collaborations,",
-  "recheck_ru": "Сайт mzu.edu.in по-прежнему недоступен (ошибка TLS-сертификата), DIPR Mizoram — 403; данные не изменены"
+  "recheck_ru": "Сайт mzu.edu.in по-прежнему недоступен (ошибка TLS-сертификата), DIPR Mizoram — 403; данные не изменены",
+  "match_status": "нет имени",
+  "match_action": "Письмо с нейтральным обращением; имя найти при проверке сайта"
  },
  {
   "country": "India",
@@ -7759,7 +8107,7 @@
   "email_general": "auceaprincipal@andhrauniversity.edu.in",
   "email_international": "",
   "phone": "+91 891 2844999; +91 891 2754586 (Principal)",
-  "website": "https://www.andhrauniversity.edu.in/college/college-of-engineering/",
+  "website": "https://www.andhrauniversity.edu.in/college/college-of-engineering",
   "head_name": "Prof. M. Shashi",
   "head_title": "Principal, AU College of Engineering (A) (constituent college of Andhra University; Vice-Chancellor of Andhra University: Prof. G. P. Raja Sekhar)",
   "party_secretary": "",
@@ -7788,7 +8136,9 @@
   "addressee_name": "Prof. M. Shashi",
   "addressee_title": "Принципал (директор) инженерного колледжа",
   "salutation": "Dear Prof. Shashi,",
-  "recheck_ru": "Сайт andhrauniversity.edu.in недоступен (сброс/503, 04.10.2026, curl и WebFetch); данные не изменены"
+  "recheck_ru": "Сайт andhrauniversity.edu.in недоступен (сброс/503, 04.10.2026, curl и WebFetch); данные не изменены",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -7828,7 +8178,9 @@
   "mailbox_owner": "Офис приёма иностранных студентов (International Admission Office)",
   "addressee_name": "Dr. Nitin Gupta",
   "addressee_title": "Ответственный за приём иностранных студентов (In-charge DASA and Foreign Admissions)",
-  "salutation": "Dear Dr. Gupta,"
+  "salutation": "Dear Dr. Gupta,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -7867,7 +8219,9 @@
   "mailbox_owner": "Общий ящик колледжа / офис принципала",
   "addressee_name": "Dr. A. Ramesh",
   "addressee_title": "Принципал (директор колледжа)",
-  "salutation": "Dear Dr. Ramesh,"
+  "salutation": "Dear Dr. Ramesh,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -7907,7 +8261,9 @@
   "mailbox_owner": "Офис принципала (Principal's Office)",
   "addressee_name": "Dr. R. Parameshwaran",
   "addressee_title": "Принципал (директор колледжа)",
-  "salutation": "Dear Dr. Parameshwaran,"
+  "salutation": "Dear Dr. Parameshwaran,",
+  "match_status": "ящик общий",
+  "match_action": ""
  },
  {
   "country": "India",
@@ -7946,6 +8302,8 @@
   "mailbox_owner": "Офис международных связей (Office of International Relations)",
   "addressee_name": "Prof. Santosh K. Singh",
   "addressee_title": "Профессор, ответственный за международные связи (Professor In-Charge, International Relations)",
-  "salutation": "Dear Prof. Singh,"
+  "salutation": "Dear Prof. Singh,",
+  "match_status": "ящик общий",
+  "match_action": ""
  }
 ]
